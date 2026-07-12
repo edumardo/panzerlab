@@ -96,7 +96,7 @@ Printed-page ranges and the section data files that cover them (EN → _es for S
 4. **Bild 22 table:** fully transcribed & translated (36 lubrication points, intervals 250/500/2000 km + special cases, lubricant, count, operation, 2 footnotes) in BOTH editions.
 5. **Bild 7 & Bild 20:** left as image + short key only (gear ratios/tooth counts and wiring codes NOT transcribed into a table — by decision).
 6. **File-size control:** embedded scans are **downsampled to JPEG** in `mimg/` (text pages capped ~1000 px, plates ~1300 px, quality 82). Keeps each master ≈ 20 MB / PDF ≈ 24 MB instead of ~150 MB, with no visible loss. Standalone Sec6 (EN) still uses full-res PNG (≈ 61 MB).
-7. **Title-page credit (both editions, Version 1.0):** "Compiled by / Compilado por Eduardo Delgado Díaz (edelgadodiaz@gmail.com) — Asociación de Amigos del Museo Histórico Militar de Cartagena (AAMMILCAR, aammilcar@gmail.com)" + "Original file / Fichero original: https://bushmakow.com/" + "Version / Versión 1.0".
+7. **Title-page credit (both editions, Version 1.0):** "Compiled by / Compilado por Eduardo Delgado Díaz (edelgadodiaz@gmail.com, https://github.com/edumardo/panzerlab) — Asociación de Amigos del Museo Histórico Militar de Cartagena (AAMMILCAR, aammilcar@gmail.com)" + "Original file / Fichero original: https://bushmakow.com/" + "Version / Versión 1.0".
 
 ### English (DE-EN)
 - **British spelling** (armour, tyre, gearbox, colour…).
@@ -117,9 +117,9 @@ Printed-page ranges and the section data files that cover them (EN → _es for S
 ## 5. File inventory
 
 ### Deliverables (canonical names)
-- **English:** `StuG_D652-41a_MANUAL_COMPLETE_en.docx` / `.pdf` — 135 pages.
-- **Spanish:** `StuG_D652-41a_MANUAL_COMPLETE_es.docx` / `.pdf` — 138 pages.
-- **EN by-section set:** `StuG_D652-41a_Sec1_Hull-Engine_pp09-14.docx` … `Sec5_SpecialInstr-Driving_pp63-69.docx`, plus `Sec6_Bilder_Plates01-31.docx` (≈ 61 MB, full-res plates).
+- **English:** `D.652-41a_en_v1.0.docx` / `.pdf` — 135 pages.
+- **Spanish:** `D.652-41a_es_v1.0.docx` / `.pdf` — 138 pages.
+- **EN by-section set:** `D.652-41a_en_Sec1_v1.0.docx` … `D.652-41a_en_Sec5_v1.0.docx`, plus `D.652-41a_en_Sec6_v1.0.docx` (≈ 61 MB, full-res plates).
 - (ES by-section set: not built yet — can be generated the same way from the *_es.js data if wanted.)
 
 ### Build scripts (Node.js + `docx` npm library)
@@ -127,13 +127,14 @@ Printed-page ranges and the section data files that cover them (EN → _es for S
 - `make_plate.js` — reusable builder for plates. Exports `buildPlates(data,out)`, `platePages`. Plate fields: `bild,titleDe,titleEn,img,w,h,key[{de,en}],notes[],tableData{...}`. `tableData` renders a full translated table after the key (used for Bild 22). Key-bar title = `process.env.KEYTITLE` || English default. Also honours `MIMG`.
 - Text-section data: `sec0.js`…`sec5.js` (EN) and `sec0_es.js`…`sec5_es.js` (ES); each exports `{ data }` and self-builds only when run directly (`require.main===module`).
 - Plate data: `sec6.js`/`sec6b.js` (EN), `sec6_es.js`/`sec6b_es.js` (ES). `sec6_build.js` concatenates and builds the standalone EN Sec6.
-- Masters: `master.js` → `StuG_D652-41a_MANUAL_COMPLETE_en.docx`; `master_es.js` → `StuG_D652-41a_MANUAL_COMPLETE_es.docx`. Each sets `MIMG` (+ ES sets `PAGELABEL`/`KEYTITLE`), assembles title page + front matter + Sec1–5 + all plates, continuous pagination.
+- Masters: `master.js` → `D.652-41a_en_v1.0.docx`; `master_es.js` → `D.652-41a_es_v1.0.docx`. Each sets `MIMG` (+ ES sets `PAGELABEL`/`KEYTITLE`), assembles title page + front matter + Sec1–5 + all plates, continuous pagination.
 - `sec6_sample.js` — single-plate sample (Bild 1) used to validate the plate format. `buildES_phase1.js` — Spanish Phase-1 validation doc (front matter + Sec1). `build_docx.js` — original portrait sample (superseded).
 
 ### Image pipeline (Python + Pillow)
 - `extract.py` — extracts clean base images per PDF page via `pdfimages`, splits into L/R halves → `pages_clean/` (full res) and `read/` (≤1400 px).
 - `recrop.py` — re-crops printed pages from `full_clean/sheetNN.png` with overlap (LEFT_R=0.53 / RIGHT_L=0.47) to fix cut-off text at the gutter.
-- Directories: `full_clean/` = full-res spreads sheet01–65 (plates use these). `pages_clean/` = split printed pages `pNNN.png` + covers `pdf01_R.png` etc. `read/` = ≤1400 px reading copies. `mimg/` = downsampled JPEGs (+PNGs) for the masters.
+- All of these scripts, the data files, the working image dirs and `node_modules/` live inside the **`D.652-41a/`** subfolder (the document's processing home); the finished deliverables and this guide sit one level up, at the outputs root. Run regeneration from inside `D.652-41a/`.
+- Directories (inside `D.652-41a/`): `full_clean/` = full-res spreads sheet01–65 (plates use these). `pages_clean/` = split printed pages `pNNN.png` + covers `pdf01_R.png` etc. `read/` = ≤1400 px reading copies. `mimg/` = downsampled JPEGs (+PNGs) for the masters.
 
 ---
 
@@ -142,6 +143,8 @@ Printed-page ranges and the section data files that cover them (EN → _es for S
 Environment: Node.js with `docx` installed locally; Python 3 with Pillow; `pdfimages`/`pdftoppm`/`pdftotext` (poppler); LibreOffice (`soffice`) for PDF export. Source PDF read-only in `uploads/`.
 
 ```bash
+cd D.652-41a                  # scripts, working dirs and node_modules live here
+
 # (once) extract clean, watermark-free page images
 python3 extract.py            # -> pages_clean/, read/
 python3 recrop.py 1 65        # -> re-crop printed pages from full_clean/
@@ -153,11 +156,11 @@ python3 recrop.py 1 65        # -> re-crop printed pages from full_clean/
 node sec1.js                  # EN …  (ES data files have no standalone build wired yet)
 
 # rebuild the standalone EN plates document
-node sec6_build.js            # -> StuG_D652-41a_Sec6_Bilder_Plates01-31.docx
+node sec6_build.js            # -> D.652-41a_en_Sec6_v1.0.docx
 
 # rebuild the masters
-node master.js                # -> StuG_D652-41a_MANUAL_COMPLETE_en.docx
-node master_es.js             # -> StuG_D652-41a_MANUAL_COMPLETE_es.docx
+node master.js                # -> D.652-41a_en_v1.0.docx
+node master_es.js             # -> D.652-41a_es_v1.0.docx
 
 # export any docx to PDF (write to a NEW name; this FS sometimes blocks overwriting)
 soffice --headless --convert-to pdf --outdir . <file>.docx
