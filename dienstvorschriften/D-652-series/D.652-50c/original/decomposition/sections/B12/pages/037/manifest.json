@@ -20,5 +20,12 @@
       "path": "figures/fig054.jpg",
       "status": "candidate_crop"
     }
+  ],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    85,
+    95,
+    1225,
+    1974
   ]
 }

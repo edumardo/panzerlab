@@ -14,7 +14,8 @@
     "image": "source.jpg",
     "pdf_spread": 10,
     "side": "right",
-    "status": "extracted_clean"
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
   },
   "navigation": {
     "previous": "d65250c-page-016",

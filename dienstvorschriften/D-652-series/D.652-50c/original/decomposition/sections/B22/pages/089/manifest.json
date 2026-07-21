@@ -20,5 +20,12 @@
       "path": "figures/fig157.jpg",
       "status": "candidate_crop"
     }
+  ],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    0,
+    99,
+    1382,
+    2017
   ]
 }

@@ -20,5 +20,12 @@
       "path": "figures/fig002.jpg",
       "status": "validated"
     }
+  ],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    51,
+    102,
+    1254,
+    1989
   ]
 }

@@ -9,5 +9,12 @@
   "transcription_status": "draft",
   "translation_en_status": "draft",
   "translation_es_status": "draft",
-  "figures": []
+  "figures": [],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    20,
+    82,
+    1348,
+    2017
+  ]
 }

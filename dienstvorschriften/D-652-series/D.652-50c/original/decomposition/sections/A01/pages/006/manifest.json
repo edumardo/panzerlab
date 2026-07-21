@@ -20,5 +20,12 @@
       "path": "figures/fig004.jpg",
       "status": "validated"
     }
+  ],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    119,
+    70,
+    1348,
+    2019
   ]
 }

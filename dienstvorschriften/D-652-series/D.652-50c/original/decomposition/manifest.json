@@ -215,6 +215,13 @@
           "path": "figures/fig002.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        51,
+        102,
+        1254,
+        1989
       ]
     },
     {
@@ -239,6 +246,13 @@
           "path": "figures/fig004.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        119,
+        70,
+        1348,
+        2019
       ]
     },
     {
@@ -252,7 +266,14 @@
       "transcription_status": "validated",
       "translation_en_status": "validated",
       "translation_es_status": "validated",
-      "figures": []
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        59,
+        102,
+        1251,
+        1989
+      ]
     },
     {
       "page": 8,
@@ -276,6 +297,13 @@
           "path": "figures/fig006.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        120,
+        84,
+        1348,
+        2015
       ]
     },
     {
@@ -300,6 +328,13 @@
           "path": "figures/fig008.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        64,
+        102,
+        1252,
+        1987
       ]
     },
     {
@@ -324,6 +359,13 @@
           "path": "figures/fig010.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        120,
+        78,
+        1348,
+        2014
       ]
     },
     {
@@ -348,6 +390,13 @@
           "path": "figures/fig012.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        71,
+        102,
+        1251,
+        1987
       ]
     },
     {
@@ -372,6 +421,13 @@
           "path": "figures/fig014.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        119,
+        77,
+        1348,
+        2013
       ]
     },
     {
@@ -396,6 +452,13 @@
           "path": "figures/fig016.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        78,
+        102,
+        1252,
+        1987
       ]
     },
     {
@@ -420,6 +483,13 @@
           "path": "figures/fig018.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        118,
+        73,
+        1348,
+        2011
       ]
     },
     {
@@ -444,6 +514,13 @@
           "path": "figures/fig020.jpg",
           "status": "validated"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        85,
+        102,
+        1251,
+        1987
       ]
     },
     {
@@ -454,10 +531,17 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        118,
+        73,
+        1348,
+        2011
+      ]
     },
     {
       "page": 17,
@@ -467,9 +551,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 21,
@@ -481,6 +565,13 @@
           "path": "figures/fig022.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        88,
+        102,
+        1251,
+        1986
       ]
     },
     {
@@ -491,9 +582,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 23,
@@ -505,6 +596,13 @@
           "path": "figures/fig024.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        113,
+        86,
+        1348,
+        2004
       ]
     },
     {
@@ -515,9 +613,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 25,
@@ -529,6 +627,13 @@
           "path": "figures/fig026.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        87,
+        105,
+        1248,
+        1985
       ]
     },
     {
@@ -539,9 +644,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 27,
@@ -553,6 +658,13 @@
           "path": "figures/fig028.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        113,
+        69,
+        1348,
+        2002
       ]
     },
     {
@@ -563,10 +675,17 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        93,
+        105,
+        1248,
+        1985
+      ]
     },
     {
       "page": 22,
@@ -576,20 +695,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 29,
           "path": "figures/fig029.jpg",
           "status": "candidate_crop"
-        },
-        {
-          "number": 30,
-          "path": "figures/fig030.jpg",
-          "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        112,
+        53,
+        1348,
+        2022
       ]
     },
     {
@@ -600,9 +721,55 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 30,
+          "path": "figures/fig030.jpg",
+          "status": "candidate_crop"
+        }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        97,
+        105,
+        1246,
+        1985
+      ]
+    },
+    {
+      "page": 24,
+      "section": "A08",
+      "pdf_spread": 14,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        112,
+        75,
+        1348,
+        2002
+      ]
+    },
+    {
+      "page": 25,
+      "section": "A09",
+      "pdf_spread": 14,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 31,
@@ -614,32 +781,26 @@
           "path": "figures/fig032.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        102,
+        104,
+        1247,
+        1983
       ]
     },
     {
-      "page": 24,
-      "section": "A08",
-      "pdf_spread": 14,
+      "page": 26,
+      "section": "A09",
+      "pdf_spread": 15,
       "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
-    },
-    {
-      "page": 25,
-      "section": "A09",
-      "pdf_spread": 14,
-      "side": "right",
-      "source_scan": "source.jpg",
-      "content": "content.json",
-      "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 33,
@@ -651,19 +812,26 @@
           "path": "figures/fig034.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        110,
+        63,
+        1348,
+        2020
       ]
     },
     {
-      "page": 26,
+      "page": 27,
       "section": "A09",
       "pdf_spread": 15,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 35,
@@ -675,19 +843,26 @@
           "path": "figures/fig036.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        103,
+        106,
+        1245,
+        1984
       ]
     },
     {
-      "page": 27,
+      "page": 28,
       "section": "A09",
-      "pdf_spread": 15,
-      "side": "right",
+      "pdf_spread": 16,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 37,
@@ -699,19 +874,46 @@
           "path": "figures/fig038.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        110,
+        61,
+        1348,
+        1999
       ]
     },
     {
-      "page": 28,
-      "section": "A09",
+      "page": 29,
+      "section": "A10",
       "pdf_spread": 16,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        102,
+        106,
+        1246,
+        1985
+      ]
+    },
+    {
+      "page": 30,
+      "section": "A11",
+      "pdf_spread": 17,
       "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 39,
@@ -723,32 +925,26 @@
           "path": "figures/fig040.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        109,
+        53,
+        1348,
+        1993
       ]
     },
     {
-      "page": 29,
-      "section": "A10",
-      "pdf_spread": 16,
+      "page": 31,
+      "section": "A11",
+      "pdf_spread": 17,
       "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
-    },
-    {
-      "page": 30,
-      "section": "A11",
-      "pdf_spread": 17,
-      "side": "left",
-      "source_scan": "source.jpg",
-      "content": "content.json",
-      "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 41,
@@ -760,19 +956,26 @@
           "path": "figures/fig042.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        111,
+        106,
+        1243,
+        1984
       ]
     },
     {
-      "page": 31,
-      "section": "A11",
-      "pdf_spread": 17,
-      "side": "right",
+      "page": 32,
+      "section": "B12",
+      "pdf_spread": 18,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 43,
@@ -784,19 +987,26 @@
           "path": "figures/fig044.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        147,
+        57,
+        1348,
+        1992
       ]
     },
     {
-      "page": 32,
+      "page": 33,
       "section": "B12",
       "pdf_spread": 18,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 45,
@@ -808,19 +1018,26 @@
           "path": "figures/fig046.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        149,
+        88,
+        1287,
+        1966
       ]
     },
     {
-      "page": 33,
+      "page": 34,
       "section": "B12",
-      "pdf_spread": 18,
-      "side": "right",
+      "pdf_spread": 19,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 47,
@@ -832,19 +1049,26 @@
           "path": "figures/fig048.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        79,
+        69,
+        1348,
+        2003
       ]
     },
     {
-      "page": 34,
+      "page": 35,
       "section": "B12",
       "pdf_spread": 19,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 49,
@@ -856,19 +1080,26 @@
           "path": "figures/fig050.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        84,
+        96,
+        1225,
+        1976
       ]
     },
     {
-      "page": 35,
+      "page": 36,
       "section": "B12",
-      "pdf_spread": 19,
-      "side": "right",
+      "pdf_spread": 20,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 51,
@@ -880,19 +1111,26 @@
           "path": "figures/fig052.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        76,
+        62,
+        1348,
+        2003
       ]
     },
     {
-      "page": 36,
+      "page": 37,
       "section": "B12",
       "pdf_spread": 20,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 53,
@@ -904,19 +1142,26 @@
           "path": "figures/fig054.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        85,
+        95,
+        1225,
+        1974
       ]
     },
     {
-      "page": 37,
+      "page": 38,
       "section": "B12",
-      "pdf_spread": 20,
-      "side": "right",
+      "pdf_spread": 21,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 55,
@@ -928,19 +1173,26 @@
           "path": "figures/fig056.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        62,
+        1348,
+        2007
       ]
     },
     {
-      "page": 38,
+      "page": 39,
       "section": "B12",
       "pdf_spread": 21,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 57,
@@ -952,19 +1204,26 @@
           "path": "figures/fig058.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        86,
+        95,
+        1382,
+        1976
       ]
     },
     {
-      "page": 39,
+      "page": 40,
       "section": "B12",
-      "pdf_spread": 21,
-      "side": "right",
+      "pdf_spread": 22,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 59,
@@ -976,19 +1235,26 @@
           "path": "figures/fig060.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        73,
+        62,
+        1348,
+        2006
       ]
     },
     {
-      "page": 40,
+      "page": 41,
       "section": "B12",
       "pdf_spread": 22,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 61,
@@ -1000,19 +1266,26 @@
           "path": "figures/fig062.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        87,
+        95,
+        1382,
+        1976
       ]
     },
     {
-      "page": 41,
+      "page": 42,
       "section": "B12",
-      "pdf_spread": 22,
-      "side": "right",
+      "pdf_spread": 23,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 63,
@@ -1024,19 +1297,26 @@
           "path": "figures/fig064.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        100,
+        73,
+        1348,
+        2008
       ]
     },
     {
-      "page": 42,
+      "page": 43,
       "section": "B12",
       "pdf_spread": 23,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 65,
@@ -1048,19 +1328,26 @@
           "path": "figures/fig066.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        114,
+        110,
+        1235,
+        1987
       ]
     },
     {
-      "page": 43,
+      "page": 44,
       "section": "B12",
-      "pdf_spread": 23,
-      "side": "right",
+      "pdf_spread": 24,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 67,
@@ -1072,19 +1359,26 @@
           "path": "figures/fig068.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        97,
+        51,
+        1348,
+        2017
       ]
     },
     {
-      "page": 44,
+      "page": 45,
       "section": "B12",
       "pdf_spread": 24,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 69,
@@ -1096,19 +1390,26 @@
           "path": "figures/fig070.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        112,
+        101,
+        1235,
+        1976
       ]
     },
     {
-      "page": 45,
+      "page": 46,
       "section": "B12",
-      "pdf_spread": 24,
-      "side": "right",
+      "pdf_spread": 25,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 71,
@@ -1120,19 +1421,26 @@
           "path": "figures/fig072.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        98,
+        59,
+        1348,
+        1994
       ]
     },
     {
-      "page": 46,
-      "section": "B12",
+      "page": 47,
+      "section": "B13",
       "pdf_spread": 25,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 73,
@@ -1144,19 +1452,26 @@
           "path": "figures/fig074.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        115,
+        97,
+        1239,
+        1973
       ]
     },
     {
-      "page": 47,
+      "page": 48,
       "section": "B13",
-      "pdf_spread": 25,
-      "side": "right",
+      "pdf_spread": 26,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 75,
@@ -1168,19 +1483,26 @@
           "path": "figures/fig076.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        89,
+        56,
+        1348,
+        1998
       ]
     },
     {
-      "page": 48,
+      "page": 49,
       "section": "B13",
       "pdf_spread": 26,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 77,
@@ -1192,19 +1514,26 @@
           "path": "figures/fig078.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        112,
+        94,
+        1234,
+        1973
       ]
     },
     {
-      "page": 49,
+      "page": 50,
       "section": "B13",
-      "pdf_spread": 26,
-      "side": "right",
+      "pdf_spread": 27,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 79,
@@ -1216,19 +1545,26 @@
           "path": "figures/fig080.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        119,
+        73,
+        1348,
+        2010
       ]
     },
     {
-      "page": 50,
+      "page": 51,
       "section": "B13",
       "pdf_spread": 27,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 81,
@@ -1240,19 +1576,26 @@
           "path": "figures/fig082.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        141,
+        117,
+        1257,
+        1991
       ]
     },
     {
-      "page": 51,
+      "page": 52,
       "section": "B13",
-      "pdf_spread": 27,
-      "side": "right",
+      "pdf_spread": 28,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 83,
@@ -1264,19 +1607,26 @@
           "path": "figures/fig084.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        112,
+        71,
+        1348,
+        2011
       ]
     },
     {
-      "page": 52,
+      "page": 53,
       "section": "B13",
       "pdf_spread": 28,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 85,
@@ -1288,19 +1638,26 @@
           "path": "figures/fig086.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        139,
+        118,
+        1248,
+        1993
       ]
     },
     {
-      "page": 53,
+      "page": 54,
       "section": "B13",
-      "pdf_spread": 28,
-      "side": "right",
+      "pdf_spread": 29,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 87,
@@ -1312,19 +1669,26 @@
           "path": "figures/fig088.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        113,
+        71,
+        1348,
+        2010
       ]
     },
     {
-      "page": 54,
+      "page": 55,
       "section": "B13",
       "pdf_spread": 29,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 89,
@@ -1336,19 +1700,26 @@
           "path": "figures/fig090.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        141,
+        119,
+        1248,
+        1994
       ]
     },
     {
-      "page": 55,
+      "page": 56,
       "section": "B13",
-      "pdf_spread": 29,
-      "side": "right",
+      "pdf_spread": 30,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 91,
@@ -1360,19 +1731,26 @@
           "path": "figures/fig092.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        81,
+        72,
+        1348,
+        2018
       ]
     },
     {
-      "page": 56,
+      "page": 57,
       "section": "B13",
       "pdf_spread": 30,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 93,
@@ -1384,19 +1762,26 @@
           "path": "figures/fig094.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        112,
+        117,
+        1225,
+        1992
       ]
     },
     {
-      "page": 57,
+      "page": 58,
       "section": "B13",
-      "pdf_spread": 30,
-      "side": "right",
+      "pdf_spread": 31,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 95,
@@ -1408,19 +1793,26 @@
           "path": "figures/fig096.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        76,
+        74,
+        1348,
+        2026
       ]
     },
     {
-      "page": 58,
+      "page": 59,
       "section": "B13",
       "pdf_spread": 31,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 97,
@@ -1432,19 +1824,26 @@
           "path": "figures/fig098.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        117,
+        1225,
+        1995
       ]
     },
     {
-      "page": 59,
+      "page": 60,
       "section": "B13",
-      "pdf_spread": 31,
-      "side": "right",
+      "pdf_spread": 32,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 99,
@@ -1456,19 +1855,26 @@
           "path": "figures/fig100.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        80,
+        77,
+        1348,
+        2004
       ]
     },
     {
-      "page": 60,
+      "page": 61,
       "section": "B13",
       "pdf_spread": 32,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 101,
@@ -1480,19 +1886,26 @@
           "path": "figures/fig102.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        49,
+        116,
+        1218,
+        1996
       ]
     },
     {
-      "page": 61,
+      "page": 62,
       "section": "B13",
-      "pdf_spread": 32,
-      "side": "right",
+      "pdf_spread": 33,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 103,
@@ -1504,19 +1917,26 @@
           "path": "figures/fig104.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        83,
+        73,
+        1348,
+        2120
       ]
     },
     {
-      "page": 62,
+      "page": 63,
       "section": "B13",
       "pdf_spread": 33,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 105,
@@ -1528,19 +1948,26 @@
           "path": "figures/fig106.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        54,
+        117,
+        1222,
+        1994
       ]
     },
     {
-      "page": 63,
+      "page": 64,
       "section": "B13",
-      "pdf_spread": 33,
-      "side": "right",
+      "pdf_spread": 34,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 107,
@@ -1552,19 +1979,26 @@
           "path": "figures/fig108.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        81,
+        72,
+        1348,
+        2022
       ]
     },
     {
-      "page": 64,
+      "page": 65,
       "section": "B13",
       "pdf_spread": 34,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 109,
@@ -1576,19 +2010,26 @@
           "path": "figures/fig110.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        45,
+        105,
+        1221,
+        1994
       ]
     },
     {
-      "page": 65,
+      "page": 66,
       "section": "B13",
-      "pdf_spread": 34,
-      "side": "right",
+      "pdf_spread": 35,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 111,
@@ -1600,19 +2041,26 @@
           "path": "figures/fig112.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        75,
+        70,
+        1348,
+        2120
       ]
     },
     {
-      "page": 66,
+      "page": 67,
       "section": "B13",
       "pdf_spread": 35,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 113,
@@ -1624,19 +2072,26 @@
           "path": "figures/fig114.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        30,
+        93,
+        1219,
+        1999
       ]
     },
     {
-      "page": 67,
-      "section": "B13",
-      "pdf_spread": 35,
-      "side": "right",
+      "page": 68,
+      "section": "B14",
+      "pdf_spread": 36,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 115,
@@ -1648,19 +2103,26 @@
           "path": "figures/fig116.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        54,
+        1348,
+        2003
       ]
     },
     {
-      "page": 68,
+      "page": 69,
       "section": "B14",
       "pdf_spread": 36,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 117,
@@ -1672,19 +2134,26 @@
           "path": "figures/fig118.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        30,
+        78,
+        1382,
+        1990
       ]
     },
     {
-      "page": 69,
-      "section": "B14",
-      "pdf_spread": 36,
-      "side": "right",
+      "page": 70,
+      "section": "B15",
+      "pdf_spread": 37,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 119,
@@ -1696,19 +2165,26 @@
           "path": "figures/fig120.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        45,
+        1348,
+        1999
       ]
     },
     {
-      "page": 70,
+      "page": 71,
       "section": "B15",
       "pdf_spread": 37,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 121,
@@ -1720,19 +2196,26 @@
           "path": "figures/fig122.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        13,
+        70,
+        1382,
+        1990
       ]
     },
     {
-      "page": 71,
+      "page": 72,
       "section": "B15",
-      "pdf_spread": 37,
-      "side": "right",
+      "pdf_spread": 38,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 123,
@@ -1744,19 +2227,26 @@
           "path": "figures/fig124.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        59,
+        65,
+        1348,
+        2007
       ]
     },
     {
-      "page": 72,
+      "page": 73,
       "section": "B15",
       "pdf_spread": 38,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 125,
@@ -1768,19 +2258,26 @@
           "path": "figures/fig126.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        7,
+        89,
+        1226,
+        2010
       ]
     },
     {
-      "page": 73,
-      "section": "B15",
-      "pdf_spread": 38,
-      "side": "right",
+      "page": 74,
+      "section": "B16",
+      "pdf_spread": 39,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 127,
@@ -1792,19 +2289,26 @@
           "path": "figures/fig128.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        45,
+        0,
+        1348,
+        2004
       ]
     },
     {
-      "page": 74,
+      "page": 75,
       "section": "B16",
       "pdf_spread": 39,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 129,
@@ -1816,19 +2320,26 @@
           "path": "figures/fig130.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1217,
+        2010
       ]
     },
     {
-      "page": 75,
+      "page": 76,
       "section": "B16",
-      "pdf_spread": 39,
-      "side": "right",
+      "pdf_spread": 40,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 131,
@@ -1840,19 +2351,26 @@
           "path": "figures/fig132.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1348,
+        2002
       ]
     },
     {
-      "page": 76,
+      "page": 77,
       "section": "B16",
       "pdf_spread": 40,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 133,
@@ -1864,19 +2382,26 @@
           "path": "figures/fig134.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        45,
+        1382,
+        1997
       ]
     },
     {
-      "page": 77,
-      "section": "B16",
-      "pdf_spread": 40,
-      "side": "right",
+      "page": 78,
+      "section": "B17",
+      "pdf_spread": 41,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 135,
@@ -1888,19 +2413,26 @@
           "path": "figures/fig136.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1348,
+        1986
       ]
     },
     {
-      "page": 78,
-      "section": "B17",
+      "page": 79,
+      "section": "B18",
       "pdf_spread": 41,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 137,
@@ -1912,19 +2444,26 @@
           "path": "figures/fig138.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1382,
+        2120
       ]
     },
     {
-      "page": 79,
+      "page": 80,
       "section": "B18",
-      "pdf_spread": 41,
-      "side": "right",
+      "pdf_spread": 42,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 139,
@@ -1936,19 +2475,26 @@
           "path": "figures/fig140.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        53,
+        1348,
+        2006
       ]
     },
     {
-      "page": 80,
+      "page": 81,
       "section": "B18",
       "pdf_spread": 42,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 141,
@@ -1960,19 +2506,26 @@
           "path": "figures/fig142.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        59,
+        1382,
+        2007
       ]
     },
     {
-      "page": 81,
-      "section": "B18",
-      "pdf_spread": 42,
-      "side": "right",
+      "page": 82,
+      "section": "B19",
+      "pdf_spread": 43,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 143,
@@ -1984,19 +2537,26 @@
           "path": "figures/fig144.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1348,
+        2015
       ]
     },
     {
-      "page": 82,
+      "page": 83,
       "section": "B19",
       "pdf_spread": 43,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 145,
@@ -2008,19 +2568,26 @@
           "path": "figures/fig146.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        39,
+        1382,
+        2120
       ]
     },
     {
-      "page": 83,
+      "page": 84,
       "section": "B19",
-      "pdf_spread": 43,
-      "side": "right",
+      "pdf_spread": 44,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 147,
@@ -2032,19 +2599,26 @@
           "path": "figures/fig148.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        59,
+        72,
+        1348,
+        2037
       ]
     },
     {
-      "page": 84,
+      "page": 85,
       "section": "B19",
       "pdf_spread": 44,
-      "side": "left",
+      "side": "right",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 149,
@@ -2056,19 +2630,26 @@
           "path": "figures/fig150.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        102,
+        1382,
+        2018
       ]
     },
     {
-      "page": 85,
+      "page": 86,
       "section": "B19",
-      "pdf_spread": 44,
-      "side": "right",
+      "pdf_spread": 45,
+      "side": "left",
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 151,
@@ -2080,30 +2661,13 @@
           "path": "figures/fig152.jpg",
           "status": "candidate_crop"
         }
-      ]
-    },
-    {
-      "page": 86,
-      "section": "B19",
-      "pdf_spread": 45,
-      "side": "left",
-      "source_scan": "source.jpg",
-      "content": "content.json",
-      "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": [
-        {
-          "number": 153,
-          "path": "figures/fig153.jpg",
-          "status": "candidate_crop"
-        },
-        {
-          "number": 154,
-          "path": "figures/fig154.jpg",
-          "status": "candidate_crop"
-        }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        58,
+        70,
+        1348,
+        2038
       ]
     },
     {
@@ -2114,15 +2678,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
-          "number": 155,
-          "path": "figures/fig155.jpg",
+          "number": 153,
+          "path": "figures/fig153.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        102,
+        1382,
+        2018
       ]
     },
     {
@@ -2133,10 +2704,28 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 154,
+          "path": "figures/fig154.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 155,
+          "path": "figures/fig155.jpg",
+          "status": "validated"
+        }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        55,
+        74,
+        1348,
+        2039
+      ]
     },
     {
       "page": 89,
@@ -2146,9 +2735,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 156,
@@ -2160,6 +2749,13 @@
           "path": "figures/fig157.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        99,
+        1382,
+        2017
       ]
     },
     {
@@ -2170,9 +2766,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 158,
@@ -2184,6 +2780,13 @@
           "path": "figures/fig159.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        51,
+        78,
+        1348,
+        2043
       ]
     },
     {
@@ -2194,9 +2797,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 160,
@@ -2208,6 +2811,13 @@
           "path": "figures/fig161.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        101,
+        1382,
+        2120
       ]
     },
     {
@@ -2218,9 +2828,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 162,
@@ -2232,6 +2842,13 @@
           "path": "figures/fig163.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        49,
+        74,
+        1348,
+        2062
       ]
     },
     {
@@ -2242,9 +2859,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 164,
@@ -2256,6 +2873,13 @@
           "path": "figures/fig165.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        89,
+        1382,
+        2035
       ]
     },
     {
@@ -2266,9 +2890,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 166,
@@ -2280,6 +2904,13 @@
           "path": "figures/fig167.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        45,
+        0,
+        1348,
+        2046
       ]
     },
     {
@@ -2290,9 +2921,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 168,
@@ -2304,6 +2935,13 @@
           "path": "figures/fig169.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1382,
+        2120
       ]
     },
     {
@@ -2314,9 +2952,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 170,
@@ -2328,6 +2966,13 @@
           "path": "figures/fig171.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        45,
+        81,
+        1348,
+        2120
       ]
     },
     {
@@ -2338,9 +2983,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 172,
@@ -2352,6 +2997,13 @@
           "path": "figures/fig173.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        101,
+        1382,
+        2120
       ]
     },
     {
@@ -2362,9 +3014,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 174,
@@ -2376,6 +3028,13 @@
           "path": "figures/fig175.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        43,
+        77,
+        1348,
+        2120
       ]
     },
     {
@@ -2386,9 +3045,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 176,
@@ -2400,6 +3059,13 @@
           "path": "figures/fig177.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        98,
+        1382,
+        2032
       ]
     },
     {
@@ -2410,9 +3076,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 178,
@@ -2424,6 +3090,13 @@
           "path": "figures/fig179.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        42,
+        0,
+        1348,
+        2120
       ]
     },
     {
@@ -2434,9 +3107,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 180,
@@ -2448,6 +3121,13 @@
           "path": "figures/fig181.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        0,
+        1382,
+        2120
       ]
     },
     {
@@ -2458,9 +3138,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 182,
@@ -2472,6 +3152,13 @@
           "path": "figures/fig183.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        43,
+        81,
+        1348,
+        2120
       ]
     },
     {
@@ -2482,9 +3169,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 184,
@@ -2496,6 +3183,13 @@
           "path": "figures/fig185.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        98,
+        1382,
+        2032
       ]
     },
     {
@@ -2506,9 +3200,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 186,
@@ -2520,6 +3214,13 @@
           "path": "figures/fig187.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        41,
+        85,
+        1348,
+        2120
       ]
     },
     {
@@ -2530,9 +3231,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 188,
@@ -2544,6 +3245,13 @@
           "path": "figures/fig189.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        92,
+        1382,
+        2120
       ]
     },
     {
@@ -2554,9 +3262,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 190,
@@ -2568,6 +3276,13 @@
           "path": "figures/fig191.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        41,
+        89,
+        1348,
+        2046
       ]
     },
     {
@@ -2578,9 +3293,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 192,
@@ -2592,6 +3307,13 @@
           "path": "figures/fig193.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        85,
+        1382,
+        2120
       ]
     },
     {
@@ -2602,15 +3324,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 194,
           "path": "figures/fig194.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        38,
+        93,
+        1348,
+        2043
       ]
     },
     {
@@ -2621,9 +3350,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 195,
@@ -2635,6 +3364,13 @@
           "path": "figures/fig196.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        94,
+        1382,
+        2120
       ]
     },
     {
@@ -2645,15 +3381,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 197,
           "path": "figures/fig197.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        38,
+        95,
+        1348,
+        2042
       ]
     },
     {
@@ -2664,9 +3407,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 198,
@@ -2678,6 +3421,13 @@
           "path": "figures/fig199.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        94,
+        1382,
+        2120
       ]
     },
     {
@@ -2688,15 +3438,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 200,
           "path": "figures/fig200.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        36,
+        94,
+        1348,
+        2042
       ]
     },
     {
@@ -2707,9 +3464,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 201,
@@ -2721,6 +3478,13 @@
           "path": "figures/fig202.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        98,
+        1382,
+        2120
       ]
     },
     {
@@ -2731,9 +3495,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 203,
@@ -2745,6 +3509,13 @@
           "path": "figures/fig204.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        37,
+        98,
+        1348,
+        2042
       ]
     },
     {
@@ -2755,9 +3526,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 205,
@@ -2769,6 +3540,13 @@
           "path": "figures/fig206.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        97,
+        1382,
+        2120
       ]
     },
     {
@@ -2779,9 +3557,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 207,
@@ -2793,6 +3571,13 @@
           "path": "figures/fig208.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        34,
+        0,
+        1348,
+        2044
       ]
     },
     {
@@ -2803,9 +3588,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 209,
@@ -2817,6 +3602,13 @@
           "path": "figures/fig210.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        97,
+        1382,
+        2120
       ]
     },
     {
@@ -2827,9 +3619,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 211,
@@ -2841,6 +3633,13 @@
           "path": "figures/fig212.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        28,
+        102,
+        1348,
+        2036
       ]
     },
     {
@@ -2851,9 +3650,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 213,
@@ -2865,6 +3664,13 @@
           "path": "figures/fig214.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        98,
+        1382,
+        2120
       ]
     },
     {
@@ -2875,9 +3681,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 215,
@@ -2889,6 +3695,13 @@
           "path": "figures/fig216.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        26,
+        101,
+        1348,
+        2040
       ]
     },
     {
@@ -2899,9 +3712,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 217,
@@ -2913,6 +3726,13 @@
           "path": "figures/fig218.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        101,
+        1382,
+        2120
       ]
     },
     {
@@ -2923,9 +3743,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 219,
@@ -2937,6 +3757,13 @@
           "path": "figures/fig220.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        23,
+        102,
+        1348,
+        2039
       ]
     },
     {
@@ -2947,9 +3774,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 221,
@@ -2961,6 +3788,13 @@
           "path": "figures/fig222.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        101,
+        1382,
+        2120
       ]
     },
     {
@@ -2971,9 +3805,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 223,
@@ -2985,6 +3819,13 @@
           "path": "figures/fig224.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        20,
+        102,
+        1348,
+        2035
       ]
     },
     {
@@ -2995,9 +3836,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 225,
@@ -3009,6 +3850,13 @@
           "path": "figures/fig226.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        100,
+        1382,
+        2120
       ]
     },
     {
@@ -3019,9 +3867,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 227,
@@ -3033,6 +3881,13 @@
           "path": "figures/fig228.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        19,
+        101,
+        1348,
+        2037
       ]
     },
     {
@@ -3043,9 +3898,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 229,
@@ -3057,6 +3912,13 @@
           "path": "figures/fig230.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        98,
+        1382,
+        2120
       ]
     },
     {
@@ -3067,9 +3929,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 231,
@@ -3081,6 +3943,13 @@
           "path": "figures/fig232.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        16,
+        94,
+        1348,
+        2029
       ]
     },
     {
@@ -3091,9 +3960,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 233,
@@ -3105,6 +3974,13 @@
           "path": "figures/fig234.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        103,
+        1382,
+        2120
       ]
     },
     {
@@ -3115,9 +3991,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 235,
@@ -3129,6 +4005,13 @@
           "path": "figures/fig236.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        14,
+        82,
+        1348,
+        2028
       ]
     },
     {
@@ -3139,15 +4022,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 237,
           "path": "figures/fig237.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        107,
+        1315,
+        2120
       ]
     },
     {
@@ -3158,9 +4048,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 238,
@@ -3172,6 +4062,13 @@
           "path": "figures/fig239.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        30,
+        98,
+        1348,
+        2021
       ]
     },
     {
@@ -3182,9 +4079,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 240,
@@ -3196,6 +4093,13 @@
           "path": "figures/fig241.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        102,
+        1382,
+        2120
       ]
     },
     {
@@ -3206,15 +4110,22 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 242,
           "path": "figures/fig242.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        28,
+        78,
+        1348,
+        2019
       ]
     },
     {
@@ -3225,9 +4136,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 243,
@@ -3239,6 +4150,13 @@
           "path": "figures/fig244.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        101,
+        1382,
+        2120
       ]
     },
     {
@@ -3249,9 +4167,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 245,
@@ -3263,6 +4181,13 @@
           "path": "figures/fig246.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        23,
+        101,
+        1348,
+        2020
       ]
     },
     {
@@ -3273,9 +4198,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 247,
@@ -3287,6 +4212,13 @@
           "path": "figures/fig248.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        102,
+        1382,
+        2120
       ]
     },
     {
@@ -3297,9 +4229,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 249,
@@ -3311,6 +4243,13 @@
           "path": "figures/fig250.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        22,
+        103,
+        1348,
+        2020
       ]
     },
     {
@@ -3321,9 +4260,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 251,
@@ -3335,6 +4274,13 @@
           "path": "figures/fig252.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        102,
+        1382,
+        2120
       ]
     },
     {
@@ -3345,9 +4291,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 253,
@@ -3359,6 +4305,13 @@
           "path": "figures/fig254.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        22,
+        92,
+        1348,
+        2019
       ]
     },
     {
@@ -3369,9 +4322,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": [
         {
           "number": 255,
@@ -3383,6 +4336,13 @@
           "path": "figures/fig256.jpg",
           "status": "candidate_crop"
         }
+      ],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        118,
+        1382,
+        2120
       ]
     },
     {
@@ -3393,10 +4353,17 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        20,
+        82,
+        1348,
+        2017
+      ]
     },
     {
       "page": 143,
@@ -3406,10 +4373,17 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [],
+      "display_scan": "source_display.jpg",
+      "display_scan_crop_box_px": [
+        0,
+        121,
+        1382,
+        2120
+      ]
     }
   ]
 }

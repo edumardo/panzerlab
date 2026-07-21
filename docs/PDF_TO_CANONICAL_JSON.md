@@ -171,9 +171,21 @@ Never infer order from filesystem enumeration. Store it explicitly.
     "cover": false,
     "header": false,
     "footer": false
-  }
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
 }
 ```
+
+`layout` selects the section's export mode. Two values are in use:
+
+- `A4_portrait_source_left_translation_right_or_two_figures`: the original
+  per-figure-crop export (source text/paragraphs alongside up to two figure
+  crops per page).
+- `A4_portrait_facsimile_then_translation`: each source page is exported as a
+  full facsimile page followed by a translation page listing that page's
+  title and figure captions (see §9 and
+  `original/decomposition/scripts/export_facsimile_pdf.py`). Adopt this value
+  when a section drops per-figure crops in favour of full-page facsimiles.
 
 ### 3.5 Page manifest
 
@@ -198,9 +210,14 @@ belongs in `content.json`.
       "path": "figures/fig001.jpg",
       "status": "validated"
     }
-  ]
+  ],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [120, 84, 1348, 2015]
 }
 ```
+
+`display_scan` and `display_scan_crop_box_px` are optional — present only when
+Step 4b generated a trimmed display copy of `source.jpg`.
 
 ### 3.6 Page `content.json`
 
@@ -223,7 +240,8 @@ This is the main unit consumed by web, DOCX, and PDF exporters.
     "image": "source.jpg",
     "pdf_page": 4,
     "side": "right",
-    "status": "extracted_clean"
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
   },
   "navigation": {
     "previous": "manual001-page-004",
@@ -405,7 +423,32 @@ Record:
 - final dimensions;
 - optional SHA-256 checksum.
 
-### Step 5. Detect and crop figures
+### Step 4b. Generate a display crop (optional)
+
+Raw scans can include stray scan-bed background (marble, cloth, sticky tabs)
+bleeding in around the printed page. When this happens, generate a derived
+`source_display.jpg` next to `source.jpg` that trims this background for
+display, without ever overwriting or replacing `source.jpg` itself:
+
+```text
+sections/A03/pages/008/source.jpg           # untouched archival scan
+sections/A03/pages/008/source_display.jpg   # derived, regenerable crop
+```
+
+Record `display_scan` (page manifest) and `source.display_image`
+(`content.json`) pointing at the derived file, plus the pixel crop box used, so
+the crop is reproducible if the crop heuristic or the scan is redone. A script
+that performs this step must be idempotent and must state that it only ever
+writes the derived file and its own metadata fields, never `source.jpg`. See
+`original/decomposition/scripts/generate_display_crops.py` for the reference
+implementation (a warm-paper vs. cool-background heuristic scanning inward
+from each edge).
+
+### Step 5. Detect and crop figures (per-section, see 3.4 `layout`)
+
+Sections whose manifest `layout` is
+`A4_portrait_source_left_translation_right_or_two_figures` still need
+individual figure crops:
 
 Create automatic crops as candidates first. Do not validate them until checking:
 
@@ -417,6 +460,14 @@ Create automatic crops as candidates first. Do not validate them until checking:
 
 For plates and tables, preserve a complete page image even when smaller details
 are also cropped.
+
+Sections whose manifest `layout` is `A4_portrait_facsimile_then_translation`
+skip this step: the exported facsimile page already shows the complete
+original page, so per-figure crop files are optional archival extras rather
+than a rendering requirement. Figure objects still carry their `number` and
+translated `captions`/`label_keys` — those remain canonical content consumed
+by the translation page — but `figures[].image`/`figures[].path` may be
+omitted.
 
 ### Step 6. Transcribe the source language
 
@@ -596,6 +647,24 @@ one dimension.
 
 Generate the final PDF from canonical content or from an already validated DOCX,
 not from a separate reconstruction.
+
+### 9.1 Facsimile-then-translation export mode
+
+For sections with `layout: "A4_portrait_facsimile_then_translation"`, the
+exporter instead:
+
+1. renders the full page image (`source.display_image` when present, else
+   `source.image`), scaled to fill the page while preserving aspect ratio, with
+   no per-figure splitting;
+2. follows it with a translation page listing that page's title and every
+   figure's caption, one language block per target language (bilingual — all
+   requested languages together, not one exported file per language).
+
+Because this mode shows the untouched original page directly, per-figure crop
+files are not required to produce it (see §5 Step 5). Bilingual output does not
+belong under a single-language `en/` or `es/` directory; save it under
+`bilingual/` (see AGENTS.md naming conventions). Reference implementation:
+`original/decomposition/scripts/export_facsimile_pdf.py`.
 
 ---
 

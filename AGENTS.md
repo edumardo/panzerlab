@@ -45,7 +45,8 @@ translations, and document-processing utilities.
             │       ├── sections/
             │       └── scripts/
             ├── en/
-            └── es/
+            ├── es/
+            └── bilingual/
 ```
 
 ## Naming conventions
@@ -59,6 +60,11 @@ translations, and document-processing utilities.
   `_v1.0`. Increase it on meaningful revisions.
 - **Language directories**: use language codes such as `en/`, `es/`, or `fr/`.
   The German source remains under `original/`.
+- **Bilingual exports**: a `bilingual/` directory holds exports that show more
+  than one target language side by side on the same page (for example a
+  facsimile-then-translation export listing EN and ES together), so they are
+  not misfiled under a single-language directory. Name files
+  `<document-designation>_bilingual_<section>_v<version>.pdf`.
 
 ## Document metadata
 
@@ -115,6 +121,16 @@ creating or changing a decomposition.
 - Production exporters must reject required content that is not validated.
 - Translations must be made from the original language, not through another
   translation.
+- A section's `manifest.json` `layout` field selects its export mode.
+  `A4_portrait_facsimile_then_translation` shows the full original page
+  (`source_display.jpg` when present, else `source.jpg`) followed by a
+  translation page listing the section's titles and figure captions; per-figure
+  crop images are then optional archival data, not a rendering requirement.
+  Other sections keep the per-figure-crop layout until they adopt the
+  facsimile approach.
+- `source_display.jpg` (when present next to a page's `source.jpg`) is a
+  derived, regenerable crop that trims scan background/edges for display. It
+  never replaces `source.jpg`, which stays as the untouched archival scan.
 
 ## Series indexes
 

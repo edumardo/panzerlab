@@ -9,5 +9,12 @@
   "transcription_status": "validated",
   "translation_en_status": "validated",
   "translation_es_status": "validated",
-  "figures": []
+  "figures": [],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    59,
+    102,
+    1251,
+    1989
+  ]
 }
