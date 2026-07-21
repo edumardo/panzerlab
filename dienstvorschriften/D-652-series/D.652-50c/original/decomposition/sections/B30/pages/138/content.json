@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild249",
       "number": 249,
-      "image": "figures/fig249.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schwungrad so weit herumdrehen, bis das Zeichen 1 und 6 oben zwischen den beiden Zylinderreihen mit dem Aufhängeauge in einer Richtung steht.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild250",
       "number": 250,
-      "image": "figures/fig250.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Zylinderkopfdichtungen auf das Motorgehäuse legen. Antriebsstirnräder der Nockenwelle so einstellen, daß die Einstellzeichen mit den Oberkanten der Zylinderköpfe übereinstehen. Zylinderköpfe auf den Zylinderblock setzen. (Einstellzeichen dürfen sich nicht verstellen.)",

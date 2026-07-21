@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild065",
       "number": 65,
-      "image": "figures/fig065.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Splinte aus den Kronenmuttern entfernen. Mit zwei 17-Maulschlüsseln die Gelenkwelle von der Kupplungswelle abschrauben, 1. Vergasergestänge, 2, aus den Kugelgelenken drücken. Verbindungsbolzen, 3, aus dem Kupplungsgestänge entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild066",
       "number": 66,
-      "image": "figures/fig066.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die Schrauben aus der Einbauplatte hinter dem Luftfilter entfernen.",

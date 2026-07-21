@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild011",
       "number": 11,
-      "image": "figures/fig011.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Mit der Hand die beiden Lüfterriemen vom linken Lüfter entfernen. Lüfterriemen nicht mit scharfen Gegenständen entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild012",
       "number": 12,
-      "image": "figures/fig012.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Befestigungsschrauben des Lüfterflügels entsichern und diese mit 14-Ringschlüssel entfernen. Lüfterflügel von der Nabe abheben.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild093",
       "number": 93,
-      "image": "figures/fig093.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 19-Maulschlüssel die Rohrleitungen an den Kraftstoffpumpen abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild094",
       "number": 94,
-      "image": "figures/fig094.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die vier Befestigungsmuttern der Kraftstoffpumpen abschrauben. Dichtungen sowie die Abstandsplatte zwischen Motorgehäuse und den Pumpen beachten.",

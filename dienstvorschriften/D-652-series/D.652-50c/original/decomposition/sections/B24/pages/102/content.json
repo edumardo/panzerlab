@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild182",
       "number": 182,
-      "image": "figures/fig182.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Aus der Ankerwelle den Splint entfernen und mit zwei 19-Maulschlüsseln die Kronen- und die Gegenmutter abschrauben. Ritzel mit Lamellenkorb von der Welle ziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild183",
       "number": 183,
-      "image": "figures/fig183.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Anker auf die Drehbank nehmen und diesen auf Rundlauf prüfen. Kollektor mit feinem Span nachdrehen.",

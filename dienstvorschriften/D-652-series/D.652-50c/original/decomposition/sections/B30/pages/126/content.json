@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild227",
       "number": 227,
-      "image": "figures/fig227.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Obere Flanschlagerhälfte aufsetzen. Gummidichtung in die Eindrehung legen und die beiden Verbindungsschrauben einschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild228",
       "number": 228,
-      "image": "figures/fig228.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Auf die beiden Ölkanalbohrungen im Gehäuse ein dünnes Dichtblech, 3/100 bis 5/100 mm, legen. Flächen der beiden Gehäusehälften und der seitlichen Lager mit Dichtungsmasse bestreichen.",

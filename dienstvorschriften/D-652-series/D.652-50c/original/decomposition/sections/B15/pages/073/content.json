@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild125",
       "number": 125,
-      "image": "figures/fig125.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Vor dem Einsetzen der Zylinderlaufbuchsen die seitlichen Prüflöcher der unteren Zylinderlaufbuchsenabdichtung reinigen. (Bei Wasseraustritt aus den Löchern ist der obere, und bei Ölaustritt ist der untere Gummidichtring beschädigt.)",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild126",
       "number": 126,
-      "image": "figures/fig126.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "In die untere und obere Nute der Zylinderlaufbuchsenabdichtung im Zylinderblock einen neuen Gummidichtring setzen. Zylinderlaufbuchse leicht einölen und diese in drehender Bewegung in das Gehäuse schieben. Zylinderlaufbuchsen den eingeschlagenen Zahlen nach in der Reihenfolge einbauen.",

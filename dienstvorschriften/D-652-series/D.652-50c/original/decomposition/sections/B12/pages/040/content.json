@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild059",
       "number": 59,
-      "image": "figures/fig059.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit zwei 19-Maulschlüsseln die Kraftstoffleitung zur elektrischen Kraftstoffpumpe auseinanderschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild060",
       "number": 60,
-      "image": "figures/fig060.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 19-Maulschlüssel die Kraftstoffleitung von den Kraftstoffpumpen abschrauben.",

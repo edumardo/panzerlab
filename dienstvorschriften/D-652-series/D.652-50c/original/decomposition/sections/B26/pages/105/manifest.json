@@ -11,14 +11,10 @@
   "translation_es_status": "draft",
   "figures": [
     {
-      "number": 188,
-      "path": "figures/fig188.jpg",
-      "status": "candidate_crop"
+      "number": 188
     },
     {
-      "number": 189,
-      "path": "figures/fig189.jpg",
-      "status": "candidate_crop"
+      "number": 189
     }
   ],
   "display_scan": "source_display.jpg",

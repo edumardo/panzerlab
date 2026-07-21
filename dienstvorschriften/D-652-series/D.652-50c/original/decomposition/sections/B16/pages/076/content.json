@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild131",
       "number": 131,
-      "image": "figures/fig131.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit der Vorrichtung neue Ventilführungen einziehen oder diese mit einem Paßdorn von der Nockenwellenseite aus hereinschlagen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild132",
       "number": 132,
-      "image": "figures/fig132.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit den Maybach-Ventilsitzfräsern, 300, die eingeschlagenen oder zu breiten Ventilsitze nachfräsen (Sitzbreite 2 mm).",

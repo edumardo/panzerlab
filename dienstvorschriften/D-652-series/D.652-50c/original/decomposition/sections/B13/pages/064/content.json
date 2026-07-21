@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild107",
       "number": 107,
-      "image": "figures/fig107.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit der Brechstange beide Gehäusehälften lösen und oberen Teil abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild108",
       "number": 108,
-      "image": "figures/fig108.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 11-Steckschlüssel die beiden Lagerverbindungsschrauben entfernen und obere Lagerhälfte abheben.",

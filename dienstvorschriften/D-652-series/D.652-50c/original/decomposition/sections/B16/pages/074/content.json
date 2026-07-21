@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild127",
       "number": 127,
-      "image": "figures/fig127.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Ringschlüssel die Befestigungsmuttern des Auspuffkrümmers abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild128",
       "number": 128,
-      "image": "figures/fig128.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Spitzzange die Seegerringe aus den oberen Ventilfedertellern entfernen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild151",
       "number": 151,
-      "image": "figures/fig151.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher den Keil aus der Welle entfernen. Gummiflanschlager mit der Stopfbuchse von der Welle schieben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild152",
       "number": 152,
-      "image": "figures/fig152.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Hammer und Meißel die Austauschbuchse der Stopfbuchsenabdichtung von der Welle schlagen. Darauf achten, daß die Welle nicht beschädigt wird.",

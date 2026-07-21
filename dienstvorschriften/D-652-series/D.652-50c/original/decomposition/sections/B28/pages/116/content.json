@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild207",
       "number": 207,
-      "image": "figures/fig207.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher an dem auszuwechselnden Schwimmer die Halteschraube lösen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild208",
       "number": 208,
-      "image": "figures/fig208.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Zange den Splint aus der Schwimmer-Halteschraube ziehen.",

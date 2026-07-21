@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild168",
       "number": 168,
-      "image": "figures/fig168.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Anker vorsichtig aus dem Gehäuse heben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild169",
       "number": 169,
-      "image": "figures/fig169.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Den Anker auf der Drehbank zwischen die Spitzen nehmen. Anker auf Rundlauf prüfen und Kollektor mit feinem Span nachdrehen.",

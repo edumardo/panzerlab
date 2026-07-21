@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild061",
       "number": 61,
-      "image": "figures/fig061.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Maulschlüssel die Ölleitung am Spaltfilter abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild062",
       "number": 62,
-      "image": "figures/fig062.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Maulschlüssel die hintere Motorbefestigungsschraube unterhalb des Ölkühlers abschrauben.",

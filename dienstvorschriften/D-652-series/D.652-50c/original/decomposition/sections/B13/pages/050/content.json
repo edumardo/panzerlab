@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild079",
       "number": 79,
-      "image": "figures/fig079.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Leitung aus der Motoreinführung ziehen und diese mit den Entstörrohren und dem Verteilerbogen abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild080",
       "number": 80,
-      "image": "figures/fig080.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Handschrauben der Zylinderkopfhaubenbefestigung ausschrauben und Haube abheben.",

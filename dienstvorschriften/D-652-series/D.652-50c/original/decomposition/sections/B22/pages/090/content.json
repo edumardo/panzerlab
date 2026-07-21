@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild158",
       "number": 158,
-      "image": "figures/fig158.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bürstenfeder abheben und Bürste ausziehen. Neue Kohlebürste einsetzen und diese mit der Schraube verschrauben. Nur vorgeschriebene Kohlebürsten verwenden.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild159",
       "number": 159,
-      "image": "figures/fig159.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 27-Steckschlüssel die Mutter vor dem Lüfter entfernen.",

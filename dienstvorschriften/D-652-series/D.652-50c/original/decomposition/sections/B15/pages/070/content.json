@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild119",
       "number": 119,
-      "image": "figures/fig119.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Auf einer Richtplatte mit Schmirgelleinen die beiden Lagerhälften so viel nachschleifen, daß sich die Pleuelstange im eingebauten Zustand leicht auf dem Lagerzapfen drehen läßt. Pleuelstangen den eingeschlagenen Zahlen nach einbauen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild120",
       "number": 120,
-      "image": "figures/fig120.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Seegerzange in das eine Kolbenbolzenauge einen Seegerring setzen. Zahlen auf den Kolben müssen der Reihenfolge nach, nach einer Seite zeigen.",

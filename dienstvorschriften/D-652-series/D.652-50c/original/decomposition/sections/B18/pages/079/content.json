@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild137",
       "number": 137,
-      "image": "figures/fig137.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An den beiden unteren Prüflöchern, welche in dem Gehäuseunterteil eingebohrt sind, die Membran prüfen. (Bei Kraftstoffaustritt aus diesen ist die Membran unbrauchbar.) Mit 10-Maulschlüssel die Befestigungsschraube aus der oberen Glocke entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild138",
       "number": 138,
-      "image": "figures/fig138.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die beiden Senkschrauben aus dem seitlichen Deckel entfernen und diesen abnehmen. Dichtung beachten.",

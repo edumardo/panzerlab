@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild231",
       "number": 231,
-      "image": "figures/fig231.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit leichtem Schlag die vier Kegelpaßstifte einschlagen und Gehäuseschrauben, auch die seitlichen, Bild 105, festziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild232",
       "number": 232,
-      "image": "figures/fig232.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Papierdichtung hinterlegen und die untere Lagerflanschhälfte an das Gehäuse schrauben. Obere Lagerflanschhälfte aufsetzen und beide Teile mit den seitlichen Schrauben zusammenschrauben. In dem oberen Lagerflansch die Befestigungsschrauben einschrauben.",

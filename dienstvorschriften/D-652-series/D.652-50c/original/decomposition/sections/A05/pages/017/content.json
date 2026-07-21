@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild021",
       "number": 21,
-      "image": "figures/fig021.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Heckpanzer abbauen, Bild 1 bis 4. An dem rechten Lüfter das Luftleitblech und Streben abbauen (Ausbau wie linke Seite Bild 10). An der Lüfterriemen-Nachstellvorrichtung die rechten Lüfterriemen entspannen und diese abheben. Bild 5 bis 8.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild022",
       "number": 22,
-      "image": "figures/fig022.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schrauben der Flügelbefestigung entsichern und diese mit 14-Ringschlüssel entfernen.",

@@ -60,9 +60,10 @@ def main() -> None:
         status = entry["transcription_status"]
         status_counts[status] = status_counts.get(status, 0) + 1
         for figure in entry["figures"]:
-            target = base / figure["path"]
-            if not target.is_file() or target.stat().st_size == 0:
-                errors.append(f"Missing figure on page {page}: {figure['path']}")
+            if "path" in figure:
+                target = base / figure["path"]
+                if not target.is_file() or target.stat().st_size == 0:
+                    errors.append(f"Missing figure on page {page}: {figure['path']}")
             if figure.get("number") is not None:
                 figure_numbers.append(figure["number"])
 

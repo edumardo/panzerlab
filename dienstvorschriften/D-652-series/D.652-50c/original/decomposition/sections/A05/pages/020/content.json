@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild027",
       "number": 27,
-      "image": "figures/fig027.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Befestigungsschrauben der schräg nach unten verlaufenden Schutzplatte des Kraftstoffbehälters entsichern und diese mit 14-Steckschlüssel (Knarre) ausschrauben. Platte abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild028",
       "number": 28,
-      "image": "figures/fig028.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Splinte aus den Kronenmuttern entfernen und beide vorderen Kühlerbefestigungsschrauben mit zwei 17-Maulschlüsseln ausschrauben. Kühler ausheben.",

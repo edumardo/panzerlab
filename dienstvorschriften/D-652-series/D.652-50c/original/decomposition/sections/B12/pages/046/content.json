@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild071",
       "number": 71,
-      "image": "figures/fig071.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An dem rechten vorderen Lagerbock der Motor-Aufhängung die beiden Durchgangsschrauben entsichern und diese mit 22-Steckschlüssel ausschrauben, 1. Isolierung an den Verbindungsstellen entfernen und die Anlasserleitung auseinanderschrauben, 2. Am Magnet die Masseleitung entfernen, 3.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild072",
       "number": 72,
-      "image": "figures/fig072.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Motor mit Drahtseil oder Aufhängevorrichtung in ein Hebezeug hängen. Motor etwas anheben und Lichtmaschinenleitung abklemmen. Motor ausheben.",

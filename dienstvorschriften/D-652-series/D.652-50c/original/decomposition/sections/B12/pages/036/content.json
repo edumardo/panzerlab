@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild051",
       "number": 51,
-      "image": "figures/fig051.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die Befestigungsschraube der Masseleitung an der Wasserpumpenseite des Motors entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild052",
       "number": 52,
-      "image": "figures/fig052.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Ringschlüssel die Schraube der Masseleitung an der vorderen linken Motor-Aufhängung entfernen.",

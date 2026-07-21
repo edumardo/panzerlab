@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild135",
       "number": 135,
-      "image": "figures/fig135.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Ventile den eingeschlagenen Zahlen nach einsetzen und Ventilfeder und Ventilfederteller überführen. Feder mit Vorrichtung zusammendrücken und Flachkeil einschieben. Mit Seegerringzange den Seegering in den oberen Ventilfederteller einsetzen, Bild 128.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild136",
       "number": 136,
-      "image": "figures/fig136.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Auspuffdichtung auflegen und Auspuffkrümmer mit den Spannplatten und 17-Muttern festschrauben.",

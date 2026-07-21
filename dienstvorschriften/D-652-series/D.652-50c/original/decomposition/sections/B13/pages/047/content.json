@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild073",
       "number": 73,
-      "image": "figures/fig073.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 46-Maulschlüssel die Gegenmuttern der Entstörrohrbefestigung am Magnet lösen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild074",
       "number": 74,
-      "image": "figures/fig074.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die vier Senkschrauben der Gehäusekappe ausschrauben.",

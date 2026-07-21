@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild174",
       "number": 174,
-      "image": "figures/fig174.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die zwei Schrauben aus der Schutzkappe entfernen und diese abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild175",
       "number": 175,
-      "image": "figures/fig175.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Aus der auszuwechselnden Kohlebürste mit einem Schraubenzieher die Bürstenanschlußschraube entfernen.",

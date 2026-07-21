@@ -206,14 +206,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 1,
-          "path": "figures/fig001.jpg",
-          "status": "validated"
+          "number": 1
         },
         {
-          "number": 2,
-          "path": "figures/fig002.jpg",
-          "status": "validated"
+          "number": 2
         }
       ],
       "display_scan": "source_display.jpg",
@@ -237,14 +233,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 3,
-          "path": "figures/fig003.jpg",
-          "status": "validated"
+          "number": 3
         },
         {
-          "number": 4,
-          "path": "figures/fig004.jpg",
-          "status": "validated"
+          "number": 4
         }
       ],
       "display_scan": "source_display.jpg",
@@ -288,14 +280,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 5,
-          "path": "figures/fig005.jpg",
-          "status": "validated"
+          "number": 5
         },
         {
-          "number": 6,
-          "path": "figures/fig006.jpg",
-          "status": "validated"
+          "number": 6
         }
       ],
       "display_scan": "source_display.jpg",
@@ -319,14 +307,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 7,
-          "path": "figures/fig007.jpg",
-          "status": "validated"
+          "number": 7
         },
         {
-          "number": 8,
-          "path": "figures/fig008.jpg",
-          "status": "validated"
+          "number": 8
         }
       ],
       "display_scan": "source_display.jpg",
@@ -350,14 +334,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 9,
-          "path": "figures/fig009.jpg",
-          "status": "validated"
+          "number": 9
         },
         {
-          "number": 10,
-          "path": "figures/fig010.jpg",
-          "status": "validated"
+          "number": 10
         }
       ],
       "display_scan": "source_display.jpg",
@@ -381,14 +361,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 11,
-          "path": "figures/fig011.jpg",
-          "status": "validated"
+          "number": 11
         },
         {
-          "number": 12,
-          "path": "figures/fig012.jpg",
-          "status": "validated"
+          "number": 12
         }
       ],
       "display_scan": "source_display.jpg",
@@ -412,14 +388,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 13,
-          "path": "figures/fig013.jpg",
-          "status": "validated"
+          "number": 13
         },
         {
-          "number": 14,
-          "path": "figures/fig014.jpg",
-          "status": "validated"
+          "number": 14
         }
       ],
       "display_scan": "source_display.jpg",
@@ -443,14 +415,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 15,
-          "path": "figures/fig015.jpg",
-          "status": "validated"
+          "number": 15
         },
         {
-          "number": 16,
-          "path": "figures/fig016.jpg",
-          "status": "validated"
+          "number": 16
         }
       ],
       "display_scan": "source_display.jpg",
@@ -474,14 +442,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 17,
-          "path": "figures/fig017.jpg",
-          "status": "validated"
+          "number": 17
         },
         {
-          "number": 18,
-          "path": "figures/fig018.jpg",
-          "status": "validated"
+          "number": 18
         }
       ],
       "display_scan": "source_display.jpg",
@@ -505,14 +469,10 @@
       "translation_es_status": "validated",
       "figures": [
         {
-          "number": 19,
-          "path": "figures/fig019.jpg",
-          "status": "validated"
+          "number": 19
         },
         {
-          "number": 20,
-          "path": "figures/fig020.jpg",
-          "status": "validated"
+          "number": 20
         }
       ],
       "display_scan": "source_display.jpg",
@@ -556,14 +516,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 21,
-          "path": "figures/fig021.jpg",
-          "status": "candidate_crop"
+          "number": 21
         },
         {
-          "number": 22,
-          "path": "figures/fig022.jpg",
-          "status": "candidate_crop"
+          "number": 22
         }
       ],
       "display_scan": "source_display.jpg",
@@ -587,14 +543,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 23,
-          "path": "figures/fig023.jpg",
-          "status": "candidate_crop"
+          "number": 23
         },
         {
-          "number": 24,
-          "path": "figures/fig024.jpg",
-          "status": "candidate_crop"
+          "number": 24
         }
       ],
       "display_scan": "source_display.jpg",
@@ -618,14 +570,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 25,
-          "path": "figures/fig025.jpg",
-          "status": "candidate_crop"
+          "number": 25
         },
         {
-          "number": 26,
-          "path": "figures/fig026.jpg",
-          "status": "candidate_crop"
+          "number": 26
         }
       ],
       "display_scan": "source_display.jpg",
@@ -649,14 +597,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 27,
-          "path": "figures/fig027.jpg",
-          "status": "candidate_crop"
+          "number": 27
         },
         {
-          "number": 28,
-          "path": "figures/fig028.jpg",
-          "status": "candidate_crop"
+          "number": 28
         }
       ],
       "display_scan": "source_display.jpg",
@@ -700,9 +644,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 29,
-          "path": "figures/fig029.jpg",
-          "status": "candidate_crop"
+          "number": 29
         }
       ],
       "display_scan": "source_display.jpg",
@@ -726,9 +668,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 30,
-          "path": "figures/fig030.jpg",
-          "status": "candidate_crop"
+          "number": 30
         }
       ],
       "display_scan": "source_display.jpg",
@@ -772,14 +712,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 31,
-          "path": "figures/fig031.jpg",
-          "status": "candidate_crop"
+          "number": 31
         },
         {
-          "number": 32,
-          "path": "figures/fig032.jpg",
-          "status": "candidate_crop"
+          "number": 32
         }
       ],
       "display_scan": "source_display.jpg",
@@ -803,14 +739,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 33,
-          "path": "figures/fig033.jpg",
-          "status": "candidate_crop"
+          "number": 33
         },
         {
-          "number": 34,
-          "path": "figures/fig034.jpg",
-          "status": "candidate_crop"
+          "number": 34
         }
       ],
       "display_scan": "source_display.jpg",
@@ -834,14 +766,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 35,
-          "path": "figures/fig035.jpg",
-          "status": "candidate_crop"
+          "number": 35
         },
         {
-          "number": 36,
-          "path": "figures/fig036.jpg",
-          "status": "candidate_crop"
+          "number": 36
         }
       ],
       "display_scan": "source_display.jpg",
@@ -865,14 +793,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 37,
-          "path": "figures/fig037.jpg",
-          "status": "candidate_crop"
+          "number": 37
         },
         {
-          "number": 38,
-          "path": "figures/fig038.jpg",
-          "status": "candidate_crop"
+          "number": 38
         }
       ],
       "display_scan": "source_display.jpg",
@@ -916,14 +840,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 39,
-          "path": "figures/fig039.jpg",
-          "status": "candidate_crop"
+          "number": 39
         },
         {
-          "number": 40,
-          "path": "figures/fig040.jpg",
-          "status": "candidate_crop"
+          "number": 40
         }
       ],
       "display_scan": "source_display.jpg",
@@ -947,14 +867,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 41,
-          "path": "figures/fig041.jpg",
-          "status": "candidate_crop"
+          "number": 41
         },
         {
-          "number": 42,
-          "path": "figures/fig042.jpg",
-          "status": "candidate_crop"
+          "number": 42
         }
       ],
       "display_scan": "source_display.jpg",
@@ -978,14 +894,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 43,
-          "path": "figures/fig043.jpg",
-          "status": "candidate_crop"
+          "number": 43
         },
         {
-          "number": 44,
-          "path": "figures/fig044.jpg",
-          "status": "candidate_crop"
+          "number": 44
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1009,14 +921,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 45,
-          "path": "figures/fig045.jpg",
-          "status": "candidate_crop"
+          "number": 45
         },
         {
-          "number": 46,
-          "path": "figures/fig046.jpg",
-          "status": "candidate_crop"
+          "number": 46
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1040,14 +948,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 47,
-          "path": "figures/fig047.jpg",
-          "status": "candidate_crop"
+          "number": 47
         },
         {
-          "number": 48,
-          "path": "figures/fig048.jpg",
-          "status": "candidate_crop"
+          "number": 48
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1071,14 +975,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 49,
-          "path": "figures/fig049.jpg",
-          "status": "candidate_crop"
+          "number": 49
         },
         {
-          "number": 50,
-          "path": "figures/fig050.jpg",
-          "status": "candidate_crop"
+          "number": 50
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1102,14 +1002,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 51,
-          "path": "figures/fig051.jpg",
-          "status": "candidate_crop"
+          "number": 51
         },
         {
-          "number": 52,
-          "path": "figures/fig052.jpg",
-          "status": "candidate_crop"
+          "number": 52
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1133,14 +1029,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 53,
-          "path": "figures/fig053.jpg",
-          "status": "candidate_crop"
+          "number": 53
         },
         {
-          "number": 54,
-          "path": "figures/fig054.jpg",
-          "status": "candidate_crop"
+          "number": 54
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1164,14 +1056,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 55,
-          "path": "figures/fig055.jpg",
-          "status": "candidate_crop"
+          "number": 55
         },
         {
-          "number": 56,
-          "path": "figures/fig056.jpg",
-          "status": "candidate_crop"
+          "number": 56
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1195,14 +1083,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 57,
-          "path": "figures/fig057.jpg",
-          "status": "candidate_crop"
+          "number": 57
         },
         {
-          "number": 58,
-          "path": "figures/fig058.jpg",
-          "status": "candidate_crop"
+          "number": 58
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1226,14 +1110,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 59,
-          "path": "figures/fig059.jpg",
-          "status": "candidate_crop"
+          "number": 59
         },
         {
-          "number": 60,
-          "path": "figures/fig060.jpg",
-          "status": "candidate_crop"
+          "number": 60
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1257,14 +1137,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 61,
-          "path": "figures/fig061.jpg",
-          "status": "candidate_crop"
+          "number": 61
         },
         {
-          "number": 62,
-          "path": "figures/fig062.jpg",
-          "status": "candidate_crop"
+          "number": 62
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1288,14 +1164,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 63,
-          "path": "figures/fig063.jpg",
-          "status": "candidate_crop"
+          "number": 63
         },
         {
-          "number": 64,
-          "path": "figures/fig064.jpg",
-          "status": "candidate_crop"
+          "number": 64
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1319,14 +1191,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 65,
-          "path": "figures/fig065.jpg",
-          "status": "candidate_crop"
+          "number": 65
         },
         {
-          "number": 66,
-          "path": "figures/fig066.jpg",
-          "status": "candidate_crop"
+          "number": 66
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1350,14 +1218,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 67,
-          "path": "figures/fig067.jpg",
-          "status": "candidate_crop"
+          "number": 67
         },
         {
-          "number": 68,
-          "path": "figures/fig068.jpg",
-          "status": "candidate_crop"
+          "number": 68
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1381,14 +1245,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 69,
-          "path": "figures/fig069.jpg",
-          "status": "candidate_crop"
+          "number": 69
         },
         {
-          "number": 70,
-          "path": "figures/fig070.jpg",
-          "status": "candidate_crop"
+          "number": 70
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1412,14 +1272,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 71,
-          "path": "figures/fig071.jpg",
-          "status": "candidate_crop"
+          "number": 71
         },
         {
-          "number": 72,
-          "path": "figures/fig072.jpg",
-          "status": "candidate_crop"
+          "number": 72
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1443,14 +1299,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 73,
-          "path": "figures/fig073.jpg",
-          "status": "candidate_crop"
+          "number": 73
         },
         {
-          "number": 74,
-          "path": "figures/fig074.jpg",
-          "status": "candidate_crop"
+          "number": 74
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1474,14 +1326,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 75,
-          "path": "figures/fig075.jpg",
-          "status": "candidate_crop"
+          "number": 75
         },
         {
-          "number": 76,
-          "path": "figures/fig076.jpg",
-          "status": "candidate_crop"
+          "number": 76
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1505,14 +1353,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 77,
-          "path": "figures/fig077.jpg",
-          "status": "candidate_crop"
+          "number": 77
         },
         {
-          "number": 78,
-          "path": "figures/fig078.jpg",
-          "status": "candidate_crop"
+          "number": 78
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1536,14 +1380,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 79,
-          "path": "figures/fig079.jpg",
-          "status": "candidate_crop"
+          "number": 79
         },
         {
-          "number": 80,
-          "path": "figures/fig080.jpg",
-          "status": "candidate_crop"
+          "number": 80
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1567,14 +1407,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 81,
-          "path": "figures/fig081.jpg",
-          "status": "candidate_crop"
+          "number": 81
         },
         {
-          "number": 82,
-          "path": "figures/fig082.jpg",
-          "status": "candidate_crop"
+          "number": 82
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1598,14 +1434,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 83,
-          "path": "figures/fig083.jpg",
-          "status": "candidate_crop"
+          "number": 83
         },
         {
-          "number": 84,
-          "path": "figures/fig084.jpg",
-          "status": "candidate_crop"
+          "number": 84
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1629,14 +1461,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 85,
-          "path": "figures/fig085.jpg",
-          "status": "candidate_crop"
+          "number": 85
         },
         {
-          "number": 86,
-          "path": "figures/fig086.jpg",
-          "status": "candidate_crop"
+          "number": 86
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1660,14 +1488,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 87,
-          "path": "figures/fig087.jpg",
-          "status": "candidate_crop"
+          "number": 87
         },
         {
-          "number": 88,
-          "path": "figures/fig088.jpg",
-          "status": "candidate_crop"
+          "number": 88
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1691,14 +1515,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 89,
-          "path": "figures/fig089.jpg",
-          "status": "candidate_crop"
+          "number": 89
         },
         {
-          "number": 90,
-          "path": "figures/fig090.jpg",
-          "status": "candidate_crop"
+          "number": 90
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1722,14 +1542,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 91,
-          "path": "figures/fig091.jpg",
-          "status": "candidate_crop"
+          "number": 91
         },
         {
-          "number": 92,
-          "path": "figures/fig092.jpg",
-          "status": "candidate_crop"
+          "number": 92
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1753,14 +1569,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 93,
-          "path": "figures/fig093.jpg",
-          "status": "candidate_crop"
+          "number": 93
         },
         {
-          "number": 94,
-          "path": "figures/fig094.jpg",
-          "status": "candidate_crop"
+          "number": 94
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1784,14 +1596,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 95,
-          "path": "figures/fig095.jpg",
-          "status": "candidate_crop"
+          "number": 95
         },
         {
-          "number": 96,
-          "path": "figures/fig096.jpg",
-          "status": "candidate_crop"
+          "number": 96
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1815,14 +1623,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 97,
-          "path": "figures/fig097.jpg",
-          "status": "candidate_crop"
+          "number": 97
         },
         {
-          "number": 98,
-          "path": "figures/fig098.jpg",
-          "status": "candidate_crop"
+          "number": 98
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1846,14 +1650,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 99,
-          "path": "figures/fig099.jpg",
-          "status": "candidate_crop"
+          "number": 99
         },
         {
-          "number": 100,
-          "path": "figures/fig100.jpg",
-          "status": "candidate_crop"
+          "number": 100
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1877,14 +1677,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 101,
-          "path": "figures/fig101.jpg",
-          "status": "candidate_crop"
+          "number": 101
         },
         {
-          "number": 102,
-          "path": "figures/fig102.jpg",
-          "status": "candidate_crop"
+          "number": 102
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1908,14 +1704,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 103,
-          "path": "figures/fig103.jpg",
-          "status": "candidate_crop"
+          "number": 103
         },
         {
-          "number": 104,
-          "path": "figures/fig104.jpg",
-          "status": "candidate_crop"
+          "number": 104
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1939,14 +1731,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 105,
-          "path": "figures/fig105.jpg",
-          "status": "candidate_crop"
+          "number": 105
         },
         {
-          "number": 106,
-          "path": "figures/fig106.jpg",
-          "status": "candidate_crop"
+          "number": 106
         }
       ],
       "display_scan": "source_display.jpg",
@@ -1970,14 +1758,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 107,
-          "path": "figures/fig107.jpg",
-          "status": "candidate_crop"
+          "number": 107
         },
         {
-          "number": 108,
-          "path": "figures/fig108.jpg",
-          "status": "candidate_crop"
+          "number": 108
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2001,14 +1785,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 109,
-          "path": "figures/fig109.jpg",
-          "status": "candidate_crop"
+          "number": 109
         },
         {
-          "number": 110,
-          "path": "figures/fig110.jpg",
-          "status": "candidate_crop"
+          "number": 110
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2032,14 +1812,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 111,
-          "path": "figures/fig111.jpg",
-          "status": "candidate_crop"
+          "number": 111
         },
         {
-          "number": 112,
-          "path": "figures/fig112.jpg",
-          "status": "candidate_crop"
+          "number": 112
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2063,14 +1839,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 113,
-          "path": "figures/fig113.jpg",
-          "status": "candidate_crop"
+          "number": 113
         },
         {
-          "number": 114,
-          "path": "figures/fig114.jpg",
-          "status": "candidate_crop"
+          "number": 114
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2094,14 +1866,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 115,
-          "path": "figures/fig115.jpg",
-          "status": "candidate_crop"
+          "number": 115
         },
         {
-          "number": 116,
-          "path": "figures/fig116.jpg",
-          "status": "candidate_crop"
+          "number": 116
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2125,14 +1893,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 117,
-          "path": "figures/fig117.jpg",
-          "status": "candidate_crop"
+          "number": 117
         },
         {
-          "number": 118,
-          "path": "figures/fig118.jpg",
-          "status": "candidate_crop"
+          "number": 118
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2156,14 +1920,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 119,
-          "path": "figures/fig119.jpg",
-          "status": "candidate_crop"
+          "number": 119
         },
         {
-          "number": 120,
-          "path": "figures/fig120.jpg",
-          "status": "candidate_crop"
+          "number": 120
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2187,14 +1947,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 121,
-          "path": "figures/fig121.jpg",
-          "status": "candidate_crop"
+          "number": 121
         },
         {
-          "number": 122,
-          "path": "figures/fig122.jpg",
-          "status": "candidate_crop"
+          "number": 122
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2218,14 +1974,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 123,
-          "path": "figures/fig123.jpg",
-          "status": "candidate_crop"
+          "number": 123
         },
         {
-          "number": 124,
-          "path": "figures/fig124.jpg",
-          "status": "candidate_crop"
+          "number": 124
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2249,14 +2001,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 125,
-          "path": "figures/fig125.jpg",
-          "status": "candidate_crop"
+          "number": 125
         },
         {
-          "number": 126,
-          "path": "figures/fig126.jpg",
-          "status": "candidate_crop"
+          "number": 126
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2280,14 +2028,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 127,
-          "path": "figures/fig127.jpg",
-          "status": "candidate_crop"
+          "number": 127
         },
         {
-          "number": 128,
-          "path": "figures/fig128.jpg",
-          "status": "candidate_crop"
+          "number": 128
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2311,14 +2055,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 129,
-          "path": "figures/fig129.jpg",
-          "status": "candidate_crop"
+          "number": 129
         },
         {
-          "number": 130,
-          "path": "figures/fig130.jpg",
-          "status": "candidate_crop"
+          "number": 130
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2342,14 +2082,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 131,
-          "path": "figures/fig131.jpg",
-          "status": "candidate_crop"
+          "number": 131
         },
         {
-          "number": 132,
-          "path": "figures/fig132.jpg",
-          "status": "candidate_crop"
+          "number": 132
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2373,14 +2109,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 133,
-          "path": "figures/fig133.jpg",
-          "status": "candidate_crop"
+          "number": 133
         },
         {
-          "number": 134,
-          "path": "figures/fig134.jpg",
-          "status": "candidate_crop"
+          "number": 134
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2404,14 +2136,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 135,
-          "path": "figures/fig135.jpg",
-          "status": "candidate_crop"
+          "number": 135
         },
         {
-          "number": 136,
-          "path": "figures/fig136.jpg",
-          "status": "candidate_crop"
+          "number": 136
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2435,14 +2163,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 137,
-          "path": "figures/fig137.jpg",
-          "status": "candidate_crop"
+          "number": 137
         },
         {
-          "number": 138,
-          "path": "figures/fig138.jpg",
-          "status": "candidate_crop"
+          "number": 138
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2466,14 +2190,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 139,
-          "path": "figures/fig139.jpg",
-          "status": "candidate_crop"
+          "number": 139
         },
         {
-          "number": 140,
-          "path": "figures/fig140.jpg",
-          "status": "candidate_crop"
+          "number": 140
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2497,14 +2217,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 141,
-          "path": "figures/fig141.jpg",
-          "status": "candidate_crop"
+          "number": 141
         },
         {
-          "number": 142,
-          "path": "figures/fig142.jpg",
-          "status": "candidate_crop"
+          "number": 142
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2528,14 +2244,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 143,
-          "path": "figures/fig143.jpg",
-          "status": "candidate_crop"
+          "number": 143
         },
         {
-          "number": 144,
-          "path": "figures/fig144.jpg",
-          "status": "candidate_crop"
+          "number": 144
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2559,14 +2271,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 145,
-          "path": "figures/fig145.jpg",
-          "status": "candidate_crop"
+          "number": 145
         },
         {
-          "number": 146,
-          "path": "figures/fig146.jpg",
-          "status": "candidate_crop"
+          "number": 146
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2590,14 +2298,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 147,
-          "path": "figures/fig147.jpg",
-          "status": "candidate_crop"
+          "number": 147
         },
         {
-          "number": 148,
-          "path": "figures/fig148.jpg",
-          "status": "candidate_crop"
+          "number": 148
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2621,14 +2325,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 149,
-          "path": "figures/fig149.jpg",
-          "status": "candidate_crop"
+          "number": 149
         },
         {
-          "number": 150,
-          "path": "figures/fig150.jpg",
-          "status": "candidate_crop"
+          "number": 150
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2652,14 +2352,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 151,
-          "path": "figures/fig151.jpg",
-          "status": "candidate_crop"
+          "number": 151
         },
         {
-          "number": 152,
-          "path": "figures/fig152.jpg",
-          "status": "candidate_crop"
+          "number": 152
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2683,9 +2379,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 153,
-          "path": "figures/fig153.jpg",
-          "status": "candidate_crop"
+          "number": 153
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2709,14 +2403,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 154,
-          "path": "figures/fig154.jpg",
-          "status": "validated"
+          "number": 154
         },
         {
-          "number": 155,
-          "path": "figures/fig155.jpg",
-          "status": "validated"
+          "number": 155
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2740,14 +2430,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 156,
-          "path": "figures/fig156.jpg",
-          "status": "candidate_crop"
+          "number": 156
         },
         {
-          "number": 157,
-          "path": "figures/fig157.jpg",
-          "status": "candidate_crop"
+          "number": 157
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2771,14 +2457,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 158,
-          "path": "figures/fig158.jpg",
-          "status": "candidate_crop"
+          "number": 158
         },
         {
-          "number": 159,
-          "path": "figures/fig159.jpg",
-          "status": "candidate_crop"
+          "number": 159
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2802,14 +2484,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 160,
-          "path": "figures/fig160.jpg",
-          "status": "candidate_crop"
+          "number": 160
         },
         {
-          "number": 161,
-          "path": "figures/fig161.jpg",
-          "status": "candidate_crop"
+          "number": 161
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2833,14 +2511,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 162,
-          "path": "figures/fig162.jpg",
-          "status": "candidate_crop"
+          "number": 162
         },
         {
-          "number": 163,
-          "path": "figures/fig163.jpg",
-          "status": "candidate_crop"
+          "number": 163
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2864,14 +2538,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 164,
-          "path": "figures/fig164.jpg",
-          "status": "candidate_crop"
+          "number": 164
         },
         {
-          "number": 165,
-          "path": "figures/fig165.jpg",
-          "status": "candidate_crop"
+          "number": 165
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2895,14 +2565,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 166,
-          "path": "figures/fig166.jpg",
-          "status": "candidate_crop"
+          "number": 166
         },
         {
-          "number": 167,
-          "path": "figures/fig167.jpg",
-          "status": "candidate_crop"
+          "number": 167
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2926,14 +2592,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 168,
-          "path": "figures/fig168.jpg",
-          "status": "candidate_crop"
+          "number": 168
         },
         {
-          "number": 169,
-          "path": "figures/fig169.jpg",
-          "status": "candidate_crop"
+          "number": 169
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2957,14 +2619,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 170,
-          "path": "figures/fig170.jpg",
-          "status": "candidate_crop"
+          "number": 170
         },
         {
-          "number": 171,
-          "path": "figures/fig171.jpg",
-          "status": "candidate_crop"
+          "number": 171
         }
       ],
       "display_scan": "source_display.jpg",
@@ -2988,14 +2646,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 172,
-          "path": "figures/fig172.jpg",
-          "status": "candidate_crop"
+          "number": 172
         },
         {
-          "number": 173,
-          "path": "figures/fig173.jpg",
-          "status": "candidate_crop"
+          "number": 173
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3019,14 +2673,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 174,
-          "path": "figures/fig174.jpg",
-          "status": "candidate_crop"
+          "number": 174
         },
         {
-          "number": 175,
-          "path": "figures/fig175.jpg",
-          "status": "candidate_crop"
+          "number": 175
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3050,14 +2700,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 176,
-          "path": "figures/fig176.jpg",
-          "status": "candidate_crop"
+          "number": 176
         },
         {
-          "number": 177,
-          "path": "figures/fig177.jpg",
-          "status": "candidate_crop"
+          "number": 177
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3081,14 +2727,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 178,
-          "path": "figures/fig178.jpg",
-          "status": "candidate_crop"
+          "number": 178
         },
         {
-          "number": 179,
-          "path": "figures/fig179.jpg",
-          "status": "candidate_crop"
+          "number": 179
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3112,14 +2754,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 180,
-          "path": "figures/fig180.jpg",
-          "status": "candidate_crop"
+          "number": 180
         },
         {
-          "number": 181,
-          "path": "figures/fig181.jpg",
-          "status": "candidate_crop"
+          "number": 181
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3143,14 +2781,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 182,
-          "path": "figures/fig182.jpg",
-          "status": "candidate_crop"
+          "number": 182
         },
         {
-          "number": 183,
-          "path": "figures/fig183.jpg",
-          "status": "candidate_crop"
+          "number": 183
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3174,14 +2808,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 184,
-          "path": "figures/fig184.jpg",
-          "status": "candidate_crop"
+          "number": 184
         },
         {
-          "number": 185,
-          "path": "figures/fig185.jpg",
-          "status": "candidate_crop"
+          "number": 185
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3205,14 +2835,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 186,
-          "path": "figures/fig186.jpg",
-          "status": "candidate_crop"
+          "number": 186
         },
         {
-          "number": 187,
-          "path": "figures/fig187.jpg",
-          "status": "candidate_crop"
+          "number": 187
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3236,14 +2862,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 188,
-          "path": "figures/fig188.jpg",
-          "status": "candidate_crop"
+          "number": 188
         },
         {
-          "number": 189,
-          "path": "figures/fig189.jpg",
-          "status": "candidate_crop"
+          "number": 189
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3267,14 +2889,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 190,
-          "path": "figures/fig190.jpg",
-          "status": "candidate_crop"
+          "number": 190
         },
         {
-          "number": 191,
-          "path": "figures/fig191.jpg",
-          "status": "candidate_crop"
+          "number": 191
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3298,14 +2916,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 192,
-          "path": "figures/fig192.jpg",
-          "status": "candidate_crop"
+          "number": 192
         },
         {
-          "number": 193,
-          "path": "figures/fig193.jpg",
-          "status": "candidate_crop"
+          "number": 193
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3329,9 +2943,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 194,
-          "path": "figures/fig194.jpg",
-          "status": "candidate_crop"
+          "number": 194
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3355,14 +2967,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 195,
-          "path": "figures/fig195.jpg",
-          "status": "candidate_crop"
+          "number": 195
         },
         {
-          "number": 196,
-          "path": "figures/fig196.jpg",
-          "status": "candidate_crop"
+          "number": 196
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3386,9 +2994,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 197,
-          "path": "figures/fig197.jpg",
-          "status": "candidate_crop"
+          "number": 197
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3412,14 +3018,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 198,
-          "path": "figures/fig198.jpg",
-          "status": "candidate_crop"
+          "number": 198
         },
         {
-          "number": 199,
-          "path": "figures/fig199.jpg",
-          "status": "candidate_crop"
+          "number": 199
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3443,9 +3045,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 200,
-          "path": "figures/fig200.jpg",
-          "status": "candidate_crop"
+          "number": 200
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3469,14 +3069,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 201,
-          "path": "figures/fig201.jpg",
-          "status": "candidate_crop"
+          "number": 201
         },
         {
-          "number": 202,
-          "path": "figures/fig202.jpg",
-          "status": "candidate_crop"
+          "number": 202
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3500,14 +3096,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 203,
-          "path": "figures/fig203.jpg",
-          "status": "candidate_crop"
+          "number": 203
         },
         {
-          "number": 204,
-          "path": "figures/fig204.jpg",
-          "status": "candidate_crop"
+          "number": 204
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3531,14 +3123,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 205,
-          "path": "figures/fig205.jpg",
-          "status": "candidate_crop"
+          "number": 205
         },
         {
-          "number": 206,
-          "path": "figures/fig206.jpg",
-          "status": "candidate_crop"
+          "number": 206
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3562,14 +3150,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 207,
-          "path": "figures/fig207.jpg",
-          "status": "candidate_crop"
+          "number": 207
         },
         {
-          "number": 208,
-          "path": "figures/fig208.jpg",
-          "status": "candidate_crop"
+          "number": 208
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3593,14 +3177,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 209,
-          "path": "figures/fig209.jpg",
-          "status": "candidate_crop"
+          "number": 209
         },
         {
-          "number": 210,
-          "path": "figures/fig210.jpg",
-          "status": "candidate_crop"
+          "number": 210
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3624,14 +3204,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 211,
-          "path": "figures/fig211.jpg",
-          "status": "candidate_crop"
+          "number": 211
         },
         {
-          "number": 212,
-          "path": "figures/fig212.jpg",
-          "status": "candidate_crop"
+          "number": 212
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3655,14 +3231,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 213,
-          "path": "figures/fig213.jpg",
-          "status": "candidate_crop"
+          "number": 213
         },
         {
-          "number": 214,
-          "path": "figures/fig214.jpg",
-          "status": "candidate_crop"
+          "number": 214
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3686,14 +3258,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 215,
-          "path": "figures/fig215.jpg",
-          "status": "candidate_crop"
+          "number": 215
         },
         {
-          "number": 216,
-          "path": "figures/fig216.jpg",
-          "status": "candidate_crop"
+          "number": 216
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3717,14 +3285,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 217,
-          "path": "figures/fig217.jpg",
-          "status": "candidate_crop"
+          "number": 217
         },
         {
-          "number": 218,
-          "path": "figures/fig218.jpg",
-          "status": "candidate_crop"
+          "number": 218
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3748,14 +3312,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 219,
-          "path": "figures/fig219.jpg",
-          "status": "candidate_crop"
+          "number": 219
         },
         {
-          "number": 220,
-          "path": "figures/fig220.jpg",
-          "status": "candidate_crop"
+          "number": 220
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3779,14 +3339,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 221,
-          "path": "figures/fig221.jpg",
-          "status": "candidate_crop"
+          "number": 221
         },
         {
-          "number": 222,
-          "path": "figures/fig222.jpg",
-          "status": "candidate_crop"
+          "number": 222
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3810,14 +3366,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 223,
-          "path": "figures/fig223.jpg",
-          "status": "candidate_crop"
+          "number": 223
         },
         {
-          "number": 224,
-          "path": "figures/fig224.jpg",
-          "status": "candidate_crop"
+          "number": 224
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3841,14 +3393,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 225,
-          "path": "figures/fig225.jpg",
-          "status": "candidate_crop"
+          "number": 225
         },
         {
-          "number": 226,
-          "path": "figures/fig226.jpg",
-          "status": "candidate_crop"
+          "number": 226
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3872,14 +3420,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 227,
-          "path": "figures/fig227.jpg",
-          "status": "candidate_crop"
+          "number": 227
         },
         {
-          "number": 228,
-          "path": "figures/fig228.jpg",
-          "status": "candidate_crop"
+          "number": 228
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3903,14 +3447,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 229,
-          "path": "figures/fig229.jpg",
-          "status": "candidate_crop"
+          "number": 229
         },
         {
-          "number": 230,
-          "path": "figures/fig230.jpg",
-          "status": "candidate_crop"
+          "number": 230
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3934,14 +3474,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 231,
-          "path": "figures/fig231.jpg",
-          "status": "candidate_crop"
+          "number": 231
         },
         {
-          "number": 232,
-          "path": "figures/fig232.jpg",
-          "status": "candidate_crop"
+          "number": 232
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3965,14 +3501,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 233,
-          "path": "figures/fig233.jpg",
-          "status": "candidate_crop"
+          "number": 233
         },
         {
-          "number": 234,
-          "path": "figures/fig234.jpg",
-          "status": "candidate_crop"
+          "number": 234
         }
       ],
       "display_scan": "source_display.jpg",
@@ -3996,14 +3528,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 235,
-          "path": "figures/fig235.jpg",
-          "status": "candidate_crop"
+          "number": 235
         },
         {
-          "number": 236,
-          "path": "figures/fig236.jpg",
-          "status": "candidate_crop"
+          "number": 236
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4027,9 +3555,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 237,
-          "path": "figures/fig237.jpg",
-          "status": "candidate_crop"
+          "number": 237
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4053,14 +3579,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 238,
-          "path": "figures/fig238.jpg",
-          "status": "candidate_crop"
+          "number": 238
         },
         {
-          "number": 239,
-          "path": "figures/fig239.jpg",
-          "status": "candidate_crop"
+          "number": 239
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4084,14 +3606,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 240,
-          "path": "figures/fig240.jpg",
-          "status": "candidate_crop"
+          "number": 240
         },
         {
-          "number": 241,
-          "path": "figures/fig241.jpg",
-          "status": "candidate_crop"
+          "number": 241
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4115,9 +3633,7 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 242,
-          "path": "figures/fig242.jpg",
-          "status": "candidate_crop"
+          "number": 242
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4141,14 +3657,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 243,
-          "path": "figures/fig243.jpg",
-          "status": "candidate_crop"
+          "number": 243
         },
         {
-          "number": 244,
-          "path": "figures/fig244.jpg",
-          "status": "candidate_crop"
+          "number": 244
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4172,14 +3684,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 245,
-          "path": "figures/fig245.jpg",
-          "status": "candidate_crop"
+          "number": 245
         },
         {
-          "number": 246,
-          "path": "figures/fig246.jpg",
-          "status": "candidate_crop"
+          "number": 246
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4203,14 +3711,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 247,
-          "path": "figures/fig247.jpg",
-          "status": "candidate_crop"
+          "number": 247
         },
         {
-          "number": 248,
-          "path": "figures/fig248.jpg",
-          "status": "candidate_crop"
+          "number": 248
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4234,14 +3738,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 249,
-          "path": "figures/fig249.jpg",
-          "status": "candidate_crop"
+          "number": 249
         },
         {
-          "number": 250,
-          "path": "figures/fig250.jpg",
-          "status": "candidate_crop"
+          "number": 250
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4265,14 +3765,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 251,
-          "path": "figures/fig251.jpg",
-          "status": "candidate_crop"
+          "number": 251
         },
         {
-          "number": 252,
-          "path": "figures/fig252.jpg",
-          "status": "candidate_crop"
+          "number": 252
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4296,14 +3792,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 253,
-          "path": "figures/fig253.jpg",
-          "status": "candidate_crop"
+          "number": 253
         },
         {
-          "number": 254,
-          "path": "figures/fig254.jpg",
-          "status": "candidate_crop"
+          "number": 254
         }
       ],
       "display_scan": "source_display.jpg",
@@ -4327,14 +3819,10 @@
       "translation_es_status": "draft",
       "figures": [
         {
-          "number": 255,
-          "path": "figures/fig255.jpg",
-          "status": "candidate_crop"
+          "number": 255
         },
         {
-          "number": 256,
-          "path": "figures/fig256.jpg",
-          "status": "candidate_crop"
+          "number": 256
         }
       ],
       "display_scan": "source_display.jpg",

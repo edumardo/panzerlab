@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild049",
       "number": 49,
-      "image": "figures/fig049.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Splint und Scheibe sowie Bolzen aus dem vorderen und hinteren Gelenk der Gelenkwelle des Schwungkraftanlassers entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild050",
       "number": 50,
-      "image": "figures/fig050.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die Schrauben der Lüftergelenkwelle an der Lüfterriemenscheibe entfernen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild253",
       "number": 253,
-      "image": "figures/fig253.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Kurbelwelle des Motors so weit herumdrehen, daß die Rolle des Kipphebels an dem jeweilig einzustellenden Ventil nicht auf der Nocke der Nockenwelle steht. Mit 11-Maulschlüssel die Feststellschraube der Exzenterbuchse lösen und diese so drehen, daß das Ventilspiel, welches mit der Fühlerlehre ermittelt wird, 0,25 mm beträgt. Exzenterbuchse nach dem Einstellen mit der Feststellschraube wieder festziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild254",
       "number": 254,
-      "image": "figures/fig254.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Zündleitung und den Schnapper-Magnetzünder einbauen. (Einbau und Einstellung des Magneten am Motor, Bild 198-200.) Zylinderkopfhaube aufsetzen, diese mit den Handschrauben festschrauben.",

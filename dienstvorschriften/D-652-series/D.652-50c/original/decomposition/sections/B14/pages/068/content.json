@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild115",
       "number": 115,
-      "image": "figures/fig115.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die beiden Befestigungsschrauben des Abschlußdeckels herausschrauben und Deckel mit Einstellscheiben abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild116",
       "number": 116,
-      "image": "figures/fig116.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Spindel der Zwischenradbolzen-Ausziehvorrichtung in den Bolzen einschrauben und Ausziehkappe überführen. Achsbolzen durch Anziehen der Mutter ausziehen. Zwischenrad ausheben.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild101",
       "number": 101,
-      "image": "figures/fig101.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Drahtsicherung aus den Befestigungsschrauben der Riemenscheibe entfernen und diese mit 17-Steckschlüssel ausschrauben. Die beiden ersten Schrauben in die Gewindelöcher des Schwingungsdämpfers schrauben, damit dieser nicht beim Abnehmen durch die im Inneren des Schwingungsdämpfers liegenden Federn auseinanderspringen kann.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild102",
       "number": 102,
-      "image": "figures/fig102.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Riemenscheibe mit Schwingungsdämpfer sowie die hintere Reibscheibe von der Nabe heben.",

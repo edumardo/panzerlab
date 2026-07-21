@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild005",
       "number": 5,
-      "image": "figures/fig005.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Splinte und mit 22-Steckschlüssel die vier Muttern an der Abschlußkappe entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild006",
       "number": 6,
-      "image": "figures/fig006.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Splinte entfernen und mit 19- und 22-Maulschlüssel die Kronenmutter der Kurbelachse lösen.",

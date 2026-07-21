@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild121",
       "number": 121,
-      "image": "figures/fig121.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Motorenöl auf etwa 150° erhitzen. Kolben hineinlegen und diese durchwärmen lassen. Bolzenaugen des Kolbens in der Flucht mit der Pleuelbuchse halten und den Kolbenbolzen bis zum Anschlag an den Seegerring schnell hineinschieben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild122",
       "number": 122,
-      "image": "figures/fig122.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Seegerzange in das andere Kolbenbolzenauge den Seegerring einsetzen.",

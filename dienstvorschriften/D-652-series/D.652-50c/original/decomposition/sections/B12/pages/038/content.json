@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild055",
       "number": 55,
-      "image": "figures/fig055.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Dorn die Schlauchbinder am Wasserrohr und am Ölkühler lösen. Kühlwasserschlauch auf das Wasserrohr schieben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild056",
       "number": 56,
-      "image": "figures/fig056.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Maulschlüssel die Schraube der Rohrbefestigung abschrauben.",

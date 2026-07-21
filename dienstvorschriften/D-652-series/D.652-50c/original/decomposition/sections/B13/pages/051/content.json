@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild081",
       "number": 81,
-      "image": "figures/fig081.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 22-Steckschlüssel die Zylinderkopfschrauben ausschrauben und Kipphebelwellen mit den Lagerböcken abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild082",
       "number": 82,
-      "image": "figures/fig082.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die seitlichen Befestigungsschrauben des Zylinderkopfes ausschrauben.",

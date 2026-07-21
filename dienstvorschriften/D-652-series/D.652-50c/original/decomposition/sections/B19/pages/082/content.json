@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild143",
       "number": 143,
-      "image": "figures/fig143.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Steckschlüssel die Befestigungsschrauben der Riemenscheibe entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild144",
       "number": 144,
-      "image": "figures/fig144.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Durch leichtes Schlagen mit Holzhammer die Riemenscheibe von der Wasserpumpenwelle lösen.",

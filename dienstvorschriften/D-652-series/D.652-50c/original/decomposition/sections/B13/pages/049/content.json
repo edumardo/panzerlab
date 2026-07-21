@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild077",
       "number": 77,
-      "image": "figures/fig077.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 20-Maulschlüssel die Befestigungsschrauben des Leitungabschlußdeckels herausschrauben und Deckel abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild078",
       "number": 78,
-      "image": "figures/fig078.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher aus den Zündkerzensteckern die Aufsteckschrauben herausschrauben. Leitung durch die Stecker schieben und die Kontaktschrauben ausschrauben. Stecker von den Leitungen abziehen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild113",
       "number": 113,
-      "image": "figures/fig113.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 10-Maulschlüssel die Halteschraube der Blechsicherung und mit 14-Maulschlüssel die Ölschlauchbefestigungsschraube zu beiden Seiten des Motors entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild114",
       "number": 114,
-      "image": "figures/fig114.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Splinte aus dem vorderen und hinteren Ölzuführungslager entfernen und mit 17-Steckschlüssel die Muttern von den Paßschrauben schrauben. Paßschrauben ausschlagen und obere Lagerhälfte abheben. Kurbelwelle aus dem Gehäuse heben.",

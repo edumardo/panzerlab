@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild063",
       "number": 63,
-      "image": "figures/fig063.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Maulschlüssel die hintere Motorbefestigungsschraube unterhalb der Lichtmaschine abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild064",
       "number": 64,
-      "image": "figures/fig064.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14- und 17-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau entfernen.",

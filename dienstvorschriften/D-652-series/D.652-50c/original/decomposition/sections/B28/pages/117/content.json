@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild209",
       "number": 209,
-      "image": "figures/fig209.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schwimmer-Halteschraube ganz herausschrauben und Schwimmer aus dem Vergaser heben. Kleinen Vorlegering beachten.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild210",
       "number": 210,
-      "image": "figures/fig210.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schwimmer erneuern und diesen in umgekehrter Reihenfolge wieder einbauen. Freilaufbrücke mit Lehre oder Abmessen auf gleichmäßige Höhe prüfen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild009",
       "number": 9,
-      "image": "figures/fig009.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Anbau für die Warmluftbeheizung des Kampfraumes an dem hinteren Luftleitblech (bei der neueren Ausführung des Panzers III bzw. Sturmgeschützes) entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild010",
       "number": 10,
-      "image": "figures/fig010.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Schrauben aus dem Luftleitblech und Streben am linken Lüfter mit 10- und 14-Maulschlüssel entfernen.",

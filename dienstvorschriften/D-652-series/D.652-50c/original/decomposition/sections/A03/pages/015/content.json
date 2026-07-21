@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild019",
       "number": 19,
-      "image": "figures/fig019.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Mit der Lüfterriemen-Nachstellvorrichtung die Riemen so stramm spannen, daß diese sich in der Mitte 2 cm durchdrücken lassen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild020",
       "number": 20,
-      "image": "figures/fig020.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Rutschkupplung mit Hakenschlüssel so einstellen, daß sich der Lüfter am Umfang bei gespannten Riemen schwer durchziehen läßt. An den angebrachten Kreidestrichen durch schnelles Beschleunigen des Motors die richtige Einstellung der Rutschkupplung prüfen. (Die Riemenscheibe muß beim Gasgeben durchrutschen.)",

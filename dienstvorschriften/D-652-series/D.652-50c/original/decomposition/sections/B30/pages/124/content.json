@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild223",
       "number": 223,
-      "image": "figures/fig223.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "In der Reihenfolge, den auf den Kolben eingeschlagenen Zahlen nach, die Kolben mit Pleuelstangen einbauen. Darauf achten, daß die Zahlen auf den Kolben, alle nach einer Seite, nach außen zeigen. Zum besseren Einbau eine Kolbenringzange oder sonstiges Hilfswerkzeug verwenden.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild224",
       "number": 224,
-      "image": "figures/fig224.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Pleuellager mit den beiden Pleuelschrauben verschrauben. Kronenmuttern durch Versplinten sichern.",

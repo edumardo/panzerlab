@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild219",
       "number": 219,
-      "image": "figures/fig219.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An dem vorderen Gehäuseflansch den Gummidichtring erneuern.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild220",
       "number": 220,
-      "image": "figures/fig220.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Am vorderen und hinteren Ende der Kurbelwelle die Ölzuführungslager anschrauben. Kronenmuttern versplinten.",

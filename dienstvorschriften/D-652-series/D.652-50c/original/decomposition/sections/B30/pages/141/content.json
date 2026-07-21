@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild255",
       "number": 255,
-      "image": "figures/fig255.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Rechten vorderen Motoraufhängebock an den Motor bauen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild256",
       "number": 256,
-      "image": "figures/fig256.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Gelenkwelle zum Lüfterantrieb an die Riemenscheibe des Motors bauen.",

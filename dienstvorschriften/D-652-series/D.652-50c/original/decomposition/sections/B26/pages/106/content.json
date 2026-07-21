@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild190",
       "number": 190,
-      "image": "figures/fig190.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Ritzel aus dem Schwungkraftanlasser ziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild191",
       "number": 191,
-      "image": "figures/fig191.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die Schlitzschrauben des vorderen Lagerdeckels ausschrauben.",

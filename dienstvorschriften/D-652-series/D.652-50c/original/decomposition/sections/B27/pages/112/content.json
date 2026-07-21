@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild200",
       "number": 200,
-      "image": "figures/fig200.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher an der kleinen Stellschraube bei abgehobenem Unterbrecher den Abstand der Kontakte einstellen. Der Abstand der Unterbrecherkontakte muß bei den drei Unterbrechern gleich groß sein (0,4 mm). Kontaktträger nach Einstellen mit der Feststellschraube wieder festschrauben, Bild 199.",

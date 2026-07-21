@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild164",
       "number": 164,
-      "image": "figures/fig164.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher den Keil an der Lüfterseite entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild165",
       "number": 165,
-      "image": "figures/fig165.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die Schrauben aus dem vorderen Lagerdeckel entfernen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild178",
       "number": 178,
-      "image": "figures/fig178.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die Senkschrauben aus dem vorderen Lagerflansch entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild179",
       "number": 179,
-      "image": "figures/fig179.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Vor dem Aus- und Einbau des Ankers die Bürstenfedern seitlich gegen die Kohlebürsten setzen.",

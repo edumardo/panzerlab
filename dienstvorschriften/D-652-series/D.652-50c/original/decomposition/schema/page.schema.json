@@ -18,10 +18,9 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["path", "status"],
+        "required": ["number"],
         "properties": {
           "number": {"type": ["integer", "null"]},
-          "role": {"type": "string"},
           "path": {"type": "string"},
           "status": {"enum": ["candidate_crop", "draft", "validated"]}
         }

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild013",
       "number": 13,
-      "image": "figures/fig013.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Splinte aus den Befestigungsschrauben des Lüftergehäuses ziehen und mit 22-Ring- oder Steckschlüssel die Kronenmuttern entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild014",
       "number": 14,
-      "image": "figures/fig014.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Mutter von der Gelenkverschraubung zwischen Lüfter und Kühler mit 22-Ring- oder Steckschlüssel entfernen und Lüfter ausheben. Filzdichtung zwischen Lüfter und Kühler beachten.",

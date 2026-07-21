@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild047",
       "number": 47,
-      "image": "figures/fig047.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Splint und Scheibe aus dem oberen Einrückgestänge des Schwungkraftanlassers entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild048",
       "number": 48,
-      "image": "figures/fig048.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Unteres Einrückgestänge zum Schwungkraftanlasser mit Schraubenzieher von dem Hebel abdrücken. Hebel nach hinten legen.",

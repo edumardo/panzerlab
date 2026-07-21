@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild225",
       "number": 225,
-      "image": "figures/fig225.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An das untere Motorengehäuse mit 14-Maulschlüssel die Ölpumpen anbauen. Die Dichtungen zwischen Pumpen und Gehäuse beachten.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild226",
       "number": 226,
-      "image": "figures/fig226.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die beiden Ölschläuche zu beiden Seiten des Motors an das Motorgehäuse anschrauben. Dichtungen beachten. Sicherungsbleche auf die Vierkantköpfe der beiden Befestigungsschrauben legen und Sicherungsbleche mit den 10-mm-Kopfschrauben festschrauben.",

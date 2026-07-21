@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild186",
       "number": 186,
-      "image": "figures/fig186.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Federring auflegen und mit 10-Steckschlüssel die Mutter der Ankerwelle einschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild187",
       "number": 187,
-      "image": "figures/fig187.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bürstenfedern von der seitlichen Feststellage in die Normallage bringen. Kappe überführen und die beiden Senkschrauben einschrauben.",

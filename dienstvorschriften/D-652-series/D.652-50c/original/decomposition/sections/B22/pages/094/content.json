@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild166",
       "number": 166,
-      "image": "figures/fig166.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Vor dem Aus- und Einbau des Ankers die Kohlebürsten festsetzen. Bürstenfedern von den Kohlebürsten abheben und diese seitlich gegen die Kohlebürsten drücken lassen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild167",
       "number": 167,
-      "image": "figures/fig167.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Anker durch leichtes Schlagen mit einem Holz- oder Gummihammer aus seiner Lagerung lösen.",

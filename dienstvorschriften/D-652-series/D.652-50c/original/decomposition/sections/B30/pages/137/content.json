@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild247",
       "number": 247,
-      "image": "figures/fig247.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Dichtung unterlegen und den Spaltfilter mit den vier Befestigungsschrauben an das Ölpumpengehäuse schrauben. Schrauben durch Umbiegen der Blechsicherungen sichern.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild248",
       "number": 248,
-      "image": "figures/fig248.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Dichtungen und Abstandplatten zwischen den Kraftstoffpumpen und dem Motorgehäuse legen und diese mit 14-Maulschlüssel festschrauben. Mit 19-Maulschlüssel die Rohrleitungen anschrauben und Hohlschrauben und Überwurfmuttern durch Drahtsicherung sichern.",

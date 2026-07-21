@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild162",
       "number": 162,
-      "image": "figures/fig162.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Abziehvorrichtung die Riemenscheibe abziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild163",
       "number": 163,
-      "image": "figures/fig163.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die vier Senkschrauben aus dem Lagerdeckel an der Lüfterseite entfernen.",

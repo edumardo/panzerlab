@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild217",
       "number": 217,
-      "image": "figures/fig217.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die nach mehrmaligem Reinigen des Kraftstoffilters unbrauchbar gewordene Dichtung entfernen und neue einsetzen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild218",
       "number": 218,
-      "image": "figures/fig218.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Gehäusedeckel aufsetzen und diesen mit den vier Muttern verschrauben.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild087",
       "number": 87,
-      "image": "figures/fig087.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 19-Maulschlüssel die beiden Lochschrauben der Kraftstoffleitung an den Vergasern abschrauben. Mit 14-Maulschlüssel die Befestigungsmuttern der Vergaser abschrauben. Kugelgelenke der Vergasergestänge an den Vergasern ausdrücken. Zugfedern aushängen und Vergaser abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild088",
       "number": 88,
-      "image": "figures/fig088.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die Befestigungsmuttern des Schnapper-Magneten entfernen und diesen aus dem Motorgehäuse heben.",

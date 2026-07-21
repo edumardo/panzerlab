@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild089",
       "number": 89,
-      "image": "figures/fig089.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Steck- und Maulschlüssel die Befestigungsschrauben des Ölbehälters entfernen, diesen abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild090",
       "number": 90,
-      "image": "figures/fig090.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die vier Befestigungsschrauben des elektrischen Anlassers entfernen und Spannschellen und Anlasser abheben.",

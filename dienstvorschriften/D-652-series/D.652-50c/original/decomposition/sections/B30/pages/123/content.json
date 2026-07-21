@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild221",
       "number": 221,
-      "image": "figures/fig221.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An dem Kugellagerflansch der Kurbelwelle den Gummidichtring erneuern.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild222",
       "number": 222,
-      "image": "figures/fig222.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Kurbelwelle mit den Rollenlagerringen in das Gehäuse führen. (Die beiden Zapfen der Ölzuführungslager müssen in die Ausfräsungen des Zylinderblockes geführt werden.) Rollenlagerringe in dem Gehäuse drehen, damit sich diese in den Gehäusebohrungen zentrieren.",

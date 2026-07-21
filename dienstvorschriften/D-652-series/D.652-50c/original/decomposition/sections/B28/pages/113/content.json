@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild201",
       "number": 201,
-      "image": "figures/fig201.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 19-Maulschlüssel die Schrauben aus der Kraftstoffleitung an den Vergasern entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild202",
       "number": 202,
-      "image": "figures/fig202.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 11-Maulschlüssel die sechs Schrauben aus dem oberen Vergasergehäusedeckel entfernen.",

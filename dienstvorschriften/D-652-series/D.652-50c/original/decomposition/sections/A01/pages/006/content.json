@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild003",
       "number": 3,
-      "image": "figures/fig003.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Befestigungsschrauben der Heckpanzerung innerhalb des Kampfraumes mit 19-Maulschlüssel entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild004",
       "number": 4,
-      "image": "figures/fig004.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Heckpanzerung mit Hebezeug und drei Drahtseilen, die in die dafür vorgesehenen Haken auf der Heckpanzerung eingehängt werden, abheben.",

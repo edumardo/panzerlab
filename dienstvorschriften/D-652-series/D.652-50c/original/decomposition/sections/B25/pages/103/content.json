@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild184",
       "number": 184,
-      "image": "figures/fig184.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Beschädigte Teile des Antriebes durch neue ersetzen und diese wieder einbauen, Bild 182 (Kupplung, Ritzel usw.). Anker des Anlassers in das Gehäuse führen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild185",
       "number": 185,
-      "image": "figures/fig185.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die vier langen Verbindungsbolzen einschrauben. In dem vorderen Lagerdeckel den Paßstift beachten.",

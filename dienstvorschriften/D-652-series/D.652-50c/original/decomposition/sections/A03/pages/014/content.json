@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild017",
       "number": 17,
-      "image": "figures/fig017.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Splinte aus den Kronenmuttern der Kühlerbefestigung entfernen und diese mit 17-Maulschlüssel abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild018",
       "number": 18,
-      "image": "figures/fig018.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Klemmschrauben am Überdruckventil mit 11-mm-Maulschlüssel lösen und Überlaufrohr ausziehen. Kühler nach oben ausheben.",

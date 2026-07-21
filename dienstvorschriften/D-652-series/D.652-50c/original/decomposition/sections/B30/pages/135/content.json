@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild243",
       "number": 243,
-      "image": "figures/fig243.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Elektrischen Anlasser in das Motorgehäuse schieben, Spannschellen aufsetzen und die vier Befestigungsschrauben mit 14-Maulschlüssel einschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild244",
       "number": 244,
-      "image": "figures/fig244.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Dichtungsmasse neue Dichtungen auf die Flansche heften und den Ölbehälter mit einem 14-Maul- und 17-Steckschlüssel festschrauben.",

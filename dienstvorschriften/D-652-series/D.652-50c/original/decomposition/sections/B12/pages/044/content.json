@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild067",
       "number": 67,
-      "image": "figures/fig067.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Flügelmuttern an den Luftfiltern lösen und diese ausheben. (Alte Ausführung.)",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild068",
       "number": 68,
-      "image": "figures/fig068.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 22-Maulschlüssel die Befestigungsschrauben des Luftfiltergehäuses abschrauben.",

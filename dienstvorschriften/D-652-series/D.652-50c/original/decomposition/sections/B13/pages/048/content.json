@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild075",
       "number": 75,
-      "image": "figures/fig075.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die beiden Befestigungsschrauben des Verteilerbogens ausschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild076",
       "number": 76,
-      "image": "figures/fig076.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 36-Maulschlüssel die beiden Überwurfmuttern der Entstörrohrbefestigung am Motor abschrauben.",

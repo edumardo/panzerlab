@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild109",
       "number": 109,
-      "image": "figures/fig109.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Zange die Splinte aus den Pleuelschrauben ziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild110",
       "number": 110,
-      "image": "figures/fig110.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 19-Steckschlüssel die Muttern von den Pleuelschrauben entfernen.",

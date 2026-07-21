@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild043",
       "number": 43,
-      "image": "figures/fig043.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Steckschlüssel die Befestigungsschrauben des Sammlerkastens entfernen und diesen ausheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild044",
       "number": 44,
-      "image": "figures/fig044.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bei der neueren Ausführung des Pz Kpfw. III bzw. Sturmgeschützes das Rohr der Warmluftbeheizung für den Kampfraum, 1, sowie den Munitionskasten unterhalb des Sammlerkastens, 2, mit ausbauen. Linken Lüfter und Kühler ausbauen, Bild 5—18.",

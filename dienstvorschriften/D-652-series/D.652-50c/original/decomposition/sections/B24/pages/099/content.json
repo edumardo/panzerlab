@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild176",
       "number": 176,
-      "image": "figures/fig176.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Feder von der Kohlebürste abheben und diese ausziehen. Kohlebürste durch neue ersetzen und diese mit der Schraube wieder festschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild177",
       "number": 177,
-      "image": "figures/fig177.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 10-Steckschlüssel die Mutter und den Federring von der Ankerwelle entfernen.",

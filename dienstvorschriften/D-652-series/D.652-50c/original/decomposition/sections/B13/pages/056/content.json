@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild091",
       "number": 91,
-      "image": "figures/fig091.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 32-Maulschlüssel die Überwurfmuttern von den Rohrleitungen des Ölkühlers und mit 14-Maulschlüssel die zwei Schrauben aus dem Rohrflansch 1, 2, 3, 4 schrauben. Mit 14-Maulschlüssel die zwei Befestigungsschrauben des Ölkühlers ausschrauben und diesen abheben, 5.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild092",
       "number": 92,
-      "image": "figures/fig092.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die sechs Befestigungsschrauben des Schwungkraftanlassers entfernen. Schellen und Anlasser ausheben.",

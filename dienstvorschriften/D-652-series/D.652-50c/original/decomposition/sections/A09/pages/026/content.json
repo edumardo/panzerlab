@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild033",
       "number": 33,
-      "image": "figures/fig033.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An der hinteren Trennwand innerhalb des Kampfraumes die Befestigungsschrauben des Bugpanzers entsichern und diese mit 19-Maulschlüssel entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild034",
       "number": 34,
-      "image": "figures/fig034.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 10-Maulschlüssel die Mutter von dem Keilbolzen an dem Lüfterklappenverstellhebel entfernen und Keilbolzen ausschlagen. Welle mit Gestänge vom Motorraum aus zurückziehen.",

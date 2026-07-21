@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild001",
       "number": 1,
-      "image": "figures/fig001.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Hauptschalter ausschalten, 1, Keilbolzen aus dem Lüfterklappenverstellhebel entfernen und Hebel von der Welle ziehen. Vom Motorraum aus die Welle mit den Gestängen aus der Lagerung ziehen.",
@@ -82,8 +80,6 @@
     {
       "id": "d65250c-bild002",
       "number": 2,
-      "image": "figures/fig002.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Drahtschutz von den Luftkanalanbauten seitlich der Heckpanzerung entfernen und mit Steck- und Maulschlüssel, 22 mm MW, die seitlichen Befestigungsschrauben der Heckpanzerung ausschrauben.",

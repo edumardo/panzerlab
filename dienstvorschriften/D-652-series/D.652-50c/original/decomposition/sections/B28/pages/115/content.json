@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild205",
       "number": 205,
-      "image": "figures/fig205.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Vergaserschlüssel das Düsenhütchen abschrauben und Hauptdüse herausziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild206",
       "number": 206,
-      "image": "figures/fig206.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Beim Einbau die richtige Anordnung der Düsen beachten (Düsen wie auf Abbildung einsetzen). Lufteinstellschraube ganz hereindrehen und 2 1/2 Umdrehungen wieder zurück. (Richtige Leerlaufeinstellung.)",

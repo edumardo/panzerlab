@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild203",
       "number": 203,
-      "image": "figures/fig203.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Vergasergehäusedeckel abheben. Dichtung beachten.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild204",
       "number": 204,
-      "image": "figures/fig204.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 7-mm-Maulschlüssel die Leerlaufdüse herausschrauben und diese mit Preßluft durchblasen. (Düsen nicht mit dem Mund durchblasen, da Vergiftungsgefahr durch Bleibenzin besteht.)",

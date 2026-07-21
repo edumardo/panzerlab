@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild083",
       "number": 83,
-      "image": "figures/fig083.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Am linken Zylinderkopf die Schrauben aus dem Flansch mit der Lagerung der Schwungkraftanlassergelenkwelle entfernen und Flansch abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild084",
       "number": 84,
-      "image": "figures/fig084.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit der Brechstange die Zylinderköpfe vom Motorblock lösen und diese abheben.",

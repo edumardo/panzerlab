@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild069",
       "number": 69,
-      "image": "figures/fig069.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Luftfilterdeckel ausheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild070",
       "number": 70,
-      "image": "figures/fig070.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Am linken vorderen Lagerblock der Motor-Aufhängung die vier Schrauben entsichern und diese mit 22-Ring- oder Steckschlüssel ausschrauben.",

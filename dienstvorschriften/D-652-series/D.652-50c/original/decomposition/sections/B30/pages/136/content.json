@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild245",
       "number": 245,
-      "image": "figures/fig245.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Den Ölkühler in die beiden Spannschellen setzen und die zwei Spannschrauben von Hand einschrauben. Rohrleitungen zur Ölpumpe mit 32-Maulschlüssel festschrauben. Zwischen Flansch des einen Rohranschlusses eine Dichtung legen und mit 14-Maulschlüssel die beiden Befestigungsschrauben einschrauben. Mit 14-Maulschlüssel die beiden Befestigungsschrauben des Ölkühlers festziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild246",
       "number": 246,
-      "image": "figures/fig246.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schwungkraftanlasser in das Motorengehäuse schieben. Spannschellen übersetzen und die sechs Befestigungsschrauben mit 14-Maulschlüssel einschrauben.",

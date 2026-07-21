@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild170",
       "number": 170,
-      "image": "figures/fig170.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Anker in das Gehäuse der Lichtmaschine führen. Mit Holz- oder Gummihammer das hintere Lager in seinen Sitz schlagen. Den hinteren vierkantigen Lagerabschlußdeckel im Innern der Lichtmaschine (Kollektorseite) und den Paßstift in dem vorderen Lagerdeckel beachten. Befestigungsschrauben des vorderen Lagerdeckels einschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild171",
       "number": 171,
-      "image": "figures/fig171.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Inneren vierkantigen Lagerabschlußdeckel so weit herumdrehen, daß die Schraubenlöcher übereinander stehen. Die vier Senkschrauben einschrauben.",

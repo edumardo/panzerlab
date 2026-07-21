@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild129",
       "number": 129,
-      "image": "figures/fig129.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit der Federspannvorrichtung die Ventilfedern zusammendrücken und Keile ausziehen. Ventilfedern und Ventile ausheben. Zum Auswechseln der Nockenwelle das Stirnrad abschrauben und Welle durch die seitliche Bohrung in dem Zylinderkopf ausziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild130",
       "number": 130,
-      "image": "figures/fig130.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit der Vorrichtung die Ventilführungen ausziehen oder diese mit einem Paßdorn herausschlagen.",

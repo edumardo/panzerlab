@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild035",
       "number": 35,
-      "image": "figures/fig035.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Am Heck an der Nebelkerzenabwurfvorrichtung den Drahtzug lösen und diesen an dem Zuggriff ausziehen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild036",
       "number": 36,
-      "image": "figures/fig036.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die Leitungen zu den Funkgeräten, Deckenbeleuchtung, Lüfter und anderen elektrischen Einrichtungen abklemmen. Einzelne Leitungen bezeichnen, damit diese beim Anschließen nicht verwechselt werden.",

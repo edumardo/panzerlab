@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild041",
       "number": 41,
-      "image": "figures/fig041.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Sammler an den Versenkgriffen aus dem Panzer heben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild042",
       "number": 42,
-      "image": "figures/fig042.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schraubstopfen aus dem Sammler entfernen und mit Säureprüfer Säuredichte und Säurestand prüfen und Sammler aufladen.",

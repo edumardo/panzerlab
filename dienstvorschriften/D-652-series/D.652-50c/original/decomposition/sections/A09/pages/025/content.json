@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild031",
       "number": 31,
-      "image": "figures/fig031.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Geschütz ausbauen. Seitliche Befestigungsschrauben des Bugpanzers mit 22-Steck- und Maulschlüssel abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild032",
       "number": 32,
-      "image": "figures/fig032.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Über der mittleren Stützrolle bei stark festsitzenden oder sich drehenden Muttern die Kettenabdeckung entfernen und die Befestigungsschrauben mit geraden 22-Ringschlüsseln ausschrauben.",

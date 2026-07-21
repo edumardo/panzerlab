@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild215",
       "number": 215,
-      "image": "figures/fig215.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bei stark verschmutztem Filter die untere Schlitzschraube ausschrauben und Teile und Gehäuse reinigen. Schlitzschraube mit Kappe und Feder in das Gehäuse wieder einschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild216",
       "number": 216,
-      "image": "figures/fig216.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Filtereinsatz nach mehrmaligem Reinigen durch einen neuen ersetzen und diesen mit der großen Öffnung nach unten in das Gehäuse führen.",

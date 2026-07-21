@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild198",
       "number": 198,
-      "image": "figures/fig198.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Die vier Rändelschrauben des Verteilerabschlußdeckels abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild199",
       "number": 199,
-      "image": "figures/fig199.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die Feststellschraube am Kontaktträger lösen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild123",
       "number": 123,
-      "image": "figures/fig123.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Pleuelstange auf dem Richtgerät prüfen und diese nachrichten, wenn die Pleuellagerbohrung mit der Bohrung der Kolbenbolzenbuchse nicht in einer Flucht steht.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild124",
       "number": 124,
-      "image": "figures/fig124.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Steg mit der Zugspindel von der Kurbelwellenseite aus in die Zylinderlaufbuchse einführen. Glocke über die Spindel setzen und Zylinderlaufbuchse durch Anziehen der Mutter ausziehen.",

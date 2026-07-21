@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild133",
       "number": 133,
-      "image": "figures/fig133.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Wenn die Ventilschäfte noch gut sind, die Ventilsitze auf der Ventilschleifmaschine nachschleifen (30°).",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild134",
       "number": 134,
-      "image": "figures/fig134.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schleifmasse die beiden Sitze, des Ventiles und des Zylinderkopfes, einschleifen. Ventile den eingeschlagenen Zahlen nach in der Reihenfolge einschleifen.",

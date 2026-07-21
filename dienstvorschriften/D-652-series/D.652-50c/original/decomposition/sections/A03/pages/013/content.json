@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild015",
       "number": 15,
-      "image": "figures/fig015.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Mit 8-mm-Maulschlüssel und Schraubenzieher die Schlauchbinder am linken Kühler und den Rohrleitungen lösen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild016",
       "number": 16,
-      "image": "figures/fig016.jpg",
-      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die mit Schraubenzieher vorsichtig gelösten Kühlwasserschläuche von den Kühlerstutzen auf die Wasserrohre schieben.",

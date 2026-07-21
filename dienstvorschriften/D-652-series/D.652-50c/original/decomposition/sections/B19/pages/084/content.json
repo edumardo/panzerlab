@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild147",
       "number": 147,
-      "image": "figures/fig147.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Beide Gehäuseteile auseinanderheben. (Beim Zusammenbau der Wasserpumpe wird das Spiel zwischen Flügelrad und dem Pumpengehäuse durch Hinzufügen eines Einstellbleches vergrößert oder umgekehrt verkleinert.)",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild148",
       "number": 148,
-      "image": "figures/fig148.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Flügelradspiel durch Schauloch prüfen, dieses soll 0,5-0,8 mm betragen.",

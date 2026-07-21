@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild025",
       "number": 25,
-      "image": "figures/fig025.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Aus den hinteren Kühlerbefestigungsschrauben Splinte entfernen und mit 17-Maul- und Steckschlüssel die Kronenmuttern abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild026",
       "number": 26,
-      "image": "figures/fig026.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schlauchbinder mit Dorn lösen und die Kühlwasserschläuche von den Kühlerstutzen auf die Wasserrohre schieben.",

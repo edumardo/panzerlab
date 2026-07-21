@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild251",
       "number": 251,
-      "image": "figures/fig251.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Lagerböcke mit Kipphebelwellen auf die Zylinderköpfe setzen und diese mit den Zylinderköpfen auf das Motorgehäuse mit den langen Durchgangsschrauben festschrauben. Die seitlichen Befestigungsschrauben der Zylinderköpfe einschrauben, Bild 82.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild252",
       "number": 252,
-      "image": "figures/fig252.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Lagerflansch auf die Gelenkwelle des Schwungkraftanlassers schieben. Dichtung auflegen und Flansch an den Zylinderkopf schrauben.",

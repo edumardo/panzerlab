@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild085",
       "number": 85,
-      "image": "figures/fig085.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Maulschlüssel die beiden Befestigungsmuttern des Lichtmaschinenschutzbleches entfernen. Schraube zum Nachstellen der Riemenspannung zwischen den beiden Spannschellen lösen. Mit 17-Steckschlüssel die vier Befestigungsmuttern der Lichtmaschine an den Spannschellen entfernen. Schellen von den Bolzen ziehen und Lichtmaschine abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild086",
       "number": 86,
-      "image": "figures/fig086.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Maulschlüssel die vier Befestigungsschrauben der Wasserpumpe entfernen und diese abheben.",

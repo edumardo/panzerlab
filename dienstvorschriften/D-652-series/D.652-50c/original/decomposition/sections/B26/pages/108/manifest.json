@@ -11,9 +11,7 @@
   "translation_es_status": "draft",
   "figures": [
     {
-      "number": 194,
-      "path": "figures/fig194.jpg",
-      "status": "candidate_crop"
+      "number": 194
     }
   ],
   "display_scan": "source_display.jpg",

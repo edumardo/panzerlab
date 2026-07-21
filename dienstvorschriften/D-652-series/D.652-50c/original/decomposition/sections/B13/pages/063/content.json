@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild105",
       "number": 105,
-      "image": "figures/fig105.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Seitlich des Motorengehäuses mit 17-Steckschlüssel die Verbindungsschrauben entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild106",
       "number": 106,
-      "image": "figures/fig106.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Durch Aufschrauben einer 12-mm-Mutter die vier Kegelpaßstifte ausziehen.",

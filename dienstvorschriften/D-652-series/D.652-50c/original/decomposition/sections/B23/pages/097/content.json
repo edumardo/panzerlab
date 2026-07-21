@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild172",
       "number": 172,
-      "image": "figures/fig172.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bürstenfedern von der seitlichen Lage in die Normallage bringen, Bild 166. An der Lüfterseite den Keil einsetzen. Lüfter auf den Kegelsitz führen und verschrauben. Kohlebürsten am Lüfter beachten.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild173",
       "number": 173,
-      "image": "figures/fig173.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Riemenscheibe auf den Kegelsitz führen. Federring vorlegen und Mutter mit 27-Maulschlüssel festschrauben, Bild 161. Schutzkappe über den Lüfter führen und diese verschrauben, Bild 156.",

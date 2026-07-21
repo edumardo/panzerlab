@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild097",
       "number": 97,
-      "image": "figures/fig097.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Kupplung abbauen. Mit 14-Maulschlüssel an der Schwungradseite die Befestigungsschrauben des Lagerflansches entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild098",
       "number": 98,
-      "image": "figures/fig098.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Steckschlüssel die beiden Verbindungsschrauben des Lagerflansches entfernen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild111",
       "number": 111,
-      "image": "figures/fig111.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Dorn die Pleuelschrauben ausschlagen. Lagerschale abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild112",
       "number": 112,
-      "image": "figures/fig112.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit einem Holzklotz Pleuelstange mit Kolben durch die Zylinderlaufbuchse herausschlagen.",

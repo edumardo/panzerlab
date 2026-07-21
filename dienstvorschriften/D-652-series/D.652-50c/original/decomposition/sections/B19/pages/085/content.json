@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild149",
       "number": 149,
-      "image": "figures/fig149.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 17-Steckschlüssel die Hutmutter von dem Flügelrad entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild150",
       "number": 150,
-      "image": "figures/fig150.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Holzhammer und Schraubenzieher das Flügelrad vorsichtig von der Welle schlagen.",

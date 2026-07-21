@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild238",
       "number": 238,
-      "image": "figures/fig238.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Zwischenrad mit den Rollenlagern in das Gehäuse einführen. Achsbolzen einführen und diesen mit Hammer und Dorn so weit hereinschlagen, bis das seitliche Spiel der Zwischenradlagerung aufgehoben ist.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild239",
       "number": 239,
-      "image": "figures/fig239.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "So viel Ausgleichscheiben zwischen Abschlußdeckel und Achsbolzen legen, daß letzterer nicht zurück kann und das Zwischenrad sich bei festgeschraubtem Deckel in seiner Lagerung leicht drehen läßt.",

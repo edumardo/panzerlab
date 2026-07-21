@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild103",
       "number": 103,
-      "image": "figures/fig103.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die Senkschrauben aus der Motoraufhängestütze entsichern und entfernen und diese abheben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild104",
       "number": 104,
-      "image": "figures/fig104.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 22-Steckschlüssel die Gehäuseverbindungsschrauben des Motors entfernen.",

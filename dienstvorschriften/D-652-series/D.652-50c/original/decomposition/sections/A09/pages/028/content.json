@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild037",
       "number": 37,
-      "image": "figures/fig037.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Innerhalb des Kampfraumes die vorderen Bugpanzerbefestigungsschrauben und die zwei Befestigungsschrauben des Schaltbrettes entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild038",
       "number": 38,
-      "image": "figures/fig038.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bugpanzer mit vier Drahtseilen, welche in die dafür vorgesehenen Ösen mit S-Haken eingehängt sind, abheben.",

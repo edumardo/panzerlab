@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild117",
       "number": 117,
-      "image": "figures/fig117.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Aus den Pleuelzapfen der Kurbelwelle die Halteschrauben der Abschlußdeckel entfernen und die Bohrungen und Ölkanäle der Kurbelwelle reinigen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild118",
       "number": 118,
-      "image": "figures/fig118.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit feinem Schmirgelleinen die Lagerstellen der Kurbelwelle nachschleifen. (Nur wenig eingelaufene Kurbelwellen nacharbeiten.)",

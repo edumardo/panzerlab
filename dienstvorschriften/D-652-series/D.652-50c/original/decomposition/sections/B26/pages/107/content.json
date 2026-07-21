@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild192",
       "number": 192,
-      "image": "figures/fig192.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher in der dafür vorgesehenen Aussparung den Lagerdeckel abdrücken.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild193",
       "number": 193,
-      "image": "figures/fig193.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Innenteile reinigen und diese mit einigen Tropfen Öl einölen. Den vorderen Lagerdeckel wieder vorbauen.",

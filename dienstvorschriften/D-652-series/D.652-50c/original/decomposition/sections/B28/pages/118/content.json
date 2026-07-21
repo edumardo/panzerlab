@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild211",
       "number": 211,
-      "image": "figures/fig211.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Von dem Vergaserdeckel die Dichtung entfernen und mit 16-Maulschlüssel das Schwimmerventil ausschrauben. Ventil durch ein neues ersetzen und dieses wieder einsetzen. (Nur vorschriftsmäßige starke Dichtung verwenden.)",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild212",
       "number": 212,
-      "image": "figures/fig212.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die vier Senkschrauben aus dem Deckel zum Anlaßschieber entfernen und Federspannung sowie Anlageflächen des Schiebers und Gehäuses prüfen.",

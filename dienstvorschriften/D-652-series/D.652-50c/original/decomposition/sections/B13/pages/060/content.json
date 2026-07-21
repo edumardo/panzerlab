@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild099",
       "number": 99,
-      "image": "figures/fig099.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Maulschlüssel die zwei Schrauben aus dem Abschlußdeckel zur Antriebswelle der Öl- und Kraftstoffpumpen entfernen.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild100",
       "number": 100,
-      "image": "figures/fig100.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Mit 14-Steckschlüssel die Schrauben aus dem Gelenkwellenflansch der Lüftergelenkwelle entfernen.",

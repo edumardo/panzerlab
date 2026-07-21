@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild180",
       "number": 180,
-      "image": "figures/fig180.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Anker mit dem Lagerflansch aus dem Anlassergehäuse heben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild181",
       "number": 181,
-      "image": "figures/fig181.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Bei beschädigtem Anlasserritzel dieses so nachfeilen, daß sich der Lagerflansch leicht über das Ritzel abziehen läßt.",

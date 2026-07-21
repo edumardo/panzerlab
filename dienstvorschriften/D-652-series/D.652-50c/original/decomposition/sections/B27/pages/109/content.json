@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild195",
       "number": 195,
-      "image": "figures/fig195.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Die beiden Handschrauben aus der linken Zylinderkopfhaube schrauben und diese abheben. (Von der Wasserpumpenseite aus links.) Zum besseren Einstellen des Magnetzünders mit 11-Maulschlüssel den Abschlußdeckel zum Magnetzünderantrieb abschrauben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild196",
       "number": 196,
-      "image": "figures/fig196.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "An dem Zahnrad den Magnetzünder so einstellen, daß die Einstellzeichen an dem einen Unterbrecher übereinanderstehen. Magnetzünder durch langsames Weiterdrehen abreißen lassen und bis zum nächsten leichten Widerstand weiterdrehen.",

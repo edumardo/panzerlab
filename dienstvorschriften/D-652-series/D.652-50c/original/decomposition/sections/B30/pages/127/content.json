@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild229",
       "number": 229,
-      "image": "figures/fig229.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Gehäuseoberteil vorsichtig aufsetzen, damit Dichtscheiben und Rollenlagerringe nicht verkanten.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild230",
       "number": 230,
-      "image": "figures/fig230.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Gehäuseverbindungsschrauben einführen. Mit 22-Steckschlüssel an den vier Seiten je eine Schraube leicht anziehen.",

@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild240",
       "number": 240,
-      "image": "figures/fig240.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Unter und auf dem Vergaserzwischenstück neue Dichtungen legen und Vergaser mit den Muttern festschrauben. Kugelgelenke der Vergasergestänge aufdrücken und die Zugfedern einhängen. Kraftstoffleitung mit den beiden Lochschrauben an den Vergaser festschrauben, Dichtung beachten!",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild241",
       "number": 241,
-      "image": "figures/fig241.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Neue Dichtung auf das Motorgehäuse legen. Wasserpumpe aufsetzen, diese mit den vier Befestigungsschrauben festschrauben.",

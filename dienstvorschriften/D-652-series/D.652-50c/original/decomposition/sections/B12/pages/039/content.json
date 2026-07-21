@@ -26,8 +26,6 @@
     {
       "id": "d65250c-bild057",
       "number": 57,
-      "image": "figures/fig057.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Schlauchbinder am rechten Kühler und den beiden hinteren Motorstutzen lösen. Die mit Schraubenzieher vorsichtig gelösten Kühlwasserschläuche auf die Wasserrohre schieben.",
@@ -66,8 +64,6 @@
     {
       "id": "d65250c-bild058",
       "number": 58,
-      "image": "figures/fig058.jpg",
-      "status": "candidate_crop",
       "captions": {
         "de": {
           "plain": "Rohranlage abheben.",
