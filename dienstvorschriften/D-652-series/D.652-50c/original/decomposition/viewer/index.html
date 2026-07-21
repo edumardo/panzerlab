@@ -137,18 +137,6 @@
   .cap-block .fignum { color: var(--accent); font-weight: 600; display: block; margin-bottom: 4px; }
   .cap-block { padding: 10px 12px; background: var(--panel); border-radius: 6px; }
 
-  .status-tag {
-    display: inline-block;
-    font-size: 10px;
-    padding: 1px 6px;
-    border-radius: 3px;
-    background: #3a3a3a;
-    color: var(--muted);
-    margin-left: 6px;
-  }
-  .status-tag.draft { color: #e0b84d; }
-  .status-tag.candidate_crop { color: #e07d4d; }
-
   #loading, #error { padding: 40px; color: var(--muted); }
   #error { color: #e07d7d; }
 </style>
@@ -280,11 +268,6 @@ function setupTopbar() {
   };
 }
 
-function statusTag(status) {
-  if (!status || status === "not_applicable") return "";
-  return `<span class="status-tag ${status}">${status}</span>`;
-}
-
 function renderLangLines(texts) {
   // texts: { de, en, es } plain strings (any may be missing/null)
   let html = "";
@@ -350,7 +333,7 @@ async function showPage(pos) {
     for (const f of data.figures) {
       const c = f.captions || {};
       html += `<div class="cap-block">
-        <span class="fignum">Fig. ${f.number}${statusTag(f.status)}</span>
+        <span class="fignum">Fig. ${f.number}</span>
         ${renderLangLines({
           de: c.de && c.de.plain,
           en: c["en-GB"] && c["en-GB"].plain,
