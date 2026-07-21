@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>D 652/50c — decomposition viewer (draft)</title>
+<style>
+  :root {
+    --bg: #1e1e1e;
+    --panel: #262626;
+    --border: #3a3a3a;
+    --text: #e6e6e6;
+    --muted: #9a9a9a;
+    --accent: #4da3ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, Segoe UI, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  #sidebar {
+    width: 300px;
+    flex-shrink: 0;
+    background: var(--panel);
+    border-right: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 10px;
+  }
+  #sidebar h2 { font-size: 13px; color: var(--muted); text-transform: uppercase; margin: 14px 4px 6px; }
+  #sidebar .doc-title { font-size: 15px; font-weight: 600; margin: 4px; }
+  #sidebar .doc-sub { font-size: 12px; color: var(--muted); margin: 0 4px 10px; }
+  .sec-link {
+    display: block;
+    padding: 5px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--text);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .sec-link:hover { background: #333; }
+  .sec-link.active { background: var(--accent); color: #fff; }
+  .sec-link .num { color: var(--muted); margin-right: 4px; }
+  .sec-link.active .num { color: #dceaff; }
+
+  #main {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px 32px 60px;
+  }
+  #topbar {
+    position: sticky;
+    top: -24px;
+    margin: -24px -32px 20px;
+    padding: 12px 32px;
+    background: rgba(30,30,30,0.95);
+    backdrop-filter: blur(4px);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    z-index: 5;
+  }
+  #langSwitch button {
+    background: #333;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+  #langSwitch button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  #navBtns { margin-left: auto; display: flex; gap: 8px; }
+  #navBtns button {
+    background: #333;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #navBtns button:disabled { opacity: 0.4; cursor: default; }
+  #pageLabel { font-size: 13px; color: var(--muted); }
+
+  .page-title { font-size: 20px; margin: 0 0 4px; }
+  .page-meta { font-size: 12px; color: var(--muted); margin-bottom: 20px; }
+
+  .paragraph {
+    font-size: 15px;
+    line-height: 1.55;
+    margin-bottom: 14px;
+    max-width: 760px;
+  }
+  .paragraph b { color: var(--accent); }
+
+  .figures {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 24px;
+  }
+  .figure {
+    width: 340px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .figure img { width: 100%; display: block; background: #111; }
+  .figure .cap {
+    padding: 10px 12px;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .figure .cap .fignum { color: var(--accent); font-weight: 600; margin-right: 4px; }
+
+  .status-tag {
+    display: inline-block;
+    font-size: 10px;
+    padding: 1px 6px;
+    border-radius: 3px;
+    background: #3a3a3a;
+    color: var(--muted);
+    margin-left: 6px;
+  }
+  .status-tag.draft { color: #e0b84d; }
+  .status-tag.candidate_crop { color: #e07d4d; }
+
+  #loading, #error { padding: 40px; color: var(--muted); }
+  #error { color: #e07d7d; }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <div class="doc-title">D 652/50c</div>
+  <div class="doc-sub">Preliminary repair instructions for the engine</div>
+  <div id="toc">Loading table of contents…</div>
+</div>
+
+<div id="main">
+  <div id="topbar">
+    <div id="langSwitch">
+      <button data-lang="de">DE</button>
+      <button data-lang="en-GB">EN</button>
+      <button data-lang="es-ES">ES</button>
+    </div>
+    <span id="pageLabel"></span>
+    <div id="navBtns">
+      <button id="prevBtn">&larr; Prev</button>
+      <button id="nextBtn">Next &rarr;</button>
+    </div>
+  </div>
+  <div id="content"><div id="loading">Loading…</div></div>
+</div>
+
+<script>
+const BASE = ".."; // decomposition/ root, relative to this file
+const LANGS = ["de", "en-GB", "es-ES"];
+let lang = "en-GB";
+
+let contentsIndex = null;   // index/contents.json
+let sectionManifests = {};  // sectionId -> manifest.json
+let flatPages = [];         // ordered [{sectionId, page}]
+let currentPos = 0;
+
+async function getJSON(path) {
+  const res = await fetch(path);
+  if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.status}`);
+  return res.json();
+}
+
+function pad3(n) { return String(n).padStart(3, "0"); }
+
+function sectionTitle(sec, l) {
+  return sec.titles[l] || sec.titles["en-GB"] || sec.titles["de"];
+}
+
+function pagesDir(sectionId) {
+  return sectionId === "FrontMatter"
+    ? `${BASE}/frontmatter/pages`
+    : `${BASE}/sections/${sectionId}/pages`;
+}
+
+async function init() {
+  try {
+    contentsIndex = await getJSON(`${BASE}/index/contents.json`);
+    const frontMatterManifest = await getJSON(`${BASE}/frontmatter/manifest.json`);
+    const frontMatterGroup = {
+      id: "FrontMatter",
+      titles: { de: frontMatterManifest.titles.de, "en-GB": frontMatterManifest.titles.en, "es-ES": frontMatterManifest.titles.es },
+      sections: [{
+        id: "FrontMatter",
+        number: 0,
+        titles: { de: frontMatterManifest.titles.de, "en-GB": frontMatterManifest.titles.en, "es-ES": frontMatterManifest.titles.es },
+      }],
+    };
+    contentsIndex.groups = [frontMatterGroup, ...contentsIndex.groups];
+    sectionManifests["FrontMatter"] = frontMatterManifest;
+
+    const allSections = contentsIndex.groups.flatMap(g => g.sections.map(s => ({...s, group: g})));
+
+    // Load every remaining section manifest to get its exact page list.
+    await Promise.all(allSections.filter(s => s.id !== "FrontMatter").map(async s => {
+      sectionManifests[s.id] = await getJSON(`${BASE}/sections/${s.id}/manifest.json`);
+    }));
+
+    flatPages = [];
+    for (const s of allSections) {
+      for (const p of sectionManifests[s.id].pages) {
+        flatPages.push({ sectionId: s.id, page: p });
+      }
+    }
+
+    renderTOC(contentsIndex, allSections);
+    setupLangSwitch();
+    setupNav();
+
+    currentPos = 0;
+    await showPage(currentPos);
+  } catch (err) {
+    document.getElementById("content").innerHTML =
+      `<div id="error">Could not load the decomposition.<br>${err.message}<br><br>` +
+      `This viewer must be served over HTTP (fetch() cannot read local JSON from file://). ` +
+      `Try: <code>python -m http.server</code> from the <code>decomposition</code> folder, then open ` +
+      `<code>http://localhost:8000/viewer/</code>.</div>`;
+  }
+}
+
+function renderTOC(idx, allSections) {
+  const toc = document.getElementById("toc");
+  toc.innerHTML = "";
+  for (const group of idx.groups) {
+    const h = document.createElement("h2");
+    h.textContent = `${group.id} — ${sectionTitle(group, lang)}`;
+    h.dataset.group = group.id;
+    toc.appendChild(h);
+    for (const sec of group.sections) {
+      const a = document.createElement("a");
+      a.className = "sec-link";
+      a.dataset.section = sec.id;
+      a.innerHTML = `<span class="num">${sec.number}.</span>${sectionTitle(sec, lang)}`;
+      a.onclick = () => jumpToSection(sec.id);
+      toc.appendChild(a);
+    }
+  }
+}
+
+function updateTOCLanguage() {
+  const idx = contentsIndex;
+  document.querySelectorAll("#toc h2").forEach(h => {
+    const group = idx.groups.find(g => g.id === h.dataset.group);
+    h.textContent = `${group.id} — ${sectionTitle(group, lang)}`;
+  });
+  document.querySelectorAll("#toc .sec-link").forEach(a => {
+    const group = idx.groups.find(g => g.sections.some(s => s.id === a.dataset.section));
+    const sec = group.sections.find(s => s.id === a.dataset.section);
+    a.innerHTML = `<span class="num">${sec.number}.</span>${sectionTitle(sec, lang)}`;
+  });
+}
+
+function jumpToSection(sectionId) {
+  const pos = flatPages.findIndex(p => p.sectionId === sectionId);
+  if (pos >= 0) { currentPos = pos; showPage(currentPos); }
+}
+
+function setupLangSwitch() {
+  const btns = document.querySelectorAll("#langSwitch button");
+  btns.forEach(b => {
+    b.classList.toggle("active", b.dataset.lang === lang);
+    b.onclick = () => {
+      lang = b.dataset.lang;
+      btns.forEach(x => x.classList.toggle("active", x === b));
+      updateTOCLanguage();
+      showPage(currentPos);
+    };
+  });
+}
+
+function setupNav() {
+  document.getElementById("prevBtn").onclick = () => {
+    if (currentPos > 0) { currentPos--; showPage(currentPos); }
+  };
+  document.getElementById("nextBtn").onclick = () => {
+    if (currentPos < flatPages.length - 1) { currentPos++; showPage(currentPos); }
+  };
+}
+
+function statusTag(status) {
+  if (!status || status === "not_applicable") return "";
+  return `<span class="status-tag ${status}">${status}</span>`;
+}
+
+async function showPage(pos) {
+  const { sectionId, page } = flatPages[pos];
+  const content = document.getElementById("content");
+  content.innerHTML = `<div id="loading">Loading page ${page}…</div>`;
+
+  const data = await getJSON(`${pagesDir(sectionId)}/${pad3(page)}/content.json`);
+
+  document.getElementById("prevBtn").disabled = pos === 0;
+  document.getElementById("nextBtn").disabled = pos === flatPages.length - 1;
+  document.getElementById("pageLabel").textContent =
+    `Section ${sectionId} · Page ${page} (${pos + 1} / ${flatPages.length})`;
+
+  document.querySelectorAll("#toc .sec-link").forEach(a =>
+    a.classList.toggle("active", a.dataset.section === sectionId));
+
+  const title = data.titles ? (data.titles[lang] || data.titles["en-GB"] || data.titles["de"]) : "";
+
+  let html = `<h1 class="page-title">${escapeHTML(title)}</h1>`;
+  html += `<div class="page-meta">${data.document_id} · page ${data.page} · type: ${data.type}` +
+          statusTag(data.status && data.status[lang]) + `</div>`;
+
+  if (data.paragraphs && data.paragraphs.length) {
+    for (const p of data.paragraphs) {
+      const t = p.text[lang] || p.text["en-GB"] || p.text["de"];
+      html += `<div class="paragraph">${escapeHTML(t.plain)}</div>`;
+    }
+  }
+
+  if (data.figures && data.figures.length) {
+    html += `<div class="figures">`;
+    for (const f of data.figures) {
+      const cap = f.captions[lang] || f.captions["en-GB"] || f.captions["de"];
+      const imgPath = `${pagesDir(sectionId)}/${pad3(page)}/${f.image}`;
+      html += `<div class="figure">
+        <img src="${imgPath}" alt="Fig. ${f.number}" loading="lazy">
+        <div class="cap"><span class="fignum">Fig. ${f.number}</span>${escapeHTML(cap.plain)}${statusTag(f.status)}</div>
+      </div>`;
+    }
+    html += `</div>`;
+  }
+
+  if ((!data.paragraphs || !data.paragraphs.length) && (!data.figures || !data.figures.length)) {
+    html += `<p style="color:var(--muted)">No content on this page yet.</p>`;
+  }
+
+  content.innerHTML = html;
+}
+
+function escapeHTML(s) {
+  const div = document.createElement("div");
+  div.textContent = s || "";
+  return div.innerHTML;
+}
+
+init();
+</script>
+</body>
+</html>
