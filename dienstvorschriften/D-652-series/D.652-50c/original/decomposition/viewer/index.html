@@ -11,6 +11,8 @@
     --text: #e6e6e6;
     --muted: #9a9a9a;
     --accent: #4da3ff;
+    --ok: #4caf7d;
+    --bad: #e07d7d;
   }
   * { box-sizing: border-box; }
   body {
@@ -65,7 +67,8 @@
     gap: 14px;
     z-index: 5;
   }
-  #langSwitch button {
+  #showDeToggle { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 5px; cursor: pointer; user-select: none; }
+  #exportBtn {
     background: #333;
     border: 1px solid var(--border);
     color: var(--text);
@@ -74,7 +77,7 @@
     cursor: pointer;
     font-size: 12px;
   }
-  #langSwitch button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  #reviewCount { font-size: 12px; color: var(--muted); }
   #navBtns { margin-left: auto; display: flex; gap: 8px; }
   #navBtns button {
     background: #333;
@@ -87,16 +90,33 @@
   #navBtns button:disabled { opacity: 0.4; cursor: default; }
   #pageLabel { font-size: 13px; color: var(--muted); }
 
-  .page-title { font-size: 20px; margin: 0 0 4px; }
+  .page-title .de { font-size: 13px; font-style: italic; color: var(--muted); font-weight: 400; margin-bottom: 2px; }
+  .page-title .en, .page-title .es { font-size: 19px; margin: 0; }
+  .page-title { margin-bottom: 6px; }
   .page-meta { font-size: 12px; color: var(--muted); margin-bottom: 20px; }
 
-  .paragraph {
-    font-size: 15px;
-    line-height: 1.55;
+  .lang-tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--muted);
+    width: 22px;
+    flex-shrink: 0;
+  }
+  .para-block, .cap-block {
     margin-bottom: 14px;
     max-width: 760px;
   }
-  .paragraph b { color: var(--accent); }
+  .lang-line {
+    display: flex;
+    gap: 8px;
+    line-height: 1.5;
+    margin-bottom: 2px;
+  }
+  .lang-line.de { color: var(--muted); font-style: italic; font-size: 13px; }
+  .lang-line.en { font-size: 15px; }
+  .lang-line.es { font-size: 15px; }
+  .lang-line .txt { flex: 1; }
 
   .figures {
     display: flex;
@@ -105,19 +125,35 @@
     margin-top: 24px;
   }
   .figure {
-    width: 340px;
+    width: 380px;
     background: var(--panel);
-    border: 1px solid var(--border);
+    border: 2px solid var(--border);
     border-radius: 6px;
     overflow: hidden;
   }
+  .figure.review-ok { border-color: var(--ok); }
+  .figure.review-bad { border-color: var(--bad); }
   .figure img { width: 100%; display: block; background: #111; }
-  .figure .cap {
-    padding: 10px 12px;
-    font-size: 13px;
-    line-height: 1.4;
-  }
+  .figure .cap { padding: 10px 12px 4px; }
   .figure .cap .fignum { color: var(--accent); font-weight: 600; margin-right: 4px; }
+
+  .review-bar {
+    display: flex;
+    gap: 6px;
+    padding: 8px 12px 12px;
+  }
+  .review-bar button {
+    flex: 1;
+    padding: 5px 0;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    background: #333;
+    color: var(--text);
+    cursor: pointer;
+    font-size: 12px;
+  }
+  .review-bar button.ok.active { background: var(--ok); border-color: var(--ok); color: #08210f; }
+  .review-bar button.bad.active { background: var(--bad); border-color: var(--bad); color: #2a0a0a; }
 
   .status-tag {
     display: inline-block;
@@ -145,11 +181,9 @@
 
 <div id="main">
   <div id="topbar">
-    <div id="langSwitch">
-      <button data-lang="de">DE</button>
-      <button data-lang="en-GB">EN</button>
-      <button data-lang="es-ES">ES</button>
-    </div>
+    <label id="showDeToggle"><input type="checkbox" id="showDeCheckbox" checked> Show German source</label>
+    <span id="reviewCount"></span>
+    <button id="exportBtn">Export figure review</button>
     <span id="pageLabel"></span>
     <div id="navBtns">
       <button id="prevBtn">&larr; Prev</button>
@@ -161,13 +195,13 @@
 
 <script>
 const BASE = ".."; // decomposition/ root, relative to this file
-const LANGS = ["de", "en-GB", "es-ES"];
-let lang = "en-GB";
+const REVIEW_KEY = "d65250c-figure-review"; // localStorage key: { [figureId]: "ok" | "bad" }
 
 let contentsIndex = null;   // index/contents.json
 let sectionManifests = {};  // sectionId -> manifest.json
 let flatPages = [];         // ordered [{sectionId, page}]
 let currentPos = 0;
+let showDe = true;
 
 async function getJSON(path) {
   const res = await fetch(path);
@@ -177,14 +211,22 @@ async function getJSON(path) {
 
 function pad3(n) { return String(n).padStart(3, "0"); }
 
-function sectionTitle(sec, l) {
-  return sec.titles[l] || sec.titles["en-GB"] || sec.titles["de"];
+function sectionTitle(sec) {
+  return `${sec.titles["en-GB"] || ""} / ${sec.titles["es-ES"] || ""}`;
 }
 
 function pagesDir(sectionId) {
   return sectionId === "FrontMatter"
     ? `${BASE}/frontmatter/pages`
     : `${BASE}/sections/${sectionId}/pages`;
+}
+
+function loadReviews() {
+  try { return JSON.parse(localStorage.getItem(REVIEW_KEY)) || {}; }
+  catch { return {}; }
+}
+function saveReviews(reviews) {
+  localStorage.setItem(REVIEW_KEY, JSON.stringify(reviews));
 }
 
 async function init() {
@@ -217,9 +259,8 @@ async function init() {
       }
     }
 
-    renderTOC(contentsIndex, allSections);
-    setupLangSwitch();
-    setupNav();
+    renderTOC(contentsIndex);
+    setupTopbar();
 
     currentPos = 0;
     await showPage(currentPos);
@@ -232,36 +273,22 @@ async function init() {
   }
 }
 
-function renderTOC(idx, allSections) {
+function renderTOC(idx) {
   const toc = document.getElementById("toc");
   toc.innerHTML = "";
   for (const group of idx.groups) {
     const h = document.createElement("h2");
-    h.textContent = `${group.id} — ${sectionTitle(group, lang)}`;
-    h.dataset.group = group.id;
+    h.textContent = `${group.id} — ${sectionTitle(group)}`;
     toc.appendChild(h);
     for (const sec of group.sections) {
       const a = document.createElement("a");
       a.className = "sec-link";
       a.dataset.section = sec.id;
-      a.innerHTML = `<span class="num">${sec.number}.</span>${sectionTitle(sec, lang)}`;
+      a.innerHTML = `<span class="num">${sec.number}.</span>${sectionTitle(sec)}`;
       a.onclick = () => jumpToSection(sec.id);
       toc.appendChild(a);
     }
   }
-}
-
-function updateTOCLanguage() {
-  const idx = contentsIndex;
-  document.querySelectorAll("#toc h2").forEach(h => {
-    const group = idx.groups.find(g => g.id === h.dataset.group);
-    h.textContent = `${group.id} — ${sectionTitle(group, lang)}`;
-  });
-  document.querySelectorAll("#toc .sec-link").forEach(a => {
-    const group = idx.groups.find(g => g.sections.some(s => s.id === a.dataset.section));
-    const sec = group.sections.find(s => s.id === a.dataset.section);
-    a.innerHTML = `<span class="num">${sec.number}.</span>${sectionTitle(sec, lang)}`;
-  });
 }
 
 function jumpToSection(sectionId) {
@@ -269,31 +296,55 @@ function jumpToSection(sectionId) {
   if (pos >= 0) { currentPos = pos; showPage(currentPos); }
 }
 
-function setupLangSwitch() {
-  const btns = document.querySelectorAll("#langSwitch button");
-  btns.forEach(b => {
-    b.classList.toggle("active", b.dataset.lang === lang);
-    b.onclick = () => {
-      lang = b.dataset.lang;
-      btns.forEach(x => x.classList.toggle("active", x === b));
-      updateTOCLanguage();
-      showPage(currentPos);
-    };
-  });
-}
-
-function setupNav() {
+function setupTopbar() {
   document.getElementById("prevBtn").onclick = () => {
     if (currentPos > 0) { currentPos--; showPage(currentPos); }
   };
   document.getElementById("nextBtn").onclick = () => {
     if (currentPos < flatPages.length - 1) { currentPos++; showPage(currentPos); }
   };
+  document.getElementById("showDeCheckbox").onchange = (e) => {
+    showDe = e.target.checked;
+    showPage(currentPos);
+  };
+  document.getElementById("exportBtn").onclick = exportReviews;
+  updateReviewCount();
+}
+
+function exportReviews() {
+  const reviews = loadReviews();
+  const rows = Object.entries(reviews).map(([figureId, status]) => ({ figureId, status }));
+  const blob = new Blob([JSON.stringify({ document_id: "d652-50c", figures: rows }, null, 2)],
+    { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "figure-crop-review.json";
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function updateReviewCount() {
+  const reviews = loadReviews();
+  const vals = Object.values(reviews);
+  const ok = vals.filter(v => v === "ok").length;
+  const bad = vals.filter(v => v === "bad").length;
+  document.getElementById("reviewCount").textContent = `Reviewed: ${ok} ok / ${bad} bad`;
 }
 
 function statusTag(status) {
   if (!status || status === "not_applicable") return "";
   return `<span class="status-tag ${status}">${status}</span>`;
+}
+
+function renderLangLines(texts) {
+  // texts: { de, en, es } plain strings (any may be missing/null)
+  let html = "";
+  if (showDe && texts.de) {
+    html += `<div class="lang-line de"><span class="lang-tag">DE</span><span class="txt">${escapeHTML(texts.de)}</span></div>`;
+  }
+  html += `<div class="lang-line en"><span class="lang-tag">EN</span><span class="txt">${texts.en ? escapeHTML(texts.en) : '<span style="color:var(--muted)">— not translated —</span>'}</span></div>`;
+  html += `<div class="lang-line es"><span class="lang-tag">ES</span><span class="txt">${texts.es ? escapeHTML(texts.es) : '<span style="color:var(--muted)">— not translated —</span>'}</span></div>`;
+  return html;
 }
 
 async function showPage(pos) {
@@ -302,6 +353,7 @@ async function showPage(pos) {
   content.innerHTML = `<div id="loading">Loading page ${page}…</div>`;
 
   const data = await getJSON(`${pagesDir(sectionId)}/${pad3(page)}/content.json`);
+  const reviews = loadReviews();
 
   document.getElementById("prevBtn").disabled = pos === 0;
   document.getElementById("nextBtn").disabled = pos === flatPages.length - 1;
@@ -311,27 +363,45 @@ async function showPage(pos) {
   document.querySelectorAll("#toc .sec-link").forEach(a =>
     a.classList.toggle("active", a.dataset.section === sectionId));
 
-  const title = data.titles ? (data.titles[lang] || data.titles["en-GB"] || data.titles["de"]) : "";
-
-  let html = `<h1 class="page-title">${escapeHTML(title)}</h1>`;
-  html += `<div class="page-meta">${data.document_id} · page ${data.page} · type: ${data.type}` +
-          statusTag(data.status && data.status[lang]) + `</div>`;
+  const titles = data.titles || {};
+  let html = `<div class="page-title">`;
+  if (showDe && titles.de) html += `<div class="de">${escapeHTML(titles.de)}</div>`;
+  html += `<div class="en">${escapeHTML(titles["en-GB"] || "")}</div>`;
+  html += `<div class="es">${escapeHTML(titles["es-ES"] || "")}</div>`;
+  html += `</div>`;
+  html += `<div class="page-meta">${data.document_id} · page ${data.page} · type: ${data.type}</div>`;
 
   if (data.paragraphs && data.paragraphs.length) {
     for (const p of data.paragraphs) {
-      const t = p.text[lang] || p.text["en-GB"] || p.text["de"];
-      html += `<div class="paragraph">${escapeHTML(t.plain)}</div>`;
+      const t = p.text || {};
+      html += `<div class="para-block">` + renderLangLines({
+        de: t.de && t.de.plain,
+        en: t["en-GB"] && t["en-GB"].plain,
+        es: t["es-ES"] && t["es-ES"].plain,
+      }) + `</div>`;
     }
   }
 
   if (data.figures && data.figures.length) {
     html += `<div class="figures">`;
     for (const f of data.figures) {
-      const cap = f.captions[lang] || f.captions["en-GB"] || f.captions["de"];
+      const c = f.captions || {};
       const imgPath = `${pagesDir(sectionId)}/${pad3(page)}/${f.image}`;
-      html += `<div class="figure">
+      const review = reviews[f.id];
+      html += `<div class="figure ${review === 'ok' ? 'review-ok' : review === 'bad' ? 'review-bad' : ''}" data-figure-id="${f.id}">
         <img src="${imgPath}" alt="Fig. ${f.number}" loading="lazy">
-        <div class="cap"><span class="fignum">Fig. ${f.number}</span>${escapeHTML(cap.plain)}${statusTag(f.status)}</div>
+        <div class="cap">
+          <span class="fignum">Fig. ${f.number}</span>${statusTag(f.status)}
+          ${renderLangLines({
+            de: c.de && c.de.plain,
+            en: c["en-GB"] && c["en-GB"].plain,
+            es: c["es-ES"] && c["es-ES"].plain,
+          })}
+        </div>
+        <div class="review-bar">
+          <button class="ok ${review === 'ok' ? 'active' : ''}" data-action="ok">Crop OK</button>
+          <button class="bad ${review === 'bad' ? 'active' : ''}" data-action="bad">Bad crop</button>
+        </div>
       </div>`;
     }
     html += `</div>`;
@@ -342,6 +412,28 @@ async function showPage(pos) {
   }
 
   content.innerHTML = html;
+
+  content.querySelectorAll(".figure").forEach(figEl => {
+    const figureId = figEl.dataset.figureId;
+    figEl.querySelectorAll(".review-bar button").forEach(btn => {
+      btn.onclick = () => {
+        const reviews = loadReviews();
+        const action = btn.dataset.action;
+        if (reviews[figureId] === action) {
+          delete reviews[figureId]; // click again to clear
+        } else {
+          reviews[figureId] = action;
+        }
+        saveReviews(reviews);
+        figEl.classList.remove("review-ok", "review-bad");
+        if (reviews[figureId] === "ok") figEl.classList.add("review-ok");
+        if (reviews[figureId] === "bad") figEl.classList.add("review-bad");
+        figEl.querySelectorAll(".review-bar button").forEach(b =>
+          b.classList.toggle("active", reviews[figureId] === b.dataset.action));
+        updateReviewCount();
+      };
+    });
+  });
 }
 
 function escapeHTML(s) {
