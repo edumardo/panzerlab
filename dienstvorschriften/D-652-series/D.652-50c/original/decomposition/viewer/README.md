@@ -1,9 +1,10 @@
 # Decomposition viewer (draft)
 
-A single-file static viewer for validating the canonical decomposition: it
-shows translated paragraph text next to the corresponding figures for each
-page, with a language switch (DE / EN / ES) and page navigation. This is a
-throwaway validation tool, not a production reader.
+A single-file static viewer for validating the canonical decomposition, matching
+the `A4_portrait_facsimile_then_translation` layout: it shows the full-page
+facsimile scan next to a translation panel (title, paragraphs, and figure
+captions) with DE/EN/ES stacked together (DE hideable via a checkbox), and
+page navigation. This is a throwaway validation tool, not a production reader.
 
 ## Usage
 
