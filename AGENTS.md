@@ -1,0 +1,169 @@
+# panzerlab repository instructions
+
+This is the single canonical instruction file for contributors and AI assistants
+working in this repository. Do not add tool-specific duplicates such as
+`CLAUDE.md`, `COPILOT.md`, or equivalent files. Tools that do not discover
+`AGENTS.md` automatically must be directed to read it before making changes.
+
+## Repository purpose and language
+
+`panzerlab` stores German WWII Panzer documentation, source decompositions,
+translations, and document-processing utilities.
+
+- Repository documentation, metadata, filenames, code comments, and commit
+  messages must be in English.
+- Original German text and target-language translations remain in their proper
+  language fields.
+- `dienstvorschriften/` contains official service manuals. Other categories,
+  such as drawings, correspondence, and reports, may be added as sibling
+  directories and must follow the same general pattern.
+
+## Structure
+
+```text
+/
+├── AGENTS.md
+├── docs/
+│   └── PDF_TO_CANONICAL_JSON.md
+└── dienstvorschriften/
+    └── D-652-series/
+        ├── index.md
+        └── D.652-50c/
+            ├── metadata.md
+            ├── original/
+            │   ├── D.652-50c_de.pdf
+            │   ├── metadata.json
+            │   └── decomposition/
+            │       ├── document.json
+            │       ├── manifest.json
+            │       ├── layout.json
+            │       ├── assets/
+            │       ├── frontmatter/
+            │       ├── glossary/
+            │       ├── index/
+            │       ├── schema/
+            │       ├── sections/
+            │       └── scripts/
+            ├── en/
+            └── es/
+```
+
+## Naming conventions
+
+- **Series directory**: `D-<number>-series`, for example `D-652-series`.
+- **Document directory**: replace `/` in the official designation with `-` and
+  use a dot after `D`, for example `D 652/50c` becomes `D.652-50c`.
+- **Original source**: `<document-designation>_<language>.<ext>`, without a
+  version suffix, for example `D.652-50c_de.pdf`.
+- **Translations and processing notes**: use a version suffix such as
+  `_v1.0`. Increase it on meaningful revisions.
+- **Language directories**: use language codes such as `en/`, `es/`, or `fr/`.
+  The German source remains under `original/`.
+
+## Document metadata
+
+Every document directory must contain `metadata.md` in English, without YAML
+front matter. It must include:
+
+- designation and series;
+- German title and available translated titles;
+- vehicle or equipment variants;
+- original date;
+- original filename, current filename, provenance, and source URL when known.
+
+Do not add a separate status section to `metadata.md`. Availability and links
+belong in the series `index.md`.
+
+The `original/metadata.json` file describes the source file itself: filename,
+media type, byte size, checksum, page count, language, provenance, and the path
+to its decomposition.
+
+## Original source and canonical decomposition
+
+Keep the top level of `original/` intentionally small:
+
+```text
+original/
+├── <document>_de.pdf
+├── metadata.json
+└── decomposition/
+```
+
+All extracted spreads, pages, figures, canonical JSON, schemas, processing
+notes, and document-specific scripts belong under `original/decomposition/`.
+
+JSON is the canonical source for reconstructed content. DOCX, PDF, HTML,
+Markdown, databases, and search indexes are derived outputs. Corrections must be
+made in canonical JSON and then regenerated; never leave the only corrected
+version in a derived document.
+
+Follow [`docs/PDF_TO_CANONICAL_JSON.md`](docs/PDF_TO_CANONICAL_JSON.md) when
+creating or changing a decomposition.
+
+## Canonical content rules
+
+- Use stable IDs for documents, sections, pages, paragraphs, and figures.
+- Use explicit BCP 47 language tags in JSON, such as `de-DE`, `en-GB`, and
+  `es-ES`.
+- Align translations within the same paragraph or figure object.
+- Keep plain searchable text and structured formatting runs.
+- Store figure captions and label keys separately.
+- Preserve page order in manifests; do not infer it from directory listings.
+- Use relative paths inside the archive.
+- Maintain explicit workflow states: `pending`, `draft`, `reviewed`,
+  `validated`, `candidate_crop`, and `not_applicable`.
+- Production exporters must reject required content that is not validated.
+- Translations must be made from the original language, not through another
+  translation.
+
+## Series indexes
+
+Each series directory has an `index.md` containing its catalogue and consolidated
+summary. Every catalogue table must include a **Status** column:
+
+- use `—` when a document directory does not exist;
+- link to the document when content exists;
+- list only what is actually present, for example
+  `[✓ original, ES, EN](D.652-41a/)`.
+
+Update the series index whenever a document directory is created or gains a new
+source or translation.
+
+## Scripts and generated files
+
+- Document-specific processing scripts belong in
+  `original/decomposition/scripts/`.
+- Add shared tooling only when it is genuinely reusable across several
+  documents and its interface is stable.
+- Scripts must state what they overwrite and should be idempotent where
+  practical.
+- Never overwrite validated transcription, translation, or figure data with OCR
+  or automatic crops.
+- Temporary renders, contact sheets, caches, and exported output must not be
+  treated as canonical data.
+
+## Validation
+
+Before considering a decomposition complete, verify:
+
+- all JSON parses and conforms to the repository schemas;
+- every referenced file exists;
+- page order and previous/next navigation are coherent;
+- IDs are unique;
+- figure numbering is complete or documented;
+- source checksums match;
+- validated languages contain no pending required fields;
+- extracted pages and figures pass visual inspection.
+
+DOCX and PDF outputs require render-to-image visual review before delivery.
+
+## Git
+
+- Preserve unrelated working-tree changes.
+- Do not stage, commit, or push unless the user explicitly asks.
+- Do not enable repository-wide Git LFS rules without an explicit decision about
+  storage and bandwidth. Prefer document-scoped rules if LFS is adopted.
+- Never add AI authorship or co-authorship to commits. Do not add
+  `Co-Authored-By` trailers for any AI tool; commits must show only the human
+  author.
+
