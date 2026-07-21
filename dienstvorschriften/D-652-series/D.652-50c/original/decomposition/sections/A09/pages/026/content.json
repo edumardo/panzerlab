@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "9. Abbauen des Bugpanzers",
-    "en-GB": "Section A.9 - Removing the bow armour plate",
-    "es-ES": "Sección A.9 - Desmontaje del blindaje delantero (de proa)"
+    "en-GB": "Section A.9 - Removing the front superstructure armour",
+    "es-ES": "Sección A.9 - Desmontaje de la superestructura frontal blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -37,19 +37,19 @@
           ]
         },
         "en-GB": {
-          "plain": "At the rear bulkhead inside the fighting compartment, unlock the fastening screws of the bow armour plate and remove them with a 19 mm open-ended spanner.",
+          "plain": "At the rear bulkhead inside the fighting compartment, unlock the fastening screws of the front superstructure armour and remove them with a 19 mm open-ended spanner.",
           "runs": [
             {
-              "text": "At the rear bulkhead inside the fighting compartment, unlock the fastening screws of the bow armour plate and remove them with a 19 mm open-ended spanner.",
+              "text": "At the rear bulkhead inside the fighting compartment, unlock the fastening screws of the front superstructure armour and remove them with a 19 mm open-ended spanner.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "En el mamparo trasero, dentro de la cámara de combate, desbloquear los tornillos de fijación del blindaje delantero y retirarlos con una llave fija de 19 mm.",
+          "plain": "En el mamparo trasero, dentro de la cámara de combate, desbloquear los tornillos de fijación de la superestructura frontal blindada y retirarlos con una llave fija de 19 mm.",
           "runs": [
             {
-              "text": "En el mamparo trasero, dentro de la cámara de combate, desbloquear los tornillos de fijación del blindaje delantero y retirarlos con una llave fija de 19 mm.",
+              "text": "En el mamparo trasero, dentro de la cámara de combate, desbloquear los tornillos de fijación de la superestructura frontal blindada y retirarlos con una llave fija de 19 mm.",
               "bold": false
             }
           ]

@@ -8,8 +8,8 @@
   ],
   "titles": {
     "de": "Abbauen des Bugpanzers",
-    "en": "Removing the bow armour plate",
-    "es": "Desmontaje del blindaje delantero (de proa)"
+    "en": "Removing the front superstructure armour",
+    "es": "Desmontaje de la superestructura frontal blindada"
   },
   "output": {
     "cover": false,

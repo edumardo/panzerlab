@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "9. Abbauen des Bugpanzers",
-    "en-GB": "Section A.9 - Removing the bow armour plate",
-    "es-ES": "Sección A.9 - Desmontaje del blindaje delantero (de proa)"
+    "en-GB": "Section A.9 - Removing the front superstructure armour",
+    "es-ES": "Sección A.9 - Desmontaje de la superestructura frontal blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -46,10 +46,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Dentro de la cámara de combate, retirar los tornillos de fijación delanteros del blindaje delantero y los dos tornillos de fijación del panel de mandos (Schaltbrett).",
+          "plain": "Dentro de la cámara de combate, retirar los tornillos de fijación delanteros de la superestructura frontal blindada y los dos tornillos de fijación del panel de mandos (Schaltbrett).",
           "runs": [
             {
-              "text": "Dentro de la cámara de combate, retirar los tornillos de fijación delanteros del blindaje delantero y los dos tornillos de fijación del panel de mandos (Schaltbrett).",
+              "text": "Dentro de la cámara de combate, retirar los tornillos de fijación delanteros de la superestructura frontal blindada y los dos tornillos de fijación del panel de mandos (Schaltbrett).",
               "bold": false
             }
           ]
@@ -75,19 +75,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Lift off the bow armour plate using four wire ropes, hooked into the eyes provided with S-hooks.",
+          "plain": "Lift off the front superstructure armour using four wire ropes, hooked into the eyes provided with S-hooks.",
           "runs": [
             {
-              "text": "Lift off the bow armour plate using four wire ropes, hooked into the eyes provided with S-hooks.",
+              "text": "Lift off the front superstructure armour using four wire ropes, hooked into the eyes provided with S-hooks.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Levantar el blindaje delantero con cuatro cables de acero, enganchados en las argollas previstas mediante ganchos en S.",
+          "plain": "Levantar la superestructura frontal blindada con cuatro cables de acero, enganchados en las argollas previstas mediante ganchos en S.",
           "runs": [
             {
-              "text": "Levantar el blindaje delantero con cuatro cables de acero, enganchados en las argollas previstas mediante ganchos en S.",
+              "text": "Levantar la superestructura frontal blindada con cuatro cables de acero, enganchados en las argollas previstas mediante ganchos en S.",
               "bold": false
             }
           ]

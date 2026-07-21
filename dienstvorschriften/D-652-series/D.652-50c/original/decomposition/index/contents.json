@@ -103,8 +103,8 @@
           "page": 25,
           "titles": {
             "de": "Abbauen des Bugpanzers",
-            "en-GB": "Removing the bow armour plate",
-            "es-ES": "Desmontaje del blindaje delantero (de proa)"
+            "en-GB": "Removing the front superstructure armour",
+            "es-ES": "Desmontaje de la superestructura frontal blindada"
           },
           "manifest": "../sections/A09/manifest.json"
         },
@@ -114,8 +114,8 @@
           "page": 29,
           "titles": {
             "de": "Aufbauen des Bugpanzers",
-            "en-GB": "Installing the bow armour plate",
-            "es-ES": "Montaje del blindaje delantero (de proa)"
+            "en-GB": "Installing the front superstructure armour",
+            "es-ES": "Montaje de la superestructura frontal blindada"
           },
           "manifest": "../sections/A10/manifest.json"
         },

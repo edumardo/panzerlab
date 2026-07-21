@@ -6,9 +6,9 @@
   "section": "FrontMatter",
   "type": "index",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "Inhalt",
+    "en-GB": "Contents",
+    "es-ES": "Índice"
   },
   "source": {
     "image": "source.jpg",
@@ -20,7 +20,1096 @@
     "previous": "d65250c-page-002",
     "next": "d65250c-page-004"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "d65250c-p003-para00",
+      "text": {
+        "de": {
+          "plain": "Vorbemerkungen .... 4",
+          "runs": [
+            {
+              "text": "Vorbemerkungen .... 4",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Preliminary remarks .... 4",
+          "runs": [
+            {
+              "text": "Preliminary remarks .... 4",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Observaciones preliminares .... 4",
+          "runs": [
+            {
+              "text": "Observaciones preliminares .... 4",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-groupA",
+      "text": {
+        "de": {
+          "plain": "A. Zusätzliche Arbeiten zum Aus- und Einbau des Motors",
+          "runs": [
+            {
+              "text": "A. Zusätzliche Arbeiten zum Aus- und Einbau des Motors",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A. Additional work for removing and installing the engine",
+          "runs": [
+            {
+              "text": "A. Additional work for removing and installing the engine",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A. Trabajos adicionales para el desmontaje y montaje del motor",
+          "runs": [
+            {
+              "text": "A. Trabajos adicionales para el desmontaje y montaje del motor",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A01",
+      "text": {
+        "de": {
+          "plain": "1. Abbauen der Heckpanzerung .... 5",
+          "runs": [
+            {
+              "text": "1. Abbauen der Heckpanzerung .... 5",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. Removing the rear armour plate .... 5",
+          "runs": [
+            {
+              "text": "1. Removing the rear armour plate .... 5",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. Desmontaje del blindaje trasero .... 5",
+          "runs": [
+            {
+              "text": "1. Desmontaje del blindaje trasero .... 5",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A02",
+      "text": {
+        "de": {
+          "plain": "2. Aufbauen der Heckpanzerung .... 7",
+          "runs": [
+            {
+              "text": "2. Aufbauen der Heckpanzerung .... 7",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. Installing the rear armour plate .... 7",
+          "runs": [
+            {
+              "text": "2. Installing the rear armour plate .... 7",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Montaje del blindaje trasero .... 7",
+          "runs": [
+            {
+              "text": "2. Montaje del blindaje trasero .... 7",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A03",
+      "text": {
+        "de": {
+          "plain": "3. Ausbauen des linken Lüfters und Kühlers .... 8",
+          "runs": [
+            {
+              "text": "3. Ausbauen des linken Lüfters und Kühlers .... 8",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. Removing the left-hand fan and radiator .... 8",
+          "runs": [
+            {
+              "text": "3. Removing the left-hand fan and radiator .... 8",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. Desmontaje del ventilador y radiador izquierdos .... 8",
+          "runs": [
+            {
+              "text": "3. Desmontaje del ventilador y radiador izquierdos .... 8",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A04",
+      "text": {
+        "de": {
+          "plain": "4. Einbauen des linken Kühlers und Lüfters .... 16",
+          "runs": [
+            {
+              "text": "4. Einbauen des linken Kühlers und Lüfters .... 16",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4. Installing the left-hand radiator and fan .... 16",
+          "runs": [
+            {
+              "text": "4. Installing the left-hand radiator and fan .... 16",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4. Montaje del radiador y ventilador izquierdos .... 16",
+          "runs": [
+            {
+              "text": "4. Montaje del radiador y ventilador izquierdos .... 16",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A05",
+      "text": {
+        "de": {
+          "plain": "5. Ausbauen des rechten Lüfters und Kühlers .... 17",
+          "runs": [
+            {
+              "text": "5. Ausbauen des rechten Lüfters und Kühlers .... 17",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5. Removing the right-hand fan and radiator .... 17",
+          "runs": [
+            {
+              "text": "5. Removing the right-hand fan and radiator .... 17",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5. Desmontaje del ventilador y radiador derechos .... 17",
+          "runs": [
+            {
+              "text": "5. Desmontaje del ventilador y radiador derechos .... 17",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A06",
+      "text": {
+        "de": {
+          "plain": "6. Einbauen des rechten Kühlers und Lüfters .... 21",
+          "runs": [
+            {
+              "text": "6. Einbauen des rechten Kühlers und Lüfters .... 21",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6. Installing the right-hand radiator and fan .... 21",
+          "runs": [
+            {
+              "text": "6. Installing the right-hand radiator and fan .... 21",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6. Montaje del radiador y ventilador derechos .... 21",
+          "runs": [
+            {
+              "text": "6. Montaje del radiador y ventilador derechos .... 21",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A07",
+      "text": {
+        "de": {
+          "plain": "7. Ausbauen des Kraftstoffbehälters .... 22",
+          "runs": [
+            {
+              "text": "7. Ausbauen des Kraftstoffbehälters .... 22",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7. Removing the fuel tank .... 22",
+          "runs": [
+            {
+              "text": "7. Removing the fuel tank .... 22",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7. Desmontaje del depósito de combustible .... 22",
+          "runs": [
+            {
+              "text": "7. Desmontaje del depósito de combustible .... 22",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A08",
+      "text": {
+        "de": {
+          "plain": "8. Einbauen des Kraftstoffbehälters .... 24",
+          "runs": [
+            {
+              "text": "8. Einbauen des Kraftstoffbehälters .... 24",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "8. Installing the fuel tank .... 24",
+          "runs": [
+            {
+              "text": "8. Installing the fuel tank .... 24",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "8. Montaje del depósito de combustible .... 24",
+          "runs": [
+            {
+              "text": "8. Montaje del depósito de combustible .... 24",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A09",
+      "text": {
+        "de": {
+          "plain": "9. Abbauen des Bugpanzers .... 25",
+          "runs": [
+            {
+              "text": "9. Abbauen des Bugpanzers .... 25",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "9. Removing the front superstructure armour .... 25",
+          "runs": [
+            {
+              "text": "9. Removing the front superstructure armour .... 25",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "9. Desmontaje de la superestructura frontal blindada .... 25",
+          "runs": [
+            {
+              "text": "9. Desmontaje de la superestructura frontal blindada .... 25",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A10",
+      "text": {
+        "de": {
+          "plain": "10. Aufbauen des Bugpanzers .... 29",
+          "runs": [
+            {
+              "text": "10. Aufbauen des Bugpanzers .... 29",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "10. Installing the front superstructure armour .... 29",
+          "runs": [
+            {
+              "text": "10. Installing the front superstructure armour .... 29",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "10. Montaje de la superestructura frontal blindada .... 29",
+          "runs": [
+            {
+              "text": "10. Montaje de la superestructura frontal blindada .... 29",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-A11",
+      "text": {
+        "de": {
+          "plain": "11. Ausbauen des Sammlers .... 30",
+          "runs": [
+            {
+              "text": "11. Ausbauen des Sammlers .... 30",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "11. Removing the battery (accumulator) .... 30",
+          "runs": [
+            {
+              "text": "11. Removing the battery (accumulator) .... 30",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "11. Desmontaje de la batería (acumulador) .... 30",
+          "runs": [
+            {
+              "text": "11. Desmontaje de la batería (acumulador) .... 30",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-groupB",
+      "text": {
+        "de": {
+          "plain": "B. Arbeiten am Motor",
+          "runs": [
+            {
+              "text": "B. Arbeiten am Motor",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "B. Work on the engine",
+          "runs": [
+            {
+              "text": "B. Work on the engine",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "B. Trabajos en el motor",
+          "runs": [
+            {
+              "text": "B. Trabajos en el motor",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B12",
+      "text": {
+        "de": {
+          "plain": "12. Ausbauen des Motors .... 32",
+          "runs": [
+            {
+              "text": "12. Ausbauen des Motors .... 32",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "12. Removing the engine .... 32",
+          "runs": [
+            {
+              "text": "12. Removing the engine .... 32",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "12. Desmontaje del motor .... 32",
+          "runs": [
+            {
+              "text": "12. Desmontaje del motor .... 32",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B13",
+      "text": {
+        "de": {
+          "plain": "13. Zerlegen des Motors .... 47",
+          "runs": [
+            {
+              "text": "13. Zerlegen des Motors .... 47",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "13. Dismantling the engine .... 47",
+          "runs": [
+            {
+              "text": "13. Dismantling the engine .... 47",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "13. Despiece del motor .... 47",
+          "runs": [
+            {
+              "text": "13. Despiece del motor .... 47",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B14",
+      "text": {
+        "de": {
+          "plain": "14. Ausbauen des Novotext-Zwischenrades .... 68",
+          "runs": [
+            {
+              "text": "14. Ausbauen des Novotext-Zwischenrades .... 68",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "14. Removing the Novotext idler gear .... 68",
+          "runs": [
+            {
+              "text": "14. Removing the Novotext idler gear .... 68",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "14. Desmontaje de la rueda intermedia de Novotext .... 68",
+          "runs": [
+            {
+              "text": "14. Desmontaje de la rueda intermedia de Novotext .... 68",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B15",
+      "text": {
+        "de": {
+          "plain": "15. Instandsetzen des Motors .... 70",
+          "runs": [
+            {
+              "text": "15. Instandsetzen des Motors .... 70",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "15. Repairing the engine .... 70",
+          "runs": [
+            {
+              "text": "15. Repairing the engine .... 70",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "15. Reparación del motor .... 70",
+          "runs": [
+            {
+              "text": "15. Reparación del motor .... 70",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B16",
+      "text": {
+        "de": {
+          "plain": "16. Nacharbeiten des Zylinderkopfes .... 74",
+          "runs": [
+            {
+              "text": "16. Nacharbeiten des Zylinderkopfes .... 74",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "16. Reworking the cylinder head .... 74",
+          "runs": [
+            {
+              "text": "16. Reworking the cylinder head .... 74",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "16. Repaso de la culata .... 74",
+          "runs": [
+            {
+              "text": "16. Repaso de la culata .... 74",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B17",
+      "text": {
+        "de": {
+          "plain": "17. Zusammenbau des Zylinderkopfes .... 78",
+          "runs": [
+            {
+              "text": "17. Zusammenbau des Zylinderkopfes .... 78",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "17. Assembling the cylinder head .... 78",
+          "runs": [
+            {
+              "text": "17. Assembling the cylinder head .... 78",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "17. Montaje de la culata .... 78",
+          "runs": [
+            {
+              "text": "17. Montaje de la culata .... 78",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B18",
+      "text": {
+        "de": {
+          "plain": "18. Zerlegen der Kraftstoffpumpe .... 79",
+          "runs": [
+            {
+              "text": "18. Zerlegen der Kraftstoffpumpe .... 79",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "18. Dismantling the fuel pump .... 79",
+          "runs": [
+            {
+              "text": "18. Dismantling the fuel pump .... 79",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "18. Despiece de la bomba de combustible .... 79",
+          "runs": [
+            {
+              "text": "18. Despiece de la bomba de combustible .... 79",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B19",
+      "text": {
+        "de": {
+          "plain": "19. Zerlegen der Wasserpumpe .... 82",
+          "runs": [
+            {
+              "text": "19. Zerlegen der Wasserpumpe .... 82",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "19. Dismantling the water pump .... 82",
+          "runs": [
+            {
+              "text": "19. Dismantling the water pump .... 82",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "19. Despiece de la bomba de agua .... 82",
+          "runs": [
+            {
+              "text": "19. Despiece de la bomba de agua .... 82",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B20",
+      "text": {
+        "de": {
+          "plain": "20. Nachstellen der Wasserpumpenwellenlagerung .... 87",
+          "runs": [
+            {
+              "text": "20. Nachstellen der Wasserpumpenwellenlagerung .... 87",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "20. Readjusting the water-pump shaft bearing .... 87",
+          "runs": [
+            {
+              "text": "20. Readjusting the water-pump shaft bearing .... 87",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "20. Reajuste del cojinete del eje de la bomba de agua .... 87",
+          "runs": [
+            {
+              "text": "20. Reajuste del cojinete del eje de la bomba de agua .... 87",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B21",
+      "text": {
+        "de": {
+          "plain": "21. Verpacken der Stopfbuchse .... 88",
+          "runs": [
+            {
+              "text": "21. Verpacken der Stopfbuchse .... 88",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "21. Packing the gland .... 88",
+          "runs": [
+            {
+              "text": "21. Packing the gland .... 88",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "21. Empaquetado del prensaestopas .... 88",
+          "runs": [
+            {
+              "text": "21. Empaquetado del prensaestopas .... 88",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B22",
+      "text": {
+        "de": {
+          "plain": "22. Zerlegen der Lichtmaschine .... 89",
+          "runs": [
+            {
+              "text": "22. Zerlegen der Lichtmaschine .... 89",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "22. Dismantling the dynamo .... 89",
+          "runs": [
+            {
+              "text": "22. Dismantling the dynamo .... 89",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "22. Despiece de la dinamo .... 89",
+          "runs": [
+            {
+              "text": "22. Despiece de la dinamo .... 89",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B23",
+      "text": {
+        "de": {
+          "plain": "23. Zusammenbau der Lichtmaschine .... 96",
+          "runs": [
+            {
+              "text": "23. Zusammenbau der Lichtmaschine .... 96",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "23. Assembling the dynamo .... 96",
+          "runs": [
+            {
+              "text": "23. Assembling the dynamo .... 96",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "23. Montaje de la dinamo .... 96",
+          "runs": [
+            {
+              "text": "23. Montaje de la dinamo .... 96",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B24",
+      "text": {
+        "de": {
+          "plain": "24. Zerlegen des elektrischen Anlassers .... 98",
+          "runs": [
+            {
+              "text": "24. Zerlegen des elektrischen Anlassers .... 98",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "24. Dismantling the electric starter motor .... 98",
+          "runs": [
+            {
+              "text": "24. Dismantling the electric starter motor .... 98",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "24. Despiece del motor de arranque eléctrico .... 98",
+          "runs": [
+            {
+              "text": "24. Despiece del motor de arranque eléctrico .... 98",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B25",
+      "text": {
+        "de": {
+          "plain": "25. Zusammenbau des elektrischen Anlassers .... 103",
+          "runs": [
+            {
+              "text": "25. Zusammenbau des elektrischen Anlassers .... 103",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "25. Assembling the electric starter motor .... 103",
+          "runs": [
+            {
+              "text": "25. Assembling the electric starter motor .... 103",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "25. Montaje del motor de arranque eléctrico .... 103",
+          "runs": [
+            {
+              "text": "25. Montaje del motor de arranque eléctrico .... 103",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B26",
+      "text": {
+        "de": {
+          "plain": "26. Auswechseln des Anlasserritzels am Schwungkraftanlasser .... 105",
+          "runs": [
+            {
+              "text": "26. Auswechseln des Anlasserritzels am Schwungkraftanlasser .... 105",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "26. Replacing the starter pinion in the inertia starter .... 105",
+          "runs": [
+            {
+              "text": "26. Replacing the starter pinion in the inertia starter .... 105",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "26. Sustitución del piñón de arranque en el arranque de inercia .... 105",
+          "runs": [
+            {
+              "text": "26. Sustitución del piñón de arranque en el arranque de inercia .... 105",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B27",
+      "text": {
+        "de": {
+          "plain": "27. Einstellen des Schnapper-Magnetzünders am Motor .... 109",
+          "runs": [
+            {
+              "text": "27. Einstellen des Schnapper-Magnetzünders am Motor .... 109",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "27. Adjusting the impulse magneto on the engine .... 109",
+          "runs": [
+            {
+              "text": "27. Adjusting the impulse magneto on the engine .... 109",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "27. Reglaje del magneto de impulso en el motor .... 109",
+          "runs": [
+            {
+              "text": "27. Reglaje del magneto de impulso en el motor .... 109",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B28",
+      "text": {
+        "de": {
+          "plain": "28. Zerlegen des Vergasers .... 113",
+          "runs": [
+            {
+              "text": "28. Zerlegen des Vergasers .... 113",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "28. Dismantling the carburettor .... 113",
+          "runs": [
+            {
+              "text": "28. Dismantling the carburettor .... 113",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "28. Despiece del carburador .... 113",
+          "runs": [
+            {
+              "text": "28. Despiece del carburador .... 113",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B29",
+      "text": {
+        "de": {
+          "plain": "29. Zerlegen und Reinigen des Kraftstoffilters .... 119",
+          "runs": [
+            {
+              "text": "29. Zerlegen und Reinigen des Kraftstoffilters .... 119",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "29. Dismantling and cleaning the fuel filter .... 119",
+          "runs": [
+            {
+              "text": "29. Dismantling and cleaning the fuel filter .... 119",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "29. Despiece y limpieza del filtro de combustible .... 119",
+          "runs": [
+            {
+              "text": "29. Despiece y limpieza del filtro de combustible .... 119",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B30",
+      "text": {
+        "de": {
+          "plain": "30. Zusammenbau des Motors .... 122",
+          "runs": [
+            {
+              "text": "30. Zusammenbau des Motors .... 122",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "30. Assembling the engine .... 122",
+          "runs": [
+            {
+              "text": "30. Assembling the engine .... 122",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "30. Montaje del motor .... 122",
+          "runs": [
+            {
+              "text": "30. Montaje del motor .... 122",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p003-B31",
+      "text": {
+        "de": {
+          "plain": "31. Einbauen des Motors .... 142",
+          "runs": [
+            {
+              "text": "31. Einbauen des Motors .... 142",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "31. Installing the engine .... 142",
+          "runs": [
+            {
+              "text": "31. Installing the engine .... 142",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "31. Instalación (montaje) del motor .... 142",
+          "runs": [
+            {
+              "text": "31. Instalación (montaje) del motor .... 142",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
   "figures": [],
   "status": {
     "transcription": "validated",

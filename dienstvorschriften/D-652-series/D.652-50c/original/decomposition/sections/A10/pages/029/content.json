@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "10. Aufbauen des Bugpanzers",
-    "en-GB": "Section A.10 - Installing the bow armour plate",
-    "es-ES": "Sección A.10 - Montaje del blindaje delantero (de proa)"
+    "en-GB": "Section A.10 - Installing the front superstructure armour",
+    "es-ES": "Sección A.10 - Montaje de la superestructura frontal blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -35,19 +35,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Fit the bow armour plate onto the hull as for removal, Fig. 38 (note the seal between the hull and the bow armour plate).",
+          "plain": "Fit the front superstructure armour onto the hull as for removal, Fig. 38 (note the seal between the hull and the front superstructure armour).",
           "runs": [
             {
-              "text": "Fit the bow armour plate onto the hull as for removal, Fig. 38 (note the seal between the hull and the bow armour plate).",
+              "text": "Fit the front superstructure armour onto the hull as for removal, Fig. 38 (note the seal between the hull and the front superstructure armour).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Colocar el blindaje delantero sobre el casco igual que en el desmontaje, Fig. 38 (tener en cuenta el sellado entre el casco y el blindaje delantero).",
+          "plain": "Colocar la superestructura frontal blindada sobre el casco igual que en el desmontaje, Fig. 38 (tener en cuenta el sellado entre el casco y la superestructura frontal blindada).",
           "runs": [
             {
-              "text": "Colocar el blindaje delantero sobre el casco igual que en el desmontaje, Fig. 38 (tener en cuenta el sellado entre el casco y el blindaje delantero).",
+              "text": "Colocar la superestructura frontal blindada sobre el casco igual que en el desmontaje, Fig. 38 (tener en cuenta el sellado entre el casco y la superestructura frontal blindada).",
               "bold": false
             }
           ]
@@ -67,19 +67,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Fit the side fastening screws of the bow armour plate, Fig. 31.",
+          "plain": "Fit the side fastening screws of the front superstructure armour, Fig. 31.",
           "runs": [
             {
-              "text": "Fit the side fastening screws of the bow armour plate, Fig. 31.",
+              "text": "Fit the side fastening screws of the front superstructure armour, Fig. 31.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Colocar los tornillos de fijación laterales del blindaje delantero, Fig. 31.",
+          "plain": "Colocar los tornillos de fijación laterales de la superestructura frontal blindada, Fig. 31.",
           "runs": [
             {
-              "text": "Colocar los tornillos de fijación laterales del blindaje delantero, Fig. 31.",
+              "text": "Colocar los tornillos de fijación laterales de la superestructura frontal blindada, Fig. 31.",
               "bold": false
             }
           ]
@@ -131,19 +131,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Fit the front fastening screws of the bow armour plate, Fig. 37.",
+          "plain": "Fit the front fastening screws of the front superstructure armour, Fig. 37.",
           "runs": [
             {
-              "text": "Fit the front fastening screws of the bow armour plate, Fig. 37.",
+              "text": "Fit the front fastening screws of the front superstructure armour, Fig. 37.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Colocar los tornillos de fijación delanteros del blindaje delantero, Fig. 37.",
+          "plain": "Colocar los tornillos de fijación delanteros de la superestructura frontal blindada, Fig. 37.",
           "runs": [
             {
-              "text": "Colocar los tornillos de fijación delanteros del blindaje delantero, Fig. 37.",
+              "text": "Colocar los tornillos de fijación delanteros de la superestructura frontal blindada, Fig. 37.",
               "bold": false
             }
           ]

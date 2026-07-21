@@ -5,8 +5,8 @@
   ],
   "titles": {
     "de": "Aufbauen des Bugpanzers",
-    "en": "Installing the bow armour plate",
-    "es": "Montaje del blindaje delantero (de proa)"
+    "en": "Installing the front superstructure armour",
+    "es": "Montaje de la superestructura frontal blindada"
   },
   "output": {
     "cover": false,

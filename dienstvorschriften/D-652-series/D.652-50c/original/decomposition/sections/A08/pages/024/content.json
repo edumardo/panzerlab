@@ -259,19 +259,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Fit the bow armour plate, page 25.",
+          "plain": "Fit the front superstructure armour, page 25.",
           "runs": [
             {
-              "text": "Fit the bow armour plate, page 25.",
+              "text": "Fit the front superstructure armour, page 25.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Montar el blindaje delantero, página 25.",
+          "plain": "Montar la superestructura frontal blindada, página 25.",
           "runs": [
             {
-              "text": "Montar el blindaje delantero, página 25.",
+              "text": "Montar la superestructura frontal blindada, página 25.",
               "bold": false
             }
           ]

@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "9. Abbauen des Bugpanzers",
-    "en-GB": "Section A.9 - Removing the bow armour plate",
-    "es-ES": "Sección A.9 - Desmontaje del blindaje delantero (de proa)"
+    "en-GB": "Section A.9 - Removing the front superstructure armour",
+    "es-ES": "Sección A.9 - Desmontaje de la superestructura frontal blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -37,19 +37,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Remove the gun. Unscrew the side fastening screws of the bow armour plate with a 22 mm socket and open-ended spanner.",
+          "plain": "Remove the gun. Unscrew the side fastening screws of the front superstructure armour with a 22 mm socket and open-ended spanner.",
           "runs": [
             {
-              "text": "Remove the gun. Unscrew the side fastening screws of the bow armour plate with a 22 mm socket and open-ended spanner.",
+              "text": "Remove the gun. Unscrew the side fastening screws of the front superstructure armour with a 22 mm socket and open-ended spanner.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Desmontar el cañón. Desenroscar los tornillos de fijación laterales del blindaje delantero con una llave de vaso y una llave fija de 22 mm.",
+          "plain": "Desmontar el cañón. Desenroscar los tornillos de fijación laterales de la superestructura frontal blindada con una llave de vaso y una llave fija de 22 mm.",
           "runs": [
             {
-              "text": "Desmontar el cañón. Desenroscar los tornillos de fijación laterales del blindaje delantero con una llave de vaso y una llave fija de 22 mm.",
+              "text": "Desmontar el cañón. Desenroscar los tornillos de fijación laterales de la superestructura frontal blindada con una llave de vaso y una llave fija de 22 mm.",
               "bold": false
             }
           ]
