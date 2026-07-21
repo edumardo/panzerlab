@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-114",
+  "document_id": "d652-50c",
+  "page": 114,
+  "section": "B28",
+  "type": "figures",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 59,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-113",
+    "next": "d65250c-page-115"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild203",
+      "number": 203,
+      "image": "figures/fig203.jpg",
+      "status": "candidate_crop",
+      "captions": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild204",
+      "number": 204,
+      "image": "figures/fig204.jpg",
+      "status": "candidate_crop",
+      "captions": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "candidate"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-010",
+  "document_id": "d652-50c",
+  "page": 10,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 7,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-009",
+    "next": "d65250c-page-011"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild009",
+      "number": 9,
+      "image": "figures/fig009.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Anbau für die Warmluftbeheizung des Kampfraumes an dem hinteren Luftleitblech (bei der neueren Ausführung des Panzers III bzw. Sturmgeschützes) entfernen.",
+          "runs": [
+            {
+              "text": "Anbau für die Warmluftbeheizung des Kampfraumes an dem hinteren Luftleitblech (bei der neueren Ausführung des Panzers III bzw. Sturmgeschützes) entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the warm-air heating attachment for the fighting compartment (Kampfraum) from the rear air baffle (Luftleitblech) on later versions of the Panzer III and Sturmgeschütz.",
+          "runs": [
+            {
+              "text": "Remove the warm-air heating attachment for the fighting compartment (Kampfraum) from the rear air baffle (Luftleitblech) on later versions of the Panzer III and Sturmgeschütz.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar del deflector de aire trasero (Luftleitblech) el accesorio de calefacción por aire caliente de la cámara de combate (Kampfraum), presente en las versiones posteriores del Panzer III y del Sturmgeschütz.",
+          "runs": [
+            {
+              "text": "Retirar del deflector de aire trasero (Luftleitblech) el accesorio de calefacción por aire caliente de la cámara de combate (Kampfraum), presente en las versiones posteriores del Panzer III y del Sturmgeschütz.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild010",
+      "number": 10,
+      "image": "figures/fig010.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Schrauben aus dem Luftleitblech und Streben am linken Lüfter mit 10- und 14-Maulschlüssel entfernen.",
+          "runs": [
+            {
+              "text": "Schrauben aus dem Luftleitblech und Streben am linken Lüfter mit 10- und 14-Maulschlüssel entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using 10 mm and 14 mm open-ended spanners (Maulschlüssel), remove the bolts from the air baffle (Luftleitblech) and the struts on the left-hand fan.",
+          "runs": [
+            {
+              "text": "Using 10 mm and 14 mm open-ended spanners (Maulschlüssel), remove the bolts from the air baffle (Luftleitblech) and the struts on the left-hand fan.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con llaves fijas de 10 y 14 mm (Maulschlüssel), retirar los tornillos del deflector de aire (Luftleitblech) y de los tirantes del ventilador izquierdo.",
+          "runs": [
+            {
+              "text": "Con llaves fijas de 10 y 14 mm (Maulschlüssel), retirar los tornillos del deflector de aire (Luftleitblech) y de los tirantes del ventilador izquierdo.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

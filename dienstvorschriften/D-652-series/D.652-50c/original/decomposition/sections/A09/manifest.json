@@ -1,0 +1,20 @@
+{
+  "id": "A09",
+  "pages": [
+    25,
+    26,
+    27,
+    28
+  ],
+  "titles": {
+    "de": "Abbauen des Bugpanzers",
+    "en": "Removing the bow armour plate",
+    "es": "Desmontaje del blindaje delantero (de proa)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

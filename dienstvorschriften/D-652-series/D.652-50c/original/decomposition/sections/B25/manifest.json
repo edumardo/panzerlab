@@ -1,0 +1,18 @@
+{
+  "id": "B25",
+  "pages": [
+    103,
+    104
+  ],
+  "titles": {
+    "de": "Zusammenbau des elektrischen Anlassers",
+    "en": "Assembling the electric starter motor",
+    "es": "Montaje del motor de arranque eléctrico"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

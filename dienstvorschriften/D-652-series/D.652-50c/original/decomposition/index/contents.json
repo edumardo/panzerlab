@@ -1,0 +1,366 @@
+{
+  "schema_version": 1,
+  "groups": [
+    {
+      "id": "A",
+      "titles": {
+        "de": "Zusätzliche Arbeiten zum Aus- und Einbau des Motors",
+        "en-GB": "Additional work for removing and installing the engine",
+        "es-ES": "Trabajos adicionales para el desmontaje y montaje del motor"
+      },
+      "sections": [
+        {
+          "id": "A01",
+          "number": 1,
+          "page": 5,
+          "titles": {
+            "de": "Abbauen der Heckpanzerung",
+            "en-GB": "Removing the rear armour plate",
+            "es-ES": "Desmontaje del blindaje trasero"
+          },
+          "manifest": "../sections/A01/manifest.json"
+        },
+        {
+          "id": "A02",
+          "number": 2,
+          "page": 7,
+          "titles": {
+            "de": "Aufbauen der Heckpanzerung",
+            "en-GB": "Installing the rear armour plate",
+            "es-ES": "Montaje del blindaje trasero"
+          },
+          "manifest": "../sections/A02/manifest.json"
+        },
+        {
+          "id": "A03",
+          "number": 3,
+          "page": 8,
+          "titles": {
+            "de": "Ausbauen des linken Lüfters und Kühlers",
+            "en-GB": "Removing the left-hand fan and radiator",
+            "es-ES": "Desmontaje del ventilador y radiador izquierdos"
+          },
+          "manifest": "../sections/A03/manifest.json"
+        },
+        {
+          "id": "A04",
+          "number": 4,
+          "page": 16,
+          "titles": {
+            "de": "Einbauen des linken Kühlers und Lüfters",
+            "en-GB": "Installing the left-hand radiator and fan",
+            "es-ES": "Montaje del radiador y ventilador izquierdos"
+          },
+          "manifest": "../sections/A04/manifest.json"
+        },
+        {
+          "id": "A05",
+          "number": 5,
+          "page": 17,
+          "titles": {
+            "de": "Ausbauen des rechten Lüfters und Kühlers",
+            "en-GB": "Removing the right-hand fan and radiator",
+            "es-ES": "Desmontaje del ventilador y radiador derechos"
+          },
+          "manifest": "../sections/A05/manifest.json"
+        },
+        {
+          "id": "A06",
+          "number": 6,
+          "page": 21,
+          "titles": {
+            "de": "Einbauen des rechten Kühlers und Lüfters",
+            "en-GB": "Installing the right-hand radiator and fan",
+            "es-ES": "Montaje del radiador y ventilador derechos"
+          },
+          "manifest": "../sections/A06/manifest.json"
+        },
+        {
+          "id": "A07",
+          "number": 7,
+          "page": 22,
+          "titles": {
+            "de": "Ausbauen des Kraftstoffbehälters",
+            "en-GB": "Removing the fuel tank",
+            "es-ES": "Desmontaje del depósito de combustible"
+          },
+          "manifest": "../sections/A07/manifest.json"
+        },
+        {
+          "id": "A08",
+          "number": 8,
+          "page": 24,
+          "titles": {
+            "de": "Einbauen des Kraftstoffbehälters",
+            "en-GB": "Installing the fuel tank",
+            "es-ES": "Montaje del depósito de combustible"
+          },
+          "manifest": "../sections/A08/manifest.json"
+        },
+        {
+          "id": "A09",
+          "number": 9,
+          "page": 25,
+          "titles": {
+            "de": "Abbauen des Bugpanzers",
+            "en-GB": "Removing the bow armour plate",
+            "es-ES": "Desmontaje del blindaje delantero (de proa)"
+          },
+          "manifest": "../sections/A09/manifest.json"
+        },
+        {
+          "id": "A10",
+          "number": 10,
+          "page": 29,
+          "titles": {
+            "de": "Aufbauen des Bugpanzers",
+            "en-GB": "Installing the bow armour plate",
+            "es-ES": "Montaje del blindaje delantero (de proa)"
+          },
+          "manifest": "../sections/A10/manifest.json"
+        },
+        {
+          "id": "A11",
+          "number": 11,
+          "page": 30,
+          "titles": {
+            "de": "Ausbauen des Sammlers",
+            "en-GB": "Removing the battery (accumulator)",
+            "es-ES": "Desmontaje de la batería (acumulador)"
+          },
+          "manifest": "../sections/A11/manifest.json"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "titles": {
+        "de": "Arbeiten am Motor",
+        "en-GB": "Work on the engine",
+        "es-ES": "Trabajos en el motor"
+      },
+      "sections": [
+        {
+          "id": "B12",
+          "number": 12,
+          "page": 32,
+          "titles": {
+            "de": "Ausbauen des Motors",
+            "en-GB": "Removing the engine",
+            "es-ES": "Desmontaje del motor"
+          },
+          "manifest": "../sections/B12/manifest.json"
+        },
+        {
+          "id": "B13",
+          "number": 13,
+          "page": 47,
+          "titles": {
+            "de": "Zerlegen des Motors",
+            "en-GB": "Dismantling the engine",
+            "es-ES": "Despiece del motor"
+          },
+          "manifest": "../sections/B13/manifest.json"
+        },
+        {
+          "id": "B14",
+          "number": 14,
+          "page": 68,
+          "titles": {
+            "de": "Ausbauen des Novotext-Zwischenrades",
+            "en-GB": "Removing the Novotext idler gear",
+            "es-ES": "Desmontaje de la rueda intermedia de Novotext"
+          },
+          "manifest": "../sections/B14/manifest.json"
+        },
+        {
+          "id": "B15",
+          "number": 15,
+          "page": 70,
+          "titles": {
+            "de": "Instandsetzen des Motors",
+            "en-GB": "Repairing the engine",
+            "es-ES": "Reparación del motor"
+          },
+          "manifest": "../sections/B15/manifest.json"
+        },
+        {
+          "id": "B16",
+          "number": 16,
+          "page": 74,
+          "titles": {
+            "de": "Nacharbeiten des Zylinderkopfes",
+            "en-GB": "Reworking the cylinder head",
+            "es-ES": "Repaso de la culata"
+          },
+          "manifest": "../sections/B16/manifest.json"
+        },
+        {
+          "id": "B17",
+          "number": 17,
+          "page": 78,
+          "titles": {
+            "de": "Zusammenbau des Zylinderkopfes",
+            "en-GB": "Assembling the cylinder head",
+            "es-ES": "Montaje de la culata"
+          },
+          "manifest": "../sections/B17/manifest.json"
+        },
+        {
+          "id": "B18",
+          "number": 18,
+          "page": 79,
+          "titles": {
+            "de": "Zerlegen der Kraftstoffpumpe",
+            "en-GB": "Dismantling the fuel pump",
+            "es-ES": "Despiece de la bomba de combustible"
+          },
+          "manifest": "../sections/B18/manifest.json"
+        },
+        {
+          "id": "B19",
+          "number": 19,
+          "page": 82,
+          "titles": {
+            "de": "Zerlegen der Wasserpumpe",
+            "en-GB": "Dismantling the water pump",
+            "es-ES": "Despiece de la bomba de agua"
+          },
+          "manifest": "../sections/B19/manifest.json"
+        },
+        {
+          "id": "B20",
+          "number": 20,
+          "page": 87,
+          "titles": {
+            "de": "Nachstellen der Wasserpumpenwellenlagerung",
+            "en-GB": "Readjusting the water-pump shaft bearing",
+            "es-ES": "Reajuste del cojinete del eje de la bomba de agua"
+          },
+          "manifest": "../sections/B20/manifest.json"
+        },
+        {
+          "id": "B21",
+          "number": 21,
+          "page": 88,
+          "titles": {
+            "de": "Verpacken der Stopfbuchse",
+            "en-GB": "Packing the gland",
+            "es-ES": "Empaquetado del prensaestopas"
+          },
+          "manifest": "../sections/B21/manifest.json"
+        },
+        {
+          "id": "B22",
+          "number": 22,
+          "page": 89,
+          "titles": {
+            "de": "Zerlegen der Lichtmaschine",
+            "en-GB": "Dismantling the dynamo",
+            "es-ES": "Despiece de la dinamo"
+          },
+          "manifest": "../sections/B22/manifest.json"
+        },
+        {
+          "id": "B23",
+          "number": 23,
+          "page": 96,
+          "titles": {
+            "de": "Zusammenbau der Lichtmaschine",
+            "en-GB": "Assembling the dynamo",
+            "es-ES": "Montaje de la dinamo"
+          },
+          "manifest": "../sections/B23/manifest.json"
+        },
+        {
+          "id": "B24",
+          "number": 24,
+          "page": 98,
+          "titles": {
+            "de": "Zerlegen des elektrischen Anlassers",
+            "en-GB": "Dismantling the electric starter motor",
+            "es-ES": "Despiece del motor de arranque eléctrico"
+          },
+          "manifest": "../sections/B24/manifest.json"
+        },
+        {
+          "id": "B25",
+          "number": 25,
+          "page": 103,
+          "titles": {
+            "de": "Zusammenbau des elektrischen Anlassers",
+            "en-GB": "Assembling the electric starter motor",
+            "es-ES": "Montaje del motor de arranque eléctrico"
+          },
+          "manifest": "../sections/B25/manifest.json"
+        },
+        {
+          "id": "B26",
+          "number": 26,
+          "page": 105,
+          "titles": {
+            "de": "Auswechseln des Anlasserritzels am Schwungkraftanlasser",
+            "en-GB": "Replacing the starter pinion in the inertia starter",
+            "es-ES": "Sustitución del piñón de arranque en el arranque de inercia"
+          },
+          "manifest": "../sections/B26/manifest.json"
+        },
+        {
+          "id": "B27",
+          "number": 27,
+          "page": 109,
+          "titles": {
+            "de": "Einstellen des Schnapper-Magnetzünders am Motor",
+            "en-GB": "Adjusting the impulse magneto on the engine",
+            "es-ES": "Reglaje del magneto de impulso en el motor"
+          },
+          "manifest": "../sections/B27/manifest.json"
+        },
+        {
+          "id": "B28",
+          "number": 28,
+          "page": 113,
+          "titles": {
+            "de": "Zerlegen des Vergasers",
+            "en-GB": "Dismantling the carburettor",
+            "es-ES": "Despiece del carburador"
+          },
+          "manifest": "../sections/B28/manifest.json"
+        },
+        {
+          "id": "B29",
+          "number": 29,
+          "page": 119,
+          "titles": {
+            "de": "Zerlegen und Reinigen des Kraftstoffilters",
+            "en-GB": "Dismantling and cleaning the fuel filter",
+            "es-ES": "Despiece y limpieza del filtro de combustible"
+          },
+          "manifest": "../sections/B29/manifest.json"
+        },
+        {
+          "id": "B30",
+          "number": 30,
+          "page": 122,
+          "titles": {
+            "de": "Zusammenbau des Motors",
+            "en-GB": "Assembling the engine",
+            "es-ES": "Montaje del motor"
+          },
+          "manifest": "../sections/B30/manifest.json"
+        },
+        {
+          "id": "B31",
+          "number": 31,
+          "page": 142,
+          "titles": {
+            "de": "Einbauen des Motors",
+            "en-GB": "Installing the engine",
+            "es-ES": "Instalación (montaje) del motor"
+          },
+          "manifest": "../sections/B31/manifest.json"
+        }
+      ]
+    }
+  ]
+}

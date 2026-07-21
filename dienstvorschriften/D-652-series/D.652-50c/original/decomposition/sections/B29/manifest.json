@@ -1,0 +1,19 @@
+{
+  "id": "B29",
+  "pages": [
+    119,
+    120,
+    121
+  ],
+  "titles": {
+    "de": "Zerlegen und Reinigen des Kraftstoffilters",
+    "en": "Dismantling and cleaning the fuel filter",
+    "es": "Despiece y limpieza del filtro de combustible"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

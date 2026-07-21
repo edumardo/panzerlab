@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "d652-50c",
+  "code": "D 652/50c",
+  "titles": {
+    "de": "Vorläufige Instandsetzungsanleitung für den Motor",
+    "en-GB": "Preliminary repair instructions for the engine",
+    "es-ES": "Instrucciones provisionales de reparación del motor"
+  },
+  "original_date": "1943-11-03",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "source_pdf": "../D.652-50c_de.pdf",
+  "index": "index/contents.json",
+  "glossary": "glossary/terminology.json",
+  "manifest": "manifest.json",
+  "layout": "layout.json"
+}

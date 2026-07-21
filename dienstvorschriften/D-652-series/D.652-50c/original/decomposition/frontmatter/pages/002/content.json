@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-002",
+  "document_id": "d652-50c",
+  "page": 2,
+  "section": "FrontMatter",
+  "type": "blank",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 3,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-001",
+    "next": "d65250c-page-003"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

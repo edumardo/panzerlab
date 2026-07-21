@@ -1,0 +1,17 @@
+{
+  "id": "A06",
+  "pages": [
+    21
+  ],
+  "titles": {
+    "de": "Einbauen des rechten Kühlers und Lüfters",
+    "en": "Installing the right-hand radiator and fan",
+    "es": "Montaje del radiador y ventilador derechos"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

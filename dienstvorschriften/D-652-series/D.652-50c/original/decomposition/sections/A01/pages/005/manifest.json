@@ -1,0 +1,24 @@
+{
+  "page": 5,
+  "section": "A01",
+  "pdf_spread": 4,
+  "side": "right",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "validated",
+  "translation_en_status": "validated",
+  "translation_es_status": "validated",
+  "figures": [
+    {
+      "number": 1,
+      "path": "figures/fig001.jpg",
+      "status": "validated"
+    },
+    {
+      "number": 2,
+      "path": "figures/fig002.jpg",
+      "status": "validated"
+    }
+  ]
+}

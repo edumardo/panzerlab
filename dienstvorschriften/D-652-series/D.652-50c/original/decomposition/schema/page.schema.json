@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "D 652/50c source page manifest",
+  "type": "object",
+  "required": ["page", "section", "pdf_spread", "side", "source_scan", "content", "source_scan_status", "transcription_status", "translation_en_status", "translation_es_status", "figures"],
+  "properties": {
+    "page": {"type": "integer", "minimum": 1, "maximum": 143},
+    "section": {"type": "string"},
+    "pdf_spread": {"type": "integer", "minimum": 1, "maximum": 75},
+    "side": {"enum": ["left", "right"]},
+    "source_scan": {"type": "string"},
+    "content": {"type": "string", "const": "content.json"},
+    "source_scan_status": {"enum": ["extracted_clean", "validated"]},
+    "transcription_status": {"enum": ["pending", "draft", "validated"]},
+    "translation_en_status": {"enum": ["pending", "draft", "validated"]},
+    "translation_es_status": {"enum": ["pending", "draft", "validated"]},
+    "figures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "status"],
+        "properties": {
+          "number": {"type": ["integer", "null"]},
+          "role": {"type": "string"},
+          "path": {"type": "string"},
+          "status": {"enum": ["candidate_crop", "draft", "validated"]}
+        }
+      }
+    }
+  }
+}
+

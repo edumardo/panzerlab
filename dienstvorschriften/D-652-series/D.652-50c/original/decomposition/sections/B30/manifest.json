@@ -1,0 +1,36 @@
+{
+  "id": "B30",
+  "pages": [
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141
+  ],
+  "titles": {
+    "de": "Zusammenbau des Motors",
+    "en": "Assembling the engine",
+    "es": "Montaje del motor"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

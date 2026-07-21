@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-008",
+  "document_id": "d652-50c",
+  "page": 8,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 6,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-007",
+    "next": "d65250c-page-009"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild005",
+      "number": 5,
+      "image": "figures/fig005.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Splinte und mit 22-Steckschlüssel die vier Muttern an der Abschlußkappe entfernen.",
+          "runs": [
+            {
+              "text": "Splinte und mit 22-Steckschlüssel die vier Muttern an der Abschlußkappe entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the split pins (Splinte), then use a 22 mm socket spanner (Steckschlüssel) to remove the four nuts from the end cover (Abschlußkappe).",
+          "runs": [
+            {
+              "text": "Remove the split pins (Splinte), then use a 22 mm socket spanner (Steckschlüssel) to remove the four nuts from the end cover (Abschlußkappe).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas (Splinte) y, con una llave de vaso de 22 mm (Steckschlüssel), retirar las cuatro tuercas de la tapa de cierre (Abschlußkappe).",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas (Splinte) y, con una llave de vaso de 22 mm (Steckschlüssel), retirar las cuatro tuercas de la tapa de cierre (Abschlußkappe).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild006",
+      "number": 6,
+      "image": "figures/fig006.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Splinte entfernen und mit 19- und 22-Maulschlüssel die Kronenmutter der Kurbelachse lösen.",
+          "runs": [
+            {
+              "text": "Splinte entfernen und mit 19- und 22-Maulschlüssel die Kronenmutter der Kurbelachse lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the split pins (Splinte), then use 19 mm and 22 mm open-ended spanners (Maulschlüssel) to loosen the castle nut (Kronenmutter) on the crank spindle (Kurbelachse).",
+          "runs": [
+            {
+              "text": "Remove the split pins (Splinte), then use 19 mm and 22 mm open-ended spanners (Maulschlüssel) to loosen the castle nut (Kronenmutter) on the crank spindle (Kurbelachse).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas (Splinte) y, con llaves fijas de 19 y 22 mm (Maulschlüssel), aflojar la tuerca almenada (Kronenmutter) del eje de manivela (Kurbelachse).",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas (Splinte) y, con llaves fijas de 19 y 22 mm (Maulschlüssel), aflojar la tuerca almenada (Kronenmutter) del eje de manivela (Kurbelachse).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

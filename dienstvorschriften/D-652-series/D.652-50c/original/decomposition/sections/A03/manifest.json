@@ -1,0 +1,24 @@
+{
+  "id": "A03",
+  "pages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "titles": {
+    "de": "Ausbauen des linken Lüfters und Kühlers",
+    "en": "Removing the left-hand fan and radiator",
+    "es": "Desmontaje del ventilador y radiador izquierdos"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

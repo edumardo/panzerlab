@@ -1,0 +1,13 @@
+{
+  "page": 29,
+  "section": "A10",
+  "pdf_spread": 16,
+  "side": "right",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "pending",
+  "translation_en_status": "pending",
+  "translation_es_status": "pending",
+  "figures": []
+}

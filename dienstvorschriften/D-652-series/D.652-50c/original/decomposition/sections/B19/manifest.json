@@ -1,0 +1,21 @@
+{
+  "id": "B19",
+  "pages": [
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "titles": {
+    "de": "Zerlegen der Wasserpumpe",
+    "en": "Dismantling the water pump",
+    "es": "Despiece de la bomba de agua"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

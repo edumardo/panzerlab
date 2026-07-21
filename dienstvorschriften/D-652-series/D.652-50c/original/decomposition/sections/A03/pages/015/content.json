@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-015",
+  "document_id": "d652-50c",
+  "page": 15,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 9,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-014",
+    "next": "d65250c-page-016"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild019",
+      "number": 19,
+      "image": "figures/fig019.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Mit der Lüfterriemen-Nachstellvorrichtung die Riemen so stramm spannen, daß diese sich in der Mitte 2 cm durchdrücken lassen.",
+          "runs": [
+            {
+              "text": "Mit der Lüfterriemen-Nachstellvorrichtung die Riemen so stramm spannen, daß diese sich in der Mitte 2 cm durchdrücken lassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using the fan-belt tensioning device (Lüfterriemen-Nachstellvorrichtung), tension the belts so that they can be depressed by 2 cm at the midpoint.",
+          "runs": [
+            {
+              "text": "Using the fan-belt tensioning device (Lüfterriemen-Nachstellvorrichtung), tension the belts so that they can be depressed by 2 cm at the midpoint.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con el dispositivo de tensado de las correas del ventilador (Lüfterriemen-Nachstellvorrichtung), tensar las correas de modo que puedan hundirse 2 cm en su punto medio.",
+          "runs": [
+            {
+              "text": "Con el dispositivo de tensado de las correas del ventilador (Lüfterriemen-Nachstellvorrichtung), tensar las correas de modo que puedan hundirse 2 cm en su punto medio.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild020",
+      "number": 20,
+      "image": "figures/fig020.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Rutschkupplung mit Hakenschlüssel so einstellen, daß sich der Lüfter am Umfang bei gespannten Riemen schwer durchziehen läßt. An den angebrachten Kreidestrichen durch schnelles Beschleunigen des Motors die richtige Einstellung der Rutschkupplung prüfen. (Die Riemenscheibe muß beim Gasgeben durchrutschen.)",
+          "runs": [
+            {
+              "text": "Rutschkupplung mit Hakenschlüssel so einstellen, daß sich der Lüfter am Umfang bei gespannten Riemen schwer durchziehen läßt. An den angebrachten Kreidestrichen durch schnelles Beschleunigen des Motors die richtige Einstellung der Rutschkupplung prüfen. (Die Riemenscheibe muß beim Gasgeben durchrutschen.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Adjust the slip clutch (Rutschkupplung) with the hook spanner (Hakenschlüssel) so that, with the belts tensioned, the fan is difficult to turn by pulling at its circumference. Use the applied chalk marks to check the slip-clutch setting by rapidly accelerating the engine. (The belt pulley (Riemenscheibe) must slip when the throttle is opened.)",
+          "runs": [
+            {
+              "text": "Adjust the slip clutch (Rutschkupplung) with the hook spanner (Hakenschlüssel) so that, with the belts tensioned, the fan is difficult to turn by pulling at its circumference. Use the applied chalk marks to check the slip-clutch setting by rapidly accelerating the engine. (The belt pulley (Riemenscheibe) must slip when the throttle is opened.)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ajustar el embrague de fricción (Rutschkupplung) con la llave de gancho (Hakenschlüssel) de forma que, con las correas tensadas, resulte difícil hacer girar el ventilador tirando de su periferia. Comprobar el ajuste del embrague mediante las marcas de tiza aplicadas, acelerando rápidamente el motor. (La polea (Riemenscheibe) debe patinar al acelerar).",
+          "runs": [
+            {
+              "text": "Ajustar el embrague de fricción (Rutschkupplung) con la llave de gancho (Hakenschlüssel) de forma que, con las correas tensadas, resulte difícil hacer girar el ventilador tirando de su periferia. Comprobar el ajuste del embrague mediante las marcas de tiza aplicadas, acelerando rápidamente el motor. (La polea (Riemenscheibe) debe patinar al acelerar).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

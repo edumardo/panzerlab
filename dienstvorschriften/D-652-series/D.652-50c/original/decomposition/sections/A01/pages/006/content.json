@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-006",
+  "document_id": "d652-50c",
+  "page": 6,
+  "section": "A01",
+  "type": "figures",
+  "titles": {
+    "de": null,
+    "en-GB": "Section A.1 — Removing the rear armour plate (continued)",
+    "es-ES": "Sección A.1 — Desmontaje del blindaje trasero (continuación)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-005",
+    "next": "d65250c-page-007"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild003",
+      "number": 3,
+      "image": "figures/fig003.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Befestigungsschrauben der Heckpanzerung innerhalb des Kampfraumes mit 19-Maulschlüssel entfernen.",
+          "runs": [
+            {
+              "text": "Befestigungsschrauben der Heckpanzerung innerhalb des Kampfraumes mit 19-Maulschlüssel entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Inside the fighting compartment (Kampfraum), remove the securing bolts of the rear armour plate (Heckpanzerung) with a 19 mm open-ended spanner (Maulschlüssel).",
+          "runs": [
+            {
+              "text": "Inside the fighting compartment (Kampfraum), remove the securing bolts of the rear armour plate (Heckpanzerung) with a 19 mm open-ended spanner (Maulschlüssel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desde la cámara de combate (Kampfraum), retirar los tornillos de fijación del blindaje trasero (Heckpanzerung) con una llave fija (Maulschlüssel) de 19 mm.",
+          "runs": [
+            {
+              "text": "Desde la cámara de combate (Kampfraum), retirar los tornillos de fijación del blindaje trasero (Heckpanzerung) con una llave fija (Maulschlüssel) de 19 mm.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild004",
+      "number": 4,
+      "image": "figures/fig004.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Heckpanzerung mit Hebezeug und drei Drahtseilen, die in die dafür vorgesehenen Haken auf der Heckpanzerung eingehängt werden, abheben.",
+          "runs": [
+            {
+              "text": "Heckpanzerung mit Hebezeug und drei Drahtseilen, die in die dafür vorgesehenen Haken auf der Heckpanzerung eingehängt werden, abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift off the rear armour plate (Heckpanzerung) using lifting gear and three wire ropes attached to the hooks provided on the rear armour plate.",
+          "runs": [
+            {
+              "text": "Lift off the rear armour plate (Heckpanzerung) using lifting gear and three wire ropes attached to the hooks provided on the rear armour plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar el blindaje trasero (Heckpanzerung) con un aparejo de elevación y tres cables de acero enganchados en los ganchos previstos en el propio blindaje.",
+          "runs": [
+            {
+              "text": "Levantar el blindaje trasero (Heckpanzerung) con un aparejo de elevación y tres cables de acero enganchados en los ganchos previstos en el propio blindaje.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "B15",
+  "pages": [
+    70,
+    71,
+    72,
+    73
+  ],
+  "titles": {
+    "de": "Instandsetzen des Motors",
+    "en": "Repairing the engine",
+    "es": "Reparación del motor"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

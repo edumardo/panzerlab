@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-004",
+  "document_id": "d652-50c",
+  "page": 4,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {
+    "de": "Vorbemerkungen",
+    "en-GB": "Preliminary remarks",
+    "es-ES": "Observaciones preliminares"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 4,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-003",
+    "next": "d65250c-page-005"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250c-p004-para01",
+      "text": {
+        "de": {
+          "plain": "Diese Anweisung dient als Hilfsmittel beim Beheben von Schäden am Motor des Pz Kpfw III, Ausf. E bis L; Pz Bef Wg, Ausf. E bis L; Gep Sfl, Ausf. A bis G, für Stu Gesch 7,5 cm Kanone.",
+          "runs": [
+            {
+              "text": "Diese Anweisung dient als Hilfsmittel beim Beheben von Schäden am Motor des Pz Kpfw III, Ausf. E bis L; Pz Bef Wg, Ausf. E bis L; Gep Sfl, Ausf. A bis G, für Stu Gesch 7,5 cm Kanone.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "These instructions are intended as an aid when rectifying damage to the engine of the Panzerkampfwagen III (Pz Kpfw III), models E to L; Panzerbefehlswagen (Pz Bef Wg), models E to L; and armoured self-propelled mounting (Gep Sfl), models A to G, for the 7.5 cm assault gun (Stu Gesch 7,5 cm Kanone).",
+          "runs": [
+            {
+              "text": "These instructions are intended as an aid when rectifying damage to the engine of the Panzerkampfwagen III (Pz Kpfw III), models E to L; Panzerbefehlswagen (Pz Bef Wg), models E to L; and armoured self-propelled mounting (Gep Sfl), models A to G, for the 7.5 cm assault gun (Stu Gesch 7,5 cm Kanone).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Estas instrucciones sirven de ayuda para subsanar averías en el motor del Panzerkampfwagen III (Pz Kpfw III), modelos E a L; del Panzerbefehlswagen (Pz Bef Wg), modelos E a L; y de la cureña autopropulsada blindada (Gep Sfl), modelos A a G, para el cañón de asalto de 7,5 cm (Stu Gesch 7,5 cm Kanone).",
+          "runs": [
+            {
+              "text": "Estas instrucciones sirven de ayuda para subsanar averías en el motor del Panzerkampfwagen III (Pz Kpfw III), modelos E a L; del Panzerbefehlswagen (Pz Bef Wg), modelos E a L; y de la cureña autopropulsada blindada (Gep Sfl), modelos A a G, para el cañón de asalto de 7,5 cm (Stu Gesch 7,5 cm Kanone).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p004-para02",
+      "text": {
+        "de": {
+          "plain": "Für die Arbeiten am Motor sind alle Einzelheiten festgelegt, die für eine fachgerechte Durchführung notwendig sind. Die Folge der Arbeitsgänge ist so gestaltet, daß bei ihrer sorgfältigen Beachtung eine möglichst einfache Durchführung der Instandsetzung und ein fehlerfreies Arbeiten des Motors nach der Instandsetzung gewährleistet ist. Sie ist so eingehend mit Bildern versehen, daß jeder Soldat, auch wenn er nicht als Metallarbeiter ausgebildet ist, die erforderlichen Arbeiten ausführen kann.",
+          "runs": [
+            {
+              "text": "Für die Arbeiten am Motor sind alle Einzelheiten festgelegt, die für eine fachgerechte Durchführung notwendig sind. Die Folge der Arbeitsgänge ist so gestaltet, daß bei ihrer sorgfältigen Beachtung eine möglichst einfache Durchführung der Instandsetzung und ein fehlerfreies Arbeiten des Motors nach der Instandsetzung gewährleistet ist. Sie ist so eingehend mit Bildern versehen, daß jeder Soldat, auch wenn er nicht als Metallarbeiter ausgebildet ist, die erforderlichen Arbeiten ausführen kann.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "All the details required for proper execution of work on the engine are specified. The sequence of operations is arranged so that, when carefully followed, the repair (Instandsetzung) can be carried out as simply as possible and correct operation of the engine after repair is ensured. The instructions are illustrated in such detail that any soldier can perform the necessary work, even if he has not been trained as a metalworker.",
+          "runs": [
+            {
+              "text": "All the details required for proper execution of work on the engine are specified. The sequence of operations is arranged so that, when carefully followed, the repair (Instandsetzung) can be carried out as simply as possible and correct operation of the engine after repair is ensured. The instructions are illustrated in such detail that any soldier can perform the necessary work, even if he has not been trained as a metalworker.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Se especifican todos los detalles necesarios para ejecutar correctamente los trabajos en el motor. La secuencia de operaciones está concebida de modo que, si se sigue con atención, la reparación (Instandsetzung) pueda realizarse de la manera más sencilla posible y quede garantizado el funcionamiento correcto del motor después de repararlo. Las instrucciones están ilustradas con tal detalle que cualquier soldado puede efectuar los trabajos necesarios, aunque no tenga formación como metalúrgico.",
+          "runs": [
+            {
+              "text": "Se especifican todos los detalles necesarios para ejecutar correctamente los trabajos en el motor. La secuencia de operaciones está concebida de modo que, si se sigue con atención, la reparación (Instandsetzung) pueda realizarse de la manera más sencilla posible y quede garantizado el funcionamiento correcto del motor después de repararlo. Las instrucciones están ilustradas con tal detalle que cualquier soldado puede efectuar los trabajos necesarios, aunque no tenga formación como metalúrgico.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p004-para03",
+      "text": {
+        "de": {
+          "plain": "Verschiedene Arbeiten können durch Benutzung von Sonderwerkzeugen schneller und besser ausgeführt werden. Der größte Teil der in der Vorschrift angegebenen Sonderwerkzeuge ist im Sonderwerkzeugsatz für Pz Kpfw III vorhanden.",
+          "runs": [
+            {
+              "text": "Verschiedene Arbeiten können durch Benutzung von Sonderwerkzeugen schneller und besser ausgeführt werden. Der größte Teil der in der Vorschrift angegebenen Sonderwerkzeuge ist im Sonderwerkzeugsatz für Pz Kpfw III vorhanden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Various tasks can be performed more quickly and effectively by using special tools (Sonderwerkzeuge). Most of the special tools specified in these instructions are included in the special-tool kit (Sonderwerkzeugsatz) for the Panzerkampfwagen III.",
+          "runs": [
+            {
+              "text": "Various tasks can be performed more quickly and effectively by using special tools (Sonderwerkzeuge). Most of the special tools specified in these instructions are included in the special-tool kit (Sonderwerkzeugsatz) for the Panzerkampfwagen III.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Diversos trabajos pueden realizarse con mayor rapidez y eficacia utilizando herramientas especiales (Sonderwerkzeuge). La mayor parte de las herramientas especiales indicadas en estas instrucciones está incluida en el juego de herramientas especiales (Sonderwerkzeugsatz) del Panzerkampfwagen III.",
+          "runs": [
+            {
+              "text": "Diversos trabajos pueden realizarse con mayor rapidez y eficacia utilizando herramientas especiales (Sonderwerkzeuge). La mayor parte de las herramientas especiales indicadas en estas instrucciones está incluida en el juego de herramientas especiales (Sonderwerkzeugsatz) del Panzerkampfwagen III.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p004-para04",
+      "text": {
+        "de": {
+          "plain": "Sind diese Sonderwerkzeuge nicht vorhanden, müssen diese Arbeiten mit normalen Werkzeugen ausgeführt werden. Auch für diese Art der Arbeitsausführung sind die einzelnen Arbeitsgänge angegeben. Bei der Verwendung normaler Werkzeuge muß mit besonderer Sorgfalt gearbeitet werden, damit die Teile nicht durch unsachgemäßes Arbeiten beschädigt werden.",
+          "runs": [
+            {
+              "text": "Sind diese Sonderwerkzeuge nicht vorhanden, müssen diese Arbeiten mit normalen Werkzeugen ausgeführt werden. Auch für diese Art der Arbeitsausführung sind die einzelnen Arbeitsgänge angegeben. Bei der Verwendung normaler Werkzeuge muß mit besonderer Sorgfalt gearbeitet werden, damit die Teile nicht durch unsachgemäßes Arbeiten beschädigt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If these special tools are unavailable, the tasks must be carried out with standard tools. The individual operations for this method of working are also specified. When standard tools are used, particular care must be taken to prevent components from being damaged through improper working methods.",
+          "runs": [
+            {
+              "text": "If these special tools are unavailable, the tasks must be carried out with standard tools. The individual operations for this method of working are also specified. When standard tools are used, particular care must be taken to prevent components from being damaged through improper working methods.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si no se dispone de estas herramientas especiales, los trabajos deberán realizarse con herramientas normales. También se indican las distintas operaciones para esta forma de ejecución. Cuando se utilicen herramientas normales deberá trabajarse con especial cuidado, a fin de evitar que las piezas sufran daños por una ejecución incorrecta.",
+          "runs": [
+            {
+              "text": "Si no se dispone de estas herramientas especiales, los trabajos deberán realizarse con herramientas normales. También se indican las distintas operaciones para esta forma de ejecución. Cuando se utilicen herramientas normales deberá trabajarse con especial cuidado, a fin de evitar que las piezas sufran daños por una ejecución incorrecta.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

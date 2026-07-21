@@ -1,0 +1,18 @@
+{
+  "id": "B23",
+  "pages": [
+    96,
+    97
+  ],
+  "titles": {
+    "de": "Zusammenbau der Lichtmaschine",
+    "en": "Assembling the dynamo",
+    "es": "Montaje de la dinamo"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

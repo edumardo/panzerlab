@@ -1,0 +1,23 @@
+{
+  "id": "B22",
+  "pages": [
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95
+  ],
+  "titles": {
+    "de": "Zerlegen der Lichtmaschine",
+    "en": "Dismantling the dynamo",
+    "es": "Despiece de la dinamo"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

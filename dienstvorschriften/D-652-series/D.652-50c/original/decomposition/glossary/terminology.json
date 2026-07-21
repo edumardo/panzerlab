@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50c",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "terms": [
+    {
+      "id": "term-001",
+      "de": "Heckpanzerung",
+      "en-GB": "rear armour plate",
+      "es-ES": "blindaje trasero",
+      "status": "validated"
+    },
+    {
+      "id": "term-002",
+      "de": "Bugpanzer",
+      "en-GB": "bow/front armour plate",
+      "es-ES": "blindaje delantero (de proa)",
+      "status": "validated"
+    },
+    {
+      "id": "term-003",
+      "de": "Wanne",
+      "en-GB": "hull",
+      "es-ES": "casco",
+      "status": "validated"
+    },
+    {
+      "id": "term-004",
+      "de": "Kampfraum",
+      "en-GB": "fighting compartment",
+      "es-ES": "cámara de combate",
+      "status": "validated"
+    },
+    {
+      "id": "term-005",
+      "de": "Motorraum",
+      "en-GB": "engine compartment",
+      "es-ES": "cámara del motor",
+      "status": "validated"
+    },
+    {
+      "id": "term-006",
+      "de": "Lüfter",
+      "en-GB": "fan",
+      "es-ES": "ventilador",
+      "status": "validated"
+    },
+    {
+      "id": "term-007",
+      "de": "Kühler",
+      "en-GB": "radiator",
+      "es-ES": "radiador",
+      "status": "validated"
+    },
+    {
+      "id": "term-008",
+      "de": "Kraftstoffbehälter",
+      "en-GB": "fuel tank",
+      "es-ES": "depósito de combustible",
+      "status": "validated"
+    },
+    {
+      "id": "term-009",
+      "de": "Sammler",
+      "en-GB": "battery (accumulator)",
+      "es-ES": "batería (acumulador)",
+      "status": "validated"
+    },
+    {
+      "id": "term-010",
+      "de": "Brechstange",
+      "en-GB": "crowbar",
+      "es-ES": "palanca",
+      "status": "validated"
+    },
+    {
+      "id": "term-011",
+      "de": "Drahtschutz",
+      "en-GB": "wire guard",
+      "es-ES": "protección de alambre",
+      "status": "validated"
+    },
+    {
+      "id": "term-012",
+      "de": "Lüfterklappenbetätigung",
+      "en-GB": "fan-flap actuation",
+      "es-ES": "accionamiento de las compuertas del ventilador",
+      "status": "validated"
+    },
+    {
+      "id": "term-013",
+      "de": "Einstellhebel",
+      "en-GB": "adjusting lever",
+      "es-ES": "palanca de ajuste",
+      "status": "validated"
+    },
+    {
+      "id": "term-014",
+      "de": "Keilbolzen",
+      "en-GB": "wedge pin",
+      "es-ES": "pasador en cuña",
+      "status": "validated"
+    },
+    {
+      "id": "term-015",
+      "de": "Zylinderkopf",
+      "en-GB": "cylinder head",
+      "es-ES": "culata",
+      "status": "validated"
+    },
+    {
+      "id": "term-016",
+      "de": "Zylinderlaufbuchse",
+      "en-GB": "cylinder liner",
+      "es-ES": "camisa",
+      "status": "validated"
+    },
+    {
+      "id": "term-017",
+      "de": "Kurbelwelle",
+      "en-GB": "crankshaft",
+      "es-ES": "cigüeñal",
+      "status": "validated"
+    },
+    {
+      "id": "term-018",
+      "de": "Pleuelstange",
+      "en-GB": "connecting rod",
+      "es-ES": "biela",
+      "status": "validated"
+    },
+    {
+      "id": "term-019",
+      "de": "Kolben",
+      "en-GB": "piston",
+      "es-ES": "pistón",
+      "status": "validated"
+    },
+    {
+      "id": "term-020",
+      "de": "Kolbenbolzen",
+      "en-GB": "gudgeon pin",
+      "es-ES": "bulón del pistón",
+      "status": "validated"
+    },
+    {
+      "id": "term-021",
+      "de": "Seegerring",
+      "en-GB": "circlip",
+      "es-ES": "anillo de retención",
+      "status": "validated"
+    },
+    {
+      "id": "term-022",
+      "de": "Nockenwelle",
+      "en-GB": "camshaft",
+      "es-ES": "árbol de levas",
+      "status": "validated"
+    },
+    {
+      "id": "term-023",
+      "de": "Ventil",
+      "en-GB": "valve",
+      "es-ES": "válvula",
+      "status": "validated"
+    },
+    {
+      "id": "term-024",
+      "de": "Ventilsitz",
+      "en-GB": "valve seat",
+      "es-ES": "asiento de válvula",
+      "status": "validated"
+    },
+    {
+      "id": "term-025",
+      "de": "Ventilführung",
+      "en-GB": "valve guide",
+      "es-ES": "guía de válvula",
+      "status": "validated"
+    },
+    {
+      "id": "term-026",
+      "de": "Kraftstoffpumpe",
+      "en-GB": "fuel pump",
+      "es-ES": "bomba de combustible",
+      "status": "validated"
+    },
+    {
+      "id": "term-027",
+      "de": "Wasserpumpe",
+      "en-GB": "water pump",
+      "es-ES": "bomba de agua",
+      "status": "validated"
+    },
+    {
+      "id": "term-028",
+      "de": "Flügelrad",
+      "en-GB": "impeller",
+      "es-ES": "rodete",
+      "status": "validated"
+    },
+    {
+      "id": "term-029",
+      "de": "Stopfbuchse",
+      "en-GB": "gland (stuffing box)",
+      "es-ES": "prensaestopas",
+      "status": "validated"
+    },
+    {
+      "id": "term-030",
+      "de": "Lichtmaschine",
+      "en-GB": "dynamo",
+      "es-ES": "dinamo",
+      "status": "validated"
+    },
+    {
+      "id": "term-031",
+      "de": "Anker",
+      "en-GB": "armature",
+      "es-ES": "inducido",
+      "status": "validated"
+    },
+    {
+      "id": "term-032",
+      "de": "Kohlebürste",
+      "en-GB": "carbon brush",
+      "es-ES": "escobilla de carbón",
+      "status": "validated"
+    },
+    {
+      "id": "term-033",
+      "de": "Kollektor",
+      "en-GB": "commutator",
+      "es-ES": "colector",
+      "status": "validated"
+    },
+    {
+      "id": "term-034",
+      "de": "Anlasser",
+      "en-GB": "starter",
+      "es-ES": "motor de arranque",
+      "status": "validated"
+    },
+    {
+      "id": "term-035",
+      "de": "Schwungkraftanlasser",
+      "en-GB": "inertia starter",
+      "es-ES": "arranque de inercia",
+      "status": "validated"
+    },
+    {
+      "id": "term-036",
+      "de": "Anlasserritzel",
+      "en-GB": "starter pinion",
+      "es-ES": "piñón de arranque",
+      "status": "validated"
+    },
+    {
+      "id": "term-037",
+      "de": "Schnapper-Magnetzünder",
+      "en-GB": "impulse magneto",
+      "es-ES": "magneto de impulso",
+      "status": "validated"
+    },
+    {
+      "id": "term-038",
+      "de": "Unterbrecher",
+      "en-GB": "contact breaker",
+      "es-ES": "ruptor",
+      "status": "validated"
+    },
+    {
+      "id": "term-039",
+      "de": "Vergaser",
+      "en-GB": "carburettor",
+      "es-ES": "carburador",
+      "status": "validated"
+    },
+    {
+      "id": "term-040",
+      "de": "Schwimmer",
+      "en-GB": "float",
+      "es-ES": "flotador",
+      "status": "validated"
+    },
+    {
+      "id": "term-041",
+      "de": "Düse / Hauptdüse",
+      "en-GB": "jet / main jet",
+      "es-ES": "chiclé / chiclé principal",
+      "status": "validated"
+    },
+    {
+      "id": "term-042",
+      "de": "Leerlaufdüse",
+      "en-GB": "idling jet",
+      "es-ES": "chiclé de ralentí",
+      "status": "validated"
+    },
+    {
+      "id": "term-043",
+      "de": "Kraftstoffilter",
+      "en-GB": "fuel filter",
+      "es-ES": "filtro de combustible",
+      "status": "validated"
+    },
+    {
+      "id": "term-044",
+      "de": "Ölkühler",
+      "en-GB": "oil cooler",
+      "es-ES": "radiador de aceite",
+      "status": "validated"
+    },
+    {
+      "id": "term-045",
+      "de": "Spaltfilter",
+      "en-GB": "slot/edge filter",
+      "es-ES": "filtro de ranura",
+      "status": "validated"
+    },
+    {
+      "id": "term-046",
+      "de": "Ölpumpe",
+      "en-GB": "oil pump",
+      "es-ES": "bomba de aceite",
+      "status": "validated"
+    },
+    {
+      "id": "term-047",
+      "de": "Gelenkwelle",
+      "en-GB": "cardan shaft",
+      "es-ES": "árbol de transmisión",
+      "status": "validated"
+    },
+    {
+      "id": "term-048",
+      "de": "Schwingungsdämpfer",
+      "en-GB": "vibration damper",
+      "es-ES": "amortiguador de vibraciones",
+      "status": "validated"
+    },
+    {
+      "id": "term-049",
+      "de": "Riemenscheibe",
+      "en-GB": "belt pulley",
+      "es-ES": "polea",
+      "status": "validated"
+    },
+    {
+      "id": "term-050",
+      "de": "Lüfterriemen",
+      "en-GB": "fan belt",
+      "es-ES": "correa del ventilador",
+      "status": "validated"
+    },
+    {
+      "id": "term-051",
+      "de": "Rutschkupplung",
+      "en-GB": "slip clutch",
+      "es-ES": "embrague de fricción",
+      "status": "validated"
+    },
+    {
+      "id": "term-052",
+      "de": "Kupplung",
+      "en-GB": "clutch",
+      "es-ES": "embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-053",
+      "de": "Schwungrad",
+      "en-GB": "flywheel",
+      "es-ES": "volante",
+      "status": "validated"
+    },
+    {
+      "id": "term-054",
+      "de": "Zwischenrad",
+      "en-GB": "idler gear",
+      "es-ES": "rueda intermedia",
+      "status": "validated"
+    },
+    {
+      "id": "term-055",
+      "de": "Kronenmutter",
+      "en-GB": "castle nut",
+      "es-ES": "tuerca almenada",
+      "status": "validated"
+    },
+    {
+      "id": "term-056",
+      "de": "Splint",
+      "en-GB": "split pin",
+      "es-ES": "pasador de aletas",
+      "status": "validated"
+    },
+    {
+      "id": "term-057",
+      "de": "versplinten",
+      "en-GB": "secure with a split pin",
+      "es-ES": "asegurar con pasador",
+      "status": "validated"
+    },
+    {
+      "id": "term-058",
+      "de": "Dichtung",
+      "en-GB": "gasket/seal",
+      "es-ES": "junta",
+      "status": "validated"
+    },
+    {
+      "id": "term-059",
+      "de": "Gummidichtring",
+      "en-GB": "rubber sealing ring",
+      "es-ES": "anillo de goma",
+      "status": "validated"
+    },
+    {
+      "id": "term-060",
+      "de": "Blechsicherung",
+      "en-GB": "sheet-metal lock",
+      "es-ES": "chapa de seguridad",
+      "status": "validated"
+    },
+    {
+      "id": "term-061",
+      "de": "Maulschlüssel",
+      "en-GB": "open-ended spanner",
+      "es-ES": "llave fija",
+      "status": "validated"
+    },
+    {
+      "id": "term-062",
+      "de": "Ringschlüssel",
+      "en-GB": "ring spanner",
+      "es-ES": "llave de estrella",
+      "status": "validated"
+    },
+    {
+      "id": "term-063",
+      "de": "Steckschlüssel",
+      "en-GB": "socket spanner",
+      "es-ES": "llave de vaso",
+      "status": "validated"
+    },
+    {
+      "id": "term-064",
+      "de": "MW (Maulweite)",
+      "en-GB": "across flats",
+      "es-ES": "entrecaras",
+      "status": "validated"
+    },
+    {
+      "id": "term-065",
+      "de": "Instandsetzung",
+      "en-GB": "repair/overhaul",
+      "es-ES": "reparación",
+      "status": "validated"
+    },
+    {
+      "id": "term-066",
+      "de": "Sonderwerkzeug",
+      "en-GB": "special tool",
+      "es-ES": "herramienta especial",
+      "status": "validated"
+    },
+    {
+      "id": "term-067",
+      "de": "Zu / Auf",
+      "en-GB": "Closed / Open",
+      "es-ES": "Cerrado / Abierto",
+      "status": "validated"
+    },
+    {
+      "id": "term-068",
+      "de": "Abschlußkappe",
+      "en-GB": "end cover",
+      "es-ES": "tapa de cierre",
+      "status": "validated"
+    },
+    {
+      "id": "term-069",
+      "de": "Kurbelachse",
+      "en-GB": "crank spindle",
+      "es-ES": "eje de manivela",
+      "status": "validated"
+    },
+    {
+      "id": "term-070",
+      "de": "Hakensprengring",
+      "en-GB": "hook-type circlip",
+      "es-ES": "anillo elástico con gancho",
+      "status": "validated"
+    },
+    {
+      "id": "term-071",
+      "de": "Ringmutter",
+      "en-GB": "ring nut",
+      "es-ES": "tuerca anular",
+      "status": "validated"
+    },
+    {
+      "id": "term-072",
+      "de": "Hakenschlüssel",
+      "en-GB": "hook spanner",
+      "es-ES": "llave de gancho",
+      "status": "validated"
+    },
+    {
+      "id": "term-073",
+      "de": "Ringzapfenschlüssel",
+      "en-GB": "pin spanner",
+      "es-ES": "llave de tetones",
+      "status": "validated"
+    },
+    {
+      "id": "term-074",
+      "de": "Exzenterbuchse",
+      "en-GB": "eccentric bush",
+      "es-ES": "casquillo excéntrico",
+      "status": "validated"
+    },
+    {
+      "id": "term-075",
+      "de": "Luftleitblech",
+      "en-GB": "air baffle",
+      "es-ES": "deflector de aire",
+      "status": "validated"
+    },
+    {
+      "id": "term-076",
+      "de": "Lüfterflügel",
+      "en-GB": "fan impeller",
+      "es-ES": "rodete del ventilador",
+      "status": "validated"
+    },
+    {
+      "id": "term-077",
+      "de": "Lüftergehäuse",
+      "en-GB": "fan housing",
+      "es-ES": "carcasa del ventilador",
+      "status": "validated"
+    },
+    {
+      "id": "term-078",
+      "de": "Gelenkverschraubung",
+      "en-GB": "coupling joint",
+      "es-ES": "unión articulada",
+      "status": "validated"
+    },
+    {
+      "id": "term-079",
+      "de": "Filzdichtung",
+      "en-GB": "felt gasket",
+      "es-ES": "junta de fieltro",
+      "status": "validated"
+    },
+    {
+      "id": "term-080",
+      "de": "Schlauchbinder",
+      "en-GB": "hose clip",
+      "es-ES": "abrazadera de manguera",
+      "status": "validated"
+    },
+    {
+      "id": "term-081",
+      "de": "Kühlwasserschlauch",
+      "en-GB": "coolant hose",
+      "es-ES": "manguera de refrigerante",
+      "status": "validated"
+    },
+    {
+      "id": "term-082",
+      "de": "Kühlerstutzen",
+      "en-GB": "radiator stub",
+      "es-ES": "boca del radiador",
+      "status": "validated"
+    },
+    {
+      "id": "term-083",
+      "de": "Überdruckventil",
+      "en-GB": "pressure-relief valve",
+      "es-ES": "válvula de sobrepresión",
+      "status": "validated"
+    },
+    {
+      "id": "term-084",
+      "de": "Überlaufrohr",
+      "en-GB": "overflow pipe",
+      "es-ES": "tubo de rebose",
+      "status": "validated"
+    },
+    {
+      "id": "term-085",
+      "de": "Lüfterriemen-Nachstellvorrichtung",
+      "en-GB": "fan-belt tensioning device",
+      "es-ES": "dispositivo de tensado de las correas del ventilador",
+      "status": "validated"
+    }
+  ]
+}

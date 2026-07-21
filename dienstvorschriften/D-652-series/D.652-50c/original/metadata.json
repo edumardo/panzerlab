@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50c",
+  "designation": "D 652/50c",
+  "file": "D.652-50c_de.pdf",
+  "original_file_name": "D. 652-50c - bushmakow.pdf",
+  "language": "de-DE",
+  "media_type": "application/pdf",
+  "size_bytes": 64310217,
+  "sha256": "734CD2344E4FEAC9B841D04DCE15E2AD796B22E29F4E41CE0BABDE20EE98AB7C",
+  "pdf_pages": 75,
+  "page_layout": "photographed spreads",
+  "decomposition": "decomposition/document.json",
+  "source": {
+    "description": "User-provided copy attributed to the Bushmakow restoration archive",
+    "url": "https://bushmakow.com/library/"
+  }
+}
+

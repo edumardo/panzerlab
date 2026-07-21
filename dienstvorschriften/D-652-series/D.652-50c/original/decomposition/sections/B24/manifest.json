@@ -1,0 +1,21 @@
+{
+  "id": "B24",
+  "pages": [
+    98,
+    99,
+    100,
+    101,
+    102
+  ],
+  "titles": {
+    "de": "Zerlegen des elektrischen Anlassers",
+    "en": "Dismantling the electric starter motor",
+    "es": "Despiece del motor de arranque eléctrico"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

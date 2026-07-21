@@ -1,0 +1,18 @@
+{
+  "id": "B14",
+  "pages": [
+    68,
+    69
+  ],
+  "titles": {
+    "de": "Ausbauen des Novotext-Zwischenrades",
+    "en": "Removing the Novotext idler gear",
+    "es": "Desmontaje de la rueda intermedia de Novotext"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

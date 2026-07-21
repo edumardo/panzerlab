@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-019",
+  "document_id": "d652-50c",
+  "page": 19,
+  "section": "A05",
+  "type": "figures",
+  "titles": {
+    "de": "5. Ausbauen des rechten Lüfters und Kühlers",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 11,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-018",
+    "next": "d65250c-page-020"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild025",
+      "number": 25,
+      "image": "figures/fig025.jpg",
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Aus den hinteren Kühlerbefestigungsschrauben Splinte entfernen und mit 17-Maul- und Steckschlüssel die Kronenmuttern abschrauben.",
+          "runs": [
+            {
+              "text": "Aus den hinteren Kühlerbefestigungsschrauben Splinte entfernen und mit 17-Maul- und Steckschlüssel die Kronenmuttern abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild026",
+      "number": 26,
+      "image": "figures/fig026.jpg",
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Schlauchbinder mit Dorn lösen und die Kühlwasserschläuche von den Kühlerstutzen auf die Wasserrohre schieben.",
+          "runs": [
+            {
+              "text": "Schlauchbinder mit Dorn lösen und die Kühlwasserschläuche von den Kühlerstutzen auf die Wasserrohre schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "candidate_crop"
+  }
+}

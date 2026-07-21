@@ -1,0 +1,20 @@
+{
+  "id": "FrontMatter",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "titles": {
+    "de": "Titelei, Inhalt und Vorbemerkungen",
+    "en": "Front matter",
+    "es": "Páginas preliminares"
+  },
+  "output": {
+    "cover": true,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

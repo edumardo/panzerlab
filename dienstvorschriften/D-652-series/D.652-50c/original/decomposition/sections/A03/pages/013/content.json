@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-013",
+  "document_id": "d652-50c",
+  "page": 13,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 8,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-012",
+    "next": "d65250c-page-014"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild015",
+      "number": 15,
+      "image": "figures/fig015.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Mit 8-mm-Maulschlüssel und Schraubenzieher die Schlauchbinder am linken Kühler und den Rohrleitungen lösen.",
+          "runs": [
+            {
+              "text": "Mit 8-mm-Maulschlüssel und Schraubenzieher die Schlauchbinder am linken Kühler und den Rohrleitungen lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using an 8 mm open-ended spanner (Maulschlüssel) and a screwdriver, loosen the hose clips (Schlauchbinder) on the left-hand radiator and the pipework.",
+          "runs": [
+            {
+              "text": "Using an 8 mm open-ended spanner (Maulschlüssel) and a screwdriver, loosen the hose clips (Schlauchbinder) on the left-hand radiator and the pipework.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 8 mm (Maulschlüssel) y un destornillador, aflojar las abrazaderas de manguera (Schlauchbinder) del radiador izquierdo y de las tuberías.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 8 mm (Maulschlüssel) y un destornillador, aflojar las abrazaderas de manguera (Schlauchbinder) del radiador izquierdo y de las tuberías.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild016",
+      "number": 16,
+      "image": "figures/fig016.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Die mit Schraubenzieher vorsichtig gelösten Kühlwasserschläuche von den Kühlerstutzen auf die Wasserrohre schieben.",
+          "runs": [
+            {
+              "text": "Die mit Schraubenzieher vorsichtig gelösten Kühlwasserschläuche von den Kühlerstutzen auf die Wasserrohre schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Carefully free the coolant hoses (Kühlwasserschläuche) with a screwdriver, then push them off the radiator stubs (Kühlerstutzen) and onto the water pipes.",
+          "runs": [
+            {
+              "text": "Carefully free the coolant hoses (Kühlwasserschläuche) with a screwdriver, then push them off the radiator stubs (Kühlerstutzen) and onto the water pipes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Soltar con cuidado mediante un destornillador las mangueras de refrigerante (Kühlwasserschläuche) y desplazarlas desde las bocas del radiador (Kühlerstutzen) hacia las tuberías de agua.",
+          "runs": [
+            {
+              "text": "Soltar con cuidado mediante un destornillador las mangueras de refrigerante (Kühlwasserschläuche) y desplazarlas desde las bocas del radiador (Kühlerstutzen) hacia las tuberías de agua.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

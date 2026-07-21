@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-014",
+  "document_id": "d652-50c",
+  "page": 14,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 9,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-013",
+    "next": "d65250c-page-015"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild017",
+      "number": 17,
+      "image": "figures/fig017.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Splinte aus den Kronenmuttern der Kühlerbefestigung entfernen und diese mit 17-Maulschlüssel abschrauben.",
+          "runs": [
+            {
+              "text": "Splinte aus den Kronenmuttern der Kühlerbefestigung entfernen und diese mit 17-Maulschlüssel abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the split pins (Splinte) from the castle nuts (Kronenmuttern) of the radiator mountings, then unscrew the nuts with a 17 mm open-ended spanner (Maulschlüssel).",
+          "runs": [
+            {
+              "text": "Remove the split pins (Splinte) from the castle nuts (Kronenmuttern) of the radiator mountings, then unscrew the nuts with a 17 mm open-ended spanner (Maulschlüssel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas (Splinte) de las tuercas almenadas (Kronenmuttern) de los soportes del radiador y desenroscarlas con una llave fija de 17 mm (Maulschlüssel).",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas (Splinte) de las tuercas almenadas (Kronenmuttern) de los soportes del radiador y desenroscarlas con una llave fija de 17 mm (Maulschlüssel).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild018",
+      "number": 18,
+      "image": "figures/fig018.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Die Klemmschrauben am Überdruckventil mit 11-mm-Maulschlüssel lösen und Überlaufrohr ausziehen. Kühler nach oben ausheben.",
+          "runs": [
+            {
+              "text": "Die Klemmschrauben am Überdruckventil mit 11-mm-Maulschlüssel lösen und Überlaufrohr ausziehen. Kühler nach oben ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Loosen the clamping screws on the pressure-relief valve (Überdruckventil) with an 11 mm open-ended spanner (Maulschlüssel) and withdraw the overflow pipe (Überlaufrohr). Lift the radiator upwards and out.",
+          "runs": [
+            {
+              "text": "Loosen the clamping screws on the pressure-relief valve (Überdruckventil) with an 11 mm open-ended spanner (Maulschlüssel) and withdraw the overflow pipe (Überlaufrohr). Lift the radiator upwards and out.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar los tornillos de apriete de la válvula de sobrepresión (Überdruckventil) con una llave fija de 11 mm (Maulschlüssel) y extraer el tubo de rebose (Überlaufrohr). Extraer el radiador hacia arriba.",
+          "runs": [
+            {
+              "text": "Aflojar los tornillos de apriete de la válvula de sobrepresión (Überdruckventil) con una llave fija de 11 mm (Maulschlüssel) y extraer el tubo de rebose (Überlaufrohr). Extraer el radiador hacia arriba.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

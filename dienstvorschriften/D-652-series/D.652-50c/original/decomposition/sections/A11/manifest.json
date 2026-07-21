@@ -1,0 +1,18 @@
+{
+  "id": "A11",
+  "pages": [
+    30,
+    31
+  ],
+  "titles": {
+    "de": "Ausbauen des Sammlers",
+    "en": "Removing the battery (accumulator)",
+    "es": "Desmontaje de la batería (acumulador)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

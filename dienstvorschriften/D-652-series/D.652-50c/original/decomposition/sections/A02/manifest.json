@@ -1,0 +1,17 @@
+{
+  "id": "A02",
+  "pages": [
+    7
+  ],
+  "titles": {
+    "de": "Aufbauen der Heckpanzerung",
+    "en": "Installing the rear armour plate",
+    "es": "Montaje del blindaje trasero"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

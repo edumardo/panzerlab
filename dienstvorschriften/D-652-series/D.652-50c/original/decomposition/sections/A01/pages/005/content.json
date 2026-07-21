@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-005",
+  "document_id": "d652-50c",
+  "page": 5,
+  "section": "A01",
+  "type": "figures",
+  "titles": {
+    "de": null,
+    "en-GB": "Section A.1 — Removing the rear armour plate",
+    "es-ES": "Sección A.1 — Desmontaje del blindaje trasero"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 4,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-004",
+    "next": "d65250c-page-006"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild001",
+      "number": 1,
+      "image": "figures/fig001.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Hauptschalter ausschalten, 1, Keilbolzen aus dem Lüfterklappenverstellhebel entfernen und Hebel von der Welle ziehen. Vom Motorraum aus die Welle mit den Gestängen aus der Lagerung ziehen.",
+          "runs": [
+            {
+              "text": "Hauptschalter ausschalten, 1, Keilbolzen aus dem Lüfterklappenverstellhebel entfernen und Hebel von der Welle ziehen. Vom Motorraum aus die Welle mit den Gestängen aus der Lagerung ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Switch off the master switch (Hauptschalter), item 1. Remove the wedge pin (Keilbolzen) from the fan-flap adjusting lever (Lüfterklappenverstellhebel), item 2, and pull the lever off the shaft. From the engine compartment (Motorraum), withdraw the shaft together with the linkages from its bearing.",
+          "runs": [
+            {
+              "text": "Switch off the master switch (Hauptschalter), item 1. Remove the wedge pin (Keilbolzen) from the fan-flap adjusting lever (Lüfterklappenverstellhebel), item 2, and pull the lever off the shaft. From the engine compartment (Motorraum), withdraw the shaft together with the linkages from its bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desconectar el interruptor principal (Hauptschalter), elemento 1. Extraer el pasador en cuña (Keilbolzen) de la palanca de ajuste de la compuerta del ventilador (Lüfterklappenverstellhebel), elemento 2, y sacar la palanca del eje. Desde la cámara del motor (Motorraum), extraer de su cojinete el eje junto con los varillajes.",
+          "runs": [
+            {
+              "text": "Desconectar el interruptor principal (Hauptschalter), elemento 1. Extraer el pasador en cuña (Keilbolzen) de la palanca de ajuste de la compuerta del ventilador (Lüfterklappenverstellhebel), elemento 2, y sacar la palanca del eje. Desde la cámara del motor (Motorraum), extraer de su cojinete el eje junto con los varillajes.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": {
+          "plain": "1 = master switch; 2 = adjusting-lever/wedge-pin connection.",
+          "runs": [
+            {
+              "text": "1 = master switch; 2 = adjusting-lever/wedge-pin connection.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 = interruptor principal; 2 = unión de la palanca de ajuste y el pasador en cuña.",
+          "runs": [
+            {
+              "text": "1 = interruptor principal; 2 = unión de la palanca de ajuste y el pasador en cuña.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-bild002",
+      "number": 2,
+      "image": "figures/fig002.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Drahtschutz von den Luftkanalanbauten seitlich der Heckpanzerung entfernen und mit Steck- und Maulschlüssel, 22 mm MW, die seitlichen Befestigungsschrauben der Heckpanzerung ausschrauben.",
+          "runs": [
+            {
+              "text": "Drahtschutz von den Luftkanalanbauten seitlich der Heckpanzerung entfernen und mit Steck- und Maulschlüssel, 22 mm MW, die seitlichen Befestigungsschrauben der Heckpanzerung ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the wire guard (Drahtschutz) from the air-duct fittings at the sides of the rear armour plate (Heckpanzerung). Using a socket spanner (Steckschlüssel) and an open-ended spanner (Maulschlüssel), 22 mm across flats (MW), unscrew the side securing bolts of the rear armour plate.",
+          "runs": [
+            {
+              "text": "Remove the wire guard (Drahtschutz) from the air-duct fittings at the sides of the rear armour plate (Heckpanzerung). Using a socket spanner (Steckschlüssel) and an open-ended spanner (Maulschlüssel), 22 mm across flats (MW), unscrew the side securing bolts of the rear armour plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar la protección de alambre (Drahtschutz) de los accesorios de los conductos de aire situados a ambos lados del blindaje trasero (Heckpanzerung). Con una llave de vaso (Steckschlüssel) y una llave fija (Maulschlüssel), de 22 mm entrecaras (MW), desenroscar los tornillos laterales de fijación del blindaje trasero.",
+          "runs": [
+            {
+              "text": "Retirar la protección de alambre (Drahtschutz) de los accesorios de los conductos de aire situados a ambos lados del blindaje trasero (Heckpanzerung). Con una llave de vaso (Steckschlüssel) y una llave fija (Maulschlüssel), de 22 mm entrecaras (MW), desenroscar los tornillos laterales de fijación del blindaje trasero.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": {
+          "plain": "DRAHTSCHUTZ = wire guard.",
+          "runs": [
+            {
+              "text": "DRAHTSCHUTZ = wire guard.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "DRAHTSCHUTZ = protección de alambre.",
+          "runs": [
+            {
+              "text": "DRAHTSCHUTZ = protección de alambre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

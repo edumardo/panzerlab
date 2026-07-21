@@ -1,0 +1,18 @@
+{
+  "id": "A07",
+  "pages": [
+    22,
+    23
+  ],
+  "titles": {
+    "de": "Ausbauen des Kraftstoffbehälters",
+    "en": "Removing the fuel tank",
+    "es": "Desmontaje del depósito de combustible"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

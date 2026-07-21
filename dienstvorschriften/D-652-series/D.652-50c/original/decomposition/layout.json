@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "page": {
+    "size": "A4",
+    "orientation": "portrait",
+    "width_dxa": 11906,
+    "height_dxa": 16838,
+    "margins_dxa": {"top": 1080, "right": 1080, "bottom": 1080, "left": 1080}
+  },
+  "numbered_sections": {"cover": false, "header": false, "footer": false},
+  "text_page": {
+    "layout": "source_left_translation_right",
+    "table_borders": false,
+    "column_widths_dxa": [4200, 5546],
+    "source_max_px": {"width": 250, "height": 690},
+    "body_font": "Calibri",
+    "body_size_half_points": 22
+  },
+  "figure_page": {
+    "maximum_figures": 2,
+    "arrangement": "vertical",
+    "sizing": {
+      "policy": "dynamic_within_half_page_cell",
+      "preferred_width_mm": 132,
+      "preferred_width_range_mm": [120, 135],
+      "maximum_width_mm": 174,
+      "minimum_height_mm": 35,
+      "preserve_aspect_ratio": true,
+      "preserve_source_pixels": true,
+      "reduce_when_caption_requires_space": true
+    },
+    "caption_pattern": "Fig. N (Bild N)",
+    "keep_image_with_caption": true
+  },
+  "languages": {
+    "source": "de-DE",
+    "targets": ["en-GB", "es-ES"],
+    "technical_term_policy": "translated term followed by the German original in parentheses"
+  }
+}

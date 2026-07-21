@@ -1,0 +1,17 @@
+{
+  "id": "B17",
+  "pages": [
+    78
+  ],
+  "titles": {
+    "de": "Zusammenbau des Zylinderkopfes",
+    "en": "Assembling the cylinder head",
+    "es": "Montaje de la culata"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

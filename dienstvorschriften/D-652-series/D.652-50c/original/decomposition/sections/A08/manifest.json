@@ -1,0 +1,17 @@
+{
+  "id": "A08",
+  "pages": [
+    24
+  ],
+  "titles": {
+    "de": "Einbauen des Kraftstoffbehälters",
+    "en": "Installing the fuel tank",
+    "es": "Montaje del depósito de combustible"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

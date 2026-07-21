@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-011",
+  "document_id": "d652-50c",
+  "page": 11,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 7,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-010",
+    "next": "d65250c-page-012"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild011",
+      "number": 11,
+      "image": "figures/fig011.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Mit der Hand die beiden Lüfterriemen vom linken Lüfter entfernen. Lüfterriemen nicht mit scharfen Gegenständen entfernen.",
+          "runs": [
+            {
+              "text": "Mit der Hand die beiden Lüfterriemen vom linken Lüfter entfernen. Lüfterriemen nicht mit scharfen Gegenständen entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove both fan belts (Lüfterriemen) from the left-hand fan by hand. Do not remove the fan belts with sharp objects.",
+          "runs": [
+            {
+              "text": "Remove both fan belts (Lüfterriemen) from the left-hand fan by hand. Do not remove the fan belts with sharp objects.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar a mano las dos correas del ventilador (Lüfterriemen) del ventilador izquierdo. No retirar las correas con objetos afilados.",
+          "runs": [
+            {
+              "text": "Retirar a mano las dos correas del ventilador (Lüfterriemen) del ventilador izquierdo. No retirar las correas con objetos afilados.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild012",
+      "number": 12,
+      "image": "figures/fig012.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Befestigungsschrauben des Lüfterflügels entsichern und diese mit 14-Ringschlüssel entfernen. Lüfterflügel von der Nabe abheben.",
+          "runs": [
+            {
+              "text": "Befestigungsschrauben des Lüfterflügels entsichern und diese mit 14-Ringschlüssel entfernen. Lüfterflügel von der Nabe abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the locking devices on the fan impeller retaining bolts and remove the bolts with a 14 mm ring spanner (Ringschlüssel). Lift the fan impeller (Lüfterflügel) off the hub.",
+          "runs": [
+            {
+              "text": "Release the locking devices on the fan impeller retaining bolts and remove the bolts with a 14 mm ring spanner (Ringschlüssel). Lift the fan impeller (Lüfterflügel) off the hub.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desbloquear los tornillos de fijación del rodete del ventilador y retirarlos con una llave de estrella de 14 mm (Ringschlüssel). Separar el rodete del ventilador (Lüfterflügel) del cubo.",
+          "runs": [
+            {
+              "text": "Desbloquear los tornillos de fijación del rodete del ventilador y retirarlos con una llave de estrella de 14 mm (Ringschlüssel). Separar el rodete del ventilador (Lüfterflügel) del cubo.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

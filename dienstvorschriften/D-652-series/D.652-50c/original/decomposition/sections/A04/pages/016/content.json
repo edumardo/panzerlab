@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-016",
+  "document_id": "d652-50c",
+  "page": 16,
+  "section": "A04",
+  "type": "text",
+  "titles": {
+    "de": "4. Einbauen des linken Kühlers und Lüfters",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 10,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-015",
+    "next": "d65250c-page-017"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250c-p016-para01",
+      "text": {
+        "de": {
+          "plain": "Kühler in die Wanne setzen und diesen mit den vier Schrauben festschrauben. Muttern durch Versplinten sichern, Bild 17.",
+          "runs": [
+            {
+              "text": "Kühler in die Wanne setzen und diesen mit den vier Schrauben festschrauben. Muttern durch Versplinten sichern, Bild 17.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para02",
+      "text": {
+        "de": {
+          "plain": "Überlaufrohr einsetzen und mit der Klemmschelle festschrauben, Bild 18. Dichtungsmasse an die Abdichtungsstellen der Kühlwasserschläuche bringen und Schlauchbinder anlegen, Bild 15 u. 16.",
+          "runs": [
+            {
+              "text": "Überlaufrohr einsetzen und mit der Klemmschelle festschrauben, Bild 18. Dichtungsmasse an die Abdichtungsstellen der Kühlwasserschläuche bringen und Schlauchbinder anlegen, Bild 15 u. 16.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para03",
+      "text": {
+        "de": {
+          "plain": "Lüftergehäuse vor den Kühler setzen und es mit den Kronenmuttern an die Wanne schrauben. Darauf achten, daß die Filzdichtung richtig zwischen Lüfter und Kühler liegt und das Lüftergehäuse in Riemenflucht angeschraubt wird.",
+          "runs": [
+            {
+              "text": "Lüftergehäuse vor den Kühler setzen und es mit den Kronenmuttern an die Wanne schrauben. Darauf achten, daß die Filzdichtung richtig zwischen Lüfter und Kühler liegt und das Lüftergehäuse in Riemenflucht angeschraubt wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para04",
+      "text": {
+        "de": {
+          "plain": "Obere Gelenkverschraubung einsetzen, Lüfter und Kühler zusammenziehen, Bild 14.",
+          "runs": [
+            {
+              "text": "Obere Gelenkverschraubung einsetzen, Lüfter und Kühler zusammenziehen, Bild 14.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para05",
+      "text": {
+        "de": {
+          "plain": "Lüfter auf die Nabe setzen und diesen mit 14-Ringschlüssel festschrauben. Befestigungsschrauben durch Umbiegen der Blechsicherungen sichern, Bild 12.",
+          "runs": [
+            {
+              "text": "Lüfter auf die Nabe setzen und diesen mit 14-Ringschlüssel festschrauben. Befestigungsschrauben durch Umbiegen der Blechsicherungen sichern, Bild 12.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para06",
+      "text": {
+        "de": {
+          "plain": "Luftleitbleche und Streben an den linken Lüfter anbauen, Bild 10. Lüfterriemen auflegen und diese an der Lüfterriemen-Nachstellvorrichtung spannen, Bild 8.",
+          "runs": [
+            {
+              "text": "Luftleitbleche und Streben an den linken Lüfter anbauen, Bild 10. Lüfterriemen auflegen und diese an der Lüfterriemen-Nachstellvorrichtung spannen, Bild 8.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para07",
+      "text": {
+        "de": {
+          "plain": "Riemenspannung und Rutschkupplung prüfen, Bild 19 bis 20.",
+          "runs": [
+            {
+              "text": "Riemenspannung und Rutschkupplung prüfen, Bild 19 bis 20.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para08",
+      "text": {
+        "de": {
+          "plain": "Anbau für die Warmluftbeheizung an das Luftleitblech anbauen, Bild 9.",
+          "runs": [
+            {
+              "text": "Anbau für die Warmluftbeheizung an das Luftleitblech anbauen, Bild 9.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-p016-para09",
+      "text": {
+        "de": {
+          "plain": "Heckpanzerung aufbauen, Seite 3.",
+          "runs": [
+            {
+              "text": "Heckpanzerung aufbauen, Seite 3.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "not_applicable"
+  }
+}

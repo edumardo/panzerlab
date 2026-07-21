@@ -1,0 +1,3415 @@
+{
+  "document": "D 652/50c",
+  "source_pdf_pages": 75,
+  "book_pages": [
+    1,
+    143
+  ],
+  "languages": [
+    "de",
+    "en-GB",
+    "es-ES"
+  ],
+  "sections": {
+    "FrontMatter": [
+      1,
+      4
+    ],
+    "A01": [
+      5,
+      6
+    ],
+    "A02": [
+      7,
+      7
+    ],
+    "A03": [
+      8,
+      15
+    ],
+    "A04": [
+      16,
+      16
+    ],
+    "A05": [
+      17,
+      20
+    ],
+    "A06": [
+      21,
+      21
+    ],
+    "A07": [
+      22,
+      23
+    ],
+    "A08": [
+      24,
+      24
+    ],
+    "A09": [
+      25,
+      28
+    ],
+    "A10": [
+      29,
+      29
+    ],
+    "A11": [
+      30,
+      31
+    ],
+    "B12": [
+      32,
+      46
+    ],
+    "B13": [
+      47,
+      67
+    ],
+    "B14": [
+      68,
+      69
+    ],
+    "B15": [
+      70,
+      73
+    ],
+    "B16": [
+      74,
+      77
+    ],
+    "B17": [
+      78,
+      78
+    ],
+    "B18": [
+      79,
+      81
+    ],
+    "B19": [
+      82,
+      86
+    ],
+    "B20": [
+      87,
+      87
+    ],
+    "B21": [
+      88,
+      88
+    ],
+    "B22": [
+      89,
+      95
+    ],
+    "B23": [
+      96,
+      97
+    ],
+    "B24": [
+      98,
+      102
+    ],
+    "B25": [
+      103,
+      104
+    ],
+    "B26": [
+      105,
+      108
+    ],
+    "B27": [
+      109,
+      112
+    ],
+    "B28": [
+      113,
+      118
+    ],
+    "B29": [
+      119,
+      121
+    ],
+    "B30": [
+      122,
+      141
+    ],
+    "B31": [
+      142,
+      143
+    ]
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section": "FrontMatter",
+      "pdf_spread": 2,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": []
+    },
+    {
+      "page": 2,
+      "section": "FrontMatter",
+      "pdf_spread": 3,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": []
+    },
+    {
+      "page": 3,
+      "section": "FrontMatter",
+      "pdf_spread": 3,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": []
+    },
+    {
+      "page": 4,
+      "section": "FrontMatter",
+      "pdf_spread": 4,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": []
+    },
+    {
+      "page": 5,
+      "section": "A01",
+      "pdf_spread": 4,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 1,
+          "path": "figures/fig001.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 2,
+          "path": "figures/fig002.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "section": "A01",
+      "pdf_spread": 5,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 3,
+          "path": "figures/fig003.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 4,
+          "path": "figures/fig004.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "section": "A02",
+      "pdf_spread": 5,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": []
+    },
+    {
+      "page": 8,
+      "section": "A03",
+      "pdf_spread": 6,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 5,
+          "path": "figures/fig005.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 6,
+          "path": "figures/fig006.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "section": "A03",
+      "pdf_spread": 6,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 7,
+          "path": "figures/fig007.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 8,
+          "path": "figures/fig008.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "section": "A03",
+      "pdf_spread": 7,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 9,
+          "path": "figures/fig009.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 10,
+          "path": "figures/fig010.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "section": "A03",
+      "pdf_spread": 7,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 11,
+          "path": "figures/fig011.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 12,
+          "path": "figures/fig012.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "section": "A03",
+      "pdf_spread": 8,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 13,
+          "path": "figures/fig013.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 14,
+          "path": "figures/fig014.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "section": "A03",
+      "pdf_spread": 8,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 15,
+          "path": "figures/fig015.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 16,
+          "path": "figures/fig016.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "section": "A03",
+      "pdf_spread": 9,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 17,
+          "path": "figures/fig017.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 18,
+          "path": "figures/fig018.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "section": "A03",
+      "pdf_spread": 9,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
+      "figures": [
+        {
+          "number": 19,
+          "path": "figures/fig019.jpg",
+          "status": "validated"
+        },
+        {
+          "number": 20,
+          "path": "figures/fig020.jpg",
+          "status": "validated"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "section": "A04",
+      "pdf_spread": 10,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    },
+    {
+      "page": 17,
+      "section": "A05",
+      "pdf_spread": 10,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 21,
+          "path": "figures/fig021.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 22,
+          "path": "figures/fig022.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "section": "A05",
+      "pdf_spread": 11,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 23,
+          "path": "figures/fig023.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 24,
+          "path": "figures/fig024.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "section": "A05",
+      "pdf_spread": 11,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 25,
+          "path": "figures/fig025.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 26,
+          "path": "figures/fig026.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "section": "A05",
+      "pdf_spread": 12,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 27,
+          "path": "figures/fig027.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 28,
+          "path": "figures/fig028.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "section": "A06",
+      "pdf_spread": 12,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    },
+    {
+      "page": 22,
+      "section": "A07",
+      "pdf_spread": 13,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 29,
+          "path": "figures/fig029.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 30,
+          "path": "figures/fig030.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "section": "A07",
+      "pdf_spread": 13,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 31,
+          "path": "figures/fig031.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 32,
+          "path": "figures/fig032.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "section": "A08",
+      "pdf_spread": 14,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    },
+    {
+      "page": 25,
+      "section": "A09",
+      "pdf_spread": 14,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 33,
+          "path": "figures/fig033.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 34,
+          "path": "figures/fig034.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "section": "A09",
+      "pdf_spread": 15,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 35,
+          "path": "figures/fig035.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 36,
+          "path": "figures/fig036.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "section": "A09",
+      "pdf_spread": 15,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 37,
+          "path": "figures/fig037.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 38,
+          "path": "figures/fig038.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "section": "A09",
+      "pdf_spread": 16,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 39,
+          "path": "figures/fig039.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 40,
+          "path": "figures/fig040.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "section": "A10",
+      "pdf_spread": 16,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    },
+    {
+      "page": 30,
+      "section": "A11",
+      "pdf_spread": 17,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 41,
+          "path": "figures/fig041.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 42,
+          "path": "figures/fig042.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "section": "A11",
+      "pdf_spread": 17,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 43,
+          "path": "figures/fig043.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 44,
+          "path": "figures/fig044.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "section": "B12",
+      "pdf_spread": 18,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 45,
+          "path": "figures/fig045.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 46,
+          "path": "figures/fig046.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "section": "B12",
+      "pdf_spread": 18,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 47,
+          "path": "figures/fig047.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 48,
+          "path": "figures/fig048.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "section": "B12",
+      "pdf_spread": 19,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 49,
+          "path": "figures/fig049.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 50,
+          "path": "figures/fig050.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "section": "B12",
+      "pdf_spread": 19,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 51,
+          "path": "figures/fig051.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 52,
+          "path": "figures/fig052.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "section": "B12",
+      "pdf_spread": 20,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 53,
+          "path": "figures/fig053.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 54,
+          "path": "figures/fig054.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "section": "B12",
+      "pdf_spread": 20,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 55,
+          "path": "figures/fig055.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 56,
+          "path": "figures/fig056.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "section": "B12",
+      "pdf_spread": 21,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 57,
+          "path": "figures/fig057.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 58,
+          "path": "figures/fig058.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "section": "B12",
+      "pdf_spread": 21,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 59,
+          "path": "figures/fig059.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 60,
+          "path": "figures/fig060.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "section": "B12",
+      "pdf_spread": 22,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 61,
+          "path": "figures/fig061.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 62,
+          "path": "figures/fig062.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "section": "B12",
+      "pdf_spread": 22,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 63,
+          "path": "figures/fig063.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 64,
+          "path": "figures/fig064.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "section": "B12",
+      "pdf_spread": 23,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 65,
+          "path": "figures/fig065.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 66,
+          "path": "figures/fig066.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "section": "B12",
+      "pdf_spread": 23,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 67,
+          "path": "figures/fig067.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 68,
+          "path": "figures/fig068.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "section": "B12",
+      "pdf_spread": 24,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 69,
+          "path": "figures/fig069.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 70,
+          "path": "figures/fig070.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "section": "B12",
+      "pdf_spread": 24,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 71,
+          "path": "figures/fig071.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 72,
+          "path": "figures/fig072.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "section": "B12",
+      "pdf_spread": 25,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 73,
+          "path": "figures/fig073.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 74,
+          "path": "figures/fig074.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "section": "B13",
+      "pdf_spread": 25,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 75,
+          "path": "figures/fig075.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 76,
+          "path": "figures/fig076.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "section": "B13",
+      "pdf_spread": 26,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 77,
+          "path": "figures/fig077.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 78,
+          "path": "figures/fig078.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 49,
+      "section": "B13",
+      "pdf_spread": 26,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 79,
+          "path": "figures/fig079.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 80,
+          "path": "figures/fig080.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "section": "B13",
+      "pdf_spread": 27,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 81,
+          "path": "figures/fig081.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 82,
+          "path": "figures/fig082.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "section": "B13",
+      "pdf_spread": 27,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 83,
+          "path": "figures/fig083.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 84,
+          "path": "figures/fig084.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "section": "B13",
+      "pdf_spread": 28,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 85,
+          "path": "figures/fig085.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 86,
+          "path": "figures/fig086.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "section": "B13",
+      "pdf_spread": 28,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 87,
+          "path": "figures/fig087.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 88,
+          "path": "figures/fig088.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "section": "B13",
+      "pdf_spread": 29,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 89,
+          "path": "figures/fig089.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 90,
+          "path": "figures/fig090.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "section": "B13",
+      "pdf_spread": 29,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 91,
+          "path": "figures/fig091.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 92,
+          "path": "figures/fig092.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "section": "B13",
+      "pdf_spread": 30,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 93,
+          "path": "figures/fig093.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 94,
+          "path": "figures/fig094.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 57,
+      "section": "B13",
+      "pdf_spread": 30,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 95,
+          "path": "figures/fig095.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 96,
+          "path": "figures/fig096.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 58,
+      "section": "B13",
+      "pdf_spread": 31,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 97,
+          "path": "figures/fig097.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 98,
+          "path": "figures/fig098.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 59,
+      "section": "B13",
+      "pdf_spread": 31,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 99,
+          "path": "figures/fig099.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 100,
+          "path": "figures/fig100.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 60,
+      "section": "B13",
+      "pdf_spread": 32,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 101,
+          "path": "figures/fig101.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 102,
+          "path": "figures/fig102.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 61,
+      "section": "B13",
+      "pdf_spread": 32,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 103,
+          "path": "figures/fig103.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 104,
+          "path": "figures/fig104.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 62,
+      "section": "B13",
+      "pdf_spread": 33,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 105,
+          "path": "figures/fig105.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 106,
+          "path": "figures/fig106.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 63,
+      "section": "B13",
+      "pdf_spread": 33,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 107,
+          "path": "figures/fig107.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 108,
+          "path": "figures/fig108.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 64,
+      "section": "B13",
+      "pdf_spread": 34,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 109,
+          "path": "figures/fig109.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 110,
+          "path": "figures/fig110.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 65,
+      "section": "B13",
+      "pdf_spread": 34,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 111,
+          "path": "figures/fig111.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 112,
+          "path": "figures/fig112.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 66,
+      "section": "B13",
+      "pdf_spread": 35,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 113,
+          "path": "figures/fig113.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 114,
+          "path": "figures/fig114.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 67,
+      "section": "B13",
+      "pdf_spread": 35,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 115,
+          "path": "figures/fig115.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 116,
+          "path": "figures/fig116.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 68,
+      "section": "B14",
+      "pdf_spread": 36,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 117,
+          "path": "figures/fig117.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 118,
+          "path": "figures/fig118.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 69,
+      "section": "B14",
+      "pdf_spread": 36,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 119,
+          "path": "figures/fig119.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 120,
+          "path": "figures/fig120.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 70,
+      "section": "B15",
+      "pdf_spread": 37,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 121,
+          "path": "figures/fig121.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 122,
+          "path": "figures/fig122.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 71,
+      "section": "B15",
+      "pdf_spread": 37,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 123,
+          "path": "figures/fig123.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 124,
+          "path": "figures/fig124.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 72,
+      "section": "B15",
+      "pdf_spread": 38,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 125,
+          "path": "figures/fig125.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 126,
+          "path": "figures/fig126.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 73,
+      "section": "B15",
+      "pdf_spread": 38,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 127,
+          "path": "figures/fig127.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 128,
+          "path": "figures/fig128.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 74,
+      "section": "B16",
+      "pdf_spread": 39,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 129,
+          "path": "figures/fig129.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 130,
+          "path": "figures/fig130.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 75,
+      "section": "B16",
+      "pdf_spread": 39,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 131,
+          "path": "figures/fig131.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 132,
+          "path": "figures/fig132.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 76,
+      "section": "B16",
+      "pdf_spread": 40,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 133,
+          "path": "figures/fig133.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 134,
+          "path": "figures/fig134.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 77,
+      "section": "B16",
+      "pdf_spread": 40,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 135,
+          "path": "figures/fig135.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 136,
+          "path": "figures/fig136.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 78,
+      "section": "B17",
+      "pdf_spread": 41,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 137,
+          "path": "figures/fig137.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 138,
+          "path": "figures/fig138.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 79,
+      "section": "B18",
+      "pdf_spread": 41,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 139,
+          "path": "figures/fig139.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 140,
+          "path": "figures/fig140.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 80,
+      "section": "B18",
+      "pdf_spread": 42,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 141,
+          "path": "figures/fig141.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 142,
+          "path": "figures/fig142.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 81,
+      "section": "B18",
+      "pdf_spread": 42,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 143,
+          "path": "figures/fig143.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 144,
+          "path": "figures/fig144.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 82,
+      "section": "B19",
+      "pdf_spread": 43,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 145,
+          "path": "figures/fig145.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 146,
+          "path": "figures/fig146.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 83,
+      "section": "B19",
+      "pdf_spread": 43,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 147,
+          "path": "figures/fig147.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 148,
+          "path": "figures/fig148.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 84,
+      "section": "B19",
+      "pdf_spread": 44,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 149,
+          "path": "figures/fig149.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 150,
+          "path": "figures/fig150.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 85,
+      "section": "B19",
+      "pdf_spread": 44,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 151,
+          "path": "figures/fig151.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 152,
+          "path": "figures/fig152.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 86,
+      "section": "B19",
+      "pdf_spread": 45,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 153,
+          "path": "figures/fig153.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 154,
+          "path": "figures/fig154.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 87,
+      "section": "B20",
+      "pdf_spread": 45,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 155,
+          "path": "figures/fig155.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 88,
+      "section": "B21",
+      "pdf_spread": 46,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    },
+    {
+      "page": 89,
+      "section": "B22",
+      "pdf_spread": 46,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 156,
+          "path": "figures/fig156.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 157,
+          "path": "figures/fig157.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 90,
+      "section": "B22",
+      "pdf_spread": 47,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 158,
+          "path": "figures/fig158.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 159,
+          "path": "figures/fig159.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 91,
+      "section": "B22",
+      "pdf_spread": 47,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 160,
+          "path": "figures/fig160.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 161,
+          "path": "figures/fig161.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 92,
+      "section": "B22",
+      "pdf_spread": 48,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 162,
+          "path": "figures/fig162.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 163,
+          "path": "figures/fig163.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 93,
+      "section": "B22",
+      "pdf_spread": 48,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 164,
+          "path": "figures/fig164.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 165,
+          "path": "figures/fig165.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 94,
+      "section": "B22",
+      "pdf_spread": 49,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 166,
+          "path": "figures/fig166.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 167,
+          "path": "figures/fig167.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 95,
+      "section": "B22",
+      "pdf_spread": 49,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 168,
+          "path": "figures/fig168.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 169,
+          "path": "figures/fig169.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 96,
+      "section": "B23",
+      "pdf_spread": 50,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 170,
+          "path": "figures/fig170.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 171,
+          "path": "figures/fig171.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 97,
+      "section": "B23",
+      "pdf_spread": 50,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 172,
+          "path": "figures/fig172.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 173,
+          "path": "figures/fig173.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 98,
+      "section": "B24",
+      "pdf_spread": 51,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 174,
+          "path": "figures/fig174.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 175,
+          "path": "figures/fig175.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 99,
+      "section": "B24",
+      "pdf_spread": 51,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 176,
+          "path": "figures/fig176.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 177,
+          "path": "figures/fig177.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 100,
+      "section": "B24",
+      "pdf_spread": 52,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 178,
+          "path": "figures/fig178.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 179,
+          "path": "figures/fig179.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "section": "B24",
+      "pdf_spread": 52,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 180,
+          "path": "figures/fig180.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 181,
+          "path": "figures/fig181.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 102,
+      "section": "B24",
+      "pdf_spread": 53,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 182,
+          "path": "figures/fig182.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 183,
+          "path": "figures/fig183.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 103,
+      "section": "B25",
+      "pdf_spread": 53,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 184,
+          "path": "figures/fig184.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 185,
+          "path": "figures/fig185.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 104,
+      "section": "B25",
+      "pdf_spread": 54,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 186,
+          "path": "figures/fig186.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 187,
+          "path": "figures/fig187.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 105,
+      "section": "B26",
+      "pdf_spread": 54,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 188,
+          "path": "figures/fig188.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 189,
+          "path": "figures/fig189.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 106,
+      "section": "B26",
+      "pdf_spread": 55,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 190,
+          "path": "figures/fig190.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 191,
+          "path": "figures/fig191.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 107,
+      "section": "B26",
+      "pdf_spread": 55,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 192,
+          "path": "figures/fig192.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 193,
+          "path": "figures/fig193.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 108,
+      "section": "B26",
+      "pdf_spread": 56,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 194,
+          "path": "figures/fig194.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 109,
+      "section": "B27",
+      "pdf_spread": 56,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 195,
+          "path": "figures/fig195.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 196,
+          "path": "figures/fig196.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 110,
+      "section": "B27",
+      "pdf_spread": 57,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 197,
+          "path": "figures/fig197.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 111,
+      "section": "B27",
+      "pdf_spread": 57,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 198,
+          "path": "figures/fig198.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 199,
+          "path": "figures/fig199.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 112,
+      "section": "B27",
+      "pdf_spread": 58,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 200,
+          "path": "figures/fig200.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 113,
+      "section": "B28",
+      "pdf_spread": 58,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 201,
+          "path": "figures/fig201.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 202,
+          "path": "figures/fig202.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 114,
+      "section": "B28",
+      "pdf_spread": 59,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 203,
+          "path": "figures/fig203.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 204,
+          "path": "figures/fig204.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 115,
+      "section": "B28",
+      "pdf_spread": 59,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 205,
+          "path": "figures/fig205.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 206,
+          "path": "figures/fig206.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 116,
+      "section": "B28",
+      "pdf_spread": 60,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 207,
+          "path": "figures/fig207.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 208,
+          "path": "figures/fig208.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 117,
+      "section": "B28",
+      "pdf_spread": 60,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 209,
+          "path": "figures/fig209.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 210,
+          "path": "figures/fig210.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 118,
+      "section": "B28",
+      "pdf_spread": 61,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 211,
+          "path": "figures/fig211.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 212,
+          "path": "figures/fig212.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 119,
+      "section": "B29",
+      "pdf_spread": 61,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 213,
+          "path": "figures/fig213.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 214,
+          "path": "figures/fig214.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 120,
+      "section": "B29",
+      "pdf_spread": 62,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 215,
+          "path": "figures/fig215.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 216,
+          "path": "figures/fig216.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 121,
+      "section": "B29",
+      "pdf_spread": 62,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 217,
+          "path": "figures/fig217.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 218,
+          "path": "figures/fig218.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 122,
+      "section": "B30",
+      "pdf_spread": 63,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 219,
+          "path": "figures/fig219.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 220,
+          "path": "figures/fig220.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 123,
+      "section": "B30",
+      "pdf_spread": 63,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 221,
+          "path": "figures/fig221.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 222,
+          "path": "figures/fig222.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 124,
+      "section": "B30",
+      "pdf_spread": 64,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 223,
+          "path": "figures/fig223.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 224,
+          "path": "figures/fig224.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 125,
+      "section": "B30",
+      "pdf_spread": 64,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 225,
+          "path": "figures/fig225.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 226,
+          "path": "figures/fig226.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 126,
+      "section": "B30",
+      "pdf_spread": 65,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 227,
+          "path": "figures/fig227.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 228,
+          "path": "figures/fig228.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 127,
+      "section": "B30",
+      "pdf_spread": 65,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 229,
+          "path": "figures/fig229.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 230,
+          "path": "figures/fig230.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 128,
+      "section": "B30",
+      "pdf_spread": 66,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 231,
+          "path": "figures/fig231.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 232,
+          "path": "figures/fig232.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 129,
+      "section": "B30",
+      "pdf_spread": 66,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 233,
+          "path": "figures/fig233.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 234,
+          "path": "figures/fig234.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 130,
+      "section": "B30",
+      "pdf_spread": 67,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 235,
+          "path": "figures/fig235.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 236,
+          "path": "figures/fig236.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 131,
+      "section": "B30",
+      "pdf_spread": 67,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 237,
+          "path": "figures/fig237.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 132,
+      "section": "B30",
+      "pdf_spread": 68,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 238,
+          "path": "figures/fig238.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 239,
+          "path": "figures/fig239.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 133,
+      "section": "B30",
+      "pdf_spread": 68,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 240,
+          "path": "figures/fig240.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 241,
+          "path": "figures/fig241.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 134,
+      "section": "B30",
+      "pdf_spread": 69,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 242,
+          "path": "figures/fig242.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 135,
+      "section": "B30",
+      "pdf_spread": 69,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 243,
+          "path": "figures/fig243.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 244,
+          "path": "figures/fig244.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 136,
+      "section": "B30",
+      "pdf_spread": 70,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 245,
+          "path": "figures/fig245.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 246,
+          "path": "figures/fig246.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 137,
+      "section": "B30",
+      "pdf_spread": 70,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 247,
+          "path": "figures/fig247.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 248,
+          "path": "figures/fig248.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 138,
+      "section": "B30",
+      "pdf_spread": 71,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 249,
+          "path": "figures/fig249.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 250,
+          "path": "figures/fig250.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 139,
+      "section": "B30",
+      "pdf_spread": 71,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 251,
+          "path": "figures/fig251.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 252,
+          "path": "figures/fig252.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 140,
+      "section": "B30",
+      "pdf_spread": 72,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 253,
+          "path": "figures/fig253.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 254,
+          "path": "figures/fig254.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 141,
+      "section": "B30",
+      "pdf_spread": 72,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": [
+        {
+          "number": 255,
+          "path": "figures/fig255.jpg",
+          "status": "candidate_crop"
+        },
+        {
+          "number": 256,
+          "path": "figures/fig256.jpg",
+          "status": "candidate_crop"
+        }
+      ]
+    },
+    {
+      "page": 142,
+      "section": "B31",
+      "pdf_spread": 73,
+      "side": "left",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    },
+    {
+      "page": 143,
+      "section": "B31",
+      "pdf_spread": 73,
+      "side": "right",
+      "source_scan": "source.jpg",
+      "content": "content.json",
+      "source_scan_status": "extracted_clean",
+      "transcription_status": "pending",
+      "translation_en_status": "pending",
+      "translation_es_status": "pending",
+      "figures": []
+    }
+  ]
+}

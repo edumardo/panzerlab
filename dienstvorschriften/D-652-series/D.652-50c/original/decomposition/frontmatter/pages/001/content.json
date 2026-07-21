@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-001",
+  "document_id": "d652-50c",
+  "page": 1,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {
+    "de": "Titelseite",
+    "en-GB": "Original title page",
+    "es-ES": "Página de título original"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 2,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": null,
+    "next": "d65250c-page-002"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250c-p001-para01",
+      "text": {
+        "de": {
+          "plain": "D 652/50c",
+          "runs": [
+            {
+              "text": "D 652/50c",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "D 652/50c",
+          "runs": [
+            {
+              "text": "D 652/50c",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "D 652/50c",
+          "runs": [
+            {
+              "text": "D 652/50c",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p001-para02",
+      "text": {
+        "de": {
+          "plain": "Panzerkampfwagen III, Ausf. E bis L",
+          "runs": [
+            {
+              "text": "Panzerkampfwagen III, Ausf. E bis L",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Panzerkampfwagen III — models E to L (Ausf. E bis L)",
+          "runs": [
+            {
+              "text": "Panzerkampfwagen III — models E to L (Ausf. E bis L)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Panzerkampfwagen III — modelos E a L (Ausf. E bis L)",
+          "runs": [
+            {
+              "text": "Panzerkampfwagen III — modelos E a L (Ausf. E bis L)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p001-para03",
+      "text": {
+        "de": {
+          "plain": "Panzerbefehlswagen, Ausf. E bis L",
+          "runs": [
+            {
+              "text": "Panzerbefehlswagen, Ausf. E bis L",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Panzerbefehlswagen (command tank) — models E to L",
+          "runs": [
+            {
+              "text": "Panzerbefehlswagen (command tank) — models E to L",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Panzerbefehlswagen (carro de mando) — modelos E a L",
+          "runs": [
+            {
+              "text": "Panzerbefehlswagen (carro de mando) — modelos E a L",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p001-para04",
+      "text": {
+        "de": {
+          "plain": "Gepanzerte Selbstfahrlafette, Ausf. A bis G, für Sturmgeschütz 7,5 cm Kanone",
+          "runs": [
+            {
+              "text": "Gepanzerte Selbstfahrlafette, Ausf. A bis G, für Sturmgeschütz 7,5 cm Kanone",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Armoured self-propelled mounting (Gepanzerte Selbstfahrlafette) — models A to G, for the 7.5 cm assault gun (Sturmgeschütz 7,5 cm Kanone)",
+          "runs": [
+            {
+              "text": "Armoured self-propelled mounting (Gepanzerte Selbstfahrlafette) — models A to G, for the 7.5 cm assault gun (Sturmgeschütz 7,5 cm Kanone)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cureña autopropulsada blindada (Gepanzerte Selbstfahrlafette) — modelos A a G, para el cañón de asalto de 7,5 cm (Sturmgeschütz 7,5 cm Kanone)",
+          "runs": [
+            {
+              "text": "Cureña autopropulsada blindada (Gepanzerte Selbstfahrlafette) — modelos A a G, para el cañón de asalto de 7,5 cm (Sturmgeschütz 7,5 cm Kanone)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p001-para05",
+      "text": {
+        "de": {
+          "plain": "Vorläufige Instandsetzungsanleitung für den Motor",
+          "runs": [
+            {
+              "text": "Vorläufige Instandsetzungsanleitung für den Motor",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Preliminary repair instructions for the engine (Vorläufige Instandsetzungsanleitung für den Motor)",
+          "runs": [
+            {
+              "text": "Preliminary repair instructions for the engine (Vorläufige Instandsetzungsanleitung für den Motor)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Instrucciones provisionales de reparación del motor (Vorläufige Instandsetzungsanleitung für den Motor)",
+          "runs": [
+            {
+              "text": "Instrucciones provisionales de reparación del motor (Vorläufige Instandsetzungsanleitung für den Motor)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p001-para06",
+      "text": {
+        "de": {
+          "plain": "Vom 3. 11. 43",
+          "runs": [
+            {
+              "text": "Vom 3. 11. 43",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Dated 3 November 1943 (Vom 3. 11. 43)",
+          "runs": [
+            {
+              "text": "Dated 3 November 1943 (Vom 3. 11. 43)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Del 3 de noviembre de 1943 (Vom 3. 11. 43)",
+          "runs": [
+            {
+              "text": "Del 3 de noviembre de 1943 (Vom 3. 11. 43)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

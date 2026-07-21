@@ -1,0 +1,18 @@
+{
+  "id": "B31",
+  "pages": [
+    142,
+    143
+  ],
+  "titles": {
+    "de": "Einbauen des Motors",
+    "en": "Installing the engine",
+    "es": "Instalación (montaje) del motor"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

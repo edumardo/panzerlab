@@ -1,0 +1,20 @@
+{
+  "id": "B27",
+  "pages": [
+    109,
+    110,
+    111,
+    112
+  ],
+  "titles": {
+    "de": "Einstellen des Schnapper-Magnetzünders am Motor",
+    "en": "Adjusting the impulse magneto on the engine",
+    "es": "Reglaje del magneto de impulso en el motor"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

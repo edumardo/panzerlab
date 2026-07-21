@@ -1,0 +1,22 @@
+{
+  "id": "B28",
+  "pages": [
+    113,
+    114,
+    115,
+    116,
+    117,
+    118
+  ],
+  "titles": {
+    "de": "Zerlegen des Vergasers",
+    "en": "Dismantling the carburettor",
+    "es": "Despiece del carburador"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

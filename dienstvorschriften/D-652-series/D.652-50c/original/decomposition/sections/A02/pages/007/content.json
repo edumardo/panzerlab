@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-007",
+  "document_id": "d652-50c",
+  "page": 7,
+  "section": "A02",
+  "type": "text",
+  "titles": {
+    "de": "2. Aufbauen der Heckpanzerung",
+    "en-GB": "Section A.2 — Installing the rear armour plate",
+    "es-ES": "Sección A.2 — Montaje del blindaje trasero"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-006",
+    "next": "d65250c-page-008"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250c-p007-para01",
+      "text": {
+        "de": {
+          "plain": "Heckpanzerung mit Hebezeug auf die Wanne setzen, Bild 4.",
+          "runs": [
+            {
+              "text": "Heckpanzerung mit Hebezeug auf die Wanne setzen, Bild 4.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Set the rear armour plate (Heckpanzerung) onto the hull (Wanne) using lifting gear, Fig. 4.",
+          "runs": [
+            {
+              "text": "Set the rear armour plate (Heckpanzerung) onto the hull (Wanne) using lifting gear, ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 4",
+              "bold": true
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el blindaje trasero (Heckpanzerung) sobre el casco (Wanne) con un aparejo de elevación, Fig. 4.",
+          "runs": [
+            {
+              "text": "Colocar el blindaje trasero (Heckpanzerung) sobre el casco (Wanne) con un aparejo de elevación, ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 4",
+              "bold": true
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p007-para02",
+      "text": {
+        "de": {
+          "plain": "Heckpanzerung mit Brechstange in die richtige Lage drücken, damit die Schraubenlöcher übereinanderstehen.",
+          "runs": [
+            {
+              "text": "Heckpanzerung mit Brechstange in die richtige Lage drücken, damit die Schraubenlöcher übereinanderstehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Use a crowbar (Brechstange) to lever the rear armour plate into the correct position so that the bolt holes align.",
+          "runs": [
+            {
+              "text": "Use a crowbar (Brechstange) to lever the rear armour plate into the correct position so that the bolt holes align.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una palanca (Brechstange), llevar el blindaje trasero a la posición correcta hasta que coincidan los orificios de los tornillos.",
+          "runs": [
+            {
+              "text": "Con una palanca (Brechstange), llevar el blindaje trasero a la posición correcta hasta que coincidan los orificios de los tornillos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p007-para03",
+      "text": {
+        "de": {
+          "plain": "Heckpanzerung mit der Wanne mit den seitlichen Befestigungsschrauben verschrauben, Bild 2.",
+          "runs": [
+            {
+              "text": "Heckpanzerung mit der Wanne mit den seitlichen Befestigungsschrauben verschrauben, Bild 2.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the rear armour plate to the hull using the side securing bolts, Fig. 2.",
+          "runs": [
+            {
+              "text": "Bolt the rear armour plate to the hull using the side securing bolts, ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 2",
+              "bold": true
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el blindaje trasero al casco con los tornillos laterales de fijación, Fig. 2.",
+          "runs": [
+            {
+              "text": "Atornillar el blindaje trasero al casco con los tornillos laterales de fijación, ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 2",
+              "bold": true
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p007-para04",
+      "text": {
+        "de": {
+          "plain": "Befestigungsschrauben der Heckpanzerung innerhalb des Kampfraumes einschrauben, Bild 3.",
+          "runs": [
+            {
+              "text": "Befestigungsschrauben der Heckpanzerung innerhalb des Kampfraumes einschrauben, Bild 3.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw in the securing bolts of the rear armour plate from inside the fighting compartment (Kampfraum), Fig. 3.",
+          "runs": [
+            {
+              "text": "Screw in the securing bolts of the rear armour plate from inside the fighting compartment (Kampfraum), ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 3",
+              "bold": true
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar desde el interior de la cámara de combate (Kampfraum) los tornillos de fijación del blindaje trasero, Fig. 3.",
+          "runs": [
+            {
+              "text": "Enroscar desde el interior de la cámara de combate (Kampfraum) los tornillos de fijación del blindaje trasero, ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 3",
+              "bold": true
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p007-para05",
+      "text": {
+        "de": {
+          "plain": "Welle der Lüfterklappenbetätigung vom Motorraum aus in die Lagerung einführen. Einstellhebel im Kampfraum auf die Welle setzen und Hebel mit den Keilbolzen befestigen, Bild 1, Teil 2.",
+          "runs": [
+            {
+              "text": "Welle der Lüfterklappenbetätigung vom Motorraum aus in die Lagerung einführen. Einstellhebel im Kampfraum auf die Welle setzen und Hebel mit den Keilbolzen befestigen, Bild 1, Teil 2.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "From the engine compartment (Motorraum), insert the shaft of the fan-flap actuation (Lüfterklappenbetätigung) into its bearing. Fit the adjusting lever (Einstellhebel) onto the shaft in the fighting compartment and secure the lever with the wedge pin (Keilbolzen), Fig. 1, item 2.",
+          "runs": [
+            {
+              "text": "From the engine compartment (Motorraum), insert the shaft of the fan-flap actuation (Lüfterklappenbetätigung) into its bearing. Fit the adjusting lever (Einstellhebel) onto the shaft in the fighting compartment and secure the lever with the wedge pin (Keilbolzen), ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 1",
+              "bold": true
+            },
+            {
+              "text": ", item 2.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desde la cámara del motor (Motorraum), introducir en su cojinete el eje del accionamiento de las compuertas del ventilador (Lüfterklappenbetätigung). Colocar la palanca de ajuste (Einstellhebel) sobre el eje en la cámara de combate y fijarla con el pasador en cuña (Keilbolzen), Fig. 1, elemento 2.",
+          "runs": [
+            {
+              "text": "Desde la cámara del motor (Motorraum), introducir en su cojinete el eje del accionamiento de las compuertas del ventilador (Lüfterklappenbetätigung). Colocar la palanca de ajuste (Einstellhebel) sobre el eje en la cámara de combate y fijarla con el pasador en cuña (Keilbolzen), ",
+              "bold": false
+            },
+            {
+              "text": "Fig. 1",
+              "bold": true
+            },
+            {
+              "text": ", elemento 2.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p007-para06",
+      "text": {
+        "de": {
+          "plain": "Drahtschutz über die Luftkanalanbauten seitlich der Heckpanzerung anbauen.",
+          "runs": [
+            {
+              "text": "Drahtschutz über die Luftkanalanbauten seitlich der Heckpanzerung anbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the wire guard (Drahtschutz) over the air-duct fittings at the sides of the rear armour plate.",
+          "runs": [
+            {
+              "text": "Fit the wire guard (Drahtschutz) over the air-duct fittings at the sides of the rear armour plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar la protección de alambre (Drahtschutz) sobre los accesorios de los conductos de aire situados a ambos lados del blindaje trasero.",
+          "runs": [
+            {
+              "text": "Montar la protección de alambre (Drahtschutz) sobre los accesorios de los conductos de aire situados a ambos lados del blindaje trasero.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

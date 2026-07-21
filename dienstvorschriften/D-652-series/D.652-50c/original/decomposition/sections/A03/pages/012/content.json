@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-012",
+  "document_id": "d652-50c",
+  "page": 12,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 8,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-011",
+    "next": "d65250c-page-013"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild013",
+      "number": 13,
+      "image": "figures/fig013.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Splinte aus den Befestigungsschrauben des Lüftergehäuses ziehen und mit 22-Ring- oder Steckschlüssel die Kronenmuttern entfernen.",
+          "runs": [
+            {
+              "text": "Splinte aus den Befestigungsschrauben des Lüftergehäuses ziehen und mit 22-Ring- oder Steckschlüssel die Kronenmuttern entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Withdraw the split pins (Splinte) from the fan-housing retaining bolts and remove the castle nuts (Kronenmuttern) with a 22 mm ring spanner or socket spanner (Ring- oder Steckschlüssel).",
+          "runs": [
+            {
+              "text": "Withdraw the split pins (Splinte) from the fan-housing retaining bolts and remove the castle nuts (Kronenmuttern) with a 22 mm ring spanner or socket spanner (Ring- oder Steckschlüssel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas (Splinte) de los tornillos de fijación de la carcasa del ventilador y retirar las tuercas almenadas (Kronenmuttern) con una llave de estrella o de vaso de 22 mm (Ring- oder Steckschlüssel).",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas (Splinte) de los tornillos de fijación de la carcasa del ventilador y retirar las tuercas almenadas (Kronenmuttern) con una llave de estrella o de vaso de 22 mm (Ring- oder Steckschlüssel).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild014",
+      "number": 14,
+      "image": "figures/fig014.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Mutter von der Gelenkverschraubung zwischen Lüfter und Kühler mit 22-Ring- oder Steckschlüssel entfernen und Lüfter ausheben. Filzdichtung zwischen Lüfter und Kühler beachten.",
+          "runs": [
+            {
+              "text": "Mutter von der Gelenkverschraubung zwischen Lüfter und Kühler mit 22-Ring- oder Steckschlüssel entfernen und Lüfter ausheben. Filzdichtung zwischen Lüfter und Kühler beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 22 mm ring spanner or socket spanner (Ring- oder Steckschlüssel), remove the nut from the coupling joint (Gelenkverschraubung) between the fan and radiator, then lift out the fan. Take care of the felt gasket (Filzdichtung) between the fan and radiator.",
+          "runs": [
+            {
+              "text": "Using a 22 mm ring spanner or socket spanner (Ring- oder Steckschlüssel), remove the nut from the coupling joint (Gelenkverschraubung) between the fan and radiator, then lift out the fan. Take care of the felt gasket (Filzdichtung) between the fan and radiator.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de estrella o de vaso de 22 mm (Ring- oder Steckschlüssel), retirar la tuerca de la unión articulada (Gelenkverschraubung) entre el ventilador y el radiador y extraer el ventilador. Prestar atención a la junta de fieltro (Filzdichtung) situada entre ambos.",
+          "runs": [
+            {
+              "text": "Con una llave de estrella o de vaso de 22 mm (Ring- oder Steckschlüssel), retirar la tuerca de la unión articulada (Gelenkverschraubung) entre el ventilador y el radiador y extraer el ventilador. Prestar atención a la junta de fieltro (Filzdichtung) situada entre ambos.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

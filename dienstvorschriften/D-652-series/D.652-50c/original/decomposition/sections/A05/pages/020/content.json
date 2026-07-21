@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-020",
+  "document_id": "d652-50c",
+  "page": 20,
+  "section": "A05",
+  "type": "figures",
+  "titles": {
+    "de": "5. Ausbauen des rechten Lüfters und Kühlers",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 12,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-019",
+    "next": "d65250c-page-021"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild027",
+      "number": 27,
+      "image": "figures/fig027.jpg",
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Befestigungsschrauben der schräg nach unten verlaufenden Schutzplatte des Kraftstoffbehälters entsichern und diese mit 14-Steckschlüssel (Knarre) ausschrauben. Platte abheben.",
+          "runs": [
+            {
+              "text": "Befestigungsschrauben der schräg nach unten verlaufenden Schutzplatte des Kraftstoffbehälters entsichern und diese mit 14-Steckschlüssel (Knarre) ausschrauben. Platte abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild028",
+      "number": 28,
+      "image": "figures/fig028.jpg",
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Splinte aus den Kronenmuttern entfernen und beide vorderen Kühlerbefestigungsschrauben mit zwei 17-Maulschlüsseln ausschrauben. Kühler ausheben.",
+          "runs": [
+            {
+              "text": "Splinte aus den Kronenmuttern entfernen und beide vorderen Kühlerbefestigungsschrauben mit zwei 17-Maulschlüsseln ausschrauben. Kühler ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "candidate_crop"
+  }
+}

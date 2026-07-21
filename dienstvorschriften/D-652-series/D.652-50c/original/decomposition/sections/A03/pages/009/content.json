@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "d65250c-page-009",
+  "document_id": "d652-50c",
+  "page": 9,
+  "section": "A03",
+  "type": "figures",
+  "titles": {
+    "de": "3. Ausbauen des linken Lüfters und Kühlers",
+    "en-GB": "Section A.3 — Removing the left-hand fan and radiator",
+    "es-ES": "Sección A.3 — Desmontaje del ventilador y radiador izquierdos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 6,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250c-page-008",
+    "next": "d65250c-page-010"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250c-bild007",
+      "number": 7,
+      "image": "figures/fig007.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Hakensprengring mit Schraubenzieher aus der Ringmutter entfernen und diese mit dem Hakenschlüssel III DB 124 lösen.",
+          "runs": [
+            {
+              "text": "Hakensprengring mit Schraubenzieher aus der Ringmutter entfernen und diese mit dem Hakenschlüssel III DB 124 lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Use a screwdriver to remove the hook-type circlip (Hakensprengring) from the ring nut (Ringmutter), then loosen the ring nut with hook spanner III DB 124 (Hakenschlüssel).",
+          "runs": [
+            {
+              "text": "Use a screwdriver to remove the hook-type circlip (Hakensprengring) from the ring nut (Ringmutter), then loosen the ring nut with hook spanner III DB 124 (Hakenschlüssel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador, extraer el anillo elástico con gancho (Hakensprengring) de la tuerca anular (Ringmutter) y aflojar esta con la llave de gancho III DB 124 (Hakenschlüssel).",
+          "runs": [
+            {
+              "text": "Con un destornillador, extraer el anillo elástico con gancho (Hakensprengring) de la tuerca anular (Ringmutter) y aflojar esta con la llave de gancho III DB 124 (Hakenschlüssel).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "HAKENSPRENGRING = Hakensprengring.",
+          "runs": [
+            {
+              "text": "HAKENSPRENGRING = Hakensprengring.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "HAKENSPRENGRING = hook-type circlip.",
+          "runs": [
+            {
+              "text": "HAKENSPRENGRING = hook-type circlip.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "HAKENSPRENGRING = anillo elástico con gancho.",
+          "runs": [
+            {
+              "text": "HAKENSPRENGRING = anillo elástico con gancho.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-bild008",
+      "number": 8,
+      "image": "figures/fig008.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Mit Ringzapfenschlüssel III DB 105 die Exzenterbuchse so weit herumdrehen, bis die Kronenmutter der Kurbelachse oben steht. Ringmutter wieder leicht festziehen. (Das Spannen der Lüfterriemen geschieht in derselben Weise, nur Exzenterbuchse entgegengesetzt drehen, daß Kronenmutter der Kurbelachse soweit wie möglich nach unten zeigt.) Lüfterriemen auf richtige Spannung prüfen, Bild 19 und 20. Ringmutter fest anziehen und diese mit dem Hakensprengring sichern. Kronenmutter fest anziehen und durch Versplinten sichern.",
+          "runs": [
+            {
+              "text": "Mit Ringzapfenschlüssel III DB 105 die Exzenterbuchse so weit herumdrehen, bis die Kronenmutter der Kurbelachse oben steht. Ringmutter wieder leicht festziehen. (Das Spannen der Lüfterriemen geschieht in derselben Weise, nur Exzenterbuchse entgegengesetzt drehen, daß Kronenmutter der Kurbelachse soweit wie möglich nach unten zeigt.) Lüfterriemen auf richtige Spannung prüfen, Bild 19 und 20. Ringmutter fest anziehen und diese mit dem Hakensprengring sichern. Kronenmutter fest anziehen und durch Versplinten sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using pin spanner III DB 105 (Ringzapfenschlüssel), turn the eccentric bush (Exzenterbuchse) until the castle nut (Kronenmutter) on the crank spindle is at the top. Lightly retighten the ring nut (Ringmutter). (The fan belts are tensioned in the same way, except that the eccentric bush is turned in the opposite direction so that the castle nut on the crank spindle points as far downwards as possible.) Check the fan belts for correct tension, Figs. 19 and 20. Tighten the ring nut fully and secure it with the hook-type circlip (Hakensprengring). Tighten the castle nut fully and secure it with a split pin.",
+          "runs": [
+            {
+              "text": "Using pin spanner III DB 105 (Ringzapfenschlüssel), turn the eccentric bush (Exzenterbuchse) until the castle nut (Kronenmutter) on the crank spindle is at the top. Lightly retighten the ring nut (Ringmutter). (The fan belts are tensioned in the same way, except that the eccentric bush is turned in the opposite direction so that the castle nut on the crank spindle points as far downwards as possible.) Check the fan belts for correct tension, Figs. 19 and 20. Tighten the ring nut fully and secure it with the hook-type circlip (Hakensprengring). Tighten the castle nut fully and secure it with a split pin.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con la llave de tetones III DB 105 (Ringzapfenschlüssel), girar el casquillo excéntrico (Exzenterbuchse) hasta que la tuerca almenada (Kronenmutter) del eje de manivela quede arriba. Volver a apretar ligeramente la tuerca anular (Ringmutter). (Las correas del ventilador se tensan del mismo modo, pero girando el casquillo excéntrico en sentido contrario para que la tuerca almenada del eje de manivela apunte lo más abajo posible). Comprobar la tensión correcta de las correas del ventilador, Figs. 19 y 20. Apretar firmemente la tuerca anular y asegurarla con el anillo elástico con gancho (Hakensprengring). Apretar firmemente la tuerca almenada y asegurarla con un pasador de aletas.",
+          "runs": [
+            {
+              "text": "Con la llave de tetones III DB 105 (Ringzapfenschlüssel), girar el casquillo excéntrico (Exzenterbuchse) hasta que la tuerca almenada (Kronenmutter) del eje de manivela quede arriba. Volver a apretar ligeramente la tuerca anular (Ringmutter). (Las correas del ventilador se tensan del mismo modo, pero girando el casquillo excéntrico en sentido contrario para que la tuerca almenada del eje de manivela apunte lo más abajo posible). Comprobar la tensión correcta de las correas del ventilador, Figs. 19 y 20. Apretar firmemente la tuerca anular y asegurarla con el anillo elástico con gancho (Hakensprengring). Apretar firmemente la tuerca almenada y asegurarla con un pasador de aletas.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

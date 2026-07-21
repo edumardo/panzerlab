@@ -1,0 +1,17 @@
+{
+  "id": "B21",
+  "pages": [
+    88
+  ],
+  "titles": {
+    "de": "Verpacken der Stopfbuchse",
+    "en": "Packing the gland",
+    "es": "Empaquetado del prensaestopas"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

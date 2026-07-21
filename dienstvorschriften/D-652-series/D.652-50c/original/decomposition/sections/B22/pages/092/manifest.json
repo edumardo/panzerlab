@@ -1,0 +1,24 @@
+{
+  "page": 92,
+  "section": "B22",
+  "pdf_spread": 48,
+  "side": "left",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "pending",
+  "translation_en_status": "pending",
+  "translation_es_status": "pending",
+  "figures": [
+    {
+      "number": 162,
+      "path": "figures/fig162.jpg",
+      "status": "candidate_crop"
+    },
+    {
+      "number": 163,
+      "path": "figures/fig163.jpg",
+      "status": "candidate_crop"
+    }
+  ]
+}

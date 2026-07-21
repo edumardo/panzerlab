@@ -1,0 +1,37 @@
+{
+  "id": "B13",
+  "pages": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67
+  ],
+  "titles": {
+    "de": "Zerlegen des Motors",
+    "en": "Dismantling the engine",
+    "es": "Despiece del motor"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}

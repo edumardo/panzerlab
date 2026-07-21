@@ -1,0 +1,17 @@
+{
+  "id": "B20",
+  "pages": [
+    87
+  ],
+  "titles": {
+    "de": "Nachstellen der Wasserpumpenwellenlagerung",
+    "en": "Readjusting the water-pump shaft bearing",
+    "es": "Reajuste del cojinete del eje de la bomba de agua"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_source_left_translation_right_or_two_figures"
+}
