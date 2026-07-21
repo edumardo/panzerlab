@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig223.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "In der Reihenfolge, den auf den Kolben eingeschlagenen Zahlen nach, die Kolben mit Pleuelstangen einbauen. Darauf achten, daß die Zahlen auf den Kolben, alle nach einer Seite, nach außen zeigen. Zum besseren Einbau eine Kolbenringzange oder sonstiges Hilfswerkzeug verwenden.",
+          "runs": [
+            {
+              "text": "In der Reihenfolge, den auf den Kolben eingeschlagenen Zahlen nach, die Kolben mit Pleuelstangen einbauen. Darauf achten, daß die Zahlen auf den Kolben, alle nach einer Seite, nach außen zeigen. Zum besseren Einbau eine Kolbenringzange oder sonstiges Hilfswerkzeug verwenden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the pistons with the connecting rods in sequence according to their stamped numbers. Make sure the numbers on the pistons all point outward to the same side. Use a piston-ring clamp or other suitable tool for easier fitting.",
+          "runs": [
+            {
+              "text": "Fit the pistons with the connecting rods in sequence according to their stamped numbers. Make sure the numbers on the pistons all point outward to the same side. Use a piston-ring clamp or other suitable tool for easier fitting.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar los pistones con las bielas en el orden de los números marcados en ellos. Asegurarse de que los números de los pistones queden todos hacia fuera, hacia el mismo lado. Usar una pinza para segmentos de pistón u otra herramienta auxiliar para facilitar el montaje.",
+          "runs": [
+            {
+              "text": "Montar los pistones con las bielas en el orden de los números marcados en ellos. Asegurarse de que los números de los pistones queden todos hacia fuera, hacia el mismo lado. Usar una pinza para segmentos de pistón u otra herramienta auxiliar para facilitar el montaje.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig224.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Pleuellager mit den beiden Pleuelschrauben verschrauben. Kronenmuttern durch Versplinten sichern.",
+          "runs": [
+            {
+              "text": "Pleuellager mit den beiden Pleuelschrauben verschrauben. Kronenmuttern durch Versplinten sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the connecting-rod bearing together with the two connecting-rod bolts. Secure the castle nuts with split pins.",
+          "runs": [
+            {
+              "text": "Bolt the connecting-rod bearing together with the two connecting-rod bolts. Secure the castle nuts with split pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el cojinete de biela con los dos tornillos de biela. Asegurar las tuercas almenadas con pasadores de aletas.",
+          "runs": [
+            {
+              "text": "Atornillar el cojinete de biela con los dos tornillos de biela. Asegurar las tuercas almenadas con pasadores de aletas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

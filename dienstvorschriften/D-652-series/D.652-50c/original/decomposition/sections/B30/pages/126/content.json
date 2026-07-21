@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig227.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Obere Flanschlagerhälfte aufsetzen. Gummidichtung in die Eindrehung legen und die beiden Verbindungsschrauben einschrauben.",
+          "runs": [
+            {
+              "text": "Obere Flanschlagerhälfte aufsetzen. Gummidichtung in die Eindrehung legen und die beiden Verbindungsschrauben einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the upper flange-bearing half. Place the rubber seal into the recess and screw in the two connecting screws.",
+          "runs": [
+            {
+              "text": "Fit the upper flange-bearing half. Place the rubber seal into the recess and screw in the two connecting screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la mitad superior de la brida de cojinete. Colocar el sello de goma en el rebaje y enroscar los dos tornillos de unión.",
+          "runs": [
+            {
+              "text": "Colocar la mitad superior de la brida de cojinete. Colocar el sello de goma en el rebaje y enroscar los dos tornillos de unión.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig228.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Auf die beiden Ölkanalbohrungen im Gehäuse ein dünnes Dichtblech, 3/100 bis 5/100 mm, legen. Flächen der beiden Gehäusehälften und der seitlichen Lager mit Dichtungsmasse bestreichen.",
+          "runs": [
+            {
+              "text": "Auf die beiden Ölkanalbohrungen im Gehäuse ein dünnes Dichtblech, 3/100 bis 5/100 mm, legen. Flächen der beiden Gehäusehälften und der seitlichen Lager mit Dichtungsmasse bestreichen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place a thin sealing shim, 3/100 to 5/100 mm, over the two oil-passage bores in the housing. Coat the surfaces of the two housing halves and the side bearings with sealing compound.",
+          "runs": [
+            {
+              "text": "Place a thin sealing shim, 3/100 to 5/100 mm, over the two oil-passage bores in the housing. Coat the surfaces of the two housing halves and the side bearings with sealing compound.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar una chapa de junta fina, de 3/100 a 5/100 mm, sobre los dos taladros de los conductos de aceite en la carcasa. Untar con masilla de estanqueidad las superficies de las dos mitades de la carcasa y de los cojinetes laterales.",
+          "runs": [
+            {
+              "text": "Colocar una chapa de junta fina, de 3/100 a 5/100 mm, sobre los dos taladros de los conductos de aceite en la carcasa. Untar con masilla de estanqueidad las superficies de las dos mitades de la carcasa y de los cojinetes laterales.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

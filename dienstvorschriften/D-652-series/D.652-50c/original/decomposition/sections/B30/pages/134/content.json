@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig242.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Lichtmaschine in die halbe Schelle am Motorgehäuse halten. Die beiden Gegenschellen auf die Stehbolzen schieben und die Befestigungsmuttern leicht aufschrauben. Keilriemen für Wasserpumpe und Lichtmaschine auflegen und Lichtmaschine in der seitlichen Flucht ausrichten. Lichtmaschine in der Achsrichtung innerhalb der Befestigungsschellen so hindrehen, daß die Leitunganschlußdose seitlich nach unten, der Luftabsaugestutzen senkrecht nach unten zeigt. Mit 17-Maulschlüssel die Befestigungsmuttern festschrauben. Auf die oberen Stehbolzen das Schutzblech setzen und dieses mit Gegenmuttern festschrauben.",
+          "runs": [
+            {
+              "text": "Lichtmaschine in die halbe Schelle am Motorgehäuse halten. Die beiden Gegenschellen auf die Stehbolzen schieben und die Befestigungsmuttern leicht aufschrauben. Keilriemen für Wasserpumpe und Lichtmaschine auflegen und Lichtmaschine in der seitlichen Flucht ausrichten. Lichtmaschine in der Achsrichtung innerhalb der Befestigungsschellen so hindrehen, daß die Leitunganschlußdose seitlich nach unten, der Luftabsaugestutzen senkrecht nach unten zeigt. Mit 17-Maulschlüssel die Befestigungsmuttern festschrauben. Auf die oberen Stehbolzen das Schutzblech setzen und dieses mit Gegenmuttern festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hold the dynamo in the half clamp on the engine housing. Slide the two counter-clamps onto the studs and lightly screw on the fastening nuts. Fit the V-belts for the water pump and dynamo and align the dynamo laterally. Turn the dynamo axially within the fastening clamps so that the cable-connection box points sideways and downward, and the air-extraction stub points straight down. Using a 17 mm open-ended spanner, tighten the fastening nuts. Fit the guard plate onto the upper studs and bolt it down with the counter-nuts.",
+          "runs": [
+            {
+              "text": "Hold the dynamo in the half clamp on the engine housing. Slide the two counter-clamps onto the studs and lightly screw on the fastening nuts. Fit the V-belts for the water pump and dynamo and align the dynamo laterally. Turn the dynamo axially within the fastening clamps so that the cable-connection box points sideways and downward, and the air-extraction stub points straight down. Using a 17 mm open-ended spanner, tighten the fastening nuts. Fit the guard plate onto the upper studs and bolt it down with the counter-nuts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar la dinamo en la media abrazadera de la carcasa del motor. Deslizar las dos contraabrazaderas sobre los pernos prisioneros y enroscar ligeramente las tuercas de fijación. Colocar las correas trapezoidales de la bomba de agua y la dinamo y alinear la dinamo lateralmente. Girar la dinamo axialmente dentro de las abrazaderas de fijación de modo que la caja de conexión de cables quede hacia un lado y hacia abajo, y el racor de aspiración de aire quede verticalmente hacia abajo. Con una llave fija de 17 mm, apretar las tuercas de fijación. Colocar la chapa protectora sobre los pernos prisioneros superiores y atornillarla con las contratuercas.",
+          "runs": [
+            {
+              "text": "Sujetar la dinamo en la media abrazadera de la carcasa del motor. Deslizar las dos contraabrazaderas sobre los pernos prisioneros y enroscar ligeramente las tuercas de fijación. Colocar las correas trapezoidales de la bomba de agua y la dinamo y alinear la dinamo lateralmente. Girar la dinamo axialmente dentro de las abrazaderas de fijación de modo que la caja de conexión de cables quede hacia un lado y hacia abajo, y el racor de aspiración de aire quede verticalmente hacia abajo. Con una llave fija de 17 mm, apretar las tuercas de fijación. Colocar la chapa protectora sobre los pernos prisioneros superiores y atornillarla con las contratuercas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -40,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

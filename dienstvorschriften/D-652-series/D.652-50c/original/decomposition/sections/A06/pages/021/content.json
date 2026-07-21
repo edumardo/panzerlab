@@ -6,9 +6,9 @@
   "section": "A06",
   "type": "text",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "6. Einbauen des rechten Kühlers und Lüfters",
+    "en-GB": "Section A.6 - Installing the right-hand radiator and fan",
+    "es-ES": "Sección A.6 - Montaje del radiador y ventilador derechos"
   },
   "source": {
     "image": "source.jpg",
@@ -20,12 +20,301 @@
     "previous": "d65250c-page-020",
     "next": "d65250c-page-022"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "d65250c-p021-para01",
+      "text": {
+        "de": {
+          "plain": "Kühler in die Wanne setzen und diesen mit den vier Schrauben festschrauben, Bild 25 u. 28.",
+          "runs": [
+            {
+              "text": "Kühler in die Wanne setzen und diesen mit den vier Schrauben festschrauben, Bild 25 u. 28.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the radiator into the hull and bolt it down with the four screws, Figs. 25 and 28.",
+          "runs": [
+            {
+              "text": "Fit the radiator into the hull and bolt it down with the four screws, Figs. 25 and 28.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el radiador en el casco y atornillarlo con los cuatro tornillos, Figs. 25 y 28.",
+          "runs": [
+            {
+              "text": "Colocar el radiador en el casco y atornillarlo con los cuatro tornillos, Figs. 25 y 28.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para02",
+      "text": {
+        "de": {
+          "plain": "Kronenmuttern durch Versplinten sichern. Schutzplatte des Kraftstoffbehälters auflegen und diese mit 14-Maulschlüssel festschrauben, Bild 27.",
+          "runs": [
+            {
+              "text": "Kronenmuttern durch Versplinten sichern. Schutzplatte des Kraftstoffbehälters auflegen und diese mit 14-Maulschlüssel festschrauben, Bild 27.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the castle nuts with split pins. Fit the fuel-tank protective plate and bolt it down with a 14 mm open-ended spanner, Fig. 27.",
+          "runs": [
+            {
+              "text": "Secure the castle nuts with split pins. Fit the fuel-tank protective plate and bolt it down with a 14 mm open-ended spanner, Fig. 27.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar las tuercas almenadas con pasadores de aletas. Colocar la placa protectora del depósito de combustible y atornillarla con una llave fija de 14 mm, Fig. 27.",
+          "runs": [
+            {
+              "text": "Asegurar las tuercas almenadas con pasadores de aletas. Colocar la placa protectora del depósito de combustible y atornillarla con una llave fija de 14 mm, Fig. 27.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para03",
+      "text": {
+        "de": {
+          "plain": "Schrauben durch Umbiegen der Blechsicherungen sichern.",
+          "runs": [
+            {
+              "text": "Schrauben durch Umbiegen der Blechsicherungen sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the screws by bending over the sheet-metal locks.",
+          "runs": [
+            {
+              "text": "Secure the screws by bending over the sheet-metal locks.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar los tornillos doblando las chapas de seguridad.",
+          "runs": [
+            {
+              "text": "Asegurar los tornillos doblando las chapas de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para04",
+      "text": {
+        "de": {
+          "plain": "Lüftergehäuse vor den Kühler setzen und es mit den vier Kronenmuttern an die Wanne schrauben. Beim Einbauen des Lüfters die Filzdichtung zwischen Lüfter und Kühler und die seitliche Flucht der Lüfterriemen beachten, Bild 23.",
+          "runs": [
+            {
+              "text": "Lüftergehäuse vor den Kühler setzen und es mit den vier Kronenmuttern an die Wanne schrauben. Beim Einbauen des Lüfters die Filzdichtung zwischen Lüfter und Kühler und die seitliche Flucht der Lüfterriemen beachten, Bild 23.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the fan housing in front of the radiator and bolt it to the hull with the four castle nuts. When fitting the fan, note the felt gasket between the fan and the radiator and the sideways alignment of the fan belts, Fig. 23.",
+          "runs": [
+            {
+              "text": "Fit the fan housing in front of the radiator and bolt it to the hull with the four castle nuts. When fitting the fan, note the felt gasket between the fan and the radiator and the sideways alignment of the fan belts, Fig. 23.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la carcasa del ventilador delante del radiador y atornillarla al casco con las cuatro tuercas almenadas. Al montar el ventilador, tener en cuenta la junta de fieltro entre el ventilador y el radiador y la alineación lateral de las correas del ventilador, Fig. 23.",
+          "runs": [
+            {
+              "text": "Colocar la carcasa del ventilador delante del radiador y atornillarla al casco con las cuatro tuercas almenadas. Al montar el ventilador, tener en cuenta la junta de fieltro entre el ventilador y el radiador y la alineación lateral de las correas del ventilador, Fig. 23.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para05",
+      "text": {
+        "de": {
+          "plain": "Kronenmuttern durch Versplinten sichern.",
+          "runs": [
+            {
+              "text": "Kronenmuttern durch Versplinten sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the castle nuts with split pins.",
+          "runs": [
+            {
+              "text": "Secure the castle nuts with split pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar las tuercas almenadas con pasadores de aletas.",
+          "runs": [
+            {
+              "text": "Asegurar las tuercas almenadas con pasadores de aletas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para06",
+      "text": {
+        "de": {
+          "plain": "Anschlußstutzen der Kühlwasserschläuche mit Dichtungsmasse bestreichen, Schläuche auf die Stutzen schieben und diese mit Schlauchbindern abdichten, Bild 26.",
+          "runs": [
+            {
+              "text": "Anschlußstutzen der Kühlwasserschläuche mit Dichtungsmasse bestreichen, Schläuche auf die Stutzen schieben und diese mit Schlauchbindern abdichten, Bild 26.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Coat the connecting stubs of the coolant hoses with sealing compound, slide the hoses onto the stubs, and seal them with hose clips, Fig. 26.",
+          "runs": [
+            {
+              "text": "Coat the connecting stubs of the coolant hoses with sealing compound, slide the hoses onto the stubs, and seal them with hose clips, Fig. 26.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Untar los racores de conexión de las mangueras de refrigerante con masilla de estanqueidad, deslizar las mangueras sobre los racores y sellarlas con abrazaderas de manguera, Fig. 26.",
+          "runs": [
+            {
+              "text": "Untar los racores de conexión de las mangueras de refrigerante con masilla de estanqueidad, deslizar las mangueras sobre los racores y sellarlas con abrazaderas de manguera, Fig. 26.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para07",
+      "text": {
+        "de": {
+          "plain": "Luftleitblech mit Streben an den rechten Kühler anbauen, Bild 9 u. 10.",
+          "runs": [
+            {
+              "text": "Luftleitblech mit Streben an den rechten Kühler anbauen, Bild 9 u. 10.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the air baffle with the struts to the right-hand radiator, Figs. 9 and 10.",
+          "runs": [
+            {
+              "text": "Fit the air baffle with the struts to the right-hand radiator, Figs. 9 and 10.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el deflector de aire con los puntales en el radiador derecho, Figs. 9 y 10.",
+          "runs": [
+            {
+              "text": "Montar el deflector de aire con los puntales en el radiador derecho, Figs. 9 y 10.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para08",
+      "text": {
+        "de": {
+          "plain": "Lüfterriemen auflegen und diese an der Lüfterriemen-Nachstellvorrichtung spannen, Bild 8 u. 19.",
+          "runs": [
+            {
+              "text": "Lüfterriemen auflegen und diese an der Lüfterriemen-Nachstellvorrichtung spannen, Bild 8 u. 19.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the fan belt and tension it with the fan-belt tensioning device, Figs. 8 and 19.",
+          "runs": [
+            {
+              "text": "Fit the fan belt and tension it with the fan-belt tensioning device, Figs. 8 and 19.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la correa del ventilador y tensarla con el dispositivo de tensado de las correas del ventilador, Figs. 8 y 19.",
+          "runs": [
+            {
+              "text": "Colocar la correa del ventilador y tensarla con el dispositivo de tensado de las correas del ventilador, Figs. 8 y 19.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p021-para09",
+      "text": {
+        "de": {
+          "plain": "Rutschkupplung prüfen, Bild 20.",
+          "runs": [
+            {
+              "text": "Rutschkupplung prüfen, Bild 20.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check the slip clutch, Fig. 20.",
+          "runs": [
+            {
+              "text": "Check the slip clutch, Fig. 20.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar el embrague de fricción, Fig. 20.",
+          "runs": [
+            {
+              "text": "Comprobar el embrague de fricción, Fig. 20.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "not_applicable"
   }
 }

@@ -6,9 +6,9 @@
   "section": "B13",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "13. Zerlegen des Motors",
+    "en-GB": "Section B.13 - Dismantling the engine",
+    "es-ES": "Sección B.13 - Despiece del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild107",
-      "number": 107,
-      "image": "figures/fig107.jpg",
+      "id": "d65250c-bild105",
+      "number": 105,
+      "image": "figures/fig105.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Seitlich des Motorengehäuses mit 17-Steckschlüssel die Verbindungsschrauben entfernen.",
+          "runs": [
+            {
+              "text": "Seitlich des Motorengehäuses mit 17-Steckschlüssel die Verbindungsschrauben entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the side of the engine housing, remove the connecting screws with a 17 mm socket spanner.",
+          "runs": [
+            {
+              "text": "At the side of the engine housing, remove the connecting screws with a 17 mm socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el lateral de la carcasa del motor, retirar los tornillos de unión con una llave de vaso de 17 mm.",
+          "runs": [
+            {
+              "text": "En el lateral de la carcasa del motor, retirar los tornillos de unión con una llave de vaso de 17 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild108",
-      "number": 108,
-      "image": "figures/fig108.jpg",
+      "id": "d65250c-bild106",
+      "number": 106,
+      "image": "figures/fig106.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Durch Aufschrauben einer 12-mm-Mutter die vier Kegelpaßstifte ausziehen.",
+          "runs": [
+            {
+              "text": "Durch Aufschrauben einer 12-mm-Mutter die vier Kegelpaßstifte ausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Withdraw the four taper dowel pins by screwing a 12 mm nut onto each.",
+          "runs": [
+            {
+              "text": "Withdraw the four taper dowel pins by screwing a 12 mm nut onto each.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer las cuatro clavijas cónicas de ajuste enroscando en cada una una tuerca de 12 mm.",
+          "runs": [
+            {
+              "text": "Extraer las cuatro clavijas cónicas de ajuste enroscando en cada una una tuerca de 12 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

@@ -6,9 +6,9 @@
   "section": "B12",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "12. Ausbauen des Motors",
+    "en-GB": "Section B.12 - Removing the engine",
+    "es-ES": "Sección B.12 - Desmontaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild061",
-      "number": 61,
-      "image": "figures/fig061.jpg",
+      "id": "d65250c-bild059",
+      "number": 59,
+      "image": "figures/fig059.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit zwei 19-Maulschlüsseln die Kraftstoffleitung zur elektrischen Kraftstoffpumpe auseinanderschrauben.",
+          "runs": [
+            {
+              "text": "Mit zwei 19-Maulschlüsseln die Kraftstoffleitung zur elektrischen Kraftstoffpumpe auseinanderschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using two 19 mm open-ended spanners, disconnect the fuel line to the electric fuel pump.",
+          "runs": [
+            {
+              "text": "Using two 19 mm open-ended spanners, disconnect the fuel line to the electric fuel pump.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con dos llaves fijas de 19 mm, desconectar la tubería de combustible de la bomba eléctrica de combustible.",
+          "runs": [
+            {
+              "text": "Con dos llaves fijas de 19 mm, desconectar la tubería de combustible de la bomba eléctrica de combustible.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild062",
-      "number": 62,
-      "image": "figures/fig062.jpg",
+      "id": "d65250c-bild060",
+      "number": 60,
+      "image": "figures/fig060.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 19-Maulschlüssel die Kraftstoffleitung von den Kraftstoffpumpen abschrauben.",
+          "runs": [
+            {
+              "text": "Mit 19-Maulschlüssel die Kraftstoffleitung von den Kraftstoffpumpen abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 19 mm open-ended spanner, unscrew the fuel line from the fuel pumps.",
+          "runs": [
+            {
+              "text": "Using a 19 mm open-ended spanner, unscrew the fuel line from the fuel pumps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 19 mm, desenroscar la tubería de combustible de las bombas de combustible.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 19 mm, desenroscar la tubería de combustible de las bombas de combustible.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

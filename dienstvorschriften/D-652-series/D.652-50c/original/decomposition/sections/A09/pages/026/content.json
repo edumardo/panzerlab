@@ -6,9 +6,9 @@
   "section": "A09",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "9. Abbauen des Bugpanzers",
+    "en-GB": "Section A.9 - Removing the bow armour plate",
+    "es-ES": "Sección A.9 - Desmontaje del blindaje delantero (de proa)"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild035",
-      "number": 35,
-      "image": "figures/fig035.jpg",
+      "id": "d65250c-bild033",
+      "number": 33,
+      "image": "figures/fig033.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "An der hinteren Trennwand innerhalb des Kampfraumes die Befestigungsschrauben des Bugpanzers entsichern und diese mit 19-Maulschlüssel entfernen.",
+          "runs": [
+            {
+              "text": "An der hinteren Trennwand innerhalb des Kampfraumes die Befestigungsschrauben des Bugpanzers entsichern und diese mit 19-Maulschlüssel entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the rear bulkhead inside the fighting compartment, unlock the fastening screws of the bow armour plate and remove them with a 19 mm open-ended spanner.",
+          "runs": [
+            {
+              "text": "At the rear bulkhead inside the fighting compartment, unlock the fastening screws of the bow armour plate and remove them with a 19 mm open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el mamparo trasero, dentro de la cámara de combate, desbloquear los tornillos de fijación del blindaje delantero y retirarlos con una llave fija de 19 mm.",
+          "runs": [
+            {
+              "text": "En el mamparo trasero, dentro de la cámara de combate, desbloquear los tornillos de fijación del blindaje delantero y retirarlos con una llave fija de 19 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild036",
-      "number": 36,
-      "image": "figures/fig036.jpg",
+      "id": "d65250c-bild034",
+      "number": 34,
+      "image": "figures/fig034.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 10-Maulschlüssel die Mutter von dem Keilbolzen an dem Lüfterklappenverstellhebel entfernen und Keilbolzen ausschlagen. Welle mit Gestänge vom Motorraum aus zurückziehen.",
+          "runs": [
+            {
+              "text": "Mit 10-Maulschlüssel die Mutter von dem Keilbolzen an dem Lüfterklappenverstellhebel entfernen und Keilbolzen ausschlagen. Welle mit Gestänge vom Motorraum aus zurückziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 10 mm open-ended spanner, remove the nut from the wedge pin on the fan-flap actuating lever and drive out the wedge pin. Withdraw the shaft with its linkage from the engine compartment.",
+          "runs": [
+            {
+              "text": "Using a 10 mm open-ended spanner, remove the nut from the wedge pin on the fan-flap actuating lever and drive out the wedge pin. Withdraw the shaft with its linkage from the engine compartment.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 10 mm, retirar la tuerca del pasador en cuña de la palanca de accionamiento de las compuertas del ventilador y sacar el pasador. Retirar el eje con su varillaje desde la cámara del motor.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 10 mm, retirar la tuerca del pasador en cuña de la palanca de accionamiento de las compuertas del ventilador y sacar el pasador. Retirar el eje con su varillaje desde la cámara del motor.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

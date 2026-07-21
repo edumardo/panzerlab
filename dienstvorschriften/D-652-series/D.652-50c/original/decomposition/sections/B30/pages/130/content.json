@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig235.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Teil 1 Abstandring, Teil 2 Reibscheibe, Teil 3 Reibbeläge, Teil 4 Schwingscheiben, Teil 5 Druckfedern mit zwei Führungshülsen, Teil 6 Riemenscheibe.",
+          "runs": [
+            {
+              "text": "Teil 1 Abstandring, Teil 2 Reibscheibe, Teil 3 Reibbeläge, Teil 4 Schwingscheiben, Teil 5 Druckfedern mit zwei Führungshülsen, Teil 6 Riemenscheibe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Part 1 spacer ring, Part 2 friction disc, Part 3 friction linings, Part 4 flex plates, Part 5 pressure springs with two guide sleeves, Part 6 belt pulley.",
+          "runs": [
+            {
+              "text": "Part 1 spacer ring, Part 2 friction disc, Part 3 friction linings, Part 4 flex plates, Part 5 pressure springs with two guide sleeves, Part 6 belt pulley.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Pieza 1 anillo distanciador, Pieza 2 disco de fricción, Pieza 3 forros de fricción, Pieza 4 discos oscilantes, Pieza 5 resortes de presión con dos casquillos guía, Pieza 6 polea.",
+          "runs": [
+            {
+              "text": "Pieza 1 anillo distanciador, Pieza 2 disco de fricción, Pieza 3 forros de fricción, Pieza 4 discos oscilantes, Pieza 5 resortes de presión con dos casquillos guía, Pieza 6 polea.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig236.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Abstandring und Reibscheibe auf den Ansatz der Kurbelwelle legen, Teil 1 und 2. Zu beiden Seiten der Schwingscheiben, Teil 4, welche vorher mit zwei Befestigungsschrauben zusammengebaut werden, Bild 101, die Reibbeläge einsetzen, Teil 3, und diese ebenfalls auf den Ansatz der Kurbelwelle führen. Riemenscheibe in den Reibbelag der Schwingscheibe führen, Teil 6, und den gesamten Schwingungsdämpfer mit der Kurbelwelle verschrauben. Befestigungsschrauben durch Einziehen eines Bindedrahtes sichern.",
+          "runs": [
+            {
+              "text": "Abstandring und Reibscheibe auf den Ansatz der Kurbelwelle legen, Teil 1 und 2. Zu beiden Seiten der Schwingscheiben, Teil 4, welche vorher mit zwei Befestigungsschrauben zusammengebaut werden, Bild 101, die Reibbeläge einsetzen, Teil 3, und diese ebenfalls auf den Ansatz der Kurbelwelle führen. Riemenscheibe in den Reibbelag der Schwingscheibe führen, Teil 6, und den gesamten Schwingungsdämpfer mit der Kurbelwelle verschrauben. Befestigungsschrauben durch Einziehen eines Bindedrahtes sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the spacer ring and friction disc onto the crankshaft spigot, Parts 1 and 2. Fit the friction linings, Part 3, on both sides of the flex plates, Part 4, which are first assembled with two fastening screws, Fig. 101, and guide these likewise onto the crankshaft spigot. Guide the belt pulley into the friction lining of the flex plate, Part 6, and bolt the complete vibration damper to the crankshaft. Secure the fastening screws by threading a binding wire through them.",
+          "runs": [
+            {
+              "text": "Place the spacer ring and friction disc onto the crankshaft spigot, Parts 1 and 2. Fit the friction linings, Part 3, on both sides of the flex plates, Part 4, which are first assembled with two fastening screws, Fig. 101, and guide these likewise onto the crankshaft spigot. Guide the belt pulley into the friction lining of the flex plate, Part 6, and bolt the complete vibration damper to the crankshaft. Secure the fastening screws by threading a binding wire through them.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo distanciador y el disco de fricción sobre el resalte del cigüeñal, Piezas 1 y 2. Colocar los forros de fricción, Pieza 3, a ambos lados de los discos oscilantes, Pieza 4, que se ensamblan previamente con dos tornillos de fijación, Fig. 101, y guiarlos igualmente sobre el resalte del cigüeñal. Guiar la polea hasta el forro de fricción del disco oscilante, Pieza 6, y atornillar el amortiguador de vibraciones completo al cigüeñal. Asegurar los tornillos de fijación pasando un alambre de atado por ellos.",
+          "runs": [
+            {
+              "text": "Colocar el anillo distanciador y el disco de fricción sobre el resalte del cigüeñal, Piezas 1 y 2. Colocar los forros de fricción, Pieza 3, a ambos lados de los discos oscilantes, Pieza 4, que se ensamblan previamente con dos tornillos de fijación, Fig. 101, y guiarlos igualmente sobre el resalte del cigüeñal. Guiar la polea hasta el forro de fricción del disco oscilante, Pieza 6, y atornillar el amortiguador de vibraciones completo al cigüeñal. Asegurar los tornillos de fijación pasando un alambre de atado por ellos.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

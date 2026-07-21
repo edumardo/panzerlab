@@ -6,9 +6,9 @@
   "section": "B28",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "28. Zerlegen des Vergasers",
+    "en-GB": "Section B.28 - Dismantling the carburettor",
+    "es-ES": "Sección B.28 - Desarmado del carburador"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig209.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Schwimmer-Halteschraube ganz herausschrauben und Schwimmer aus dem Vergaser heben. Kleinen Vorlegering beachten.",
+          "runs": [
+            {
+              "text": "Schwimmer-Halteschraube ganz herausschrauben und Schwimmer aus dem Vergaser heben. Kleinen Vorlegering beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the float retaining screw completely and lift the float out of the carburettor. Note the small spacer ring.",
+          "runs": [
+            {
+              "text": "Unscrew the float retaining screw completely and lift the float out of the carburettor. Note the small spacer ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar por completo el tornillo de sujeción del flotador y extraer el flotador del carburador. Tener en cuenta el pequeño anillo distanciador.",
+          "runs": [
+            {
+              "text": "Desenroscar por completo el tornillo de sujeción del flotador y extraer el flotador del carburador. Tener en cuenta el pequeño anillo distanciador.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig210.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Schwimmer erneuern und diesen in umgekehrter Reihenfolge wieder einbauen. Freilaufbrücke mit Lehre oder Abmessen auf gleichmäßige Höhe prüfen.",
+          "runs": [
+            {
+              "text": "Schwimmer erneuern und diesen in umgekehrter Reihenfolge wieder einbauen. Freilaufbrücke mit Lehre oder Abmessen auf gleichmäßige Höhe prüfen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Replace the float and refit it in reverse order. Check the free-travel bridge for even height using a gauge or by measuring.",
+          "runs": [
+            {
+              "text": "Replace the float and refit it in reverse order. Check the free-travel bridge for even height using a gauge or by measuring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sustituir el flotador y volver a montarlo en orden inverso. Comprobar que el puente de recorrido libre tiene una altura uniforme con una galga o mediante medición.",
+          "runs": [
+            {
+              "text": "Sustituir el flotador y volver a montarlo en orden inverso. Comprobar que el puente de recorrido libre tiene una altura uniforme con una galga o mediante medición.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

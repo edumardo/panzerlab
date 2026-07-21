@@ -6,9 +6,9 @@
   "section": "B13",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "13. Zerlegen des Motors",
+    "en-GB": "Section B.13 - Dismantling the engine",
+    "es-ES": "Sección B.13 - Despiece del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild101",
-      "number": 101,
-      "image": "figures/fig101.jpg",
+      "id": "d65250c-bild099",
+      "number": 99,
+      "image": "figures/fig099.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 14-Maulschlüssel die zwei Schrauben aus dem Abschlußdeckel zur Antriebswelle der Öl- und Kraftstoffpumpen entfernen.",
+          "runs": [
+            {
+              "text": "Mit 14-Maulschlüssel die zwei Schrauben aus dem Abschlußdeckel zur Antriebswelle der Öl- und Kraftstoffpumpen entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, remove the two screws from the end cover of the drive shaft for the oil and fuel pumps.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, remove the two screws from the end cover of the drive shaft for the oil and fuel pumps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, retirar los dos tornillos de la tapa de cierre del eje de accionamiento de las bombas de aceite y combustible.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, retirar los dos tornillos de la tapa de cierre del eje de accionamiento de las bombas de aceite y combustible.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild102",
-      "number": 102,
-      "image": "figures/fig102.jpg",
+      "id": "d65250c-bild100",
+      "number": 100,
+      "image": "figures/fig100.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 14-Steckschlüssel die Schrauben aus dem Gelenkwellenflansch der Lüftergelenkwelle entfernen.",
+          "runs": [
+            {
+              "text": "Mit 14-Steckschlüssel die Schrauben aus dem Gelenkwellenflansch der Lüftergelenkwelle entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm socket spanner, remove the screws from the cardan-shaft flange of the fan cardan shaft.",
+          "runs": [
+            {
+              "text": "Using a 14 mm socket spanner, remove the screws from the cardan-shaft flange of the fan cardan shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de vaso de 14 mm, retirar los tornillos de la brida del árbol de transmisión del ventilador.",
+          "runs": [
+            {
+              "text": "Con una llave de vaso de 14 mm, retirar los tornillos de la brida del árbol de transmisión del ventilador.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

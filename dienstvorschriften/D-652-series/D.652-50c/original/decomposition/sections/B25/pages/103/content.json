@@ -6,9 +6,9 @@
   "section": "B25",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "25. Zusammenbau des elektrischen Anlassers",
+    "en-GB": "Section B.25 - Assembling the electric starter",
+    "es-ES": "Sección B.25 - Montaje del motor de arranque eléctrico"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig184.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Beschädigte Teile des Antriebes durch neue ersetzen und diese wieder einbauen, Bild 182 (Kupplung, Ritzel usw.). Anker des Anlassers in das Gehäuse führen.",
+          "runs": [
+            {
+              "text": "Beschädigte Teile des Antriebes durch neue ersetzen und diese wieder einbauen, Bild 182 (Kupplung, Ritzel usw.). Anker des Anlassers in das Gehäuse führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Replace any damaged drive parts with new ones and refit them, Fig. 182 (clutch, pinion, etc.). Guide the starter armature into the housing.",
+          "runs": [
+            {
+              "text": "Replace any damaged drive parts with new ones and refit them, Fig. 182 (clutch, pinion, etc.). Guide the starter armature into the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sustituir las piezas dañadas del mecanismo de accionamiento por otras nuevas y volver a montarlas, Fig. 182 (embrague, piñón, etc.). Introducir el inducido del motor de arranque en la carcasa.",
+          "runs": [
+            {
+              "text": "Sustituir las piezas dañadas del mecanismo de accionamiento por otras nuevas y volver a montarlas, Fig. 182 (embrague, piñón, etc.). Introducir el inducido del motor de arranque en la carcasa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig185.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schraubenzieher die vier langen Verbindungsbolzen einschrauben. In dem vorderen Lagerdeckel den Paßstift beachten.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher die vier langen Verbindungsbolzen einschrauben. In dem vorderen Lagerdeckel den Paßstift beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver, screw in the four long connecting bolts. Note the dowel pin in the front bearing cover.",
+          "runs": [
+            {
+              "text": "Using a screwdriver, screw in the four long connecting bolts. Note the dowel pin in the front bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador, enroscar los cuatro pernos de unión largos. Tener en cuenta la clavija de ajuste en la tapa de cojinete delantera.",
+          "runs": [
+            {
+              "text": "Con un destornillador, enroscar los cuatro pernos de unión largos. Tener en cuenta la clavija de ajuste en la tapa de cojinete delantera.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

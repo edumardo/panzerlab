@@ -6,9 +6,9 @@
   "section": "B31",
   "type": "text",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "31. Einbauen des Motors",
+    "en-GB": "Section B.31 - Installing the engine",
+    "es-ES": "Sección B.31 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -20,12 +20,429 @@
     "previous": "d65250c-page-141",
     "next": "d65250c-page-143"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "d65250c-p142-para01",
+      "text": {
+        "de": {
+          "plain": "Motor mit Hebezeug bis etwa 30 cm über dem Wannenboden in die Wanne senken, Bild 72.",
+          "runs": [
+            {
+              "text": "Motor mit Hebezeug bis etwa 30 cm über dem Wannenboden in die Wanne senken, Bild 72.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lower the engine into the hull with a hoist to about 30 cm above the hull floor, Fig. 72.",
+          "runs": [
+            {
+              "text": "Lower the engine into the hull with a hoist to about 30 cm above the hull floor, Fig. 72.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Bajar el motor con un aparejo hasta unos 30 cm por encima del fondo del casco, Fig. 72.",
+          "runs": [
+            {
+              "text": "Bajar el motor con un aparejo hasta unos 30 cm por encima del fondo del casco, Fig. 72.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para02",
+      "text": {
+        "de": {
+          "plain": "Anschlußleitung der Lichtmaschine innerhalb der Anschlußdose anschließen und den Deckel aufschrauben.",
+          "runs": [
+            {
+              "text": "Anschlußleitung der Lichtmaschine innerhalb der Anschlußdose anschließen und den Deckel aufschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Connect the dynamo lead inside the connection box and screw on the cover.",
+          "runs": [
+            {
+              "text": "Connect the dynamo lead inside the connection box and screw on the cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conectar el cable de la dinamo dentro de la caja de conexión y atornillar la tapa.",
+          "runs": [
+            {
+              "text": "Conectar el cable de la dinamo dentro de la caja de conexión y atornillar la tapa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para03",
+      "text": {
+        "de": {
+          "plain": "Motor ganz in die Wanne einführen. Darauf achten, daß das Luftabsaugerohr der Lichtmaschine gleich mit eingeführt wird.",
+          "runs": [
+            {
+              "text": "Motor ganz in die Wanne einführen. Darauf achten, daß das Luftabsaugerohr der Lichtmaschine gleich mit eingeführt wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the engine fully into the hull. Make sure the dynamo air-extraction pipe is guided in at the same time.",
+          "runs": [
+            {
+              "text": "Guide the engine fully into the hull. Make sure the dynamo air-extraction pipe is guided in at the same time.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el motor por completo en el casco. Asegurarse de que el tubo de aspiración de aire de la dinamo se introduce al mismo tiempo.",
+          "runs": [
+            {
+              "text": "Introducir el motor por completo en el casco. Asegurarse de que el tubo de aspiración de aire de la dinamo se introduce al mismo tiempo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para04",
+      "text": {
+        "de": {
+          "plain": "Unterhalb des Ölkühlers und der Lichtmaschine die Befestigungsschrauben der hinteren Motorbefestigung einführen. Federringe auf die Schrauben legen und Muttern mit 17-Maulschlüssel, Bild 62 und 63, anschrauben.",
+          "runs": [
+            {
+              "text": "Unterhalb des Ölkühlers und der Lichtmaschine die Befestigungsschrauben der hinteren Motorbefestigung einführen. Federringe auf die Schrauben legen und Muttern mit 17-Maulschlüssel, Bild 62 und 63, anschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Below the oil cooler and the dynamo, insert the fastening screws of the rear engine mount. Fit spring washers onto the screws and screw on the nuts with a 17 mm open-ended spanner, Figs. 62 and 63.",
+          "runs": [
+            {
+              "text": "Below the oil cooler and the dynamo, insert the fastening screws of the rear engine mount. Fit spring washers onto the screws and screw on the nuts with a 17 mm open-ended spanner, Figs. 62 and 63.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Debajo del radiador de aceite y de la dinamo, introducir los tornillos de fijación del soporte de motor trasero. Colocar arandelas elásticas en los tornillos y enroscar las tuercas con una llave fija de 17 mm, Figs. 62 y 63.",
+          "runs": [
+            {
+              "text": "Debajo del radiador de aceite y de la dinamo, introducir los tornillos de fijación del soporte de motor trasero. Colocar arandelas elásticas en los tornillos y enroscar las tuercas con una llave fija de 17 mm, Figs. 62 y 63.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para05",
+      "text": {
+        "de": {
+          "plain": "Rechten vorderen Motoraufhängebock mit zwei Schrauben festschrauben und Schrauben durch Umbiegen der Blechsicherungen sichern. Anlasserleitung zusammenschrauben und über die Verbindungsstellen die Isolierschläuche schieben, Bild 71. Kurzschlußleitung des Schnapper-Magnetzünders anschließen. Am vorderen linken Motoraufhängebock die obere Lagerhälfte mit den vier Schrauben festschrauben, Bild 70. Schrauben durch Umbiegen der Blechsicherungen sichern.",
+          "runs": [
+            {
+              "text": "Rechten vorderen Motoraufhängebock mit zwei Schrauben festschrauben und Schrauben durch Umbiegen der Blechsicherungen sichern. Anlasserleitung zusammenschrauben und über die Verbindungsstellen die Isolierschläuche schieben, Bild 71. Kurzschlußleitung des Schnapper-Magnetzünders anschließen. Am vorderen linken Motoraufhängebock die obere Lagerhälfte mit den vier Schrauben festschrauben, Bild 70. Schrauben durch Umbiegen der Blechsicherungen sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt down the right-hand front engine-mount bracket with two screws and secure the screws by bending over the sheet-metal locks. Screw the starter cable together and slide the insulating sleeves over the connection points, Fig. 71. Connect the short-circuit lead of the impulse magneto. At the front left-hand engine-mount bracket, bolt the upper bearing half down with the four screws, Fig. 70. Secure the screws by bending over the sheet-metal locks.",
+          "runs": [
+            {
+              "text": "Bolt down the right-hand front engine-mount bracket with two screws and secure the screws by bending over the sheet-metal locks. Screw the starter cable together and slide the insulating sleeves over the connection points, Fig. 71. Connect the short-circuit lead of the impulse magneto. At the front left-hand engine-mount bracket, bolt the upper bearing half down with the four screws, Fig. 70. Secure the screws by bending over the sheet-metal locks.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el soporte de motor delantero derecho con dos tornillos y asegurar los tornillos doblando las chapas de seguridad. Enroscar el cable de arranque y deslizar los manguitos aislantes sobre los puntos de conexión, Fig. 71. Conectar el cable de cortocircuito del magneto de impulso. En el soporte de motor delantero izquierdo, atornillar la mitad superior del cojinete con los cuatro tornillos, Fig. 70. Asegurar los tornillos doblando las chapas de seguridad.",
+          "runs": [
+            {
+              "text": "Atornillar el soporte de motor delantero derecho con dos tornillos y asegurar los tornillos doblando las chapas de seguridad. Enroscar el cable de arranque y deslizar los manguitos aislantes sobre los puntos de conexión, Fig. 71. Conectar el cable de cortocircuito del magneto de impulso. En el soporte de motor delantero izquierdo, atornillar la mitad superior del cojinete con los cuatro tornillos, Fig. 70. Asegurar los tornillos doblando las chapas de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para06",
+      "text": {
+        "de": {
+          "plain": "Lüftergelenkwelle an die Riemenscheibe bauen, Bild 50.",
+          "runs": [
+            {
+              "text": "Lüftergelenkwelle an die Riemenscheibe bauen, Bild 50.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the fan cardan shaft to the belt pulley, Fig. 50.",
+          "runs": [
+            {
+              "text": "Fit the fan cardan shaft to the belt pulley, Fig. 50.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el árbol de transmisión del ventilador en la polea, Fig. 50.",
+          "runs": [
+            {
+              "text": "Montar el árbol de transmisión del ventilador en la polea, Fig. 50.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para07",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle und Einrückgestänge des Schwungkraftanlassers durch die Bohrungen des Luftleitbleches führen und diese mit den Bolzen und Kugelgelenken, Bild 47 bis 49, verbinden.",
+          "runs": [
+            {
+              "text": "Gelenkwelle und Einrückgestänge des Schwungkraftanlassers durch die Bohrungen des Luftleitbleches führen und diese mit den Bolzen und Kugelgelenken, Bild 47 bis 49, verbinden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the cardan shaft and the engagement linkage of the inertia starter through the bores of the air baffle and connect them with the bolts and ball joints, Figs. 47 to 49.",
+          "runs": [
+            {
+              "text": "Guide the cardan shaft and the engagement linkage of the inertia starter through the bores of the air baffle and connect them with the bolts and ball joints, Figs. 47 to 49.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Guiar el árbol de transmisión y el varillaje de embrague del arranque de inercia por los taladros del deflector de aire y conectarlos con los pernos y las rótulas, Figs. 47 a 49.",
+          "runs": [
+            {
+              "text": "Guiar el árbol de transmisión y el varillaje de embrague del arranque de inercia por los taladros del deflector de aire y conectarlos con los pernos y las rótulas, Figs. 47 a 49.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para08",
+      "text": {
+        "de": {
+          "plain": "Am hinteren Ende des Motors am Flansch der Gelenkwellenlagerung und am vorderen linken Befestigungsbock die Masseleitung anschrauben, Bild 51 bis 52.",
+          "runs": [
+            {
+              "text": "Am hinteren Ende des Motors am Flansch der Gelenkwellenlagerung und am vorderen linken Befestigungsbock die Masseleitung anschrauben, Bild 51 bis 52.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the rear end of the engine, bolt the earth lead to the flange of the cardan-shaft bearing and to the front left-hand fastening bracket, Figs. 51 to 52.",
+          "runs": [
+            {
+              "text": "At the rear end of the engine, bolt the earth lead to the flange of the cardan-shaft bearing and to the front left-hand fastening bracket, Figs. 51 to 52.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el extremo trasero del motor, atornillar el cable de masa a la brida del cojinete del árbol de transmisión y al soporte de fijación delantero izquierdo, Figs. 51 a 52.",
+          "runs": [
+            {
+              "text": "En el extremo trasero del motor, atornillar el cable de masa a la brida del cojinete del árbol de transmisión y al soporte de fijación delantero izquierdo, Figs. 51 a 52.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para09",
+      "text": {
+        "de": {
+          "plain": "Rohrleitungen der Kraftstoffpumpen des Kraftstoffilters sowie die Ölleitung des Spaltfilters anschließen, Bild 59 bis 61.",
+          "runs": [
+            {
+              "text": "Rohrleitungen der Kraftstoffpumpen des Kraftstoffilters sowie die Ölleitung des Spaltfilters anschließen, Bild 59 bis 61.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Connect the pipelines of the fuel pumps of the fuel filter, and the oil line of the slot filter, Figs. 59 to 61.",
+          "runs": [
+            {
+              "text": "Connect the pipelines of the fuel pumps of the fuel filter, and the oil line of the slot filter, Figs. 59 to 61.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conectar las tuberías de las bombas de combustible del filtro de combustible, y la tubería de aceite del filtro de ranura, Figs. 59 a 61.",
+          "runs": [
+            {
+              "text": "Conectar las tuberías de las bombas de combustible del filtro de combustible, y la tubería de aceite del filtro de ranura, Figs. 59 a 61.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para10",
+      "text": {
+        "de": {
+          "plain": "Überwurfmuttern der Kraftstoffleitung mit Drahtsicherungen sichern.",
+          "runs": [
+            {
+              "text": "Überwurfmuttern der Kraftstoffleitung mit Drahtsicherungen sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the union nuts of the fuel line with locking wire.",
+          "runs": [
+            {
+              "text": "Secure the union nuts of the fuel line with locking wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar las tuercas de unión de la tubería de combustible con alambre de seguridad.",
+          "runs": [
+            {
+              "text": "Asegurar las tuercas de unión de la tubería de combustible con alambre de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para11",
+      "text": {
+        "de": {
+          "plain": "Die oberen Kühlwasserrohre mit den vorderen Anschlüssen auf die Rohrstutzen des Motors und die hintere Seite an den rechten Kühler führen. Dichtungsmasse an die Anschlußstellen der Kühlwasserschläuche bringen und Schlauchbinder umlegen, Bild 57 und 58. Unterhalb des Motors die Rohrleitungen mit den Kühlwasserschläuchen verbinden und Schlauchbinder umlegen, Bild 55 und 56.",
+          "runs": [
+            {
+              "text": "Die oberen Kühlwasserrohre mit den vorderen Anschlüssen auf die Rohrstutzen des Motors und die hintere Seite an den rechten Kühler führen. Dichtungsmasse an die Anschlußstellen der Kühlwasserschläuche bringen und Schlauchbinder umlegen, Bild 57 und 58. Unterhalb des Motors die Rohrleitungen mit den Kühlwasserschläuchen verbinden und Schlauchbinder umlegen, Bild 55 und 56.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the upper coolant pipes, with the front connections onto the engine stubs and the rear side to the right-hand radiator. Apply sealing compound to the connection points of the coolant hoses and fit the hose clips, Figs. 57 and 58. Below the engine, connect the pipelines to the coolant hoses and fit the hose clips, Figs. 55 and 56.",
+          "runs": [
+            {
+              "text": "Guide the upper coolant pipes, with the front connections onto the engine stubs and the rear side to the right-hand radiator. Apply sealing compound to the connection points of the coolant hoses and fit the hose clips, Figs. 57 and 58. Below the engine, connect the pipelines to the coolant hoses and fit the hose clips, Figs. 55 and 56.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Guiar los tubos de refrigerante superiores, con las conexiones delanteras hacia los racores del motor y el lado trasero hacia el radiador derecho. Aplicar masilla de estanqueidad en los puntos de conexión de las mangueras de refrigerante y colocar las abrazaderas de manguera, Figs. 57 y 58. Debajo del motor, conectar las tuberías a las mangueras de refrigerante y colocar las abrazaderas de manguera, Figs. 55 y 56.",
+          "runs": [
+            {
+              "text": "Guiar los tubos de refrigerante superiores, con las conexiones delanteras hacia los racores del motor y el lado trasero hacia el radiador derecho. Aplicar masilla de estanqueidad en los puntos de conexión de las mangueras de refrigerante y colocar las abrazaderas de manguera, Figs. 57 y 58. Debajo del motor, conectar las tuberías a las mangueras de refrigerante y colocar las abrazaderas de manguera, Figs. 55 y 56.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para12",
+      "text": {
+        "de": {
+          "plain": "An der vorderen Seite an den oberen Kühlwasserrohren die Leitung zum Kühlwasser-Temperaturanzeiger anschrauben, Bild 53.",
+          "runs": [
+            {
+              "text": "An der vorderen Seite an den oberen Kühlwasserrohren die Leitung zum Kühlwasser-Temperaturanzeiger anschrauben, Bild 53.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the front side, on the upper coolant pipes, bolt on the line to the coolant temperature gauge, Fig. 53.",
+          "runs": [
+            {
+              "text": "At the front side, on the upper coolant pipes, bolt on the line to the coolant temperature gauge, Fig. 53.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el lado delantero, en los tubos de refrigerante superiores, atornillar la línea al indicador de temperatura del refrigerante, Fig. 53.",
+          "runs": [
+            {
+              "text": "En el lado delantero, en los tubos de refrigerante superiores, atornillar la línea al indicador de temperatura del refrigerante, Fig. 53.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p142-para13",
+      "text": {
+        "de": {
+          "plain": "Bei der älteren Ausführung das Luftfiltergehäuse und bei neueren Ausführungen die Querträger an die Trennwand bauen, Bild 68 und 69.",
+          "runs": [
+            {
+              "text": "Bei der älteren Ausführung das Luftfiltergehäuse und bei neueren Ausführungen die Querträger an die Trennwand bauen, Bild 68 und 69.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the older version, fit the air-filter housing, and on the newer versions, fit the cross members, to the bulkhead, Figs. 68 and 69.",
+          "runs": [
+            {
+              "text": "On the older version, fit the air-filter housing, and on the newer versions, fit the cross members, to the bulkhead, Figs. 68 and 69.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En la versión antigua, montar la carcasa del filtro de aire, y en las versiones más modernas, montar los travesaños, en el mamparo, Figs. 68 y 69.",
+          "runs": [
+            {
+              "text": "En la versión antigua, montar la carcasa del filtro de aire, y en las versiones más modernas, montar los travesaños, en el mamparo, Figs. 68 y 69.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "not_applicable"
   }
 }

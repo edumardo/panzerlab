@@ -6,9 +6,9 @@
   "section": "A09",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "9. Abbauen des Bugpanzers",
+    "en-GB": "Section A.9 - Removing the bow armour plate",
+    "es-ES": "Sección A.9 - Desmontaje del blindaje delantero (de proa)"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild033",
-      "number": 33,
-      "image": "figures/fig033.jpg",
+      "id": "d65250c-bild031",
+      "number": 31,
+      "image": "figures/fig031.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Geschütz ausbauen. Seitliche Befestigungsschrauben des Bugpanzers mit 22-Steck- und Maulschlüssel abschrauben.",
+          "runs": [
+            {
+              "text": "Geschütz ausbauen. Seitliche Befestigungsschrauben des Bugpanzers mit 22-Steck- und Maulschlüssel abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the gun. Unscrew the side fastening screws of the bow armour plate with a 22 mm socket and open-ended spanner.",
+          "runs": [
+            {
+              "text": "Remove the gun. Unscrew the side fastening screws of the bow armour plate with a 22 mm socket and open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontar el cañón. Desenroscar los tornillos de fijación laterales del blindaje delantero con una llave de vaso y una llave fija de 22 mm.",
+          "runs": [
+            {
+              "text": "Desmontar el cañón. Desenroscar los tornillos de fijación laterales del blindaje delantero con una llave de vaso y una llave fija de 22 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild034",
-      "number": 34,
-      "image": "figures/fig034.jpg",
+      "id": "d65250c-bild032",
+      "number": 32,
+      "image": "figures/fig032.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Über der mittleren Stützrolle bei stark festsitzenden oder sich drehenden Muttern die Kettenabdeckung entfernen und die Befestigungsschrauben mit geraden 22-Ringschlüsseln ausschrauben.",
+          "runs": [
+            {
+              "text": "Über der mittleren Stützrolle bei stark festsitzenden oder sich drehenden Muttern die Kettenabdeckung entfernen und die Befestigungsschrauben mit geraden 22-Ringschlüsseln ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Above the centre support roller, if the nuts are badly seized or turning, remove the track guard and unscrew the fastening screws with straight 22 mm ring spanners.",
+          "runs": [
+            {
+              "text": "Above the centre support roller, if the nuts are badly seized or turning, remove the track guard and unscrew the fastening screws with straight 22 mm ring spanners.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Encima del rodillo tensor central, si las tuercas están muy agarrotadas o giran, retirar el guardacadenas y desenroscar los tornillos de fijación con llaves de estrella rectas de 22 mm.",
+          "runs": [
+            {
+              "text": "Encima del rodillo tensor central, si las tuercas están muy agarrotadas o giran, retirar el guardacadenas y desenroscar los tornillos de fijación con llaves de estrella rectas de 22 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig240.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Unter und auf dem Vergaserzwischenstück neue Dichtungen legen und Vergaser mit den Muttern festschrauben. Kugelgelenke der Vergasergestänge aufdrücken und die Zugfedern einhängen. Kraftstoffleitung mit den beiden Lochschrauben an den Vergaser festschrauben, Dichtung beachten!",
+          "runs": [
+            {
+              "text": "Unter und auf dem Vergaserzwischenstück neue Dichtungen legen und Vergaser mit den Muttern festschrauben. Kugelgelenke der Vergasergestänge aufdrücken und die Zugfedern einhängen. Kraftstoffleitung mit den beiden Lochschrauben an den Vergaser festschrauben, Dichtung beachten!",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit new gaskets above and below the carburettor spacer piece and bolt the carburettor down with the nuts. Press the ball joints of the carburettor linkages into place and hook on the return springs. Bolt the fuel line to the carburettor with the two hollow screws, noting the gasket!",
+          "runs": [
+            {
+              "text": "Fit new gaskets above and below the carburettor spacer piece and bolt the carburettor down with the nuts. Press the ball joints of the carburettor linkages into place and hook on the return springs. Bolt the fuel line to the carburettor with the two hollow screws, noting the gasket!",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar juntas nuevas por encima y por debajo de la pieza distanciadora del carburador y atornillar el carburador con las tuercas. Encajar a presión las rótulas de los varillajes del carburador y enganchar los resortes de retorno. Atornillar la tubería de combustible al carburador con los dos tornillos huecos, ¡sin olvidar la junta!",
+          "runs": [
+            {
+              "text": "Colocar juntas nuevas por encima y por debajo de la pieza distanciadora del carburador y atornillar el carburador con las tuercas. Encajar a presión las rótulas de los varillajes del carburador y enganchar los resortes de retorno. Atornillar la tubería de combustible al carburador con los dos tornillos huecos, ¡sin olvidar la junta!",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig241.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Neue Dichtung auf das Motorgehäuse legen. Wasserpumpe aufsetzen, diese mit den vier Befestigungsschrauben festschrauben.",
+          "runs": [
+            {
+              "text": "Neue Dichtung auf das Motorgehäuse legen. Wasserpumpe aufsetzen, diese mit den vier Befestigungsschrauben festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place a new gasket on the engine housing. Fit the water pump and bolt it down with the four fastening screws.",
+          "runs": [
+            {
+              "text": "Place a new gasket on the engine housing. Fit the water pump and bolt it down with the four fastening screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar una junta nueva en la carcasa del motor. Montar la bomba de agua y atornillarla con los cuatro tornillos de fijación.",
+          "runs": [
+            {
+              "text": "Colocar una junta nueva en la carcasa del motor. Montar la bomba de agua y atornillarla con los cuatro tornillos de fijación.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

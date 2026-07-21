@@ -6,9 +6,9 @@
   "section": "B26",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "26. Auswechseln des Anlasserritzels am Schwungkraftanlasser",
+    "en-GB": "Section B.26 - Replacing the pinion on the inertia starter",
+    "es-ES": "Sección B.26 - Sustitución del piñón de arranque en el arranque de inercia"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig192.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schraubenzieher in der dafür vorgesehenen Aussparung den Lagerdeckel abdrücken.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher in der dafür vorgesehenen Aussparung den Lagerdeckel abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver in the recess provided for the purpose, press off the bearing cover.",
+          "runs": [
+            {
+              "text": "Using a screwdriver in the recess provided for the purpose, press off the bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador, en la muesca prevista para ello, separar la tapa de cojinete a presión.",
+          "runs": [
+            {
+              "text": "Con un destornillador, en la muesca prevista para ello, separar la tapa de cojinete a presión.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig193.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Innenteile reinigen und diese mit einigen Tropfen Öl einölen. Den vorderen Lagerdeckel wieder vorbauen.",
+          "runs": [
+            {
+              "text": "Innenteile reinigen und diese mit einigen Tropfen Öl einölen. Den vorderen Lagerdeckel wieder vorbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clean the internal parts and oil them with a few drops of oil. Refit the front bearing cover.",
+          "runs": [
+            {
+              "text": "Clean the internal parts and oil them with a few drops of oil. Refit the front bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpiar las piezas interiores y engrasarlas con unas gotas de aceite. Volver a montar la tapa de cojinete delantera.",
+          "runs": [
+            {
+              "text": "Limpiar las piezas interiores y engrasarlas con unas gotas de aceite. Volver a montar la tapa de cojinete delantera.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

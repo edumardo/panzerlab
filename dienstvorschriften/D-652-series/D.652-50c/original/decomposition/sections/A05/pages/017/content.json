@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "5. Ausbauen des rechten Lüfters und Kühlers (ohne Motorausbau)",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Section A.5 - Removing the right-hand fan and radiator (without removing the engine)",
+    "es-ES": "Sección A.5 - Desmontaje del ventilador y radiador derechos (sin desmontar el motor)"
   },
   "source": {
     "image": "source.jpg",
@@ -37,8 +37,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Remove the rear armour plate (Heckpanzer), Figs. 1 to 4. Remove the air baffle and struts from the right-hand fan (removal as for the left-hand side, Fig. 10). Release the right-hand fan belts at the fan-belt tensioning device and lift them off, Figs. 5 to 8.",
+          "runs": [
+            {
+              "text": "Remove the rear armour plate (Heckpanzer), Figs. 1 to 4. Remove the air baffle and struts from the right-hand fan (removal as for the left-hand side, Fig. 10). Release the right-hand fan belts at the fan-belt tensioning device and lift them off, Figs. 5 to 8.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontar el blindaje trasero (Heckpanzer), Figs. 1 a 4. Desmontar el deflector de aire y los puntales del ventilador derecho (desmontaje igual que en el lado izquierdo, Fig. 10). Aflojar las correas del ventilador derecho en el dispositivo de tensado y retirarlas, Figs. 5 a 8.",
+          "runs": [
+            {
+              "text": "Desmontar el blindaje trasero (Heckpanzer), Figs. 1 a 4. Desmontar el deflector de aire y los puntales del ventilador derecho (desmontaje igual que en el lado izquierdo, Fig. 10). Aflojar las correas del ventilador derecho en el dispositivo de tensado y retirarlas, Figs. 5 a 8.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -61,8 +77,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Unlock the fan-blade fastening screws and remove them with a 14 mm ring spanner.",
+          "runs": [
+            {
+              "text": "Unlock the fan-blade fastening screws and remove them with a 14 mm ring spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desbloquear los tornillos de fijación de las palas del ventilador y retirarlos con una llave de estrella de 14 mm.",
+          "runs": [
+            {
+              "text": "Desbloquear los tornillos de fijación de las palas del ventilador y retirarlos con una llave de estrella de 14 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -73,8 +105,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate_crop"
   }
 }

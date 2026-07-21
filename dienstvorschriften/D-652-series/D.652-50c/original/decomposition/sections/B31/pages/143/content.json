@@ -6,9 +6,9 @@
   "section": "B31",
   "type": "text",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "31. Einbauen des Motors",
+    "en-GB": "Section B.31 - Installing the engine",
+    "es-ES": "Sección B.31 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -20,12 +20,589 @@
     "previous": "d65250c-page-142",
     "next": null
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "d65250c-p143-para01",
+      "text": {
+        "de": {
+          "plain": "Luftfilter einsetzen und Einbauplatte an die Trennwand, Bild 66 und 67, schrauben.",
+          "runs": [
+            {
+              "text": "Luftfilter einsetzen und Einbauplatte an die Trennwand, Bild 66 und 67, schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the air filter and bolt the mounting plate to the bulkhead, Figs. 66 and 67.",
+          "runs": [
+            {
+              "text": "Fit the air filter and bolt the mounting plate to the bulkhead, Figs. 66 and 67.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el filtro de aire y atornillar la placa de montaje al mamparo, Figs. 66 y 67.",
+          "runs": [
+            {
+              "text": "Colocar el filtro de aire y atornillar la placa de montaje al mamparo, Figs. 66 y 67.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para02",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle zum Wechselgetriebe einbauen. Kupplungs- und Gasgestänge, Bild 65, verbinden.",
+          "runs": [
+            {
+              "text": "Gelenkwelle zum Wechselgetriebe einbauen. Kupplungs- und Gasgestänge, Bild 65, verbinden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the cardan shaft to the gearbox. Connect the clutch and throttle linkages, Fig. 65.",
+          "runs": [
+            {
+              "text": "Fit the cardan shaft to the gearbox. Connect the clutch and throttle linkages, Fig. 65.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el árbol de transmisión en la caja de cambios. Conectar los varillajes del embrague y del acelerador, Fig. 65.",
+          "runs": [
+            {
+              "text": "Montar el árbol de transmisión en la caja de cambios. Conectar los varillajes del embrague y del acelerador, Fig. 65.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para03",
+      "text": {
+        "de": {
+          "plain": "Kupplungsvorbau und den Gelenkwellentunnel, Bild 64 und 65, einbauen. Mit den beiden Handschrauben die Vergaserglocke festschrauben und den Verbindungsschlauch mit Schlauchbindern abdichten, Bild 54.",
+          "runs": [
+            {
+              "text": "Kupplungsvorbau und den Gelenkwellentunnel, Bild 64 und 65, einbauen. Mit den beiden Handschrauben die Vergaserglocke festschrauben und den Verbindungsschlauch mit Schlauchbindern abdichten, Bild 54.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the clutch housing extension and the cardan-shaft tunnel, Figs. 64 and 65. Bolt down the carburettor bell housing with the two hand screws and seal the connecting hose with hose clips, Fig. 54.",
+          "runs": [
+            {
+              "text": "Fit the clutch housing extension and the cardan-shaft tunnel, Figs. 64 and 65. Bolt down the carburettor bell housing with the two hand screws and seal the connecting hose with hose clips, Fig. 54.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar la prolongación de la carcasa del embrague y el túnel del árbol de transmisión, Figs. 64 y 65. Atornillar la campana del carburador con los dos tornillos de mano y sellar la manguera de conexión con abrazaderas de manguera, Fig. 54.",
+          "runs": [
+            {
+              "text": "Montar la prolongación de la carcasa del embrague y el túnel del árbol de transmisión, Figs. 64 y 65. Atornillar la campana del carburador con los dos tornillos de mano y sellar la manguera de conexión con abrazaderas de manguera, Fig. 54.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para04",
+      "text": {
+        "de": {
+          "plain": "Zwischen die Flansche der Auspuffrohre eine Asbest-Dichtung legen und diese mit drei Schrauben zusammenschrauben, Bild 45.",
+          "runs": [
+            {
+              "text": "Zwischen die Flansche der Auspuffrohre eine Asbest-Dichtung legen und diese mit drei Schrauben zusammenschrauben, Bild 45.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place an asbestos gasket between the flanges of the exhaust pipes and bolt them together with three screws, Fig. 45.",
+          "runs": [
+            {
+              "text": "Place an asbestos gasket between the flanges of the exhaust pipes and bolt them together with three screws, Fig. 45.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar una junta de amianto entre las bridas de los tubos de escape y unirlas con tres tornillos, Fig. 45.",
+          "runs": [
+            {
+              "text": "Colocar una junta de amianto entre las bridas de los tubos de escape y unirlas con tres tornillos, Fig. 45.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para05",
+      "text": {
+        "de": {
+          "plain": "Ausgleichrohre vorsichtig in die Mitte der beiden Auspuffkrümmer schlagen und Klemmschellen festschrauben, Bild 46.",
+          "runs": [
+            {
+              "text": "Ausgleichrohre vorsichtig in die Mitte der beiden Auspuffkrümmer schlagen und Klemmschellen festschrauben, Bild 46.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Carefully knock the expansion pipes into the middle of the two exhaust manifolds and bolt down the clamp collars, Fig. 46.",
+          "runs": [
+            {
+              "text": "Carefully knock the expansion pipes into the middle of the two exhaust manifolds and bolt down the clamp collars, Fig. 46.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir con cuidado a golpes los tubos de compensación en el centro de los dos colectores de escape y atornillar las abrazaderas, Fig. 46.",
+          "runs": [
+            {
+              "text": "Introducir con cuidado a golpes los tubos de compensación en el centro de los dos colectores de escape y atornillar las abrazaderas, Fig. 46.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para06",
+      "text": {
+        "de": {
+          "plain": "Bei der neueren Ausführung des Pz Kpfw. III bzw. Sturmgeschützes den Munitionskasten unterhalb des Sammlers einbauen.",
+          "runs": [
+            {
+              "text": "Bei der neueren Ausführung des Pz Kpfw. III bzw. Sturmgeschützes den Munitionskasten unterhalb des Sammlers einbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the newer version of the Pz Kpfw III or assault gun, fit the ammunition box beneath the battery.",
+          "runs": [
+            {
+              "text": "On the newer version of the Pz Kpfw III or assault gun, fit the ammunition box beneath the battery.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En la versión más moderna del Pz Kpfw III o del cañón de asalto, montar la caja de munición bajo la batería.",
+          "runs": [
+            {
+              "text": "En la versión más moderna del Pz Kpfw III o del cañón de asalto, montar la caja de munición bajo la batería.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para07",
+      "text": {
+        "de": {
+          "plain": "Sammlerkasten befestigen und an den Versenkgriffen die Sammler einsetzen, Bild 41 und 43.",
+          "runs": [
+            {
+              "text": "Sammlerkasten befestigen und an den Versenkgriffen die Sammler einsetzen, Bild 41 und 43.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fasten the battery box and fit the batteries by their recessed handles, Figs. 41 and 43.",
+          "runs": [
+            {
+              "text": "Fasten the battery box and fit the batteries by their recessed handles, Figs. 41 and 43.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fijar el cajón de la batería y colocar las baterías por sus asas rebajadas, Figs. 41 y 43.",
+          "runs": [
+            {
+              "text": "Fijar el cajón de la batería y colocar las baterías por sus asas rebajadas, Figs. 41 y 43.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para08",
+      "text": {
+        "de": {
+          "plain": "Sammlerleitung anschließen und Deckel über den Sammlerkasten legen. Deckel mit den zwei Klappschrauben festschrauben.",
+          "runs": [
+            {
+              "text": "Sammlerleitung anschließen und Deckel über den Sammlerkasten legen. Deckel mit den zwei Klappschrauben festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Connect the battery lead and place the lid over the battery box. Bolt down the lid with the two hinge screws.",
+          "runs": [
+            {
+              "text": "Connect the battery lead and place the lid over the battery box. Bolt down the lid with the two hinge screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conectar el cable de la batería y colocar la tapa sobre el cajón de la batería. Atornillar la tapa con los dos tornillos de bisagra.",
+          "runs": [
+            {
+              "text": "Conectar el cable de la batería y colocar la tapa sobre el cajón de la batería. Atornillar la tapa con los dos tornillos de bisagra.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para09",
+      "text": {
+        "de": {
+          "plain": "Bei der neueren Ausführung das Rohr der Kampfraumbeheizung über den Sammlerkasten einbauen.",
+          "runs": [
+            {
+              "text": "Bei der neueren Ausführung das Rohr der Kampfraumbeheizung über den Sammlerkasten einbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the newer version, fit the fighting-compartment heating pipe over the battery box.",
+          "runs": [
+            {
+              "text": "On the newer version, fit the fighting-compartment heating pipe over the battery box.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En la versión más moderna, montar el tubo de calefacción de la cámara de combate sobre el cajón de la batería.",
+          "runs": [
+            {
+              "text": "En la versión más moderna, montar el tubo de calefacción de la cámara de combate sobre el cajón de la batería.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para10",
+      "text": {
+        "de": {
+          "plain": "Linken Kühler und Lüfter einbauen, Seite 11 und 12 Bild 20 bis 25.",
+          "runs": [
+            {
+              "text": "Linken Kühler und Lüfter einbauen, Seite 11 und 12 Bild 20 bis 25.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the left-hand radiator and fan, pages 11 and 12, Figs. 20 to 25.",
+          "runs": [
+            {
+              "text": "Fit the left-hand radiator and fan, pages 11 and 12, Figs. 20 to 25.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el radiador y ventilador izquierdos, páginas 11 y 12, Figs. 20 a 25.",
+          "runs": [
+            {
+              "text": "Montar el radiador y ventilador izquierdos, páginas 11 y 12, Figs. 20 a 25.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para11",
+      "text": {
+        "de": {
+          "plain": "Heckpanzerung aufbauen, Seite 3 Bild 1 bis 4.",
+          "runs": [
+            {
+              "text": "Heckpanzerung aufbauen, Seite 3 Bild 1 bis 4.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the rear armour plate, page 3, Figs. 1 to 4.",
+          "runs": [
+            {
+              "text": "Fit the rear armour plate, page 3, Figs. 1 to 4.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el blindaje trasero, página 3, Figs. 1 a 4.",
+          "runs": [
+            {
+              "text": "Montar el blindaje trasero, página 3, Figs. 1 a 4.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para12",
+      "text": {
+        "de": {
+          "plain": "Öl und Wasser auf Motor und Kühlanlage füllen.",
+          "runs": [
+            {
+              "text": "Öl und Wasser auf Motor und Kühlanlage füllen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fill oil and water into the engine and cooling system.",
+          "runs": [
+            {
+              "text": "Fill oil and water into the engine and cooling system.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Llenar de aceite y agua el motor y el sistema de refrigeración.",
+          "runs": [
+            {
+              "text": "Llenar de aceite y agua el motor y el sistema de refrigeración.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para13",
+      "text": {
+        "de": {
+          "plain": "Berlin, den 3. 11. 1943.",
+          "runs": [
+            {
+              "text": "Berlin, den 3. 11. 1943.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Berlin, 3 November 1943.",
+          "runs": [
+            {
+              "text": "Berlin, 3 November 1943.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Berlín, 3 de noviembre de 1943.",
+          "runs": [
+            {
+              "text": "Berlín, 3 de noviembre de 1943.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para14",
+      "text": {
+        "de": {
+          "plain": "Oberkommando des Heeres",
+          "runs": [
+            {
+              "text": "Oberkommando des Heeres",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "High Command of the Army (Oberkommando des Heeres)",
+          "runs": [
+            {
+              "text": "High Command of the Army (Oberkommando des Heeres)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Alto Mando del Ejército (Oberkommando des Heeres)",
+          "runs": [
+            {
+              "text": "Alto Mando del Ejército (Oberkommando des Heeres)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para15",
+      "text": {
+        "de": {
+          "plain": "Heereswaffenamt",
+          "runs": [
+            {
+              "text": "Heereswaffenamt",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Army Ordnance Office (Heereswaffenamt)",
+          "runs": [
+            {
+              "text": "Army Ordnance Office (Heereswaffenamt)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Oficina de Armamento del Ejército (Heereswaffenamt)",
+          "runs": [
+            {
+              "text": "Oficina de Armamento del Ejército (Heereswaffenamt)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para16",
+      "text": {
+        "de": {
+          "plain": "Amtsgruppe für Entwicklung und Prüfung",
+          "runs": [
+            {
+              "text": "Amtsgruppe für Entwicklung und Prüfung",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Development and Testing Group",
+          "runs": [
+            {
+              "text": "Development and Testing Group",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Grupo de Desarrollo y Ensayo",
+          "runs": [
+            {
+              "text": "Grupo de Desarrollo y Ensayo",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para17",
+      "text": {
+        "de": {
+          "plain": "Im Auftrage",
+          "runs": [
+            {
+              "text": "Im Auftrage",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "By order",
+          "runs": [
+            {
+              "text": "By order",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Por orden",
+          "runs": [
+            {
+              "text": "Por orden",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p143-para18",
+      "text": {
+        "de": {
+          "plain": "Holzhäuer",
+          "runs": [
+            {
+              "text": "Holzhäuer",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Holzhäuer",
+          "runs": [
+            {
+              "text": "Holzhäuer",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Holzhäuer",
+          "runs": [
+            {
+              "text": "Holzhäuer",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "not_applicable"
   }
 }

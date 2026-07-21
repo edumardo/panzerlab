@@ -6,9 +6,9 @@
   "section": "B16",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "16. Nacharbeiten des Zylinderkopfes",
+    "en-GB": "Section B.16 - Reworking the cylinder head",
+    "es-ES": "Sección B.16 - Repaso de la culata"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild133",
-      "number": 133,
-      "image": "figures/fig133.jpg",
+      "id": "d65250c-bild131",
+      "number": 131,
+      "image": "figures/fig131.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit der Vorrichtung neue Ventilführungen einziehen oder diese mit einem Paßdorn von der Nockenwellenseite aus hereinschlagen.",
+          "runs": [
+            {
+              "text": "Mit der Vorrichtung neue Ventilführungen einziehen oder diese mit einem Paßdorn von der Nockenwellenseite aus hereinschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using the tool, draw in new valve guides, or knock them in from the camshaft side with a fitting drift.",
+          "runs": [
+            {
+              "text": "Using the tool, draw in new valve guides, or knock them in from the camshaft side with a fitting drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con la herramienta, introducir guías de válvula nuevas, o meterlas a golpes desde el lado del árbol de levas con un botador de ajuste.",
+          "runs": [
+            {
+              "text": "Con la herramienta, introducir guías de válvula nuevas, o meterlas a golpes desde el lado del árbol de levas con un botador de ajuste.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild134",
-      "number": 134,
-      "image": "figures/fig134.jpg",
+      "id": "d65250c-bild132",
+      "number": 132,
+      "image": "figures/fig132.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit den Maybach-Ventilsitzfräsern, 300, die eingeschlagenen oder zu breiten Ventilsitze nachfräsen (Sitzbreite 2 mm).",
+          "runs": [
+            {
+              "text": "Mit den Maybach-Ventilsitzfräsern, 300, die eingeschlagenen oder zu breiten Ventilsitze nachfräsen (Sitzbreite 2 mm).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using the Maybach valve-seat cutters, 300, recut the worn or overwide valve seats (seat width 2 mm).",
+          "runs": [
+            {
+              "text": "Using the Maybach valve-seat cutters, 300, recut the worn or overwide valve seats (seat width 2 mm).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con las fresas de asiento de válvula Maybach, 300, refresar los asientos de válvula desgastados o demasiado anchos (anchura del asiento 2 mm).",
+          "runs": [
+            {
+              "text": "Con las fresas de asiento de válvula Maybach, 300, refresar los asientos de válvula desgastados o demasiado anchos (anchura del asiento 2 mm).",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

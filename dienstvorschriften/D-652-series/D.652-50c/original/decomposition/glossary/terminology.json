@@ -601,6 +601,412 @@
       "en-GB": "fan-belt tensioning device",
       "es-ES": "dispositivo de tensado de las correas del ventilador",
       "status": "validated"
+    },
+    {
+      "id": "term-086",
+      "de": "Knarre",
+      "en-GB": "ratchet",
+      "es-ES": "carraca",
+      "status": "draft"
+    },
+    {
+      "id": "term-087",
+      "de": "Lochschraube",
+      "en-GB": "hollow screw (banjo bolt)",
+      "es-ES": "tornillo hueco",
+      "status": "draft"
+    },
+    {
+      "id": "term-088",
+      "de": "Überlaufschale",
+      "en-GB": "overflow bowl",
+      "es-ES": "cazoleta de rebose",
+      "status": "draft"
+    },
+    {
+      "id": "term-089",
+      "de": "Spannband",
+      "en-GB": "retaining strap",
+      "es-ES": "correa de sujeción",
+      "status": "draft"
+    },
+    {
+      "id": "term-090",
+      "de": "Filzunterlage",
+      "en-GB": "felt pad",
+      "es-ES": "apoyo de fieltro",
+      "status": "draft"
+    },
+    {
+      "id": "term-091",
+      "de": "Einbaudeckel",
+      "en-GB": "access cover",
+      "es-ES": "tapa de acceso",
+      "status": "draft"
+    },
+    {
+      "id": "term-092",
+      "de": "Einfüllstutzen",
+      "en-GB": "filler neck",
+      "es-ES": "boca de llenado",
+      "status": "draft"
+    },
+    {
+      "id": "term-093",
+      "de": "Kettenabdeckung",
+      "en-GB": "track guard",
+      "es-ES": "guardacadenas",
+      "status": "draft"
+    },
+    {
+      "id": "term-094",
+      "de": "Nebelkerzenabwurfvorrichtung",
+      "en-GB": "smoke-candle discharge device",
+      "es-ES": "dispositivo de lanzamiento de botes de humo",
+      "status": "draft"
+    },
+    {
+      "id": "term-095",
+      "de": "Schaltbrett",
+      "en-GB": "switch panel",
+      "es-ES": "panel de mandos",
+      "status": "draft"
+    },
+    {
+      "id": "term-096",
+      "de": "Trennwand",
+      "en-GB": "bulkhead",
+      "es-ES": "mamparo",
+      "status": "draft"
+    },
+    {
+      "id": "term-097",
+      "de": "Abzughebel",
+      "en-GB": "release lever",
+      "es-ES": "palanca de disparo",
+      "status": "draft"
+    },
+    {
+      "id": "term-098",
+      "de": "Klappschraube",
+      "en-GB": "hinge screw",
+      "es-ES": "tornillo de bisagra",
+      "status": "draft"
+    },
+    {
+      "id": "term-099",
+      "de": "Versenkgriff",
+      "en-GB": "recessed handle",
+      "es-ES": "asa rebajada",
+      "status": "draft"
+    },
+    {
+      "id": "term-100",
+      "de": "Säureprüfer",
+      "en-GB": "hydrometer",
+      "es-ES": "densímetro",
+      "status": "draft"
+    },
+    {
+      "id": "term-101",
+      "de": "Schraubstopfen",
+      "en-GB": "screw plug",
+      "es-ES": "tapón roscado",
+      "status": "draft"
+    },
+    {
+      "id": "term-102",
+      "de": "Kupplungsvorbau",
+      "en-GB": "clutch housing extension",
+      "es-ES": "prolongación de la carcasa del embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-103",
+      "de": "Einrückgestänge",
+      "en-GB": "engagement linkage",
+      "es-ES": "varillaje de embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-104",
+      "de": "Vergaserglocke",
+      "en-GB": "carburettor bell housing",
+      "es-ES": "campana del carburador",
+      "status": "draft"
+    },
+    {
+      "id": "term-105",
+      "de": "Luftfilter",
+      "en-GB": "air filter",
+      "es-ES": "filtro de aire",
+      "status": "draft"
+    },
+    {
+      "id": "term-106",
+      "de": "Ausgleichrohr",
+      "en-GB": "expansion pipe",
+      "es-ES": "tubo de compensación",
+      "status": "draft"
+    },
+    {
+      "id": "term-107",
+      "de": "Entstörrohr",
+      "en-GB": "suppressor pipe",
+      "es-ES": "tubo antiparasitario",
+      "status": "draft"
+    },
+    {
+      "id": "term-108",
+      "de": "Verteilerbogen",
+      "en-GB": "distributor elbow",
+      "es-ES": "codo distribuidor",
+      "status": "draft"
+    },
+    {
+      "id": "term-109",
+      "de": "Zündkerzenstecker",
+      "en-GB": "spark-plug cap",
+      "es-ES": "capuchón de bujía",
+      "status": "draft"
+    },
+    {
+      "id": "term-110",
+      "de": "Zylinderkopfhaube",
+      "en-GB": "cylinder-head cover",
+      "es-ES": "tapa de culata",
+      "status": "draft"
+    },
+    {
+      "id": "term-111",
+      "de": "Kipphebelwelle",
+      "en-GB": "rocker-arm shaft",
+      "es-ES": "eje de balancines",
+      "status": "draft"
+    },
+    {
+      "id": "term-112",
+      "de": "Ölbehälter",
+      "en-GB": "oil tank",
+      "es-ES": "depósito de aceite",
+      "status": "draft"
+    },
+    {
+      "id": "term-113",
+      "de": "Kegelpaßstift",
+      "en-GB": "taper dowel pin",
+      "es-ES": "clavija cónica de ajuste",
+      "status": "draft"
+    },
+    {
+      "id": "term-114",
+      "de": "Paßschraube",
+      "en-GB": "fitted bolt",
+      "es-ES": "tornillo ajustado",
+      "status": "draft"
+    },
+    {
+      "id": "term-115",
+      "de": "Reibscheibe",
+      "en-GB": "friction disc",
+      "es-ES": "disco de fricción",
+      "status": "draft"
+    },
+    {
+      "id": "term-116",
+      "de": "Schmirgelleinen",
+      "en-GB": "emery cloth",
+      "es-ES": "lienzo esmeril",
+      "status": "draft"
+    },
+    {
+      "id": "term-117",
+      "de": "Kolbenbolzenauge",
+      "en-GB": "gudgeon-pin boss",
+      "es-ES": "buje del bulón del pistón",
+      "status": "draft"
+    },
+    {
+      "id": "term-118",
+      "de": "Ventilfederteller",
+      "en-GB": "valve-spring cap",
+      "es-ES": "platillo del resorte de válvula",
+      "status": "draft"
+    },
+    {
+      "id": "term-119",
+      "de": "Federspannvorrichtung",
+      "en-GB": "spring compressor",
+      "es-ES": "compresor de resortes",
+      "status": "draft"
+    },
+    {
+      "id": "term-120",
+      "de": "Ventilsitzfräser",
+      "en-GB": "valve-seat cutter",
+      "es-ES": "fresa de asiento de válvula",
+      "status": "draft"
+    },
+    {
+      "id": "term-121",
+      "de": "Auspuffkrümmer",
+      "en-GB": "exhaust manifold",
+      "es-ES": "colector de escape",
+      "status": "draft"
+    },
+    {
+      "id": "term-122",
+      "de": "Flachkeil",
+      "en-GB": "flat collet",
+      "es-ES": "chaveta plana",
+      "status": "draft"
+    },
+    {
+      "id": "term-123",
+      "de": "Membran",
+      "en-GB": "diaphragm",
+      "es-ES": "membrana",
+      "status": "draft"
+    },
+    {
+      "id": "term-124",
+      "de": "Winkelhebel",
+      "en-GB": "angle lever",
+      "es-ES": "palanca angular",
+      "status": "draft"
+    },
+    {
+      "id": "term-125",
+      "de": "Hutmutter",
+      "en-GB": "cap nut",
+      "es-ES": "tuerca ciega",
+      "status": "draft"
+    },
+    {
+      "id": "term-126",
+      "de": "Einstellblech",
+      "en-GB": "shim plate",
+      "es-ES": "chapa de ajuste",
+      "status": "draft"
+    },
+    {
+      "id": "term-127",
+      "de": "Wasserpumpenschlüssel",
+      "en-GB": "water-pump spanner",
+      "es-ES": "llave de bomba de agua",
+      "status": "draft"
+    },
+    {
+      "id": "term-128",
+      "de": "Asbest-Dichtring",
+      "en-GB": "asbestos sealing ring",
+      "es-ES": "anillo de estanqueidad de amianto",
+      "status": "draft"
+    },
+    {
+      "id": "term-129",
+      "de": "Schutzkappe",
+      "en-GB": "protective cap",
+      "es-ES": "tapa protectora",
+      "status": "draft"
+    },
+    {
+      "id": "term-130",
+      "de": "Bürstenfeder",
+      "en-GB": "brush spring",
+      "es-ES": "resorte de escobilla",
+      "status": "draft"
+    },
+    {
+      "id": "term-131",
+      "de": "Abziehvorrichtung",
+      "en-GB": "puller",
+      "es-ES": "extractor",
+      "status": "draft"
+    },
+    {
+      "id": "term-132",
+      "de": "Lagerdeckel",
+      "en-GB": "bearing cover",
+      "es-ES": "tapa de cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-133",
+      "de": "Drehbank",
+      "en-GB": "lathe",
+      "es-ES": "torno",
+      "status": "draft"
+    },
+    {
+      "id": "term-134",
+      "de": "Lagerflansch",
+      "en-GB": "bearing flange",
+      "es-ES": "brida de cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-135",
+      "de": "Lamellenkorb",
+      "en-GB": "plate clutch",
+      "es-ES": "embrague de discos",
+      "status": "draft"
+    },
+    {
+      "id": "term-136",
+      "de": "Kontaktträger",
+      "en-GB": "contact carrier",
+      "es-ES": "portacontactos",
+      "status": "draft"
+    },
+    {
+      "id": "term-137",
+      "de": "Anlaßschieber",
+      "en-GB": "starting slide valve",
+      "es-ES": "válvula de corredera de arranque",
+      "status": "draft"
+    },
+    {
+      "id": "term-138",
+      "de": "Freilaufbrücke",
+      "en-GB": "free-travel bridge",
+      "es-ES": "puente de recorrido libre",
+      "status": "draft"
+    },
+    {
+      "id": "term-139",
+      "de": "Schwimmerventil",
+      "en-GB": "float needle valve",
+      "es-ES": "válvula de aguja del flotador",
+      "status": "draft"
+    },
+    {
+      "id": "term-140",
+      "de": "Kolbenringzange",
+      "en-GB": "piston-ring clamp",
+      "es-ES": "pinza para segmentos de pistón",
+      "status": "draft"
+    },
+    {
+      "id": "term-141",
+      "de": "Ausgleichscheibe",
+      "en-GB": "shim washer",
+      "es-ES": "arandela de ajuste",
+      "status": "draft"
+    },
+    {
+      "id": "term-142",
+      "de": "Stehbolzen",
+      "en-GB": "stud",
+      "es-ES": "perno prisionero",
+      "status": "draft"
+    },
+    {
+      "id": "term-143",
+      "de": "Vergaserzwischenstück",
+      "en-GB": "carburettor spacer piece",
+      "es-ES": "pieza distanciadora del carburador",
+      "status": "draft"
     }
   ]
 }

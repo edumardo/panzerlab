@@ -6,9 +6,9 @@
   "section": "B13",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "13. Zerlegen des Motors",
+    "en-GB": "Section B.13 - Dismantling the engine",
+    "es-ES": "Sección B.13 - Despiece del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild095",
-      "number": 95,
-      "image": "figures/fig095.jpg",
+      "id": "d65250c-bild093",
+      "number": 93,
+      "image": "figures/fig093.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 19-Maulschlüssel die Rohrleitungen an den Kraftstoffpumpen abschrauben.",
+          "runs": [
+            {
+              "text": "Mit 19-Maulschlüssel die Rohrleitungen an den Kraftstoffpumpen abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 19 mm open-ended spanner, unscrew the pipelines at the fuel pumps.",
+          "runs": [
+            {
+              "text": "Using a 19 mm open-ended spanner, unscrew the pipelines at the fuel pumps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 19 mm, desenroscar las tuberías en las bombas de combustible.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 19 mm, desenroscar las tuberías en las bombas de combustible.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild096",
-      "number": 96,
-      "image": "figures/fig096.jpg",
+      "id": "d65250c-bild094",
+      "number": 94,
+      "image": "figures/fig094.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 14-Maulschlüssel die vier Befestigungsmuttern der Kraftstoffpumpen abschrauben. Dichtungen sowie die Abstandsplatte zwischen Motorgehäuse und den Pumpen beachten.",
+          "runs": [
+            {
+              "text": "Mit 14-Maulschlüssel die vier Befestigungsmuttern der Kraftstoffpumpen abschrauben. Dichtungen sowie die Abstandsplatte zwischen Motorgehäuse und den Pumpen beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, unscrew the four fastening nuts of the fuel pumps. Note the gaskets and the spacer plate between the engine housing and the pumps.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, unscrew the four fastening nuts of the fuel pumps. Note the gaskets and the spacer plate between the engine housing and the pumps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, desenroscar las cuatro tuercas de fijación de las bombas de combustible. Tener en cuenta las juntas y la placa distanciadora entre la carcasa del motor y las bombas.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, desenroscar las cuatro tuercas de fijación de las bombas de combustible. Tener en cuenta las juntas y la placa distanciadora entre la carcasa del motor y las bombas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

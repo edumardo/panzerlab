@@ -6,9 +6,9 @@
   "section": "B15",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "15. Instandsetzen des Motors",
+    "en-GB": "Section B.15 - Repairing the engine",
+    "es-ES": "Sección B.15 - Reparación del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild125",
-      "number": 125,
-      "image": "figures/fig125.jpg",
+      "id": "d65250c-bild123",
+      "number": 123,
+      "image": "figures/fig123.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Pleuelstange auf dem Richtgerät prüfen und diese nachrichten, wenn die Pleuellagerbohrung mit der Bohrung der Kolbenbolzenbuchse nicht in einer Flucht steht.",
+          "runs": [
+            {
+              "text": "Pleuelstange auf dem Richtgerät prüfen und diese nachrichten, wenn die Pleuellagerbohrung mit der Bohrung der Kolbenbolzenbuchse nicht in einer Flucht steht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check the connecting rod on the aligning fixture and true it up if the connecting-rod bearing bore is not in line with the bore of the gudgeon-pin bush.",
+          "runs": [
+            {
+              "text": "Check the connecting rod on the aligning fixture and true it up if the connecting-rod bearing bore is not in line with the bore of the gudgeon-pin bush.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar la biela en el dispositivo de alineación y enderezarla si el taladro del cojinete de biela no está alineado con el del casquillo del bulón.",
+          "runs": [
+            {
+              "text": "Comprobar la biela en el dispositivo de alineación y enderezarla si el taladro del cojinete de biela no está alineado con el del casquillo del bulón.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild126",
-      "number": 126,
-      "image": "figures/fig126.jpg",
+      "id": "d65250c-bild124",
+      "number": 124,
+      "image": "figures/fig124.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Steg mit der Zugspindel von der Kurbelwellenseite aus in die Zylinderlaufbuchse einführen. Glocke über die Spindel setzen und Zylinderlaufbuchse durch Anziehen der Mutter ausziehen.",
+          "runs": [
+            {
+              "text": "Steg mit der Zugspindel von der Kurbelwellenseite aus in die Zylinderlaufbuchse einführen. Glocke über die Spindel setzen und Zylinderlaufbuchse durch Anziehen der Mutter ausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the bridge piece with the draw spindle into the cylinder liner from the crankshaft side. Fit the bell over the spindle and withdraw the cylinder liner by tightening the nut.",
+          "runs": [
+            {
+              "text": "Insert the bridge piece with the draw spindle into the cylinder liner from the crankshaft side. Fit the bell over the spindle and withdraw the cylinder liner by tightening the nut.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir la pieza puente con el husillo tensor en la camisa del cilindro desde el lado del cigüeñal. Colocar la campana sobre el husillo y extraer la camisa apretando la tuerca.",
+          "runs": [
+            {
+              "text": "Introducir la pieza puente con el husillo tensor en la camisa del cilindro desde el lado del cigüeñal. Colocar la campana sobre el husillo y extraer la camisa apretando la tuerca.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

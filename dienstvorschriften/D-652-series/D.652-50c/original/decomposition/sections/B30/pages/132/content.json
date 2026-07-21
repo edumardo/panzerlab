@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig238.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Zwischenrad mit den Rollenlagern in das Gehäuse einführen. Achsbolzen einführen und diesen mit Hammer und Dorn so weit hereinschlagen, bis das seitliche Spiel der Zwischenradlagerung aufgehoben ist.",
+          "runs": [
+            {
+              "text": "Zwischenrad mit den Rollenlagern in das Gehäuse einführen. Achsbolzen einführen und diesen mit Hammer und Dorn so weit hereinschlagen, bis das seitliche Spiel der Zwischenradlagerung aufgehoben ist.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the idler gear with the roller bearings into the housing. Insert the axle pin and drive it in with a hammer and drift until the side play of the idler-gear bearing is taken up.",
+          "runs": [
+            {
+              "text": "Guide the idler gear with the roller bearings into the housing. Insert the axle pin and drive it in with a hammer and drift until the side play of the idler-gear bearing is taken up.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Guiar la rueda intermedia con los cojinetes de rodillos hasta la carcasa. Introducir el pasador del eje y meterlo a golpes con un martillo y un botador hasta eliminar el juego lateral del cojinete de la rueda intermedia.",
+          "runs": [
+            {
+              "text": "Guiar la rueda intermedia con los cojinetes de rodillos hasta la carcasa. Introducir el pasador del eje y meterlo a golpes con un martillo y un botador hasta eliminar el juego lateral del cojinete de la rueda intermedia.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig239.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "So viel Ausgleichscheiben zwischen Abschlußdeckel und Achsbolzen legen, daß letzterer nicht zurück kann und das Zwischenrad sich bei festgeschraubtem Deckel in seiner Lagerung leicht drehen läßt.",
+          "runs": [
+            {
+              "text": "So viel Ausgleichscheiben zwischen Abschlußdeckel und Achsbolzen legen, daß letzterer nicht zurück kann und das Zwischenrad sich bei festgeschraubtem Deckel in seiner Lagerung leicht drehen läßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert enough shim washers between the end cover and the axle pin so that the pin cannot move back, and so that the idler gear turns easily in its bearing when the cover is bolted down.",
+          "runs": [
+            {
+              "text": "Insert enough shim washers between the end cover and the axle pin so that the pin cannot move back, and so that the idler gear turns easily in its bearing when the cover is bolted down.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar suficientes arandelas de ajuste entre la tapa de cierre y el pasador del eje, de modo que este no pueda retroceder y que la rueda intermedia gire con facilidad en su cojinete una vez atornillada la tapa.",
+          "runs": [
+            {
+              "text": "Colocar suficientes arandelas de ajuste entre la tapa de cierre y el pasador del eje, de modo que este no pueda retroceder y que la rueda intermedia gire con facilidad en su cojinete una vez atornillada la tapa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

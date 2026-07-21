@@ -6,9 +6,9 @@
   "section": "B19",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "19. Zerlegen der Wasserpumpe",
+    "en-GB": "Section B.19 - Dismantling the water pump",
+    "es-ES": "Sección B.19 - Desarmado de la bomba de agua"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild149",
-      "number": 149,
-      "image": "figures/fig149.jpg",
+      "id": "d65250c-bild147",
+      "number": 147,
+      "image": "figures/fig147.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Beide Gehäuseteile auseinanderheben. (Beim Zusammenbau der Wasserpumpe wird das Spiel zwischen Flügelrad und dem Pumpengehäuse durch Hinzufügen eines Einstellbleches vergrößert oder umgekehrt verkleinert.)",
+          "runs": [
+            {
+              "text": "Beide Gehäuseteile auseinanderheben. (Beim Zusammenbau der Wasserpumpe wird das Spiel zwischen Flügelrad und dem Pumpengehäuse durch Hinzufügen eines Einstellbleches vergrößert oder umgekehrt verkleinert.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the two housing parts apart. (When reassembling the water pump, the clearance between the impeller and the pump housing is increased by adding a shim plate, or decreased by removing one.)",
+          "runs": [
+            {
+              "text": "Lift the two housing parts apart. (When reassembling the water pump, the clearance between the impeller and the pump housing is increased by adding a shim plate, or decreased by removing one.)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar las dos partes de la carcasa. (Al volver a montar la bomba de agua, el juego entre el rodete y la carcasa de la bomba se aumenta añadiendo una chapa de ajuste, o se reduce retirándola.)",
+          "runs": [
+            {
+              "text": "Separar las dos partes de la carcasa. (Al volver a montar la bomba de agua, el juego entre el rodete y la carcasa de la bomba se aumenta añadiendo una chapa de ajuste, o se reduce retirándola.)",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild150",
-      "number": 150,
-      "image": "figures/fig150.jpg",
+      "id": "d65250c-bild148",
+      "number": 148,
+      "image": "figures/fig148.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Flügelradspiel durch Schauloch prüfen, dieses soll 0,5-0,8 mm betragen.",
+          "runs": [
+            {
+              "text": "Flügelradspiel durch Schauloch prüfen, dieses soll 0,5-0,8 mm betragen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check the impeller clearance through the inspection hole; it should be 0.5-0.8 mm.",
+          "runs": [
+            {
+              "text": "Check the impeller clearance through the inspection hole; it should be 0.5-0.8 mm.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar el juego del rodete a través del orificio de inspección; debe ser de 0,5-0,8 mm.",
+          "runs": [
+            {
+              "text": "Comprobar el juego del rodete a través del orificio de inspección; debe ser de 0,5-0,8 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

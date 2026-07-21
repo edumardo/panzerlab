@@ -6,9 +6,9 @@
   "section": "B18",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "18. Zerlegen der Kraftstoffpumpe",
+    "en-GB": "Section B.18 - Dismantling the fuel pump",
+    "es-ES": "Sección B.18 - Desarmado de la bomba de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild139",
-      "number": 139,
-      "image": "figures/fig139.jpg",
+      "id": "d65250c-bild137",
+      "number": 137,
+      "image": "figures/fig137.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "An den beiden unteren Prüflöchern, welche in dem Gehäuseunterteil eingebohrt sind, die Membran prüfen. (Bei Kraftstoffaustritt aus diesen ist die Membran unbrauchbar.) Mit 10-Maulschlüssel die Befestigungsschraube aus der oberen Glocke entfernen.",
+          "runs": [
+            {
+              "text": "An den beiden unteren Prüflöchern, welche in dem Gehäuseunterteil eingebohrt sind, die Membran prüfen. (Bei Kraftstoffaustritt aus diesen ist die Membran unbrauchbar.) Mit 10-Maulschlüssel die Befestigungsschraube aus der oberen Glocke entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the two lower inspection holes drilled in the lower housing section, check the diaphragm. (If fuel escapes from these, the diaphragm is unusable.) Using a 10 mm open-ended spanner, remove the fastening screw from the upper bell.",
+          "runs": [
+            {
+              "text": "At the two lower inspection holes drilled in the lower housing section, check the diaphragm. (If fuel escapes from these, the diaphragm is unusable.) Using a 10 mm open-ended spanner, remove the fastening screw from the upper bell.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En los dos orificios de inspección inferiores, taladrados en la parte inferior de la carcasa, comprobar la membrana. (Si sale combustible por ellos, la membrana es inservible.) Con una llave fija de 10 mm, retirar el tornillo de fijación de la campana superior.",
+          "runs": [
+            {
+              "text": "En los dos orificios de inspección inferiores, taladrados en la parte inferior de la carcasa, comprobar la membrana. (Si sale combustible por ellos, la membrana es inservible.) Con una llave fija de 10 mm, retirar el tornillo de fijación de la campana superior.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild140",
-      "number": 140,
-      "image": "figures/fig140.jpg",
+      "id": "d65250c-bild138",
+      "number": 138,
+      "image": "figures/fig138.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schraubenzieher die beiden Senkschrauben aus dem seitlichen Deckel entfernen und diesen abnehmen. Dichtung beachten.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher die beiden Senkschrauben aus dem seitlichen Deckel entfernen und diesen abnehmen. Dichtung beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver, remove the two countersunk screws from the side cover and take it off. Note the gasket.",
+          "runs": [
+            {
+              "text": "Using a screwdriver, remove the two countersunk screws from the side cover and take it off. Note the gasket.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador, retirar los dos tornillos avellanados de la tapa lateral y retirarla. Tener en cuenta la junta.",
+          "runs": [
+            {
+              "text": "Con un destornillador, retirar los dos tornillos avellanados de la tapa lateral y retirarla. Tener en cuenta la junta.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

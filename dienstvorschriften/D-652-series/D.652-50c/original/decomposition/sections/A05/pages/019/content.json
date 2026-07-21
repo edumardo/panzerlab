@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "5. Ausbauen des rechten Lüfters und Kühlers",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Section A.5 - Removing the right-hand fan and radiator",
+    "es-ES": "Sección A.5 - Desmontaje del ventilador y radiador derechos"
   },
   "source": {
     "image": "source.jpg",
@@ -37,8 +37,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Remove the split pins from the rear radiator-fastening screws and unscrew the castle nuts with 17 mm open-ended and socket spanners.",
+          "runs": [
+            {
+              "text": "Remove the split pins from the rear radiator-fastening screws and unscrew the castle nuts with 17 mm open-ended and socket spanners.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los pasadores de aletas de los tornillos de fijación traseros del radiador y desenroscar las tuercas almenadas con llaves fija y de vaso de 17 mm.",
+          "runs": [
+            {
+              "text": "Retirar los pasadores de aletas de los tornillos de fijación traseros del radiador y desenroscar las tuercas almenadas con llaves fija y de vaso de 17 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -61,8 +77,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Release the hose clips with a punch and slide the coolant hoses from the radiator stubs onto the water pipes.",
+          "runs": [
+            {
+              "text": "Release the hose clips with a punch and slide the coolant hoses from the radiator stubs onto the water pipes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar las abrazaderas de manguera con un punzón y deslizar las mangueras de refrigerante desde la boca del radiador hacia los tubos de agua.",
+          "runs": [
+            {
+              "text": "Aflojar las abrazaderas de manguera con un punzón y deslizar las mangueras de refrigerante desde la boca del radiador hacia los tubos de agua.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -73,8 +105,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate_crop"
   }
 }

@@ -6,9 +6,9 @@
   "section": "B16",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "16. Nacharbeiten des Zylinderkopfes",
+    "en-GB": "Section B.16 - Reworking the cylinder head",
+    "es-ES": "Sección B.16 - Repaso de la culata"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild135",
-      "number": 135,
-      "image": "figures/fig135.jpg",
+      "id": "d65250c-bild133",
+      "number": 133,
+      "image": "figures/fig133.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Wenn die Ventilschäfte noch gut sind, die Ventilsitze auf der Ventilschleifmaschine nachschleifen (30°).",
+          "runs": [
+            {
+              "text": "Wenn die Ventilschäfte noch gut sind, die Ventilsitze auf der Ventilschleifmaschine nachschleifen (30°).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the valve stems are still in good condition, regrind the valve seats on the valve-grinding machine (30°).",
+          "runs": [
+            {
+              "text": "If the valve stems are still in good condition, regrind the valve seats on the valve-grinding machine (30°).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si los vástagos de válvula siguen en buen estado, rectificar los asientos de válvula en la máquina de esmerilar válvulas (30°).",
+          "runs": [
+            {
+              "text": "Si los vástagos de válvula siguen en buen estado, rectificar los asientos de válvula en la máquina de esmerilar válvulas (30°).",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild136",
-      "number": 136,
-      "image": "figures/fig136.jpg",
+      "id": "d65250c-bild134",
+      "number": 134,
+      "image": "figures/fig134.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schleifmasse die beiden Sitze, des Ventiles und des Zylinderkopfes, einschleifen. Ventile den eingeschlagenen Zahlen nach in der Reihenfolge einschleifen.",
+          "runs": [
+            {
+              "text": "Mit Schleifmasse die beiden Sitze, des Ventiles und des Zylinderkopfes, einschleifen. Ventile den eingeschlagenen Zahlen nach in der Reihenfolge einschleifen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using grinding paste, lap in both seats, of the valve and of the cylinder head. Lap in the valves in sequence according to their stamped numbers.",
+          "runs": [
+            {
+              "text": "Using grinding paste, lap in both seats, of the valve and of the cylinder head. Lap in the valves in sequence according to their stamped numbers.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con pasta de esmerilar, esmerilar ambos asientos, el de la válvula y el de la culata. Esmerilar las válvulas en el orden de los números marcados en ellas.",
+          "runs": [
+            {
+              "text": "Con pasta de esmerilar, esmerilar ambos asientos, el de la válvula y el de la culata. Esmerilar las válvulas en el orden de los números marcados en ellas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

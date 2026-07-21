@@ -6,9 +6,9 @@
   "section": "B15",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "15. Instandsetzen des Motors",
+    "en-GB": "Section B.15 - Repairing the engine",
+    "es-ES": "Sección B.15 - Reparación del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild127",
-      "number": 127,
-      "image": "figures/fig127.jpg",
+      "id": "d65250c-bild125",
+      "number": 125,
+      "image": "figures/fig125.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Vor dem Einsetzen der Zylinderlaufbuchsen die seitlichen Prüflöcher der unteren Zylinderlaufbuchsenabdichtung reinigen. (Bei Wasseraustritt aus den Löchern ist der obere, und bei Ölaustritt ist der untere Gummidichtring beschädigt.)",
+          "runs": [
+            {
+              "text": "Vor dem Einsetzen der Zylinderlaufbuchsen die seitlichen Prüflöcher der unteren Zylinderlaufbuchsenabdichtung reinigen. (Bei Wasseraustritt aus den Löchern ist der obere, und bei Ölaustritt ist der untere Gummidichtring beschädigt.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Before fitting the cylinder liners, clean the side inspection holes of the lower cylinder-liner seal. (Water escaping from the holes indicates a damaged upper rubber sealing ring; oil escaping indicates a damaged lower one.)",
+          "runs": [
+            {
+              "text": "Before fitting the cylinder liners, clean the side inspection holes of the lower cylinder-liner seal. (Water escaping from the holes indicates a damaged upper rubber sealing ring; oil escaping indicates a damaged lower one.)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Antes de montar las camisas de cilindro, limpiar los orificios de inspección laterales de la junta inferior de la camisa. (Si sale agua por los orificios, el anillo de goma superior está dañado; si sale aceite, el dañado es el inferior.)",
+          "runs": [
+            {
+              "text": "Antes de montar las camisas de cilindro, limpiar los orificios de inspección laterales de la junta inferior de la camisa. (Si sale agua por los orificios, el anillo de goma superior está dañado; si sale aceite, el dañado es el inferior.)",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild128",
-      "number": 128,
-      "image": "figures/fig128.jpg",
+      "id": "d65250c-bild126",
+      "number": 126,
+      "image": "figures/fig126.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "In die untere und obere Nute der Zylinderlaufbuchsenabdichtung im Zylinderblock einen neuen Gummidichtring setzen. Zylinderlaufbuchse leicht einölen und diese in drehender Bewegung in das Gehäuse schieben. Zylinderlaufbuchsen den eingeschlagenen Zahlen nach in der Reihenfolge einbauen.",
+          "runs": [
+            {
+              "text": "In die untere und obere Nute der Zylinderlaufbuchsenabdichtung im Zylinderblock einen neuen Gummidichtring setzen. Zylinderlaufbuchse leicht einölen und diese in drehender Bewegung in das Gehäuse schieben. Zylinderlaufbuchsen den eingeschlagenen Zahlen nach in der Reihenfolge einbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit a new rubber sealing ring into the lower and upper grooves of the cylinder-liner seal in the cylinder block. Lightly oil the cylinder liner and slide it into the housing with a turning motion. Fit the cylinder liners in sequence according to their stamped numbers.",
+          "runs": [
+            {
+              "text": "Fit a new rubber sealing ring into the lower and upper grooves of the cylinder-liner seal in the cylinder block. Lightly oil the cylinder liner and slide it into the housing with a turning motion. Fit the cylinder liners in sequence according to their stamped numbers.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar un anillo de goma nuevo en las ranuras inferior y superior de la junta de la camisa en el bloque de cilindros. Engrasar ligeramente la camisa con aceite e introducirla en la carcasa con un movimiento de giro. Montar las camisas de cilindro en el orden de los números marcados en ellas.",
+          "runs": [
+            {
+              "text": "Colocar un anillo de goma nuevo en las ranuras inferior y superior de la junta de la camisa en el bloque de cilindros. Engrasar ligeramente la camisa con aceite e introducirla en la carcasa con un movimiento de giro. Montar las camisas de cilindro en el orden de los números marcados en ellas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

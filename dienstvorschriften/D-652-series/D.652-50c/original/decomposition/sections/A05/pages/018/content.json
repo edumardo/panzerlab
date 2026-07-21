@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "5. Ausbauen des rechten Lüfters und Kühlers",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Section A.5 - Removing the right-hand fan and radiator",
+    "es-ES": "Sección A.5 - Desmontaje del ventilador y radiador derechos"
   },
   "source": {
     "image": "source.jpg",
@@ -37,8 +37,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Lift the fan blades off the hub. Pull the split pins from the fan-housing fastening screws and remove the castle nuts with a 22 mm ring or socket spanner.",
+          "runs": [
+            {
+              "text": "Lift the fan blades off the hub. Pull the split pins from the fan-housing fastening screws and remove the castle nuts with a 22 mm ring or socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las palas del ventilador del cubo. Extraer los pasadores de aletas de los tornillos de fijación de la carcasa del ventilador y quitar las tuercas almenadas con una llave de estrella o de vaso de 22 mm.",
+          "runs": [
+            {
+              "text": "Retirar las palas del ventilador del cubo. Extraer los pasadores de aletas de los tornillos de fijación de la carcasa del ventilador y quitar las tuercas almenadas con una llave de estrella o de vaso de 22 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -61,8 +77,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Unscrew the nut of the coupling joint with a 22 mm ring or socket spanner, remove the split pin, washer, and bolt, and lift out the fan. Note the felt gasket between the fan and the radiator.",
+          "runs": [
+            {
+              "text": "Unscrew the nut of the coupling joint with a 22 mm ring or socket spanner, remove the split pin, washer, and bolt, and lift out the fan. Note the felt gasket between the fan and the radiator.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar la tuerca de la unión articulada con una llave de estrella o de vaso de 22 mm, retirar el pasador de aletas, la arandela y el perno, y extraer el ventilador. Tener en cuenta la junta de fieltro entre el ventilador y el radiador.",
+          "runs": [
+            {
+              "text": "Desenroscar la tuerca de la unión articulada con una llave de estrella o de vaso de 22 mm, retirar el pasador de aletas, la arandela y el perno, y extraer el ventilador. Tener en cuenta la junta de fieltro entre el ventilador y el radiador.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -73,8 +105,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate_crop"
   }
 }

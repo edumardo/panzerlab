@@ -6,9 +6,9 @@
   "section": "A07",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "7. Ausbauen des Kraftstoffbehälters",
+    "en-GB": "Section A.7 - Removing the fuel tank",
+    "es-ES": "Sección A.7 - Desmontaje del depósito de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -28,25 +28,33 @@
       "image": "figures/fig029.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250c-bild030",
-      "number": 30,
-      "image": "figures/fig030.jpg",
-      "status": "candidate_crop",
-      "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Ablaßschraube entfernen und Kraftstoff ablassen (unterhalb der Wanne nach Entfernen des Bodendeckels unter dem Kraftstoffbehälter). Befestigungsschrauben der Überlaufschale entsichern und diese mit 10-Steckschlüssel ausschrauben, 1. Schale abheben. Befestigungsschrauben der Schutzplatten, 2 u. 3, entsichern und diese mit 14-Steckschlüssel ausschrauben. Platten abheben. Rechten Lüfter und Kühler ausbauen, Bild 21 bis 28. Kraftstoffleitung unterhalb des Kraftstoffbehälters durch Ausschrauben der Lochschraube abschrauben. Bugpanzer abbauen, Bild 31 bis 38. (Beim Ausbau des Kraftstoffbehälters braucht das Geschütz nicht ausgebaut werden, da der Bugpanzer nur etwas angehoben und nach vorne gesetzt zu werden braucht.)",
+          "runs": [
+            {
+              "text": "Ablaßschraube entfernen und Kraftstoff ablassen (unterhalb der Wanne nach Entfernen des Bodendeckels unter dem Kraftstoffbehälter). Befestigungsschrauben der Überlaufschale entsichern und diese mit 10-Steckschlüssel ausschrauben, 1. Schale abheben. Befestigungsschrauben der Schutzplatten, 2 u. 3, entsichern und diese mit 14-Steckschlüssel ausschrauben. Platten abheben. Rechten Lüfter und Kühler ausbauen, Bild 21 bis 28. Kraftstoffleitung unterhalb des Kraftstoffbehälters durch Ausschrauben der Lochschraube abschrauben. Bugpanzer abbauen, Bild 31 bis 38. (Beim Ausbau des Kraftstoffbehälters braucht das Geschütz nicht ausgebaut werden, da der Bugpanzer nur etwas angehoben und nach vorne gesetzt zu werden braucht.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the drain plug and drain the fuel (below the hull, after removing the floor cover under the fuel tank). Unlock the fastening screws of the overflow bowl (Überlaufschale) and unscrew them with a 10 mm socket spanner, 1. Lift off the bowl. Unlock the fastening screws of the protective plates, 2 and 3, and unscrew them with a 14 mm socket spanner. Lift off the plates. Remove the right-hand fan and radiator, Figs. 21 to 28. Disconnect the fuel line below the fuel tank by unscrewing the hollow screw. Remove the bow armour plate (Bugpanzer), Figs. 31 to 38. (When removing the fuel tank there is no need to remove the gun, since the bow armour plate only needs to be lifted slightly and moved forward.)",
+          "runs": [
+            {
+              "text": "Remove the drain plug and drain the fuel (below the hull, after removing the floor cover under the fuel tank). Unlock the fastening screws of the overflow bowl (Überlaufschale) and unscrew them with a 10 mm socket spanner, 1. Lift off the bowl. Unlock the fastening screws of the protective plates, 2 and 3, and unscrew them with a 14 mm socket spanner. Lift off the plates. Remove the right-hand fan and radiator, Figs. 21 to 28. Disconnect the fuel line below the fuel tank by unscrewing the hollow screw. Remove the bow armour plate (Bugpanzer), Figs. 31 to 38. (When removing the fuel tank there is no need to remove the gun, since the bow armour plate only needs to be lifted slightly and moved forward.)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el tapón de vaciado y vaciar el combustible (por debajo del casco, tras retirar la tapa del piso bajo el depósito de combustible). Desbloquear los tornillos de fijación de la cazoleta de rebose (Überlaufschale) y desenroscarlos con una llave de vaso de 10 mm, 1. Retirar la cazoleta. Desbloquear los tornillos de fijación de las placas protectoras, 2 y 3, y desenroscarlos con una llave de vaso de 14 mm. Retirar las placas. Desmontar el ventilador y el radiador derechos, Figs. 21 a 28. Desconectar la tubería de combustible situada bajo el depósito desenroscando el tornillo hueco. Desmontar el blindaje delantero (Bugpanzer), Figs. 31 a 38. (Al desmontar el depósito de combustible no es necesario desmontar el cañón, ya que el blindaje delantero solo necesita levantarse un poco y desplazarse hacia adelante.)",
+          "runs": [
+            {
+              "text": "Retirar el tapón de vaciado y vaciar el combustible (por debajo del casco, tras retirar la tapa del piso bajo el depósito de combustible). Desbloquear los tornillos de fijación de la cazoleta de rebose (Überlaufschale) y desenroscarlos con una llave de vaso de 10 mm, 1. Retirar la cazoleta. Desbloquear los tornillos de fijación de las placas protectoras, 2 y 3, y desenroscarlos con una llave de vaso de 14 mm. Retirar las placas. Desmontar el ventilador y el radiador derechos, Figs. 21 a 28. Desconectar la tubería de combustible situada bajo el depósito desenroscando el tornillo hueco. Desmontar el blindaje delantero (Bugpanzer), Figs. 31 a 38. (Al desmontar el depósito de combustible no es necesario desmontar el cañón, ya que el blindaje delantero solo necesita levantarse un poco y desplazarse hacia adelante.)",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

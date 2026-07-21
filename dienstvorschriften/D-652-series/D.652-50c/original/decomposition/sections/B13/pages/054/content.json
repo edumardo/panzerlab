@@ -6,9 +6,9 @@
   "section": "B13",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "13. Zerlegen des Motors",
+    "en-GB": "Section B.13 - Dismantling the engine",
+    "es-ES": "Sección B.13 - Despiece del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild089",
-      "number": 89,
-      "image": "figures/fig089.jpg",
+      "id": "d65250c-bild087",
+      "number": 87,
+      "image": "figures/fig087.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 19-Maulschlüssel die beiden Lochschrauben der Kraftstoffleitung an den Vergasern abschrauben. Mit 14-Maulschlüssel die Befestigungsmuttern der Vergaser abschrauben. Kugelgelenke der Vergasergestänge an den Vergasern ausdrücken. Zugfedern aushängen und Vergaser abheben.",
+          "runs": [
+            {
+              "text": "Mit 19-Maulschlüssel die beiden Lochschrauben der Kraftstoffleitung an den Vergasern abschrauben. Mit 14-Maulschlüssel die Befestigungsmuttern der Vergaser abschrauben. Kugelgelenke der Vergasergestänge an den Vergasern ausdrücken. Zugfedern aushängen und Vergaser abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 19 mm open-ended spanner, unscrew the two hollow screws of the fuel line at the carburettors. Using a 14 mm open-ended spanner, unscrew the carburettor fastening nuts. Press the ball joints of the carburettor linkages out of the carburettors. Unhook the return springs and lift off the carburettors.",
+          "runs": [
+            {
+              "text": "Using a 19 mm open-ended spanner, unscrew the two hollow screws of the fuel line at the carburettors. Using a 14 mm open-ended spanner, unscrew the carburettor fastening nuts. Press the ball joints of the carburettor linkages out of the carburettors. Unhook the return springs and lift off the carburettors.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 19 mm, desenroscar los dos tornillos huecos de la tubería de combustible en los carburadores. Con una llave fija de 14 mm, desenroscar las tuercas de fijación de los carburadores. Sacar las rótulas de los varillajes del carburador de los carburadores. Desenganchar los resortes de retorno y retirar los carburadores.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 19 mm, desenroscar los dos tornillos huecos de la tubería de combustible en los carburadores. Con una llave fija de 14 mm, desenroscar las tuercas de fijación de los carburadores. Sacar las rótulas de los varillajes del carburador de los carburadores. Desenganchar los resortes de retorno y retirar los carburadores.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild090",
-      "number": 90,
-      "image": "figures/fig090.jpg",
+      "id": "d65250c-bild088",
+      "number": 88,
+      "image": "figures/fig088.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 14-Maulschlüssel die Befestigungsmuttern des Schnapper-Magneten entfernen und diesen aus dem Motorgehäuse heben.",
+          "runs": [
+            {
+              "text": "Mit 14-Maulschlüssel die Befestigungsmuttern des Schnapper-Magneten entfernen und diesen aus dem Motorgehäuse heben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, remove the fastening nuts of the impulse magneto and lift it out of the engine housing.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, remove the fastening nuts of the impulse magneto and lift it out of the engine housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, retirar las tuercas de fijación del magneto de impulso y extraerlo de la carcasa del motor.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, retirar las tuercas de fijación del magneto de impulso y extraerlo de la carcasa del motor.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

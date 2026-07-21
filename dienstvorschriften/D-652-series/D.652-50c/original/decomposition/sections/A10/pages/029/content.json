@@ -6,9 +6,9 @@
   "section": "A10",
   "type": "text",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "10. Aufbauen des Bugpanzers",
+    "en-GB": "Section A.10 - Installing the bow armour plate",
+    "es-ES": "Sección A.10 - Montaje del blindaje delantero (de proa)"
   },
   "source": {
     "image": "source.jpg",
@@ -20,12 +20,237 @@
     "previous": "d65250c-page-028",
     "next": "d65250c-page-030"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "d65250c-p029-para01",
+      "text": {
+        "de": {
+          "plain": "Bugpanzer wie bei Abbau auf die Wanne setzen, Bild 38 (Abdichtung zwischen Wanne und Bugpanzer beachten).",
+          "runs": [
+            {
+              "text": "Bugpanzer wie bei Abbau auf die Wanne setzen, Bild 38 (Abdichtung zwischen Wanne und Bugpanzer beachten).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the bow armour plate onto the hull as for removal, Fig. 38 (note the seal between the hull and the bow armour plate).",
+          "runs": [
+            {
+              "text": "Fit the bow armour plate onto the hull as for removal, Fig. 38 (note the seal between the hull and the bow armour plate).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el blindaje delantero sobre el casco igual que en el desmontaje, Fig. 38 (tener en cuenta el sellado entre el casco y el blindaje delantero).",
+          "runs": [
+            {
+              "text": "Colocar el blindaje delantero sobre el casco igual que en el desmontaje, Fig. 38 (tener en cuenta el sellado entre el casco y el blindaje delantero).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p029-para02",
+      "text": {
+        "de": {
+          "plain": "Seitliche Befestigungsschrauben des Bugpanzers, Bild 31, einschrauben.",
+          "runs": [
+            {
+              "text": "Seitliche Befestigungsschrauben des Bugpanzers, Bild 31, einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the side fastening screws of the bow armour plate, Fig. 31.",
+          "runs": [
+            {
+              "text": "Fit the side fastening screws of the bow armour plate, Fig. 31.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar los tornillos de fijación laterales del blindaje delantero, Fig. 31.",
+          "runs": [
+            {
+              "text": "Colocar los tornillos de fijación laterales del blindaje delantero, Fig. 31.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p029-para03",
+      "text": {
+        "de": {
+          "plain": "Hintere Befestigungsschrauben, Bild 33, einschrauben.",
+          "runs": [
+            {
+              "text": "Hintere Befestigungsschrauben, Bild 33, einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the rear fastening screws, Fig. 33.",
+          "runs": [
+            {
+              "text": "Fit the rear fastening screws, Fig. 33.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar los tornillos de fijación traseros, Fig. 33.",
+          "runs": [
+            {
+              "text": "Colocar los tornillos de fijación traseros, Fig. 33.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p029-para04",
+      "text": {
+        "de": {
+          "plain": "Vordere Befestigungsschrauben des Bugpanzers, Bild 37, einschrauben.",
+          "runs": [
+            {
+              "text": "Vordere Befestigungsschrauben des Bugpanzers, Bild 37, einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the front fastening screws of the bow armour plate, Fig. 37.",
+          "runs": [
+            {
+              "text": "Fit the front fastening screws of the bow armour plate, Fig. 37.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar los tornillos de fijación delanteros del blindaje delantero, Fig. 37.",
+          "runs": [
+            {
+              "text": "Colocar los tornillos de fijación delanteros del blindaje delantero, Fig. 37.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p029-para05",
+      "text": {
+        "de": {
+          "plain": "Welle des Lüfterklappenverstellhebels vom Motorenraum aus in die Lagerung einführen. Im Kampfraum den Hebel auf die Welle setzen und diesen mit den Keilbolzen befestigen, Bild 34.",
+          "runs": [
+            {
+              "text": "Welle des Lüfterklappenverstellhebels vom Motorenraum aus in die Lagerung einführen. Im Kampfraum den Hebel auf die Welle setzen und diesen mit den Keilbolzen befestigen, Bild 34.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the shaft of the fan-flap actuating lever into its bearing from the engine compartment. In the fighting compartment, fit the lever onto the shaft and secure it with the wedge pin, Fig. 34.",
+          "runs": [
+            {
+              "text": "Insert the shaft of the fan-flap actuating lever into its bearing from the engine compartment. In the fighting compartment, fit the lever onto the shaft and secure it with the wedge pin, Fig. 34.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el eje de la palanca de accionamiento de las compuertas del ventilador en su alojamiento desde la cámara del motor. En la cámara de combate, colocar la palanca sobre el eje y fijarla con el pasador en cuña, Fig. 34.",
+          "runs": [
+            {
+              "text": "Introducir el eje de la palanca de accionamiento de las compuertas del ventilador en su alojamiento desde la cámara del motor. En la cámara de combate, colocar la palanca sobre el eje y fijarla con el pasador en cuña, Fig. 34.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p029-para06",
+      "text": {
+        "de": {
+          "plain": "Drahtzug der Nebelkerzenabwurfvorrichtung vom Kampfraum aus in den Motorenraum einführen und diesen zum Gerät leiten. Drahtzug an dem Abzughebel, Bild 35, festklemmen.",
+          "runs": [
+            {
+              "text": "Drahtzug der Nebelkerzenabwurfvorrichtung vom Kampfraum aus in den Motorenraum einführen und diesen zum Gerät leiten. Drahtzug an dem Abzughebel, Bild 35, festklemmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Feed the wire pull of the smoke-candle discharge device from the fighting compartment into the engine compartment and route it to the device. Clamp the wire pull to the release lever (Abzughebel), Fig. 35.",
+          "runs": [
+            {
+              "text": "Feed the wire pull of the smoke-candle discharge device from the fighting compartment into the engine compartment and route it to the device. Clamp the wire pull to the release lever (Abzughebel), Fig. 35.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Pasar el cable tensor del dispositivo de lanzamiento de botes de humo desde la cámara de combate hacia la cámara del motor y guiarlo hasta el dispositivo. Sujetar el cable tensor a la palanca de disparo (Abzughebel), Fig. 35.",
+          "runs": [
+            {
+              "text": "Pasar el cable tensor del dispositivo de lanzamiento de botes de humo desde la cámara de combate hacia la cámara del motor y guiarlo hasta el dispositivo. Sujetar el cable tensor a la palanca de disparo (Abzughebel), Fig. 35.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p029-para07",
+      "text": {
+        "de": {
+          "plain": "Leitungen zu den elektrischen Geräten anschließen.",
+          "runs": [
+            {
+              "text": "Leitungen zu den elektrischen Geräten anschließen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Connect the leads to the electrical equipment.",
+          "runs": [
+            {
+              "text": "Connect the leads to the electrical equipment.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conectar los cables a los equipos eléctricos.",
+          "runs": [
+            {
+              "text": "Conectar los cables a los equipos eléctricos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "not_applicable"
   }
 }

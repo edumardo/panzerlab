@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig237.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Kurbelwelle an der Wasserpumpenseite mit einem Schlüssel so weit herumdrehen, daß die Kolben 1 und 6 oben stehen (linke Zylinderreihe von der Wasserpumpenseite aus). Schwungrad mit dem Einstellzeichen 1 und 6 oben mit den Vierkantschrauben an den Kurbelwellenflansch schrauben. Kupplung an das Schwungrad bauen.",
+          "runs": [
+            {
+              "text": "Kurbelwelle an der Wasserpumpenseite mit einem Schlüssel so weit herumdrehen, daß die Kolben 1 und 6 oben stehen (linke Zylinderreihe von der Wasserpumpenseite aus). Schwungrad mit dem Einstellzeichen 1 und 6 oben mit den Vierkantschrauben an den Kurbelwellenflansch schrauben. Kupplung an das Schwungrad bauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a spanner, turn the crankshaft at the water-pump side until pistons 1 and 6 are at the top (left-hand cylinder row as viewed from the water-pump side). Bolt the flywheel, with the timing mark 1 and 6 at the top, to the crankshaft flange using the square-head screws. Fit the clutch to the flywheel.",
+          "runs": [
+            {
+              "text": "Using a spanner, turn the crankshaft at the water-pump side until pistons 1 and 6 are at the top (left-hand cylinder row as viewed from the water-pump side). Bolt the flywheel, with the timing mark 1 and 6 at the top, to the crankshaft flange using the square-head screws. Fit the clutch to the flywheel.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave, girar el cigüeñal por el lado de la bomba de agua hasta que los pistones 1 y 6 queden arriba (fila de cilindros izquierda vista desde el lado de la bomba de agua). Atornillar el volante, con la marca de sincronización 1 y 6 arriba, a la brida del cigüeñal con los tornillos de cabeza cuadrada. Montar el embrague en el volante.",
+          "runs": [
+            {
+              "text": "Con una llave, girar el cigüeñal por el lado de la bomba de agua hasta que los pistones 1 y 6 queden arriba (fila de cilindros izquierda vista desde el lado de la bomba de agua). Atornillar el volante, con la marca de sincronización 1 y 6 arriba, a la brida del cigüeñal con los tornillos de cabeza cuadrada. Montar el embrague en el volante.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -40,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

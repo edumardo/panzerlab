@@ -6,9 +6,9 @@
   "section": "A07",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "7. Ausbauen des Kraftstoffbehälters",
+    "en-GB": "Section A.7 - Removing the fuel tank",
+    "es-ES": "Sección A.7 - Desmontaje del depósito de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -23,30 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild031",
-      "number": 31,
-      "image": "figures/fig031.jpg",
+      "id": "d65250c-bild030",
+      "number": 30,
+      "image": "figures/fig030.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250c-bild032",
-      "number": 32,
-      "image": "figures/fig032.jpg",
-      "status": "candidate_crop",
-      "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 17-Steck- und Maulschlüssel die beiden Spannschrauben aus den Spannbändern des Kraftstoffbehälters entfernen. Schlauch von der Rohrleitung zum Kraftstoffanzeiger ziehen und Rohr zur Seite biegen. Kraftstoffbehälter ausheben.",
+          "runs": [
+            {
+              "text": "Mit 17-Steck- und Maulschlüssel die beiden Spannschrauben aus den Spannbändern des Kraftstoffbehälters entfernen. Schlauch von der Rohrleitung zum Kraftstoffanzeiger ziehen und Rohr zur Seite biegen. Kraftstoffbehälter ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm socket and open-ended spanner, remove the two tensioning screws from the fuel-tank retaining straps. Pull the hose off the pipe leading to the fuel gauge and bend the pipe aside. Lift out the fuel tank.",
+          "runs": [
+            {
+              "text": "Using a 17 mm socket and open-ended spanner, remove the two tensioning screws from the fuel-tank retaining straps. Pull the hose off the pipe leading to the fuel gauge and bend the pipe aside. Lift out the fuel tank.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de vaso y una llave fija de 17 mm, retirar los dos tornillos tensores de las correas de sujeción del depósito de combustible. Sacar la manguera del tubo que va al indicador de combustible y doblar el tubo hacia un lado. Extraer el depósito de combustible.",
+          "runs": [
+            {
+              "text": "Con una llave de vaso y una llave fija de 17 mm, retirar los dos tornillos tensores de las correas de sujeción del depósito de combustible. Sacar la manguera del tubo que va al indicador de combustible y doblar el tubo hacia un lado. Extraer el depósito de combustible.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

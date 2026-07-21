@@ -6,9 +6,9 @@
   "section": "B16",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "16. Nacharbeiten des Zylinderkopfes",
+    "en-GB": "Section B.16 - Reworking the cylinder head",
+    "es-ES": "Sección B.16 - Repaso de la culata"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild129",
-      "number": 129,
-      "image": "figures/fig129.jpg",
+      "id": "d65250c-bild127",
+      "number": 127,
+      "image": "figures/fig127.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 17-Ringschlüssel die Befestigungsmuttern des Auspuffkrümmers abschrauben.",
+          "runs": [
+            {
+              "text": "Mit 17-Ringschlüssel die Befestigungsmuttern des Auspuffkrümmers abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm ring spanner, unscrew the fastening nuts of the exhaust manifold.",
+          "runs": [
+            {
+              "text": "Using a 17 mm ring spanner, unscrew the fastening nuts of the exhaust manifold.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de estrella de 17 mm, desenroscar las tuercas de fijación del colector de escape.",
+          "runs": [
+            {
+              "text": "Con una llave de estrella de 17 mm, desenroscar las tuercas de fijación del colector de escape.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild130",
-      "number": 130,
-      "image": "figures/fig130.jpg",
+      "id": "d65250c-bild128",
+      "number": 128,
+      "image": "figures/fig128.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Spitzzange die Seegerringe aus den oberen Ventilfedertellern entfernen.",
+          "runs": [
+            {
+              "text": "Mit Spitzzange die Seegerringe aus den oberen Ventilfedertellern entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using pointed pliers, remove the circlips from the upper valve-spring caps.",
+          "runs": [
+            {
+              "text": "Using pointed pliers, remove the circlips from the upper valve-spring caps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con unos alicates de punta, retirar los anillos de retención de los platillos superiores de los resortes de válvula.",
+          "runs": [
+            {
+              "text": "Con unos alicates de punta, retirar los anillos de retención de los platillos superiores de los resortes de válvula.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

@@ -6,9 +6,9 @@
   "section": "B13",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "13. Zerlegen des Motors",
+    "en-GB": "Section B.13 - Dismantling the engine",
+    "es-ES": "Sección B.13 - Despiece del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild115",
-      "number": 115,
-      "image": "figures/fig115.jpg",
+      "id": "d65250c-bild113",
+      "number": 113,
+      "image": "figures/fig113.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 10-Maulschlüssel die Halteschraube der Blechsicherung und mit 14-Maulschlüssel die Ölschlauchbefestigungsschraube zu beiden Seiten des Motors entfernen.",
+          "runs": [
+            {
+              "text": "Mit 10-Maulschlüssel die Halteschraube der Blechsicherung und mit 14-Maulschlüssel die Ölschlauchbefestigungsschraube zu beiden Seiten des Motors entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 10 mm open-ended spanner, remove the retaining screw of the sheet-metal lock, and using a 14 mm open-ended spanner, remove the oil-hose fastening screw on both sides of the engine.",
+          "runs": [
+            {
+              "text": "Using a 10 mm open-ended spanner, remove the retaining screw of the sheet-metal lock, and using a 14 mm open-ended spanner, remove the oil-hose fastening screw on both sides of the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 10 mm, retirar el tornillo de sujeción de la chapa de seguridad, y con una llave fija de 14 mm, retirar el tornillo de fijación de la manguera de aceite a ambos lados del motor.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 10 mm, retirar el tornillo de sujeción de la chapa de seguridad, y con una llave fija de 14 mm, retirar el tornillo de fijación de la manguera de aceite a ambos lados del motor.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild116",
-      "number": 116,
-      "image": "figures/fig116.jpg",
+      "id": "d65250c-bild114",
+      "number": 114,
+      "image": "figures/fig114.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Splinte aus dem vorderen und hinteren Ölzuführungslager entfernen und mit 17-Steckschlüssel die Muttern von den Paßschrauben schrauben. Paßschrauben ausschlagen und obere Lagerhälfte abheben. Kurbelwelle aus dem Gehäuse heben.",
+          "runs": [
+            {
+              "text": "Splinte aus dem vorderen und hinteren Ölzuführungslager entfernen und mit 17-Steckschlüssel die Muttern von den Paßschrauben schrauben. Paßschrauben ausschlagen und obere Lagerhälfte abheben. Kurbelwelle aus dem Gehäuse heben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the split pins from the front and rear oil-supply bearings and unscrew the nuts from the fitted bolts with a 17 mm socket spanner. Knock out the fitted bolts and lift off the upper bearing half. Lift the crankshaft out of the housing.",
+          "runs": [
+            {
+              "text": "Remove the split pins from the front and rear oil-supply bearings and unscrew the nuts from the fitted bolts with a 17 mm socket spanner. Knock out the fitted bolts and lift off the upper bearing half. Lift the crankshaft out of the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los pasadores de aletas de los cojinetes de alimentación de aceite delantero y trasero y desenroscar las tuercas de los tornillos ajustados con una llave de vaso de 17 mm. Sacar a golpes los tornillos ajustados y retirar la mitad superior del cojinete. Extraer el cigüeñal de la carcasa.",
+          "runs": [
+            {
+              "text": "Retirar los pasadores de aletas de los cojinetes de alimentación de aceite delantero y trasero y desenroscar las tuercas de los tornillos ajustados con una llave de vaso de 17 mm. Sacar a golpes los tornillos ajustados y retirar la mitad superior del cojinete. Extraer el cigüeñal de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

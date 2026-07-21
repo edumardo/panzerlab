@@ -6,9 +6,9 @@
   "section": "A11",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "11. Ausbauen des Sammlers",
+    "en-GB": "Section A.11 - Removing the battery (accumulator)",
+    "es-ES": "Sección A.11 - Desmontaje de la batería (acumulador)"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild041",
-      "number": 41,
-      "image": "figures/fig041.jpg",
+      "id": "d65250c-bild039",
+      "number": 39,
+      "image": "figures/fig039.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Heckpanzer abbauen, Bild 1—4. Mit 14-Maulschlüssel die beiden Muttern der Sammlerdeckelbefestigung lösen. Klappschrauben beiseitelegen und Deckel abheben.",
+          "runs": [
+            {
+              "text": "Heckpanzer abbauen, Bild 1—4. Mit 14-Maulschlüssel die beiden Muttern der Sammlerdeckelbefestigung lösen. Klappschrauben beiseitelegen und Deckel abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the rear armour plate, Figs. 1-4. Using a 14 mm open-ended spanner, loosen the two nuts of the battery-box lid fastening. Set the hinge screws aside and lift off the lid.",
+          "runs": [
+            {
+              "text": "Remove the rear armour plate, Figs. 1-4. Using a 14 mm open-ended spanner, loosen the two nuts of the battery-box lid fastening. Set the hinge screws aside and lift off the lid.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontar el blindaje trasero, Figs. 1-4. Con una llave fija de 14 mm, aflojar las dos tuercas de la fijación de la tapa del cajón de la batería. Apartar los tornillos de la bisagra y levantar la tapa.",
+          "runs": [
+            {
+              "text": "Desmontar el blindaje trasero, Figs. 1-4. Con una llave fija de 14 mm, aflojar las dos tuercas de la fijación de la tapa del cajón de la batería. Apartar los tornillos de la bisagra y levantar la tapa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild042",
-      "number": 42,
-      "image": "figures/fig042.jpg",
+      "id": "d65250c-bild040",
+      "number": 40,
+      "image": "figures/fig040.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 14-Maulschlüssel die Muttern der Sammlerklemmen lösen und diese abheben.",
+          "runs": [
+            {
+              "text": "Mit 14-Maulschlüssel die Muttern der Sammlerklemmen lösen und diese abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, loosen the nuts of the battery clamps and lift them off.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, loosen the nuts of the battery clamps and lift them off.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, aflojar las tuercas de las abrazaderas de la batería y retirarlas.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, aflojar las tuercas de las abrazaderas de la batería y retirarlas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

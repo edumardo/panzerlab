@@ -6,18 +6,18 @@
   "source_scan": "source.jpg",
   "content": "content.json",
   "source_scan_status": "extracted_clean",
-  "transcription_status": "pending",
-  "translation_en_status": "pending",
-  "translation_es_status": "pending",
+  "transcription_status": "draft",
+  "translation_en_status": "draft",
+  "translation_es_status": "draft",
   "figures": [
     {
-      "number": 121,
-      "path": "figures/fig121.jpg",
+      "number": 119,
+      "path": "figures/fig119.jpg",
       "status": "candidate_crop"
     },
     {
-      "number": 122,
-      "path": "figures/fig122.jpg",
+      "number": 120,
+      "path": "figures/fig120.jpg",
       "status": "candidate_crop"
     }
   ]

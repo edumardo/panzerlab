@@ -6,9 +6,9 @@
   "section": "A08",
   "type": "text",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "8. Einbauen des Kraftstoffbehälters",
+    "en-GB": "Section A.8 - Installing the fuel tank",
+    "es-ES": "Sección A.8 - Montaje del depósito de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -20,12 +20,301 @@
     "previous": "d65250c-page-023",
     "next": "d65250c-page-025"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "d65250c-p024-para01",
+      "text": {
+        "de": {
+          "plain": "Kraftstoffbehälter in die Wanne setzen. Vor dem Einsetzen die Filzunterlagen prüfen.",
+          "runs": [
+            {
+              "text": "Kraftstoffbehälter in die Wanne setzen. Vor dem Einsetzen die Filzunterlagen prüfen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the fuel tank in the hull. Before fitting, check the felt pads (Filzunterlagen).",
+          "runs": [
+            {
+              "text": "Place the fuel tank in the hull. Before fitting, check the felt pads (Filzunterlagen).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el depósito de combustible en el casco. Antes de instalarlo, comprobar los apoyos de fieltro (Filzunterlagen).",
+          "runs": [
+            {
+              "text": "Colocar el depósito de combustible en el casco. Antes de instalarlo, comprobar los apoyos de fieltro (Filzunterlagen).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para02",
+      "text": {
+        "de": {
+          "plain": "Obere Schutzplatte auflegen und prüfen, ob Kraftstoffbehälter sich in richtiger Lage befindet. (Durch Hindrücken des Einfüllstutzens bei der Montage besteht die Gefahr des Lösens der Lötstellen und Undichtwerden des Behälters.) Nach Ausrichten des Behälters Platte abheben und diesen mit den beiden Spannbändern festschrauben, Bild 30.",
+          "runs": [
+            {
+              "text": "Obere Schutzplatte auflegen und prüfen, ob Kraftstoffbehälter sich in richtiger Lage befindet. (Durch Hindrücken des Einfüllstutzens bei der Montage besteht die Gefahr des Lösens der Lötstellen und Undichtwerden des Behälters.) Nach Ausrichten des Behälters Platte abheben und diesen mit den beiden Spannbändern festschrauben, Bild 30.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the upper protective plate and check that the fuel tank is correctly positioned. (Pressing on the filler neck during fitting risks loosening the soldered joints and causing the tank to leak.) After aligning the tank, lift off the plate and bolt the tank down with the two retaining straps, Fig. 30.",
+          "runs": [
+            {
+              "text": "Fit the upper protective plate and check that the fuel tank is correctly positioned. (Pressing on the filler neck during fitting risks loosening the soldered joints and causing the tank to leak.) After aligning the tank, lift off the plate and bolt the tank down with the two retaining straps, Fig. 30.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la placa protectora superior y comprobar que el depósito de combustible está en la posición correcta. (Presionar la boca de llenado durante el montaje puede aflojar las soldaduras y provocar fugas en el depósito.) Tras alinear el depósito, retirar la placa y atornillarlo con las dos correas de sujeción, Fig. 30.",
+          "runs": [
+            {
+              "text": "Colocar la placa protectora superior y comprobar que el depósito de combustible está en la posición correcta. (Presionar la boca de llenado durante el montaje puede aflojar las soldaduras y provocar fugas en el depósito.) Tras alinear el depósito, retirar la placa y atornillarlo con las dos correas de sujeción, Fig. 30.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para03",
+      "text": {
+        "de": {
+          "plain": "Schlauch zum Kraftstoffanzeiger auf das Rohr schieben und dieses über den Behälter biegen.",
+          "runs": [
+            {
+              "text": "Schlauch zum Kraftstoffanzeiger auf das Rohr schieben und dieses über den Behälter biegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the hose leading to the fuel gauge onto the pipe and bend it over the tank.",
+          "runs": [
+            {
+              "text": "Slide the hose leading to the fuel gauge onto the pipe and bend it over the tank.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar la manguera que va al indicador de combustible sobre el tubo y doblarlo por encima del depósito.",
+          "runs": [
+            {
+              "text": "Deslizar la manguera que va al indicador de combustible sobre el tubo y doblarlo por encima del depósito.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para04",
+      "text": {
+        "de": {
+          "plain": "Rechten Kühler und Lüfter einbauen, Seite 17.",
+          "runs": [
+            {
+              "text": "Rechten Kühler und Lüfter einbauen, Seite 17.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Install the right-hand radiator and fan, page 17.",
+          "runs": [
+            {
+              "text": "Install the right-hand radiator and fan, page 17.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el radiador y ventilador derechos, página 17.",
+          "runs": [
+            {
+              "text": "Montar el radiador y ventilador derechos, página 17.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para05",
+      "text": {
+        "de": {
+          "plain": "Schutzplatten und Überlaufschale des Kraftstoffbehälters einbauen, Bild 29.",
+          "runs": [
+            {
+              "text": "Schutzplatten und Überlaufschale des Kraftstoffbehälters einbauen, Bild 29.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Install the protective plates and the overflow bowl of the fuel tank, Fig. 29.",
+          "runs": [
+            {
+              "text": "Install the protective plates and the overflow bowl of the fuel tank, Fig. 29.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar las placas protectoras y la cazoleta de rebose del depósito de combustible, Fig. 29.",
+          "runs": [
+            {
+              "text": "Montar las placas protectoras y la cazoleta de rebose del depósito de combustible, Fig. 29.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para06",
+      "text": {
+        "de": {
+          "plain": "Rohrleitung unterhalb des Kraftstoffbehälters mit der Lochschraube am Kraftstoffbehälter anschließen. Dichtung beachten.",
+          "runs": [
+            {
+              "text": "Rohrleitung unterhalb des Kraftstoffbehälters mit der Lochschraube am Kraftstoffbehälter anschließen. Dichtung beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Connect the pipe below the fuel tank to the fuel tank with the hollow screw. Note the gasket.",
+          "runs": [
+            {
+              "text": "Connect the pipe below the fuel tank to the fuel tank with the hollow screw. Note the gasket.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conectar la tubería situada bajo el depósito de combustible al depósito con el tornillo hueco. Tener en cuenta la junta.",
+          "runs": [
+            {
+              "text": "Conectar la tubería situada bajo el depósito de combustible al depósito con el tornillo hueco. Tener en cuenta la junta.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para07",
+      "text": {
+        "de": {
+          "plain": "Einbaudeckel zum Ab- und Anschließen der Rohrleitung unterhalb des Behälters an die Wanne schrauben.",
+          "runs": [
+            {
+              "text": "Einbaudeckel zum Ab- und Anschließen der Rohrleitung unterhalb des Behälters an die Wanne schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the access cover, used for disconnecting and connecting the pipe below the tank, to the hull.",
+          "runs": [
+            {
+              "text": "Bolt the access cover, used for disconnecting and connecting the pipe below the tank, to the hull.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar al casco la tapa de acceso utilizada para desconectar y conectar la tubería bajo el depósito.",
+          "runs": [
+            {
+              "text": "Atornillar al casco la tapa de acceso utilizada para desconectar y conectar la tubería bajo el depósito.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para08",
+      "text": {
+        "de": {
+          "plain": "Bugpanzer aufbauen, Seite 25.",
+          "runs": [
+            {
+              "text": "Bugpanzer aufbauen, Seite 25.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the bow armour plate, page 25.",
+          "runs": [
+            {
+              "text": "Fit the bow armour plate, page 25.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el blindaje delantero, página 25.",
+          "runs": [
+            {
+              "text": "Montar el blindaje delantero, página 25.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250c-p024-para09",
+      "text": {
+        "de": {
+          "plain": "Heckpanzerung aufbauen, Seite 3.",
+          "runs": [
+            {
+              "text": "Heckpanzerung aufbauen, Seite 3.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the rear armour plate, page 3.",
+          "runs": [
+            {
+              "text": "Fit the rear armour plate, page 3.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el blindaje trasero, página 3.",
+          "runs": [
+            {
+              "text": "Montar el blindaje trasero, página 3.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "not_applicable"
   }
 }

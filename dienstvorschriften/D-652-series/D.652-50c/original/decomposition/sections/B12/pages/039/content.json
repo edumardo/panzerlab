@@ -6,9 +6,9 @@
   "section": "B12",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "12. Ausbauen des Motors",
+    "en-GB": "Section B.12 - Removing the engine",
+    "es-ES": "Sección B.12 - Desmontaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild059",
-      "number": 59,
-      "image": "figures/fig059.jpg",
+      "id": "d65250c-bild057",
+      "number": 57,
+      "image": "figures/fig057.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Schlauchbinder am rechten Kühler und den beiden hinteren Motorstutzen lösen. Die mit Schraubenzieher vorsichtig gelösten Kühlwasserschläuche auf die Wasserrohre schieben.",
+          "runs": [
+            {
+              "text": "Schlauchbinder am rechten Kühler und den beiden hinteren Motorstutzen lösen. Die mit Schraubenzieher vorsichtig gelösten Kühlwasserschläuche auf die Wasserrohre schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the hose clips at the right-hand radiator and the two rear engine stubs. Carefully release the coolant hoses with a screwdriver and slide them onto the water pipes.",
+          "runs": [
+            {
+              "text": "Release the hose clips at the right-hand radiator and the two rear engine stubs. Carefully release the coolant hoses with a screwdriver and slide them onto the water pipes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar las abrazaderas de manguera en el radiador derecho y en los dos racores traseros del motor. Aflojar con cuidado las mangueras de refrigerante con un destornillador y deslizarlas sobre los tubos de agua.",
+          "runs": [
+            {
+              "text": "Aflojar las abrazaderas de manguera en el radiador derecho y en los dos racores traseros del motor. Aflojar con cuidado las mangueras de refrigerante con un destornillador y deslizarlas sobre los tubos de agua.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild060",
-      "number": 60,
-      "image": "figures/fig060.jpg",
+      "id": "d65250c-bild058",
+      "number": 58,
+      "image": "figures/fig058.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Rohranlage abheben.",
+          "runs": [
+            {
+              "text": "Rohranlage abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift off the pipe assembly.",
+          "runs": [
+            {
+              "text": "Lift off the pipe assembly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el conjunto de tubos.",
+          "runs": [
+            {
+              "text": "Retirar el conjunto de tubos.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

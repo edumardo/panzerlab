@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "5. Ausbauen des rechten Lüfters und Kühlers",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Section A.5 - Removing the right-hand fan and radiator",
+    "es-ES": "Sección A.5 - Desmontaje del ventilador y radiador derechos"
   },
   "source": {
     "image": "source.jpg",
@@ -37,8 +37,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Unlock the fastening screws of the protective plate that runs diagonally downward in front of the fuel tank and unscrew them with a 14 mm socket wrench (ratchet). Lift off the plate.",
+          "runs": [
+            {
+              "text": "Unlock the fastening screws of the protective plate that runs diagonally downward in front of the fuel tank and unscrew them with a 14 mm socket wrench (ratchet). Lift off the plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desbloquear los tornillos de fijación de la placa protectora que discurre en diagonal hacia abajo delante del depósito de combustible y desenroscarlos con una llave de vaso (carraca) de 14 mm. Retirar la placa.",
+          "runs": [
+            {
+              "text": "Desbloquear los tornillos de fijación de la placa protectora que discurre en diagonal hacia abajo delante del depósito de combustible y desenroscarlos con una llave de vaso (carraca) de 14 mm. Retirar la placa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -61,8 +77,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Remove the split pins from the castle nuts and unscrew both front radiator-fastening screws with two 17 mm open-ended spanners. Lift out the radiator.",
+          "runs": [
+            {
+              "text": "Remove the split pins from the castle nuts and unscrew both front radiator-fastening screws with two 17 mm open-ended spanners. Lift out the radiator.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los pasadores de aletas de las tuercas almenadas y desenroscar los dos tornillos de fijación delanteros del radiador con dos llaves fijas de 17 mm. Extraer el radiador.",
+          "runs": [
+            {
+              "text": "Retirar los pasadores de aletas de las tuercas almenadas y desenroscar los dos tornillos de fijación delanteros del radiador con dos llaves fijas de 17 mm. Extraer el radiador.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -73,8 +105,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate_crop"
   }
 }

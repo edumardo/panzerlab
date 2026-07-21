@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig255.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Rechten vorderen Motoraufhängebock an den Motor bauen.",
+          "runs": [
+            {
+              "text": "Rechten vorderen Motoraufhängebock an den Motor bauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the right-hand front engine-mount bracket to the engine.",
+          "runs": [
+            {
+              "text": "Fit the right-hand front engine-mount bracket to the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar en el motor el soporte de montaje delantero derecho del motor.",
+          "runs": [
+            {
+              "text": "Montar en el motor el soporte de montaje delantero derecho del motor.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig256.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Gelenkwelle zum Lüfterantrieb an die Riemenscheibe des Motors bauen.",
+          "runs": [
+            {
+              "text": "Gelenkwelle zum Lüfterantrieb an die Riemenscheibe des Motors bauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the cardan shaft for the fan drive to the belt pulley of the engine.",
+          "runs": [
+            {
+              "text": "Fit the cardan shaft for the fan drive to the belt pulley of the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el árbol de transmisión del accionamiento del ventilador en la polea del motor.",
+          "runs": [
+            {
+              "text": "Montar el árbol de transmisión del accionamiento del ventilador en la polea del motor.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

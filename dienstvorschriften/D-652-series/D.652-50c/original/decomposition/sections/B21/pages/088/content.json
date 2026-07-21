@@ -4,11 +4,11 @@
   "document_id": "d652-50c",
   "page": 88,
   "section": "B21",
-  "type": "text",
+  "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "21. Verpacken der Stopfbuchse",
+    "en-GB": "Section B.21 - Repacking the gland",
+    "es-ES": "Sección B.21 - Reempaquetado del prensaestopas"
   },
   "source": {
     "image": "source.jpg",
@@ -21,11 +21,92 @@
     "next": "d65250c-page-089"
   },
   "paragraphs": [],
-  "figures": [],
+  "figures": [
+    {
+      "id": "d65250c-bild154",
+      "number": 154,
+      "image": "figures/fig154.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Bei undicht gewordener Stopfbuchse die Stopfbuchsenmutter mit dem Wasserpumpenschlüssel oder 46-Maulschlüssel nachdrehen.",
+          "runs": [
+            {
+              "text": "Bei undicht gewordener Stopfbuchse die Stopfbuchsenmutter mit dem Wasserpumpenschlüssel oder 46-Maulschlüssel nachdrehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the gland has become leaky, tighten the gland nut with the water-pump spanner or a 46 mm open-ended spanner.",
+          "runs": [
+            {
+              "text": "If the gland has become leaky, tighten the gland nut with the water-pump spanner or a 46 mm open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si el prensaestopas ha empezado a tener fugas, apretar la tuerca del prensaestopas con la llave de bomba de agua o una llave fija de 46 mm.",
+          "runs": [
+            {
+              "text": "Si el prensaestopas ha empezado a tener fugas, apretar la tuerca del prensaestopas con la llave de bomba de agua o una llave fija de 46 mm.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250c-bild155",
+      "number": 155,
+      "image": "figures/fig155.jpg",
+      "status": "validated",
+      "captions": {
+        "de": {
+          "plain": "Bei nicht mehr nachzuziehender Stopfbuchsenmutter diese abschrauben und so viele neue Asbest-Dichtringe einlegen, daß die Stopfbuchsenmutter sich noch gut aufschrauben läßt. Stopfbuchsenmutter so weit festziehen, bis die Wasserpumpe kein Wasser mehr verliert.",
+          "runs": [
+            {
+              "text": "Bei nicht mehr nachzuziehender Stopfbuchsenmutter diese abschrauben und so viele neue Asbest-Dichtringe einlegen, daß die Stopfbuchsenmutter sich noch gut aufschrauben läßt. Stopfbuchsenmutter so weit festziehen, bis die Wasserpumpe kein Wasser mehr verliert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the gland nut can no longer be tightened, unscrew it and insert enough new asbestos sealing rings so that the gland nut can still be screwed on properly. Tighten the gland nut until the water pump no longer loses water.",
+          "runs": [
+            {
+              "text": "If the gland nut can no longer be tightened, unscrew it and insert enough new asbestos sealing rings so that the gland nut can still be screwed on properly. Tighten the gland nut until the water pump no longer loses water.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si la tuerca del prensaestopas ya no puede apretarse más, desenroscarla e introducir suficientes anillos de estanqueidad de amianto nuevos para que la tuerca del prensaestopas todavía pueda enroscarse bien. Apretar la tuerca del prensaestopas hasta que la bomba de agua deje de perder agua.",
+          "runs": [
+            {
+              "text": "Si la tuerca del prensaestopas ya no puede apretarse más, desenroscarla e introducir suficientes anillos de estanqueidad de amianto nuevos para que la tuerca del prensaestopas todavía pueda enroscarse bien. Apretar la tuerca del prensaestopas hasta que la bomba de agua deje de perder agua.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
-    "figures": "not_applicable"
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "validated"
   }
 }

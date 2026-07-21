@@ -6,9 +6,9 @@
   "section": "B20",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "20. Nachstellen der Wasserpumpenwellenlagerung",
+    "en-GB": "Section B.20 - Adjusting the water-pump shaft bearing",
+    "es-ES": "Sección B.20 - Ajuste del cojinete del eje de la bomba de agua"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild155",
-      "number": 155,
-      "image": "figures/fig155.jpg",
+      "id": "d65250c-bild153",
+      "number": 153,
+      "image": "figures/fig153.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Hammer und Dorn den Kegelstift aus der Welle entfernen. Ringmutter so weit rechts herumdrehen, bis das Spiel der Lagerung aufgehoben und die Welle sich leicht drehen läßt. Kegelstift wieder einschlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn den Kegelstift aus der Welle entfernen. Ringmutter so weit rechts herumdrehen, bis das Spiel der Lagerung aufgehoben und die Welle sich leicht drehen läßt. Kegelstift wieder einschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a hammer and drift, remove the taper pin from the shaft. Turn the ring nut to the right until the bearing play is taken up and the shaft turns easily. Drive the taper pin back in.",
+          "runs": [
+            {
+              "text": "Using a hammer and drift, remove the taper pin from the shaft. Turn the ring nut to the right until the bearing play is taken up and the shaft turns easily. Drive the taper pin back in.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un martillo y un botador, retirar la clavija cónica del eje. Girar la tuerca anular hacia la derecha hasta eliminar el juego del cojinete y que el eje gire con facilidad. Volver a introducir la clavija cónica a golpes.",
+          "runs": [
+            {
+              "text": "Con un martillo y un botador, retirar la clavija cónica del eje. Girar la tuerca anular hacia la derecha hasta eliminar el juego del cojinete y que el eje gire con facilidad. Volver a introducir la clavija cónica a golpes.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -40,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

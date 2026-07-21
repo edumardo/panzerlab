@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig225.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "An das untere Motorengehäuse mit 14-Maulschlüssel die Ölpumpen anbauen. Die Dichtungen zwischen Pumpen und Gehäuse beachten.",
+          "runs": [
+            {
+              "text": "An das untere Motorengehäuse mit 14-Maulschlüssel die Ölpumpen anbauen. Die Dichtungen zwischen Pumpen und Gehäuse beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, fit the oil pumps to the lower engine housing. Note the gaskets between the pumps and the housing.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, fit the oil pumps to the lower engine housing. Note the gaskets between the pumps and the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, montar las bombas de aceite en la carcasa inferior del motor. Tener en cuenta las juntas entre las bombas y la carcasa.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, montar las bombas de aceite en la carcasa inferior del motor. Tener en cuenta las juntas entre las bombas y la carcasa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig226.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 14-Maulschlüssel die beiden Ölschläuche zu beiden Seiten des Motors an das Motorgehäuse anschrauben. Dichtungen beachten. Sicherungsbleche auf die Vierkantköpfe der beiden Befestigungsschrauben legen und Sicherungsbleche mit den 10-mm-Kopfschrauben festschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-Maulschlüssel die beiden Ölschläuche zu beiden Seiten des Motors an das Motorgehäuse anschrauben. Dichtungen beachten. Sicherungsbleche auf die Vierkantköpfe der beiden Befestigungsschrauben legen und Sicherungsbleche mit den 10-mm-Kopfschrauben festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, bolt the two oil hoses to the engine housing on both sides of the engine. Note the gaskets. Place the sheet-metal locks onto the square heads of the two fastening screws and bolt the locks down with the 10 mm cap screws.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, bolt the two oil hoses to the engine housing on both sides of the engine. Note the gaskets. Place the sheet-metal locks onto the square heads of the two fastening screws and bolt the locks down with the 10 mm cap screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, atornillar las dos mangueras de aceite a la carcasa del motor en ambos lados del motor. Tener en cuenta las juntas. Colocar las chapas de seguridad sobre las cabezas cuadradas de los dos tornillos de fijación y atornillar las chapas con los tornillos de cabeza de 10 mm.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, atornillar las dos mangueras de aceite a la carcasa del motor en ambos lados del motor. Tener en cuenta las juntas. Colocar las chapas de seguridad sobre las cabezas cuadradas de los dos tornillos de fijación y atornillar las chapas con los tornillos de cabeza de 10 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

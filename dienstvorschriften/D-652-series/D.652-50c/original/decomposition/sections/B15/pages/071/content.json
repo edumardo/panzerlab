@@ -6,9 +6,9 @@
   "section": "B15",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "15. Instandsetzen des Motors",
+    "en-GB": "Section B.15 - Repairing the engine",
+    "es-ES": "Sección B.15 - Reparación del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild123",
-      "number": 123,
-      "image": "figures/fig123.jpg",
+      "id": "d65250c-bild121",
+      "number": 121,
+      "image": "figures/fig121.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Motorenöl auf etwa 150° erhitzen. Kolben hineinlegen und diese durchwärmen lassen. Bolzenaugen des Kolbens in der Flucht mit der Pleuelbuchse halten und den Kolbenbolzen bis zum Anschlag an den Seegerring schnell hineinschieben.",
+          "runs": [
+            {
+              "text": "Motorenöl auf etwa 150° erhitzen. Kolben hineinlegen und diese durchwärmen lassen. Bolzenaugen des Kolbens in der Flucht mit der Pleuelbuchse halten und den Kolbenbolzen bis zum Anschlag an den Seegerring schnell hineinschieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Heat the engine oil to about 150°C. Place the piston in it and let it warm through. Keep the gudgeon-pin bosses of the piston aligned with the connecting-rod bush and quickly push the gudgeon pin in as far as the circlip.",
+          "runs": [
+            {
+              "text": "Heat the engine oil to about 150°C. Place the piston in it and let it warm through. Keep the gudgeon-pin bosses of the piston aligned with the connecting-rod bush and quickly push the gudgeon pin in as far as the circlip.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Calentar el aceite de motor a unos 150 °C. Sumergir el pistón en él y dejar que se caliente por completo. Mantener los bujes del bulón del pistón alineados con el casquillo de la biela e introducir rápidamente el bulón hasta el tope contra el anillo de retención.",
+          "runs": [
+            {
+              "text": "Calentar el aceite de motor a unos 150 °C. Sumergir el pistón en él y dejar que se caliente por completo. Mantener los bujes del bulón del pistón alineados con el casquillo de la biela e introducir rápidamente el bulón hasta el tope contra el anillo de retención.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild124",
-      "number": 124,
-      "image": "figures/fig124.jpg",
+      "id": "d65250c-bild122",
+      "number": 122,
+      "image": "figures/fig122.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Seegerzange in das andere Kolbenbolzenauge den Seegerring einsetzen.",
+          "runs": [
+            {
+              "text": "Mit Seegerzange in das andere Kolbenbolzenauge den Seegerring einsetzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using circlip pliers, fit the circlip into the other gudgeon-pin boss.",
+          "runs": [
+            {
+              "text": "Using circlip pliers, fit the circlip into the other gudgeon-pin boss.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con unos alicates para anillos de retención, colocar el anillo de retención en el otro buje del bulón del pistón.",
+          "runs": [
+            {
+              "text": "Con unos alicates para anillos de retención, colocar el anillo de retención en el otro buje del bulón del pistón.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

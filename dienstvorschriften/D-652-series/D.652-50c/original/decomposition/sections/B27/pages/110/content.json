@@ -6,9 +6,9 @@
   "section": "B27",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "27. Einstellen des Schnapper-Magnetzünders am Motor",
+    "en-GB": "Section B.27 - Adjusting the impulse magneto on the engine",
+    "es-ES": "Sección B.27 - Ajuste del magneto de impulso en el motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig197.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Kurbelwelle am Schwungrad so weit herumdrehen, daß sich die Ventile des Zylinders I beim Zeichen 1 und 6 oben am Umfang des Schwungrades überschneiden. Anschließend die Kurbelwelle um eine ganze Umdrehung weiterdrehen, bis das Zeichen Z (Zündpunkt) vor dem Zeichen 1 und 6 oben mit dem Aufhängeauge in einer Richtung steht (oberes Bild). Den nach Bild 196 eingestellten Magnetzünder in das Motorengehäuse schieben und diesen mit den Muttern festheften. Schwungrad um 1/8 Rechtsdrehung zurückdrehen und durch langsames Linksdrehen die richtige Einstellung des Magnetzünders prüfen. (Der Unterbrecher mit den Einstellzeichen muß gerade abreißen, wenn das Zeichen 1 und 6 oben am Umfang des Schwungrades mit dem Aufhängeauge in einer Richtung steht.) Nach Lösen der Befestigungsmuttern und Drehen des Magnetzünders läßt sich die Zündung noch feineinstellen. Magnetzünder nach Einstellen mit Muttern festschrauben.",
+          "runs": [
+            {
+              "text": "Kurbelwelle am Schwungrad so weit herumdrehen, daß sich die Ventile des Zylinders I beim Zeichen 1 und 6 oben am Umfang des Schwungrades überschneiden. Anschließend die Kurbelwelle um eine ganze Umdrehung weiterdrehen, bis das Zeichen Z (Zündpunkt) vor dem Zeichen 1 und 6 oben mit dem Aufhängeauge in einer Richtung steht (oberes Bild). Den nach Bild 196 eingestellten Magnetzünder in das Motorengehäuse schieben und diesen mit den Muttern festheften. Schwungrad um 1/8 Rechtsdrehung zurückdrehen und durch langsames Linksdrehen die richtige Einstellung des Magnetzünders prüfen. (Der Unterbrecher mit den Einstellzeichen muß gerade abreißen, wenn das Zeichen 1 und 6 oben am Umfang des Schwungrades mit dem Aufhängeauge in einer Richtung steht.) Nach Lösen der Befestigungsmuttern und Drehen des Magnetzünders läßt sich die Zündung noch feineinstellen. Magnetzünder nach Einstellen mit Muttern festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the crankshaft at the flywheel until the valves of cylinder I overlap at the mark 1 and 6 at the top of the flywheel rim. Then turn the crankshaft on through one full revolution until the mark Z (ignition point) is in line with the suspension eye and the mark 1 and 6 at the top (upper illustration). Slide the magneto, adjusted as per Fig. 196, into the engine housing and tack it down with the nuts. Turn the flywheel back 1/8 turn to the right and, by turning slowly to the left, check the correct setting of the magneto. (The contact breaker with the timing marks must snap exactly when the mark 1 and 6 at the top of the flywheel rim is in line with the suspension eye.) After loosening the fastening nuts and turning the magneto, the ignition can be fine-adjusted further. After adjusting, bolt the magneto down with the nuts.",
+          "runs": [
+            {
+              "text": "Turn the crankshaft at the flywheel until the valves of cylinder I overlap at the mark 1 and 6 at the top of the flywheel rim. Then turn the crankshaft on through one full revolution until the mark Z (ignition point) is in line with the suspension eye and the mark 1 and 6 at the top (upper illustration). Slide the magneto, adjusted as per Fig. 196, into the engine housing and tack it down with the nuts. Turn the flywheel back 1/8 turn to the right and, by turning slowly to the left, check the correct setting of the magneto. (The contact breaker with the timing marks must snap exactly when the mark 1 and 6 at the top of the flywheel rim is in line with the suspension eye.) After loosening the fastening nuts and turning the magneto, the ignition can be fine-adjusted further. After adjusting, bolt the magneto down with the nuts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el cigüeñal por el volante hasta que las válvulas del cilindro I coincidan con la marca 1 y 6 en la parte superior del borde del volante. A continuación, girar el cigüeñal una vuelta completa más hasta que la marca Z (punto de encendido) quede alineada con la argolla de suspensión y con la marca 1 y 6 en la parte superior (ilustración superior). Introducir el magneto, ajustado según la Fig. 196, en la carcasa del motor y sujetarlo provisionalmente con las tuercas. Girar el volante 1/8 de vuelta hacia la derecha y, girando lentamente hacia la izquierda, comprobar el ajuste correcto del magneto. (El ruptor con las marcas de sincronización debe disparar justo cuando la marca 1 y 6 de la parte superior del borde del volante quede alineada con la argolla de suspensión.) Tras aflojar las tuercas de fijación y girar el magneto, el encendido puede ajustarse con mayor precisión. Una vez ajustado, atornillar el magneto con las tuercas.",
+          "runs": [
+            {
+              "text": "Girar el cigüeñal por el volante hasta que las válvulas del cilindro I coincidan con la marca 1 y 6 en la parte superior del borde del volante. A continuación, girar el cigüeñal una vuelta completa más hasta que la marca Z (punto de encendido) quede alineada con la argolla de suspensión y con la marca 1 y 6 en la parte superior (ilustración superior). Introducir el magneto, ajustado según la Fig. 196, en la carcasa del motor y sujetarlo provisionalmente con las tuercas. Girar el volante 1/8 de vuelta hacia la derecha y, girando lentamente hacia la izquierda, comprobar el ajuste correcto del magneto. (El ruptor con las marcas de sincronización debe disparar justo cuando la marca 1 y 6 de la parte superior del borde del volante quede alineada con la argolla de suspensión.) Tras aflojar las tuercas de fijación y girar el magneto, el encendido puede ajustarse con mayor precisión. Una vez ajustado, atornillar el magneto con las tuercas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -40,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

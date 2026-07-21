@@ -6,9 +6,9 @@
   "section": "B18",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "18. Zerlegen der Kraftstoffpumpe",
+    "en-GB": "Section B.18 - Dismantling the fuel pump",
+    "es-ES": "Sección B.18 - Desarmado de la bomba de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild143",
-      "number": 143,
-      "image": "figures/fig143.jpg",
+      "id": "d65250c-bild141",
+      "number": 141,
+      "image": "figures/fig141.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Winkelhebel mit dem Finger in das Gehäuse drücken und Pumpenstange seitlich aus dem Gelenk hängen.",
+          "runs": [
+            {
+              "text": "Winkelhebel mit dem Finger in das Gehäuse drücken und Pumpenstange seitlich aus dem Gelenk hängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the angle lever into the housing with a finger and unhook the pump rod sideways from the joint.",
+          "runs": [
+            {
+              "text": "Press the angle lever into the housing with a finger and unhook the pump rod sideways from the joint.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Presionar la palanca angular hacia la carcasa con un dedo y desenganchar lateralmente la varilla de la bomba de la articulación.",
+          "runs": [
+            {
+              "text": "Presionar la palanca angular hacia la carcasa con un dedo y desenganchar lateralmente la varilla de la bomba de la articulación.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild144",
-      "number": 144,
-      "image": "figures/fig144.jpg",
+      "id": "d65250c-bild142",
+      "number": 142,
+      "image": "figures/fig142.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schraubenzieher die drei Senkschrauben aus dem Gehäuseoberteil entfernen und Ventilplättchen und Federn prüfen. (Vorsicht beim Ausbau.) Membran sowie beschädigte Teile ersetzen und Pumpe in umgekehrter Reihenfolge wieder zusammenbauen. Federspannung darf nicht durch Recken verändert werden.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher die drei Senkschrauben aus dem Gehäuseoberteil entfernen und Ventilplättchen und Federn prüfen. (Vorsicht beim Ausbau.) Membran sowie beschädigte Teile ersetzen und Pumpe in umgekehrter Reihenfolge wieder zusammenbauen. Federspannung darf nicht durch Recken verändert werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver, remove the three countersunk screws from the upper housing section and check the valve plates and springs. (Take care when dismantling.) Replace the diaphragm and any damaged parts and reassemble the pump in reverse order. The spring tension must not be altered by stretching.",
+          "runs": [
+            {
+              "text": "Using a screwdriver, remove the three countersunk screws from the upper housing section and check the valve plates and springs. (Take care when dismantling.) Replace the diaphragm and any damaged parts and reassemble the pump in reverse order. The spring tension must not be altered by stretching.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador, retirar los tres tornillos avellanados de la parte superior de la carcasa y comprobar las placas de válvula y los resortes. (Tener cuidado al desmontar.) Sustituir la membrana y las piezas dañadas, y volver a montar la bomba en orden inverso. La tensión del resorte no debe alterarse estirándolo.",
+          "runs": [
+            {
+              "text": "Con un destornillador, retirar los tres tornillos avellanados de la parte superior de la carcasa y comprobar las placas de válvula y los resortes. (Tener cuidado al desmontar.) Sustituir la membrana y las piezas dañadas, y volver a montar la bomba en orden inverso. La tensión del resorte no debe alterarse estirándolo.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

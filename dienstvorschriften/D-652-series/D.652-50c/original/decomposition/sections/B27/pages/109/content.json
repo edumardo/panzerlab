@@ -6,9 +6,9 @@
   "section": "B27",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "27. Einstellen des Schnapper-Magnetzünders am Motor",
+    "en-GB": "Section B.27 - Adjusting the impulse magneto on the engine",
+    "es-ES": "Sección B.27 - Ajuste del magneto de impulso en el motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig195.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Die beiden Handschrauben aus der linken Zylinderkopfhaube schrauben und diese abheben. (Von der Wasserpumpenseite aus links.) Zum besseren Einstellen des Magnetzünders mit 11-Maulschlüssel den Abschlußdeckel zum Magnetzünderantrieb abschrauben.",
+          "runs": [
+            {
+              "text": "Die beiden Handschrauben aus der linken Zylinderkopfhaube schrauben und diese abheben. (Von der Wasserpumpenseite aus links.) Zum besseren Einstellen des Magnetzünders mit 11-Maulschlüssel den Abschlußdeckel zum Magnetzünderantrieb abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the two hand screws from the left-hand cylinder-head cover and lift it off. (Left as viewed from the water-pump side.) For easier adjustment of the magneto, unscrew the end cover of the magneto drive with an 11 mm open-ended spanner.",
+          "runs": [
+            {
+              "text": "Unscrew the two hand screws from the left-hand cylinder-head cover and lift it off. (Left as viewed from the water-pump side.) For easier adjustment of the magneto, unscrew the end cover of the magneto drive with an 11 mm open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar los dos tornillos de mano de la tapa de culata izquierda y retirarla. (Izquierda vista desde el lado de la bomba de agua.) Para facilitar el ajuste del magneto, desenroscar la tapa de cierre del accionamiento del magneto con una llave fija de 11 mm.",
+          "runs": [
+            {
+              "text": "Desenroscar los dos tornillos de mano de la tapa de culata izquierda y retirarla. (Izquierda vista desde el lado de la bomba de agua.) Para facilitar el ajuste del magneto, desenroscar la tapa de cierre del accionamiento del magneto con una llave fija de 11 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig196.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "An dem Zahnrad den Magnetzünder so einstellen, daß die Einstellzeichen an dem einen Unterbrecher übereinanderstehen. Magnetzünder durch langsames Weiterdrehen abreißen lassen und bis zum nächsten leichten Widerstand weiterdrehen.",
+          "runs": [
+            {
+              "text": "An dem Zahnrad den Magnetzünder so einstellen, daß die Einstellzeichen an dem einen Unterbrecher übereinanderstehen. Magnetzünder durch langsames Weiterdrehen abreißen lassen und bis zum nächsten leichten Widerstand weiterdrehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the gear wheel, adjust the magneto so that the timing marks on one contact breaker line up. Let the magneto snap by turning it slowly, then continue turning until the next slight resistance.",
+          "runs": [
+            {
+              "text": "At the gear wheel, adjust the magneto so that the timing marks on one contact breaker line up. Let the magneto snap by turning it slowly, then continue turning until the next slight resistance.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En la rueda dentada, ajustar el magneto de modo que las marcas de sincronización de uno de los ruptores queden alineadas. Dejar que el magneto dispare girándolo lentamente, y seguir girando hasta notar la siguiente resistencia leve.",
+          "runs": [
+            {
+              "text": "En la rueda dentada, ajustar el magneto de modo que las marcas de sincronización de uno de los ruptores queden alineadas. Dejar que el magneto dispare girándolo lentamente, y seguir girando hasta notar la siguiente resistencia leve.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

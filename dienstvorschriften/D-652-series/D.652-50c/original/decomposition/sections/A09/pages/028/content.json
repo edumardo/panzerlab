@@ -6,9 +6,9 @@
   "section": "A09",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "9. Abbauen des Bugpanzers",
+    "en-GB": "Section A.9 - Removing the bow armour plate",
+    "es-ES": "Sección A.9 - Desmontaje del blindaje delantero (de proa)"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild039",
-      "number": 39,
-      "image": "figures/fig039.jpg",
+      "id": "d65250c-bild037",
+      "number": 37,
+      "image": "figures/fig037.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Innerhalb des Kampfraumes die vorderen Bugpanzerbefestigungsschrauben und die zwei Befestigungsschrauben des Schaltbrettes entfernen.",
+          "runs": [
+            {
+              "text": "Innerhalb des Kampfraumes die vorderen Bugpanzerbefestigungsschrauben und die zwei Befestigungsschrauben des Schaltbrettes entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Inside the fighting compartment, remove the front bow-armour-plate fastening screws and the two fastening screws of the switch panel (Schaltbrett).",
+          "runs": [
+            {
+              "text": "Inside the fighting compartment, remove the front bow-armour-plate fastening screws and the two fastening screws of the switch panel (Schaltbrett).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Dentro de la cámara de combate, retirar los tornillos de fijación delanteros del blindaje delantero y los dos tornillos de fijación del panel de mandos (Schaltbrett).",
+          "runs": [
+            {
+              "text": "Dentro de la cámara de combate, retirar los tornillos de fijación delanteros del blindaje delantero y los dos tornillos de fijación del panel de mandos (Schaltbrett).",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild040",
-      "number": 40,
-      "image": "figures/fig040.jpg",
+      "id": "d65250c-bild038",
+      "number": 38,
+      "image": "figures/fig038.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Bugpanzer mit vier Drahtseilen, welche in die dafür vorgesehenen Ösen mit S-Haken eingehängt sind, abheben.",
+          "runs": [
+            {
+              "text": "Bugpanzer mit vier Drahtseilen, welche in die dafür vorgesehenen Ösen mit S-Haken eingehängt sind, abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift off the bow armour plate using four wire ropes, hooked into the eyes provided with S-hooks.",
+          "runs": [
+            {
+              "text": "Lift off the bow armour plate using four wire ropes, hooked into the eyes provided with S-hooks.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar el blindaje delantero con cuatro cables de acero, enganchados en las argollas previstas mediante ganchos en S.",
+          "runs": [
+            {
+              "text": "Levantar el blindaje delantero con cuatro cables de acero, enganchados en las argollas previstas mediante ganchos en S.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

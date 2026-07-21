@@ -6,9 +6,9 @@
   "section": "B26",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "26. Auswechseln des Anlasserritzels am Schwungkraftanlasser",
+    "en-GB": "Section B.26 - Replacing the pinion on the inertia starter",
+    "es-ES": "Sección B.26 - Sustitución del piñón de arranque en el arranque de inercia"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig194.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Neues oder nachgearbeitetes Ritzel in den Anlasser einführen. Blechsicherung auf die Befestigungsschraube legen und diese einschrauben. Befestigungsschraube durch Umbiegen der Blechsicherung sichern.",
+          "runs": [
+            {
+              "text": "Neues oder nachgearbeitetes Ritzel in den Anlasser einführen. Blechsicherung auf die Befestigungsschraube legen und diese einschrauben. Befestigungsschraube durch Umbiegen der Blechsicherung sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the new or reworked pinion into the starter. Place the sheet-metal lock onto the fastening screw and screw it in. Secure the fastening screw by bending over the sheet-metal lock.",
+          "runs": [
+            {
+              "text": "Insert the new or reworked pinion into the starter. Place the sheet-metal lock onto the fastening screw and screw it in. Secure the fastening screw by bending over the sheet-metal lock.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el piñón nuevo o reparado en el motor de arranque. Colocar la chapa de seguridad sobre el tornillo de fijación y enroscarlo. Asegurar el tornillo de fijación doblando la chapa de seguridad.",
+          "runs": [
+            {
+              "text": "Introducir el piñón nuevo o reparado en el motor de arranque. Colocar la chapa de seguridad sobre el tornillo de fijación y enroscarlo. Asegurar el tornillo de fijación doblando la chapa de seguridad.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -40,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

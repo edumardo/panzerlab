@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "4. Einbauen des linken Kühlers und Lüfters",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Section A.4 - Installing the left-hand radiator and fan",
+    "es-ES": "Sección A.4 - Montaje del radiador y ventilador izquierdos"
   },
   "source": {
     "image": "source.jpg",
@@ -33,8 +33,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the radiator (Kühler) into the hull (Wanne) and bolt it down with the four screws. Secure the nuts with split pins, Fig. 17.",
+          "runs": [
+            {
+              "text": "Fit the radiator (Kühler) into the hull (Wanne) and bolt it down with the four screws. Secure the nuts with split pins, Fig. 17.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el radiador (Kühler) en el casco (Wanne) y atornillarlo con los cuatro tornillos. Asegurar las tuercas con pasadores de aletas, Fig. 17.",
+          "runs": [
+            {
+              "text": "Colocar el radiador (Kühler) en el casco (Wanne) y atornillarlo con los cuatro tornillos. Asegurar las tuercas con pasadores de aletas, Fig. 17.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -49,8 +65,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the overflow pipe (Überlaufrohr) and bolt it down with the clamp, Fig. 18. Apply sealing compound to the sealing points of the coolant hoses and fit the hose clips, Figs. 15 and 16.",
+          "runs": [
+            {
+              "text": "Fit the overflow pipe (Überlaufrohr) and bolt it down with the clamp, Fig. 18. Apply sealing compound to the sealing points of the coolant hoses and fit the hose clips, Figs. 15 and 16.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el tubo de rebose (Überlaufrohr) y sujetarlo con la abrazadera, Fig. 18. Aplicar masilla de estanqueidad en los puntos de sellado de las mangueras de refrigerante y colocar las abrazaderas de manguera, Figs. 15 y 16.",
+          "runs": [
+            {
+              "text": "Colocar el tubo de rebose (Überlaufrohr) y sujetarlo con la abrazadera, Fig. 18. Aplicar masilla de estanqueidad en los puntos de sellado de las mangueras de refrigerante y colocar las abrazaderas de manguera, Figs. 15 y 16.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -65,8 +97,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the fan housing (Lüftergehäuse) in front of the radiator and bolt it to the hull with the castle nuts. Make sure the felt gasket (Filzdichtung) sits correctly between the fan and the radiator, and that the fan housing is bolted on in line with the belt.",
+          "runs": [
+            {
+              "text": "Fit the fan housing (Lüftergehäuse) in front of the radiator and bolt it to the hull with the castle nuts. Make sure the felt gasket (Filzdichtung) sits correctly between the fan and the radiator, and that the fan housing is bolted on in line with the belt.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la carcasa del ventilador (Lüftergehäuse) delante del radiador y atornillarla al casco con las tuercas almenadas. Comprobar que la junta de fieltro (Filzdichtung) queda bien colocada entre el ventilador y el radiador, y que la carcasa del ventilador queda atornillada alineada con la correa.",
+          "runs": [
+            {
+              "text": "Colocar la carcasa del ventilador (Lüftergehäuse) delante del radiador y atornillarla al casco con las tuercas almenadas. Comprobar que la junta de fieltro (Filzdichtung) queda bien colocada entre el ventilador y el radiador, y que la carcasa del ventilador queda atornillada alineada con la correa.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -81,8 +129,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the upper coupling joint (Gelenkverschraubung) and draw the fan and radiator together, Fig. 14.",
+          "runs": [
+            {
+              "text": "Fit the upper coupling joint (Gelenkverschraubung) and draw the fan and radiator together, Fig. 14.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la unión articulada (Gelenkverschraubung) superior y unir el ventilador y el radiador, Fig. 14.",
+          "runs": [
+            {
+              "text": "Colocar la unión articulada (Gelenkverschraubung) superior y unir el ventilador y el radiador, Fig. 14.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -97,8 +161,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the fan onto the hub and bolt it down with a 14 mm ring spanner (Ringschlüssel). Secure the fastening screws by bending over the sheet-metal locks (Blechsicherungen), Fig. 12.",
+          "runs": [
+            {
+              "text": "Fit the fan onto the hub and bolt it down with a 14 mm ring spanner (Ringschlüssel). Secure the fastening screws by bending over the sheet-metal locks (Blechsicherungen), Fig. 12.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el ventilador sobre el cubo y atornillarlo con una llave de estrella (Ringschlüssel) de 14 mm. Asegurar los tornillos de fijación doblando las chapas de seguridad (Blechsicherungen), Fig. 12.",
+          "runs": [
+            {
+              "text": "Colocar el ventilador sobre el cubo y atornillarlo con una llave de estrella (Ringschlüssel) de 14 mm. Asegurar los tornillos de fijación doblando las chapas de seguridad (Blechsicherungen), Fig. 12.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -113,8 +193,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the air baffles (Luftleitbleche) and struts to the left-hand fan, Fig. 10. Fit the fan belt (Lüfterriemen) and tension it with the fan-belt tensioning device (Lüfterriemen-Nachstellvorrichtung), Fig. 8.",
+          "runs": [
+            {
+              "text": "Fit the air baffles (Luftleitbleche) and struts to the left-hand fan, Fig. 10. Fit the fan belt (Lüfterriemen) and tension it with the fan-belt tensioning device (Lüfterriemen-Nachstellvorrichtung), Fig. 8.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar los deflectores de aire (Luftleitbleche) y los puntales en el ventilador izquierdo, Fig. 10. Colocar la correa del ventilador (Lüfterriemen) y tensarla con el dispositivo de tensado de las correas del ventilador (Lüfterriemen-Nachstellvorrichtung), Fig. 8.",
+          "runs": [
+            {
+              "text": "Montar los deflectores de aire (Luftleitbleche) y los puntales en el ventilador izquierdo, Fig. 10. Colocar la correa del ventilador (Lüfterriemen) y tensarla con el dispositivo de tensado de las correas del ventilador (Lüfterriemen-Nachstellvorrichtung), Fig. 8.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -129,8 +225,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Check the belt tension and the slip clutch (Rutschkupplung), Figs. 19 and 20.",
+          "runs": [
+            {
+              "text": "Check the belt tension and the slip clutch (Rutschkupplung), Figs. 19 and 20.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar la tensión de la correa y el embrague de fricción (Rutschkupplung), Figs. 19 y 20.",
+          "runs": [
+            {
+              "text": "Comprobar la tensión de la correa y el embrague de fricción (Rutschkupplung), Figs. 19 y 20.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -145,8 +257,24 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the warm-air heating attachment to the air baffle, Fig. 9.",
+          "runs": [
+            {
+              "text": "Fit the warm-air heating attachment to the air baffle, Fig. 9.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el acoplamiento de la calefacción de aire caliente en el deflector de aire, Fig. 9.",
+          "runs": [
+            {
+              "text": "Montar el acoplamiento de la calefacción de aire caliente en el deflector de aire, Fig. 9.",
+              "bold": false
+            }
+          ]
+        }
       }
     },
     {
@@ -161,16 +289,32 @@
             }
           ]
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Fit the rear armour plate (Heckpanzerung), page 3.",
+          "runs": [
+            {
+              "text": "Fit the rear armour plate (Heckpanzerung), page 3.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el blindaje trasero (Heckpanzerung), página 3.",
+          "runs": [
+            {
+              "text": "Montar el blindaje trasero (Heckpanzerung), página 3.",
+              "bold": false
+            }
+          ]
+        }
       }
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "not_applicable"
   }
 }

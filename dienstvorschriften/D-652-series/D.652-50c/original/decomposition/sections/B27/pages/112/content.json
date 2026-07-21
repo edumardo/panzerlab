@@ -6,9 +6,9 @@
   "section": "B27",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "27. Einstellen des Schnapper-Magnetzünders am Motor",
+    "en-GB": "Section B.27 - Adjusting the impulse magneto on the engine",
+    "es-ES": "Sección B.27 - Ajuste del magneto de impulso en el motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig200.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schraubenzieher an der kleinen Stellschraube bei abgehobenem Unterbrecher den Abstand der Kontakte einstellen. Der Abstand der Unterbrecherkontakte muß bei den drei Unterbrechern gleich groß sein (0,4 mm). Kontaktträger nach Einstellen mit der Feststellschraube wieder festschrauben, Bild 199.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher an der kleinen Stellschraube bei abgehobenem Unterbrecher den Abstand der Kontakte einstellen. Der Abstand der Unterbrecherkontakte muß bei den drei Unterbrechern gleich groß sein (0,4 mm). Kontaktträger nach Einstellen mit der Feststellschraube wieder festschrauben, Bild 199.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver on the small adjusting screw, with the contact breaker lifted, set the contact gap. The contact-breaker gap must be the same on all three contact breakers (0.4 mm). After adjusting, retighten the contact carrier with the locking screw, Fig. 199.",
+          "runs": [
+            {
+              "text": "Using a screwdriver on the small adjusting screw, with the contact breaker lifted, set the contact gap. The contact-breaker gap must be the same on all three contact breakers (0.4 mm). After adjusting, retighten the contact carrier with the locking screw, Fig. 199.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador en el tornillo de ajuste pequeño, con el ruptor levantado, ajustar la separación de los contactos. La separación de los contactos del ruptor debe ser igual en los tres ruptores (0,4 mm). Tras el ajuste, volver a apretar el portacontactos con el tornillo de fijación, Fig. 199.",
+          "runs": [
+            {
+              "text": "Con un destornillador en el tornillo de ajuste pequeño, con el ruptor levantado, ajustar la separación de los contactos. La separación de los contactos del ruptor debe ser igual en los tres ruptores (0,4 mm). Tras el ajuste, volver a apretar el portacontactos con el tornillo de fijación, Fig. 199.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -40,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

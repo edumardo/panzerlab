@@ -6,9 +6,9 @@
   "section": "B12",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "12. Ausbauen des Motors",
+    "en-GB": "Section B.12 - Removing the engine",
+    "es-ES": "Sección B.12 - Desmontaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild047",
-      "number": 47,
-      "image": "figures/fig047.jpg",
+      "id": "d65250c-bild045",
+      "number": 45,
+      "image": "figures/fig045.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit zwei 17-Maulschlüsseln die Schrauben aus den Auspuffflanschen entfernen. Dichtungen zwischen den Flanschen beachten.",
+          "runs": [
+            {
+              "text": "Mit zwei 17-Maulschlüsseln die Schrauben aus den Auspuffflanschen entfernen. Dichtungen zwischen den Flanschen beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using two 17 mm open-ended spanners, remove the screws from the exhaust flanges. Note the gaskets between the flanges.",
+          "runs": [
+            {
+              "text": "Using two 17 mm open-ended spanners, remove the screws from the exhaust flanges. Note the gaskets between the flanges.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con dos llaves fijas de 17 mm, retirar los tornillos de las bridas de escape. Tener en cuenta las juntas entre las bridas.",
+          "runs": [
+            {
+              "text": "Con dos llaves fijas de 17 mm, retirar los tornillos de las bridas de escape. Tener en cuenta las juntas entre las bridas.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild048",
-      "number": 48,
-      "image": "figures/fig048.jpg",
+      "id": "d65250c-bild046",
+      "number": 46,
+      "image": "figures/fig046.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit zwei 17-Maulschlüsseln die Schrauben in den Klemmschellen lösen und die beiden Ausgleichrohre nach einer Seite schlagen.",
+          "runs": [
+            {
+              "text": "Mit zwei 17-Maulschlüsseln die Schrauben in den Klemmschellen lösen und die beiden Ausgleichrohre nach einer Seite schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using two 17 mm open-ended spanners, loosen the screws in the clamp collars and knock both expansion pipes to one side.",
+          "runs": [
+            {
+              "text": "Using two 17 mm open-ended spanners, loosen the screws in the clamp collars and knock both expansion pipes to one side.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con dos llaves fijas de 17 mm, aflojar los tornillos de las abrazaderas y desplazar los dos tubos de compensación hacia un lado golpeándolos.",
+          "runs": [
+            {
+              "text": "Con dos llaves fijas de 17 mm, aflojar los tornillos de las abrazaderas y desplazar los dos tubos de compensación hacia un lado golpeándolos.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

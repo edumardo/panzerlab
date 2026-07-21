@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig245.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Den Ölkühler in die beiden Spannschellen setzen und die zwei Spannschrauben von Hand einschrauben. Rohrleitungen zur Ölpumpe mit 32-Maulschlüssel festschrauben. Zwischen Flansch des einen Rohranschlusses eine Dichtung legen und mit 14-Maulschlüssel die beiden Befestigungsschrauben einschrauben. Mit 14-Maulschlüssel die beiden Befestigungsschrauben des Ölkühlers festziehen.",
+          "runs": [
+            {
+              "text": "Den Ölkühler in die beiden Spannschellen setzen und die zwei Spannschrauben von Hand einschrauben. Rohrleitungen zur Ölpumpe mit 32-Maulschlüssel festschrauben. Zwischen Flansch des einen Rohranschlusses eine Dichtung legen und mit 14-Maulschlüssel die beiden Befestigungsschrauben einschrauben. Mit 14-Maulschlüssel die beiden Befestigungsschrauben des Ölkühlers festziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the oil cooler into the two clamp collars and screw in the two clamping screws by hand. Bolt the pipelines to the oil pump with a 32 mm open-ended spanner. Fit a gasket at the flange of one pipe connection and screw in the two fastening screws with a 14 mm open-ended spanner. Using a 14 mm open-ended spanner, tighten the two fastening screws of the oil cooler.",
+          "runs": [
+            {
+              "text": "Place the oil cooler into the two clamp collars and screw in the two clamping screws by hand. Bolt the pipelines to the oil pump with a 32 mm open-ended spanner. Fit a gasket at the flange of one pipe connection and screw in the two fastening screws with a 14 mm open-ended spanner. Using a 14 mm open-ended spanner, tighten the two fastening screws of the oil cooler.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el radiador de aceite en las dos abrazaderas y enroscar a mano los dos tornillos de sujeción. Atornillar las tuberías a la bomba de aceite con una llave fija de 32 mm. Colocar una junta en la brida de una de las conexiones de tubo y enroscar los dos tornillos de fijación con una llave fija de 14 mm. Con una llave fija de 14 mm, apretar los dos tornillos de fijación del radiador de aceite.",
+          "runs": [
+            {
+              "text": "Colocar el radiador de aceite en las dos abrazaderas y enroscar a mano los dos tornillos de sujeción. Atornillar las tuberías a la bomba de aceite con una llave fija de 32 mm. Colocar una junta en la brida de una de las conexiones de tubo y enroscar los dos tornillos de fijación con una llave fija de 14 mm. Con una llave fija de 14 mm, apretar los dos tornillos de fijación del radiador de aceite.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig246.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Schwungkraftanlasser in das Motorengehäuse schieben. Spannschellen übersetzen und die sechs Befestigungsschrauben mit 14-Maulschlüssel einschrauben.",
+          "runs": [
+            {
+              "text": "Schwungkraftanlasser in das Motorengehäuse schieben. Spannschellen übersetzen und die sechs Befestigungsschrauben mit 14-Maulschlüssel einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the inertia starter into the engine housing. Fit the clamp collars over it and screw in the six fastening screws with a 14 mm open-ended spanner.",
+          "runs": [
+            {
+              "text": "Slide the inertia starter into the engine housing. Fit the clamp collars over it and screw in the six fastening screws with a 14 mm open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el arranque de inercia en la carcasa del motor. Colocar las abrazaderas sobre él y enroscar los seis tornillos de fijación con una llave fija de 14 mm.",
+          "runs": [
+            {
+              "text": "Introducir el arranque de inercia en la carcasa del motor. Colocar las abrazaderas sobre él y enroscar los seis tornillos de fijación con una llave fija de 14 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

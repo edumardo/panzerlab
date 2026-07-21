@@ -6,9 +6,9 @@
   "section": "B14",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "14. Ausbauen des Novotext-Zwischenrades",
+    "en-GB": "Section B.14 - Removing the Novotext idler gear",
+    "es-ES": "Sección B.14 - Desmontaje de la rueda intermedia de Novotext"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild119",
-      "number": 119,
-      "image": "figures/fig119.jpg",
+      "id": "d65250c-bild117",
+      "number": 117,
+      "image": "figures/fig117.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Aus den Pleuelzapfen der Kurbelwelle die Halteschrauben der Abschlußdeckel entfernen und die Bohrungen und Ölkanäle der Kurbelwelle reinigen.",
+          "runs": [
+            {
+              "text": "Aus den Pleuelzapfen der Kurbelwelle die Halteschrauben der Abschlußdeckel entfernen und die Bohrungen und Ölkanäle der Kurbelwelle reinigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the retaining screws of the end caps from the crank pins of the crankshaft and clean the bores and oil passages of the crankshaft.",
+          "runs": [
+            {
+              "text": "Remove the retaining screws of the end caps from the crank pins of the crankshaft and clean the bores and oil passages of the crankshaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los tornillos de sujeción de las tapas de cierre de las muñequillas del cigüeñal y limpiar los taladros y conductos de aceite del cigüeñal.",
+          "runs": [
+            {
+              "text": "Retirar los tornillos de sujeción de las tapas de cierre de las muñequillas del cigüeñal y limpiar los taladros y conductos de aceite del cigüeñal.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild120",
-      "number": 120,
-      "image": "figures/fig120.jpg",
+      "id": "d65250c-bild118",
+      "number": 118,
+      "image": "figures/fig118.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit feinem Schmirgelleinen die Lagerstellen der Kurbelwelle nachschleifen. (Nur wenig eingelaufene Kurbelwellen nacharbeiten.)",
+          "runs": [
+            {
+              "text": "Mit feinem Schmirgelleinen die Lagerstellen der Kurbelwelle nachschleifen. (Nur wenig eingelaufene Kurbelwellen nacharbeiten.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using fine emery cloth, regrind the bearing journals of the crankshaft. (Only rework crankshafts with little wear.)",
+          "runs": [
+            {
+              "text": "Using fine emery cloth, regrind the bearing journals of the crankshaft. (Only rework crankshafts with little wear.)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con lienzo esmeril fino, rectificar las superficies de apoyo del cigüeñal. (Reparar solo cigüeñales con poco desgaste.)",
+          "runs": [
+            {
+              "text": "Con lienzo esmeril fino, rectificar las superficies de apoyo del cigüeñal. (Reparar solo cigüeñales con poco desgaste.)",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

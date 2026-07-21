@@ -6,8 +6,19 @@
   "source_scan": "source.jpg",
   "content": "content.json",
   "source_scan_status": "extracted_clean",
-  "transcription_status": "pending",
-  "translation_en_status": "pending",
-  "translation_es_status": "pending",
-  "figures": []
+  "transcription_status": "draft",
+  "translation_en_status": "draft",
+  "translation_es_status": "draft",
+  "figures": [
+    {
+      "number": 154,
+      "path": "figures/fig154.jpg",
+      "status": "validated"
+    },
+    {
+      "number": 155,
+      "path": "figures/fig155.jpg",
+      "status": "validated"
+    }
+  ]
 }

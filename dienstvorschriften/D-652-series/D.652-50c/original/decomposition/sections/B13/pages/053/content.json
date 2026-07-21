@@ -6,9 +6,9 @@
   "section": "B13",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "13. Zerlegen des Motors",
+    "en-GB": "Section B.13 - Dismantling the engine",
+    "es-ES": "Sección B.13 - Despiece del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild087",
-      "number": 87,
-      "image": "figures/fig087.jpg",
+      "id": "d65250c-bild085",
+      "number": 85,
+      "image": "figures/fig085.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 17-Maulschlüssel die beiden Befestigungsmuttern des Lichtmaschinenschutzbleches entfernen. Schraube zum Nachstellen der Riemenspannung zwischen den beiden Spannschellen lösen. Mit 17-Steckschlüssel die vier Befestigungsmuttern der Lichtmaschine an den Spannschellen entfernen. Schellen von den Bolzen ziehen und Lichtmaschine abheben.",
+          "runs": [
+            {
+              "text": "Mit 17-Maulschlüssel die beiden Befestigungsmuttern des Lichtmaschinenschutzbleches entfernen. Schraube zum Nachstellen der Riemenspannung zwischen den beiden Spannschellen lösen. Mit 17-Steckschlüssel die vier Befestigungsmuttern der Lichtmaschine an den Spannschellen entfernen. Schellen von den Bolzen ziehen und Lichtmaschine abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm open-ended spanner, remove the two fastening nuts of the dynamo guard plate. Loosen the belt-tensioning screw between the two clamp collars. Using a 17 mm socket spanner, remove the four fastening nuts of the dynamo at the clamp collars. Pull the collars off the bolts and lift off the dynamo.",
+          "runs": [
+            {
+              "text": "Using a 17 mm open-ended spanner, remove the two fastening nuts of the dynamo guard plate. Loosen the belt-tensioning screw between the two clamp collars. Using a 17 mm socket spanner, remove the four fastening nuts of the dynamo at the clamp collars. Pull the collars off the bolts and lift off the dynamo.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 17 mm, retirar las dos tuercas de fijación de la chapa protectora de la dinamo. Aflojar el tornillo de ajuste de la tensión de la correa entre las dos abrazaderas. Con una llave de vaso de 17 mm, retirar las cuatro tuercas de fijación de la dinamo en las abrazaderas. Sacar las abrazaderas de los pernos y retirar la dinamo.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 17 mm, retirar las dos tuercas de fijación de la chapa protectora de la dinamo. Aflojar el tornillo de ajuste de la tensión de la correa entre las dos abrazaderas. Con una llave de vaso de 17 mm, retirar las cuatro tuercas de fijación de la dinamo en las abrazaderas. Sacar las abrazaderas de los pernos y retirar la dinamo.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild088",
-      "number": 88,
-      "image": "figures/fig088.jpg",
+      "id": "d65250c-bild086",
+      "number": 86,
+      "image": "figures/fig086.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit 17-Maulschlüssel die vier Befestigungsschrauben der Wasserpumpe entfernen und diese abheben.",
+          "runs": [
+            {
+              "text": "Mit 17-Maulschlüssel die vier Befestigungsschrauben der Wasserpumpe entfernen und diese abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm open-ended spanner, remove the four fastening screws of the water pump and lift it off.",
+          "runs": [
+            {
+              "text": "Using a 17 mm open-ended spanner, remove the four fastening screws of the water pump and lift it off.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 17 mm, retirar los cuatro tornillos de fijación de la bomba de agua y retirarla.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 17 mm, retirar los cuatro tornillos de fijación de la bomba de agua y retirarla.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

@@ -6,9 +6,9 @@
   "section": "B28",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "28. Zerlegen des Vergasers",
+    "en-GB": "Section B.28 - Dismantling the carburettor",
+    "es-ES": "Sección B.28 - Desarmado del carburador"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig205.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Vergaserschlüssel das Düsenhütchen abschrauben und Hauptdüse herausziehen.",
+          "runs": [
+            {
+              "text": "Mit Vergaserschlüssel das Düsenhütchen abschrauben und Hauptdüse herausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using the carburettor spanner, unscrew the jet cap and pull out the main jet.",
+          "runs": [
+            {
+              "text": "Using the carburettor spanner, unscrew the jet cap and pull out the main jet.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con la llave de carburador, desenroscar el capuchón del chiclé y extraer el chiclé principal.",
+          "runs": [
+            {
+              "text": "Con la llave de carburador, desenroscar el capuchón del chiclé y extraer el chiclé principal.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig206.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Beim Einbau die richtige Anordnung der Düsen beachten (Düsen wie auf Abbildung einsetzen). Lufteinstellschraube ganz hereindrehen und 2 1/2 Umdrehungen wieder zurück. (Richtige Leerlaufeinstellung.)",
+          "runs": [
+            {
+              "text": "Beim Einbau die richtige Anordnung der Düsen beachten (Düsen wie auf Abbildung einsetzen). Lufteinstellschraube ganz hereindrehen und 2 1/2 Umdrehungen wieder zurück. (Richtige Leerlaufeinstellung.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When refitting, note the correct arrangement of the jets (fit the jets as shown in the illustration). Screw the air adjusting screw fully in and then back it out 2 1/2 turns. (Correct idling adjustment.)",
+          "runs": [
+            {
+              "text": "When refitting, note the correct arrangement of the jets (fit the jets as shown in the illustration). Screw the air adjusting screw fully in and then back it out 2 1/2 turns. (Correct idling adjustment.)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al volver a montar, tener en cuenta la disposición correcta de los chiclés (colocarlos como se muestra en la ilustración). Enroscar el tornillo de ajuste de aire hasta el fondo y luego sacarlo 2 vueltas y media. (Ajuste correcto de ralentí.)",
+          "runs": [
+            {
+              "text": "Al volver a montar, tener en cuenta la disposición correcta de los chiclés (colocarlos como se muestra en la ilustración). Enroscar el tornillo de ajuste de aire hasta el fondo y luego sacarlo 2 vueltas y media. (Ajuste correcto de ralentí.)",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

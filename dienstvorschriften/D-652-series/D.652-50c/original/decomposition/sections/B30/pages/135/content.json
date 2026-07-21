@@ -6,9 +6,9 @@
   "section": "B30",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "30. Zusammenbau des Motors",
+    "en-GB": "Section B.30 - Assembling the engine",
+    "es-ES": "Sección B.30 - Montaje del motor"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig243.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Elektrischen Anlasser in das Motorgehäuse schieben, Spannschellen aufsetzen und die vier Befestigungsschrauben mit 14-Maulschlüssel einschrauben.",
+          "runs": [
+            {
+              "text": "Elektrischen Anlasser in das Motorgehäuse schieben, Spannschellen aufsetzen und die vier Befestigungsschrauben mit 14-Maulschlüssel einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the electric starter into the engine housing, fit the clamp collars, and screw in the four fastening screws with a 14 mm open-ended spanner.",
+          "runs": [
+            {
+              "text": "Slide the electric starter into the engine housing, fit the clamp collars, and screw in the four fastening screws with a 14 mm open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el motor de arranque eléctrico en la carcasa del motor, colocar las abrazaderas y enroscar los cuatro tornillos de fijación con una llave fija de 14 mm.",
+          "runs": [
+            {
+              "text": "Introducir el motor de arranque eléctrico en la carcasa del motor, colocar las abrazaderas y enroscar los cuatro tornillos de fijación con una llave fija de 14 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig244.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Dichtungsmasse neue Dichtungen auf die Flansche heften und den Ölbehälter mit einem 14-Maul- und 17-Steckschlüssel festschrauben.",
+          "runs": [
+            {
+              "text": "Mit Dichtungsmasse neue Dichtungen auf die Flansche heften und den Ölbehälter mit einem 14-Maul- und 17-Steckschlüssel festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using sealing compound, tack new gaskets onto the flanges and bolt the oil tank down with a 14 mm open-ended spanner and a 17 mm socket spanner.",
+          "runs": [
+            {
+              "text": "Using sealing compound, tack new gaskets onto the flanges and bolt the oil tank down with a 14 mm open-ended spanner and a 17 mm socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con masilla de estanqueidad, pegar juntas nuevas en las bridas y atornillar el depósito de aceite con una llave fija de 14 mm y una llave de vaso de 17 mm.",
+          "runs": [
+            {
+              "text": "Con masilla de estanqueidad, pegar juntas nuevas en las bridas y atornillar el depósito de aceite con una llave fija de 14 mm y una llave de vaso de 17 mm.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

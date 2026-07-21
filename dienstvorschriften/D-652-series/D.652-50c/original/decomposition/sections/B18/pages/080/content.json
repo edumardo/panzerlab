@@ -6,9 +6,9 @@
   "section": "B18",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "18. Zerlegen der Kraftstoffpumpe",
+    "en-GB": "Section B.18 - Dismantling the fuel pump",
+    "es-ES": "Sección B.18 - Desarmado de la bomba de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -23,14 +23,38 @@
   "paragraphs": [],
   "figures": [
     {
-      "id": "d65250c-bild141",
-      "number": 141,
-      "image": "figures/fig141.jpg",
+      "id": "d65250c-bild139",
+      "number": 139,
+      "image": "figures/fig139.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Mit Schraubenzieher die Schrauben aus dem Gehäuse entfernen. Die Stellung der Rohranschlüsse beachten. Mit einem scharfen Gegenstand in das Gehäuseober- und Unterteil einen Kennstrich ritzen.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher die Schrauben aus dem Gehäuse entfernen. Die Stellung der Rohranschlüsse beachten. Mit einem scharfen Gegenstand in das Gehäuseober- und Unterteil einen Kennstrich ritzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver, remove the screws from the housing. Note the position of the pipe connections. Using a sharp object, scribe an alignment mark on the upper and lower housing sections.",
+          "runs": [
+            {
+              "text": "Using a screwdriver, remove the screws from the housing. Note the position of the pipe connections. Using a sharp object, scribe an alignment mark on the upper and lower housing sections.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un destornillador, retirar los tornillos de la carcasa. Tener en cuenta la posición de las conexiones de tubo. Con un objeto afilado, marcar una línea de referencia en las partes superior e inferior de la carcasa.",
+          "runs": [
+            {
+              "text": "Con un destornillador, retirar los tornillos de la carcasa. Tener en cuenta la posición de las conexiones de tubo. Con un objeto afilado, marcar una línea de referencia en las partes superior e inferior de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -39,14 +63,38 @@
       }
     },
     {
-      "id": "d65250c-bild142",
-      "number": 142,
-      "image": "figures/fig142.jpg",
+      "id": "d65250c-bild140",
+      "number": 140,
+      "image": "figures/fig140.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Membran vorsichtig von den Gehäusen lösen und Gehäuseoberteil abheben.",
+          "runs": [
+            {
+              "text": "Membran vorsichtig von den Gehäusen lösen und Gehäuseoberteil abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Carefully release the diaphragm from the housings and lift off the upper housing section.",
+          "runs": [
+            {
+              "text": "Carefully release the diaphragm from the housings and lift off the upper housing section.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar con cuidado la membrana de las carcasas y retirar la parte superior de la carcasa.",
+          "runs": [
+            {
+              "text": "Separar con cuidado la membrana de las carcasas y retirar la parte superior de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }

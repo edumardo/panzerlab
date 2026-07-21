@@ -6,9 +6,9 @@
   "section": "B29",
   "type": "figures",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "29. Zerlegen und Reinigen des Kraftstoffilters",
+    "en-GB": "Section B.29 - Dismantling and cleaning the fuel filter",
+    "es-ES": "Sección B.29 - Desmontaje y limpieza del filtro de combustible"
   },
   "source": {
     "image": "source.jpg",
@@ -28,9 +28,33 @@
       "image": "figures/fig215.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Bei stark verschmutztem Filter die untere Schlitzschraube ausschrauben und Teile und Gehäuse reinigen. Schlitzschraube mit Kappe und Feder in das Gehäuse wieder einschrauben.",
+          "runs": [
+            {
+              "text": "Bei stark verschmutztem Filter die untere Schlitzschraube ausschrauben und Teile und Gehäuse reinigen. Schlitzschraube mit Kappe und Feder in das Gehäuse wieder einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the filter is heavily soiled, unscrew the lower slotted screw and clean the parts and the housing. Screw the slotted screw, with its cap and spring, back into the housing.",
+          "runs": [
+            {
+              "text": "If the filter is heavily soiled, unscrew the lower slotted screw and clean the parts and the housing. Screw the slotted screw, with its cap and spring, back into the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si el filtro está muy sucio, desenroscar el tornillo ranurado inferior y limpiar las piezas y la carcasa. Volver a enroscar el tornillo ranurado, con su capuchón y resorte, en la carcasa.",
+          "runs": [
+            {
+              "text": "Si el filtro está muy sucio, desenroscar el tornillo ranurado inferior y limpiar las piezas y la carcasa. Volver a enroscar el tornillo ranurado, con su capuchón y resorte, en la carcasa.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -44,9 +68,33 @@
       "image": "figures/fig216.jpg",
       "status": "candidate_crop",
       "captions": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
+        "de": {
+          "plain": "Filtereinsatz nach mehrmaligem Reinigen durch einen neuen ersetzen und diesen mit der großen Öffnung nach unten in das Gehäuse führen.",
+          "runs": [
+            {
+              "text": "Filtereinsatz nach mehrmaligem Reinigen durch einen neuen ersetzen und diesen mit der großen Öffnung nach unten in das Gehäuse führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "After repeated cleaning, replace the filter element with a new one and insert it into the housing with the large opening facing downward.",
+          "runs": [
+            {
+              "text": "After repeated cleaning, replace the filter element with a new one and insert it into the housing with the large opening facing downward.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Tras varias limpiezas, sustituir el elemento filtrante por uno nuevo e introducirlo en la carcasa con la abertura grande hacia abajo.",
+          "runs": [
+            {
+              "text": "Tras varias limpiezas, sustituir el elemento filtrante por uno nuevo e introducirlo en la carcasa con la abertura grande hacia abajo.",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -56,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "pending",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "candidate"
   }
 }
