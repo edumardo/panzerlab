@@ -126,7 +126,7 @@
           "titles": {
             "de": "Ausbauen des Sammlers",
             "en-GB": "Removing the battery (accumulator)",
-            "es-ES": "Desmontaje de la batería (acumulador)"
+            "es-ES": "Desmontaje de la batería"
           },
           "manifest": "../sections/A11/manifest.json"
         }

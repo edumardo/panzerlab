@@ -8,7 +8,7 @@
   "titles": {
     "de": "11. Ausbauen des Sammlers",
     "en-GB": "Section A.11 - Removing the battery (accumulator)",
-    "es-ES": "Sección A.11 - Desmontaje de la batería (acumulador)"
+    "es-ES": "Sección A.11 - Desmontaje de la batería"
   },
   "source": {
     "image": "source.jpg",
@@ -104,6 +104,6 @@
     "transcription": "draft",
     "en-GB": "draft",
     "es-ES": "draft",
-    "figures": "candidate"
+    "figures": "not_applicable"
   }
 }

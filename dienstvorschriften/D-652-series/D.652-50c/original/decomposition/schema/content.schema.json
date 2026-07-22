@@ -33,7 +33,13 @@
     "figures": {"type": "array"},
     "status": {
       "type": "object",
-      "required": ["transcription", "en-GB", "es-ES", "figures"]
+      "required": ["transcription", "en-GB", "es-ES", "figures"],
+      "properties": {
+        "transcription": {"$ref": "#/$defs/workflowState"},
+        "en-GB": {"$ref": "#/$defs/workflowState"},
+        "es-ES": {"$ref": "#/$defs/workflowState"},
+        "figures": {"$ref": "#/$defs/workflowState"}
+      }
     }
   },
   "$defs": {
@@ -45,6 +51,9 @@
         "en-GB": {"type": ["string", "null"]},
         "es-ES": {"type": ["string", "null"]}
       }
+    },
+    "workflowState": {
+      "enum": ["pending", "draft", "reviewed", "validated", "candidate_crop", "not_applicable"]
     }
   }
 }

@@ -28,6 +28,8 @@ translations, and document-processing utilities.
 └── dienstvorschriften/
     └── D-652-series/
         ├── index.md
+        ├── glossary/
+        │   └── terminology.json
         └── D.652-50c/
             ├── metadata.md
             ├── original/
@@ -132,6 +134,36 @@ creating or changing a decomposition.
   derived, regenerable crop that trims scan background/edges for display. It
   never replaces `source.jpg`, which stays as the untouched archival scan.
 
+## Series-shared glossary
+
+A series may hold a shared terminology file at `<series>/glossary/terminology.json`,
+using the same term shape as a document glossary but no `document_id`, an id
+prefix of `series-term-NNN` (to stay unambiguous next to any document-local
+`term-NNN` ids), and a `scope: "series"` / `series_id` pair identifying it.
+
+Vehicle/tool/component vocabulary that is not specific to one document's
+subject (chassis part names, spanner types, fastener types, and similar) belongs
+in the series glossary so every document in the series translates it the same
+way. A document's own `glossary/terminology.json` then adds only terms specific
+to that document's subject matter, and points at the shared file with an
+`"extends"` field, for example:
+
+```json
+{
+  "schema_version": 1,
+  "document_id": "d652-50c",
+  "source_language": "de-DE",
+  "target_languages": ["en-GB", "es-ES"],
+  "extends": "../../../glossary/terminology.json",
+  "terms": []
+}
+```
+
+Before adding a new document-level term, check whether the series glossary
+already has it. When a term used only in one document turns out to be needed by
+a second document in the series, move it to the series glossary rather than
+duplicating it.
+
 ## Series indexes
 
 Each series directory has an `index.md` containing its catalogue and consolidated
@@ -169,6 +201,9 @@ Before considering a decomposition complete, verify:
 - figure numbering is complete or documented;
 - source checksums match;
 - validated languages contain no pending required fields;
+- a page marked validated is not missing its own titles/paragraphs just
+  because a separate structured file (index, glossary) covers the same
+  ground;
 - extracted pages and figures pass visual inspection.
 
 DOCX and PDF outputs require render-to-image visual review before delivery.

@@ -31,6 +31,8 @@ It is independent of a particular D-series number or document category.
 ```text
 <category>/
 └── <series>/
+    ├── glossary/
+    │   └── terminology.json
     └── <document-id>/
         ├── metadata.md
         ├── original/
@@ -280,6 +282,17 @@ This is the main unit consumed by web, DOCX, and PDF exporters.
 Keep all language versions of a paragraph in the same object. Parallel arrays
 drift easily and make side-by-side display unreliable.
 
+A page whose `type` is `"index"` (a printed table of contents, list of
+figures, etc.) still needs real `titles` and `paragraphs` transcribing what is
+printed on that page, the same as a `"text"` page — even when a separate
+structured file (such as `index/contents.json`) also holds the same
+information for navigation. The structured file and the page's own
+transcription serve different purposes (machine-readable navigation vs. an
+accurate record of the printed page) and neither substitutes for the other. Do
+not mark `status.transcription`/`status.en-GB`/`status.es-ES` as `validated`
+while `titles` is null and `paragraphs` is empty — that combination means the
+page was never actually transcribed, regardless of what the status fields say.
+
 ### 3.7 Figure objects
 
 ```json
@@ -306,11 +319,15 @@ turn them into interactive annotations.
 
 ### 3.8 Terminology glossary
 
+A document's own glossary holds only terms specific to its subject matter:
+
 ```json
 {
   "schema_version": 1,
+  "document_id": "manual-001",
   "source_language": "de-DE",
   "target_languages": ["en-GB", "es-ES"],
+  "extends": "../../../glossary/terminology.json",
   "terms": [
     {
       "id": "term-001",
@@ -322,6 +339,39 @@ turn them into interactive annotations.
   ]
 }
 ```
+
+`extends` is optional and points at the series-shared glossary (§2), if the
+series has one. Prefer adding a new term there over the document glossary when
+it is generic vehicle/tool/component vocabulary rather than specific to this
+document's subject.
+
+The series-shared glossary uses the same term shape, with no `document_id`,
+an id prefix of `series-term-NNN` to avoid colliding with document-local
+`term-NNN` ids, and a scope marker:
+
+```json
+{
+  "schema_version": 1,
+  "scope": "series",
+  "series_id": "D-652",
+  "source_language": "de-DE",
+  "target_languages": ["en-GB", "es-ES"],
+  "terms": [
+    {
+      "id": "series-term-001",
+      "de": "Heckpanzerung",
+      "en-GB": "rear armour plate",
+      "es-ES": "blindaje trasero",
+      "status": "validated"
+    }
+  ]
+}
+```
+
+A consumer (exporter, web viewer, translator reference) that needs the full
+glossary for a document reads the document's own `terms` plus, when `extends`
+is present, the series glossary's `terms` — the two lists never share an id
+range, so they can simply be concatenated.
 
 ---
 
@@ -782,7 +832,13 @@ document.
 - [ ] Every page has a manifest, `content.json`, and source image.
 - [ ] Every figure has an ID, number, path, and state.
 - [ ] Original and translated paragraphs are aligned.
+- [ ] No page is marked validated with null titles and empty paragraphs
+      (including `"index"`-type pages — see §3.6).
+- [ ] `status` fields use the closed workflow-state enum, not a stray value
+      (e.g. `candidate` instead of `candidate_crop`).
 - [ ] The glossary is JSON.
+- [ ] If the document glossary has an `extends` field, the target file exists
+      and no term id is reused between the document and series glossaries.
 - [ ] Workflow states use a closed vocabulary.
 - [ ] JSON schemas are versioned.
 - [ ] Validation detects broken paths and pending content.
