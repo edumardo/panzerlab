@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50a",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "front_matter": {
+    "titles": {
+      "de": "Vorbemerkungen",
+      "en-GB": null,
+      "es-ES": null
+    },
+    "page": 3,
+    "status": "validated"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "titles": {
+        "de": "Ausbau eines Kettengliedes",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 4,
+      "section": "A01",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 2,
+      "titles": {
+        "de": "Einbau eines Kettengliedes",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 7,
+      "section": "A02",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 3,
+      "titles": {
+        "de": "Ausbau der Laufrolle",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 9,
+      "section": "A03",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 4,
+      "titles": {
+        "de": "Einbau der Laufrolle",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 14,
+      "section": "A04",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 5,
+      "titles": {
+        "de": "Ausfluchten des Laufwerkes",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 16,
+      "section": "A05",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 6,
+      "titles": {
+        "de": "Ausbau der Laufrollenlager",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 19,
+      "section": "A06",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 7,
+      "titles": {
+        "de": "Einbau der Laufrollenlager",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 24,
+      "section": "A07",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 8,
+      "titles": {
+        "de": "Ausbau der Innenringe der Laufrollenlager",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 27,
+      "section": "A08",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 9,
+      "titles": {
+        "de": "Einbau der Innenringe der Laufrollenlager",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 32,
+      "section": "A09",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 10,
+      "titles": {
+        "de": "Ausbau des Schwingungsdämpfers",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 34,
+      "section": "A10",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 11,
+      "titles": {
+        "de": "Einbau des Schwingungsdämpfers",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 37,
+      "section": "A11",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 12,
+      "titles": {
+        "de": "Ausbau der Drehstabfeder",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 40,
+      "section": "A12",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 13,
+      "titles": {
+        "de": "Einbau der Drehstabfeder",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 46,
+      "section": "A13",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 14,
+      "titles": {
+        "de": "Ausbau des Schwingarmes",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 49,
+      "section": "A14",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 15,
+      "titles": {
+        "de": "Einbau des Schwingarmes",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 50,
+      "section": "A15",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 16,
+      "titles": {
+        "de": "Ausbau der Schwingarmlager",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 51,
+      "section": "A16",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 17,
+      "titles": {
+        "de": "Einbau der Schwingarmlager",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 54,
+      "section": "A17",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 18,
+      "titles": {
+        "de": "Abbau der Stützrolle",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 57,
+      "section": "A18",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 19,
+      "titles": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": null,
+      "section": null,
+      "status": "pending",
+      "note": "Chapter heading not located on any spread's top-region crop; likely starts mid-page on the preceding or following archive page and needs a direct look at the full page during Phase 3 page splitting."
+    },
+    {
+      "number": 20,
+      "titles": {
+        "de": "Ausbau des Leitrades",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 58,
+      "section": "A20",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 21,
+      "titles": {
+        "de": "Einbau des Leitrades",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 60,
+      "section": "A21",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 22,
+      "titles": {
+        "de": "Ausbau der Leitradkurbel",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 62,
+      "section": "A22",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 23,
+      "titles": {
+        "de": "Einbau der Leitradkurbel",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 65,
+      "section": "A23",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 24,
+      "titles": {
+        "de": "Ausbau der Scherscheibe an dem Kettenspanner neuerer Ausführung",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 68,
+      "section": "A24",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 25,
+      "titles": {
+        "de": "Ausbau der Scherscheibe an dem Kettenspanner älterer Ausführung",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 70,
+      "section": "A25",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 26,
+      "titles": {
+        "de": "Einbau der Scherscheibe an dem Kettenspanner neuerer Ausführung",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 72,
+      "section": "A26",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 27,
+      "titles": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": null,
+      "section": null,
+      "status": "pending",
+      "note": "Chapter heading not located on any spread's top-region crop; likely starts mid-page on the preceding or following archive page and needs a direct look at the full page during Phase 3 page splitting."
+    },
+    {
+      "number": 28,
+      "titles": {
+        "de": "Ausbau des Zahnkranzes am Triebrad",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 73,
+      "section": "A28",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 29,
+      "titles": {
+        "de": "Einbau des Zahnkranzes am Triebrad",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 74,
+      "section": "A29",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 30,
+      "titles": {
+        "de": "Ausbau des Triebrades",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 76,
+      "section": "A30",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 31,
+      "titles": {
+        "de": "Einbau des Triebrades",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 79,
+      "section": "A31",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 32,
+      "titles": {
+        "de": "Sonderwerkzeuge mit ihren Zeichnungen",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 82,
+      "section": "A32",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 33,
+      "titles": {
+        "de": "Arbeitszeiten",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "page": 96,
+      "section": "A33",
+      "status": "validated",
+      "note": null
+    }
+  ]
+}
