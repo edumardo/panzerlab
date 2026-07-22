@@ -235,14 +235,14 @@
     {
       "number": 19,
       "titles": {
-        "de": null,
+        "de": "Anbau der Stützrolle",
         "en-GB": null,
         "es-ES": null
       },
-      "page": null,
-      "section": null,
-      "status": "pending",
-      "note": "Chapter heading not located on any spread's top-region crop; likely starts mid-page on the preceding or following archive page and needs a direct look at the full page during Phase 3 page splitting."
+      "page": 57,
+      "section": "A18",
+      "status": "validated",
+      "note": "Heading is mid-page (after chapter 18's text), sharing archive page 57 with chapter 18; no separate A19 section directory exists."
     },
     {
       "number": 20,
@@ -331,14 +331,14 @@
     {
       "number": 27,
       "titles": {
-        "de": null,
+        "de": "Einbau der Scherscheibe an dem Kettenspanner älterer Ausführung",
         "en-GB": null,
         "es-ES": null
       },
-      "page": null,
-      "section": null,
-      "status": "pending",
-      "note": "Chapter heading not located on any spread's top-region crop; likely starts mid-page on the preceding or following archive page and needs a direct look at the full page during Phase 3 page splitting."
+      "page": 72,
+      "section": "A26",
+      "status": "validated",
+      "note": "Heading is mid-page (after chapter 26's text), sharing archive page 72 with chapter 26; no separate A27 section directory exists."
     },
     {
       "number": 28,

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-012",
+  "document_id": "d652-50a",
+  "page": 12,
+  "section": "A03",
+  "type": "figures",
+  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 7,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-011", "next": "d65250a-page-013"},
+  "paragraphs": [
+    {"id": "d65250a-p012-para01", "text": {"de": {"plain": "Die Kronenmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Kronenmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-015", "number": 15, "status": "draft", "captions": {"de": {"plain": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.", "runs": [{"text": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-016", "number": 16, "status": "draft", "captions": {"de": {"plain": "Den Splint mit Dorn und Hammer entfernen.", "runs": [{"text": "Den Splint mit Dorn und Hammer entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

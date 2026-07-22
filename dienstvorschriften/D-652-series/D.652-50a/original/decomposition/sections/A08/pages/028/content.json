@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-028",
+  "document_id": "d652-50a",
+  "page": 28,
+  "section": "A08",
+  "type": "figures",
+  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 15,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-027", "next": "d65250a-page-029"},
+  "paragraphs": [
+    {"id": "d65250a-p028-para01", "text": {"de": {"plain": "Im Notfall kann der vordere Lagerring mit Hammer und Dorn, der in einer Ausfräsung der Abstandbuchse anzusetzen ist, heruntergeschlagen werden.", "runs": [{"text": "Im Notfall kann der vordere Lagerring mit Hammer und Dorn, der in einer Ausfräsung der Abstandbuchse anzusetzen ist, heruntergeschlagen werden.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-041", "number": 41, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

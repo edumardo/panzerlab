@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-004",
+  "document_id": "d652-50a",
+  "page": 4,
+  "section": "A01",
+  "type": "text",
+  "titles": {"de": "1. Ausbau eines Kettengliedes", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 3,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-003", "next": "d65250a-page-005"},
+  "paragraphs": [
+    {"id": "d65250a-p004-para01", "text": {"de": {"plain": "Das auszuwechselnde Kettenglied so nach vorn auf das Triebrad fahren, daß der Kettenbolzen beim Herausschlagen nicht an die Panzerwanne stößt. Schraubkappe und Mutter des Kettenspanners im Heck des Fahrzeuges lösen und Fahrzeug kurz anfahren. Dadurch wird die Leitradkurbel nach vorn gezogen und die Kette entspannt.", "runs": [{"text": "Das auszuwechselnde Kettenglied so nach vorn auf das Triebrad fahren, daß der Kettenbolzen beim Herausschlagen nicht an die Panzerwanne stößt. Schraubkappe und Mutter des Kettenspanners im Heck des Fahrzeuges lösen und Fahrzeug kurz anfahren. Dadurch wird die Leitradkurbel nach vorn gezogen und die Kette entspannt.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p004-para02", "text": {"de": {"plain": "Triebrad durch die Fußbremse feststellen.", "runs": [{"text": "Triebrad durch die Fußbremse feststellen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p004-para03", "text": {"de": {"plain": "Kettenbolzensicherung mit Hammer und Meißel abschlagen.", "runs": [{"text": "Kettenbolzensicherung mit Hammer und Meißel abschlagen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-001", "number": 1, "status": "draft", "captions": {"de": {"plain": "Bild 1", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

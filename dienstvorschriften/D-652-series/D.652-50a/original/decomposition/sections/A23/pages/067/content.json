@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-067",
+  "document_id": "d652-50a",
+  "page": 67,
+  "section": "A23",
+  "type": "figures",
+  "titles": {"de": "Noch: 23. Einbau der Leitradkurbel.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 35,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-066", "next": "d65250a-page-068"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-097", "number": 97, "status": "draft", "captions": {"de": {"plain": "Das Stahlband mit Schlauchbinder befestigen.", "runs": [{"text": "Das Stahlband mit Schlauchbinder befestigen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-098", "number": 98, "status": "draft", "captions": {"de": {"plain": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.", "runs": [{"text": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

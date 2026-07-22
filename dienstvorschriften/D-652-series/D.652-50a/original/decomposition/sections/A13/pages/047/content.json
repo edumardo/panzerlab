@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-047",
+  "document_id": "d652-50a",
+  "page": 47,
+  "section": "A13",
+  "type": "text",
+  "titles": {"de": "Noch: 13. Einbau der Drehstabfeder.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 25,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-046", "next": "d65250a-page-048"},
+  "paragraphs": [
+    {"id": "d65250a-p047-para01", "text": {"de": {"plain": "Die Paßstifte mit Gummihammer in die Nuß einschlagen.", "runs": [{"text": "Die Paßstifte mit Gummihammer in die Nuß einschlagen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p047-para02", "text": {"de": {"plain": "Die Deckplatte mit Dichtung an der Unterseite der Panzerwanne anschrauben. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Die Deckplatte mit Dichtung an der Unterseite der Panzerwanne anschrauben. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-070", "number": 70, "status": "draft", "captions": {"de": {"plain": "Bild 70", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

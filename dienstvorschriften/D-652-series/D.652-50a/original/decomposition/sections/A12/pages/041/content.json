@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-041",
+  "document_id": "d652-50a",
+  "page": 41,
+  "section": "A12",
+  "type": "figures",
+  "titles": {"de": "Noch: 12. Ausbau der Drehstabfeder.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 22,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-040", "next": "d65250a-page-042"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-059", "number": 59, "status": "draft", "captions": {"de": {"plain": "Die Spindel der Abziehvorrichtung Nr. III DB 100 auf die Paßstifte mit Schraubenschlüssel SW 10 aufschrauben.", "runs": [{"text": "Die Spindel der Abziehvorrichtung Nr. III DB 100 auf die Paßstifte mit Schraubenschlüssel SW 10 aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-060", "number": 60, "status": "draft", "captions": {"de": {"plain": "Die Paßstifte durch Herausdrehen der Spindel herausziehen. Die Mutter wird mit Schraubenschlüssel SW 22 angezogen.", "runs": [{"text": "Die Paßstifte durch Herausdrehen der Spindel herausziehen. Die Mutter wird mit Schraubenschlüssel SW 22 angezogen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

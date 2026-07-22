@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-045",
+  "document_id": "d652-50a",
+  "page": 45,
+  "section": "A12",
+  "type": "text",
+  "titles": {"de": "Noch: 12. Ausbau der Drehstabfeder.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 24,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-044", "next": "d65250a-page-046"},
+  "paragraphs": [
+    {"id": "d65250a-p045-para01", "text": {"de": {"plain": "Neuere Fahrzeuge haben an der Lagerung der Drehstabfeder eine Blindverschraubung in der Pz-Wanne. Nach Lösen dieser Verschraubung kann mit einem Dorn der abgebrochene Teil der Drehstabfeder herausgeschlagen werden. Das Einschweißen eines Verbindungsstückes erübrigt sich dann.", "runs": [{"text": "Neuere Fahrzeuge haben an der Lagerung der Drehstabfeder eine Blindverschraubung in der Pz-Wanne. Nach Lösen dieser Verschraubung kann mit einem Dorn der abgebrochene Teil der Drehstabfeder herausgeschlagen werden. Das Einschweißen eines Verbindungsstückes erübrigt sich dann.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-066", "number": 66, "status": "draft", "captions": {"de": {"plain": "Zwischen die beiden Bruchstücke der Drehstabfeder ein 12—15 mm starkes Verbindungsstück einschweißen.", "runs": [{"text": "Zwischen die beiden Bruchstücke der Drehstabfeder ein 12—15 mm starkes Verbindungsstück einschweißen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-067", "number": 67, "status": "draft", "captions": {"de": {"plain": "Die verbundenen Bruchstücke durch Herausziehen mit Abziehvorrichtung Nr. III DB 101 oder von Hand entfernen.", "runs": [{"text": "Die verbundenen Bruchstücke durch Herausziehen mit Abziehvorrichtung Nr. III DB 101 oder von Hand entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-089",
+  "document_id": "d652-50a",
+  "page": 89,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 46,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-088", "next": "d65250a-page-090"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-089-01",
+      "number": "5a",
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 5a. Abziehvorrichtung z. Ausbau der Schwingarm- u. Laufrollenlager. Maßstab 1:2,5. Stückzahl 1: Haltering, Werkstoff St 37.12; Stückzahl 2: Klaue kompl., Werkstoff St 37.12. Diese Teile dienen zum Abziehen der Schutzkappe am Schwingarm. Gestreckte Länge = 755 mm. Schnitt A-B.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

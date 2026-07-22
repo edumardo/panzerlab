@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-026",
+  "document_id": "d652-50a",
+  "page": 26,
+  "section": "A07",
+  "type": "text",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 14,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-025", "next": "d65250a-page-027"},
+  "paragraphs": [
+    {"id": "d65250a-p026-para01", "text": {"de": {"plain": "Beachten: Die Abstreifkante des Abdichtringes muß nach außen zeigen. Die Beschriftung des Abdichtringes zeigt dann auch nach außen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Abstreifkante des Abdichtringes muß nach außen zeigen. Die Beschriftung des Abdichtringes zeigt dann auch nach außen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p026-para02", "text": {"de": {"plain": "Laufrolle nach Abschnitt 4, S. 15, einbauen.", "runs": [{"text": "Laufrolle nach Abschnitt 4, S. 15, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-037", "number": 37, "status": "draft", "captions": {"de": {"plain": "Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-038", "number": 38, "status": "draft", "captions": {"de": {"plain": "Den Abdichtring (Simmerring) mit Gummihammer einschlagen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

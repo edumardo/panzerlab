@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-063",
+  "document_id": "d652-50a",
+  "page": 63,
+  "section": "A22",
+  "type": "text",
+  "titles": {"de": "Noch: 22. Ausbau der Leitradkurbel.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 33,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-062", "next": "d65250a-page-064"},
+  "paragraphs": [
+    {"id": "d65250a-p063-para01", "text": {"de": {"plain": "Die Drahtsicherung von den Befestigungsschrauben herausziehen.", "runs": [{"text": "Die Drahtsicherung von den Befestigungsschrauben herausziehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p063-para02", "text": {"de": {"plain": "Die Befestigungsschrauben mit Schraubenschlüssel SW 22 herausschrauben.", "runs": [{"text": "Die Befestigungsschrauben mit Schraubenschlüssel SW 22 herausschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p063-para03", "text": {"de": {"plain": "Beide Deckelhälften und die Beilaghälften entfernen, s. auch Bild 94.", "runs": [{"text": "Beide Deckelhälften und die Beilaghälften entfernen, s. auch Bild 94.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-090", "number": 90, "status": "draft", "captions": {"de": {"plain": "Bild 90", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-091", "number": 91, "status": "draft", "captions": {"de": {"plain": "Bild 91", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

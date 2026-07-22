@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-057",
+  "document_id": "d652-50a",
+  "page": 57,
+  "section": "A18",
+  "type": "text",
+  "titles": {"de": "18. Abbau der Stützrolle", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 30,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-056", "next": "d65250a-page-058"},
+  "paragraphs": [
+    {"id": "d65250a-p057-para01", "text": {"de": {"plain": "Gleiskette abnehmen.", "runs": [{"text": "Gleiskette abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p057-para02", "text": {"de": {"plain": "Die Splinte der Kronenmuttern am Stützrollenfuß entfernen.", "runs": [{"text": "Die Splinte der Kronenmuttern am Stützrollenfuß entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p057-para03", "text": {"de": {"plain": "Die Kronenmuttern mit Schraubenschlüssel SW 30 abschrauben.", "runs": [{"text": "Die Kronenmuttern mit Schraubenschlüssel SW 30 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p057-para04", "text": {"de": {"plain": "Die Stützrolle mit ihrem Fuß von den Bolzen abziehen.", "runs": [{"text": "Die Stützrolle mit ihrem Fuß von den Bolzen abziehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p057-para05", "text": {"de": {"plain": "19. Anbau der Stützrolle", "runs": [{"text": "19. Anbau der Stützrolle", "bold": true}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p057-para06", "text": {"de": {"plain": "Den Fuß mit Stützrolle an der Panzerwanne anschrauben. Die Kronenmuttern werden mit Schraubenschlüssel SW 30 angezogen und versplintet.", "runs": [{"text": "Den Fuß mit Stützrolle an der Panzerwanne anschrauben. Die Kronenmuttern werden mit Schraubenschlüssel SW 30 angezogen und versplintet.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-083", "number": 83, "status": "draft", "captions": {"de": {"plain": "Bild 83", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

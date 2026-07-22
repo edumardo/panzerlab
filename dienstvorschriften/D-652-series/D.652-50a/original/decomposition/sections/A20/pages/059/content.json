@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-059",
+  "document_id": "d652-50a",
+  "page": 59,
+  "section": "A20",
+  "type": "text",
+  "titles": {"de": "Noch: 20. Ausbau des Leitrades.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 31,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-058", "next": "d65250a-page-060"},
+  "paragraphs": [
+    {"id": "d65250a-p059-para01", "text": {"de": {"plain": "Das Sicherungsblech 1, die Druckscheibe 2 und den Schulterring 3 abnehmen.", "runs": [{"text": "Das Sicherungsblech 1, die Druckscheibe 2 und den Schulterring 3 abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p059-para02", "text": {"de": {"plain": "Das Leitrad vorsichtig vom Achsstummel ziehen.", "runs": [{"text": "Das Leitrad vorsichtig vom Achsstummel ziehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p059-para03", "text": {"de": {"plain": "Beachten: Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-086", "number": 86, "status": "draft", "captions": {"de": {"plain": "Bild 86", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

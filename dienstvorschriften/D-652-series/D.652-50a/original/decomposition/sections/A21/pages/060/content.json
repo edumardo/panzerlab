@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-060",
+  "document_id": "d652-50a",
+  "page": 60,
+  "section": "A21",
+  "type": "text",
+  "titles": {"de": "21. Einbau des Leitrades", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 31,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-059", "next": "d65250a-page-061"},
+  "paragraphs": [
+    {"id": "d65250a-p060-para01", "text": {"de": {"plain": "Das Leitrad vorsichtig auf den Achsstummel schieben.", "runs": [{"text": "Das Leitrad vorsichtig auf den Achsstummel schieben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p060-para02", "text": {"de": {"plain": "Beachten: Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-087", "number": 87, "status": "draft", "captions": {"de": {"plain": "Bild 87", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

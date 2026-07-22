@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-058",
+  "document_id": "d652-50a",
+  "page": 58,
+  "section": "A20",
+  "type": "text",
+  "titles": {"de": "20. Ausbau des Leitrades", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 30,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-057", "next": "d65250a-page-059"},
+  "paragraphs": [
+    {"id": "d65250a-p058-para01", "text": {"de": {"plain": "Gleiskette von Leitrad abnehmen.", "runs": [{"text": "Gleiskette von Leitrad abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p058-para02", "text": {"de": {"plain": "Die Blechsicherungen geradebiegen.", "runs": [{"text": "Die Blechsicherungen geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p058-para03", "text": {"de": {"plain": "Die Schrauben mit Steckschlüssel SW 19 abschrauben.", "runs": [{"text": "Die Schrauben mit Steckschlüssel SW 19 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p058-para04", "text": {"de": {"plain": "Den Abschlußdeckel abnehmen.", "runs": [{"text": "Den Abschlußdeckel abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p058-para05", "text": {"de": {"plain": "Blechsicherung geradebiegen.", "runs": [{"text": "Blechsicherung geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p058-para06", "text": {"de": {"plain": "Die Mutter mit Steckschlüssel SW 95 abschrauben.", "runs": [{"text": "Die Mutter mit Steckschlüssel SW 95 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-084", "number": 84, "status": "draft", "captions": {"de": {"plain": "Bild 84", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-085", "number": 85, "status": "draft", "captions": {"de": {"plain": "Bild 85", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

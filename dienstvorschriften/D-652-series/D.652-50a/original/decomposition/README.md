@@ -4,7 +4,7 @@ This folder contains the format-neutral decomposition of the German source.
 The original PDF and its file metadata remain one level above. JSON is the
 canonical content source; DOCX, PDF, HTML and Markdown are derived outputs.
 
-## Status: Phase 3 (content model) started
+## Status: Phase 4 (transcription) done in German; translation pending
 
 Per `docs/PDF_TO_CANONICAL_JSON.md` §13:
 
@@ -12,14 +12,30 @@ Per `docs/PDF_TO_CANONICAL_JSON.md` §13:
       created; original PDF preserved with checksum.
 - [x] Phase 2 — Visual resources: base spread images extracted and visually
       reviewed (clean, no watermark compositing).
-- [~] Phase 3 — Content model: `manifest.json` (explicit PDF-to-page map,
-      §5 Step 3) and `index/contents.json` (German chapter titles) are
-      populated from direct visual reading of every spread's printed folio
-      number and chapter heading. Splitting spreads into individual page
-      image files and writing per-page `content.json` (paragraph-level
-      transcription) is still pending.
-- [ ] Phase 4 — Linguistic content: transcription and translation.
+- [x] Phase 3 — Content model: `manifest.json` (explicit PDF-to-page map,
+      §5 Step 3), `index/contents.json` (German chapter titles, all 33
+      confirmed — see below), per-section `manifest.json` files (facsimile
+      layout), and all 101 pages split from their spreads into individual
+      `source.jpg` files.
+- [~] Phase 4 — Linguistic content: all 101 pages have a `content.json` with
+      a direct-from-image German transcription (paragraphs, titles, figure
+      captions), `status.transcription: "draft"` — visually spot-checked
+      against the source scans but not yet human-reviewed page by page, so
+      not promoted to `"validated"`. EN/ES translation has not started
+      (`status.en-GB`/`status.es-ES: "pending"`, `titles.en-GB`/`es-ES` and
+      all paragraph/caption `en-GB`/`es-ES` fields are `null`).
 - [ ] Phase 5 — Consumers: web viewer, DOCX/PDF exporters, search index.
+
+### Known editorial inconsistency to resolve before validating
+
+Different transcription passes split figure captions vs. body paragraphs
+slightly differently: some pages (e.g. `sections/A03/pages/010`,
+`sections/A06/pages/019`) put the full descriptive sentence into the
+figure's `captions` field, while others (e.g. `sections/A13/pages/046`-`048`)
+leave captions as a bare "Bild NN" and move all descriptive text into
+`paragraphs`. Both are valid against `schema/content.schema.json`, but this
+should be normalized to one convention during human review, before any page
+is promoted from `"draft"` to `"validated"`.
 
 ## PDF-to-book-page map (§5 Step 3)
 
@@ -48,12 +64,12 @@ This was spot-verified across the full range (pages 3, 4, 5, 6, 7, 8, 9, 10,
 `index/contents.json` lists all 33 numbered chapters ("Ausbau"/"Einbau" —
 removal/installation — pairs for each running-gear component, then
 "Sonderwerkzeuge" §32 with its `Zeichnung` spare-parts drawings, then an
-"Arbeitszeiten" §33 repair-time table). Two chapter headings (§19 and §27)
-were not located in the top-of-page region read for every spread — they
-likely start mid-page on an already-identified archive page and need a
-direct look at the full page (not just its masthead) during the page-split
-step; they are marked `"status": "pending"` in `index/contents.json` rather
-than guessed.
+"Arbeitszeiten" §33 repair-time table). Chapters §19 ("Anbau der
+Stützrolle") and §27 ("Einbau der Scherscheibe an dem Kettenspanner älterer
+Ausführung") were not on any spread's top-of-page masthead because both
+start mid-page, sharing an archive page with the previous chapter (57 and
+72 respectively) — found during page-by-page transcription and confirmed
+against the source scan; no separate A19/A27 section directories exist.
 
 ## Source inventory
 
@@ -78,10 +94,10 @@ archive pages 100–101 are blank trailing leaves before the back cover.
 
 ## Entry points (still pending)
 
-- `layout.json`: output-independent layout profile.
-- Per-page split images (`sections/<id>/pages/<NNN>/source.jpg`) and
-  per-page `content.json` (paragraph-level transcription) — currently only
-  the shared full-spread images in `assets/spreads/` exist.
-- `schema/`: JSON contracts (page and content schemas added this pass;
-  page-level `content.json` files that conform to them are not yet
-  written).
+- `layout.json`: a document-level (not per-section) output-independent
+  layout profile, if one is needed beyond each section's own
+  `manifest.json.layout`.
+- EN/ES translation of every `titles`/paragraph/caption field.
+- Human review promoting `status.transcription` from `"draft"` to
+  `"validated"` page by page (after resolving the caption/paragraph
+  convention noted above).

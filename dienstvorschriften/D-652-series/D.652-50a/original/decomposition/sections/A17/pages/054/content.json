@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-054",
+  "document_id": "d652-50a",
+  "page": 54,
+  "section": "A17",
+  "type": "text",
+  "titles": {"de": "17. Einbau der Schwingarmlager", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 28,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-053", "next": "d65250a-page-055"},
+  "paragraphs": [
+    {"id": "d65250a-p054-para01", "text": {"de": {"plain": "1. Ringmutter\n2. Sicherungsblech\n3. Innenring des Schwingarmlagers\n4. Führungsring\n5. Abstandbuchse\n6. Nadellager\n7. Druckring\n8. Abdichtring (Simmerring)\n9. Schutzkappe\n10. Gummiring.", "runs": [{"text": "1. Ringmutter\n2. Sicherungsblech\n3. Innenring des Schwingarmlagers\n4. Führungsring\n5. Abstandbuchse\n6. Nadellager\n7. Druckring\n8. Abdichtring (Simmerring)\n9. Schutzkappe\n10. Gummiring.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-080", "number": 80, "status": "draft", "captions": {"de": {"plain": "Bild 80", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

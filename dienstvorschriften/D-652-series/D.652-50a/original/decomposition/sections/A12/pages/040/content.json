@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-040",
+  "document_id": "d652-50a",
+  "page": 40,
+  "section": "A12",
+  "type": "figures",
+  "titles": {"de": "12. Ausbau der Drehstabfeder", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 21,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-039", "next": "d65250a-page-041"},
+  "paragraphs": [
+    {"id": "d65250a-p040-para01", "text": {"de": {"plain": "Die Befestigungsschrauben der Deckplatte an der Unterseite der Panzerwanne mit Steckschlüssel SW 19 herausschrauben.", "runs": [{"text": "Die Befestigungsschrauben der Deckplatte an der Unterseite der Panzerwanne mit Steckschlüssel SW 19 herausschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-057", "number": 57, "status": "draft", "captions": {"de": {"plain": "Die Blechsicherungen geradebiegen.", "runs": [{"text": "Die Blechsicherungen geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-058", "number": 58, "status": "draft", "captions": {"de": {"plain": "Deckplatte mit Dichtung abnehmen.", "runs": [{"text": "Deckplatte mit Dichtung abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

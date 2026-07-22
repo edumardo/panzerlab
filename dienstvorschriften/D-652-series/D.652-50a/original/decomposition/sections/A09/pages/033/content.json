@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-033",
+  "document_id": "d652-50a",
+  "page": 33,
+  "section": "A09",
+  "type": "text",
+  "titles": {"de": "Noch: 9. Einbau der Innenringe der Laufrollenlager.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 18,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-032", "next": "d65250a-page-034"},
+  "paragraphs": [
+    {"id": "d65250a-p033-para01", "text": {"de": {"plain": "Den hinteren Lagerring mit einem von der Truppe selbst beschafften passenden Rohrstück und Hammer auf den Achsstummel auftreiben. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Den hinteren Lagerring mit einem von der Truppe selbst ", "bold": false}, {"text": "beschafften", "bold": true}, {"text": " passenden Rohrstück und Hammer auf den Achsstummel auftreiben. ", "bold": false}, {"text": "Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": true}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p033-para02", "text": {"de": {"plain": "Die Abstandbuchse auf den Achsstummel aufbringen.", "runs": [{"text": "Die Abstandbuchse auf den Achsstummel aufbringen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p033-para03", "text": {"de": {"plain": "Den vorderen Lagerring mit Rohrstück und Hammer auf den Achsstummel auftreiben. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Den vorderen Lagerring mit Rohrstück und Hammer auf den Achsstummel auftreiben. ", "bold": false}, {"text": "Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": true}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p033-para04", "text": {"de": {"plain": "Die Laufrolle nach Abschn. 4, S. 15, einbauen.", "runs": [{"text": "Die Laufrolle nach Abschn. 4, S. 15, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-047", "number": 47, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-048", "number": 48, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

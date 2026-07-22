@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-062",
+  "document_id": "d652-50a",
+  "page": 62,
+  "section": "A22",
+  "type": "text",
+  "titles": {"de": "22. Ausbau der Leitradkurbel", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 32,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-061", "next": "d65250a-page-063"},
+  "paragraphs": [
+    {"id": "d65250a-p062-para01", "text": {"de": {"plain": "Leitrad nach Abschn. 20, S. 59, ausbauen.", "runs": [{"text": "Leitrad nach Abschn. 20, S. 59, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p062-para02", "text": {"de": {"plain": "Den Seegerring an der Zugspindel des Kettenspanners mit Flachzange entfernen.", "runs": [{"text": "Den Seegerring an der Zugspindel des Kettenspanners mit Flachzange entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p062-para03", "text": {"de": {"plain": "Den Schlauchbinder, das Stahlband und das Gummiband abnehmen.", "runs": [{"text": "Den Schlauchbinder, das Stahlband und das Gummiband abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-088", "number": 88, "status": "draft", "captions": {"de": {"plain": "Bild 88", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-089", "number": 89, "status": "draft", "captions": {"de": {"plain": "Bild 89", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

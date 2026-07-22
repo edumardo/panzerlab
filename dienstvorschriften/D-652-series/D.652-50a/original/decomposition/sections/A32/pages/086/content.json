@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-086",
+  "document_id": "d652-50a",
+  "page": 86,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 44,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-085", "next": "d65250a-page-087"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-086-01",
+      "number": 3,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 3. Rollenlager- und Simmerring-Ausziehvorricht. f. Laufrolle. Maßstab 1:2, 1:1. Stückz. 5: Scheibe, Werkstoff St 37.12; 4: Einlegblech, Federstahl; 3: Schraube, Mutter nach DIN, St 34.11; 2: Drucksteg, St 37.12; 1: Platte, St 37.12. Teil 3. Mutter nach DIN, Nase einsetzen.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

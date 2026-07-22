@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-010",
+  "document_id": "d652-50a",
+  "page": 10,
+  "section": "A03",
+  "type": "figures",
+  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 6,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-009", "next": "d65250a-page-011"},
+  "paragraphs": [
+    {"id": "d65250a-p010-para01", "text": {"de": {"plain": "1) Die endgültige Ausführung dieses Sd-Werkzeuges kann sich noch ändern.", "runs": [{"text": "1) Die endgültige Ausführung dieses Sd-Werkzeuges kann sich noch ändern.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-011", "number": 11, "status": "draft", "captions": {"de": {"plain": "Steckgabel zum Ausbau der Laufrollen, Zeichnung 1, S. 85¹).", "runs": [{"text": "Steckgabel zum Ausbau der Laufrollen, Zeichnung 1, S. 85¹).", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-012", "number": 12, "status": "draft", "captions": {"de": {"plain": "Die Steckgabel waagerecht in die Laufrolle einführen.", "runs": [{"text": "Die Steckgabel waagerecht in die Laufrolle einführen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

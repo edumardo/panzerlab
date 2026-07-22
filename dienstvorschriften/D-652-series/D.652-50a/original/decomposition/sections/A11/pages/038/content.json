@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-038",
+  "document_id": "d652-50a",
+  "page": 38,
+  "section": "A11",
+  "type": "figures",
+  "titles": {"de": "Noch: 11. Einbau des Schwingungsdämpfers.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 20,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-037", "next": "d65250a-page-039"},
+  "paragraphs": [
+    {"id": "d65250a-p038-para01", "text": {"de": {"plain": "Beachten: Der Einschnitt für das Sicherungsblech muß nach oben zeigen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Der Einschnitt für das Sicherungsblech muß nach oben zeigen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-054", "number": 54, "status": "draft", "captions": {"de": {"plain": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.", "runs": [{"text": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-055", "number": 55, "status": "draft", "captions": {"de": {"plain": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.", "runs": [{"text": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

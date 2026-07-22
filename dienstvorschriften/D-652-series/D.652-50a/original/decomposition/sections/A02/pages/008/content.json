@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-008",
+  "document_id": "d652-50a",
+  "page": 8,
+  "section": "A02",
+  "type": "text",
+  "titles": {"de": "Noch: 2. Einbau eines Kettengliedes.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 5,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-007", "next": "d65250a-page-009"},
+  "paragraphs": [
+    {"id": "d65250a-p008-para01", "text": {"de": {"plain": "Die Kettenbolzensicherung in den Kettenbolzen einsetzen.", "runs": [{"text": "Die Kettenbolzensicherung in den Kettenbolzen einsetzen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para02", "text": {"de": {"plain": "Beachten: Der umgebogene Teil der Kettenbolzensicherung muß im auf der Erde liegenden Teil der Kette nach vorn zeigen, damit bei durchrutschender Kette die Sicherung nicht aufgebogen und abgebrochen wird.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Der umgebogene Teil der Kettenbolzensicherung muß im auf der Erde liegenden Teil der Kette nach vorn zeigen, damit bei durchrutschender Kette die Sicherung nicht aufgebogen und abgebrochen wird.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para03", "text": {"de": {"plain": "Zum Biegen der Sicherungen ist das „Biegegerät für Gleiskettensicherungen an Pz Kpfw\" nach der D 635/13 zu verwenden.", "runs": [{"text": "Zum Biegen der Sicherungen ist das „Biegegerät für Gleiskettensicherungen an Pz Kpfw\" nach der D 635/13 zu verwenden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para04", "text": {"de": {"plain": "Steht kein Biegegerät zur Verfügung, ist wie folgt nach Bild 7 und 8 zu verfahren:", "runs": [{"text": "Steht kein Biegegerät zur Verfügung, ist wie folgt nach Bild 7 und 8 zu verfahren:", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para05", "text": {"de": {"plain": "Die Kettenbolzensicherung mit einem Kettenbolzen vorbiegen. Der Bolzen wird durch Einklemmen eines Meißels oder kleinen Brechstange festgehalten.", "runs": [{"text": "Die Kettenbolzensicherung mit einem Kettenbolzen vorbiegen. Der Bolzen wird durch Einklemmen eines Meißels oder kleinen Brechstange festgehalten.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para06", "text": {"de": {"plain": "Die vorgebogenen Kettenbolzensicherungen durch Hammerschläge in ihre endgültige Form bringen.", "runs": [{"text": "Die vorgebogenen Kettenbolzensicherungen durch Hammerschläge in ihre endgültige Form bringen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para07", "text": {"de": {"plain": "Die Fußbremse lösen.", "runs": [{"text": "Die Fußbremse lösen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p008-para08", "text": {"de": {"plain": "Kette mit Kettenspanner am Heck des Fahrzeuges spannen.", "runs": [{"text": "Kette mit Kettenspanner am Heck des Fahrzeuges spannen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-007", "number": 7, "status": "draft", "captions": {"de": {"plain": "Bild 7", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-008", "number": 8, "status": "draft", "captions": {"de": {"plain": "Bild 8", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

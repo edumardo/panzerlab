@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-090",
+  "document_id": "d652-50a",
+  "page": 90,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 46,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-089", "next": "d65250a-page-091"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-090-01",
+      "number": 6,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 6. Richtdorn zum Einbau des Schwingungsdämpfers. Maßstab 1:1. Stückz. 1: Griff, Werkstoff St 34.11; Stückz. 2: Dorn, Werkstoff St 34.11. Bezeichnung III DB 128, Teil 6.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

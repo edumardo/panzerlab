@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-070",
+  "document_id": "d652-50a",
+  "page": 70,
+  "section": "A25",
+  "type": "figures",
+  "titles": {"de": "25. Ausbau der Scherscheibe an dem Kettenspanner älterer Ausführung", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 36,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-069", "next": "d65250a-page-071"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-102", "number": 102, "status": "draft", "captions": {"de": {"plain": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-103", "number": 103, "status": "draft", "captions": {"de": {"plain": "Die Spannmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Spannmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

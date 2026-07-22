@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-087",
+  "document_id": "d652-50a",
+  "page": 87,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 45,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-086", "next": "d65250a-page-088"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-087-01",
+      "number": 4,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 4. Stempel zum Einbau der Laufrollenlager. Maßstab 1:1. Stückz. 1: Griff, Werkstoff St 37.12; Stückz. 1: Stempelplatte, Werkstoff St 37.12. Teil 4.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

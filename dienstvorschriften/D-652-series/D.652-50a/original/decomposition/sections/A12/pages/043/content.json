@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-043",
+  "document_id": "d652-50a",
+  "page": 43,
+  "section": "A12",
+  "type": "figures",
+  "titles": {"de": "Noch: 12. Ausbau der Drehstabfeder.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 23,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-042", "next": "d65250a-page-044"},
+  "paragraphs": [
+    {"id": "d65250a-p043-para01", "text": {"de": {"plain": "Die Gegenmutter 1 mit Steckschlüssel SW 42 abschrauben.", "runs": [{"text": "Die Gegenmutter 1 mit Steckschlüssel SW 42 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p043-para02", "text": {"de": {"plain": "Die Hauptmutter 3 mit Steckschlüssel SW 50 abschrauben.", "runs": [{"text": "Die Hauptmutter 3 mit Steckschlüssel SW 50 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-062", "number": 62, "status": "draft", "captions": {"de": {"plain": "Die Blechsicherung 2 geradebiegen.", "runs": [{"text": "Die Blechsicherung 2 geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-063", "number": 63, "status": "draft", "captions": {"de": {"plain": "Die Druckscheibe 4 und die Zwischenbleche 5 mit Schraubenzieher herausnehmen.", "runs": [{"text": "Die Druckscheibe 4 und die Zwischenbleche 5 mit Schraubenzieher herausnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

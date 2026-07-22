@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-009",
+  "document_id": "d652-50a",
+  "page": 9,
+  "section": "A03",
+  "type": "text",
+  "titles": {"de": "3. Ausbau der Laufrolle", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 6,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-008", "next": "d65250a-page-010"},
+  "paragraphs": [
+    {"id": "d65250a-p009-para01", "text": {"de": {"plain": "Die Befestigungsschrauben mit Steckschlüssel SW 17 herausschrauben.", "runs": [{"text": "Die Befestigungsschrauben mit Steckschlüssel SW 17 herausschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p009-para02", "text": {"de": {"plain": "Die Schutzkappe mit Dichtung abnehmen. Auf Beilagscheibe zwischen Schutzkappe und Lagerring achten.", "runs": [{"text": "Die Schutzkappe mit Dichtung abnehmen. Auf Beilagscheibe zwischen Schutzkappe und Lagerring achten.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-009", "number": 9, "status": "draft", "captions": {"de": {"plain": "Bild 9 u 10. Die Blechsicherungen an den Befestigungsschrauben der Schutzkappe mit Hammer und Meißel geradebiegen. Beachten: Die Blechsicherungen dürfen nicht abgeschlagen werden, da sonst eine Wiederverwendung unmöglich ist.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-010", "number": 10, "status": "draft", "captions": {"de": {"plain": "Bild 9 u 10. Die Blechsicherungen an den Befestigungsschrauben der Schutzkappe mit Hammer und Meißel geradebiegen. Beachten: Die Blechsicherungen dürfen nicht abgeschlagen werden, da sonst eine Wiederverwendung unmöglich ist.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

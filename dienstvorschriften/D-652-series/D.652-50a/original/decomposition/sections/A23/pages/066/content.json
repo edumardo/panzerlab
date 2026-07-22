@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-066",
+  "document_id": "d652-50a",
+  "page": 66,
+  "section": "A23",
+  "type": "figures",
+  "titles": {"de": "Noch: 23. Einbau der Leitradkurbel.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 34,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-065", "next": "d65250a-page-067"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-095", "number": 95, "status": "draft", "captions": {"de": {"plain": "Den Gummiring 4, das Gummiband 3 und den Schlauchbinder 1 über die Kurbelhülse schieben. Die Leitradkurbel in die Lagerhülse einführen. Beachten: Die blanken Stellen der Kurbel müssen vorher eingefettet werden. Den Führungsring 7 und den Deckel 6, Gummiring 4 und Beilaghälften 8 werden zwischengefügt und befestigt.", "runs": [{"text": "Den Gummiring 4, das Gummiband 3 und den Schlauchbinder 1 über die Kurbelhülse schieben. Die Leitradkurbel in die Lagerhülse einführen. ", "bold": false}, {"text": "Beachten: ", "bold": true}, {"text": "Die blanken Stellen der Kurbel müssen vorher eingefettet werden. Den Führungsring 7 und den Deckel 6, Gummiring 4 und Beilaghälften 8 werden zwischengefügt und befestigt.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-096", "number": 96, "status": "draft", "captions": {"de": {"plain": "Die Befestigungsschrauben 5 mit Schraubenschlüssel SW 22 einschrauben und mit Draht sichern. Das Gummiband 3 über die Trennfuge zwischen Kurbelarm und Führungsring schieben.", "runs": [{"text": "Die Befestigungsschrauben 5 mit Schraubenschlüssel SW 22 einschrauben und mit Draht sichern. Das Gummiband 3 über die Trennfuge zwischen Kurbelarm und Führungsring schieben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

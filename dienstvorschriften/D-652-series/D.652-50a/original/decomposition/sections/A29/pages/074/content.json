@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-074",
+  "document_id": "d652-50a",
+  "page": 74,
+  "section": "A29",
+  "type": "text",
+  "titles": {"de": "29. Einbau des Zahnkranzes am Triebrad", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 38,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-073", "next": "d65250a-page-075"},
+  "paragraphs": [
+    {"id": "d65250a-p074-para01", "text": {"de": {"plain": "Den Zahnkranz auf das Triebrad stecken.", "runs": [{"text": "Den Zahnkranz auf das Triebrad stecken.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p074-para02", "text": {"de": {"plain": "Die Bohrungen des Zahnkranzes und des Triebrades mit zwei eingesetzten Schraubenbolzen in eine Flucht bringen.", "runs": [{"text": "Die Bohrungen des Zahnkranzes und des Triebrades mit zwei eingesetzten Schraubenbolzen in eine Flucht bringen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p074-para03", "text": {"de": {"plain": "Beachten: Die Zähne beider Zahnkränze müssen einander gegenüberstehen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Zähne beider Zahnkränze müssen einander gegenüberstehen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-107", "number": 107, "status": "draft", "captions": {"de": {"plain": "Bild 107", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-108", "number": 108, "status": "draft", "captions": {"de": {"plain": "Bild 108", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

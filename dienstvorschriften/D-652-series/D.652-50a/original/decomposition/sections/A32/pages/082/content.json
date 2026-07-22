@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-082",
+  "document_id": "d652-50a",
+  "page": 82,
+  "section": "A32",
+  "type": "text",
+  "titles": {"de": "32. Sonderwerkzeuge mit ihren Zeichnungen", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 42,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-081", "next": "d65250a-page-083"},
+  "paragraphs": [
+    {"id": "d65250a-p082-para01", "text": {"de": {"plain": "1. Steckgabel zum Auswechseln einer Laufrolle.", "runs": [{"text": "1. Steckgabel zum Auswechseln einer Laufrolle.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para02", "text": {"de": {"plain": "2. Spurlehre zum Ausfluchten der Laufrollen.", "runs": [{"text": "2. Spurlehre zum Ausfluchten der Laufrollen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para03", "text": {"de": {"plain": "3. Rollenlager- und Dichtring- (Simmering-) Ausziehvorrichtung für Laufrolle.", "runs": [{"text": "3. Rollenlager- und Dichtring- (Simmering-) Ausziehvorrichtung für Laufrolle.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para04", "text": {"de": {"plain": "4. Stempel zum Einbau der Laufrollenlager.", "runs": [{"text": "4. Stempel zum Einbau der Laufrollenlager.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para05", "text": {"de": {"plain": "5. und 5 a. Abziehvorrichtung zum Ausbau der Schwingarm- und Laufrollenlager.", "runs": [{"text": "5. und 5 a. Abziehvorrichtung zum Ausbau der Schwingarm- und Laufrollenlager.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para06", "text": {"de": {"plain": "6. Richtdorn zum Einbau des Schwingungsdämpfers.", "runs": [{"text": "6. Richtdorn zum Einbau des Schwingungsdämpfers.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para07", "text": {"de": {"plain": "7. Abziehvorrichtung zum Ausbau der Schwingungsdämpferbolzen.", "runs": [{"text": "7. Abziehvorrichtung zum Ausbau der Schwingungsdämpferbolzen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para08", "text": {"de": {"plain": "8. Abziehvorrichtung zum Ausbau der Paßstifte.", "runs": [{"text": "8. Abziehvorrichtung zum Ausbau der Paßstifte.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para09", "text": {"de": {"plain": "9. Abziehvorrichtung zum Ausbau der Drehstabfeder.", "runs": [{"text": "9. Abziehvorrichtung zum Ausbau der Drehstabfeder.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p082-para10", "text": {"de": {"plain": "10. Abdrückschraube zum Abdrücken des Triebrades.", "runs": [{"text": "10. Abdrückschraube zum Abdrücken des Triebrades.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+}

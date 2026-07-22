@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-065",
+  "document_id": "d652-50a",
+  "page": 65,
+  "section": "A23",
+  "type": "text",
+  "titles": {"de": "23. Einbau der Leitradkurbel", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 34,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-064", "next": "d65250a-page-066"},
+  "paragraphs": [
+    {"id": "d65250a-p065-para01", "text": {"de": {"plain": "1. Schlauchbinder", "runs": [{"text": "1. Schlauchbinder", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para02", "text": {"de": {"plain": "2. Stahlband", "runs": [{"text": "2. Stahlband", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para03", "text": {"de": {"plain": "3. Gummiband", "runs": [{"text": "3. Gummiband", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para04", "text": {"de": {"plain": "4. Gummiring", "runs": [{"text": "4. Gummiring", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para05", "text": {"de": {"plain": "5. Befestigungsschrauben", "runs": [{"text": "5. Befestigungsschrauben", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para06", "text": {"de": {"plain": "6. Deckel", "runs": [{"text": "6. Deckel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para07", "text": {"de": {"plain": "7. Führungsring", "runs": [{"text": "7. Führungsring", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p065-para08", "text": {"de": {"plain": "8. Beilaghälften.", "runs": [{"text": "8. Beilaghälften.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-094", "number": 94, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

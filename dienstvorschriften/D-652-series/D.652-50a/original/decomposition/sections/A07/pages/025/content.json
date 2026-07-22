@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-025",
+  "document_id": "d652-50a",
+  "page": 25,
+  "section": "A07",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 14,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-024", "next": "d65250a-page-026"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-035", "number": 35, "status": "draft", "captions": {"de": {"plain": "Stempel zum Einbau der Laufrollenlager, Zeichn. 4, S. 88.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-036", "number": 36, "status": "draft", "captions": {"de": {"plain": "Die Rollenlager mit Stempel und Hammer in die Laufrollennabe einschlagen. Die Sitzflächen sind vorher mit Öl zu bestreichen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

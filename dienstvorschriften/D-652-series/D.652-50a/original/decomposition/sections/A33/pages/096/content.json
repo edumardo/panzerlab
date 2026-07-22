@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-096",
+  "document_id": "d652-50a",
+  "page": 96,
+  "section": "A33",
+  "type": "text",
+  "titles": {"de": "33. Arbeitszeiten", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 49,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-095", "next": "d65250a-page-097"},
+  "paragraphs": [
+    {"id": "d65250a-p096-para01", "text": {"de": {"plain": "für", "runs": [{"text": "für", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para02", "text": {"de": {"plain": "1. Kettengliedwechsel", "runs": [{"text": "1. Kettengliedwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para03", "text": {"de": {"plain": "2. Laufrollenwechsel", "runs": [{"text": "2. Laufrollenwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para04", "text": {"de": {"plain": "3. Schwingungsdämpferwechsel", "runs": [{"text": "3. Schwingungsdämpferwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para05", "text": {"de": {"plain": "4. Stabfederwechsel", "runs": [{"text": "4. Stabfederwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para06", "text": {"de": {"plain": "5. Schwingarmwechsel", "runs": [{"text": "5. Schwingarmwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para07", "text": {"de": {"plain": "6. Stützrollenwechsel", "runs": [{"text": "6. Stützrollenwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para08", "text": {"de": {"plain": "7. Leitradwechsel", "runs": [{"text": "7. Leitradwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para09", "text": {"de": {"plain": "8. Leitradkurbelwechsel", "runs": [{"text": "8. Leitradkurbelwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para10", "text": {"de": {"plain": "9. Scherscheibenwechsel", "runs": [{"text": "9. Scherscheibenwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para11", "text": {"de": {"plain": "10. Triebradwechsel", "runs": [{"text": "10. Triebradwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p096-para12", "text": {"de": {"plain": "11. Zahnkranzwechsel", "runs": [{"text": "11. Zahnkranzwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+}

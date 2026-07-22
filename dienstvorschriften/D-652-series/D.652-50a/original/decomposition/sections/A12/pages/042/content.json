@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-042",
+  "document_id": "d652-50a",
+  "page": 42,
+  "section": "A12",
+  "type": "text",
+  "titles": {"de": "Noch: 12. Ausbau der Drehstabfeder.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 22,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-041", "next": "d65250a-page-043"},
+  "paragraphs": [
+    {"id": "d65250a-p042-para01", "text": {"de": {"plain": "Die Laufrolle des Schwingarmes, dessen Drehstabfeder entfernt wird, und die Laufrolle, die diesen Schwingarm teilweise überdeckt, nach Abschn. 3, S. 10, ausbauen.", "runs": [{"text": "Die Laufrolle des Schwingarmes, dessen Drehstabfeder entfernt wird, und die Laufrolle, die diesen Schwingarm teilweise überdeckt, nach Abschn. 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p042-para02", "text": {"de": {"plain": "Den Schwingarm mit Winde anheben.", "runs": [{"text": "Den Schwingarm mit Winde anheben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p042-para03", "text": {"de": {"plain": "Beachten: Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p042-para04", "text": {"de": {"plain": "Holzklotz entfernen.", "runs": [{"text": "Holzklotz entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p042-para05", "text": {"de": {"plain": "Schwingarm herunterlassen.", "runs": [{"text": "Schwingarm herunterlassen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-061", "number": 61, "status": "draft", "captions": {"de": {"plain": "Die Verschlußkappe mit Steckschlüssel SW 28 abschrauben.", "runs": [{"text": "Die Verschlußkappe mit Steckschlüssel SW 28 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

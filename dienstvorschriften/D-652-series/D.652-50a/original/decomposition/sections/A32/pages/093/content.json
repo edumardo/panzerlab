@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-093",
+  "document_id": "d652-50a",
+  "page": 93,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 48,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-092", "next": "d65250a-page-094"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-093-01",
+      "number": 9,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 9. Abziehvorrichtung zum Ausbau der Drehstabfeder. Maßstab 1:1. Teile: 1 Spindel (Werkstoff St 34.11), 2 Druckhülse (Werkstoff St 37.12), 3 Mutter DIN (Werkstoff St 34.11). Zeichnungsnummer III DB 101, Blatt 9.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

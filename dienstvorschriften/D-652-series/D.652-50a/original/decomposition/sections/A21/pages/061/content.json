@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-061",
+  "document_id": "d652-50a",
+  "page": 61,
+  "section": "A21",
+  "type": "text",
+  "titles": {"de": "Noch: 21. Einbau des Leitrades.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 32,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-060", "next": "d65250a-page-062"},
+  "paragraphs": [
+    {"id": "d65250a-p061-para01", "text": {"de": {"plain": "Den Schulterring, die Druckscheibe und das Sicherungsblech (Bild 86) auf den Achsstummel aufbringen.", "runs": [{"text": "Den Schulterring, die Druckscheibe und das Sicherungsblech (Bild 86) auf den Achsstummel aufbringen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p061-para02", "text": {"de": {"plain": "Die Mutter mit Steckschlüssel SW 95 aufschrauben.", "runs": [{"text": "Die Mutter mit Steckschlüssel SW 95 aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p061-para03", "text": {"de": {"plain": "Die Mutter durch Blechsicherung sichern.", "runs": [{"text": "Die Mutter durch Blechsicherung sichern.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p061-para04", "text": {"de": {"plain": "Die Schutzkappe mit Abschmierfett füllen. Schutzkappe befestigen. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Die Schutzkappe mit Abschmierfett füllen. Schutzkappe befestigen. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-056",
+  "document_id": "d652-50a",
+  "page": 56,
+  "section": "A17",
+  "type": "text",
+  "titles": {"de": "Noch: 17. Einbau der Schwingarmlager.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 29,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-055", "next": "d65250a-page-057"},
+  "paragraphs": [
+    {"id": "d65250a-p056-para01", "text": {"de": {"plain": "Das Nadellager mit Holzklotz und Hammer aufschlagen. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Das Nadellager mit Holzklotz und Hammer aufschlagen. Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para02", "text": {"de": {"plain": "Beachten: Der äußere Lagerring muß nach der Schutzkappe hin abzuziehen sein. Damit er nicht abrutscht, muß er beim Einbau des Lagers gehalten werden.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Der äußere Lagerring muß nach der Schutzkappe hin abzuziehen sein. Damit er nicht abrutscht, muß er beim Einbau des Lagers gehalten werden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para03", "text": {"de": {"plain": "Die Abstandbuchse mit Holzklotz und Hammer aufschlagen.", "runs": [{"text": "Die Abstandbuchse mit Holzklotz und Hammer aufschlagen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para04", "text": {"de": {"plain": "Den Führungsring mit Holzklotz und Hammer aufschlagen.", "runs": [{"text": "Den Führungsring mit Holzklotz und Hammer aufschlagen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para05", "text": {"de": {"plain": "Den Lagerring mit Holzklotz und Hammer aufschlagen. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Den Lagerring mit Holzklotz und Hammer aufschlagen. Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para06", "text": {"de": {"plain": "Die Ringmutter mit Ringmutterschlüssel aufschrauben.", "runs": [{"text": "Die Ringmutter mit Ringmutterschlüssel aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para07", "text": {"de": {"plain": "Die Ringmutter durch Blechsicherung sichern.", "runs": [{"text": "Die Ringmutter durch Blechsicherung sichern.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p056-para08", "text": {"de": {"plain": "Schwingarm nach Abschn. 17, S. 51, einbauen.", "runs": [{"text": "Schwingarm nach Abschn. 17, S. 51, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-082", "number": 82, "status": "draft", "captions": {"de": {"plain": "Bild 82", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

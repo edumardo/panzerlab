@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-069",
+  "document_id": "d652-50a",
+  "page": 69,
+  "section": "A24",
+  "type": "figures",
+  "titles": {"de": "Noch: 24. Ausbau der Scherscheibe. an dem Kettenspanner neuerer Ausführung.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 36,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-068", "next": "d65250a-page-070"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-101", "number": 101, "status": "draft", "captions": {"de": {"plain": "Die Pfanne (3) und die Scherscheibe (2) durch Herausdrehen der Spannschraube mit Buchse (1) entfernen.", "runs": [{"text": "Die Pfanne (3) und die Scherscheibe (2) durch Herausdrehen der Spannschraube mit Buchse (1) entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

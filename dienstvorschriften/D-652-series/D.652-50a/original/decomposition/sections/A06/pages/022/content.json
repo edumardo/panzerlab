@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-022",
+  "document_id": "d652-50a",
+  "page": 22,
+  "section": "A06",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 12,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-021", "next": "d65250a-page-023"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-031", "number": 31, "status": "draft", "captions": {"de": {"plain": "Mit Schraubenschlüssel SW 28 die Mutter soweit anziehen, bis Lager und Abdichtring aus der Nabe fällt.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-032", "number": 32, "status": "draft", "captions": {"de": {"plain": "Rollenlager und Abdichtring von der Vorrichtung abnehmen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-032",
+  "document_id": "d652-50a",
+  "page": 32,
+  "section": "A09",
+  "type": "text",
+  "titles": {"de": "9. Einbau der Innenringe der Laufrollenlager", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 17,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-031", "next": "d65250a-page-033"},
+  "paragraphs": [
+    {"id": "d65250a-p032-para01", "text": {"de": {"plain": "Den Gleitring (1) aufschieben. Die Befestigungsschrauben werden mit Schraubenschlüssel SW 14 angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Den Gleitring (1) aufschieben. Die Befestigungsschrauben werden mit Schraubenschlüssel SW 14 angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p032-para02", "text": {"de": {"plain": "Die Beilagscheiben (2), den Abziehring (3) und den Zwischenring auf den Achsstummel aufbringen.", "runs": [{"text": "Die Beilagscheiben (2), den Abziehring (3) und den Zwischenring auf den Achsstummel aufbringen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-046", "number": 46, "status": "draft", "captions": {"de": {"plain": "1. Gleitring 2. Beilagscheiben 3. Abziehring 4. Zwischenring 5. Innenring des hinteren Laufrollenlagers 6. Abstandbuchse 7. Innenring des vorderen Laufrollenlagers 8. Schulterring 9. Beilagscheiben", "runs": [{"text": "1. Gleitring 2. Beilagscheiben 3. Abziehring 4. Zwischenring 5. Innenring des hinteren Laufrollenlagers 6. Abstandbuchse 7. Innenring des vorderen Laufrollenlagers 8. Schulterring 9. Beilagscheiben", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

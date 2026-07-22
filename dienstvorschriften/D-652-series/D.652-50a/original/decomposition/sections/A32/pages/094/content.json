@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-094",
+  "document_id": "d652-50a",
+  "page": 94,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 48,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-093", "next": "d65250a-page-095"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-094-01",
+      "number": 10,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 10. Abdrückschrauben zum Abdrücken des Triebrades. Maßstab 1:1. Teil: Abdrückschraube, Stückzahl 4, Werkstoff u. Rohmaß: St 38.13. Schlüsselweite 28 mm. Zeichnungsnummer III DB 81, Blatt 10.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

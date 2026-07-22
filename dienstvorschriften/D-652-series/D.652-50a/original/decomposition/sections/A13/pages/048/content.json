@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-048",
+  "document_id": "d652-50a",
+  "page": 48,
+  "section": "A13",
+  "type": "text",
+  "titles": {"de": "Noch: 13. Einbau der Drehstabfeder.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 25,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-047", "next": "d65250a-page-049"},
+  "paragraphs": [
+    {"id": "d65250a-p048-para01", "text": {"de": {"plain": "Die Zwischenbleche und die Druckscheibe aufbringen.", "runs": [{"text": "Die Zwischenbleche und die Druckscheibe aufbringen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para02", "text": {"de": {"plain": "Die Hauptmutter mit Steckschlüssel SW 50 aufschrauben.", "runs": [{"text": "Die Hauptmutter mit Steckschlüssel SW 50 aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para03", "text": {"de": {"plain": "Durch Abdrücken des Schwingarmes mit einer Brechstange prüfen, ob 0,2 mm Spiel vorhanden ist.", "runs": [{"text": "Durch Abdrücken des Schwingarmes mit einer Brechstange prüfen, ob 0,2 mm Spiel vorhanden ist.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para04", "text": {"de": {"plain": "Blechsicherung einlegen.", "runs": [{"text": "Blechsicherung einlegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para05", "text": {"de": {"plain": "Die Gegenmutter mit Steckschlüssel SW 42 aufschrauben.", "runs": [{"text": "Die Gegenmutter mit Steckschlüssel SW 42 aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para06", "text": {"de": {"plain": "Die Blechsicherung zur Gegenmutter umbiegen.", "runs": [{"text": "Die Blechsicherung zur Gegenmutter umbiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para07", "text": {"de": {"plain": "Dichtung zur Verschlußkappe einlegen.", "runs": [{"text": "Dichtung zur Verschlußkappe einlegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para08", "text": {"de": {"plain": "Die Verschlußkappe mit Steckschlüssel SW 28 einschrauben.", "runs": [{"text": "Die Verschlußkappe mit Steckschlüssel SW 28 einschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p048-para09", "text": {"de": {"plain": "Laufrollen nach Abschn. 4, S. 15, einbauen.", "runs": [{"text": "Laufrollen nach Abschn. 4, S. 15, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-071", "number": 71, "status": "draft", "captions": {"de": {"plain": "Bild 71", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

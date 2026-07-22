@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-046",
+  "document_id": "d652-50a",
+  "page": 46,
+  "section": "A13",
+  "type": "text",
+  "titles": {"de": "13. Einbau der Drehstabfeder", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 24,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-045", "next": "d65250a-page-047"},
+  "paragraphs": [
+    {"id": "d65250a-p046-para01", "text": {"de": {"plain": "Die Drehstabfeder von Hand in den Schwingarm einführen. Zum besseren Halt kann die Spindel der Abziehvorrichtung Nr. III DB 101 aufgeschraubt werden.", "runs": [{"text": "Die Drehstabfeder von Hand in den Schwingarm einführen. Zum besseren Halt kann die Spindel der Abziehvorrichtung Nr. III DB 101 aufgeschraubt werden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p046-para02", "text": {"de": {"plain": "Beachten: Die Oberkante der Schwingarmführung muß mit der Unterkante der Panzerwanne übereinstimmen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Oberkante der Schwingarmführung muß mit der Unterkante der Panzerwanne übereinstimmen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-068", "number": 68, "status": "draft", "captions": {"de": {"plain": "Bild 68", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-069", "number": 69, "status": "draft", "captions": {"de": {"plain": "Bild 69", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

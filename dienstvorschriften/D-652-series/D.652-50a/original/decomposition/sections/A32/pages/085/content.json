@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-085",
+  "document_id": "d652-50a",
+  "page": 85,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 44,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-084", "next": "d65250a-page-086"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-085-01",
+      "number": 2,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 2. Spurlehre zum Ausfluchten der Laufrollen. Maßstab 1:1. Stückz. 2: Spurlehre III DB 130/2, 130/3, Werkstoff St 37.12; Stückz. 1: Spurlehre III DB 130/1, Werkstoff St 37.12. Teil III DB 130, Nr. 2.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

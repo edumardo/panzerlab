@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-053",
+  "document_id": "d652-50a",
+  "page": 53,
+  "section": "A16",
+  "type": "text",
+  "titles": {"de": "Noch: 16. Ausbau der Schwingarmlager.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 28,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-052", "next": "d65250a-page-054"},
+  "paragraphs": [
+    {"id": "d65250a-p053-para01", "text": {"de": {"plain": "Abziehvorrichtung zum Ausbau der Schwingarmlager, Zeichn. 5a, S. 90.", "runs": [{"text": "Abziehvorrichtung zum Ausbau der Schwingarmlager, Zeichn. 5a, S. 90.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p053-para02", "text": {"de": {"plain": "Abziehvorrichtung aufsetzen.", "runs": [{"text": "Abziehvorrichtung aufsetzen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p053-para03", "text": {"de": {"plain": "Die Schutzkappe mit Dichtring (Simmerring), Druckring, Nadellager, Abstandbuchse, Führungsring und Lagerring abziehen. Die Spindel der Abziehvorrichtung wird mit Schraubenschlüssel SW 32 angezogen.", "runs": [{"text": "Die Schutzkappe mit Dichtring (Simmerring), Druckring, Nadellager, Abstandbuchse, Führungsring und Lagerring abziehen. Die Spindel der Abziehvorrichtung wird mit Schraubenschlüssel SW 32 angezogen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-078", "number": 78, "status": "draft", "captions": {"de": {"plain": "Bild 78", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-079", "number": 79, "status": "draft", "captions": {"de": {"plain": "Bild 79", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-084",
+  "document_id": "d652-50a",
+  "page": 84,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 43,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-083", "next": "d65250a-page-085"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-084-01",
+      "number": 1,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 1. Steckgabel zum Auswechseln einer Laufrolle. Maßstab 1:2,5. Als Verbindung kann auch 65x5,5 U-Profil Stahl verwandt werden. Schnitt A-B. Stückz. 1: Steckgabel, Teil 1, Werkstoff u. Rohm.: St 37.12.",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

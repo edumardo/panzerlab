@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-019",
+  "document_id": "d652-50a",
+  "page": 19,
+  "section": "A06",
+  "type": "text",
+  "titles": {"de": "6. Ausbau der Laufrollenlager", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 11,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-018", "next": "d65250a-page-020"},
+  "paragraphs": [
+    {"id": "d65250a-p019-para01", "text": {"de": {"plain": "Dazu: Rollenlager und Simmerring-Ausziehvorrichtung für Laufrolle, Zeichn. 3, S. 87", "runs": [{"text": "Dazu: Rollenlager und Simmerring-Ausziehvorrichtung für Laufrolle, Zeichn. 3, S. 87", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p019-para02", "text": {"de": {"plain": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "runs": [{"text": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-025", "number": 25, "status": "draft", "captions": {"de": {"plain": "Mit Seegerring oder Spitzzange den Seegerring zusammendrücken und durch den Abdichtring (Simmerring) aus der Laufrolle ziehen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-026", "number": 26, "status": "draft", "captions": {"de": {"plain": "Die Platte der Ausziehvorrichtung durch den Abdichtring und das Rollenlager in die Laufrolle einführen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

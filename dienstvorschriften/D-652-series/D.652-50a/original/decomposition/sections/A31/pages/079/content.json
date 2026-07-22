@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-079",
+  "document_id": "d652-50a",
+  "page": 79,
+  "section": "A31",
+  "type": "text",
+  "titles": {"de": "31. Einbau des Triebrades", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 41,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-078", "next": "d65250a-page-080"},
+  "paragraphs": [
+    {"id": "d65250a-p079-para01", "text": {"de": {"plain": "Das Triebrad auf die Nabe schieben. Die Befestigungsschrauben müssen den Bohrungen gegenüberstehen. Der Paßstift muß der Paßbohrung ebenfalls genau gegenüberstehen.", "runs": [{"text": "Das Triebrad auf die Nabe schieben. Die Befestigungsschrauben müssen den Bohrungen gegenüberstehen. Der Paßstift muß der Paßbohrung ebenfalls genau gegenüberstehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p079-para02", "text": {"de": {"plain": "Das Triebrad mit Holzklotz und Vorschlaghammer gleichmäßig auf die Nabe auftreiben.", "runs": [{"text": "Das Triebrad mit Holzklotz und Vorschlaghammer gleichmäßig auf die Nabe auftreiben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-116", "number": 116, "status": "draft", "captions": {"de": {"plain": "Bild 116", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-117", "number": 117, "status": "draft", "captions": {"de": {"plain": "Bild 117", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

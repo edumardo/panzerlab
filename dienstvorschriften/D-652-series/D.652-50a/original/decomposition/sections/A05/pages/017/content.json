@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-017",
+  "document_id": "d652-50a",
+  "page": 17,
+  "section": "A05",
+  "type": "figures",
+  "titles": {"de": "Noch: 5. Ausfluchten des Laufwerkes.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 10,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-016", "next": "d65250a-page-018"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-022", "number": 22, "status": "draft", "captions": {"de": {"plain": "Den Fluchtkeil Nr. III DB 130/3 zwischen die Führungsringe der Laufrolle setzen.", "runs": [{"text": "Den Fluchtkeil Nr. III DB 130/3 zwischen die Führungsringe der Laufrolle setzen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-023", "number": 23, "status": "draft", "captions": {"de": {"plain": "Eine Schnur zwischen den Mittelpunkten der Spurlehren spannen. Der Mittelpunkt des Fluchtkeils muß mit der Schnur zusammenfallen.", "runs": [{"text": "Eine Schnur zwischen den Mittelpunkten der Spurlehren spannen. Der Mittelpunkt des Fluchtkeils muß mit der Schnur zusammenfallen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

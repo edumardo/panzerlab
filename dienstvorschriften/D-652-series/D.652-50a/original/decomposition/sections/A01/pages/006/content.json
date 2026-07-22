@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-006",
+  "document_id": "d652-50a",
+  "page": 6,
+  "section": "A01",
+  "type": "text",
+  "titles": {"de": "Noch: 1. Ausbau eines Kettengliedes.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 4,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-005", "next": "d65250a-page-007"},
+  "paragraphs": [
+    {"id": "d65250a-p006-para01", "text": {"de": {"plain": "Das freie Kettenende auf den Boden legen.", "runs": [{"text": "Das freie Kettenende auf den Boden legen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p006-para02", "text": {"de": {"plain": "Den zweiten Kettenbolzen mit neuem Kettenbolzen herausschlagen. Vorher den Kettenbolzen um 90° drehen.", "runs": [{"text": "Den zweiten Kettenbolzen mit neuem Kettenbolzen herausschlagen. Vorher den Kettenbolzen um 90° drehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p006-para03", "text": {"de": {"plain": "Das Kettenglied entfernen.", "runs": [{"text": "Das Kettenglied entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-004", "number": 4, "status": "draft", "captions": {"de": {"plain": "Bild 4", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

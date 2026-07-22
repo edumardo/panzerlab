@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-003",
+  "document_id": "d652-50a",
+  "page": 3,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {"de": "Vorbemerkungen", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 3,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-002", "next": "d65250a-page-004"},
+  "paragraphs": [
+    {"id": "d65250a-p003-para01", "text": {"de": {"plain": "Diese vorläufige Anweisung dient als Hilfsmittel beim Beheben von Schäden am Laufwerk des", "runs": [{"text": "Diese vorläufige Anweisung dient als Hilfsmittel beim Beheben von Schäden am Laufwerk des", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para02", "text": {"de": {"plain": "Pz Kpfw III, Ausf. E bis L", "runs": [{"text": "Pz Kpfw III, Ausf. E bis L", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para03", "text": {"de": {"plain": "Pz Bef Wg, Ausf. E bis L", "runs": [{"text": "Pz Bef Wg, Ausf. E bis L", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para04", "text": {"de": {"plain": "Gep Sfl, Ausf. A bis G für Stu Gesch 7,5 cm Kan.", "runs": [{"text": "Gep Sfl, Ausf. A bis G für Stu Gesch 7,5 cm Kan.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para05", "text": {"de": {"plain": "Nach Erscheinen der D 652/50 ist diese Vorschrift zu vernichten.", "runs": [{"text": "Nach Erscheinen der D 652/50 ist diese Vorschrift zu vernichten.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para06", "text": {"de": {"plain": "Für die Arbeiten am Laufwerk sind alle Einzelheiten festgelegt, die für eine fachgerechte Durchführung notwendig sind. Die Folge der Arbeitsgänge ist so gestaltet, daß bei ihrer sorgfältigen Beachtung eine möglichst einfache Durchführung der Instandsetzung und ein fehlerfreies Arbeiten des Laufwerkes nach der Instandsetzung gewährleistet ist. Sie wurde so eingehend mit Bildern versehen, daß jeder Soldat, auch wenn er nicht als Metallarbeiter ausgebildet ist, die erforderlichen Arbeiten ausführen kann.", "runs": [{"text": "Für die Arbeiten am Laufwerk sind alle Einzelheiten festgelegt, die für eine fachgerechte Durchführung notwendig sind. Die Folge der Arbeitsgänge ist so gestaltet, daß bei ihrer sorgfältigen Beachtung eine möglichst einfache Durchführung der Instandsetzung und ein fehlerfreies Arbeiten des Laufwerkes nach der Instandsetzung gewährleistet ist. Sie wurde so eingehend mit Bildern versehen, daß jeder Soldat, auch wenn er nicht als Metallarbeiter ausgebildet ist, die erforderlichen Arbeiten ausführen kann.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para07", "text": {"de": {"plain": "Verschiedene Arbeiten können durch Benutzung von Sonderwerkzeugen schneller und besser ausgeführt werden. Der größte Teil der in der Vorschrift angegebenen Sonderwerkzeuge ist im Sonderwerkzeugsatz für Pz Kpfw III vorhanden.", "runs": [{"text": "Verschiedene Arbeiten können durch Benutzung von Sonderwerkzeugen schneller und besser ausgeführt werden. Der größte Teil der in der Vorschrift angegebenen Sonderwerkzeuge ist im Sonderwerkzeugsatz für Pz Kpfw III vorhanden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para08", "text": {"de": {"plain": "Sind diese Sonderwerkzeuge nicht vorhanden, müssen diese Arbeiten mit normalen Werkzeugen ausgeführt werden. Auch für diese Art der Arbeitsausführung sind die einzelnen Arbeitsgänge angegeben. Bei der Verwendung normaler Werkzeuge muß mit besonderer Sorgfalt gearbeitet werden, damit die Teile nicht durch unsachgemäßes Arbeiten beschädigt werden.", "runs": [{"text": "Sind diese Sonderwerkzeuge nicht vorhanden, müssen diese Arbeiten mit normalen Werkzeugen ausgeführt werden. Auch für diese Art der Arbeitsausführung sind die einzelnen Arbeitsgänge angegeben. Bei der Verwendung normaler Werkzeuge muß mit besonderer Sorgfalt gearbeitet werden, damit die Teile nicht durch unsachgemäßes Arbeiten beschädigt werden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para09", "text": {"de": {"plain": "Da diese Sonderwerkzeuge nicht immer in hinreichender Zahl vorhanden sind und einige zusätzlich entwickelt wurden, sind im Anhang Zeichnungen beigefügt, nach denen die Einheiten die Sonderwerkzeuge selbst herstellen können.", "runs": [{"text": "Da diese Sonderwerkzeuge nicht immer in hinreichender Zahl vorhanden sind und einige zusätzlich entwickelt wurden, sind im Anhang Zeichnungen beigefügt, nach denen die Einheiten die Sonderwerkzeuge selbst herstellen können.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para10", "text": {"de": {"plain": "Für die Durchführung der angeführten Instandsetzungen sind Arbeitszeiten angegeben. Sie sind als Richtwerte für das Arbeiten von 2 Mann unter normalen Voraussetzungen zu werten.", "runs": [{"text": "Für die Durchführung der angeführten Instandsetzungen sind Arbeitszeiten angegeben. Sie sind als Richtwerte für das Arbeiten von 2 Mann unter normalen Voraussetzungen zu werten.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p003-para11", "text": {"de": {"plain": "Die Gewinde der Abzugvorrichtungen sind zu schmieren.", "runs": [{"text": "Die Gewinde der Abzugvorrichtungen sind zu schmieren.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+}

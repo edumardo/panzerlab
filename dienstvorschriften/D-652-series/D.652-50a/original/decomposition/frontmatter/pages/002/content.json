@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-002",
+  "document_id": "d652-50a",
+  "page": 2,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 2,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-001", "next": "d65250a-page-003"},
+  "paragraphs": [
+    {"id": "d65250a-p002-para01", "text": {"de": {"plain": "D 652/50a", "runs": [{"text": "D 652/50a", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p002-para02", "text": {"de": {"plain": "Panzerkampfwagen III Ausführung E bis L", "runs": [{"text": "Panzerkampfwagen III Ausführung E bis L", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p002-para03", "text": {"de": {"plain": "Panzerbefehlswagen Ausführung E bis L", "runs": [{"text": "Panzerbefehlswagen Ausführung E bis L", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p002-para04", "text": {"de": {"plain": "Gepanzerte Selbstfahrlafette Ausführung A bis G für Sturmgeschütz 7,5 cm Kanone", "runs": [{"text": "Gepanzerte Selbstfahrlafette Ausführung A bis G für Sturmgeschütz 7,5 cm Kanone", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p002-para05", "text": {"de": {"plain": "Vorläufige Instandsetzungsanleitung für das Laufwerk", "runs": [{"text": "Vorläufige Instandsetzungsanleitung für das Laufwerk", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p002-para06", "text": {"de": {"plain": "Vom 1. 3. 43", "runs": [{"text": "Vom 1. 3. 43", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+}

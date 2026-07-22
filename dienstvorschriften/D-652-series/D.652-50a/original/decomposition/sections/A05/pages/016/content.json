@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-016",
+  "document_id": "d652-50a",
+  "page": 16,
+  "section": "A05",
+  "type": "figures",
+  "titles": {"de": "5. Ausfluchten des Laufwerkes", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 9,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-015", "next": "d65250a-page-017"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-020", "number": 20, "status": "draft", "captions": {"de": {"plain": "Die Spurlehre Nr. III DB 130/1 zwischen die Zahnkränze des Triebrades setzen.", "runs": [{"text": "Die Spurlehre Nr. III DB 130/1 zwischen die Zahnkränze des Triebrades setzen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-021", "number": 21, "status": "draft", "captions": {"de": {"plain": "Die Spurlehre Nr. III DB 130/2 zwischen die Führungsringe des Leitrades setzen.", "runs": [{"text": "Die Spurlehre Nr. III DB 130/2 zwischen die Führungsringe des Leitrades setzen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}

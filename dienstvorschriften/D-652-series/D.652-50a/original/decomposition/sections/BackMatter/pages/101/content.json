@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-101",
+  "document_id": "d652-50a",
+  "page": 101,
+  "section": "BackMatter",
+  "type": "unclassified",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 52,
+    "side": "single",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-100", "next": null},
+  "paragraphs": [
+    {
+      "id": "d65250a-p101-para01",
+      "text": {
+        "de": {
+          "plain": "[Ink stamp, upper area of the rear cover, blackletter type; partly worn/faint] Pz.-Verf. u. Erf.-Abt. 300",
+          "runs": []
+        },
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-029",
+  "document_id": "d652-50a",
+  "page": 29,
+  "section": "A08",
+  "type": "text",
+  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 16,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-028", "next": "d65250a-page-030"},
+  "paragraphs": [
+    {"id": "d65250a-p029-para01", "text": {"de": {"plain": "Die Blechsicherungen an den Befestigungsschrauben des Gleitringes geradebiegen.", "runs": [{"text": "Die Blechsicherungen an den Befestigungsschrauben des Gleitringes geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p029-para02", "text": {"de": {"plain": "Beide Befestigungsschrauben des Gleitringes mit Schraubenschlüssel SW 14 herausschrauben.", "runs": [{"text": "Beide Befestigungsschrauben des Gleitringes mit Schraubenschlüssel SW 14 herausschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p029-para03", "text": {"de": {"plain": "Gleitring abziehen.", "runs": [{"text": "Gleitring abziehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-p029-para04", "text": {"de": {"plain": "Abstandbuchse entfernen.", "runs": [{"text": "Abstandbuchse entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-042", "number": 42, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+}
