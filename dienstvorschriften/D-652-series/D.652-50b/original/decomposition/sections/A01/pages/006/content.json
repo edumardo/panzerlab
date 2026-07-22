@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-006",
+  "document_id": "d652-50b",
+  "page": 6,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250b-page-005",
+    "next": "d65250b-page-007"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "pending"
+  }
+}

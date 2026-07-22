@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-112",
+  "document_id": "d652-50b",
+  "page": 112,
+  "section": "A22",
+  "type": "figures",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 58,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250b-page-111",
+    "next": null
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "pending"
+  }
+}
