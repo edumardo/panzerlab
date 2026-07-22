@@ -6,7 +6,7 @@
   "section": "A06",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,18 @@
     "previous": "d65250b-page-030",
     "next": "d65250b-page-032"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Stützbremstrommel mit den Lochschrauben verschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Stützbremse nach Einstellanweisung einstellen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-045", "number": 45, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 45", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-046", "number": 46, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 46", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

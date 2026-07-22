@@ -6,7 +6,7 @@
   "section": "A08",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,20 @@
     "previous": "d65250b-page-034",
     "next": "d65250b-page-036"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Mit Federzange oder spitzem Dorn die stärkere Feder in die obere und die schwächere Feder in die untere Bremsbacke einhängen, Bild 49.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Die seitlichen Haltefedern der Bremsbacken einsetzen, Bild 48.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Stützbremstrommel über die Bremsbacken schieben. Sicherungsring über die Zylinderstifte schieben und den Sicherungsring so weit herumdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen, Bild 30.", "en-GB": null, "es-ES": null},
+    {"id": "p5", "de": "Stützbremstrommel mit den Lochschrauben verschrauben, Bild 30.", "en-GB": null, "es-ES": null},
+    {"id": "p6", "de": "Lochschrauben und den Bundstopfen durch Draht sichern, Bild 46.", "en-GB": null, "es-ES": null},
+    {"id": "p7", "de": "Stützbremse nach Einstellanweisung einstellen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-053", "number": 53, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 53", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

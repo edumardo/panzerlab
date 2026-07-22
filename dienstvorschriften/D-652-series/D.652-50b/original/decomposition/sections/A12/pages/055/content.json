@@ -6,7 +6,7 @@
   "section": "A12",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-054",
     "next": "d65250b-page-056"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Die Vorrichtung abnehmen und mit Hammer und Holzklotz den oberen Rollenlagerring aufschlagen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Spannplatte und Sicherungsblech auf den Rollenlagerring legen und die Verschlußschraube mit 46-SW-Maulschlüssel einschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Verschlußschraube durch Umbiegen des Sicherungsbleches sichern.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-085", "number": 85, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 85", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-086", "number": 86, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 86", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

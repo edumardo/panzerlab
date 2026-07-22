@@ -6,7 +6,7 @@
   "section": "A21",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-097",
     "next": "d65250b-page-099"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit Seil und Hebevorrichtung die Bugpanzerdecke abheben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-155",
+      "number": 155,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 155",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-156",
+      "number": 156,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 156",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

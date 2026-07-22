@@ -6,7 +6,7 @@
   "section": "A16",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-074",
     "next": "d65250b-page-076"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-120",
+      "number": 120,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 120",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-121",
+      "number": 121,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 121",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

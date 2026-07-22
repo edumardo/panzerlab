@@ -6,7 +6,7 @@
   "section": "A05",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-022",
     "next": "d65250b-page-024"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Mit Zange den Sicherungsdraht aus den Befestigungsschrauben und aus dem Bundstopfen der Stützbremstrommel ziehen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Mit 17-SW-Ringschlüssel die entsicherten Befestigungsschrauben der Stützbremstrommel herausschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Den Sicherungsring bis zum runden Loch zurückdrehen.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Sicherungsring über Zylinderstifte abheben.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-030", "number": 30, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 30", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

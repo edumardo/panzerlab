@@ -6,7 +6,7 @@
   "section": "A09",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,34 @@
     "previous": "d65250b-page-038",
     "next": "d65250b-page-040"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Durch gleichmäßiges Abdrücken mit zwei Brechstangen das Seitenvorgelege von der Panzerwanne abdrücken.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-058",
+      "number": 58,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 58",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

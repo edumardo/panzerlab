@@ -6,7 +6,7 @@
   "section": "A18",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,68 @@
     "previous": "d65250b-page-083",
     "next": "d65250b-page-085"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Das Kupplungsgehäuse über die Kupplung schieben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-135",
+      "number": 135,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 135",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-136",
+      "number": 136,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 136",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

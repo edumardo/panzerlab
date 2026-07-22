@@ -113,7 +113,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -126,7 +126,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -139,7 +139,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -152,7 +152,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -165,7 +165,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -178,7 +178,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -191,7 +191,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -204,7 +204,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -217,7 +217,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -230,7 +230,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -243,7 +243,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -256,7 +256,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -269,7 +269,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -282,7 +282,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -295,7 +295,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -308,7 +308,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -321,7 +321,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -334,7 +334,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -347,7 +347,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -360,7 +360,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -373,7 +373,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -386,7 +386,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -399,7 +399,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -412,7 +412,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -425,7 +425,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -438,7 +438,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -451,7 +451,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -464,7 +464,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -477,7 +477,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -490,7 +490,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -503,7 +503,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -516,7 +516,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -529,7 +529,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -542,7 +542,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -555,7 +555,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -568,7 +568,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -581,7 +581,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -594,7 +594,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -607,7 +607,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -620,7 +620,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -633,7 +633,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -646,7 +646,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -659,7 +659,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -672,7 +672,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -685,7 +685,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -698,7 +698,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -711,7 +711,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -724,7 +724,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -737,7 +737,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -750,7 +750,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -763,7 +763,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -776,7 +776,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -789,7 +789,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -802,7 +802,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -815,7 +815,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -828,7 +828,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -841,7 +841,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -854,7 +854,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -867,7 +867,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -880,7 +880,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -893,7 +893,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -906,7 +906,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -919,7 +919,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -932,7 +932,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -945,7 +945,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -958,7 +958,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -971,7 +971,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -984,7 +984,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -997,7 +997,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1010,7 +1010,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1023,7 +1023,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1036,7 +1036,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1049,7 +1049,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1062,7 +1062,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1075,7 +1075,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1088,7 +1088,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1101,7 +1101,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1114,7 +1114,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1127,7 +1127,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1140,7 +1140,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1153,7 +1153,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1166,7 +1166,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1179,7 +1179,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1192,7 +1192,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1205,7 +1205,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1218,7 +1218,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1231,7 +1231,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1244,7 +1244,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1257,7 +1257,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1270,7 +1270,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1283,7 +1283,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1296,7 +1296,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1309,7 +1309,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1322,7 +1322,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1335,7 +1335,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1348,7 +1348,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1361,7 +1361,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1374,7 +1374,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1387,7 +1387,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1400,7 +1400,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1413,7 +1413,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1426,7 +1426,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1439,7 +1439,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1452,7 +1452,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1465,7 +1465,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1478,7 +1478,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1491,7 +1491,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1504,7 +1504,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1517,7 +1517,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1530,7 +1530,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1543,7 +1543,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []
@@ -1556,7 +1556,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
+      "transcription_status": "draft",
       "translation_en_status": "pending",
       "translation_es_status": "pending",
       "figures": []

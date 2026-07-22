@@ -6,7 +6,7 @@
   "section": "A13",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,58 @@
     "previous": "d65250b-page-058",
     "next": "d65250b-page-060"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.)",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Sicherungsbleche auf den Befestigungsbolzen legen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Die Muttern durch Umbiegen der Sicherungsbleche sichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-090",
+      "number": 90,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 90",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

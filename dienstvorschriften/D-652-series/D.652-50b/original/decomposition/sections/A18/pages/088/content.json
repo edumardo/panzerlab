@@ -6,7 +6,7 @@
   "section": "A18",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,53 @@
     "previous": "d65250b-page-087",
     "next": "d65250b-page-089"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Kugelgelenke des Vergasers und des Ölfiltergestänges eindrücken, Bild 91.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Das Kupplungsgestänge mit dem Ausrückhebel mit dem Splintbolzen verbinden, Bild 91.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Beachten: Das Kupplungsgestänge gleich so einstellen, daß der Kupplungsfußhebel 30 mm Totgang hat.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Den Reglerkasten an die Trennwand schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Mit den acht Schrauben die Gelenkwelle an die Kupplungswelle schrauben, Bild 91.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "Die Schrauben mit Splinten sichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p7",
+      "de": "Den Kupplungsvorbau und den Gelenkwellentunnel einbauen, Bild 90.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

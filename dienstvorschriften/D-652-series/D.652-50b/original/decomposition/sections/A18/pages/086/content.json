@@ -6,7 +6,7 @@
   "section": "A18",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,58 @@
     "previous": "d65250b-page-085",
     "next": "d65250b-page-087"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Kupplungswelle ganz in die Kupplung einschieben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit Verstellschlüssel die Kupplung leicht auslösen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Die Muttern durch Umbiegen der Blechsicherungen sichern.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-139",
+      "number": 139,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 139",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

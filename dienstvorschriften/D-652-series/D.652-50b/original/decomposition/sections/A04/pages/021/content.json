@@ -6,7 +6,7 @@
   "section": "A04",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,16 @@
     "previous": "d65250b-page-020",
     "next": "d65250b-page-022"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Haltefedern der Bremsbacken mit Zughaken einhängen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn eingehängt werden.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-027", "number": 27, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 27", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-028", "number": 28, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 28", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

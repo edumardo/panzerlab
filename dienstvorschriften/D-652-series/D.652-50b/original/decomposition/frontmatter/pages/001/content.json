@@ -20,10 +20,47 @@
     "previous": null,
     "next": "d65250b-page-002"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "D 652/50b",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Panzerkampfwagen III Ausführung H bis L",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Panzerbefehlswagen Ausführung H bis K",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Gepanzerte Selbstfahrlafette Ausführung A, B, D und E für Sturmgeschütz 7,5 cm Kanone",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "Vom 1. 2. 43",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

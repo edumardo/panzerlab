@@ -6,7 +6,7 @@
   "section": "A19",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,68 @@
     "previous": "d65250b-page-091",
     "next": "d65250b-page-093"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit 22-SW-Maulschlüssel die Anschlußschrauben der hydraulischen Rohrleitungen an dem linken Lenkstock abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-147",
+      "number": 147,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 147",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-148",
+      "number": 148,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 148",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

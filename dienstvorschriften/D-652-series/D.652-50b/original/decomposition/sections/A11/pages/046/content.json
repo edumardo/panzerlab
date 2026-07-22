@@ -6,7 +6,7 @@
   "section": "A11",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,56 @@
     "previous": "d65250b-page-045",
     "next": "d65250b-page-047"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-069",
+      "number": 69,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 69",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-070",
+      "number": 70,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 70",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A18",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-078",
     "next": "d65250b-page-080"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit den acht Innensechskantschrauben die Kupplungsplatte an das Schwungrad schrauben. Die Innensechskantschrauben durch Verbohren und Verstiften in den Sechskanten sichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-126",
+      "number": 126,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 126",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-127",
+      "number": 127,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 127",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

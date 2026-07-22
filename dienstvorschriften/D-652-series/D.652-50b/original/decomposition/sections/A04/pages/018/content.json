@@ -6,7 +6,7 @@
   "section": "A04",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-017",
     "next": "d65250b-page-019"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Ein Bremsbackenpaar durch die Klappe einführen. Erregerbacke mit 9 Bremsklötzen nach der Bugseite einsetzen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Die Gewindespindeln der Nachstellvorrichtung gleich weit einschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Die Bremsbacken mit der Nachstellvorrichtung durch Einführen eines Bolzens verbinden.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-022", "number": 22, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 22", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-023", "number": 23, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 23", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

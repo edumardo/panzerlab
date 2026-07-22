@@ -6,7 +6,7 @@
   "section": "A05",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,16 @@
     "previous": "d65250b-page-026",
     "next": "d65250b-page-028"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-037", "number": 37, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 37", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-038", "number": 38, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 38", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

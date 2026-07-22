@@ -6,7 +6,7 @@
   "section": "A09",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-037",
     "next": "d65250b-page-039"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "¹) Siehe im Anhang.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-056",
+      "number": 56,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 56",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-057",
+      "number": 57,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 57",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

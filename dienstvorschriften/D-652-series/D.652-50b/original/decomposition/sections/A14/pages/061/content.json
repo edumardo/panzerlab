@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "14. Ausbau der Hauptkupplung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,74 @@
     "previous": "d65250b-page-060",
     "next": "d65250b-page-062"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau ausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Splinte aus den Kronenmuttern ziehen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Vergasergestänge (2) aus den Kugelgelenken drücken.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-093",
+      "number": 93,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 93",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-094",
+      "number": 94,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 94",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

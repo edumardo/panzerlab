@@ -6,7 +6,7 @@
   "section": "A03",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,18 @@
     "previous": "d65250b-page-014",
     "next": "d65250b-page-016"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-016", "number": 16, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 16", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-017", "number": 17, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 17", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

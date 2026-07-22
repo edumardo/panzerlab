@@ -6,7 +6,7 @@
   "section": "A13",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,80 @@
     "previous": "d65250b-page-059",
     "next": "d65250b-page-061"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "¹) Siehe im Anhang.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-091",
+      "number": 91,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 91",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-092",
+      "number": 92,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 92",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

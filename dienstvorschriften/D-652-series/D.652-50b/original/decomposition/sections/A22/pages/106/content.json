@@ -6,7 +6,7 @@
   "section": "A22",
   "type": "figures",
   "titles": {
-    "de": null,
+    "de": "Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-105",
     "next": "d65250b-page-107"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Zeichnung 4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges. Maßstab 1:2.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

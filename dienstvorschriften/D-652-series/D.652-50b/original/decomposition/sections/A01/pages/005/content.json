@@ -6,7 +6,7 @@
   "section": "A01",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,58 @@
     "previous": "d65250b-page-004",
     "next": "d65250b-page-006"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Gleiskette vom Triebrad abnehmen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Splinte aus den Paßschrauben der Gelenkwelle ziehen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-001",
+      "number": 1,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 1",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

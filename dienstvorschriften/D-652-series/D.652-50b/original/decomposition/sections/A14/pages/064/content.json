@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,80 @@
     "previous": "d65250b-page-063",
     "next": "d65250b-page-065"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit Zange die Haltefedern so weit herausziehen, bis sich die Scheiben der Haltefedern seitlich entfernen lassen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Kupplungsdruckplatte abheben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Mit der Vorrichtung, Zeichnung 3 D 652/50 a, die Kupplungsdruckfeder entspannen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Sicherungsdraht aus den drei Befestigungsschrauben des Ausrücklagers ziehen und diese mit 14-SW-Maulschlüssel ausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Vorrichtung auseinanderschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "Beachten: Bei festsitzendem Ausrücklager dieses mit Hebel von den drei Zapfen der Schiebebolzen abdrücken.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-099",
+      "number": 99,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 99",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-100",
+      "number": 100,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 100",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

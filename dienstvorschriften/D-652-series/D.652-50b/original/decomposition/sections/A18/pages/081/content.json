@@ -6,7 +6,7 @@
   "section": "A18",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-080",
     "next": "d65250b-page-082"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Die Gleitflächen leicht einfetten.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-130",
+      "number": 130,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 130",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-131",
+      "number": 131,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 131",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

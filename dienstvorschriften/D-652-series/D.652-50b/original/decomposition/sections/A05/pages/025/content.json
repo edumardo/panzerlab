@@ -6,7 +6,7 @@
   "section": "A05",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,16 @@
     "previous": "d65250b-page-024",
     "next": "d65250b-page-026"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Mit Zange die Splinte aus den Bolzen der Bremsbackenhaltefedern ziehen und Federteller mit Feder ausbauen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Beide Zugfedern mit Federzange oder Schraubenzieher aushängen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-033", "number": 33, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 33", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-034", "number": 34, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 34", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

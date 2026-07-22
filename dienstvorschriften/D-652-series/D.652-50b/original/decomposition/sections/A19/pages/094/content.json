@@ -6,7 +6,7 @@
   "section": "A19",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,58 @@
     "previous": "d65250b-page-093",
     "next": "d65250b-page-095"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "In die Flansche für die Gelenkwellen zu beiden Seiten des Lenkgetriebes je eine Schraube stecken, Bild 152.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Durch die beiden vorderen Klappen je ein Drahtseil einführen und das Wechselgetriebe an den Schrauben aufhängen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Ein Drahtseil so um den Bund des Lüfters an der Hinterseite des Wechselgetriebes hängen, daß das Getriebe hinten etwas höher hängt.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Das Wechselgetriebe mit Hebevorrichtung möglichst weit in die Mitte des Kampfraumes heben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Die Drahtseile aus den Klappen herausführen und das Wechselgetriebe an den Drahtseilen unterhalb der Panzerplatte aufhängen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-151",
+      "number": 151,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 151",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

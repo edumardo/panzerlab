@@ -6,7 +6,7 @@
   "section": "A12",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,18 @@
     "previous": "d65250b-page-050",
     "next": "d65250b-page-052"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Die Ritzelwelle mit dem Rollenlager kann auch in das Gehäuse eingeschlagen werden.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Die Kappe über die Ritzelwelle führen und diese mit der dafür vorgesehenen Schraube an die Ritzelwelle festschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-078", "number": 78, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 78", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-079", "number": 79, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 79", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

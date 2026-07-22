@@ -6,7 +6,7 @@
   "section": "A11",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,74 @@
     "previous": "d65250b-page-046",
     "next": "d65250b-page-048"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Zugspindel (1) in die Ritzelwelle schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Zwischenring (3) unter den Bund der Mutter (2) legen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "¹) Siehe im Anhang.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-071",
+      "number": 71,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 71",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-072",
+      "number": 72,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 72",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

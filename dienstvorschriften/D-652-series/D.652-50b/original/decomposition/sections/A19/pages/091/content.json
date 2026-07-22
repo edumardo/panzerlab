@@ -6,7 +6,7 @@
   "section": "A19",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,68 @@
     "previous": "d65250b-page-090",
     "next": "d65250b-page-092"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "An der rechten und linken Getriebeseite die Gelenkwellenschutzbleche entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Die Gelenkwellen ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Mit 17-SW-Steckschlüssel an der vorderen rechten und linken Getriebeseite die Befestigungsschrauben der Getriebeaufhängung herausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Drahtsicherung herausziehen und mit 24-SW-Maulschlüssel die Schrauben der hydraulischen Rohrleitung abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-145",
+      "number": 145,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 145",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-146",
+      "number": 146,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 146",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

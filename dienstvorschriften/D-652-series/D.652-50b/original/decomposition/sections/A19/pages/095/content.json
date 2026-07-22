@@ -6,7 +6,7 @@
   "section": "A19",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,58 @@
     "previous": "d65250b-page-094",
     "next": "d65250b-page-096"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Das Getriebe ausheben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "¹) Siehe im Anhang.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-152",
+      "number": 152,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 152",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

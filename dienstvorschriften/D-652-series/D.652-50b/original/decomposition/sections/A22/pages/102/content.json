@@ -6,7 +6,7 @@
   "section": "A22",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "22. Verzeichnis der Zeichnungen",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,113 @@
     "previous": "d65250b-page-101",
     "next": "d65250b-page-103"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "2. Zughaken für Haltefeder zur Lenkbremse.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "3. Bügel zum Einhängen der kleinen Federn, Stützbremse.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "6. Aus- und Einbauvorrichtung für Getriebeblock.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p7",
+      "de": "7. Aus- und Einbauvorrichtung für Getriebeblock.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p8",
+      "de": "8. Federzange.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p9",
+      "de": "9. Federzange für Federn an Lenkbremsbacken.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p10",
+      "de": "10. Federzange für Federn an Lenkbremsbacken.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p11",
+      "de": "Berlin, den 1. 2. 43.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p12",
+      "de": "Oberkommando des Heeres",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p13",
+      "de": "Heereswaffenamt",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p14",
+      "de": "Amtsgruppe für Entwicklung und Prüfung",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p15",
+      "de": "Koch",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p16",
+      "de": "S",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p17",
+      "de": "C/1550",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

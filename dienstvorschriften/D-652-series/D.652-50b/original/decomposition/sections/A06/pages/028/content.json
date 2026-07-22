@@ -6,7 +6,7 @@
   "section": "A06",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-027",
     "next": "d65250b-page-029"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-039", "number": 39, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 39", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-040", "number": 40, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 40", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

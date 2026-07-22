@@ -6,7 +6,7 @@
   "section": "A18",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,56 @@
     "previous": "d65250b-page-081",
     "next": "d65250b-page-083"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Kupplungsdeckel mit Kupplungsdruckplatte an den Kupplungsring halten und diese mit zwei gegenüberliegenden Schrauben so einschrauben, daß sich die Kupplungstreibscheiben mit Hilfe der Kupplungswelle drehen lassen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Die Kupplungswelle mit den Kupplungstreibscheiben so weit herumdrehen, bis die Nuten der drei Kupplungstreibscheiben übereinanderstehen und sich die Kupplungswelle ganz einführen läßt.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-132",
+      "number": 132,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 132",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-133",
+      "number": 133,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 133",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A21",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-099",
     "next": "d65250b-page-101"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Bolzen durch leichten Hammerschlag ausschlagen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-159",
+      "number": 159,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 159",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-160",
+      "number": 160,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 160",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A04",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,16 @@
     "previous": "d65250b-page-019",
     "next": "d65250b-page-021"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Die stärkere Feder zur Kampfraumseite und die schwächere Feder zur Bugseite in die Bremsbacken mit Federzange einhängen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Ist keine Federzange vorhanden, können die unteren Federn mit Drahtzug und Kettenbolzen eingehängt werden.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-025", "number": 25, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 25", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-026", "number": 26, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 26", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

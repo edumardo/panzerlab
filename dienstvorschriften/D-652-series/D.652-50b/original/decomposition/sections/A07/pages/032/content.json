@@ -6,7 +6,7 @@
   "section": "A07",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "7. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-031",
     "next": "d65250b-page-033"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Sicherungsdraht, Schrauben und den Sicherungsring aus der Stützbremstrommel entfernen, Bild 30.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Lenkhebel anziehen und die Stützbremstrommel mit zwei Schrauben abdrücken.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Die seitlichen Haltefedern der Stützbremsbacken abnehmen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-047", "number": 47, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 47", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-048", "number": 48, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 48", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A02",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,64 @@
     "previous": "d65250b-page-009",
     "next": "d65250b-page-011"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-009",
+      "number": 9,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 9",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

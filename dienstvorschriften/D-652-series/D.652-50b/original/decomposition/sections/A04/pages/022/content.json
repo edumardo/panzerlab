@@ -6,7 +6,7 @@
   "section": "A04",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,18 @@
     "previous": "d65250b-page-021",
     "next": "d65250b-page-023"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Bremstrommel aufsetzen und die beiden Paßstifte bis zur Nute der Sicherungsbleche einführen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Die Bremstrommel mit 22-SW-Ringschlüssel mit der Nabe verschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Die Schrauben durch Umbiegen der Blechsicherungen sichern.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Die Lenkbremse nach Einstellanweisung einstellen.", "en-GB": null, "es-ES": null},
+    {"id": "p5", "de": "Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-029", "number": 29, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 29", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A16",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "16. Auswechseln des Ausrücklagers der Hauptkupplung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,56 @@
     "previous": "d65250b-page-069",
     "next": "d65250b-page-071"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-110",
+      "number": 110,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 110",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-111",
+      "number": 111,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 111",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

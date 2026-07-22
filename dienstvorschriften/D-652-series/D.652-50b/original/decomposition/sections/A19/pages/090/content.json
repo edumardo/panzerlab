@@ -6,7 +6,7 @@
   "section": "A19",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-089",
     "next": "d65250b-page-091"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit 17-SW-Maulschlüssel die drei Schrauben aus dem Lüftergehäuse schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Vergasergestänge aus den Kugelgelenken drücken und das Lüftergehäuse abheben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Gelenkwelle mit Lüfter aus dem Getriebe ziehen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-143",
+      "number": 143,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 143",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-144",
+      "number": 144,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 144",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

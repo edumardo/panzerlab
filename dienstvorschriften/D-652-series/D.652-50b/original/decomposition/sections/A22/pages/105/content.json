@@ -6,7 +6,7 @@
   "section": "A22",
   "type": "figures",
   "titles": {
-    "de": null,
+    "de": "Bügel zum Einhängen der kleinen Federn, Stützbremse",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-104",
     "next": "d65250b-page-106"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Zeichnung 3. Bügel zum Einhängen der kleinen Federn, Stützbremse. Maßstab 1:1.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

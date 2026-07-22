@@ -6,7 +6,7 @@
   "section": "A03",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-012",
     "next": "d65250b-page-014"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Die Befestigungsschrauben der Bremstrommel entsichern.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-012", "number": 12, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 12", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-013", "number": 13, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 13", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

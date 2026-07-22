@@ -6,7 +6,7 @@
   "section": "FrontMatter",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Vorbemerkungen",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,41 @@
     "previous": "d65250b-page-003",
     "next": "d65250b-page-005"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Diese vorläufige Anweisung dient als Hilfsmittel beim Beheben von Schäden am Triebwerk des",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Pz Kpfw III, Ausf. H bis L\nPz Bef Wg, Ausf. H bis K\nGp Sfl, Ausf. A, B, D und E\nfür St Gesch 7,5 cm Kanone.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Nach Erscheinen der D 652/50 ist diese Vorschrift zu vernichten.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Für die Arbeiten am Triebwerk sind alle Einzelheiten festgelegt, die für eine fachgerechte Durchführung notwendig sind. Die Folge der Arbeitsgänge ist so gestaltet, daß bei ihrer sorgfältigen Beachtung eine möglichst einfache Durchführung der Instandsetzung und ein fehlerfreies Arbeiten des Triebwerks nach der Instandsetzung gewährleistet ist. Sie wurde so eingehend mit Bildern versehen, daß jeder Soldat, auch wenn er nicht als Metallarbeiter ausgebildet ist, die erforderlichen Arbeiten ausführen kann.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Verschiedene Arbeiten können durch Benutzung von Sonderwerkzeugen schneller und besser ausgeführt werden. Der größte Teil der in der Vorschrift angegebenen Sonderwerkzeuge ist im Sonderwerkzeugsatz für Pz Kpfw III vorhanden. Sind diese Sonderwerkzeuge nicht vorhanden, müssen diese Arbeiten mit normalen Werkzeugen ausgeführt werden. Auch für diese Art der Arbeitsausführung sind die einzelnen Arbeitsgänge angegeben. Bei der Verwendung normaler Werkzeuge muß mit besonderer Sorgfalt gearbeitet werden, damit die Teile nicht durch unsachgemäßes Arbeiten beschädigt werden. Da Sonderwerkzeuge nicht immer in hinreichender Zahl vorhanden sind und einige zusätzlich entwickelt wurden, sind im Anhang Zeichnungen beigefügt, nach denen die Einheiten diese Sonderwerkzeuge selbst herstellen können.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

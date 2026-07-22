@@ -6,7 +6,7 @@
   "section": "A06",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,18 @@
     "previous": "d65250b-page-029",
     "next": "d65250b-page-031"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Feder mit 2 Federtellern in die Vorrichtungsgabel stecken (Zeichnung 3)¹).", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Beachten: Beim Einsetzen müssen die Schlitze der Federteller übereinanderstehen.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Stift von hinten durch den Lagerdeckel und Bremsbacke stecken. Gespannte Feder auf den Stift schieben und Splint einführen. Splint aufbiegen. Wenn keine Vorrichtungsgabel vorhanden ist, lassen sich die Federn auch von Hand einsetzen.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-043", "number": 43, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 43", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-044", "number": 44, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 44", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

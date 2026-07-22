@@ -6,7 +6,7 @@
   "section": "A12",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,18 @@
     "previous": "d65250b-page-051",
     "next": "d65250b-page-053"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Abstandsring auf das obere Rollenlager legen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Lochschrauben durch Draht sichern.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-080", "number": 80, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 80", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-081", "number": 81, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 81", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

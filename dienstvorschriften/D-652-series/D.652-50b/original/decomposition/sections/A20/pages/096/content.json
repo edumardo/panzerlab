@@ -6,7 +6,7 @@
   "section": "A20",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "20. Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,83 @@
     "previous": "d65250b-page-095",
     "next": "d65250b-page-097"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit Drahtseil oder Vorrichtung, Bild 151 und 152, das Getriebe in die vordere Getriebeaufhängung innerhalb der Panzerwanne heben, Bild 145.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Beachten: Die Abdichtungen der Lüfterrohrleitungen an der unteren hinteren Getriebeseite.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Das Getriebe an der hinteren und vorderen Getriebeaufhängung festschrauben, Bild 145 und 149.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Den Lenkstock mit den Rohrleitungen einbauen, Bild 146 bis 148.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Bei der mechanischen Lenkbetätigung die Gestänge zur Stützbremse einbauen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "Die Nutwelle der Gelenkwelle mit dem Lüfter in das Getriebe schieben, Bild 144.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p7",
+      "de": "Das Lüftergehäuse mit den eingedrückten Vergasergestängen über die Gelenkwelle an das Getriebe heranführen und dieses mit den drei Schrauben, Bild 143, festschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p8",
+      "de": "Das Vergasergestänge seitlich an dem Lüftergehäuse eindrücken, Bild 143.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p9",
+      "de": "Die seitlichen Gelenkwellen einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 und 10.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p10",
+      "de": "Die Gelenkwelle an die Kupplungswelle schrauben, Bild 142.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p11",
+      "de": "Den Gelenkwellentunnel und den Kupplungsvorbau einbauen, Bild 141.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p12",
+      "de": "Die hydraulische Anlage entlüften.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

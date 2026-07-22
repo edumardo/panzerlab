@@ -6,7 +6,7 @@
   "section": "A01",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-005",
     "next": "d65250b-page-007"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-002",
+      "number": 2,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 2",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-003",
+      "number": 3,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 3",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

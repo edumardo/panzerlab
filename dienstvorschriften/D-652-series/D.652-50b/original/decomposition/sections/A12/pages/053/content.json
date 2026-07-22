@@ -6,7 +6,7 @@
   "section": "A12",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,16 @@
     "previous": "d65250b-page-052",
     "next": "d65250b-page-054"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Stirnrad mit Hilfe der beiden Stehbolzen DB 92/1 in das Gehäuse des Seitenvorgeleges legen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-082", "number": 82, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 82", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

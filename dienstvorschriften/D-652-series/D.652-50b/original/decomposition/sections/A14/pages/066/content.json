@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-065",
     "next": "d65250b-page-067"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-103",
+      "number": 103,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 103",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-104",
+      "number": 104,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 104",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

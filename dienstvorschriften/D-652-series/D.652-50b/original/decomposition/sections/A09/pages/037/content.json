@@ -6,7 +6,7 @@
   "section": "A09",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,64 @@
     "previous": "d65250b-page-036",
     "next": "d65250b-page-038"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Das Seitenvorgelege mit Holz unterbauen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Das Seitenvorgelege mit Drahtseil am Kran aufhängen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Beachten: Die auf der Abbildung bezeichneten 3 Muttern nicht entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-055",
+      "number": 55,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 55",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

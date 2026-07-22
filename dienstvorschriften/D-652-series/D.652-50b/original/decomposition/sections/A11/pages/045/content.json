@@ -6,7 +6,7 @@
   "section": "A11",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,56 @@
     "previous": "d65250b-page-044",
     "next": "d65250b-page-046"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit 30-SW-Maulschlüssel die beiden Stehbolzen DB 92/1 auf die Gewinde des Stirnrades aufschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Die Spindel DB 92/6 mit der aufgeschraubten Mutter DB 92/4 in das Gewinde der Triebradwelle einschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-067",
+      "number": 67,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 67",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-068",
+      "number": 68,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 68",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

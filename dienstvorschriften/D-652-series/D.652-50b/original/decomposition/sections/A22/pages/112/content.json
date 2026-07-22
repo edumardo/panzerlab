@@ -6,7 +6,7 @@
   "section": "A22",
   "type": "figures",
   "titles": {
-    "de": null,
+    "de": "Federzange für Federn an Lenkbremsbacken",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-111",
     "next": null
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Zeichnung 10. Federzange für Federn an Lenkbremsbacken. Maßstab 1:1.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

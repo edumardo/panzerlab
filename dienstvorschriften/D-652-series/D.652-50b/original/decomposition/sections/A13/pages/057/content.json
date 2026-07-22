@@ -6,7 +6,7 @@
   "section": "A13",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,58 @@
     "previous": "d65250b-page-056",
     "next": "d65250b-page-058"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Seitenvorgelege ohne Triebrad mit Seil an Hebevorrichtung hängen, Bild 55.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Seitenvorgelege an die Panzerwanne heranführen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Beim Einbauen des Seitenvorgeleges ohne Hebevorrichtung Triebrad anbauen, Einbau des Triebrades D 652/50 a Seite 80.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Seitenvorgelege auf den Holzunterbau heben, Bild 59.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-088",
+      "number": 88,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 88",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

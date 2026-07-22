@@ -6,7 +6,7 @@
   "section": "A16",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,50 @@
     "previous": "d65250b-page-072",
     "next": "d65250b-page-074"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Drucksteg (2) mit Zugschraube (3) der Rollenlagerausziehvorrichtung, D 652/50 a, Zeichnung 3, von hinten in den Kupplungsdeckel einführen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-116",
+      "number": 116,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 116",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-117",
+      "number": 117,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 117",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

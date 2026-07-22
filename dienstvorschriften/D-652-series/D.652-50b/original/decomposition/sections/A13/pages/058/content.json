@@ -6,7 +6,7 @@
   "section": "A13",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,46 @@
     "previous": "d65250b-page-057",
     "next": "d65250b-page-059"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Einen Gummi-Dichtring (1), auf die Abstandsbuchse (2) und einen weiteren Gummi-Dichtring (3) auf die Nabe der Ritzelwelle schieben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Das Seitenvorgelege mit Brechstange aufrichten und die Ritzelwelle auf gleiche Höhe mit der Bremstrommelwelle heben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Die Bremstrommel so weit herumdrehen, bis die Nuten der Ritzel- und Bremstrommelwelle ineinander passen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-089",
+      "number": 89,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 89",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

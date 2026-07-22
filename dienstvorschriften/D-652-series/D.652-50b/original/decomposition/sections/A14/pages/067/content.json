@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,56 @@
     "previous": "d65250b-page-066",
     "next": "d65250b-page-068"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die 2 Kupplungstreibscheiben und 3 Kupplungsscheiben aus Kupplungszwischenring herausnehmen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Den Abstandsring vor dem hinteren Kugellager ausziehen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-105",
+      "number": 105,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 105",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-106",
+      "number": 106,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 106",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

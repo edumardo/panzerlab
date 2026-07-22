@@ -6,7 +6,7 @@
   "section": "A09",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,52 @@
     "previous": "d65250b-page-035",
     "next": "d65250b-page-037"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die Gleiskette am Triebrad abnehmen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Kettenabdeckung über dem Triebrad abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Triebrad ausbauen, Ausbau des Triebrades D 652/50 a, Seite 77 bis 81.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Ölablaßschrauben mit 28-SW-Maulschlüssel ausschrauben und Öl ablassen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-054",
+      "number": 54,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 54",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

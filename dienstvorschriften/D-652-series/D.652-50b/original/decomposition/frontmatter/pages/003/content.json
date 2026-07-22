@@ -6,7 +6,7 @@
   "section": "FrontMatter",
   "type": "index",
   "titles": {
-    "de": null,
+    "de": "Inhalt",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,155 @@
     "previous": "d65250b-page-002",
     "next": "d65250b-page-004"
   },
-  "paragraphs": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Vorbemerkungen 4",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 5–9",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 10–11",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse 12–17",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse 18–22",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 23–27",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p7",
+      "de": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 28–31",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p8",
+      "de": "7. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 32–33",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p9",
+      "de": "8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 34–35",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p10",
+      "de": "9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung 36–39",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p11",
+      "de": "10. Ausbau des Seitenvorgeleges ohne Hebevorrichtung 40–41",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p12",
+      "de": "11. Zerlegen des Seitenvorgeleges 42–48",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p13",
+      "de": "12. Zusammenbau des Seitenvorgeleges 49–56",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p14",
+      "de": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung 57–60",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p15",
+      "de": "14. Ausbau der Hauptkupplung 61–68",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p16",
+      "de": "15. Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes 69",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p17",
+      "de": "16. Auswechseln des Ausrücklagers der Hauptkupplung 70–75",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p18",
+      "de": "17. Auswechseln der Kupplungsbeläge 76–77",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p19",
+      "de": "18. Zusammenbau der Hauptkupplung 78–88",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p20",
+      "de": "19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 89–95",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p21",
+      "de": "20. Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 96",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p22",
+      "de": "21. Ausbau des Geschützes der gp Sfl 97–101",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p23",
+      "de": "22. Verzeichnis der Zeichnungen 102",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p24",
+      "de": "Zeichnungen 103–112",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
   "figures": [],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-064",
     "next": "d65250b-page-066"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Auszuwechselnde Ausrückhebel mit Ausrückbolzen aus dem Kupplungsdeckel ziehen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-101",
+      "number": 101,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 101",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-102",
+      "number": 102,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 102",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

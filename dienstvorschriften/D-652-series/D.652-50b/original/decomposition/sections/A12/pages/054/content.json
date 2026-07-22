@@ -6,7 +6,7 @@
   "section": "A12",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-053",
     "next": "d65250b-page-055"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Zugspindel DB 92/6 in das Gewinde der Triebradwelle einschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-083", "number": 83, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 83", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-084", "number": 84, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 84", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

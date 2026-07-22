@@ -6,7 +6,7 @@
   "section": "A03",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,16 @@
     "previous": "d65250b-page-015",
     "next": "d65250b-page-017"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-018", "number": 18, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 18", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-019", "number": 19, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 19", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A03",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,17 @@
     "previous": "d65250b-page-013",
     "next": "d65250b-page-015"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-014", "number": 14, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 14", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-015", "number": 15, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 15", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

@@ -6,7 +6,7 @@
   "section": "A19",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-092",
     "next": "d65250b-page-094"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Splinte herausziehen und mit zwei 17-SW-Maulschlüsseln die beiden hinteren Getriebebefestigungsschrauben abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Schaltbrett vorne auf den Panzer legen.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-149",
+      "number": 149,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 149",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-150",
+      "number": 150,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 150",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

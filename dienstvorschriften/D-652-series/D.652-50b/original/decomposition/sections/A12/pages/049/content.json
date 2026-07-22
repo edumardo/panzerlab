@@ -6,7 +6,7 @@
   "section": "A12",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "12. Zusammenbau des Seitenvorgeleges",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,21 @@
     "previous": "d65250b-page-048",
     "next": "d65250b-page-050"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {"id": "p1", "de": "Kappe (4) über die Ritzelwelle führen.", "en-GB": null, "es-ES": null},
+    {"id": "p2", "de": "Die Mutter (2) auf die Spindel (1) schrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p3", "de": "Zwischenring (3) auf den Bund der Mutter legen.", "en-GB": null, "es-ES": null},
+    {"id": "p4", "de": "Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).", "en-GB": null, "es-ES": null},
+    {"id": "p5", "de": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen.", "en-GB": null, "es-ES": null},
+    {"id": "p6", "de": "Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.", "en-GB": null, "es-ES": null},
+    {"id": "p7", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null}
+  ],
+  "figures": [
+    {"id": "fig-074", "number": 74, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 74", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-075", "number": 75, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 75", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

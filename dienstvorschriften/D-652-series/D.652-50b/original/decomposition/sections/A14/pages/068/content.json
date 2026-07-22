@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,68 @@
     "previous": "d65250b-page-067",
     "next": "d65250b-page-069"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Den Kupplungszwischenring abheben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-107",
+      "number": 107,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 107",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-108",
+      "number": 108,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 108",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

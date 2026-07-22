@@ -6,7 +6,7 @@
   "section": "A10",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "10. Ausbau des Seitenvorgeleges ohne Hebevorrichtung",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,64 @@
     "previous": "d65250b-page-039",
     "next": "d65250b-page-041"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Das Triebrad mit Holz unterbauen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen, Bild 55.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p5",
+      "de": "Beachten: Die auf Bild 55 bezeichneten drei Muttern nicht entfernen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p6",
+      "de": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-059",
+      "number": 59,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 59",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

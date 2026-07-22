@@ -6,7 +6,7 @@
   "section": "A01",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,68 @@
     "previous": "d65250b-page-006",
     "next": "d65250b-page-008"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Paßschraube durch Hammerschlag auf Kronenmutter lösen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-004",
+      "number": 4,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 4",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-005",
+      "number": 5,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 5",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

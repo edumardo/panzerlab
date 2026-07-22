@@ -6,7 +6,7 @@
   "section": "A17",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 17. Auswechseln der Kupplungsbeläge.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,52 @@
     "previous": "d65250b-page-076",
     "next": "d65250b-page-078"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Einen Dorn in Stärke der Nietköpfe in den Schraubstock spannen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Zu beiden Seiten der Kupplungsscheibe einen neuen Kupplungsbelag mit den Versenkseiten nach außen legen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Von unten durch den Belag der Kupplungsscheibe und den oberen Belag eine Niete einführen.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p4",
+      "de": "Den unteren Nietkopf auf den Dorn im Schraubstock aufliegen lassen und diesen mit Hammer und Dorn vernieten.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-124",
+      "number": 124,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 124",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

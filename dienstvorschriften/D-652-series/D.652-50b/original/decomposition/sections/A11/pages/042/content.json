@@ -6,7 +6,7 @@
   "section": "A11",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "11. Zerlegen des Seitenvorgeleges",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-041",
     "next": "d65250b-page-043"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-061",
+      "number": 61,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 61",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-062",
+      "number": 62,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 62",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"

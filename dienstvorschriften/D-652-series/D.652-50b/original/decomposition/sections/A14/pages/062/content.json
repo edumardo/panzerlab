@@ -6,7 +6,7 @@
   "section": "A14",
   "type": "text",
   "titles": {
-    "de": null,
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
     "en-GB": null,
     "es-ES": null
   },
@@ -20,10 +20,62 @@
     "previous": "d65250b-page-061",
     "next": "d65250b-page-063"
   },
-  "paragraphs": [],
-  "figures": [],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "de": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p2",
+      "de": "Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
+      "en-GB": null,
+      "es-ES": null
+    },
+    {
+      "id": "p3",
+      "de": "Kupplungswelle mit Lagerflansch aus der Kupplung ziehen und das Kupplungsgehäuse ausheben.",
+      "en-GB": null,
+      "es-ES": null
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-095",
+      "number": 95,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 95",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-096",
+      "number": 96,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 96",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
   "status": {
-    "transcription": "pending",
+    "transcription": "draft",
     "en-GB": "pending",
     "es-ES": "pending",
     "figures": "pending"
