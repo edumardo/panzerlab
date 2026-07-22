@@ -1,0 +1,21 @@
+{
+  "id": "A21",
+  "pages": [
+    97,
+    98,
+    99,
+    100,
+    101
+  ],
+  "titles": {
+    "de": "Ausbau des Geschützes der gp Sfl",
+    "en": "Removing the gun of the armoured self-propelled carriage",
+    "es": "Desmontaje del cañón de la lafeta autopropulsada blindada"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

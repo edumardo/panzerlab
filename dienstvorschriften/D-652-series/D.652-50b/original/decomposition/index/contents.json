@@ -1,4 +1,257 @@
 {
   "schema_version": 1,
-  "groups": []
+  "groups": [
+    {
+      "id": "A",
+      "titles": {
+        "de": "Instandsetzung des Triebwerks",
+        "en-GB": "Power train repair",
+        "es-ES": "Reparación del tren de potencia"
+      },
+      "sections": [
+        {
+          "id": "A01",
+          "number": 1,
+          "page": 5,
+          "titles": {
+            "de": "Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
+            "en-GB": "Removing the cardan shaft between the steering gear and the steering brake",
+            "es-ES": "Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
+          },
+          "manifest": "../sections/A01/manifest.json"
+        },
+        {
+          "id": "A02",
+          "number": 2,
+          "page": 10,
+          "titles": {
+            "de": "Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
+            "en-GB": "Installing the cardan shaft between the steering gear and the steering brake",
+            "es-ES": "Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
+          },
+          "manifest": "../sections/A02/manifest.json"
+        },
+        {
+          "id": "A03",
+          "number": 3,
+          "page": 12,
+          "titles": {
+            "de": "Ausbau der Bremstrommel und Bremsbacken der Lenkbremse",
+            "en-GB": "Removing the brake drum and brake shoes of the steering brake",
+            "es-ES": "Desmontaje del tambor de freno y las zapatas de freno del freno de dirección"
+          },
+          "manifest": "../sections/A03/manifest.json"
+        },
+        {
+          "id": "A04",
+          "number": 4,
+          "page": 18,
+          "titles": {
+            "de": "Einbau der Bremstrommel und Bremsbacken der Lenkbremse",
+            "en-GB": "Installing the brake drum and brake shoes of the steering brake",
+            "es-ES": "Montaje del tambor de freno y las zapatas de freno del freno de dirección"
+          },
+          "manifest": "../sections/A04/manifest.json"
+        },
+        {
+          "id": "A05",
+          "number": 5,
+          "page": 23,
+          "titles": {
+            "de": "Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
+            "en-GB": "Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation",
+            "es-ES": "Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico"
+          },
+          "manifest": "../sections/A05/manifest.json"
+        },
+        {
+          "id": "A06",
+          "number": 6,
+          "page": 28,
+          "titles": {
+            "de": "Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
+            "en-GB": "Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation",
+            "es-ES": "Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico"
+          },
+          "manifest": "../sections/A06/manifest.json"
+        },
+        {
+          "id": "A07",
+          "number": 7,
+          "page": 32,
+          "titles": {
+            "de": "Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung",
+            "en-GB": "Removing the brake drum and brake shoes of the support brake with mechanical steering actuation",
+            "es-ES": "Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico"
+          },
+          "manifest": "../sections/A07/manifest.json"
+        },
+        {
+          "id": "A08",
+          "number": 8,
+          "page": 34,
+          "titles": {
+            "de": "Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung",
+            "en-GB": "Installing the brake drum and brake shoes of the support brake with mechanical steering actuation",
+            "es-ES": "Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico"
+          },
+          "manifest": "../sections/A08/manifest.json"
+        },
+        {
+          "id": "A09",
+          "number": 9,
+          "page": 36,
+          "titles": {
+            "de": "Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung",
+            "en-GB": "Removing a final drive unit using a lifting device",
+            "es-ES": "Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador"
+          },
+          "manifest": "../sections/A09/manifest.json"
+        },
+        {
+          "id": "A10",
+          "number": 10,
+          "page": 40,
+          "titles": {
+            "de": "Ausbau des Seitenvorgeleges ohne Hebevorrichtung",
+            "en-GB": "Removing the final drive unit without a lifting device",
+            "es-ES": "Desmontaje del engranaje lateral final sin dispositivo elevador"
+          },
+          "manifest": "../sections/A10/manifest.json"
+        },
+        {
+          "id": "A11",
+          "number": 11,
+          "page": 42,
+          "titles": {
+            "de": "Zerlegen des Seitenvorgeleges",
+            "en-GB": "Disassembling the final drive unit",
+            "es-ES": "Despiece del engranaje lateral final"
+          },
+          "manifest": "../sections/A11/manifest.json"
+        },
+        {
+          "id": "A12",
+          "number": 12,
+          "page": 49,
+          "titles": {
+            "de": "Zusammenbau des Seitenvorgeleges",
+            "en-GB": "Reassembling the final drive unit",
+            "es-ES": "Montaje del engranaje lateral final"
+          },
+          "manifest": "../sections/A12/manifest.json"
+        },
+        {
+          "id": "A13",
+          "number": 13,
+          "page": 57,
+          "titles": {
+            "de": "Einbau des Seitenvorgeleges mit Hebevorrichtung",
+            "en-GB": "Installing the final drive unit with a lifting device",
+            "es-ES": "Montaje del engranaje lateral final con dispositivo elevador"
+          },
+          "manifest": "../sections/A13/manifest.json"
+        },
+        {
+          "id": "A14",
+          "number": 14,
+          "page": 61,
+          "titles": {
+            "de": "Ausbau der Hauptkupplung",
+            "en-GB": "Removing the main clutch",
+            "es-ES": "Desmontaje del embrague principal"
+          },
+          "manifest": "../sections/A14/manifest.json"
+        },
+        {
+          "id": "A15",
+          "number": 15,
+          "page": 69,
+          "titles": {
+            "de": "Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes",
+            "en-GB": "Replacing the clutch plate and the starter ring gear",
+            "es-ES": "Sustitución del disco de embrague y de la corona dentada de arranque"
+          },
+          "manifest": "../sections/A15/manifest.json"
+        },
+        {
+          "id": "A16",
+          "number": 16,
+          "page": 70,
+          "titles": {
+            "de": "Auswechseln des Ausrücklagers der Hauptkupplung",
+            "en-GB": "Replacing the release bearing of the main clutch",
+            "es-ES": "Sustitución del rodamiento de desembrague del embrague principal"
+          },
+          "manifest": "../sections/A16/manifest.json"
+        },
+        {
+          "id": "A17",
+          "number": 17,
+          "page": 76,
+          "titles": {
+            "de": "Auswechseln der Kupplungsbeläge",
+            "en-GB": "Replacing the clutch linings",
+            "es-ES": "Sustitución de los forros de embrague"
+          },
+          "manifest": "../sections/A17/manifest.json"
+        },
+        {
+          "id": "A18",
+          "number": 18,
+          "page": 78,
+          "titles": {
+            "de": "Zusammenbau der Hauptkupplung",
+            "en-GB": "Reassembling the main clutch",
+            "es-ES": "Montaje del embrague principal"
+          },
+          "manifest": "../sections/A18/manifest.json"
+        },
+        {
+          "id": "A19",
+          "number": 19,
+          "page": 89,
+          "titles": {
+            "de": "Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe",
+            "en-GB": "Removing the cardan shaft and the gearbox with the steering gear",
+            "es-ES": "Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección"
+          },
+          "manifest": "../sections/A19/manifest.json"
+        },
+        {
+          "id": "A20",
+          "number": 20,
+          "page": 96,
+          "titles": {
+            "de": "Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe",
+            "en-GB": "Installing the cardan shaft and the gearbox with the steering gear",
+            "es-ES": "Montaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección"
+          },
+          "manifest": "../sections/A20/manifest.json"
+        },
+        {
+          "id": "A21",
+          "number": 21,
+          "page": 97,
+          "titles": {
+            "de": "Ausbau des Geschützes der gp Sfl",
+            "en-GB": "Removing the gun of the armoured self-propelled carriage",
+            "es-ES": "Desmontaje del cañón de la lafeta autopropulsada blindada"
+          },
+          "manifest": "../sections/A21/manifest.json"
+        },
+        {
+          "id": "A22",
+          "number": 22,
+          "page": 102,
+          "titles": {
+            "de": "Verzeichnis der Zeichnungen",
+            "en-GB": "List of drawings",
+            "es-ES": "Índice de planos"
+          },
+          "manifest": "../sections/A22/manifest.json"
+        }
+      ]
+    }
+  ]
 }

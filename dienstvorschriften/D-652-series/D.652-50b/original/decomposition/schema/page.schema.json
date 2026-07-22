@@ -4,18 +4,16 @@
   "type": "object",
   "required": ["page", "section", "pdf_spread", "side", "source_scan", "content", "source_scan_status", "transcription_status", "translation_en_status", "translation_es_status", "figures"],
   "properties": {
-    "page": {
-      "type": "integer",
-      "minimum": 1,
-      "maximum": 200,
-      "description": "Provisional upper bound; tighten to the true printed-page count once the pagination inventory is complete (source PDF has 59 spreads)."
-    },
+    "page": {"type": "integer", "minimum": 1, "maximum": 112},
     "section": {"type": "string"},
     "pdf_spread": {"type": "integer", "minimum": 1, "maximum": 59},
     "side": {"enum": ["left", "right"]},
     "source_scan": {"type": "string"},
     "content": {"type": "string", "const": "content.json"},
-    "source_scan_status": {"enum": ["extracted_clean", "validated"]},
+    "source_scan_status": {
+      "enum": ["pending", "extracted_clean", "validated"],
+      "description": "'pending' until the per-page source.jpg is cropped from its spread (methodology step 4)."
+    },
     "transcription_status": {"enum": ["pending", "draft", "validated"]},
     "translation_en_status": {"enum": ["pending", "draft", "validated"]},
     "translation_es_status": {"enum": ["pending", "draft", "validated"]},

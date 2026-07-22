@@ -1,0 +1,21 @@
+{
+  "id": "A05",
+  "pages": [
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "titles": {
+    "de": "Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
+    "en": "Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation",
+    "es": "Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

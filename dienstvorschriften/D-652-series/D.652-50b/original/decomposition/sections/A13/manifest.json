@@ -1,0 +1,20 @@
+{
+  "id": "A13",
+  "pages": [
+    57,
+    58,
+    59,
+    60
+  ],
+  "titles": {
+    "de": "Einbau des Seitenvorgeleges mit Hebevorrichtung",
+    "en": "Installing the final drive unit with a lifting device",
+    "es": "Montaje del engranaje lateral final con dispositivo elevador"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

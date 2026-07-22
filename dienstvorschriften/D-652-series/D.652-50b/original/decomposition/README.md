@@ -8,19 +8,25 @@ canonical content source; DOCX, PDF, HTML and Markdown are derived outputs.
 
 - `../D.652-50b_de.pdf`: original German scan (59 photographed spreads).
 - `document.json`: document identity, languages and canonical references.
-- `manifest.json`: complete physical and logical page inventory. **Pending**:
-  the printed-page count and `sections` map are not yet populated — the
-  PDF-spread-to-book-page pagination inventory (methodology §5, step 3) still
-  needs to be done before page splitting begins.
-- `index/contents.json`: trilingual table of contents (empty until sections
-  are inventoried).
+- `manifest.json`: complete physical and logical page inventory. The book has
+  112 numbered printed pages (plus unnumbered covers/flyleaves); the
+  PDF-spread-to-book-page map and `sections` ranges are recorded here.
+  Per-page `source_scan_status`/`transcription_status`/etc. are all
+  `pending` — the page-splitting phase (methodology §5, step 4: cropping
+  `source.jpg` per page and writing `content.json`) has not started yet.
+- `index/contents.json`: trilingual table of contents, one group (`A`,
+  "power train repair") with 22 sections (`A01`–`A22`).
 - `glossary/terminology.json`: controlled German → en-GB → es-ES terminology,
   extending the series-shared glossary.
 - `layout.json`: output-independent layout profile.
-- `frontmatter/` and `sections/`: page-level JSON and visual resources
-  (populated during the page-splitting phase).
-- `schema/`: JSON contracts. Page-count bounds are provisional (`maximum: 200`)
-  until the pagination inventory fixes the true printed-page count.
+- `frontmatter/` (pages 1–4) and `sections/A01`–`A22/` (pages 5–112): each
+  has a section-level `manifest.json` (title, page range, export layout).
+  Per-page directories (`pages/<NNN>/`) are not yet created.
+- `assets/spreads/` and `assets/thumbs/`: the 59 clean base spreads extracted
+  from the PDF via `scripts/extract_spreads.py`, plus their extraction
+  manifest (`assets/extraction_001_059.json`). Cropping these into individual
+  `source.jpg` files per page is the next step.
+- `schema/`: JSON contracts, with page-count bounds fixed to 1–112.
 
 Each numbered page will contain:
 
