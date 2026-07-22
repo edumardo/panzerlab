@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>D 652/50c — decomposition viewer (draft)</title>
+<title>Decomposition viewer (draft)</title>
 <style>
   :root {
     --bg: #1e1e1e;
@@ -31,8 +31,17 @@
     padding: 10px;
   }
   #sidebar h2 { font-size: 13px; color: var(--muted); text-transform: uppercase; margin: 14px 4px 6px; }
-  #sidebar .doc-title { font-size: 15px; font-weight: 600; margin: 4px; }
-  #sidebar .doc-sub { font-size: 12px; color: var(--muted); margin: 0 4px 10px; }
+  #docPicker {
+    width: 100%;
+    background: #333;
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 6px 8px;
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+  .doc-sub { font-size: 12px; color: var(--muted); margin: 4px 4px 10px; }
   .sec-link {
     display: block;
     padding: 5px 8px;
@@ -65,7 +74,7 @@
     gap: 14px;
     z-index: 5;
   }
-  #showDeToggle { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 5px; cursor: pointer; user-select: none; }
+  #showSourceToggle { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 5px; cursor: pointer; user-select: none; }
   #navBtns { margin-left: auto; display: flex; gap: 8px; }
   #navBtns button {
     background: #333;
@@ -78,8 +87,8 @@
   #navBtns button:disabled { opacity: 0.4; cursor: default; }
   #pageLabel { font-size: 13px; color: var(--muted); }
 
-  .page-title .de { font-size: 13px; font-style: italic; color: var(--muted); font-weight: 400; margin-bottom: 2px; }
-  .page-title .en, .page-title .es { font-size: 19px; margin: 0; }
+  .page-title .source { font-size: 13px; font-style: italic; color: var(--muted); font-weight: 400; margin-bottom: 2px; }
+  .page-title .target { font-size: 19px; margin: 0; }
   .page-title { margin-bottom: 6px; }
   .page-meta { font-size: 12px; color: var(--muted); margin-bottom: 20px; }
 
@@ -121,9 +130,8 @@
     line-height: 1.5;
     margin-bottom: 2px;
   }
-  .lang-line.de { color: var(--muted); font-style: italic; font-size: 13px; }
-  .lang-line.en { font-size: 15px; }
-  .lang-line.es { font-size: 15px; }
+  .lang-line.source { color: var(--muted); font-style: italic; font-size: 13px; }
+  .lang-line.target { font-size: 15px; }
   .lang-line .txt { flex: 1; }
 
   .figure-list-title {
@@ -144,14 +152,14 @@
 <body>
 
 <div id="sidebar">
-  <div class="doc-title">D 652/50c</div>
-  <div class="doc-sub">Preliminary repair instructions for the engine</div>
+  <select id="docPicker"></select>
+  <div class="doc-sub" id="docSub"></div>
   <div id="toc">Loading table of contents…</div>
 </div>
 
 <div id="main">
   <div id="topbar">
-    <label id="showDeToggle"><input type="checkbox" id="showDeCheckbox" checked> Show German source</label>
+    <label id="showSourceToggle"><input type="checkbox" id="showSourceCheckbox" checked> Show source text</label>
     <span id="pageLabel"></span>
     <div id="navBtns">
       <button id="prevBtn">&larr; Prev</button>
@@ -162,13 +170,22 @@
 </div>
 
 <script>
-const BASE = ".."; // decomposition/ root, relative to this file
+// This viewer is generic: it reads any decomposition that follows
+// docs/PDF_TO_CANONICAL_JSON.md (document.json + manifests + per-page
+// content.json), listed in documents.json next to this file.
+
+let registry = [];          // [{ id, decomposition, docMeta }]
+let currentDocIndex = 0;
+let BASE = null;            // decomposition root of the selected document
+let docMeta = null;         // selected document's document.json
+let sourceLangKey = "de";   // bare subtag used as the key for source-language text, e.g. "de"
+let targetLangs = [];       // full BCP 47 tags, e.g. ["en-GB", "es-ES"]
 
 let contentsIndex = null;   // index/contents.json
 let sectionManifests = {};  // sectionId -> manifest.json
 let flatPages = [];         // ordered [{sectionId, page}]
 let currentPos = 0;
-let showDe = true;
+let showSource = true;
 
 async function getJSON(path) {
   const res = await fetch(path);
@@ -178,8 +195,18 @@ async function getJSON(path) {
 
 function pad3(n) { return String(n).padStart(3, "0"); }
 
+// Titles/captions in section and frontmatter manifests are sometimes keyed
+// with the bare subtag ("en") instead of the full BCP 47 tag ("en-GB").
+// Fall back to the bare subtag so both conventions resolve.
+function pickLang(obj, tag) {
+  if (!obj) return null;
+  return obj[tag] ?? obj[tag.split("-")[0]] ?? null;
+}
+
+function langLabel(tag) { return tag.split("-")[0].toUpperCase(); }
+
 function sectionTitle(sec) {
-  return `${sec.titles["en-GB"] || ""} / ${sec.titles["es-ES"] || ""}`;
+  return targetLangs.map(t => pickLang(sec.titles, t)).filter(Boolean).join(" / ");
 }
 
 function pagesDir(sectionId) {
@@ -188,46 +215,81 @@ function pagesDir(sectionId) {
     : `${BASE}/sections/${sectionId}/pages`;
 }
 
+async function loadRegistry() {
+  const reg = await getJSON("documents.json");
+  registry = await Promise.all(reg.documents.map(async d => {
+    const meta = await getJSON(`${d.decomposition}/document.json`);
+    return { ...d, docMeta: meta };
+  }));
+
+  const picker = document.getElementById("docPicker");
+  picker.innerHTML = registry.map((d, i) =>
+    `<option value="${i}">${escapeHTML(d.docMeta.code || d.docMeta.id)}</option>`).join("");
+  picker.onchange = () => selectDocument(Number(picker.value));
+}
+
+async function selectDocument(index) {
+  currentDocIndex = index;
+  const doc = registry[index];
+  BASE = doc.decomposition;
+  docMeta = doc.docMeta;
+  sourceLangKey = (docMeta.source_language || "de-DE").split("-")[0];
+  targetLangs = docMeta.target_languages || ["en-GB"];
+
+  document.getElementById("docPicker").value = String(index);
+  document.getElementById("showSourceToggle").lastChild.textContent =
+    ` Show source text (${sourceLangKey.toUpperCase()})`;
+  document.getElementById("docSub").textContent =
+    targetLangs.map(t => pickLang(docMeta.titles, t)).filter(Boolean).join(" / ") || docMeta.id;
+
+  const content = document.getElementById("content");
+  content.innerHTML = `<div id="loading">Loading…</div>`;
+
+  contentsIndex = await getJSON(`${BASE}/index/contents.json`);
+  sectionManifests = {};
+
+  let frontMatterGroup = null;
+  try {
+    const frontMatterManifest = await getJSON(`${BASE}/frontmatter/manifest.json`);
+    sectionManifests["FrontMatter"] = frontMatterManifest;
+    frontMatterGroup = {
+      id: "FrontMatter",
+      titles: frontMatterManifest.titles,
+      sections: [{ id: "FrontMatter", number: 0, titles: frontMatterManifest.titles }],
+    };
+  } catch {
+    // No frontmatter/ directory for this document — skip it.
+  }
+  if (frontMatterGroup) contentsIndex.groups = [frontMatterGroup, ...contentsIndex.groups];
+
+  const allSections = contentsIndex.groups.flatMap(g => g.sections.map(s => ({...s, group: g})));
+
+  await Promise.all(allSections.filter(s => s.id !== "FrontMatter").map(async s => {
+    sectionManifests[s.id] = await getJSON(`${BASE}/sections/${s.id}/manifest.json`);
+  }));
+
+  flatPages = [];
+  for (const s of allSections) {
+    for (const p of sectionManifests[s.id].pages) {
+      flatPages.push({ sectionId: s.id, page: p });
+    }
+  }
+
+  renderTOC(contentsIndex);
+  currentPos = 0;
+  await showPage(currentPos);
+}
+
 async function init() {
   try {
-    contentsIndex = await getJSON(`${BASE}/index/contents.json`);
-    const frontMatterManifest = await getJSON(`${BASE}/frontmatter/manifest.json`);
-    const frontMatterGroup = {
-      id: "FrontMatter",
-      titles: { de: frontMatterManifest.titles.de, "en-GB": frontMatterManifest.titles.en, "es-ES": frontMatterManifest.titles.es },
-      sections: [{
-        id: "FrontMatter",
-        number: 0,
-        titles: { de: frontMatterManifest.titles.de, "en-GB": frontMatterManifest.titles.en, "es-ES": frontMatterManifest.titles.es },
-      }],
-    };
-    contentsIndex.groups = [frontMatterGroup, ...contentsIndex.groups];
-    sectionManifests["FrontMatter"] = frontMatterManifest;
-
-    const allSections = contentsIndex.groups.flatMap(g => g.sections.map(s => ({...s, group: g})));
-
-    // Load every remaining section manifest to get its exact page list.
-    await Promise.all(allSections.filter(s => s.id !== "FrontMatter").map(async s => {
-      sectionManifests[s.id] = await getJSON(`${BASE}/sections/${s.id}/manifest.json`);
-    }));
-
-    flatPages = [];
-    for (const s of allSections) {
-      for (const p of sectionManifests[s.id].pages) {
-        flatPages.push({ sectionId: s.id, page: p });
-      }
-    }
-
-    renderTOC(contentsIndex);
+    await loadRegistry();
     setupTopbar();
-
-    currentPos = 0;
-    await showPage(currentPos);
+    await selectDocument(0);
   } catch (err) {
     document.getElementById("content").innerHTML =
       `<div id="error">Could not load the decomposition.<br>${err.message}<br><br>` +
       `This viewer must be served over HTTP (fetch() cannot read local JSON from file://). ` +
-      `Try: <code>python -m http.server</code> from the <code>decomposition</code> folder, then open ` +
+      `Try: <code>python -m http.server</code> from the repository root, then open ` +
       `<code>http://localhost:8000/viewer/</code>.</div>`;
   }
 }
@@ -262,21 +324,33 @@ function setupTopbar() {
   document.getElementById("nextBtn").onclick = () => {
     if (currentPos < flatPages.length - 1) { currentPos++; showPage(currentPos); }
   };
-  document.getElementById("showDeCheckbox").onchange = (e) => {
-    showDe = e.target.checked;
+  document.getElementById("showSourceCheckbox").onchange = (e) => {
+    showSource = e.target.checked;
     showPage(currentPos);
   };
 }
 
-function renderLangLines(texts) {
-  // texts: { de, en, es } plain strings (any may be missing/null)
+function renderLangLines(textObj) {
+  // textObj: keyed by sourceLangKey (bare subtag) plus each target's full BCP 47 tag.
+  if (!textObj) return "";
   let html = "";
-  if (showDe && texts.de) {
-    html += `<div class="lang-line de"><span class="lang-tag">DE</span><span class="txt">${escapeHTML(texts.de)}</span></div>`;
+  const sourceVal = textObj[sourceLangKey];
+  if (showSource && sourceVal) {
+    html += `<div class="lang-line source"><span class="lang-tag">${langLabel(sourceLangKey)}</span><span class="txt">${escapeHTML(sourceVal)}</span></div>`;
   }
-  html += `<div class="lang-line en"><span class="lang-tag">EN</span><span class="txt">${texts.en ? escapeHTML(texts.en) : '<span style="color:var(--muted)">— not translated —</span>'}</span></div>`;
-  html += `<div class="lang-line es"><span class="lang-tag">ES</span><span class="txt">${texts.es ? escapeHTML(texts.es) : '<span style="color:var(--muted)">— not translated —</span>'}</span></div>`;
+  for (const tag of targetLangs) {
+    const val = textObj[tag];
+    html += `<div class="lang-line target"><span class="lang-tag">${langLabel(tag)}</span><span class="txt">${val ? escapeHTML(val) : '<span style="color:var(--muted)">— not translated —</span>'}</span></div>`;
+  }
   return html;
+}
+
+function langText(obj) {
+  // obj: { [lang]: { plain, runs } } -> { [lang]: plain string }
+  if (!obj) return {};
+  const out = {};
+  for (const [k, v] of Object.entries(obj)) out[k] = v && v.plain;
+  return out;
 }
 
 async function showPage(pos) {
@@ -296,9 +370,10 @@ async function showPage(pos) {
 
   const titles = data.titles || {};
   let html = `<div class="page-title">`;
-  if (showDe && titles.de) html += `<div class="de">${escapeHTML(titles.de)}</div>`;
-  html += `<div class="en">${escapeHTML(titles["en-GB"] || "")}</div>`;
-  html += `<div class="es">${escapeHTML(titles["es-ES"] || "")}</div>`;
+  if (showSource && titles[sourceLangKey]) html += `<div class="source">${escapeHTML(titles[sourceLangKey])}</div>`;
+  for (const tag of targetLangs) {
+    html += `<div class="target">${escapeHTML(titles[tag] || "")}</div>`;
+  }
   html += `</div>`;
   html += `<div class="page-meta">${data.document_id} · page ${data.page} · type: ${data.type}</div>`;
 
@@ -319,26 +394,16 @@ async function showPage(pos) {
 
   if (data.paragraphs && data.paragraphs.length) {
     for (const p of data.paragraphs) {
-      const t = p.text || {};
-      html += `<div class="para-block">` + renderLangLines({
-        de: t.de && t.de.plain,
-        en: t["en-GB"] && t["en-GB"].plain,
-        es: t["es-ES"] && t["es-ES"].plain,
-      }) + `</div>`;
+      html += `<div class="para-block">${renderLangLines(langText(p.text))}</div>`;
     }
   }
 
   if (data.figures && data.figures.length) {
     html += `<div class="figure-list-title">Figure captions</div>`;
     for (const f of data.figures) {
-      const c = f.captions || {};
       html += `<div class="cap-block">
         <span class="fignum">Fig. ${f.number}</span>
-        ${renderLangLines({
-          de: c.de && c.de.plain,
-          en: c["en-GB"] && c["en-GB"].plain,
-          es: c["es-ES"] && c["es-ES"].plain,
-        })}
+        ${renderLangLines(langText(f.captions))}
       </div>`;
     }
   }

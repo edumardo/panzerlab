@@ -25,6 +25,9 @@ translations, and document-processing utilities.
 ├── AGENTS.md
 ├── docs/
 │   └── PDF_TO_CANONICAL_JSON.md
+├── viewer/
+│   ├── index.html
+│   └── documents.json
 └── dienstvorschriften/
     └── D-652-series/
         ├── index.md
@@ -48,6 +51,11 @@ translations, and document-processing utilities.
             ├── es/
             └── bilingual/
 ```
+
+`viewer/` is a generic, document-agnostic static viewer for validating any
+decomposition built per `docs/PDF_TO_CANONICAL_JSON.md`; `viewer/documents.json`
+lists which decompositions it offers. It is a draft validation tool, not a
+production reader — see `viewer/README.md`.
 
 ## Naming conventions
 
