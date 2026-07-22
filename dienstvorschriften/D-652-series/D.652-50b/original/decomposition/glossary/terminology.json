@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50b",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "extends": "../../../glossary/terminology.json",
+  "terms": []
+}

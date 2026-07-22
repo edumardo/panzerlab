@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "d652-50b",
+  "code": "D 652/50b",
+  "titles": {
+    "de": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
+    "en-GB": "Provisional repair instructions for the power train",
+    "es-ES": "Instrucciones provisionales de reparación del tren de potencia"
+  },
+  "original_date": "1943-03-01",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "source_pdf": "../D.652-50b_de.pdf",
+  "index": "index/contents.json",
+  "glossary": "glossary/terminology.json",
+  "manifest": "manifest.json",
+  "layout": "layout.json"
+}
