@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Decomposition viewer (draft)</title>
+<style>
+  :root {
+    --bg: #1e1e1e;
+    --panel: #262626;
+    --border: #3a3a3a;
+    --text: #e6e6e6;
+    --muted: #9a9a9a;
+    --accent: #4da3ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, Segoe UI, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  #sidebar {
+    width: 300px;
+    flex-shrink: 0;
+    background: var(--panel);
+    border-right: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 10px;
+  }
+  #sidebar h2 { font-size: 13px; color: var(--muted); text-transform: uppercase; margin: 14px 4px 6px; }
+  #docPicker {
+    width: 100%;
+    background: #333;
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 6px 8px;
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+  .doc-sub { font-size: 12px; color: var(--muted); margin: 4px 4px 10px; }
+  .sec-link {
+    display: block;
+    padding: 5px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--text);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .sec-link:hover { background: #333; }
+  .sec-link.active { background: var(--accent); color: #fff; }
+  .sec-link .num { color: var(--muted); margin-right: 4px; }
+  .sec-link.active .num { color: #dceaff; }
+
+  #main {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px 32px 60px;
+  }
+  #topbar {
+    position: sticky;
+    top: -24px;
+    margin: -24px -32px 20px;
+    padding: 12px 32px;
+    background: rgba(30,30,30,0.95);
+    backdrop-filter: blur(4px);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    z-index: 5;
+  }
+  #showSourceToggle { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 5px; cursor: pointer; user-select: none; }
+  #navBtns { margin-left: auto; display: flex; gap: 8px; }
+  #navBtns button {
+    background: #333;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #navBtns button:disabled { opacity: 0.4; cursor: default; }
+  #pageLabel { font-size: 13px; color: var(--muted); }
+
+  .page-title .source { font-size: 13px; font-style: italic; color: var(--muted); font-weight: 400; margin-bottom: 2px; }
+  .page-title .target { font-size: 19px; margin: 0; }
+  .page-title { margin-bottom: 6px; }
+  .page-meta { font-size: 12px; color: var(--muted); margin-bottom: 20px; }
+
+  .page-body {
+    display: flex;
+    gap: 28px;
+    align-items: flex-start;
+  }
+  .facsimile {
+    flex: 0 0 42%;
+    position: sticky;
+    top: 20px;
+  }
+  .facsimile a { display: block; }
+  .facsimile img {
+    width: 100%;
+    display: block;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: #111;
+  }
+  .facsimile .hint { font-size: 11px; color: var(--muted); margin-top: 6px; }
+  .translation { flex: 1; min-width: 0; }
+
+  .lang-tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--muted);
+    width: 22px;
+    flex-shrink: 0;
+  }
+  .para-block, .cap-block {
+    margin-bottom: 14px;
+  }
+  .lang-line {
+    display: flex;
+    gap: 8px;
+    line-height: 1.5;
+    margin-bottom: 2px;
+  }
+  .lang-line.source { color: var(--muted); font-style: italic; font-size: 13px; }
+  .lang-line.target { font-size: 15px; }
+  .lang-line .txt { flex: 1; }
+
+  .figure-list-title {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 24px 0 10px;
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+  }
+  .cap-block .fignum { color: var(--accent); font-weight: 600; display: block; margin-bottom: 4px; }
+  .cap-block { padding: 10px 12px; background: var(--panel); border-radius: 6px; }
+
+  #loading, #error { padding: 40px; color: var(--muted); }
+  #error { color: #e07d7d; }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <select id="docPicker"></select>
+  <div class="doc-sub" id="docSub"></div>
+  <div id="toc">Loading table of contents…</div>
+</div>
+
+<div id="main">
+  <div id="topbar">
+    <label id="showSourceToggle"><input type="checkbox" id="showSourceCheckbox" checked> Show source text</label>
+    <span id="pageLabel"></span>
+    <div id="navBtns">
+      <button id="prevBtn">&larr; Prev</button>
+      <button id="nextBtn">Next &rarr;</button>
+    </div>
+  </div>
+  <div id="content"><div id="loading">Loading…</div></div>
+</div>
+
+<script>
+// This viewer is generic: it reads any decomposition that follows
+// docs/PDF_TO_CANONICAL_JSON.md (document.json + manifests + per-page
+// content.json), listed in documents.json next to this file.
+
+let registry = [];          // [{ id, decomposition, docMeta }]
+let currentDocIndex = 0;
+let BASE = null;            // decomposition root of the selected document
+let docMeta = null;         // selected document's document.json
+let sourceLangKey = "de";   // bare subtag used as the key for source-language text, e.g. "de"
+let targetLangs = [];       // full BCP 47 tags, e.g. ["en-GB", "es-ES"]
+
+let contentsIndex = null;   // index/contents.json
+let sectionManifests = {};  // sectionId -> manifest.json
+let flatPages = [];         // ordered [{sectionId, page}]
+let currentPos = 0;
+let showSource = true;
+
+async function getJSON(path) {
+  const res = await fetch(path);
+  if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.status}`);
+  return res.json();
+}
+
+function pad3(n) { return String(n).padStart(3, "0"); }
+
+// Titles/captions in section and frontmatter manifests are sometimes keyed
+// with the bare subtag ("en") instead of the full BCP 47 tag ("en-GB").
+// Fall back to the bare subtag so both conventions resolve.
+function pickLang(obj, tag) {
+  if (!obj) return null;
+  return obj[tag] ?? obj[tag.split("-")[0]] ?? null;
+}
+
+function langLabel(tag) { return tag.split("-")[0].toUpperCase(); }
+
+function sectionTitle(sec) {
+  return targetLangs.map(t => pickLang(sec.titles, t)).filter(Boolean).join(" / ");
+}
+
+function pagesDir(sectionId) {
+  return sectionId === "FrontMatter"
+    ? `${BASE}/frontmatter/pages`
+    : `${BASE}/sections/${sectionId}/pages`;
+}
+
+async function loadRegistry() {
+  const reg = await getJSON("documents.json");
+  registry = await Promise.all(reg.documents.map(async d => {
+    const meta = await getJSON(`${d.decomposition}/document.json`);
+    return { ...d, docMeta: meta };
+  }));
+
+  const picker = document.getElementById("docPicker");
+  picker.innerHTML = registry.map((d, i) =>
+    `<option value="${i}">${escapeHTML(d.docMeta.code || d.docMeta.id)}</option>`).join("");
+  picker.onchange = () => selectDocument(Number(picker.value));
+}
+
+async function selectDocument(index) {
+  currentDocIndex = index;
+  const doc = registry[index];
+  BASE = doc.decomposition;
+  docMeta = doc.docMeta;
+  sourceLangKey = (docMeta.source_language || "de-DE").split("-")[0];
+  targetLangs = docMeta.target_languages || ["en-GB"];
+
+  document.getElementById("docPicker").value = String(index);
+  document.getElementById("showSourceToggle").lastChild.textContent =
+    ` Show source text (${sourceLangKey.toUpperCase()})`;
+  document.getElementById("docSub").textContent =
+    targetLangs.map(t => pickLang(docMeta.titles, t)).filter(Boolean).join(" / ") || docMeta.id;
+
+  const content = document.getElementById("content");
+  content.innerHTML = `<div id="loading">Loading…</div>`;
+
+  contentsIndex = await getJSON(`${BASE}/index/contents.json`);
+  sectionManifests = {};
+
+  let frontMatterGroup = null;
+  try {
+    const frontMatterManifest = await getJSON(`${BASE}/frontmatter/manifest.json`);
+    sectionManifests["FrontMatter"] = frontMatterManifest;
+    frontMatterGroup = {
+      id: "FrontMatter",
+      titles: frontMatterManifest.titles,
+      sections: [{ id: "FrontMatter", number: 0, titles: frontMatterManifest.titles }],
+    };
+  } catch {
+    // No frontmatter/ directory for this document — skip it.
+  }
+  if (frontMatterGroup) contentsIndex.groups = [frontMatterGroup, ...contentsIndex.groups];
+
+  const allSections = contentsIndex.groups.flatMap(g => g.sections.map(s => ({...s, group: g})));
+
+  await Promise.all(allSections.filter(s => s.id !== "FrontMatter").map(async s => {
+    sectionManifests[s.id] = await getJSON(`${BASE}/sections/${s.id}/manifest.json`);
+  }));
+
+  flatPages = [];
+  for (const s of allSections) {
+    for (const p of sectionManifests[s.id].pages) {
+      flatPages.push({ sectionId: s.id, page: p });
+    }
+  }
+
+  renderTOC(contentsIndex);
+  currentPos = 0;
+  await showPage(currentPos);
+}
+
+async function init() {
+  try {
+    await loadRegistry();
+    setupTopbar();
+    await selectDocument(0);
+  } catch (err) {
+    document.getElementById("content").innerHTML =
+      `<div id="error">Could not load the decomposition.<br>${err.message}<br><br>` +
+      `This viewer must be served over HTTP (fetch() cannot read local JSON from file://). ` +
+      `Try: <code>python -m http.server</code> from the repository root, then open ` +
+      `<code>http://localhost:8000/viewer/</code>.</div>`;
+  }
+}
+
+function renderTOC(idx) {
+  const toc = document.getElementById("toc");
+  toc.innerHTML = "";
+  for (const group of idx.groups) {
+    const h = document.createElement("h2");
+    h.textContent = `${group.id} — ${sectionTitle(group)}`;
+    toc.appendChild(h);
+    for (const sec of group.sections) {
+      const a = document.createElement("a");
+      a.className = "sec-link";
+      a.dataset.section = sec.id;
+      a.innerHTML = `<span class="num">${sec.number}.</span>${sectionTitle(sec)}`;
+      a.onclick = () => jumpToSection(sec.id);
+      toc.appendChild(a);
+    }
+  }
+}
+
+function jumpToSection(sectionId) {
+  const pos = flatPages.findIndex(p => p.sectionId === sectionId);
+  if (pos >= 0) { currentPos = pos; showPage(currentPos); }
+}
+
+function setupTopbar() {
+  document.getElementById("prevBtn").onclick = () => {
+    if (currentPos > 0) { currentPos--; showPage(currentPos); }
+  };
+  document.getElementById("nextBtn").onclick = () => {
+    if (currentPos < flatPages.length - 1) { currentPos++; showPage(currentPos); }
+  };
+  document.getElementById("showSourceCheckbox").onchange = (e) => {
+    showSource = e.target.checked;
+    showPage(currentPos);
+  };
+}
+
+function renderLangLines(textObj) {
+  // textObj: keyed by sourceLangKey (bare subtag) plus each target's full BCP 47 tag.
+  if (!textObj) return "";
+  let html = "";
+  const sourceVal = textObj[sourceLangKey];
+  if (showSource && sourceVal) {
+    html += `<div class="lang-line source"><span class="lang-tag">${langLabel(sourceLangKey)}</span><span class="txt">${escapeHTML(sourceVal)}</span></div>`;
+  }
+  for (const tag of targetLangs) {
+    const val = textObj[tag];
+    html += `<div class="lang-line target"><span class="lang-tag">${langLabel(tag)}</span><span class="txt">${val ? escapeHTML(val) : '<span style="color:var(--muted)">— not translated —</span>'}</span></div>`;
+  }
+  return html;
+}
+
+function langText(obj) {
+  // obj: { [lang]: { plain, runs } } -> { [lang]: plain string }
+  if (!obj) return {};
+  const out = {};
+  for (const [k, v] of Object.entries(obj)) out[k] = v && v.plain;
+  return out;
+}
+
+async function showPage(pos) {
+  const { sectionId, page } = flatPages[pos];
+  const content = document.getElementById("content");
+  content.innerHTML = `<div id="loading">Loading page ${page}…</div>`;
+
+  const data = await getJSON(`${pagesDir(sectionId)}/${pad3(page)}/content.json`);
+
+  document.getElementById("prevBtn").disabled = pos === 0;
+  document.getElementById("nextBtn").disabled = pos === flatPages.length - 1;
+  document.getElementById("pageLabel").textContent =
+    `Section ${sectionId} · Page ${page} (${pos + 1} / ${flatPages.length})`;
+
+  document.querySelectorAll("#toc .sec-link").forEach(a =>
+    a.classList.toggle("active", a.dataset.section === sectionId));
+
+  const titles = data.titles || {};
+  let html = `<div class="page-title">`;
+  if (showSource && titles[sourceLangKey]) html += `<div class="source">${escapeHTML(titles[sourceLangKey])}</div>`;
+  for (const tag of targetLangs) {
+    html += `<div class="target">${escapeHTML(titles[tag] || "")}</div>`;
+  }
+  html += `</div>`;
+  html += `<div class="page-meta">${data.document_id} · page ${data.page} · type: ${data.type}</div>`;
+
+  html += `<div class="page-body">`;
+
+  // Facsimile: full source page, preferring the trimmed display crop when present.
+  const source = data.source || {};
+  const facsimileImage = source.display_image || source.image;
+  if (facsimileImage) {
+    const imgPath = `${pagesDir(sectionId)}/${pad3(page)}/${facsimileImage}`;
+    html += `<div class="facsimile">
+      <a href="${imgPath}" target="_blank" rel="noopener"><img src="${imgPath}" alt="Page ${page} facsimile" loading="lazy"></a>
+      <div class="hint">Click to open full size</div>
+    </div>`;
+  }
+
+  html += `<div class="translation">`;
+
+  if (data.paragraphs && data.paragraphs.length) {
+    for (const p of data.paragraphs) {
+      html += `<div class="para-block">${renderLangLines(langText(p.text))}</div>`;
+    }
+  }
+
+  if (data.figures && data.figures.length) {
+    html += `<div class="figure-list-title">Figure captions</div>`;
+    for (const f of data.figures) {
+      html += `<div class="cap-block">
+        <span class="fignum">Fig. ${f.number}</span>
+        ${renderLangLines(langText(f.captions))}
+      </div>`;
+    }
+  }
+
+  if ((!data.paragraphs || !data.paragraphs.length) && (!data.figures || !data.figures.length)) {
+    html += `<p style="color:var(--muted)">No transcription on this page yet.</p>`;
+  }
+
+  html += `</div>`; // .translation
+  html += `</div>`; // .page-body
+
+  content.innerHTML = html;
+}
+
+function escapeHTML(s) {
+  const div = document.createElement("div");
+  div.textContent = s || "";
+  return div.innerHTML;
+}
+
+init();
+</script>
+</body>
+</html>
