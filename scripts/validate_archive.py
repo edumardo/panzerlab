@@ -183,6 +183,9 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report):
 
     if page_numbers != sorted(page_numbers):
         report.error("Manifest pages array is not in ascending page order")
+    duplicate_pages = {p for p in page_numbers if page_numbers.count(p) > 1}
+    if duplicate_pages:
+        report.error(f"Duplicate page numbers in manifest: {sorted(duplicate_pages)}")
     gaps = [b - a for a, b in zip(page_numbers, page_numbers[1:]) if b - a != 1]
     if gaps:
         report.warn(f"Page sequence has {len(gaps)} gap(s) larger than 1 -- confirm these are documented, not accidental")
@@ -206,18 +209,13 @@ def validate_glossary(root: Path, glossary_path: Path, report: Report, id_prefix
         target = (glossary_path.parent / extends).resolve()
         if not target.is_file():
             report.error(f"Glossary 'extends' target does not exist: {glossary_path} -> {extends}")
-    ids = [term.get("id") for term in glossary.get("terms", [])]
-    for term_id in ids:
+    for term in glossary.get("terms", []):
+        term_id = term.get("id")
         if term_id and forbidden_prefix and term_id.startswith(forbidden_prefix):
             report.error(f"Glossary term id '{term_id}' in {glossary_path} uses the other glossary's id prefix")
         if term_id and id_prefix and not term_id.startswith(id_prefix):
             report.warn(f"Glossary term id '{term_id}' in {glossary_path} does not follow the '{id_prefix}' convention")
-        status = None
-        for term in glossary.get("terms", []):
-            if term.get("id") == term_id:
-                status = term.get("status")
-                break
-        check_status_value(status, f"{glossary_path} term {term_id}.status", report)
+        check_status_value(term.get("status"), f"{glossary_path} term {term_id}.status", report)
     return glossary
 
 
@@ -244,13 +242,24 @@ def main() -> None:
             if not (folder / "manifest.json").is_file():
                 report.error(f"Missing section manifest for {section_id}")
 
+    doc_glossary = None
     doc_glossary_path = root / "glossary" / "terminology.json"
     if doc_glossary_path.is_file():
-        validate_glossary(root, doc_glossary_path, report, id_prefix="term-", forbidden_prefix="series-term-")
+        doc_glossary = validate_glossary(root, doc_glossary_path, report, id_prefix="term-", forbidden_prefix="series-term-")
 
+    series_glossary = None
     series_glossary_path = root.parents[2] / "glossary" / "terminology.json"
     if series_glossary_path.is_file():
-        validate_glossary(root, series_glossary_path, report, id_prefix="series-term-", forbidden_prefix=None)
+        series_glossary = validate_glossary(root, series_glossary_path, report, id_prefix="series-term-", forbidden_prefix=None)
+
+    # Prefix conventions (checked above) are a style hint, not a guarantee: check
+    # the actual id sets for a literal collision regardless of naming convention.
+    if doc_glossary and series_glossary:
+        doc_ids = {term["id"] for term in doc_glossary.get("terms", []) if term.get("id")}
+        series_ids = {term["id"] for term in series_glossary.get("terms", []) if term.get("id")}
+        reused = doc_ids & series_ids
+        if reused:
+            report.error(f"Glossary term id(s) reused between document and series glossaries: {sorted(reused)}")
 
     if report.warnings:
         print(f"Warnings ({len(report.warnings)}):", file=sys.stderr)
