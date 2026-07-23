@@ -24,11 +24,17 @@
           "plain": "Zeichnung 4. Stempel zum Einbau der Laufrollenlager. Maßstab 1:1. Stückz. 1: Griff, Werkstoff St 37.12; Stückz. 1: Stempelplatte, Werkstoff St 37.12. Teil 4.",
           "runs": []
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Drawing 4. Punch for installing the road-wheel bearings. Scale 1:1. Qty 1: Handle, Material St 37.12; Qty 1: Punch plate, Material St 37.12. Part 4.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 4. Punzón para el montaje de los cojinetes de las ruedas de rodadura. Escala 1:1. Cant. 1: Mango, Material St 37.12; Cant. 1: Placa del punzón, Material St 37.12. Pieza 4.",
+          "runs": []
+        }
       },
       "label_keys": {"de": null, "en-GB": null, "es-ES": null}
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

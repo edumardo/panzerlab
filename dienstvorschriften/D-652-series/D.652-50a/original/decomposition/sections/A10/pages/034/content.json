@@ -5,7 +5,7 @@
   "page": 34,
   "section": "A10",
   "type": "text",
-  "titles": {"de": "10. Ausbau des Schwingungsdämpfers", "en-GB": null, "es-ES": null},
+  "titles": {"de": "10. Ausbau des Schwingungsdämpfers", "en-GB": "10. Removal of the vibration damper", "es-ES": "10. Desmontaje del amortiguador de vibraciones"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 18,
@@ -14,14 +14,14 @@
   },
   "navigation": {"previous": "d65250a-page-033", "next": "d65250a-page-035"},
   "paragraphs": [
-    {"id": "d65250a-p034-para01", "text": {"de": {"plain": "Laufrolle nach Abschn. 3, S. 10, ausbauen.", "runs": [{"text": "Laufrolle nach Abschn. 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p034-para02", "text": {"de": {"plain": "Beachten: Der Schwingarm bleibt durch Holzklotz unterstützt.", "runs": [{"text": "Beachten:", "bold": true}, {"text": " Der Schwingarm bleibt durch Holzklotz unterstützt.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p034-para03", "text": {"de": {"plain": "Druckschmierkopf (Schmiernippel) am unteren Schwingungsdämpferbolzen mit 11-SW-Steckschlüssel ausschrauben.", "runs": [{"text": "Druckschmierkopf (Schmiernippel) am unteren Schwingungsdämpferbolzen mit 11-SW-Steckschlüssel ausschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p034-para04", "text": {"de": {"plain": "Blechsicherungen der Befestigungsschrauben geradebiegen.", "runs": [{"text": "Blechsicherungen der Befestigungsschrauben geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p034-para05", "text": {"de": {"plain": "Die beiden Befestigungsschrauben mit Steckschlüssel SW 14 ausschrauben.", "runs": [{"text": "Die beiden Befestigungsschrauben mit Steckschlüssel SW 14 ausschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p034-para01", "text": {"de": {"plain": "Laufrolle nach Abschn. 3, S. 10, ausbauen.", "runs": [{"text": "Laufrolle nach Abschn. 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": {"plain": "Remove the road wheel as described in Section 3, p. 10.", "runs": [{"text": "Remove the road wheel as described in Section 3, p. 10.", "bold": false}]}, "es-ES": {"plain": "Desmontar la rueda de rodadura según el apartado 3, p. 10.", "runs": [{"text": "Desmontar la rueda de rodadura según el apartado 3, p. 10.", "bold": false}]}}},
+    {"id": "d65250a-p034-para02", "text": {"de": {"plain": "Beachten: Der Schwingarm bleibt durch Holzklotz unterstützt.", "runs": [{"text": "Beachten:", "bold": true}, {"text": " Der Schwingarm bleibt durch Holzklotz unterstützt.", "bold": false}]}, "en-GB": {"plain": "Note: The swing arm remains supported by a wooden block.", "runs": [{"text": "Note:", "bold": true}, {"text": " The swing arm remains supported by a wooden block.", "bold": false}]}, "es-ES": {"plain": "Nota: El brazo oscilante permanece apoyado sobre un taco de madera.", "runs": [{"text": "Nota:", "bold": true}, {"text": " El brazo oscilante permanece apoyado sobre un taco de madera.", "bold": false}]}}},
+    {"id": "d65250a-p034-para03", "text": {"de": {"plain": "Druckschmierkopf (Schmiernippel) am unteren Schwingungsdämpferbolzen mit 11-SW-Steckschlüssel ausschrauben.", "runs": [{"text": "Druckschmierkopf (Schmiernippel) am unteren Schwingungsdämpferbolzen mit 11-SW-Steckschlüssel ausschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the grease nipple (lubrication nipple) on the lower vibration-damper pin using an 11 SW socket spanner.", "runs": [{"text": "Unscrew the grease nipple (lubrication nipple) on the lower vibration-damper pin using an 11 SW socket spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar la boquilla de engrase (racor de engrase) del perno inferior del amortiguador de vibraciones con una llave de vaso SW 11.", "runs": [{"text": "Desenroscar la boquilla de engrase (racor de engrase) del perno inferior del amortiguador de vibraciones con una llave de vaso SW 11.", "bold": false}]}}},
+    {"id": "d65250a-p034-para04", "text": {"de": {"plain": "Blechsicherungen der Befestigungsschrauben geradebiegen.", "runs": [{"text": "Blechsicherungen der Befestigungsschrauben geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the sheet-metal locks of the mounting screws.", "runs": [{"text": "Straighten the sheet-metal locks of the mounting screws.", "bold": false}]}, "es-ES": {"plain": "Enderezar las chapas de seguridad de los tornillos de fijación.", "runs": [{"text": "Enderezar las chapas de seguridad de los tornillos de fijación.", "bold": false}]}}},
+    {"id": "d65250a-p034-para05", "text": {"de": {"plain": "Die beiden Befestigungsschrauben mit Steckschlüssel SW 14 ausschrauben.", "runs": [{"text": "Die beiden Befestigungsschrauben mit Steckschlüssel SW 14 ausschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew both mounting screws using a SW 14 socket spanner.", "runs": [{"text": "Unscrew both mounting screws using a SW 14 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar ambos tornillos de fijación con una llave de vaso SW 14.", "runs": [{"text": "Desenroscar ambos tornillos de fijación con una llave de vaso SW 14.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-049", "number": 49, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-049", "number": 49, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

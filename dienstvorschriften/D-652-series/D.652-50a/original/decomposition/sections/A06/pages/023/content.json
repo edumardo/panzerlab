@@ -15,7 +15,7 @@
   "navigation": {"previous": "d65250a-page-022", "next": "d65250a-page-024"},
   "paragraphs": [],
   "figures": [
-    {"id": "d65250a-bild-033", "number": 33, "status": "draft", "captions": {"de": {"plain": "Im Notfall können die Rollenlager durch gleichmäßige Schläge auf den ganzen Umfang der Lagerringe mit (Messing-) Dorn und Hammer entfernt werden.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-033", "number": 33, "status": "draft", "captions": {"de": {"plain": "Im Notfall können die Rollenlager durch gleichmäßige Schläge auf den ganzen Umfang der Lagerringe mit (Messing-) Dorn und Hammer entfernt werden.", "runs": []}, "en-GB": {"plain": "In an emergency, the bearings can be removed by striking evenly all around the circumference of the bearing races with a (brass) drift and hammer.", "runs": []}, "es-ES": {"plain": "En caso de emergencia, los cojinetes pueden extraerse golpeando uniformemente todo el contorno de los anillos del cojinete con un botador (de latón) y un martillo.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

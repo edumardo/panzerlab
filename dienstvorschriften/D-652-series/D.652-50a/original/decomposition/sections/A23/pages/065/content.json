@@ -5,7 +5,7 @@
   "page": 65,
   "section": "A23",
   "type": "text",
-  "titles": {"de": "23. Einbau der Leitradkurbel", "en-GB": null, "es-ES": null},
+  "titles": {"de": "23. Einbau der Leitradkurbel", "en-GB": "23. Installation of the idler crank", "es-ES": "23. Montaje de la manivela de la rueda tensora"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 34,
@@ -14,17 +14,17 @@
   },
   "navigation": {"previous": "d65250a-page-064", "next": "d65250a-page-066"},
   "paragraphs": [
-    {"id": "d65250a-p065-para01", "text": {"de": {"plain": "1. Schlauchbinder", "runs": [{"text": "1. Schlauchbinder", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para02", "text": {"de": {"plain": "2. Stahlband", "runs": [{"text": "2. Stahlband", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para03", "text": {"de": {"plain": "3. Gummiband", "runs": [{"text": "3. Gummiband", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para04", "text": {"de": {"plain": "4. Gummiring", "runs": [{"text": "4. Gummiring", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para05", "text": {"de": {"plain": "5. Befestigungsschrauben", "runs": [{"text": "5. Befestigungsschrauben", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para06", "text": {"de": {"plain": "6. Deckel", "runs": [{"text": "6. Deckel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para07", "text": {"de": {"plain": "7. Führungsring", "runs": [{"text": "7. Führungsring", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p065-para08", "text": {"de": {"plain": "8. Beilaghälften.", "runs": [{"text": "8. Beilaghälften.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p065-para01", "text": {"de": {"plain": "1. Schlauchbinder", "runs": [{"text": "1. Schlauchbinder", "bold": false}]}, "en-GB": {"plain": "1. Hose clamp", "runs": [{"text": "1. Hose clamp", "bold": false}]}, "es-ES": {"plain": "1. Abrazadera de manguera", "runs": [{"text": "1. Abrazadera de manguera", "bold": false}]}}},
+    {"id": "d65250a-p065-para02", "text": {"de": {"plain": "2. Stahlband", "runs": [{"text": "2. Stahlband", "bold": false}]}, "en-GB": {"plain": "2. Steel band", "runs": [{"text": "2. Steel band", "bold": false}]}, "es-ES": {"plain": "2. Banda de acero", "runs": [{"text": "2. Banda de acero", "bold": false}]}}},
+    {"id": "d65250a-p065-para03", "text": {"de": {"plain": "3. Gummiband", "runs": [{"text": "3. Gummiband", "bold": false}]}, "en-GB": {"plain": "3. Rubber band", "runs": [{"text": "3. Rubber band", "bold": false}]}, "es-ES": {"plain": "3. Banda de goma", "runs": [{"text": "3. Banda de goma", "bold": false}]}}},
+    {"id": "d65250a-p065-para04", "text": {"de": {"plain": "4. Gummiring", "runs": [{"text": "4. Gummiring", "bold": false}]}, "en-GB": {"plain": "4. Rubber ring", "runs": [{"text": "4. Rubber ring", "bold": false}]}, "es-ES": {"plain": "4. Anillo de goma", "runs": [{"text": "4. Anillo de goma", "bold": false}]}}},
+    {"id": "d65250a-p065-para05", "text": {"de": {"plain": "5. Befestigungsschrauben", "runs": [{"text": "5. Befestigungsschrauben", "bold": false}]}, "en-GB": {"plain": "5. Fixing screws", "runs": [{"text": "5. Fixing screws", "bold": false}]}, "es-ES": {"plain": "5. Tornillos de fijación", "runs": [{"text": "5. Tornillos de fijación", "bold": false}]}}},
+    {"id": "d65250a-p065-para06", "text": {"de": {"plain": "6. Deckel", "runs": [{"text": "6. Deckel", "bold": false}]}, "en-GB": {"plain": "6. Cover", "runs": [{"text": "6. Cover", "bold": false}]}, "es-ES": {"plain": "6. Tapa", "runs": [{"text": "6. Tapa", "bold": false}]}}},
+    {"id": "d65250a-p065-para07", "text": {"de": {"plain": "7. Führungsring", "runs": [{"text": "7. Führungsring", "bold": false}]}, "en-GB": {"plain": "7. Guide ring", "runs": [{"text": "7. Guide ring", "bold": false}]}, "es-ES": {"plain": "7. Anillo guía", "runs": [{"text": "7. Anillo guía", "bold": false}]}}},
+    {"id": "d65250a-p065-para08", "text": {"de": {"plain": "8. Beilaghälften.", "runs": [{"text": "8. Beilaghälften.", "bold": false}]}, "en-GB": {"plain": "8. Shim halves.", "runs": [{"text": "8. Shim halves.", "bold": false}]}, "es-ES": {"plain": "8. Mitades de suplemento.", "runs": [{"text": "8. Mitades de suplemento.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-094", "number": 94, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-094", "number": 94, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

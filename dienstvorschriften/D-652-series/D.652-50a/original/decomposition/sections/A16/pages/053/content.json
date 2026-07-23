@@ -5,7 +5,7 @@
   "page": 53,
   "section": "A16",
   "type": "text",
-  "titles": {"de": "Noch: 16. Ausbau der Schwingarmlager.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 16. Ausbau der Schwingarmlager.", "en-GB": "(continued) 16. Removing the swing-arm bearings.", "es-ES": "(continuación de:) 16. Desmontaje de los cojinetes del brazo oscilante."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 28,
@@ -14,13 +14,13 @@
   },
   "navigation": {"previous": "d65250a-page-052", "next": "d65250a-page-054"},
   "paragraphs": [
-    {"id": "d65250a-p053-para01", "text": {"de": {"plain": "Abziehvorrichtung zum Ausbau der Schwingarmlager, Zeichn. 5a, S. 90.", "runs": [{"text": "Abziehvorrichtung zum Ausbau der Schwingarmlager, Zeichn. 5a, S. 90.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p053-para02", "text": {"de": {"plain": "Abziehvorrichtung aufsetzen.", "runs": [{"text": "Abziehvorrichtung aufsetzen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p053-para03", "text": {"de": {"plain": "Die Schutzkappe mit Dichtring (Simmerring), Druckring, Nadellager, Abstandbuchse, Führungsring und Lagerring abziehen. Die Spindel der Abziehvorrichtung wird mit Schraubenschlüssel SW 32 angezogen.", "runs": [{"text": "Die Schutzkappe mit Dichtring (Simmerring), Druckring, Nadellager, Abstandbuchse, Führungsring und Lagerring abziehen. Die Spindel der Abziehvorrichtung wird mit Schraubenschlüssel SW 32 angezogen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p053-para01", "text": {"de": {"plain": "Abziehvorrichtung zum Ausbau der Schwingarmlager, Zeichn. 5a, S. 90.", "runs": [{"text": "Abziehvorrichtung zum Ausbau der Schwingarmlager, Zeichn. 5a, S. 90.", "bold": false}]}, "en-GB": {"plain": "Puller for removing the swing-arm bearings, drawing 5a, p. 90.", "runs": [{"text": "Puller for removing the swing-arm bearings, drawing 5a, p. 90.", "bold": false}]}, "es-ES": {"plain": "Extractor para el desmontaje de los cojinetes del brazo oscilante, plano 5a, p. 90.", "runs": [{"text": "Extractor para el desmontaje de los cojinetes del brazo oscilante, plano 5a, p. 90.", "bold": false}]}}},
+    {"id": "d65250a-p053-para02", "text": {"de": {"plain": "Abziehvorrichtung aufsetzen.", "runs": [{"text": "Abziehvorrichtung aufsetzen.", "bold": false}]}, "en-GB": {"plain": "Fit the puller in place.", "runs": [{"text": "Fit the puller in place.", "bold": false}]}, "es-ES": {"plain": "Colocar el extractor.", "runs": [{"text": "Colocar el extractor.", "bold": false}]}}},
+    {"id": "d65250a-p053-para03", "text": {"de": {"plain": "Die Schutzkappe mit Dichtring (Simmerring), Druckring, Nadellager, Abstandbuchse, Führungsring und Lagerring abziehen. Die Spindel der Abziehvorrichtung wird mit Schraubenschlüssel SW 32 angezogen.", "runs": [{"text": "Die Schutzkappe mit Dichtring (Simmerring), Druckring, Nadellager, Abstandbuchse, Führungsring und Lagerring abziehen. Die Spindel der Abziehvorrichtung wird mit Schraubenschlüssel SW 32 angezogen.", "bold": false}]}, "en-GB": {"plain": "Pull off the protective cap together with the sealing ring (Simmerring), thrust ring, needle bearing, spacer sleeve, guide ring and bearing ring. The spindle of the puller is tightened with a SW 32 spanner.", "runs": [{"text": "Pull off the protective cap together with the sealing ring (Simmerring), thrust ring, needle bearing, spacer sleeve, guide ring and bearing ring. The spindle of the puller is tightened with a SW 32 spanner.", "bold": false}]}, "es-ES": {"plain": "Extraer la caperuza protectora junto con el anillo obturador (simmerring), el anillo de presión, el cojinete de agujas, el manguito distanciador, el anillo guía y el anillo de cojinete. El husillo del extractor se aprieta con una llave SW 32.", "runs": [{"text": "Extraer la caperuza protectora junto con el anillo obturador (simmerring), el anillo de presión, el cojinete de agujas, el manguito distanciador, el anillo guía y el anillo de cojinete. El husillo del extractor se aprieta con una llave SW 32.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-078", "number": 78, "status": "draft", "captions": {"de": {"plain": "Bild 78", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-079", "number": 79, "status": "draft", "captions": {"de": {"plain": "Bild 79", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-078", "number": 78, "status": "draft", "captions": {"de": {"plain": "Bild 78", "runs": []}, "en-GB": {"plain": "Figure 78", "runs": []}, "es-ES": {"plain": "Figura 78", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-079", "number": 79, "status": "draft", "captions": {"de": {"plain": "Bild 79", "runs": []}, "en-GB": {"plain": "Figure 79", "runs": []}, "es-ES": {"plain": "Figura 79", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

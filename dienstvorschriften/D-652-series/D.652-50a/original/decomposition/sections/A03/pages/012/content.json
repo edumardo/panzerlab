@@ -5,7 +5,7 @@
   "page": 12,
   "section": "A03",
   "type": "figures",
-  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": "Continued: 3. Removal of the road wheel.", "es-ES": "Continuación: 3. Desmontaje de la rueda de rodadura."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 7,
@@ -14,11 +14,11 @@
   },
   "navigation": {"previous": "d65250a-page-011", "next": "d65250a-page-013"},
   "paragraphs": [
-    {"id": "d65250a-p012-para01", "text": {"de": {"plain": "Die Kronenmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Kronenmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p012-para01", "text": {"de": {"plain": "Die Kronenmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Kronenmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the castle nut with a SW 60 spanner.", "runs": [{"text": "Unscrew the castle nut with a SW 60 spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar la tuerca almenada con una llave SW 60.", "runs": [{"text": "Desenroscar la tuerca almenada con una llave SW 60.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-015", "number": 15, "status": "draft", "captions": {"de": {"plain": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.", "runs": [{"text": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-016", "number": 16, "status": "draft", "captions": {"de": {"plain": "Den Splint mit Dorn und Hammer entfernen.", "runs": [{"text": "Den Splint mit Dorn und Hammer entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-015", "number": 15, "status": "draft", "captions": {"de": {"plain": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.", "runs": [{"text": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the split pin of the castle nut using a hammer and chisel.", "runs": [{"text": "Straighten the split pin of the castle nut using a hammer and chisel.", "bold": false}]}, "es-ES": {"plain": "Enderezar el pasador de aletas de la tuerca almenada con martillo y cincel.", "runs": [{"text": "Enderezar el pasador de aletas de la tuerca almenada con martillo y cincel.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-016", "number": 16, "status": "draft", "captions": {"de": {"plain": "Den Splint mit Dorn und Hammer entfernen.", "runs": [{"text": "Den Splint mit Dorn und Hammer entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the split pin with a drift and hammer.", "runs": [{"text": "Remove the split pin with a drift and hammer.", "bold": false}]}, "es-ES": {"plain": "Retirar el pasador de aletas con un botador y un martillo.", "runs": [{"text": "Retirar el pasador de aletas con un botador y un martillo.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

@@ -5,7 +5,7 @@
   "page": 61,
   "section": "A21",
   "type": "text",
-  "titles": {"de": "Noch: 21. Einbau des Leitrades.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 21. Einbau des Leitrades.", "en-GB": "Continued: 21. Installation of the idler wheel.", "es-ES": "Continuación: 21. Montaje de la rueda tensora."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 32,
@@ -14,11 +14,11 @@
   },
   "navigation": {"previous": "d65250a-page-060", "next": "d65250a-page-062"},
   "paragraphs": [
-    {"id": "d65250a-p061-para01", "text": {"de": {"plain": "Den Schulterring, die Druckscheibe und das Sicherungsblech (Bild 86) auf den Achsstummel aufbringen.", "runs": [{"text": "Den Schulterring, die Druckscheibe und das Sicherungsblech (Bild 86) auf den Achsstummel aufbringen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p061-para02", "text": {"de": {"plain": "Die Mutter mit Steckschlüssel SW 95 aufschrauben.", "runs": [{"text": "Die Mutter mit Steckschlüssel SW 95 aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p061-para03", "text": {"de": {"plain": "Die Mutter durch Blechsicherung sichern.", "runs": [{"text": "Die Mutter durch Blechsicherung sichern.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p061-para04", "text": {"de": {"plain": "Die Schutzkappe mit Abschmierfett füllen. Schutzkappe befestigen. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Die Schutzkappe mit Abschmierfett füllen. Schutzkappe befestigen. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p061-para01", "text": {"de": {"plain": "Den Schulterring, die Druckscheibe und das Sicherungsblech (Bild 86) auf den Achsstummel aufbringen.", "runs": [{"text": "Den Schulterring, die Druckscheibe und das Sicherungsblech (Bild 86) auf den Achsstummel aufbringen.", "bold": false}]}, "en-GB": {"plain": "Fit the shoulder ring, the thrust washer and the locking plate (Figure 86) onto the stub axle.", "runs": [{"text": "Fit the shoulder ring, the thrust washer and the locking plate (Figure 86) onto the stub axle.", "bold": false}]}, "es-ES": {"plain": "Colocar el anillo de tope, la arandela de presión y la chapa de seguridad (Figura 86) sobre el muñón de eje.", "runs": [{"text": "Colocar el anillo de tope, la arandela de presión y la chapa de seguridad (Figura 86) sobre el muñón de eje.", "bold": false}]}}},
+    {"id": "d65250a-p061-para02", "text": {"de": {"plain": "Die Mutter mit Steckschlüssel SW 95 aufschrauben.", "runs": [{"text": "Die Mutter mit Steckschlüssel SW 95 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the nut using a SW 95 socket spanner.", "runs": [{"text": "Screw on the nut using a SW 95 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la tuerca con una llave de vaso SW 95.", "runs": [{"text": "Enroscar la tuerca con una llave de vaso SW 95.", "bold": false}]}}},
+    {"id": "d65250a-p061-para03", "text": {"de": {"plain": "Die Mutter durch Blechsicherung sichern.", "runs": [{"text": "Die Mutter durch Blechsicherung sichern.", "bold": false}]}, "en-GB": {"plain": "Secure the nut with a sheet-metal lock.", "runs": [{"text": "Secure the nut with a sheet-metal lock.", "bold": false}]}, "es-ES": {"plain": "Asegurar la tuerca con una chapa de seguridad.", "runs": [{"text": "Asegurar la tuerca con una chapa de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p061-para04", "text": {"de": {"plain": "Die Schutzkappe mit Abschmierfett füllen. Schutzkappe befestigen. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Die Schutzkappe mit Abschmierfett füllen. Schutzkappe befestigen. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": {"plain": "Fill the protective cap with lubricating grease. Fit the protective cap. The fixing bolts are tightened with a SW 19 socket spanner and secured with sheet-metal locks.", "runs": [{"text": "Fill the protective cap with lubricating grease. Fit the protective cap. The fixing bolts are tightened with a SW 19 socket spanner and secured with sheet-metal locks.", "bold": false}]}, "es-ES": {"plain": "Llenar la tapa protectora con grasa lubricante. Fijar la tapa protectora. Los tornillos de fijación se aprietan con una llave de vaso SW 19 y se asegura con chapas de seguridad.", "runs": [{"text": "Llenar la tapa protectora con grasa lubricante. Fijar la tapa protectora. Los tornillos de fijación se aprietan con una llave de vaso SW 19 y se asegura con chapas de seguridad.", "bold": false}]}}}
   ],
   "figures": [],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "not_applicable"}
 }

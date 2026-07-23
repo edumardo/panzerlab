@@ -5,7 +5,7 @@
   "page": 27,
   "section": "A08",
   "type": "text",
-  "titles": {"de": "8. Ausbau der Innenringe der Laufrollenlager", "en-GB": null, "es-ES": null},
+  "titles": {"de": "8. Ausbau der Innenringe der Laufrollenlager", "en-GB": "8. Removal of the inner races of the road-wheel bearings", "es-ES": "8. Desmontaje de los anillos interiores de los cojinetes de la rueda de rodadura"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 15,
@@ -14,12 +14,12 @@
   },
   "navigation": {"previous": "d65250a-page-026", "next": "d65250a-page-028"},
   "paragraphs": [
-    {"id": "d65250a-p027-para01", "text": {"de": {"plain": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "runs": [{"text": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p027-para02", "text": {"de": {"plain": "Den vorderen Lagerring vom Achsstummel abziehen. Die Spindel wird mit Schraubenschlüssel SW 32 gedreht.", "runs": [{"text": "Den vorderen Lagerring vom Achsstummel abziehen. Die Spindel wird mit Schraubenschlüssel SW 32 gedreht.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p027-para01", "text": {"de": {"plain": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "runs": [{"text": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": {"plain": "Remove the road wheel as described in Section 3, p. 10.", "runs": [{"text": "Remove the road wheel as described in Section 3, p. 10.", "bold": false}]}, "es-ES": {"plain": "Desmontar la rueda de rodadura según el apartado 3, p. 10.", "runs": [{"text": "Desmontar la rueda de rodadura según el apartado 3, p. 10.", "bold": false}]}}},
+    {"id": "d65250a-p027-para02", "text": {"de": {"plain": "Den vorderen Lagerring vom Achsstummel abziehen. Die Spindel wird mit Schraubenschlüssel SW 32 gedreht.", "runs": [{"text": "Den vorderen Lagerring vom Achsstummel abziehen. Die Spindel wird mit Schraubenschlüssel SW 32 gedreht.", "bold": false}]}, "en-GB": {"plain": "Pull the front bearing race off the axle stub. The spindle is turned using a spanner SW 32.", "runs": [{"text": "Pull the front bearing race off the axle stub. The spindle is turned using a spanner SW 32.", "bold": false}]}, "es-ES": {"plain": "Extraer el anillo del cojinete delantero del muñón del eje. El husillo se gira con una llave SW 32.", "runs": [{"text": "Extraer el anillo del cojinete delantero del muñón del eje. El husillo se gira con una llave SW 32.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-039", "number": 39, "status": "draft", "captions": {"de": {"plain": "Abziehvorrichtung zum Ausbau der vorderen Innenringe der Laufrollenlager, Zeichn. 5, S. 89.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-040", "number": 40, "status": "draft", "captions": {"de": {"plain": "Die Abziehvorrichtung für den vorderen Lagerring ansetzen.", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-039", "number": 39, "status": "draft", "captions": {"de": {"plain": "Abziehvorrichtung zum Ausbau der vorderen Innenringe der Laufrollenlager, Zeichn. 5, S. 89.", "runs": []}, "en-GB": {"plain": "Puller for removing the front inner races of the road-wheel bearings, Drawing 5, p. 89.", "runs": []}, "es-ES": {"plain": "Extractor para el desmontaje de los anillos interiores delanteros de los cojinetes de la rueda de rodadura, plano 5, p. 89.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-040", "number": 40, "status": "draft", "captions": {"de": {"plain": "Die Abziehvorrichtung für den vorderen Lagerring ansetzen.", "runs": []}, "en-GB": {"plain": "Attach the puller to the front bearing race.", "runs": []}, "es-ES": {"plain": "Colocar el extractor en el anillo del cojinete delantero.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

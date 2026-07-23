@@ -5,7 +5,7 @@
   "page": 64,
   "section": "A22",
   "type": "figures",
-  "titles": {"de": "Noch: 22. Ausbau der Leitradkurbel.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 22. Ausbau der Leitradkurbel.", "en-GB": "(continued) 22. Removal of the idler crank.", "es-ES": "(continuación de:) 22. Desmontaje de la manivela de la rueda tensora."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 33,
@@ -15,8 +15,8 @@
   "navigation": {"previous": "d65250a-page-063", "next": "d65250a-page-065"},
   "paragraphs": [],
   "figures": [
-    {"id": "d65250a-bild-092", "number": 92, "status": "draft", "captions": {"de": {"plain": "Beide Führungsringhälften entfernen.", "runs": [{"text": "Beide Führungsringhälften entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-093", "number": 93, "status": "draft", "captions": {"de": {"plain": "Leitradkurbel aus der Lagerhülse ziehen.", "runs": [{"text": "Leitradkurbel aus der Lagerhülse ziehen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-092", "number": 92, "status": "draft", "captions": {"de": {"plain": "Beide Führungsringhälften entfernen.", "runs": [{"text": "Beide Führungsringhälften entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove both halves of the guide ring.", "runs": [{"text": "Remove both halves of the guide ring.", "bold": false}]}, "es-ES": {"plain": "Retirar ambas mitades del anillo guía.", "runs": [{"text": "Retirar ambas mitades del anillo guía.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-093", "number": 93, "status": "draft", "captions": {"de": {"plain": "Leitradkurbel aus der Lagerhülse ziehen.", "runs": [{"text": "Leitradkurbel aus der Lagerhülse ziehen.", "bold": false}]}, "en-GB": {"plain": "Pull the idler crank out of the bearing sleeve.", "runs": [{"text": "Pull the idler crank out of the bearing sleeve.", "bold": false}]}, "es-ES": {"plain": "Extraer la manivela de la rueda tensora del manguito de cojinete.", "runs": [{"text": "Extraer la manivela de la rueda tensora del manguito de cojinete.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

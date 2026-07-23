@@ -5,7 +5,7 @@
   "page": 38,
   "section": "A11",
   "type": "figures",
-  "titles": {"de": "Noch: 11. Einbau des Schwingungsdämpfers.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 11. Einbau des Schwingungsdämpfers.", "en-GB": "(continued) 11. Fitting the vibration damper.", "es-ES": "(continuación de:) 11. Montaje del amortiguador de vibraciones."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 20,
@@ -14,11 +14,11 @@
   },
   "navigation": {"previous": "d65250a-page-037", "next": "d65250a-page-039"},
   "paragraphs": [
-    {"id": "d65250a-p038-para01", "text": {"de": {"plain": "Beachten: Der Einschnitt für das Sicherungsblech muß nach oben zeigen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Der Einschnitt für das Sicherungsblech muß nach oben zeigen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p038-para01", "text": {"de": {"plain": "Beachten: Der Einschnitt für das Sicherungsblech muß nach oben zeigen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Der Einschnitt für das Sicherungsblech muß nach oben zeigen.", "bold": false}]}, "en-GB": {"plain": "Note: The slot for the sheet-metal lock must face upward.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The slot for the sheet-metal lock must face upward.", "bold": false}]}, "es-ES": {"plain": "Nota: La ranura para la chapa de seguridad debe quedar orientada hacia arriba.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "La ranura para la chapa de seguridad debe quedar orientada hacia arriba.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-054", "number": 54, "status": "draft", "captions": {"de": {"plain": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.", "runs": [{"text": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-055", "number": 55, "status": "draft", "captions": {"de": {"plain": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.", "runs": [{"text": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-054", "number": 54, "status": "draft", "captions": {"de": {"plain": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.", "runs": [{"text": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.", "bold": false}]}, "en-GB": {"plain": "Align the vibration-damper fork and the swing-arm eye using aligning mandrel No. III DB 128.", "runs": [{"text": "Align the vibration-damper fork and the swing-arm eye using aligning mandrel No. III DB 128.", "bold": false}]}, "es-ES": {"plain": "Alinear la horquilla del amortiguador de vibraciones y el ojo del brazo oscilante con la ayuda del mandril de alineación n.º III DB 128.", "runs": [{"text": "Alinear la horquilla del amortiguador de vibraciones y el ojo del brazo oscilante con la ayuda del mandril de alineación n.º III DB 128.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-055", "number": 55, "status": "draft", "captions": {"de": {"plain": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.", "runs": [{"text": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.", "bold": false}]}, "en-GB": {"plain": "Drive in the vibration-damper pin using a hammer and a wooden block. The vibration-damper pin is coated with oil beforehand.", "runs": [{"text": "Drive in the vibration-damper pin using a hammer and a wooden block. The vibration-damper pin is coated with oil beforehand.", "bold": false}]}, "es-ES": {"plain": "Introducir el perno del amortiguador de vibraciones a martillazos con un taco de madera. El perno del amortiguador de vibraciones se recubre previamente de aceite.", "runs": [{"text": "Introducir el perno del amortiguador de vibraciones a martillazos con un taco de madera. El perno del amortiguador de vibraciones se recubre previamente de aceite.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

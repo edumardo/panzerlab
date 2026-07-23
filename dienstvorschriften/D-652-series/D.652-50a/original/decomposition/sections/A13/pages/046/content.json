@@ -5,7 +5,7 @@
   "page": 46,
   "section": "A13",
   "type": "text",
-  "titles": {"de": "13. Einbau der Drehstabfeder", "en-GB": null, "es-ES": null},
+  "titles": {"de": "13. Einbau der Drehstabfeder", "en-GB": "13. Fitting the torsion-bar spring", "es-ES": "13. Montaje de la barra de torsión"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 24,
@@ -14,12 +14,12 @@
   },
   "navigation": {"previous": "d65250a-page-045", "next": "d65250a-page-047"},
   "paragraphs": [
-    {"id": "d65250a-p046-para01", "text": {"de": {"plain": "Die Drehstabfeder von Hand in den Schwingarm einführen. Zum besseren Halt kann die Spindel der Abziehvorrichtung Nr. III DB 101 aufgeschraubt werden.", "runs": [{"text": "Die Drehstabfeder von Hand in den Schwingarm einführen. Zum besseren Halt kann die Spindel der Abziehvorrichtung Nr. III DB 101 aufgeschraubt werden.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p046-para02", "text": {"de": {"plain": "Beachten: Die Oberkante der Schwingarmführung muß mit der Unterkante der Panzerwanne übereinstimmen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Oberkante der Schwingarmführung muß mit der Unterkante der Panzerwanne übereinstimmen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p046-para01", "text": {"de": {"plain": "Die Drehstabfeder von Hand in den Schwingarm einführen. Zum besseren Halt kann die Spindel der Abziehvorrichtung Nr. III DB 101 aufgeschraubt werden.", "runs": [{"text": "Die Drehstabfeder von Hand in den Schwingarm einführen. Zum besseren Halt kann die Spindel der Abziehvorrichtung Nr. III DB 101 aufgeschraubt werden.", "bold": false}]}, "en-GB": {"plain": "Insert the torsion-bar spring into the swing arm by hand. For a better grip, the spindle of puller No. III DB 101 can be screwed on.", "runs": [{"text": "Insert the torsion-bar spring into the swing arm by hand. For a better grip, the spindle of puller No. III DB 101 can be screwed on.", "bold": false}]}, "es-ES": {"plain": "Introducir a mano la barra de torsión en el brazo oscilante. Para un mejor agarre, se puede enroscar el husillo del extractor n.º III DB 101.", "runs": [{"text": "Introducir a mano la barra de torsión en el brazo oscilante. Para un mejor agarre, se puede enroscar el husillo del extractor n.º III DB 101.", "bold": false}]}}},
+    {"id": "d65250a-p046-para02", "text": {"de": {"plain": "Beachten: Die Oberkante der Schwingarmführung muß mit der Unterkante der Panzerwanne übereinstimmen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Oberkante der Schwingarmführung muß mit der Unterkante der Panzerwanne übereinstimmen.", "bold": false}]}, "en-GB": {"plain": "Note: The top edge of the swing-arm guide must align with the bottom edge of the tank hull.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The top edge of the swing-arm guide must align with the bottom edge of the tank hull.", "bold": false}]}, "es-ES": {"plain": "Nota: El borde superior de la guía del brazo oscilante debe coincidir con el borde inferior del casco del carro.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "El borde superior de la guía del brazo oscilante debe coincidir con el borde inferior del casco del carro.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-068", "number": 68, "status": "draft", "captions": {"de": {"plain": "Bild 68", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-069", "number": 69, "status": "draft", "captions": {"de": {"plain": "Bild 69", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-068", "number": 68, "status": "draft", "captions": {"de": {"plain": "Bild 68", "runs": []}, "en-GB": {"plain": "Figure 68", "runs": []}, "es-ES": {"plain": "Figura 68", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-069", "number": 69, "status": "draft", "captions": {"de": {"plain": "Bild 69", "runs": []}, "en-GB": {"plain": "Figure 69", "runs": []}, "es-ES": {"plain": "Figura 69", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

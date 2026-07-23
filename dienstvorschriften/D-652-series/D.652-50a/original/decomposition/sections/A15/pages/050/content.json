@@ -5,7 +5,7 @@
   "page": 50,
   "section": "A15",
   "type": "text",
-  "titles": {"de": "15. Einbau des Schwingarmes", "en-GB": null, "es-ES": null},
+  "titles": {"de": "15. Einbau des Schwingarmes", "en-GB": "15. Fitting the swing arm", "es-ES": "15. Montaje del brazo oscilante"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 26,
@@ -14,11 +14,11 @@
   },
   "navigation": {"previous": "d65250a-page-049", "next": "d65250a-page-051"},
   "paragraphs": [
-    {"id": "d65250a-p050-para01", "text": {"de": {"plain": "Den Schwingarm vorsichtig von Hand in seine Lagerung einführen.", "runs": [{"text": "Den Schwingarm vorsichtig von Hand in seine Lagerung einführen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p050-para02", "text": {"de": {"plain": "Drehstabfeder nach Abschn. 13, S. 47, einbauen.", "runs": [{"text": "Drehstabfeder nach Abschn. 13, S. 47, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p050-para01", "text": {"de": {"plain": "Den Schwingarm vorsichtig von Hand in seine Lagerung einführen.", "runs": [{"text": "Den Schwingarm vorsichtig von Hand in seine Lagerung einführen.", "bold": false}]}, "en-GB": {"plain": "Carefully insert the swing arm into its bearing by hand.", "runs": [{"text": "Carefully insert the swing arm into its bearing by hand.", "bold": false}]}, "es-ES": {"plain": "Introducir con cuidado el brazo oscilante en su cojinete a mano.", "runs": [{"text": "Introducir con cuidado el brazo oscilante en su cojinete a mano.", "bold": false}]}}},
+    {"id": "d65250a-p050-para02", "text": {"de": {"plain": "Drehstabfeder nach Abschn. 13, S. 47, einbauen.", "runs": [{"text": "Drehstabfeder nach Abschn. 13, S. 47, einbauen.", "bold": false}]}, "en-GB": {"plain": "Fit the torsion-bar spring as described in Section 13, p. 47.", "runs": [{"text": "Fit the torsion-bar spring as described in Section 13, p. 47.", "bold": false}]}, "es-ES": {"plain": "Montar la barra de torsión según el apartado 13, p. 47.", "runs": [{"text": "Montar la barra de torsión según el apartado 13, p. 47.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-073", "number": 73, "status": "draft", "captions": {"de": {"plain": "Bild 73", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-073", "number": 73, "status": "draft", "captions": {"de": {"plain": "Bild 73", "runs": []}, "en-GB": {"plain": "Figure 73", "runs": []}, "es-ES": {"plain": "Figura 73", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

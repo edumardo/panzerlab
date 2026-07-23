@@ -5,7 +5,7 @@
   "page": 58,
   "section": "A20",
   "type": "text",
-  "titles": {"de": "20. Ausbau des Leitrades", "en-GB": null, "es-ES": null},
+  "titles": {"de": "20. Ausbau des Leitrades", "en-GB": "20. Removal of the idler wheel", "es-ES": "20. Desmontaje de la rueda tensora"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 30,
@@ -14,16 +14,16 @@
   },
   "navigation": {"previous": "d65250a-page-057", "next": "d65250a-page-059"},
   "paragraphs": [
-    {"id": "d65250a-p058-para01", "text": {"de": {"plain": "Gleiskette von Leitrad abnehmen.", "runs": [{"text": "Gleiskette von Leitrad abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p058-para02", "text": {"de": {"plain": "Die Blechsicherungen geradebiegen.", "runs": [{"text": "Die Blechsicherungen geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p058-para03", "text": {"de": {"plain": "Die Schrauben mit Steckschlüssel SW 19 abschrauben.", "runs": [{"text": "Die Schrauben mit Steckschlüssel SW 19 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p058-para04", "text": {"de": {"plain": "Den Abschlußdeckel abnehmen.", "runs": [{"text": "Den Abschlußdeckel abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p058-para05", "text": {"de": {"plain": "Blechsicherung geradebiegen.", "runs": [{"text": "Blechsicherung geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p058-para06", "text": {"de": {"plain": "Die Mutter mit Steckschlüssel SW 95 abschrauben.", "runs": [{"text": "Die Mutter mit Steckschlüssel SW 95 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p058-para01", "text": {"de": {"plain": "Gleiskette von Leitrad abnehmen.", "runs": [{"text": "Gleiskette von Leitrad abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the track from the idler wheel.", "runs": [{"text": "Remove the track from the idler wheel.", "bold": false}]}, "es-ES": {"plain": "Retirar la cadena de oruga de la rueda tensora.", "runs": [{"text": "Retirar la cadena de oruga de la rueda tensora.", "bold": false}]}}},
+    {"id": "d65250a-p058-para02", "text": {"de": {"plain": "Die Blechsicherungen geradebiegen.", "runs": [{"text": "Die Blechsicherungen geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the sheet-metal locks.", "runs": [{"text": "Straighten the sheet-metal locks.", "bold": false}]}, "es-ES": {"plain": "Enderezar las chapas de seguridad.", "runs": [{"text": "Enderezar las chapas de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p058-para03", "text": {"de": {"plain": "Die Schrauben mit Steckschlüssel SW 19 abschrauben.", "runs": [{"text": "Die Schrauben mit Steckschlüssel SW 19 abschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the bolts using a SW 19 socket spanner.", "runs": [{"text": "Unscrew the bolts using a SW 19 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar los tornillos con una llave de vaso SW 19.", "runs": [{"text": "Desenroscar los tornillos con una llave de vaso SW 19.", "bold": false}]}}},
+    {"id": "d65250a-p058-para04", "text": {"de": {"plain": "Den Abschlußdeckel abnehmen.", "runs": [{"text": "Den Abschlußdeckel abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the end cover.", "runs": [{"text": "Remove the end cover.", "bold": false}]}, "es-ES": {"plain": "Retirar la tapa de cierre.", "runs": [{"text": "Retirar la tapa de cierre.", "bold": false}]}}},
+    {"id": "d65250a-p058-para05", "text": {"de": {"plain": "Blechsicherung geradebiegen.", "runs": [{"text": "Blechsicherung geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the sheet-metal lock.", "runs": [{"text": "Straighten the sheet-metal lock.", "bold": false}]}, "es-ES": {"plain": "Enderezar la chapa de seguridad.", "runs": [{"text": "Enderezar la chapa de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p058-para06", "text": {"de": {"plain": "Die Mutter mit Steckschlüssel SW 95 abschrauben.", "runs": [{"text": "Die Mutter mit Steckschlüssel SW 95 abschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the nut using a SW 95 socket spanner.", "runs": [{"text": "Unscrew the nut using a SW 95 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar la tuerca con una llave de vaso SW 95.", "runs": [{"text": "Desenroscar la tuerca con una llave de vaso SW 95.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-084", "number": 84, "status": "draft", "captions": {"de": {"plain": "Bild 84", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-085", "number": 85, "status": "draft", "captions": {"de": {"plain": "Bild 85", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-084", "number": 84, "status": "draft", "captions": {"de": {"plain": "Bild 84", "runs": []}, "en-GB": {"plain": "Figure 84", "runs": []}, "es-ES": {"plain": "Figura 84", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-085", "number": 85, "status": "draft", "captions": {"de": {"plain": "Bild 85", "runs": []}, "en-GB": {"plain": "Figure 85", "runs": []}, "es-ES": {"plain": "Figura 85", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

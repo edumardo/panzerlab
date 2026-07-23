@@ -5,7 +5,7 @@
   "page": 70,
   "section": "A25",
   "type": "figures",
-  "titles": {"de": "25. Ausbau der Scherscheibe an dem Kettenspanner älterer Ausführung", "en-GB": null, "es-ES": null},
+  "titles": {"de": "25. Ausbau der Scherscheibe an dem Kettenspanner älterer Ausführung", "en-GB": "25. Removal of the shear disc on the older-type track tensioner", "es-ES": "25. Desmontaje del disco de cizalla en el tensor de cadena de tipo más antiguo"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 36,
@@ -15,8 +15,8 @@
   "navigation": {"previous": "d65250a-page-069", "next": "d65250a-page-071"},
   "paragraphs": [],
   "figures": [
-    {"id": "d65250a-bild-102", "number": 102, "status": "draft", "captions": {"de": {"plain": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-103", "number": 103, "status": "draft", "captions": {"de": {"plain": "Die Spannmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Spannmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-102", "number": 102, "status": "draft", "captions": {"de": {"plain": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": {"plain": "Straighten the sheet-metal lock. Unscrew the counter nut with a SW 60 spanner.", "runs": [{"text": "Straighten the sheet-metal lock. Unscrew the counter nut with a SW 60 spanner.", "bold": false}]}, "es-ES": {"plain": "Enderezar la chapa de seguridad. Desenroscar la contratuerca con una llave SW 60.", "runs": [{"text": "Enderezar la chapa de seguridad. Desenroscar la contratuerca con una llave SW 60.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-103", "number": 103, "status": "draft", "captions": {"de": {"plain": "Die Spannmutter mit Schraubenschlüssel SW 60 abschrauben.", "runs": [{"text": "Die Spannmutter mit Schraubenschlüssel SW 60 abschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the tensioning nut with a SW 60 spanner.", "runs": [{"text": "Unscrew the tensioning nut with a SW 60 spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar la tuerca tensora con una llave SW 60.", "runs": [{"text": "Desenroscar la tuerca tensora con una llave SW 60.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

@@ -5,7 +5,7 @@
   "page": 35,
   "section": "A10",
   "type": "figures",
-  "titles": {"de": "Noch: 10. Ausbau des Schwingungsdämpfers.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 10. Ausbau des Schwingungsdämpfers.", "en-GB": "(Continued) 10. Removal of the vibration damper.", "es-ES": "(Continuación de:) 10. Desmontaje del amortiguador de vibraciones."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 19,
@@ -14,12 +14,12 @@
   },
   "navigation": {"previous": "d65250a-page-034", "next": "d65250a-page-036"},
   "paragraphs": [
-    {"id": "d65250a-p035-para01", "text": {"de": {"plain": "Das Sicherungsblech entfernen.", "runs": [{"text": "Das Sicherungsblech entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p035-para02", "text": {"de": {"plain": "Die Spindel der Abziehvorrichtung III DB 138 bis zum Bund in das Gewinde des vorher entfernten Druckschmierkopfes einschrauben. Der Schraubenschlüssel SW 14 wird am Vierkant angesetzt.", "runs": [{"text": "Die Spindel der Abziehvorrichtung III DB 138 bis zum Bund in das Gewinde des vorher entfernten Druckschmierkopfes einschrauben. Der Schraubenschlüssel SW 14 wird am Vierkant angesetzt.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p035-para01", "text": {"de": {"plain": "Das Sicherungsblech entfernen.", "runs": [{"text": "Das Sicherungsblech entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the locking plate.", "runs": [{"text": "Remove the locking plate.", "bold": false}]}, "es-ES": {"plain": "Retirar la chapa de seguridad.", "runs": [{"text": "Retirar la chapa de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p035-para02", "text": {"de": {"plain": "Die Spindel der Abziehvorrichtung III DB 138 bis zum Bund in das Gewinde des vorher entfernten Druckschmierkopfes einschrauben. Der Schraubenschlüssel SW 14 wird am Vierkant angesetzt.", "runs": [{"text": "Die Spindel der Abziehvorrichtung III DB 138 bis zum Bund in das Gewinde des vorher entfernten Druckschmierkopfes einschrauben. Der Schraubenschlüssel SW 14 wird am Vierkant angesetzt.", "bold": false}]}, "en-GB": {"plain": "Screw the spindle of the III DB 138 puller into the thread of the previously removed grease nipple as far as the collar. The SW 14 spanner is applied to the square section.", "runs": [{"text": "Screw the spindle of the III DB 138 puller into the thread of the previously removed grease nipple as far as the collar. The SW 14 spanner is applied to the square section.", "bold": false}]}, "es-ES": {"plain": "Enroscar el husillo del extractor III DB 138 hasta el collarín en la rosca de la boquilla de engrase retirada previamente. La llave SW 14 se aplica en la sección cuadrada.", "runs": [{"text": "Enroscar el husillo del extractor III DB 138 hasta el collarín en la rosca de la boquilla de engrase retirada previamente. La llave SW 14 se aplica en la sección cuadrada.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-050", "number": 50, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-051", "number": 51, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-050", "number": 50, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-051", "number": 51, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

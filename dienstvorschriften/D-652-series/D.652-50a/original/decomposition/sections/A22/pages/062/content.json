@@ -5,7 +5,7 @@
   "page": 62,
   "section": "A22",
   "type": "text",
-  "titles": {"de": "22. Ausbau der Leitradkurbel", "en-GB": null, "es-ES": null},
+  "titles": {"de": "22. Ausbau der Leitradkurbel", "en-GB": "22. Removal of the idler crank", "es-ES": "22. Desmontaje de la manivela de la rueda tensora"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 32,
@@ -14,13 +14,13 @@
   },
   "navigation": {"previous": "d65250a-page-061", "next": "d65250a-page-063"},
   "paragraphs": [
-    {"id": "d65250a-p062-para01", "text": {"de": {"plain": "Leitrad nach Abschn. 20, S. 59, ausbauen.", "runs": [{"text": "Leitrad nach Abschn. 20, S. 59, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p062-para02", "text": {"de": {"plain": "Den Seegerring an der Zugspindel des Kettenspanners mit Flachzange entfernen.", "runs": [{"text": "Den Seegerring an der Zugspindel des Kettenspanners mit Flachzange entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p062-para03", "text": {"de": {"plain": "Den Schlauchbinder, das Stahlband und das Gummiband abnehmen.", "runs": [{"text": "Den Schlauchbinder, das Stahlband und das Gummiband abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p062-para01", "text": {"de": {"plain": "Leitrad nach Abschn. 20, S. 59, ausbauen.", "runs": [{"text": "Leitrad nach Abschn. 20, S. 59, ausbauen.", "bold": false}]}, "en-GB": {"plain": "Remove the idler wheel as described in Section 20, p. 59.", "runs": [{"text": "Remove the idler wheel as described in Section 20, p. 59.", "bold": false}]}, "es-ES": {"plain": "Desmontar la rueda tensora según el apartado 20, p. 59.", "runs": [{"text": "Desmontar la rueda tensora según el apartado 20, p. 59.", "bold": false}]}}},
+    {"id": "d65250a-p062-para02", "text": {"de": {"plain": "Den Seegerring an der Zugspindel des Kettenspanners mit Flachzange entfernen.", "runs": [{"text": "Den Seegerring an der Zugspindel des Kettenspanners mit Flachzange entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the circlip on the tension spindle of the track tensioner using flat-nose pliers.", "runs": [{"text": "Remove the circlip on the tension spindle of the track tensioner using flat-nose pliers.", "bold": false}]}, "es-ES": {"plain": "Retirar el anillo de retención en el husillo tensor del tensor de cadena con alicates planos.", "runs": [{"text": "Retirar el anillo de retención en el husillo tensor del tensor de cadena con alicates planos.", "bold": false}]}}},
+    {"id": "d65250a-p062-para03", "text": {"de": {"plain": "Den Schlauchbinder, das Stahlband und das Gummiband abnehmen.", "runs": [{"text": "Den Schlauchbinder, das Stahlband und das Gummiband abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the hose clamp, the steel band and the rubber band.", "runs": [{"text": "Remove the hose clamp, the steel band and the rubber band.", "bold": false}]}, "es-ES": {"plain": "Retirar la abrazadera de manguera, la cinta de acero y la cinta de goma.", "runs": [{"text": "Retirar la abrazadera de manguera, la cinta de acero y la cinta de goma.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-088", "number": 88, "status": "draft", "captions": {"de": {"plain": "Bild 88", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-089", "number": 89, "status": "draft", "captions": {"de": {"plain": "Bild 89", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-088", "number": 88, "status": "draft", "captions": {"de": {"plain": "Bild 88", "runs": []}, "en-GB": {"plain": "Figure 88", "runs": []}, "es-ES": {"plain": "Figura 88", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-089", "number": 89, "status": "draft", "captions": {"de": {"plain": "Bild 89", "runs": []}, "en-GB": {"plain": "Figure 89", "runs": []}, "es-ES": {"plain": "Figura 89", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

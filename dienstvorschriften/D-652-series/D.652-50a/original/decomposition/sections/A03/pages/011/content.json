@@ -5,7 +5,7 @@
   "page": 11,
   "section": "A03",
   "type": "figures",
-  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": "Continued: 3. Removal of the road wheel.", "es-ES": "Continuación: 3. Desmontaje de la rueda de rodadura."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 7,
@@ -14,11 +14,11 @@
   },
   "navigation": {"previous": "d65250a-page-010", "next": "d65250a-page-012"},
   "paragraphs": [
-    {"id": "d65250a-p011-para01", "text": {"de": {"plain": "Beachten: Die Laufrolle muß zwei Finger breit über dem Führungssteg der Gleiskette schweben.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Laufrolle muß zwei Finger breit über dem Führungssteg der Gleiskette schweben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p011-para01", "text": {"de": {"plain": "Beachten: Die Laufrolle muß zwei Finger breit über dem Führungssteg der Gleiskette schweben.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Laufrolle muß zwei Finger breit über dem Führungssteg der Gleiskette schweben.", "bold": false}]}, "en-GB": {"plain": "Note: The road wheel must be suspended a two-finger width above the guide rib of the track.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The road wheel must be suspended a two-finger width above the guide rib of the track.", "bold": false}]}, "es-ES": {"plain": "Nota: La rueda de rodadura debe quedar suspendida a una anchura de dos dedos por encima del resalte guía de la cadena de oruga.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "La rueda de rodadura debe quedar suspendida a una anchura de dos dedos por encima del resalte guía de la cadena de oruga.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-013", "number": 13, "status": "draft", "captions": {"de": {"plain": "Die Laufrolle mit Winde anheben.", "runs": [{"text": "Die Laufrolle mit Winde anheben.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-014", "number": 14, "status": "draft", "captions": {"de": {"plain": "Den Schwingarm mit einem 380 mm hohen Holzklotz abstützen. Anschließend Winde und Steckgabel entfernen.", "runs": [{"text": "Den Schwingarm mit einem 380 mm hohen Holzklotz abstützen. Anschließend Winde und Steckgabel entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-013", "number": 13, "status": "draft", "captions": {"de": {"plain": "Die Laufrolle mit Winde anheben.", "runs": [{"text": "Die Laufrolle mit Winde anheben.", "bold": false}]}, "en-GB": {"plain": "Raise the road wheel with a jack.", "runs": [{"text": "Raise the road wheel with a jack.", "bold": false}]}, "es-ES": {"plain": "Levantar la rueda de rodadura con un gato.", "runs": [{"text": "Levantar la rueda de rodadura con un gato.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-014", "number": 14, "status": "draft", "captions": {"de": {"plain": "Den Schwingarm mit einem 380 mm hohen Holzklotz abstützen. Anschließend Winde und Steckgabel entfernen.", "runs": [{"text": "Den Schwingarm mit einem 380 mm hohen Holzklotz abstützen. Anschließend Winde und Steckgabel entfernen.", "bold": false}]}, "en-GB": {"plain": "Support the swing arm with a 380 mm high wooden block. Then remove the jack and puller fork.", "runs": [{"text": "Support the swing arm with a 380 mm high wooden block. Then remove the jack and puller fork.", "bold": false}]}, "es-ES": {"plain": "Apoyar el brazo oscilante sobre un tarugo de madera de 380 mm de altura. A continuación, retirar el gato y la horquilla extractora.", "runs": [{"text": "Apoyar el brazo oscilante sobre un tarugo de madera de 380 mm de altura. A continuación, retirar el gato y la horquilla extractora.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

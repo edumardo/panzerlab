@@ -5,7 +5,7 @@
   "page": 52,
   "section": "A16",
   "type": "text",
-  "titles": {"de": "Noch: 16. Ausbau der Schwingarmlager.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 16. Ausbau der Schwingarmlager.", "en-GB": "(continued) 16. Removing the swing-arm bearings.", "es-ES": "(continuación de:) 16. Desmontaje de los cojinetes del brazo oscilante."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 27,
@@ -14,12 +14,12 @@
   },
   "navigation": {"previous": "d65250a-page-051", "next": "d65250a-page-053"},
   "paragraphs": [
-    {"id": "d65250a-p052-para01", "text": {"de": {"plain": "Die Blechsicherung der Ringmutter mit Kreuzmeißes und Hammer geradebiegen.", "runs": [{"text": "Die Blechsicherung der Ringmutter mit Kreuzmeißes und Hammer geradebiegen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p052-para02", "text": {"de": {"plain": "Die Ringmutter mit Ringmutterschlüssel abschrauben.", "runs": [{"text": "Die Ringmutter mit Ringmutterschlüssel abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p052-para01", "text": {"de": {"plain": "Die Blechsicherung der Ringmutter mit Kreuzmeißes und Hammer geradebiegen.", "runs": [{"text": "Die Blechsicherung der Ringmutter mit Kreuzmeißes und Hammer geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the lock plate of the ring nut using a cross-cut chisel and hammer.", "runs": [{"text": "Straighten the lock plate of the ring nut using a cross-cut chisel and hammer.", "bold": false}]}, "es-ES": {"plain": "Enderezar la chapa de seguridad de la tuerca anular con un cortafríos cruzado y un martillo.", "runs": [{"text": "Enderezar la chapa de seguridad de la tuerca anular con un cortafríos cruzado y un martillo.", "bold": false}]}}},
+    {"id": "d65250a-p052-para02", "text": {"de": {"plain": "Die Ringmutter mit Ringmutterschlüssel abschrauben.", "runs": [{"text": "Die Ringmutter mit Ringmutterschlüssel abschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the ring nut using a ring-nut spanner.", "runs": [{"text": "Unscrew the ring nut using a ring-nut spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar la tuerca anular con una llave para tuercas anulares.", "runs": [{"text": "Desenroscar la tuerca anular con una llave para tuercas anulares.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-076", "number": 76, "status": "draft", "captions": {"de": {"plain": "Bild 76", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-077", "number": 77, "status": "draft", "captions": {"de": {"plain": "Bild 77", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-076", "number": 76, "status": "draft", "captions": {"de": {"plain": "Bild 76", "runs": []}, "en-GB": {"plain": "Figure 76", "runs": []}, "es-ES": {"plain": "Figura 76", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-077", "number": 77, "status": "draft", "captions": {"de": {"plain": "Bild 77", "runs": []}, "en-GB": {"plain": "Figure 77", "runs": []}, "es-ES": {"plain": "Figura 77", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

@@ -5,7 +5,7 @@
   "page": 67,
   "section": "A23",
   "type": "figures",
-  "titles": {"de": "Noch: 23. Einbau der Leitradkurbel.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 23. Einbau der Leitradkurbel.", "en-GB": "(continued) 23. Installation of the idler crank.", "es-ES": "(continuación de:) 23. Montaje de la manivela de la rueda tensora."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 35,
@@ -15,8 +15,8 @@
   "navigation": {"previous": "d65250a-page-066", "next": "d65250a-page-068"},
   "paragraphs": [],
   "figures": [
-    {"id": "d65250a-bild-097", "number": 97, "status": "draft", "captions": {"de": {"plain": "Das Stahlband mit Schlauchbinder befestigen.", "runs": [{"text": "Das Stahlband mit Schlauchbinder befestigen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-098", "number": 98, "status": "draft", "captions": {"de": {"plain": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.", "runs": [{"text": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-097", "number": 97, "status": "draft", "captions": {"de": {"plain": "Das Stahlband mit Schlauchbinder befestigen.", "runs": [{"text": "Das Stahlband mit Schlauchbinder befestigen.", "bold": false}]}, "en-GB": {"plain": "Secure the steel band with the hose clamp.", "runs": [{"text": "Secure the steel band with the hose clamp.", "bold": false}]}, "es-ES": {"plain": "Fijar la banda de acero con la abrazadera de manguera.", "runs": [{"text": "Fijar la banda de acero con la abrazadera de manguera.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-098", "number": 98, "status": "draft", "captions": {"de": {"plain": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.", "runs": [{"text": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.", "bold": false}]}, "en-GB": {"plain": "Secure the track tensioner with a circlip. Install the idler wheel as described in Section 21, p. 61.", "runs": [{"text": "Secure the track tensioner with a circlip. Install the idler wheel as described in Section 21, p. 61.", "bold": false}]}, "es-ES": {"plain": "Asegurar el tensor de cadena con un anillo de retención. Montar la rueda tensora según el apartado 21, p. 61.", "runs": [{"text": "Asegurar el tensor de cadena con un anillo de retención. Montar la rueda tensora según el apartado 21, p. 61.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

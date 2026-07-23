@@ -5,7 +5,7 @@
   "page": 28,
   "section": "A08",
   "type": "figures",
-  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": "(Continued) 8. Removal of the inner races of the road-wheel bearings.", "es-ES": "(Continuación de:) 8. Desmontaje de los anillos interiores de los cojinetes de las ruedas de rodadura."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 15,
@@ -14,10 +14,10 @@
   },
   "navigation": {"previous": "d65250a-page-027", "next": "d65250a-page-029"},
   "paragraphs": [
-    {"id": "d65250a-p028-para01", "text": {"de": {"plain": "Im Notfall kann der vordere Lagerring mit Hammer und Dorn, der in einer Ausfräsung der Abstandbuchse anzusetzen ist, heruntergeschlagen werden.", "runs": [{"text": "Im Notfall kann der vordere Lagerring mit Hammer und Dorn, der in einer Ausfräsung der Abstandbuchse anzusetzen ist, heruntergeschlagen werden.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p028-para01", "text": {"de": {"plain": "Im Notfall kann der vordere Lagerring mit Hammer und Dorn, der in einer Ausfräsung der Abstandbuchse anzusetzen ist, heruntergeschlagen werden.", "runs": [{"text": "Im Notfall kann der vordere Lagerring mit Hammer und Dorn, der in einer Ausfräsung der Abstandbuchse anzusetzen ist, heruntergeschlagen werden.", "bold": false}]}, "en-GB": {"plain": "In an emergency, the front bearing ring can be knocked off using a hammer and a punch, applied in a recess milled into the spacer sleeve.", "runs": [{"text": "In an emergency, the front bearing ring can be knocked off using a hammer and a punch, applied in a recess milled into the spacer sleeve.", "bold": false}]}, "es-ES": {"plain": "En caso de emergencia, el anillo de cojinete delantero puede desmontarse a golpes de martillo y botador, aplicado en un rebaje fresado en el manguito distanciador.", "runs": [{"text": "En caso de emergencia, el anillo de cojinete delantero puede desmontarse a golpes de martillo y botador, aplicado en un rebaje fresado en el manguito distanciador.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-041", "number": 41, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-041", "number": 41, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

@@ -5,7 +5,7 @@
   "page": 80,
   "section": "A31",
   "type": "text",
-  "titles": {"de": "Noch: 31. Einbau des Triebrades.", "en-GB": null, "es-ES": null},
+  "titles": {"de": "Noch: 31. Einbau des Triebrades.", "en-GB": "(continued) 31. Installation of the drive wheel.", "es-ES": "(continuación de:) 31. Montaje de la rueda motriz."},
   "source": {
     "image": "source.jpg",
     "pdf_page": 41,
@@ -14,12 +14,12 @@
   },
   "navigation": {"previous": "d65250a-page-079", "next": "d65250a-page-081"},
   "paragraphs": [
-    {"id": "d65250a-p080-para01", "text": {"de": {"plain": "Die Kronenmuttern mit Steckschlüssel SW 24 aufschrauben.", "runs": [{"text": "Die Kronenmuttern mit Steckschlüssel SW 24 aufschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p080-para02", "text": {"de": {"plain": "Die Kronenmuttern durch Splinte sichern.", "runs": [{"text": "Die Kronenmuttern durch Splinte sichern.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p080-para03", "text": {"de": {"plain": "Den Abschlußdeckel aufsetzen. Die Halteschraube wird mit Steckschlüssel SW 22 angezogen und durch Blechsicherung gesichert.", "runs": [{"text": "Den Abschlußdeckel aufsetzen. Die Halteschraube wird mit Steckschlüssel SW 22 angezogen und durch Blechsicherung gesichert.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p080-para04", "text": {"de": {"plain": "Die Abdeckscheibe einsetzen.", "runs": [{"text": "Die Abdeckscheibe einsetzen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p080-para05", "text": {"de": {"plain": "Den Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.", "runs": [{"text": "Den Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p080-para01", "text": {"de": {"plain": "Die Kronenmuttern mit Steckschlüssel SW 24 aufschrauben.", "runs": [{"text": "Die Kronenmuttern mit Steckschlüssel SW 24 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the castle nuts using a SW 24 socket spanner.", "runs": [{"text": "Screw on the castle nuts using a SW 24 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar las tuercas almenadas con una llave de vaso SW 24.", "runs": [{"text": "Enroscar las tuercas almenadas con una llave de vaso SW 24.", "bold": false}]}}},
+    {"id": "d65250a-p080-para02", "text": {"de": {"plain": "Die Kronenmuttern durch Splinte sichern.", "runs": [{"text": "Die Kronenmuttern durch Splinte sichern.", "bold": false}]}, "en-GB": {"plain": "Secure the castle nuts with split pins.", "runs": [{"text": "Secure the castle nuts with split pins.", "bold": false}]}, "es-ES": {"plain": "Asegurar las tuercas almenadas con pasadores de aletas.", "runs": [{"text": "Asegurar las tuercas almenadas con pasadores de aletas.", "bold": false}]}}},
+    {"id": "d65250a-p080-para03", "text": {"de": {"plain": "Den Abschlußdeckel aufsetzen. Die Halteschraube wird mit Steckschlüssel SW 22 angezogen und durch Blechsicherung gesichert.", "runs": [{"text": "Den Abschlußdeckel aufsetzen. Die Halteschraube wird mit Steckschlüssel SW 22 angezogen und durch Blechsicherung gesichert.", "bold": false}]}, "en-GB": {"plain": "Fit the end cover. Tighten the retaining screw using a SW 22 socket spanner and secure it with a sheet-metal lock.", "runs": [{"text": "Fit the end cover. Tighten the retaining screw using a SW 22 socket spanner and secure it with a sheet-metal lock.", "bold": false}]}, "es-ES": {"plain": "Colocar la tapa final. El tornillo de retención se aprieta con una llave de vaso SW 22 y se asegura con una chapa de seguridad.", "runs": [{"text": "Colocar la tapa final. El tornillo de retención se aprieta con una llave de vaso SW 22 y se asegura con una chapa de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p080-para04", "text": {"de": {"plain": "Die Abdeckscheibe einsetzen.", "runs": [{"text": "Die Abdeckscheibe einsetzen.", "bold": false}]}, "en-GB": {"plain": "Insert the cover disc.", "runs": [{"text": "Insert the cover disc.", "bold": false}]}, "es-ES": {"plain": "Colocar el disco de cubierta.", "runs": [{"text": "Colocar el disco de cubierta.", "bold": false}]}}},
+    {"id": "d65250a-p080-para05", "text": {"de": {"plain": "Den Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.", "runs": [{"text": "Den Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.", "bold": false}]}, "en-GB": {"plain": "Compress the circlip using circlip pliers or needle-nose pliers and insert it.", "runs": [{"text": "Compress the circlip using circlip pliers or needle-nose pliers and insert it.", "bold": false}]}, "es-ES": {"plain": "Comprimir el anillo de retención con alicates para anillos de retención o con alicates de punta, y colocarlo.", "runs": [{"text": "Comprimir el anillo de retención con alicates para anillos de retención o con alicates de punta, y colocarlo.", "bold": false}]}}}
   ],
   "figures": [],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "not_applicable"}
 }

@@ -5,7 +5,7 @@
   "page": 96,
   "section": "A33",
   "type": "text",
-  "titles": {"de": "33. Arbeitszeiten", "en-GB": null, "es-ES": null},
+  "titles": {"de": "33. Arbeitszeiten", "en-GB": "33. Working Times", "es-ES": "33. Tiempos de trabajo"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 49,
@@ -14,19 +14,19 @@
   },
   "navigation": {"previous": "d65250a-page-095", "next": "d65250a-page-097"},
   "paragraphs": [
-    {"id": "d65250a-p096-para01", "text": {"de": {"plain": "für", "runs": [{"text": "für", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para02", "text": {"de": {"plain": "1. Kettengliedwechsel", "runs": [{"text": "1. Kettengliedwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para03", "text": {"de": {"plain": "2. Laufrollenwechsel", "runs": [{"text": "2. Laufrollenwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para04", "text": {"de": {"plain": "3. Schwingungsdämpferwechsel", "runs": [{"text": "3. Schwingungsdämpferwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para05", "text": {"de": {"plain": "4. Stabfederwechsel", "runs": [{"text": "4. Stabfederwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para06", "text": {"de": {"plain": "5. Schwingarmwechsel", "runs": [{"text": "5. Schwingarmwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para07", "text": {"de": {"plain": "6. Stützrollenwechsel", "runs": [{"text": "6. Stützrollenwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para08", "text": {"de": {"plain": "7. Leitradwechsel", "runs": [{"text": "7. Leitradwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para09", "text": {"de": {"plain": "8. Leitradkurbelwechsel", "runs": [{"text": "8. Leitradkurbelwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para10", "text": {"de": {"plain": "9. Scherscheibenwechsel", "runs": [{"text": "9. Scherscheibenwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para11", "text": {"de": {"plain": "10. Triebradwechsel", "runs": [{"text": "10. Triebradwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p096-para12", "text": {"de": {"plain": "11. Zahnkranzwechsel", "runs": [{"text": "11. Zahnkranzwechsel", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p096-para01", "text": {"de": {"plain": "für", "runs": [{"text": "für", "bold": false}]}, "en-GB": {"plain": "for", "runs": [{"text": "for", "bold": false}]}, "es-ES": {"plain": "para", "runs": [{"text": "para", "bold": false}]}}},
+    {"id": "d65250a-p096-para02", "text": {"de": {"plain": "1. Kettengliedwechsel", "runs": [{"text": "1. Kettengliedwechsel", "bold": false}]}, "en-GB": {"plain": "1. Track-link replacement", "runs": [{"text": "1. Track-link replacement", "bold": false}]}, "es-ES": {"plain": "1. Cambio de eslabón de cadena", "runs": [{"text": "1. Cambio de eslabón de cadena", "bold": false}]}}},
+    {"id": "d65250a-p096-para03", "text": {"de": {"plain": "2. Laufrollenwechsel", "runs": [{"text": "2. Laufrollenwechsel", "bold": false}]}, "en-GB": {"plain": "2. Road-wheel replacement", "runs": [{"text": "2. Road-wheel replacement", "bold": false}]}, "es-ES": {"plain": "2. Cambio de rueda de rodadura", "runs": [{"text": "2. Cambio de rueda de rodadura", "bold": false}]}}},
+    {"id": "d65250a-p096-para04", "text": {"de": {"plain": "3. Schwingungsdämpferwechsel", "runs": [{"text": "3. Schwingungsdämpferwechsel", "bold": false}]}, "en-GB": {"plain": "3. Vibration-damper replacement", "runs": [{"text": "3. Vibration-damper replacement", "bold": false}]}, "es-ES": {"plain": "3. Cambio de amortiguador de vibraciones", "runs": [{"text": "3. Cambio de amortiguador de vibraciones", "bold": false}]}}},
+    {"id": "d65250a-p096-para05", "text": {"de": {"plain": "4. Stabfederwechsel", "runs": [{"text": "4. Stabfederwechsel", "bold": false}]}, "en-GB": {"plain": "4. Torsion-bar spring replacement", "runs": [{"text": "4. Torsion-bar spring replacement", "bold": false}]}, "es-ES": {"plain": "4. Cambio de barra de torsión", "runs": [{"text": "4. Cambio de barra de torsión", "bold": false}]}}},
+    {"id": "d65250a-p096-para06", "text": {"de": {"plain": "5. Schwingarmwechsel", "runs": [{"text": "5. Schwingarmwechsel", "bold": false}]}, "en-GB": {"plain": "5. Swing-arm replacement", "runs": [{"text": "5. Swing-arm replacement", "bold": false}]}, "es-ES": {"plain": "5. Cambio de brazo oscilante", "runs": [{"text": "5. Cambio de brazo oscilante", "bold": false}]}}},
+    {"id": "d65250a-p096-para07", "text": {"de": {"plain": "6. Stützrollenwechsel", "runs": [{"text": "6. Stützrollenwechsel", "bold": false}]}, "en-GB": {"plain": "6. Support-roller replacement", "runs": [{"text": "6. Support-roller replacement", "bold": false}]}, "es-ES": {"plain": "6. Cambio de rodillo de apoyo", "runs": [{"text": "6. Cambio de rodillo de apoyo", "bold": false}]}}},
+    {"id": "d65250a-p096-para08", "text": {"de": {"plain": "7. Leitradwechsel", "runs": [{"text": "7. Leitradwechsel", "bold": false}]}, "en-GB": {"plain": "7. Idler-wheel replacement", "runs": [{"text": "7. Idler-wheel replacement", "bold": false}]}, "es-ES": {"plain": "7. Cambio de rueda tensora", "runs": [{"text": "7. Cambio de rueda tensora", "bold": false}]}}},
+    {"id": "d65250a-p096-para09", "text": {"de": {"plain": "8. Leitradkurbelwechsel", "runs": [{"text": "8. Leitradkurbelwechsel", "bold": false}]}, "en-GB": {"plain": "8. Idler-crank replacement", "runs": [{"text": "8. Idler-crank replacement", "bold": false}]}, "es-ES": {"plain": "8. Cambio de manivela de la rueda tensora", "runs": [{"text": "8. Cambio de manivela de la rueda tensora", "bold": false}]}}},
+    {"id": "d65250a-p096-para10", "text": {"de": {"plain": "9. Scherscheibenwechsel", "runs": [{"text": "9. Scherscheibenwechsel", "bold": false}]}, "en-GB": {"plain": "9. Shear-disc replacement", "runs": [{"text": "9. Shear-disc replacement", "bold": false}]}, "es-ES": {"plain": "9. Cambio de disco de cizalla", "runs": [{"text": "9. Cambio de disco de cizalla", "bold": false}]}}},
+    {"id": "d65250a-p096-para11", "text": {"de": {"plain": "10. Triebradwechsel", "runs": [{"text": "10. Triebradwechsel", "bold": false}]}, "en-GB": {"plain": "10. Drive-wheel replacement", "runs": [{"text": "10. Drive-wheel replacement", "bold": false}]}, "es-ES": {"plain": "10. Cambio de rueda motriz", "runs": [{"text": "10. Cambio de rueda motriz", "bold": false}]}}},
+    {"id": "d65250a-p096-para12", "text": {"de": {"plain": "11. Zahnkranzwechsel", "runs": [{"text": "11. Zahnkranzwechsel", "bold": false}]}, "en-GB": {"plain": "11. Sprocket-ring replacement", "runs": [{"text": "11. Sprocket-ring replacement", "bold": false}]}, "es-ES": {"plain": "11. Cambio de corona dentada", "runs": [{"text": "11. Cambio de corona dentada", "bold": false}]}}}
   ],
   "figures": [],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "not_applicable"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "not_applicable"}
 }

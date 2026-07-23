@@ -5,7 +5,7 @@
   "page": 73,
   "section": "A28",
   "type": "text",
-  "titles": {"de": "28. Ausbau des Zahnkranzes am Triebrad", "en-GB": null, "es-ES": null},
+  "titles": {"de": "28. Ausbau des Zahnkranzes am Triebrad", "en-GB": "28. Removal of the sprocket ring on the drive wheel", "es-ES": "28. Desmontaje de la corona dentada de la rueda motriz"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 38,
@@ -14,16 +14,16 @@
   },
   "navigation": {"previous": "d65250a-page-072", "next": "d65250a-page-074"},
   "paragraphs": [
-    {"id": "d65250a-p073-para01", "text": {"de": {"plain": "Die Gleiskette von Triebrad abnehmen.", "runs": [{"text": "Die Gleiskette von Triebrad abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p073-para02", "text": {"de": {"plain": "Die Splinte von den Haltebolzen entfernen.", "runs": [{"text": "Die Splinte von den Haltebolzen entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p073-para03", "text": {"de": {"plain": "Die Kronenmuttern mit Schraubenschlüssel SW 22 abschrauben.", "runs": [{"text": "Die Kronenmuttern mit Schraubenschlüssel SW 22 abschrauben.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p073-para04", "text": {"de": {"plain": "Die Schraubenbolzen durch Herausschlagen mit Gummihammer entfernen.", "runs": [{"text": "Die Schraubenbolzen durch Herausschlagen mit Gummihammer entfernen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p073-para05", "text": {"de": {"plain": "Zahnkranz abnehmen.", "runs": [{"text": "Zahnkranz abnehmen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p073-para06", "text": {"de": {"plain": "Beachten: Durch leichten Schlag mit Gummihammer wird das Entfernen erleichtert.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Durch leichten Schlag mit Gummihammer wird das Entfernen erleichtert.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p073-para01", "text": {"de": {"plain": "Die Gleiskette von Triebrad abnehmen.", "runs": [{"text": "Die Gleiskette von Triebrad abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the track from the drive wheel.", "runs": [{"text": "Remove the track from the drive wheel.", "bold": false}]}, "es-ES": {"plain": "Retirar la cadena de oruga de la rueda motriz.", "runs": [{"text": "Retirar la cadena de oruga de la rueda motriz.", "bold": false}]}}},
+    {"id": "d65250a-p073-para02", "text": {"de": {"plain": "Die Splinte von den Haltebolzen entfernen.", "runs": [{"text": "Die Splinte von den Haltebolzen entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the split pins from the retaining bolts.", "runs": [{"text": "Remove the split pins from the retaining bolts.", "bold": false}]}, "es-ES": {"plain": "Retirar los pasadores de aletas de los pernos de retención.", "runs": [{"text": "Retirar los pasadores de aletas de los pernos de retención.", "bold": false}]}}},
+    {"id": "d65250a-p073-para03", "text": {"de": {"plain": "Die Kronenmuttern mit Schraubenschlüssel SW 22 abschrauben.", "runs": [{"text": "Die Kronenmuttern mit Schraubenschlüssel SW 22 abschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the castle nuts using a SW 22 spanner.", "runs": [{"text": "Unscrew the castle nuts using a SW 22 spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar las tuercas almenadas con una llave SW 22.", "runs": [{"text": "Desenroscar las tuercas almenadas con una llave SW 22.", "bold": false}]}}},
+    {"id": "d65250a-p073-para04", "text": {"de": {"plain": "Die Schraubenbolzen durch Herausschlagen mit Gummihammer entfernen.", "runs": [{"text": "Die Schraubenbolzen durch Herausschlagen mit Gummihammer entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the bolts by knocking them out with a rubber mallet.", "runs": [{"text": "Remove the bolts by knocking them out with a rubber mallet.", "bold": false}]}, "es-ES": {"plain": "Retirar los pernos golpeándolos hacia fuera con un martillo de goma.", "runs": [{"text": "Retirar los pernos golpeándolos hacia fuera con un martillo de goma.", "bold": false}]}}},
+    {"id": "d65250a-p073-para05", "text": {"de": {"plain": "Zahnkranz abnehmen.", "runs": [{"text": "Zahnkranz abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the sprocket ring.", "runs": [{"text": "Remove the sprocket ring.", "bold": false}]}, "es-ES": {"plain": "Retirar la corona dentada.", "runs": [{"text": "Retirar la corona dentada.", "bold": false}]}}},
+    {"id": "d65250a-p073-para06", "text": {"de": {"plain": "Beachten: Durch leichten Schlag mit Gummihammer wird das Entfernen erleichtert.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Durch leichten Schlag mit Gummihammer wird das Entfernen erleichtert.", "bold": false}]}, "en-GB": {"plain": "Note: A light tap with a rubber mallet makes removal easier.", "runs": [{"text": "Note: ", "bold": true}, {"text": "A light tap with a rubber mallet makes removal easier.", "bold": false}]}, "es-ES": {"plain": "Nota: Un ligero golpe con un martillo de goma facilita la extracción.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "Un ligero golpe con un martillo de goma facilita la extracción.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-105", "number": 105, "status": "draft", "captions": {"de": {"plain": "Bild 105", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-bild-106", "number": 106, "status": "draft", "captions": {"de": {"plain": "Bild 106", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-105", "number": 105, "status": "draft", "captions": {"de": {"plain": "Bild 105", "runs": []}, "en-GB": {"plain": "Figure 105", "runs": []}, "es-ES": {"plain": "Figura 105", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-106", "number": 106, "status": "draft", "captions": {"de": {"plain": "Bild 106", "runs": []}, "en-GB": {"plain": "Figure 106", "runs": []}, "es-ES": {"plain": "Figura 106", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

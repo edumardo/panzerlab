@@ -24,11 +24,17 @@
           "plain": "Zeichnung 9. Abziehvorrichtung zum Ausbau der Drehstabfeder. Maßstab 1:1. Teile: 1 Spindel (Werkstoff St 34.11), 2 Druckhülse (Werkstoff St 37.12), 3 Mutter DIN (Werkstoff St 34.11). Zeichnungsnummer III DB 101, Blatt 9.",
           "runs": []
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Drawing 9. Puller for removing the torsion-bar spring. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 101, sheet 9.",
+          "runs": [{"text": "Drawing 9. Puller for removing the torsion-bar spring. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 101, sheet 9.", "bold": false}]
+        },
+        "es-ES": {
+          "plain": "Plano 9. Extractor para el desmontaje de la barra de torsión. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 101, hoja 9.",
+          "runs": [{"text": "Plano 9. Extractor para el desmontaje de la barra de torsión. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 101, hoja 9.", "bold": false}]
+        }
       },
       "label_keys": {"de": null, "en-GB": null, "es-ES": null}
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

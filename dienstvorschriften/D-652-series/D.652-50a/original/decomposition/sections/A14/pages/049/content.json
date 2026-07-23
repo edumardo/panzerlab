@@ -5,7 +5,7 @@
   "page": 49,
   "section": "A14",
   "type": "text",
-  "titles": {"de": "14. Ausbau des Schwingarmes", "en-GB": null, "es-ES": null},
+  "titles": {"de": "14. Ausbau des Schwingarmes", "en-GB": "14. Removing the swing arm", "es-ES": "14. Desmontaje del brazo oscilante"},
   "source": {
     "image": "source.jpg",
     "pdf_page": 26,
@@ -14,12 +14,12 @@
   },
   "navigation": {"previous": "d65250a-page-048", "next": "d65250a-page-050"},
   "paragraphs": [
-    {"id": "d65250a-p049-para01", "text": {"de": {"plain": "Drehstabfeder nach Abschn. 12, S. 41, ausbauen.", "runs": [{"text": "Drehstabfeder nach Abschn. 12, S. 41, ausbauen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p049-para02", "text": {"de": {"plain": "Den Schwingarm aus der Führung an der Pz-Wanne drehen.", "runs": [{"text": "Den Schwingarm aus der Führung an der Pz-Wanne drehen.", "bold": false}]}, "en-GB": null, "es-ES": null}},
-    {"id": "d65250a-p049-para03", "text": {"de": {"plain": "Schwingarm aus der Lagerung herausziehen, s. Bild 73.", "runs": [{"text": "Schwingarm aus der Lagerung herausziehen, s. Bild 73.", "bold": false}]}, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-p049-para01", "text": {"de": {"plain": "Drehstabfeder nach Abschn. 12, S. 41, ausbauen.", "runs": [{"text": "Drehstabfeder nach Abschn. 12, S. 41, ausbauen.", "bold": false}]}, "en-GB": {"plain": "Remove the torsion-bar spring as described in Section 12, p. 41.", "runs": [{"text": "Remove the torsion-bar spring as described in Section 12, p. 41.", "bold": false}]}, "es-ES": {"plain": "Desmontar la barra de torsión según el apartado 12, p. 41.", "runs": [{"text": "Desmontar la barra de torsión según el apartado 12, p. 41.", "bold": false}]}}},
+    {"id": "d65250a-p049-para02", "text": {"de": {"plain": "Den Schwingarm aus der Führung an der Pz-Wanne drehen.", "runs": [{"text": "Den Schwingarm aus der Führung an der Pz-Wanne drehen.", "bold": false}]}, "en-GB": {"plain": "Turn the swing arm out of the guide on the tank hull.", "runs": [{"text": "Turn the swing arm out of the guide on the tank hull.", "bold": false}]}, "es-ES": {"plain": "Girar el brazo oscilante para sacarlo de la guía del casco del carro.", "runs": [{"text": "Girar el brazo oscilante para sacarlo de la guía del casco del carro.", "bold": false}]}}},
+    {"id": "d65250a-p049-para03", "text": {"de": {"plain": "Schwingarm aus der Lagerung herausziehen, s. Bild 73.", "runs": [{"text": "Schwingarm aus der Lagerung herausziehen, s. Bild 73.", "bold": false}]}, "en-GB": {"plain": "Pull the swing arm out of the bearing, see Figure 73.", "runs": [{"text": "Pull the swing arm out of the bearing, see Figure 73.", "bold": false}]}, "es-ES": {"plain": "Extraer el brazo oscilante del cojinete, véase la figura 73.", "runs": [{"text": "Extraer el brazo oscilante del cojinete, véase la figura 73.", "bold": false}]}}}
   ],
   "figures": [
-    {"id": "d65250a-bild-072", "number": 72, "status": "draft", "captions": {"de": {"plain": "Bild 72", "runs": []}, "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "d65250a-bild-072", "number": 72, "status": "draft", "captions": {"de": {"plain": "Bild 72", "runs": []}, "en-GB": {"plain": "Figure 72", "runs": []}, "es-ES": {"plain": "Figura 72", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

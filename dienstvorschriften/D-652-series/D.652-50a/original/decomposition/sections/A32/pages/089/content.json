@@ -24,11 +24,17 @@
           "plain": "Zeichnung 5a. Abziehvorrichtung z. Ausbau der Schwingarm- u. Laufrollenlager. Maßstab 1:2,5. Stückzahl 1: Haltering, Werkstoff St 37.12; Stückzahl 2: Klaue kompl., Werkstoff St 37.12. Diese Teile dienen zum Abziehen der Schutzkappe am Schwingarm. Gestreckte Länge = 755 mm. Schnitt A-B.",
           "runs": []
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Drawing 5a. Puller for removing the swing-arm and road-wheel bearings. Scale 1:2.5. Qty 1: Retaining ring, Material St 37.12; Qty 2: Claw complete, Material St 37.12. These parts serve to pull off the protective cap on the swing arm. Developed length = 755 mm. Section A-B.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 5a. Extractor para el desmontaje de los cojinetes del brazo oscilante y de la rueda de rodadura. Escala 1:2,5. Cant. 1: Anillo de retención, Material St 37.12; Cant. 2: Garra completa, Material St 37.12. Estas piezas sirven para extraer la caperuza protectora del brazo oscilante. Longitud desarrollada = 755 mm. Sección A-B.",
+          "runs": []
+        }
       },
       "label_keys": {"de": null, "en-GB": null, "es-ES": null}
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

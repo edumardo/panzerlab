@@ -1008,6 +1008,118 @@
       "en-GB": "carburettor spacer piece",
       "es-ES": "pieza distanciadora del carburador",
       "status": "draft"
+    },
+    {
+      "id": "series-term-144",
+      "de": "Laufwerk",
+      "en-GB": "running gear",
+      "es-ES": "tren de rodaje",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-145",
+      "de": "Laufrolle",
+      "en-GB": "road wheel",
+      "es-ES": "rueda de rodadura",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-146",
+      "de": "Laufrollenlager",
+      "en-GB": "road-wheel bearing",
+      "es-ES": "cojinete de la rueda de rodadura",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-147",
+      "de": "Kettenglied",
+      "en-GB": "track link",
+      "es-ES": "eslabón de cadena",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-148",
+      "de": "Gleiskette",
+      "en-GB": "track (tracked chain)",
+      "es-ES": "cadena de oruga",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-149",
+      "de": "Schwingarm",
+      "en-GB": "swing arm",
+      "es-ES": "brazo oscilante",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-150",
+      "de": "Schwingarmlager",
+      "en-GB": "swing-arm bearing",
+      "es-ES": "cojinete del brazo oscilante",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-151",
+      "de": "Drehstabfeder",
+      "en-GB": "torsion-bar spring",
+      "es-ES": "barra de torsión",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-152",
+      "de": "Stützrolle",
+      "en-GB": "support roller",
+      "es-ES": "rodillo de apoyo",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-153",
+      "de": "Leitrad",
+      "en-GB": "idler wheel",
+      "es-ES": "rueda tensora",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-154",
+      "de": "Leitradkurbel",
+      "en-GB": "idler crank",
+      "es-ES": "manivela de la rueda tensora",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-155",
+      "de": "Triebrad",
+      "en-GB": "drive wheel (sprocket wheel)",
+      "es-ES": "rueda motriz",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-156",
+      "de": "Zahnkranz",
+      "en-GB": "sprocket ring",
+      "es-ES": "corona dentada",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-157",
+      "de": "Kettenspanner",
+      "en-GB": "track tensioner",
+      "es-ES": "tensor de cadena",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-158",
+      "de": "Scherscheibe",
+      "en-GB": "shear disc",
+      "es-ES": "disco de cizalla",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-159",
+      "de": "Simmerring",
+      "en-GB": "oil seal (Simmerring)",
+      "es-ES": "retén (simmerring)",
+      "status": "draft"
     }
   ]
 }

@@ -24,11 +24,17 @@
           "plain": "Zeichnung 10. Abdrückschrauben zum Abdrücken des Triebrades. Maßstab 1:1. Teil: Abdrückschraube, Stückzahl 4, Werkstoff u. Rohmaß: St 38.13. Schlüsselweite 28 mm. Zeichnungsnummer III DB 81, Blatt 10.",
           "runs": []
         },
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": {
+          "plain": "Drawing 10. Press-off screws for pressing off the drive wheel. Scale 1:1. Part: press-off screw, quantity 4, material and blank size: St 38.13. Across-flats size 28 mm. Drawing number III DB 81, sheet 10.",
+          "runs": [{"text": "Drawing 10. Press-off screws for pressing off the drive wheel. Scale 1:1. Part: press-off screw, quantity 4, material and blank size: St 38.13. Across-flats size 28 mm. Drawing number III DB 81, sheet 10.", "bold": false}]
+        },
+        "es-ES": {
+          "plain": "Plano 10. Tornillos de presión para extraer la rueda motriz. Escala 1:1. Pieza: tornillo de presión, cantidad 4, material y medida en bruto: St 38.13. Entrecaras 28 mm. Número de plano III DB 81, hoja 10.",
+          "runs": [{"text": "Plano 10. Tornillos de presión para extraer la rueda motriz. Escala 1:1. Pieza: tornillo de presión, cantidad 4, material y medida en bruto: St 38.13. Entrecaras 28 mm. Número de plano III DB 81, hoja 10.", "bold": false}]
+        }
       },
       "label_keys": {"de": null, "en-GB": null, "es-ES": null}
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "pending", "es-ES": "pending", "figures": "draft"}
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
 }

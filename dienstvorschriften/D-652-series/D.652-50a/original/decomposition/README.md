@@ -4,7 +4,7 @@ This folder contains the format-neutral decomposition of the German source.
 The original PDF and its file metadata remain one level above. JSON is the
 canonical content source; DOCX, PDF, HTML and Markdown are derived outputs.
 
-## Status: Phase 4 (transcription) done in German; translation pending
+## Status: Phase 4 (transcription + translation) drafted, human review pending
 
 Per `docs/PDF_TO_CANONICAL_JSON.md` §13:
 
@@ -13,29 +13,25 @@ Per `docs/PDF_TO_CANONICAL_JSON.md` §13:
 - [x] Phase 2 — Visual resources: base spread images extracted and visually
       reviewed (clean, no watermark compositing).
 - [x] Phase 3 — Content model: `manifest.json` (explicit PDF-to-page map,
-      §5 Step 3), `index/contents.json` (German chapter titles, all 33
-      confirmed — see below), per-section `manifest.json` files (facsimile
-      layout), and all 101 pages split from their spreads into individual
-      `source.jpg` files.
+      §5 Step 3), `index/contents.json` (German/English/Spanish chapter
+      titles, all 33 confirmed — see below), per-section `manifest.json`
+      files (facsimile layout), and all 101 pages split from their spreads
+      into individual `source.jpg` files.
 - [~] Phase 4 — Linguistic content: all 101 pages have a `content.json` with
       a direct-from-image German transcription (paragraphs, titles, figure
-      captions), `status.transcription: "draft"` — visually spot-checked
-      against the source scans but not yet human-reviewed page by page, so
-      not promoted to `"validated"`. EN/ES translation has not started
-      (`status.en-GB`/`status.es-ES: "pending"`, `titles.en-GB`/`es-ES` and
-      all paragraph/caption `en-GB`/`es-ES` fields are `null`).
+      captions) and an en-GB/es-ES translation of every field, using a
+      shared glossary for consistent terminology across pages.
+      `status.transcription: "draft"` and `status.en-GB`/`status.es-ES:
+      "draft"` (or `"not_applicable"` on the 6 genuinely blank pages)
+      throughout — spot-checked against the source scans but not yet
+      human-reviewed page by page, so nothing is promoted to `"validated"`
+      yet. The caption/paragraph convention inconsistency noted in an
+      earlier pass was checked page-by-page against the source scans during
+      translation and required no fixes — every page already had
+      descriptive "Bild NN" caption sentences correctly in
+      `figures[].captions`, with only genuine step-by-step instructions in
+      `paragraphs`.
 - [ ] Phase 5 — Consumers: web viewer, DOCX/PDF exporters, search index.
-
-### Known editorial inconsistency to resolve before validating
-
-Different transcription passes split figure captions vs. body paragraphs
-slightly differently: some pages (e.g. `sections/A03/pages/010`,
-`sections/A06/pages/019`) put the full descriptive sentence into the
-figure's `captions` field, while others (e.g. `sections/A13/pages/046`-`048`)
-leave captions as a bare "Bild NN" and move all descriptive text into
-`paragraphs`. Both are valid against `schema/content.schema.json`, but this
-should be normalized to one convention during human review, before any page
-is promoted from `"draft"` to `"validated"`.
 
 ## PDF-to-book-page map (§5 Step 3)
 
@@ -82,7 +78,7 @@ against the source scan; no separate A19/A27 section directories exist.
   archive copy).
 - `document.json`: document identity, languages and canonical references.
 - `manifest.json`: complete physical and logical page inventory (see above).
-- `index/contents.json`: German chapter titles (EN/ES translation pending).
+- `index/contents.json`: German/English/Spanish chapter titles.
 - `glossary/terminology.json`: document-local terminology, extending the
   series-shared glossary at `../../../glossary/terminology.json`.
 - `extraction_log.json`: per-page record of the image object selected by
@@ -97,7 +93,11 @@ archive pages 100–101 are blank trailing leaves before the back cover.
 - `layout.json`: a document-level (not per-section) output-independent
   layout profile, if one is needed beyond each section's own
   `manifest.json.layout`.
-- EN/ES translation of every `titles`/paragraph/caption field.
-- Human review promoting `status.transcription` from `"draft"` to
-  `"validated"` page by page (after resolving the caption/paragraph
-  convention noted above).
+- Human review promoting `status.transcription`/`status.en-GB`/
+  `status.es-ES` from `"draft"` to `"validated"` page by page.
+- Review of the 16 running-gear terms just added to the series-shared
+  glossary (`../../glossary/terminology.json`, `series-term-144` onward:
+  Laufwerk, Laufrolle, Laufrollenlager, Kettenglied, Gleiskette, Schwingarm,
+  Schwingarmlager, Drehstabfeder, Stützrolle, Leitrad, Leitradkurbel,
+  Triebrad, Zahnkranz, Kettenspanner, Scherscheibe, Simmerring) — currently
+  `status: "draft"`.
