@@ -22,7 +22,7 @@ endobj
 <<
 /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.08d596a3ee869e575cf90385b71ddcc1 3 0 R
+/FormXob.3f27ce6190fa1c04e8de86d92ab353a9 3 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -386,7 +386,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Author (PanzerLab) /CreationDate (D:20260722003155+02'00') /Creator (anonymous) /Keywords () /ModDate (D:20260722003155+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (PanzerLab) /CreationDate (D:20260723194202+02'00') /Creator (anonymous) /Keywords () /ModDate (D:20260723194202+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (Facsimile export generated from the canonical JSON decomposition) /Title (D. 652/50c - A02 - facsimile + bilingual translation) /Trapped /False
 >>
 endobj
@@ -397,10 +397,10 @@ endobj
 endobj
 17 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 356
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 355
 >>
 stream
-Gar?+]5@[9$q:'hMH`E/bh+_C7uJ#.7*:-2;U?u<Ji7((fbF8\La=4FUp4H'^?8aUK`r!nmXRaBI*#b^fmu;3PR#tY6T.L-$KC!=%3W4JrSB*JpHM$5XLKC/3KQ;p-lqGCR9?a5&s^<oEUqbkqt=,4Yb(3]qP3H36aN@Z;;P,e#+uX\O?kK'*uX.c4T5RbMA#^qd*4-4^pB70hG^h#&BFUo78X47:qCao\Mp>Z1riIS,ijO_3iMcu3]\:c1@N4uTO;7JKVA_uk6"$tk?RuqW]N"DT).mJZltpIRR?2*-AC5ge9[I`9=ftmh:=IDp10c>NtnMXR1h!,qE0r=a1/-S2>RM-"7l[)*GLW~>endstream
+Gar?+4&5oT&;C#Y.o$D6%!Q=OZR(KgM%=K46*i,SA.8od/c>L#7?M7>a\4JQq[UN\K#_$g^nP5NA?_`6?q1^g!I)ME%2,3:EH';0OIZ&RB,9V+TAc3>BFr*%aK'M54m#D*=g3pCT#)prni1a'mSN;UT!VMrdIl>0=\kqDD^[Oh:ka>=+H=3+#.YD.rrG8OM>RUW1Q+Bd/>\L'<:(UBlhm\Y]E]`Z3d5k[2rsLC%TbfVO9Q<hnBR0kX4&+?o5:'/'PpI<:_]V!/g+\&ebg@cpL_-%%fP^56eY/6S&!^c("_"oC"oGfbu/E.CR&md1sb=)MGeWA$'`E@HmSTLEDa8[$k65AjpN-8Bs.~>endstream
 endobj
 18 0 obj
 <<
@@ -429,11 +429,11 @@ xref
 0000504437 00000 n 
 0000504796 00000 n 
 0000504862 00000 n 
-0000505309 00000 n 
+0000505308 00000 n 
 trailer
 <<
 /ID 
-[<04832e9a2e1a58821c7f7e543e2a463b><04832e9a2e1a58821c7f7e543e2a463b>]
+[<3f9826fdecea6070219cc51a15afbd8c><3f9826fdecea6070219cc51a15afbd8c>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 15 0 R
@@ -441,5 +441,5 @@ trailer
 /Size 19
 >>
 startxref
-506823
+506822
 %%EOF

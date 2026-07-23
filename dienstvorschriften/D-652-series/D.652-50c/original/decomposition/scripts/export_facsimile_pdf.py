@@ -170,7 +170,11 @@ def main():
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument("--section", required=True)
     parser.add_argument("--output", type=Path, required=True)
-    parser.add_argument("--require-validated", action="store_true", default=True)
+    parser.add_argument(
+        "--allow-draft",
+        action="store_true",
+        help="Export pages even if transcription/en-GB/es-ES are not yet validated.",
+    )
     args = parser.parse_args()
 
     root = args.root.resolve()
@@ -178,12 +182,14 @@ def main():
     section_manifest = json.loads((section_dir / "manifest.json").read_text(encoding="utf-8"))
 
     entries = []
+    has_draft = False
     for page_number in section_manifest["pages"]:
         page_dir = section_dir / "pages" / f"{page_number:03d}"
         content = json.loads((page_dir / "content.json").read_text(encoding="utf-8"))
-        if args.require_validated:
-            for key in ("transcription", "en-GB", "es-ES"):
-                if content["status"][key] != "validated":
+        for key in ("transcription", "en-GB", "es-ES"):
+            if content["status"][key] != "validated":
+                has_draft = True
+                if not args.allow_draft:
                     raise SystemExit(f"Page {page_number}: {key} is not validated")
         entries.append((page_dir, content))
     entries.sort(key=lambda e: e[1]["page"])
@@ -200,7 +206,8 @@ def main():
         render_translation_page(pdf, content, regular, bold, italic)
 
     pdf.save()
-    print(f"Created {args.output} ({len(entries)} source pages x2).")
+    draft_note = " (contains draft/unvalidated pages)" if has_draft else ""
+    print(f"Created {args.output} ({len(entries)} source pages x2){draft_note}.")
 
 
 if __name__ == "__main__":
