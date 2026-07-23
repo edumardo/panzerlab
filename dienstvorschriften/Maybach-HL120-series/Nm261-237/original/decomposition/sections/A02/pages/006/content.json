@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-006",
+  "document_id": "nm261-237",
+  "page": 6,
+  "section": "A02",
+  "type": "figures",
+  "titles": {
+    "de": "Kurbelgehäuse (Tafel 2)",
+    "en-GB": "Crankcase (Plate 2)",
+    "es-ES": "Cárter del cigüeñal (Lámina 2)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-005",
+    "next": "nm261237-page-007"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "nm261237-p006-fig01",
+      "numbers": [
+        1,
+        59
+      ],
+      "captions": {
+        "de": {
+          "plain": "Kurbelgehäuse"
+        },
+        "en-GB": {
+          "plain": "Crankcase"
+        },
+        "es-ES": {
+          "plain": "Cárter del cigüeñal"
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A07",
+  "pages": [
+    16,
+    17
+  ],
+  "titles": {
+    "de": "Schwingungsdämpfer, Schwungkraft-Anlasser, Triebwerk (Tafel 7)",
+    "en-GB": "Vibration damper, inertia starter, engine gear train (Plate 7)",
+    "es-ES": "Amortiguador de vibraciones, motor de arranque por inercia, tren motor (Lámina 7)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "nm261-237",
+  "code": "Nm 261/237",
+  "titles": {
+    "de": "Maybach-Motor HL 120 TRM — Ersatzteil-Liste",
+    "en-GB": "Maybach engine HL 120 TRM — Spare-parts list",
+    "es-ES": "Motor Maybach HL 120 TRM — Lista de piezas de repuesto"
+  },
+  "original_date": "1943-05",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "source_pdf": "../Nm261-237_de.pdf",
+  "index": "index/contents.json",
+  "glossary": "glossary/terminology.json",
+  "manifest": "manifest.json",
+  "layout": "layout.json"
+}

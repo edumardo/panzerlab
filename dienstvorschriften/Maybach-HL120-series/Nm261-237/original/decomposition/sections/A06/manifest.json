@@ -1,0 +1,18 @@
+{
+  "id": "A06",
+  "pages": [
+    14,
+    15
+  ],
+  "titles": {
+    "de": "Saug- und Auspuffrohr mit Vergaser (Tafel 6)",
+    "en-GB": "Intake and exhaust manifold with carburettor (Plate 6)",
+    "es-ES": "Colector de admisión y escape con carburador (Lámina 6)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

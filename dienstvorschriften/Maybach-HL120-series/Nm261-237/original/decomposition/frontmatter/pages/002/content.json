@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-002",
+  "document_id": "nm261-237",
+  "page": 2,
+  "section": "FrontMatter",
+  "type": "figures",
+  "titles": {
+    "de": "HL 120 TRM — Werkfotos Ausführung A und B",
+    "en-GB": "HL 120 TRM — factory photographs, versions A and B",
+    "es-ES": "HL 120 TRM — fotografías de fábrica, versiones A y B"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 3,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-001",
+    "next": "nm261237-page-003"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "nm261237-p002-fig01",
+      "captions": {
+        "de": {
+          "plain": "Ausführung „A“, Lichtmaschinenseite"
+        },
+        "en-GB": {
+          "plain": "Version “A”, dynamo side"
+        },
+        "es-ES": {
+          "plain": "Versión «A», lado de la dínamo"
+        }
+      }
+    },
+    {
+      "id": "nm261237-p002-fig02",
+      "captions": {
+        "de": {
+          "plain": "Ausführung „A“, Ölkühlerseite"
+        },
+        "en-GB": {
+          "plain": "Version “A”, oil-cooler side"
+        },
+        "es-ES": {
+          "plain": "Versión «A», lado del radiador de aceite"
+        }
+      }
+    },
+    {
+      "id": "nm261237-p002-fig03",
+      "captions": {
+        "de": {
+          "plain": "Ausführung „B“, Lichtmaschinenseite"
+        },
+        "en-GB": {
+          "plain": "Version “B”, dynamo side"
+        },
+        "es-ES": {
+          "plain": "Versión «B», lado de la dínamo"
+        }
+      }
+    },
+    {
+      "id": "nm261237-p002-fig04",
+      "captions": {
+        "de": {
+          "plain": "Ausführung „B“, Ölkühlerseite"
+        },
+        "en-GB": {
+          "plain": "Version “B”, oil-cooler side"
+        },
+        "es-ES": {
+          "plain": "Versión «B», lado del radiador de aceite"
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

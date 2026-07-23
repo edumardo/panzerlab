@@ -1,0 +1,15 @@
+{
+  "filename": "Nm261-237_de.pdf",
+  "original_filename": "Maybach HL 120 TRM Ersatzteil-liste.pdf",
+  "media_type": "application/pdf",
+  "byte_size": 64685044,
+  "sha256": "9dd5023e66ee9545e6405f9c3412b083250ac9afb720646047a2921d4131fb7e",
+  "page_count": 15,
+  "language": "de-DE",
+  "provenance": {
+    "collection": "Akira Takiguchi collection",
+    "scanned_date": "2025-06-18",
+    "notes": "Each PDF page is a photographed spread of two facing printed pages. A pencil annotation on the rear endpaper ('102331 (9864912) gp.l.') is a collector's inventory mark, not part of the original document."
+  },
+  "decomposition": "decomposition/document.json"
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-004",
+  "document_id": "nm261-237",
+  "page": 4,
+  "section": "A01",
+  "type": "figures",
+  "titles": {
+    "de": "Brennstoffpumpe, Druckölfilter, Elektrische Apparate (Tafel 1)",
+    "en-GB": "Fuel pump, pressure oil filter, electrical equipment (Plate 1)",
+    "es-ES": "Bomba de combustible, filtro de aceite a presión, equipo eléctrico (Lámina 1)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 4,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-003",
+    "next": "nm261237-page-005"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "nm261237-p004-fig01",
+      "numbers": [
+        1,
+        14
+      ],
+      "captions": {
+        "de": {
+          "plain": "Brennstoffpumpe"
+        },
+        "en-GB": {
+          "plain": "Fuel pump"
+        },
+        "es-ES": {
+          "plain": "Bomba de combustible"
+        }
+      }
+    },
+    {
+      "id": "nm261237-p004-fig02",
+      "numbers": [
+        15,
+        22
+      ],
+      "captions": {
+        "de": {
+          "plain": "Druckölfilter"
+        },
+        "en-GB": {
+          "plain": "Pressure oil filter"
+        },
+        "es-ES": {
+          "plain": "Filtro de aceite a presión"
+        }
+      }
+    },
+    {
+      "id": "nm261237-p004-fig03",
+      "numbers": [
+        23,
+        62
+      ],
+      "captions": {
+        "de": {
+          "plain": "Elektrische Apparate"
+        },
+        "en-GB": {
+          "plain": "Electrical equipment"
+        },
+        "es-ES": {
+          "plain": "Equipo eléctrico"
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
+  }
+}

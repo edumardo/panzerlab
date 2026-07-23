@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-003",
+  "document_id": "nm261-237",
+  "page": 3,
+  "section": "FrontMatter",
+  "type": "index",
+  "titles": {
+    "de": "Achtung! Inhaltsverzeichnis",
+    "en-GB": "Attention! Table of contents",
+    "es-ES": "¡Atención! Índice"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 3,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-002",
+    "next": "nm261237-page-004"
+  },
+  "paragraphs": [
+    {
+      "id": "nm261237-p003-notice",
+      "de": "Achtung! Wichtig! zur Vermeidung von Lieferungsverzögerungen! Bei Ersatzteil-Bestellungen ist unbedingt die Motornummer mit anzugeben, beispielsweise: sendet Teil-Nr. 49738, Motor 7035",
+      "en-GB": "Attention! Important, to avoid delivery delays! Spare-part orders must always state the engine number, for example: send part no. 49738, engine 7035",
+      "es-ES": "¡Atención! ¡Importante para evitar retrasos en la entrega! Los pedidos de piezas de repuesto deben indicar siempre el número de motor, por ejemplo: enviar pieza n.º 49738, motor 7035"
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

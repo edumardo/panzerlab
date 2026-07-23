@@ -1,0 +1,18 @@
+{
+  "id": "A08",
+  "pages": [
+    18,
+    19
+  ],
+  "titles": {
+    "de": "Wasserpumpe mit Antrieb, Zylinderkopf (Tafel 8)",
+    "en-GB": "Water pump with drive, cylinder head (Plate 8)",
+    "es-ES": "Bomba de agua con accionamiento, culata (Lámina 8)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

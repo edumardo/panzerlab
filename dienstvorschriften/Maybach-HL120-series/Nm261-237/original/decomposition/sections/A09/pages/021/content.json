@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-021",
+  "document_id": "nm261-237",
+  "page": 21,
+  "section": "A09",
+  "type": "unclassified",
+  "titles": {
+    "de": "Zylinderkopf (Fortsetzung), Zubehörteile und Werkzeuge (Tafel 9)",
+    "en-GB": "Cylinder head (continued), accessories and tools (Plate 9)",
+    "es-ES": "Culata (continuación), accesorios y herramientas (Lámina 9)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 12,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-020",
+    "next": null
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "not_applicable"
+  }
+}

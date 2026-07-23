@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-016",
+  "document_id": "nm261-237",
+  "page": 16,
+  "section": "A07",
+  "type": "unclassified",
+  "titles": {
+    "de": "Schwingungsdämpfer, Schwungkraft-Anlasser, Triebwerk (Tafel 7)",
+    "en-GB": "Vibration damper, inertia starter, engine gear train (Plate 7)",
+    "es-ES": "Amortiguador de vibraciones, motor de arranque por inercia, tren motor (Lámina 7)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 10,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-015",
+    "next": "nm261237-page-017"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "not_applicable"
+  }
+}

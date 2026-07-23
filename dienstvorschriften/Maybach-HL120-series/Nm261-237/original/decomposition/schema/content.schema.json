@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nm 261/237 canonical page content",
+  "type": "object",
+  "required": ["schema_version", "id", "document_id", "page", "section", "type", "titles", "source", "navigation", "paragraphs", "figures", "status"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "id": {"type": "string", "pattern": "^nm261237-page-[0-9]{3}$"},
+    "document_id": {"const": "nm261-237"},
+    "page": {"type": "integer", "minimum": 1, "maximum": 21},
+    "section": {"type": "string"},
+    "type": {"enum": ["blank", "index", "text", "figures", "unclassified"]},
+    "titles": {"$ref": "#/$defs/localisedNullableStrings"},
+    "source": {
+      "type": "object",
+      "required": ["image", "pdf_spread", "side", "status"],
+      "properties": {
+        "image": {"const": "source.jpg"},
+        "pdf_spread": {"type": "integer", "minimum": 1, "maximum": 15},
+        "side": {"enum": ["left", "right"]},
+        "status": {"enum": ["extracted_clean", "validated"]}
+      }
+    },
+    "navigation": {
+      "type": "object",
+      "required": ["previous", "next"],
+      "properties": {
+        "previous": {"type": ["string", "null"]},
+        "next": {"type": ["string", "null"]}
+      }
+    },
+    "paragraphs": {"type": "array"},
+    "figures": {"type": "array"},
+    "status": {
+      "type": "object",
+      "required": ["transcription", "en-GB", "es-ES", "figures"],
+      "properties": {
+        "transcription": {"$ref": "#/$defs/workflowState"},
+        "en-GB": {"$ref": "#/$defs/workflowState"},
+        "es-ES": {"$ref": "#/$defs/workflowState"},
+        "figures": {"$ref": "#/$defs/workflowState"}
+      }
+    }
+  },
+  "$defs": {
+    "localisedNullableStrings": {
+      "type": "object",
+      "required": ["de", "en-GB", "es-ES"],
+      "properties": {
+        "de": {"type": ["string", "null"]},
+        "en-GB": {"type": ["string", "null"]},
+        "es-ES": {"type": ["string", "null"]}
+      }
+    },
+    "workflowState": {
+      "enum": ["pending", "draft", "reviewed", "validated", "candidate_crop", "not_applicable"]
+    }
+  }
+}

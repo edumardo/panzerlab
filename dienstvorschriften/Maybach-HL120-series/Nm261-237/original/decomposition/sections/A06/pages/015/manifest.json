@@ -1,0 +1,20 @@
+{
+  "page": 15,
+  "section": "A06",
+  "pdf_spread": 9,
+  "side": "right",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "pending",
+  "translation_en_status": "pending",
+  "translation_es_status": "pending",
+  "figures": [],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    0,
+    0,
+    3470,
+    2443
+  ]
+}

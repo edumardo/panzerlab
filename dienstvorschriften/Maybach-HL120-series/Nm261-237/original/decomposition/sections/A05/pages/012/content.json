@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-012",
+  "document_id": "nm261-237",
+  "page": 12,
+  "section": "A05",
+  "type": "unclassified",
+  "titles": {
+    "de": "Ölbehälter, Ölkühler, Ölpumpen — Ausführung „B“ (Tafel 5)",
+    "en-GB": "Oil tank, oil cooler, oil pumps — version “B” (Plate 5)",
+    "es-ES": "Depósito de aceite, radiador de aceite, bombas de aceite — versión «B» (Lámina 5)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 8,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-011",
+    "next": "nm261237-page-013"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "not_applicable"
+  }
+}

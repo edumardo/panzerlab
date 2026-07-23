@@ -1,0 +1,18 @@
+{
+  "id": "A09",
+  "pages": [
+    20,
+    21
+  ],
+  "titles": {
+    "de": "Zylinderkopf (Fortsetzung), Zubehörteile und Werkzeuge (Tafel 9)",
+    "en-GB": "Cylinder head (continued), accessories and tools (Plate 9)",
+    "es-ES": "Culata (continuación), accesorios y herramientas (Lámina 9)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

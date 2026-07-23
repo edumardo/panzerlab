@@ -1,0 +1,20 @@
+{
+  "page": 1,
+  "section": "FrontMatter",
+  "pdf_spread": 2,
+  "side": "right",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "validated",
+  "translation_en_status": "validated",
+  "translation_es_status": "validated",
+  "figures": [],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    0,
+    0,
+    2935,
+    2451
+  ]
+}

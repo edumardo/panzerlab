@@ -1,0 +1,618 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-005",
+  "document_id": "nm261-237",
+  "page": 5,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": "Brennstoffpumpe, Druckölfilter, Elektrische Apparate (Tafel 1)",
+    "en-GB": "Fuel pump, pressure oil filter, electrical equipment (Plate 1)",
+    "es-ES": "Bomba de combustible, filtro de aceite a presión, equipo eléctrico (Lámina 1)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 4,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-004",
+    "next": "nm261237-page-006"
+  },
+  "paragraphs": [
+    {
+      "id": "nm261237-p005-row001",
+      "number": 1,
+      "de": "Solex-Brennstoffpumpe, links",
+      "en-GB": "Solex fuel pump, left",
+      "es-ES": "Bomba de combustible Solex, izquierda",
+      "quantity": 1,
+      "maybach_part_no": "224956/0 (A)"
+    },
+    {
+      "id": "nm261237-p005-row002",
+      "number": 1,
+      "de": "Solex-Brennstoffpumpe, rechts",
+      "en-GB": "Solex fuel pump, right",
+      "es-ES": "Bomba de combustible Solex, derecha",
+      "quantity": 1,
+      "maybach_part_no": "224957/0 (A)"
+    },
+    {
+      "id": "nm261237-p005-row003",
+      "number": 2,
+      "de": "Solex-Brennstoffpumpe, links",
+      "en-GB": "Solex fuel pump, left",
+      "es-ES": "Bomba de combustible Solex, izquierda",
+      "quantity": 1,
+      "maybach_part_no": "230451/0 (B)"
+    },
+    {
+      "id": "nm261237-p005-row004",
+      "number": 2,
+      "de": "Solex-Brennstoffpumpe, rechts",
+      "en-GB": "Solex fuel pump, right",
+      "es-ES": "Bomba de combustible Solex, derecha",
+      "quantity": 1,
+      "maybach_part_no": "223048/0 (B)"
+    },
+    {
+      "id": "nm261237-p005-row005",
+      "number": 3,
+      "de": "Isolierflansch",
+      "en-GB": "Insulating flange",
+      "es-ES": "Brida aislante",
+      "quantity": 2,
+      "maybach_part_no": "312403/1"
+    },
+    {
+      "id": "nm261237-p005-row006",
+      "number": 4,
+      "de": "Dichtung",
+      "en-GB": "Gasket",
+      "es-ES": "Junta",
+      "quantity": 2,
+      "maybach_part_no": "81919"
+    },
+    {
+      "id": "nm261237-p005-row007",
+      "number": 5,
+      "de": "Einschraubstutzen für Rohr 10×8 Ø",
+      "en-GB": "Screw-in union for 10×8 mm pipe",
+      "es-ES": "Racor roscado para tubo de 10×8 Ø",
+      "quantity": 2,
+      "maybach_part_no": "358075/0"
+    },
+    {
+      "id": "nm261237-p005-row008",
+      "number": 6,
+      "de": "Ermeto-Dichtkegel für Rohr 10×8 Ø",
+      "en-GB": "Ermeto sealing cone for 10×8 mm pipe",
+      "es-ES": "Cono de estanqueidad Ermeto para tubo de 10×8 Ø",
+      "quantity": 2,
+      "maybach_part_no": "313512/0"
+    },
+    {
+      "id": "nm261237-p005-row009",
+      "number": 7,
+      "de": "Überwurfmutter für Rohr 10×8 Ø",
+      "en-GB": "Union nut for 10×8 mm pipe",
+      "es-ES": "Tuerca de racor para tubo de 10×8 Ø",
+      "quantity": 2,
+      "maybach_part_no": "313511/0"
+    },
+    {
+      "id": "nm261237-p005-row010",
+      "number": 8,
+      "de": "Einschraubstutzen für Rohr 8×6 Ø",
+      "en-GB": "Screw-in union for 8×6 mm pipe",
+      "es-ES": "Racor roscado para tubo de 8×6 Ø",
+      "quantity": 2,
+      "maybach_part_no": "358080/0"
+    },
+    {
+      "id": "nm261237-p005-row011",
+      "number": 9,
+      "de": "Ermeto-Dichtkegel für Rohr 8×6 Ø",
+      "en-GB": "Ermeto sealing cone for 8×6 mm pipe",
+      "es-ES": "Cono de estanqueidad Ermeto para tubo de 8×6 Ø",
+      "quantity": 2,
+      "maybach_part_no": "313713/0"
+    },
+    {
+      "id": "nm261237-p005-row012",
+      "number": 10,
+      "de": "Überwurfmutter für Rohr 8×6 Ø",
+      "en-GB": "Union nut for 8×6 mm pipe",
+      "es-ES": "Tuerca de racor para tubo de 8×6 Ø",
+      "quantity": 2,
+      "maybach_part_no": "358079/0"
+    },
+    {
+      "id": "nm261237-p005-row013",
+      "number": 11,
+      "de": "Verbindungsleitung der Brennstoffpumpen",
+      "en-GB": "Connecting line between the fuel pumps",
+      "es-ES": "Tubería de unión de las bombas de combustible",
+      "quantity": 1,
+      "maybach_part_no": "223854/2"
+    },
+    {
+      "id": "nm261237-p005-row014",
+      "number": 12,
+      "de": "Anschlußstück",
+      "en-GB": "Connector piece",
+      "es-ES": "Pieza de conexión",
+      "quantity": 1,
+      "maybach_part_no": "223835/3"
+    },
+    {
+      "id": "nm261237-p005-row015",
+      "number": 13,
+      "de": "Dichtkegel",
+      "en-GB": "Sealing cone",
+      "es-ES": "Cono de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "E 3069"
+    },
+    {
+      "id": "nm261237-p005-row016",
+      "number": 14,
+      "de": "Überwurfmutter",
+      "en-GB": "Union nut",
+      "es-ES": "Tuerca de racor",
+      "quantity": 1,
+      "maybach_part_no": "E 3068"
+    },
+    {
+      "id": "nm261237-p005-row017",
+      "number": 15,
+      "de": "EC-Spaltfilter",
+      "en-GB": "EC gap-type oil filter",
+      "es-ES": "Filtro de ranuras EC",
+      "quantity": 1,
+      "maybach_part_no": "224964/1 (A)"
+    },
+    {
+      "id": "nm261237-p005-row018",
+      "number": 16,
+      "de": "EC-Spaltfilter",
+      "en-GB": "EC gap-type oil filter",
+      "es-ES": "Filtro de ranuras EC",
+      "quantity": 1,
+      "maybach_part_no": "227741/0 (B)"
+    },
+    {
+      "id": "nm261237-p005-row019",
+      "number": 17,
+      "de": "Kugelpfanne mit Zusatzsicherung",
+      "en-GB": "Ball socket with additional locking",
+      "es-ES": "Rótula con seguro adicional",
+      "quantity": 1,
+      "maybach_part_no": "10 K 1802 u. E. 5665"
+    },
+    {
+      "id": "nm261237-p005-row020",
+      "number": 18,
+      "de": "Sicherungsblech",
+      "en-GB": "Locking plate",
+      "es-ES": "Chapa de seguridad",
+      "quantity": 4,
+      "maybach_part_no": "E 3184"
+    },
+    {
+      "id": "nm261237-p005-row021",
+      "number": 19,
+      "de": "Dichtkegel",
+      "en-GB": "Sealing cone",
+      "es-ES": "Cono de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "E 7087"
+    },
+    {
+      "id": "nm261237-p005-row022",
+      "number": 20,
+      "de": "Überwurfmutter",
+      "en-GB": "Union nut",
+      "es-ES": "Tuerca de racor",
+      "quantity": 1,
+      "maybach_part_no": "E 7087"
+    },
+    {
+      "id": "nm261237-p005-row023",
+      "number": 21,
+      "de": "Dichtung für Ölzulauf",
+      "en-GB": "Gasket for oil inlet",
+      "es-ES": "Junta para entrada de aceite",
+      "quantity": 1,
+      "maybach_part_no": "303075/1"
+    },
+    {
+      "id": "nm261237-p005-row024",
+      "number": 22,
+      "de": "Dichtung für Ölrücklauf",
+      "en-GB": "Gasket for oil return",
+      "es-ES": "Junta para retorno de aceite",
+      "quantity": 1,
+      "maybach_part_no": "301381"
+    },
+    {
+      "id": "nm261237-p005-row025",
+      "number": 23,
+      "de": "Lichtmaschine",
+      "en-GB": "Dynamo",
+      "es-ES": "Dínamo",
+      "quantity": 1,
+      "maybach_part_no": "218728/2 (A)"
+    },
+    {
+      "id": "nm261237-p005-row026",
+      "number": 24,
+      "de": "Lichtmaschine",
+      "en-GB": "Dynamo",
+      "es-ES": "Dínamo",
+      "quantity": 1,
+      "maybach_part_no": "226579/0 (B)"
+    },
+    {
+      "id": "nm261237-p005-row027",
+      "number": 25,
+      "de": "Anlasser",
+      "en-GB": "Starter motor",
+      "es-ES": "Motor de arranque",
+      "quantity": 1,
+      "maybach_part_no": "228334/0"
+    },
+    {
+      "id": "nm261237-p005-row028",
+      "number": 26,
+      "de": "Magnetzünder",
+      "en-GB": "Magneto",
+      "es-ES": "Magneto",
+      "quantity": 1,
+      "maybach_part_no": "226177/0"
+    },
+    {
+      "id": "nm261237-p005-row029",
+      "number": 27,
+      "de": "Zündkerze",
+      "en-GB": "Spark plug",
+      "es-ES": "Bujía",
+      "quantity": 12,
+      "maybach_part_no": "W 225 T 22"
+    },
+    {
+      "id": "nm261237-p005-row030",
+      "number": 28,
+      "de": "Dichtring für Zündkerze",
+      "en-GB": "Sealing ring for spark plug",
+      "es-ES": "Anillo de estanqueidad para bujía",
+      "quantity": 12,
+      "maybach_part_no": "C14×20 Din 7603"
+    },
+    {
+      "id": "nm261237-p005-row031",
+      "number": 29,
+      "de": "Magnetzünder-Gehäuse",
+      "en-GB": "Magneto housing",
+      "es-ES": "Carcasa del magneto",
+      "quantity": 1,
+      "maybach_part_no": "313098/2"
+    },
+    {
+      "id": "nm261237-p005-row032",
+      "number": 30,
+      "de": "Verschlußschraube",
+      "en-GB": "Screw plug",
+      "es-ES": "Tornillo tapón",
+      "quantity": 1,
+      "maybach_part_no": "AM 30×1,5 Din 7604"
+    },
+    {
+      "id": "nm261237-p005-row033",
+      "number": 31,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "C 30×36 Din 7603"
+    },
+    {
+      "id": "nm261237-p005-row034",
+      "number": 32,
+      "de": "Gummischnur 5×6 cm 157 lg.",
+      "en-GB": "Rubber cord, 5×6 mm section, 157 mm long",
+      "es-ES": "Cordón de goma 5×6 mm, 157 mm de largo",
+      "quantity": 1,
+      "maybach_part_no": "309079/0"
+    },
+    {
+      "id": "nm261237-p005-row035",
+      "number": 33,
+      "de": "Konsole",
+      "en-GB": "Bracket",
+      "es-ES": "Ménsula",
+      "quantity": 1,
+      "maybach_part_no": "222524/0"
+    },
+    {
+      "id": "nm261237-p005-row036",
+      "number": 34,
+      "de": "Gewindebuchse",
+      "en-GB": "Threaded bushing",
+      "es-ES": "Casquillo roscado",
+      "quantity": 4,
+      "maybach_part_no": "50018"
+    },
+    {
+      "id": "nm261237-p005-row037",
+      "number": 35,
+      "de": "Bügel für Lichtmaschine",
+      "en-GB": "Clip for dynamo",
+      "es-ES": "Abrazadera para la dínamo",
+      "quantity": 2,
+      "maybach_part_no": "88607/2"
+    },
+    {
+      "id": "nm261237-p005-row038",
+      "number": 36,
+      "de": "Bügel für Anlasser",
+      "en-GB": "Clip for starter motor",
+      "es-ES": "Abrazadera para el motor de arranque",
+      "quantity": 2,
+      "maybach_part_no": "312231/4"
+    },
+    {
+      "id": "nm261237-p005-row039",
+      "number": 37,
+      "de": "Reglerkasten",
+      "en-GB": "Regulator box",
+      "es-ES": "Caja del regulador",
+      "quantity": 1,
+      "maybach_part_no": "220202/1"
+    },
+    {
+      "id": "nm261237-p005-row040",
+      "number": 38,
+      "de": "Riemenscheibe mit 2 Rillen",
+      "en-GB": "Belt pulley with 2 grooves",
+      "es-ES": "Polea con 2 canales",
+      "quantity": 1,
+      "maybach_part_no": "308547/1 (A)"
+    },
+    {
+      "id": "nm261237-p005-row041",
+      "number": 39,
+      "de": "Riemenscheibe mit 3 Rillen",
+      "en-GB": "Belt pulley with 3 grooves",
+      "es-ES": "Polea con 3 canales",
+      "quantity": 1,
+      "maybach_part_no": "308381/0 (B)"
+    },
+    {
+      "id": "nm261237-p005-row042",
+      "number": 40,
+      "de": "Sicherungsblech",
+      "en-GB": "Locking plate",
+      "es-ES": "Chapa de seguridad",
+      "quantity": 4,
+      "maybach_part_no": "E 3184"
+    },
+    {
+      "id": "nm261237-p005-row043",
+      "number": 41,
+      "de": "Antriebsrad",
+      "en-GB": "Drive gear",
+      "es-ES": "Rueda de arrastre",
+      "quantity": 1,
+      "maybach_part_no": "227998/0"
+    },
+    {
+      "id": "nm261237-p005-row044",
+      "number": 42,
+      "de": "Bolzen",
+      "en-GB": "Bolt",
+      "es-ES": "Perno",
+      "quantity": 1,
+      "maybach_part_no": "88606"
+    },
+    {
+      "id": "nm261237-p005-row045",
+      "number": 43,
+      "de": "Stellscheibe",
+      "en-GB": "Adjusting shim",
+      "es-ES": "Arandela de ajuste",
+      "quantity": 1,
+      "maybach_part_no": "88574/2"
+    },
+    {
+      "id": "nm261237-p005-row046",
+      "number": 44,
+      "de": "Stiftschraube",
+      "en-GB": "Stud bolt",
+      "es-ES": "Espárrago",
+      "quantity": 2,
+      "maybach_part_no": "316104/0 (B)"
+    },
+    {
+      "id": "nm261237-p005-row047",
+      "number": 45,
+      "de": "Sterngriff",
+      "en-GB": "Star grip",
+      "es-ES": "Empuñadura de estrella",
+      "quantity": 2,
+      "maybach_part_no": "E 32280 (B)"
+    },
+    {
+      "id": "nm261237-p005-row048",
+      "number": 46,
+      "de": "Abschirmblech",
+      "en-GB": "Shielding plate",
+      "es-ES": "Chapa de blindaje",
+      "quantity": 1,
+      "maybach_part_no": "315962/0"
+    },
+    {
+      "id": "nm261237-p005-row049",
+      "number": 47,
+      "de": "Kabeldeckel links, komplett",
+      "en-GB": "Cable cover, left, complete",
+      "es-ES": "Tapa de cables, izquierda, completa",
+      "quantity": 1,
+      "maybach_part_no": "228025/2"
+    },
+    {
+      "id": "nm261237-p005-row050",
+      "number": 47,
+      "de": "Kabeldeckel rechts, komplett",
+      "en-GB": "Cable cover, right, complete",
+      "es-ES": "Tapa de cables, derecha, completa",
+      "quantity": 1,
+      "maybach_part_no": "228026/2"
+    },
+    {
+      "id": "nm261237-p005-row051",
+      "number": 48,
+      "de": "Buna-Gummischnur 5Ø 1592 lg.",
+      "en-GB": "Buna rubber cord, 5 mm dia., 1592 mm long",
+      "es-ES": "Cordón de goma Buna, 5 mm Ø, 1592 mm de largo",
+      "quantity": 2,
+      "maybach_part_no": "223386/1"
+    },
+    {
+      "id": "nm261237-p005-row052",
+      "number": 49,
+      "de": "Sechskantschraube",
+      "en-GB": "Hex bolt",
+      "es-ES": "Tornillo hexagonal",
+      "quantity": 4,
+      "maybach_part_no": "312600/2"
+    },
+    {
+      "id": "nm261237-p005-row053",
+      "number": 50,
+      "de": "Sicherungsring",
+      "en-GB": "Locking ring",
+      "es-ES": "Anillo de seguridad",
+      "quantity": 4,
+      "maybach_part_no": "308154/1"
+    },
+    {
+      "id": "nm261237-p005-row054",
+      "number": 51,
+      "de": "Satz Kabel rechts, komplett",
+      "en-GB": "Cable set, right, complete",
+      "es-ES": "Juego de cables, derecho, completo",
+      "quantity": 1,
+      "maybach_part_no": "226912/0"
+    },
+    {
+      "id": "nm261237-p005-row055",
+      "number": 51,
+      "de": "Satz Kabel links, komplett",
+      "en-GB": "Cable set, left, complete",
+      "es-ES": "Juego de cables, izquierdo, completo",
+      "quantity": 1,
+      "maybach_part_no": "226913/0"
+    },
+    {
+      "id": "nm261237-p005-row056",
+      "number": 52,
+      "de": "Kabelstecker",
+      "en-GB": "Cable plug",
+      "es-ES": "Conector de cable",
+      "quantity": 12,
+      "maybach_part_no": "223435/1"
+    },
+    {
+      "id": "nm261237-p005-row057",
+      "number": 53,
+      "de": "Kabelnummernschild 1M–6M",
+      "en-GB": "Cable number tag, 1M–6M",
+      "es-ES": "Placa de numeración de cables 1M–6M",
+      "quantity": 2,
+      "maybach_part_no": "54060–65"
+    },
+    {
+      "id": "nm261237-p005-row058",
+      "number": 54,
+      "de": "Kabelnummernschild 7M–12M",
+      "en-GB": "Cable number tag, 7M–12M",
+      "es-ES": "Placa de numeración de cables 7M–12M",
+      "quantity": 2,
+      "maybach_part_no": "67680–85"
+    },
+    {
+      "id": "nm261237-p005-row059",
+      "number": 55,
+      "de": "Kabelleitung Plus 30",
+      "en-GB": "Cable lead, positive 30",
+      "es-ES": "Cable positivo 30",
+      "quantity": 1,
+      "maybach_part_no": "223331/0"
+    },
+    {
+      "id": "nm261237-p005-row060",
+      "number": 56,
+      "de": "Kabelleitung Minus 31",
+      "en-GB": "Cable lead, negative 31",
+      "es-ES": "Cable negativo 31",
+      "quantity": 2,
+      "maybach_part_no": "223332/0"
+    },
+    {
+      "id": "nm261237-p005-row061",
+      "number": 57,
+      "de": "Rohrschelle",
+      "en-GB": "Pipe clamp",
+      "es-ES": "Abrazadera de tubo",
+      "quantity": 1,
+      "maybach_part_no": "223333/0"
+    },
+    {
+      "id": "nm261237-p005-row062",
+      "number": 58,
+      "de": "Kabelleitung",
+      "en-GB": "Cable lead",
+      "es-ES": "Cable",
+      "quantity": 2,
+      "maybach_part_no": "229942/1"
+    },
+    {
+      "id": "nm261237-p005-row063",
+      "number": 59,
+      "de": "Entstörschlauch, komplett",
+      "en-GB": "Radio-suppression hose, complete",
+      "es-ES": "Manguera antiparasitaria, completa",
+      "quantity": 2,
+      "maybach_part_no": "316048/0"
+    },
+    {
+      "id": "nm261237-p005-row064",
+      "number": 60,
+      "de": "Gewindestutzen",
+      "en-GB": "Threaded stub",
+      "es-ES": "Racor roscado",
+      "quantity": 2,
+      "maybach_part_no": "301777"
+    },
+    {
+      "id": "nm261237-p005-row065",
+      "number": 61,
+      "de": "Gummitülle 10 InnenØ",
+      "en-GB": "Rubber grommet, 10 mm inner dia.",
+      "es-ES": "Pasacables de goma, 10 mm Ø interior",
+      "quantity": 4,
+      "maybach_part_no": "301778"
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

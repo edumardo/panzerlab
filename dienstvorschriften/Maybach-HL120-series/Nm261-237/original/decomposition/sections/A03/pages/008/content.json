@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-008",
+  "document_id": "nm261-237",
+  "page": 8,
+  "section": "A03",
+  "type": "unclassified",
+  "titles": {
+    "de": "Kurbelgehäuse (Fortsetzung), Motorlagerung (Tafel 3)",
+    "en-GB": "Crankcase (continued), engine mounting (Plate 3)",
+    "es-ES": "Cárter del cigüeñal (continuación), bancada del motor (Lámina 3)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 6,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-007",
+    "next": "nm261237-page-009"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "not_applicable"
+  }
+}

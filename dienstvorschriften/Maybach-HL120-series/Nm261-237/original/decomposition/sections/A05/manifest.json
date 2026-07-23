@@ -1,0 +1,18 @@
+{
+  "id": "A05",
+  "pages": [
+    12,
+    13
+  ],
+  "titles": {
+    "de": "Ölbehälter, Ölkühler, Ölpumpen — Ausführung „B“ (Tafel 5)",
+    "en-GB": "Oil tank, oil cooler, oil pumps — version “B” (Plate 5)",
+    "es-ES": "Depósito de aceite, radiador de aceite, bombas de aceite — versión «B» (Lámina 5)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

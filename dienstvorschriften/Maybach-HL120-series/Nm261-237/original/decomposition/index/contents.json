@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "document_id": "nm261-237",
+  "source_page": 3,
+  "entries": [
+    {
+      "group_de": "Brennstoffpumpe",
+      "group_en": "Fuel pump",
+      "group_es": "Bomba de combustible",
+      "tafel": "1",
+      "section": "A01"
+    },
+    {
+      "group_de": "Drucköfilter",
+      "group_en": "Pressure oil filter",
+      "group_es": "Filtro de aceite a presión",
+      "tafel": "1",
+      "section": "A01"
+    },
+    {
+      "group_de": "Elektrische Apparate",
+      "group_en": "Electrical equipment",
+      "group_es": "Equipo eléctrico",
+      "tafel": "1",
+      "section": "A01"
+    },
+    {
+      "group_de": "Kurbelgehäuse",
+      "group_en": "Crankcase",
+      "group_es": "Cárter del cigüeñal",
+      "tafel": "2 u. 3",
+      "section": "A02–A03"
+    },
+    {
+      "group_de": "Motorlagerung",
+      "group_en": "Engine mounting",
+      "group_es": "Bancada del motor",
+      "tafel": "3",
+      "section": "A03"
+    },
+    {
+      "group_de": "Ölbehälter (Ausführung A)",
+      "group_en": "Oil tank (version A)",
+      "group_es": "Depósito de aceite (versión A)",
+      "tafel": "4",
+      "section": "A04"
+    },
+    {
+      "group_de": "Ölkühler (Ausführung A)",
+      "group_en": "Oil cooler (version A)",
+      "group_es": "Radiador de aceite (versión A)",
+      "tafel": "4",
+      "section": "A04"
+    },
+    {
+      "group_de": "Ölpumpen (Ausführung A)",
+      "group_en": "Oil pumps (version A)",
+      "group_es": "Bombas de aceite (versión A)",
+      "tafel": "4",
+      "section": "A04"
+    },
+    {
+      "group_de": "Ölbehälter (Ausführung B)",
+      "group_en": "Oil tank (version B)",
+      "group_es": "Depósito de aceite (versión B)",
+      "tafel": "5",
+      "section": "A05"
+    },
+    {
+      "group_de": "Ölkühler (Ausführung B)",
+      "group_en": "Oil cooler (version B)",
+      "group_es": "Radiador de aceite (versión B)",
+      "tafel": "5",
+      "section": "A05"
+    },
+    {
+      "group_de": "Ölpumpen (Ausführung B)",
+      "group_en": "Oil pumps (version B)",
+      "group_es": "Bombas de aceite (versión B)",
+      "tafel": "5",
+      "section": "A05"
+    },
+    {
+      "group_de": "Saug- und Auspuffrohr mit Vergaser",
+      "group_en": "Intake and exhaust manifold with carburettor",
+      "group_es": "Colector de admisión y escape con carburador",
+      "tafel": "6",
+      "section": "A06"
+    },
+    {
+      "group_de": "Schwingungsdämpfer",
+      "group_en": "Vibration damper",
+      "group_es": "Amortiguador de vibraciones",
+      "tafel": "7",
+      "section": "A07"
+    },
+    {
+      "group_de": "Schwungkraft-Anlasser",
+      "group_en": "Inertia starter",
+      "group_es": "Motor de arranque por inercia",
+      "tafel": "7",
+      "section": "A07"
+    },
+    {
+      "group_de": "Triebwerk",
+      "group_en": "Engine gear train",
+      "group_es": "Tren motor",
+      "tafel": "7",
+      "section": "A07"
+    },
+    {
+      "group_de": "Zylinderkopf",
+      "group_en": "Cylinder head",
+      "group_es": "Culata",
+      "tafel": "8 u. 9",
+      "section": "A08–A09"
+    },
+    {
+      "group_de": "Zubehörteile und Werkzeuge",
+      "group_en": "Accessories and tools",
+      "group_es": "Accesorios y herramientas",
+      "tafel": "9",
+      "section": "A09"
+    }
+  ]
+}

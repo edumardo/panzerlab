@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-018",
+  "document_id": "nm261-237",
+  "page": 18,
+  "section": "A08",
+  "type": "unclassified",
+  "titles": {
+    "de": "Wasserpumpe mit Antrieb, Zylinderkopf (Tafel 8)",
+    "en-GB": "Water pump with drive, cylinder head (Plate 8)",
+    "es-ES": "Bomba de agua con accionamiento, culata (Lámina 8)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 11,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-017",
+    "next": "nm261237-page-019"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "pending",
+    "en-GB": "pending",
+    "es-ES": "pending",
+    "figures": "not_applicable"
+  }
+}

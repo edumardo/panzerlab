@@ -1,0 +1,564 @@
+{
+  "schema_version": 1,
+  "id": "nm261237-page-007",
+  "document_id": "nm261-237",
+  "page": 7,
+  "section": "A02",
+  "type": "text",
+  "titles": {
+    "de": "Kurbelgehäuse (Tafel 2)",
+    "en-GB": "Crankcase (Plate 2)",
+    "es-ES": "Cárter del cigüeñal (Lámina 2)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "nm261237-page-006",
+    "next": "nm261237-page-008"
+  },
+  "paragraphs": [
+    {
+      "id": "nm261237-p007-row001",
+      "number": 1,
+      "de": "Kurbelgehäuse",
+      "en-GB": "Crankcase",
+      "es-ES": "Cárter del cigüeñal",
+      "quantity": 1,
+      "maybach_part_no": "221695/3"
+    },
+    {
+      "id": "nm261237-p007-row002",
+      "number": 2,
+      "de": "vorderer Abschlußdeckel, komplett",
+      "en-GB": "Front end cover, complete",
+      "es-ES": "Tapa de cierre delantera, completa",
+      "quantity": 1,
+      "maybach_part_no": "220960/7"
+    },
+    {
+      "id": "nm261237-p007-row003",
+      "number": 3,
+      "de": "Vierkantschraube",
+      "en-GB": "Square-head bolt",
+      "es-ES": "Tornillo de cabeza cuadrada",
+      "quantity": 2,
+      "maybach_part_no": "319498/0"
+    },
+    {
+      "id": "nm261237-p007-row004",
+      "number": 4,
+      "de": "Sicherungsblech",
+      "en-GB": "Locking plate",
+      "es-ES": "Chapa de seguridad",
+      "quantity": 6,
+      "maybach_part_no": "E 3162"
+    },
+    {
+      "id": "nm261237-p007-row005",
+      "number": 5,
+      "de": "Gummiring",
+      "en-GB": "Rubber ring",
+      "es-ES": "Anillo de goma",
+      "quantity": 1,
+      "maybach_part_no": "318481/0"
+    },
+    {
+      "id": "nm261237-p007-row006",
+      "number": 6,
+      "de": "Zylinderbuchse",
+      "en-GB": "Cylinder liner",
+      "es-ES": "Camisa de cilindro",
+      "quantity": 12,
+      "maybach_part_no": "305640"
+    },
+    {
+      "id": "nm261237-p007-row007",
+      "number": 7,
+      "de": "Dichtungsring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de junta",
+      "quantity": 24,
+      "maybach_part_no": "306448/2"
+    },
+    {
+      "id": "nm261237-p007-row008",
+      "number": 8,
+      "de": "Ölfangblech",
+      "en-GB": "Oil deflector plate",
+      "es-ES": "Chapa colectora de aceite",
+      "quantity": 12,
+      "maybach_part_no": "309143/2"
+    },
+    {
+      "id": "nm261237-p007-row009",
+      "number": 9,
+      "de": "Wasserablaßstopfen",
+      "en-GB": "Water drain plug",
+      "es-ES": "Tapón de vaciado de agua",
+      "quantity": 2,
+      "maybach_part_no": "88571/1"
+    },
+    {
+      "id": "nm261237-p007-row010",
+      "number": 10,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 2,
+      "maybach_part_no": "C 18×22 Din 7603"
+    },
+    {
+      "id": "nm261237-p007-row011",
+      "number": 11,
+      "de": "Überwurfmutter",
+      "en-GB": "Union nut",
+      "es-ES": "Tuerca de racor",
+      "quantity": 1,
+      "maybach_part_no": "A 16 M 26×1,5 Din 7606 (A)"
+    },
+    {
+      "id": "nm261237-p007-row012",
+      "number": 12,
+      "de": "Dichtkegel",
+      "en-GB": "Sealing cone",
+      "es-ES": "Cono de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "B 16 Din 7608 (A)"
+    },
+    {
+      "id": "nm261237-p007-row013",
+      "number": 13,
+      "de": "Einschraubstutzen",
+      "en-GB": "Screw-in union",
+      "es-ES": "Racor roscado",
+      "quantity": 1,
+      "maybach_part_no": "A 16 Din 7611 (A)"
+    },
+    {
+      "id": "nm261237-p007-row014",
+      "number": 14,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "C 26×32 Din 7603"
+    },
+    {
+      "id": "nm261237-p007-row015",
+      "number": 15,
+      "de": "Kernlochstopfen",
+      "en-GB": "Core-hole plug",
+      "es-ES": "Tapón de agujero de macho",
+      "quantity": 1,
+      "maybach_part_no": "E 6530 (B)"
+    },
+    {
+      "id": "nm261237-p007-row016",
+      "number": 16,
+      "de": "Lasche",
+      "en-GB": "Strap",
+      "es-ES": "Presilla",
+      "quantity": 1,
+      "maybach_part_no": "88573/2"
+    },
+    {
+      "id": "nm261237-p007-row017",
+      "number": 17,
+      "de": "Winkel",
+      "en-GB": "Angle bracket",
+      "es-ES": "Escuadra",
+      "quantity": 1,
+      "maybach_part_no": "88590"
+    },
+    {
+      "id": "nm261237-p007-row018",
+      "number": 18,
+      "de": "Düse",
+      "en-GB": "Nozzle",
+      "es-ES": "Tobera",
+      "quantity": 1,
+      "maybach_part_no": "305506/5"
+    },
+    {
+      "id": "nm261237-p007-row019",
+      "number": 19,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "A 20×24 Din 7603 Cu"
+    },
+    {
+      "id": "nm261237-p007-row020",
+      "number": 20,
+      "de": "Sicherungsblech",
+      "en-GB": "Locking plate",
+      "es-ES": "Chapa de seguridad",
+      "quantity": 8,
+      "maybach_part_no": "E 3184"
+    },
+    {
+      "id": "nm261237-p007-row021",
+      "number": 21,
+      "de": "Deckel mit Öse, vorne",
+      "en-GB": "Cover with eyelet, front",
+      "es-ES": "Tapa con argolla, delantera",
+      "quantity": 1,
+      "maybach_part_no": "306751/1"
+    },
+    {
+      "id": "nm261237-p007-row022",
+      "number": 22,
+      "de": "Dichtung, vorne",
+      "en-GB": "Gasket, front",
+      "es-ES": "Junta, delantera",
+      "quantity": 1,
+      "maybach_part_no": "306752/0"
+    },
+    {
+      "id": "nm261237-p007-row023",
+      "number": 23,
+      "de": "Deckel ohne Öse, hinten",
+      "en-GB": "Cover without eyelet, rear",
+      "es-ES": "Tapa sin argolla, trasera",
+      "quantity": 1,
+      "maybach_part_no": "314802/1"
+    },
+    {
+      "id": "nm261237-p007-row024",
+      "number": 24,
+      "de": "Dichtung hinten",
+      "en-GB": "Gasket, rear",
+      "es-ES": "Junta, trasera",
+      "quantity": 1,
+      "maybach_part_no": "306754/0"
+    },
+    {
+      "id": "nm261237-p007-row025",
+      "number": 25,
+      "de": "Aufhängeöse",
+      "en-GB": "Suspension eyelet",
+      "es-ES": "Argolla de suspensión",
+      "quantity": 1,
+      "maybach_part_no": "304889/1"
+    },
+    {
+      "id": "nm261237-p007-row026",
+      "number": 26,
+      "de": "Unterlegscheibe",
+      "en-GB": "Washer, as required",
+      "es-ES": "Arandela, según necesidad",
+      "quantity": null,
+      "maybach_part_no": "319040/0"
+    },
+    {
+      "id": "nm261237-p007-row027",
+      "number": 27,
+      "de": "Zwischenrad",
+      "en-GB": "Idler gear",
+      "es-ES": "Engranaje intermedio",
+      "quantity": 1,
+      "maybach_part_no": "227879/0"
+    },
+    {
+      "id": "nm261237-p007-row028",
+      "number": 28,
+      "de": "Zwischenradbolzen",
+      "en-GB": "Idler gear pin",
+      "es-ES": "Perno del engranaje intermedio",
+      "quantity": 1,
+      "maybach_part_no": "313353/0"
+    },
+    {
+      "id": "nm261237-p007-row029",
+      "number": 29,
+      "de": "Kegelrollenlager",
+      "en-GB": "Taper roller bearing",
+      "es-ES": "Rodamiento de rodillos cónicos",
+      "quantity": 2,
+      "maybach_part_no": "VKF 30206"
+    },
+    {
+      "id": "nm261237-p007-row030",
+      "number": 30,
+      "de": "Ausgleichscheibe",
+      "en-GB": "Shim washer",
+      "es-ES": "Arandela de compensación",
+      "quantity": 5,
+      "maybach_part_no": "89891/1"
+    },
+    {
+      "id": "nm261237-p007-row031",
+      "number": 31,
+      "de": "Flansch",
+      "en-GB": "Flange",
+      "es-ES": "Brida",
+      "quantity": 1,
+      "maybach_part_no": "307769/1"
+    },
+    {
+      "id": "nm261237-p007-row032",
+      "number": 32,
+      "de": "Dichtung",
+      "en-GB": "Gasket",
+      "es-ES": "Junta",
+      "quantity": 1,
+      "maybach_part_no": "307770/0"
+    },
+    {
+      "id": "nm261237-p007-row033",
+      "number": 33,
+      "de": "Anlaufzapfen",
+      "en-GB": "Thrust pin",
+      "es-ES": "Espiga de tope",
+      "quantity": 1,
+      "maybach_part_no": "220960/7"
+    },
+    {
+      "id": "nm261237-p007-row034",
+      "number": 34,
+      "de": "Füllstück",
+      "en-GB": "Filler piece",
+      "es-ES": "Pieza de relleno",
+      "quantity": 1,
+      "maybach_part_no": "88594/2"
+    },
+    {
+      "id": "nm261237-p007-row035",
+      "number": 35,
+      "de": "Ausgleichscheibe",
+      "en-GB": "Shim washer",
+      "es-ES": "Arandela de compensación",
+      "quantity": 1,
+      "maybach_part_no": "88597/1"
+    },
+    {
+      "id": "nm261237-p007-row036",
+      "number": 36,
+      "de": "Buchse",
+      "en-GB": "Bushing",
+      "es-ES": "Casquillo",
+      "quantity": 1,
+      "maybach_part_no": "309170/0"
+    },
+    {
+      "id": "nm261237-p007-row037",
+      "number": 37,
+      "de": "Bundbuchse",
+      "en-GB": "Flanged bushing",
+      "es-ES": "Casquillo con collar",
+      "quantity": 2,
+      "maybach_part_no": "300053"
+    },
+    {
+      "id": "nm261237-p007-row038",
+      "number": 38,
+      "de": "Buchse",
+      "en-GB": "Bushing",
+      "es-ES": "Casquillo",
+      "quantity": 1,
+      "maybach_part_no": "303828"
+    },
+    {
+      "id": "nm261237-p007-row039",
+      "number": 39,
+      "de": "Buchse",
+      "en-GB": "Bushing",
+      "es-ES": "Casquillo",
+      "quantity": 1,
+      "maybach_part_no": "303829"
+    },
+    {
+      "id": "nm261237-p007-row040",
+      "number": 40,
+      "de": "Sicherungsblech",
+      "en-GB": "Locking plate",
+      "es-ES": "Chapa de seguridad",
+      "quantity": 1,
+      "maybach_part_no": "303830"
+    },
+    {
+      "id": "nm261237-p007-row041",
+      "number": 41,
+      "de": "Verschlußschraube",
+      "en-GB": "Screw plug",
+      "es-ES": "Tornillo tapón",
+      "quantity": 4,
+      "maybach_part_no": "77109/1"
+    },
+    {
+      "id": "nm261237-p007-row042",
+      "number": 42,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 5,
+      "maybach_part_no": "AM 18×1,5 Din 7604"
+    },
+    {
+      "id": "nm261237-p007-row043",
+      "number": 43,
+      "de": "Schlitzstopfen",
+      "en-GB": "Slotted plug",
+      "es-ES": "Tapón ranurado",
+      "quantity": 1,
+      "maybach_part_no": "A 18×22 Din 7603 Cu"
+    },
+    {
+      "id": "nm261237-p007-row044",
+      "number": 44,
+      "de": "Rückzugfeder",
+      "en-GB": "Return spring",
+      "es-ES": "Muelle de retorno",
+      "quantity": 2,
+      "maybach_part_no": "M 18×1,5 Kr 1022"
+    },
+    {
+      "id": "nm261237-p007-row045",
+      "number": 45,
+      "de": "Federöse",
+      "en-GB": "Spring eyelet",
+      "es-ES": "Argolla del muelle",
+      "quantity": 1,
+      "maybach_part_no": "309075/0"
+    },
+    {
+      "id": "nm261237-p007-row046",
+      "number": 46,
+      "de": "Brennstoff-Überlauf-Ventil, komplett",
+      "en-GB": "Fuel overflow valve, complete",
+      "es-ES": "Válvula de rebose de combustible, completa",
+      "quantity": 1,
+      "maybach_part_no": "309076/0"
+    },
+    {
+      "id": "nm261237-p007-row047",
+      "number": 47,
+      "de": "Ermeto-Dichtkegel",
+      "en-GB": "Ermeto sealing cone",
+      "es-ES": "Cono de estanqueidad Ermeto",
+      "quantity": 1,
+      "maybach_part_no": "226573/2"
+    },
+    {
+      "id": "nm261237-p007-row048",
+      "number": 48,
+      "de": "Ermeto-Überwurfmutter",
+      "en-GB": "Ermeto union nut",
+      "es-ES": "Tuerca de racor Ermeto",
+      "quantity": 3,
+      "maybach_part_no": "E 7737"
+    },
+    {
+      "id": "nm261237-p007-row049",
+      "number": 49,
+      "de": "Ermeto-Schraubstutzen",
+      "en-GB": "Ermeto screw union",
+      "es-ES": "Racor roscado Ermeto",
+      "quantity": 3,
+      "maybach_part_no": "E 7738"
+    },
+    {
+      "id": "nm261237-p007-row050",
+      "number": 50,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 2,
+      "maybach_part_no": "C 18×22 Din 7603"
+    },
+    {
+      "id": "nm261237-p007-row051",
+      "number": 51,
+      "de": "T-Stück",
+      "en-GB": "T-piece",
+      "es-ES": "Pieza en T",
+      "quantity": 1,
+      "maybach_part_no": "312641/1"
+    },
+    {
+      "id": "nm261237-p007-row052",
+      "number": 52,
+      "de": "Rohrleitung",
+      "en-GB": "Pipe",
+      "es-ES": "Tubería",
+      "quantity": 1,
+      "maybach_part_no": "226574/1"
+    },
+    {
+      "id": "nm261237-p007-row053",
+      "number": 53,
+      "de": "Einschraubnippel",
+      "en-GB": "Screw-in nipple",
+      "es-ES": "Racor roscado (niple)",
+      "quantity": 1,
+      "maybach_part_no": "E 3084"
+    },
+    {
+      "id": "nm261237-p007-row054",
+      "number": 54,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "C 14×18 Din 7603"
+    },
+    {
+      "id": "nm261237-p007-row055",
+      "number": 55,
+      "de": "Einschraubnippel",
+      "en-GB": "Screw-in nipple",
+      "es-ES": "Niple roscado",
+      "quantity": 1,
+      "maybach_part_no": "E 3084"
+    },
+    {
+      "id": "nm261237-p007-row056",
+      "number": 56,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "C 18×22 Din 7603"
+    },
+    {
+      "id": "nm261237-p007-row057",
+      "number": 57,
+      "de": "Rohrleitung",
+      "en-GB": "Pipe",
+      "es-ES": "Tubería",
+      "quantity": 1,
+      "maybach_part_no": "228782/0"
+    },
+    {
+      "id": "nm261237-p007-row058",
+      "number": 58,
+      "de": "Verschlußschraube",
+      "en-GB": "Screw plug",
+      "es-ES": "Tornillo tapón",
+      "quantity": 1,
+      "maybach_part_no": "AM 12×1,5 Din 7604"
+    },
+    {
+      "id": "nm261237-p007-row059",
+      "number": 59,
+      "de": "Dichtring",
+      "en-GB": "Sealing ring",
+      "es-ES": "Anillo de estanqueidad",
+      "quantity": 1,
+      "maybach_part_no": "C 12×16 Din 7603"
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "not_applicable"
+  }
+}

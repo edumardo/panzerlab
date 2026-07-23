@@ -1,0 +1,18 @@
+{
+  "id": "A01",
+  "pages": [
+    4,
+    5
+  ],
+  "titles": {
+    "de": "Brennstoffpumpe, Druckölfilter, Elektrische Apparate (Tafel 1)",
+    "en-GB": "Fuel pump, pressure oil filter, electrical equipment (Plate 1)",
+    "es-ES": "Bomba de combustible, filtro de aceite a presión, equipo eléctrico (Lámina 1)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

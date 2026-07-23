@@ -1,0 +1,18 @@
+{
+  "id": "A03",
+  "pages": [
+    8,
+    9
+  ],
+  "titles": {
+    "de": "Kurbelgehäuse (Fortsetzung), Motorlagerung (Tafel 3)",
+    "en-GB": "Crankcase (continued), engine mounting (Plate 3)",
+    "es-ES": "Cárter del cigüeñal (continuación), bancada del motor (Lámina 3)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A02",
+  "pages": [
+    6,
+    7
+  ],
+  "titles": {
+    "de": "Kurbelgehäuse (Tafel 2)",
+    "en-GB": "Crankcase (Plate 2)",
+    "es-ES": "Cárter del cigüeñal (Lámina 2)"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

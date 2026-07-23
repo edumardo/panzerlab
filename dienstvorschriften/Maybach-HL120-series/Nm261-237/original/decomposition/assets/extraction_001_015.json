@@ -1,0 +1,197 @@
+[
+  {
+    "pdf_page": 1,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 3516,
+      "height": 2453,
+      "mode": "RGB",
+      "area": 8624748
+    },
+    "spread": "spreads/spread_001.jpg",
+    "thumbnail": "thumbs/spread_001_thumb.jpg"
+  },
+  {
+    "pdf_page": 2,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 5241,
+      "height": 2451,
+      "mode": "RGB",
+      "area": 12845691
+    },
+    "spread": "spreads/spread_002.jpg",
+    "thumbnail": "thumbs/spread_002_thumb.jpg"
+  },
+  {
+    "pdf_page": 3,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6932,
+      "height": 2441,
+      "mode": "RGB",
+      "area": 16921012
+    },
+    "spread": "spreads/spread_003.jpg",
+    "thumbnail": "thumbs/spread_003_thumb.jpg"
+  },
+  {
+    "pdf_page": 4,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6938,
+      "height": 2435,
+      "mode": "RGB",
+      "area": 16894030
+    },
+    "spread": "spreads/spread_004.jpg",
+    "thumbnail": "thumbs/spread_004_thumb.jpg"
+  },
+  {
+    "pdf_page": 5,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6939,
+      "height": 2433,
+      "mode": "RGB",
+      "area": 16882587
+    },
+    "spread": "spreads/spread_005.jpg",
+    "thumbnail": "thumbs/spread_005_thumb.jpg"
+  },
+  {
+    "pdf_page": 6,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6936,
+      "height": 2432,
+      "mode": "RGB",
+      "area": 16868352
+    },
+    "spread": "spreads/spread_006.jpg",
+    "thumbnail": "thumbs/spread_006_thumb.jpg"
+  },
+  {
+    "pdf_page": 7,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6938,
+      "height": 2432,
+      "mode": "RGB",
+      "area": 16873216
+    },
+    "spread": "spreads/spread_007.jpg",
+    "thumbnail": "thumbs/spread_007_thumb.jpg"
+  },
+  {
+    "pdf_page": 8,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6938,
+      "height": 2436,
+      "mode": "RGB",
+      "area": 16900968
+    },
+    "spread": "spreads/spread_008.jpg",
+    "thumbnail": "thumbs/spread_008_thumb.jpg"
+  },
+  {
+    "pdf_page": 9,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6940,
+      "height": 2443,
+      "mode": "RGB",
+      "area": 16954420
+    },
+    "spread": "spreads/spread_009.jpg",
+    "thumbnail": "thumbs/spread_009_thumb.jpg"
+  },
+  {
+    "pdf_page": 10,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6936,
+      "height": 2444,
+      "mode": "RGB",
+      "area": 16951584
+    },
+    "spread": "spreads/spread_010.jpg",
+    "thumbnail": "thumbs/spread_010_thumb.jpg"
+  },
+  {
+    "pdf_page": 11,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6934,
+      "height": 2432,
+      "mode": "RGB",
+      "area": 16863488
+    },
+    "spread": "spreads/spread_011.jpg",
+    "thumbnail": "thumbs/spread_011_thumb.jpg"
+  },
+  {
+    "pdf_page": 12,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6932,
+      "height": 2438,
+      "mode": "RGB",
+      "area": 16900216
+    },
+    "spread": "spreads/spread_012.jpg",
+    "thumbnail": "thumbs/spread_012_thumb.jpg"
+  },
+  {
+    "pdf_page": 13,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 6929,
+      "height": 2441,
+      "mode": "RGB",
+      "area": 16913689
+    },
+    "spread": "spreads/spread_013.jpg",
+    "thumbnail": "thumbs/spread_013_thumb.jpg"
+  },
+  {
+    "pdf_page": 14,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 5201,
+      "height": 2430,
+      "mode": "RGB",
+      "area": 12638430
+    },
+    "spread": "spreads/spread_014.jpg",
+    "thumbnail": "thumbs/spread_014_thumb.jpg"
+  },
+  {
+    "pdf_page": 15,
+    "selected": {
+      "index": 0,
+      "name": "/Im0",
+      "width": 1746,
+      "height": 2442,
+      "mode": "RGB",
+      "area": 4263732
+    },
+    "spread": "spreads/spread_015.jpg",
+    "thumbnail": "thumbs/spread_015_thumb.jpg"
+  }
+]
