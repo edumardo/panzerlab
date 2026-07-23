@@ -162,7 +162,7 @@ to that document's subject matter, and points at the shared file with an
   "document_id": "d652-50c",
   "source_language": "de-DE",
   "target_languages": ["en-GB", "es-ES"],
-  "extends": "../../../glossary/terminology.json",
+  "extends": "../../../../glossary/terminology.json",
   "terms": []
 }
 ```
@@ -191,6 +191,13 @@ source or translation.
   `original/decomposition/scripts/`.
 - Add shared tooling only when it is genuinely reusable across several
   documents and its interface is stable.
+- `scripts/validate_archive.py` (repository root) is such shared tooling: it
+  runs the acceptance checklist in
+  [`docs/PDF_TO_CANONICAL_JSON.md`](docs/PDF_TO_CANONICAL_JSON.md) (JSON
+  validity, referential integrity, page order, unique IDs, figure numbering,
+  workflow-state vocabulary, glossary `extends` resolution) against any
+  document directory or `original/decomposition/` path. It does not replace
+  the visual-review steps in that checklist.
 - Scripts must state what they overwrite and should be idempotent where
   practical.
 - Never overwrite validated transcription, translation, or figure data with OCR

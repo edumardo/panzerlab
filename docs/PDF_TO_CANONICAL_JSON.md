@@ -327,7 +327,7 @@ A document's own glossary holds only terms specific to its subject matter:
   "document_id": "manual-001",
   "source_language": "de-DE",
   "target_languages": ["en-GB", "es-ES"],
-  "extends": "../../../glossary/terminology.json",
+  "extends": "../../../../glossary/terminology.json",
   "terms": [
     {
       "id": "term-001",
