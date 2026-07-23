@@ -3,7 +3,7 @@
 - **Designation**: Nm 261/237 (manufacturer print-job code; this document carries
   no Wehrmacht D-number — it is a Maybach factory spare-parts catalogue, not an
   Army Dienstvorschrift)
-- **Series**: Maybach-HL120-series
+- **Series**: Maybach-engine-series
 - **Title (DE)**: Maybach-Motor HL 120 TRM — Ersatzteil-Liste
 - **Title (EN)**: Maybach engine HL 120 TRM — Spare-parts list
 - **Title (ES)**: Motor Maybach HL 120 TRM — Lista de piezas de repuesto

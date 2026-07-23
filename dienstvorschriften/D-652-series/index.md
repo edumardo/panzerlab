@@ -101,7 +101,7 @@ The series reuses numbers for unrelated vehicles (Czech chassis, later tank dest
 - **No closed total count exists.** The D 652 numbering has permanent gaps (not every suffix was ever assigned), and for several manuals only the reference survives, not the physical document. Entries marked "n.d." or "?" have no located copy yet.
 - **StuG classification criterion:** any suffix whose title reads *"Gepanzerte Selbstfahrlafette f. Sturmgeschütz"* or *"Sturmgeschütz 7,5 cm Kanone"* / *"StuG 40"* / *"StuH 42"*. Titles reading *"Panzerkampfwagen III"* or *"Panzerbefehlswagen"* belong to the tank / command vehicle.
 - **Boundary manuals:** Section 2 (D 652/50a–c) needs the most care in translation, because a single document serves all three vehicles and mixes different Ausführung ranges per subsystem.
-- **Maybach HL 120 TR/TRM engine:** had its own independent manuals (e.g. Heft 90 D type), transferred with the equipment; track these separately from the D 652 series. The manufacturer's spare-parts catalogue is now catalogued at [Maybach-HL120-series](../Maybach-HL120-series/).
+- **Maybach HL 120 TR/TRM engine:** had its own independent manuals (e.g. Heft 90 D type), transferred with the equipment; track these separately from the D 652 series. The manufacturer's spare-parts catalogue is now catalogued at [Maybach-engine-series](../Maybach-engine-series/).
 
 ---
 
