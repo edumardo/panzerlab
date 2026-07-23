@@ -7,5 +7,216 @@
     "es-ES"
   ],
   "extends": "../../../glossary/terminology.json",
-  "terms": []
+  "terms": [
+    {
+      "id": "term-001",
+      "de": "Triebwerk",
+      "en-GB": "power train",
+      "es-ES": "tren de potencia",
+      "status": "validated"
+    },
+    {
+      "id": "term-002",
+      "de": "Lenkgetriebe",
+      "en-GB": "steering gear",
+      "es-ES": "mecanismo de dirección",
+      "status": "validated"
+    },
+    {
+      "id": "term-003",
+      "de": "Lenkbremse",
+      "en-GB": "steering brake",
+      "es-ES": "freno de dirección",
+      "status": "validated"
+    },
+    {
+      "id": "term-004",
+      "de": "Stützbremse",
+      "en-GB": "support brake",
+      "es-ES": "freno de apoyo",
+      "status": "validated"
+    },
+    {
+      "id": "term-005",
+      "de": "Bremstrommel",
+      "en-GB": "brake drum",
+      "es-ES": "tambor de freno",
+      "status": "validated"
+    },
+    {
+      "id": "term-006",
+      "de": "Bremsbacken",
+      "en-GB": "brake shoes",
+      "es-ES": "zapatas de freno",
+      "status": "validated"
+    },
+    {
+      "id": "term-007",
+      "de": "Seitenvorgelege",
+      "en-GB": "final drive unit",
+      "es-ES": "engranaje lateral final",
+      "status": "validated"
+    },
+    {
+      "id": "term-008",
+      "de": "Hebevorrichtung",
+      "en-GB": "lifting device",
+      "es-ES": "dispositivo elevador",
+      "status": "validated"
+    },
+    {
+      "id": "term-009",
+      "de": "Hauptkupplung",
+      "en-GB": "main clutch",
+      "es-ES": "embrague principal",
+      "status": "validated"
+    },
+    {
+      "id": "term-010",
+      "de": "Anlaßzahnkranz",
+      "en-GB": "starter ring gear",
+      "es-ES": "corona dentada de arranque",
+      "status": "validated"
+    },
+    {
+      "id": "term-011",
+      "de": "Ausrücklager",
+      "en-GB": "release bearing",
+      "es-ES": "rodamiento de desembrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-012",
+      "de": "Kupplungsbeläge",
+      "en-GB": "clutch linings",
+      "es-ES": "forros de embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-013",
+      "de": "Kupplungsplatte",
+      "en-GB": "clutch plate",
+      "es-ES": "disco de embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-014",
+      "de": "Kupplungsscheibe",
+      "en-GB": "clutch disc",
+      "es-ES": "disco de embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-015",
+      "de": "Kupplungsdruckplatte",
+      "en-GB": "clutch pressure plate",
+      "es-ES": "placa de presión del embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-016",
+      "de": "Kupplungsdruckfeder",
+      "en-GB": "clutch pressure spring",
+      "es-ES": "muelle de presión del embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-017",
+      "de": "Kupplungsdeckel",
+      "en-GB": "clutch cover",
+      "es-ES": "tapa del embrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-018",
+      "de": "Wechselgetriebe",
+      "en-GB": "gearbox",
+      "es-ES": "caja de cambios",
+      "status": "validated"
+    },
+    {
+      "id": "term-019",
+      "de": "Geschütz",
+      "en-GB": "gun",
+      "es-ES": "cañón",
+      "status": "validated"
+    },
+    {
+      "id": "term-020",
+      "de": "gp Sfl (gepanzerte Selbstfahrlafette)",
+      "en-GB": "armoured self-propelled carriage",
+      "es-ES": "lafeta autopropulsada blindada",
+      "status": "validated"
+    },
+    {
+      "id": "term-021",
+      "de": "Nachstellvorrichtung",
+      "en-GB": "adjusting device",
+      "es-ES": "dispositivo de reajuste",
+      "status": "validated"
+    },
+    {
+      "id": "term-022",
+      "de": "Federzange",
+      "en-GB": "spring clamp",
+      "es-ES": "pinza para muelles",
+      "status": "validated"
+    },
+    {
+      "id": "term-023",
+      "de": "Zughaken",
+      "en-GB": "pull hook",
+      "es-ES": "gancho de tracción",
+      "status": "validated"
+    },
+    {
+      "id": "term-024",
+      "de": "Haltefedern",
+      "en-GB": "retaining springs",
+      "es-ES": "muelles de retención",
+      "status": "validated"
+    },
+    {
+      "id": "term-025",
+      "de": "Verzeichnis der Zeichnungen",
+      "en-GB": "list of drawings",
+      "es-ES": "índice de planos",
+      "status": "validated"
+    },
+    {
+      "id": "term-026",
+      "de": "Zeichnung",
+      "en-GB": "drawing",
+      "es-ES": "plano",
+      "status": "validated"
+    },
+    {
+      "id": "term-027",
+      "de": "Drahtzug",
+      "en-GB": "wire pull",
+      "es-ES": "tirador de alambre",
+      "status": "validated"
+    },
+    {
+      "id": "term-028",
+      "de": "Ausrückbolzen",
+      "en-GB": "release bolt",
+      "es-ES": "perno de desembrague",
+      "status": "validated"
+    },
+    {
+      "id": "term-029",
+      "de": "Erregerbacke",
+      "en-GB": "leading (energising) brake shoe",
+      "es-ES": "zapata primaria",
+      "status": "validated"
+    },
+    {
+      "id": "term-030",
+      "de": "Randnummer",
+      "en-GB": "margin number",
+      "es-ES": "número marginal",
+      "status": "validated"
+    }
+  ]
 }
