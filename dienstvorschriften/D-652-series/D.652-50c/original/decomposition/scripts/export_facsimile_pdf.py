@@ -122,8 +122,8 @@ def render_translation_page(pdf, content, regular, bold, italic):
 
     y = TOP_MARGIN - 14 * mm
 
-    for para in content["paragraphs"]:
-        for lang in LANGUAGES:
+    for lang in LANGUAGES:
+        for para in content["paragraphs"]:
             text = para["text"][lang]["plain"] if para["text"].get(lang) else ""
             if not text:
                 continue
