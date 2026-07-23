@@ -126,19 +126,19 @@
           ]
         },
         "en-GB": {
-          "plain": "The cardan shaft (Gelenkwelle) runs from the main clutch flanged to the engine, through a tunnel through the crew compartment (Mannschaftsraum) and into the bow compartment (Bugraum) to the gearbox (Wechselgetriebe). At the front, the bevel drive (Kegeltrieb) with the steering gears (Lenkgetriebe) is flanged to the gearbox.",
+          "plain": "The cardan shaft (Gelenkwelle) runs from the main clutch flanged to the engine, through a tunnel through the crew compartment (Mannschaftsraum) and into the front compartment (Bugraum) to the gearbox (Wechselgetriebe). At the front, the bevel drive (Kegeltrieb) with the steering gears (Lenkgetriebe) is flanged to the gearbox.",
           "runs": [
             {
-              "text": "The cardan shaft (Gelenkwelle) runs from the main clutch flanged to the engine, through a tunnel through the crew compartment (Mannschaftsraum) and into the bow compartment (Bugraum) to the gearbox (Wechselgetriebe). At the front, the bevel drive (Kegeltrieb) with the steering gears (Lenkgetriebe) is flanged to the gearbox.",
+              "text": "The cardan shaft (Gelenkwelle) runs from the main clutch flanged to the engine, through a tunnel through the crew compartment (Mannschaftsraum) and into the front compartment (Bugraum) to the gearbox (Wechselgetriebe). At the front, the bevel drive (Kegeltrieb) with the steering gears (Lenkgetriebe) is flanged to the gearbox.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "El árbol de transmisión (Gelenkwelle) va desde el embrague principal embridado al motor, por un túnel a través del compartimento de la tripulación (Mannschaftsraum), hasta el compartimento de proa (Bugraum), a la caja de cambios (Wechselgetriebe). En la parte delantera, el par cónico (Kegeltrieb) con los mecanismos de dirección (Lenkgetriebe) va embridado a la caja de cambios.",
+          "plain": "El árbol de transmisión (Gelenkwelle) va desde el embrague principal embridado al motor, por un túnel a través del compartimento de la tripulación (Mannschaftsraum), hasta el compartimento delantero (Bugraum), a la caja de cambios (Wechselgetriebe). En la parte delantera, el par cónico (Kegeltrieb) con los mecanismos de dirección (Lenkgetriebe) va embridado a la caja de cambios.",
           "runs": [
             {
-              "text": "El árbol de transmisión (Gelenkwelle) va desde el embrague principal embridado al motor, por un túnel a través del compartimento de la tripulación (Mannschaftsraum), hasta el compartimento de proa (Bugraum), a la caja de cambios (Wechselgetriebe). En la parte delantera, el par cónico (Kegeltrieb) con los mecanismos de dirección (Lenkgetriebe) va embridado a la caja de cambios.",
+              "text": "El árbol de transmisión (Gelenkwelle) va desde el embrague principal embridado al motor, por un túnel a través del compartimento de la tripulación (Mannschaftsraum), hasta el compartimento delantero (Bugraum), a la caja de cambios (Wechselgetriebe). En la parte delantera, el par cónico (Kegeltrieb) con los mecanismos de dirección (Lenkgetriebe) va embridado a la caja de cambios.",
               "bold": false
             }
           ]
