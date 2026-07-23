@@ -27,6 +27,16 @@ from pathlib import Path
 WORKFLOW_STATES = {"pending", "draft", "reviewed", "validated", "candidate_crop", "not_applicable"}
 WINDOWS_ABS_PATH = re.compile(r"^[A-Za-z]:[\\/]")
 
+# Keys under which this schema stores a relative file path (see
+# docs/PDF_TO_CANONICAL_JSON.md sections 3.1-3.7). Restricting the Unix
+# absolute-path check to these avoids false positives on unrelated strings
+# that happen to start with "/", such as PDF filter/object names
+# ("/DCTDecode", "/Im0") recorded in assets/extraction_*.json.
+PATH_LIKE_KEYS = {
+    "image", "path", "source_scan", "display_scan", "display_image",
+    "source_pdf", "extends", "content", "manifest", "index", "glossary", "layout",
+}
+
 
 class Report:
     def __init__(self) -> None:
@@ -52,31 +62,47 @@ def resolve_decomposition_dir(arg: str) -> Path:
     raise SystemExit(f"Could not find a decomposition directory (with manifest.json) under {path}")
 
 
-def load_json(path: Path, report: Report):
+def load_json(path: Path, report: Report, cache: dict[Path, object] | None = None):
+    if cache is not None and path in cache:
+        return cache[path]
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"))
     except FileNotFoundError:
         report.error(f"Missing file: {path}")
+        return None
     except json.JSONDecodeError as exc:
         report.error(f"Invalid JSON in {path}: {exc}")
-    return None
+        return None
+    if cache is not None:
+        cache[path] = data
+    return data
 
 
-def check_json_validity_and_absolute_paths(root: Path, report: Report) -> None:
+def is_absolute_local_path(value: str, key_hint: str | None) -> bool:
+    if WINDOWS_ABS_PATH.match(value) or value.startswith("\\\\"):
+        return True
+    return bool(key_hint in PATH_LIKE_KEYS and value.startswith("/"))
+
+
+def check_json_validity_and_absolute_paths(root: Path, report: Report, cache: dict[Path, object]) -> None:
+    """Parse every JSON file once (populating `cache` for later reuse) and scan
+    for absolute local paths, which the archive must never contain (AGENTS.md:
+    "Use relative paths inside the archive")."""
     for json_path in root.rglob("*.json"):
         try:
             data = json.loads(json_path.read_text(encoding="utf-8"))
         except json.JSONDecodeError as exc:
             report.error(f"Invalid JSON in {json_path.relative_to(root)}: {exc}")
             continue
-        stack = [("$", data)]
+        cache[json_path] = data
+        stack = [("$", data, None)]
         while stack:
-            pointer, value = stack.pop()
+            pointer, value, key_hint = stack.pop()
             if isinstance(value, dict):
-                stack.extend((f"{pointer}.{key}", child) for key, child in value.items())
+                stack.extend((f"{pointer}.{key}", child, key) for key, child in value.items())
             elif isinstance(value, list):
-                stack.extend((f"{pointer}[{index}]", child) for index, child in enumerate(value))
-            elif isinstance(value, str) and (WINDOWS_ABS_PATH.match(value) or value.startswith("\\\\")):
+                stack.extend((f"{pointer}[{index}]", child, key_hint) for index, child in enumerate(value))
+            elif isinstance(value, str) and is_absolute_local_path(value, key_hint):
                 report.error(f"Absolute local path in {json_path.relative_to(root)} at {pointer}: {value}")
 
 
@@ -95,7 +121,7 @@ def check_status_value(value, location: str, report: Report) -> None:
         report.error(f"Non-standard workflow state '{value}' at {location}")
 
 
-def validate_pages(root: Path, manifest: dict, document: dict, report: Report):
+def validate_pages(root: Path, manifest: dict, document: dict, report: Report, cache: dict[Path, object]):
     target_languages = document.get("target_languages", []) if document else []
     seen_content_ids: dict[str, str] = {}
     seen_figure_ids: dict[str, str] = {}
@@ -114,17 +140,17 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report):
         required = [base / "manifest.json", base / "content.json"]
         source_ref = entry.get("source_scan", "source.jpg")
         required.append(base / source_ref)
-        missing = [str(p) for p in required if not p.is_file() or p.stat().st_size == 0]
+        missing = [p for p in required if not p.is_file() or p.stat().st_size == 0]
         for m in missing:
-            report.error(f"Missing or empty required file: {m}")
+            report.error(f"Missing or empty required file: {m.relative_to(root)}")
         if missing:
             continue
 
-        local_manifest = load_json(base / "manifest.json", report)
+        local_manifest = load_json(base / "manifest.json", report, cache)
         if local_manifest is not None and local_manifest != entry:
             report.error(f"Global/local page manifest mismatch on page {page} ({section})")
 
-        content = load_json(base / "content.json", report)
+        content = load_json(base / "content.json", report, cache)
         if content is None:
             continue
 
@@ -200,8 +226,14 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report):
             report.warn(f"Figure numbering has gaps (confirm documented): {sorted(missing_numbers)}")
 
 
-def validate_glossary(root: Path, glossary_path: Path, report: Report, id_prefix: str, forbidden_prefix: str | None):
-    glossary = load_json(glossary_path, report)
+def validate_glossary(
+    glossary_path: Path,
+    report: Report,
+    cache: dict[Path, object],
+    id_prefix: str,
+    forbidden_prefix: str | None,
+):
+    glossary = load_json(glossary_path, report, cache)
     if glossary is None:
         return None
     extends = glossary.get("extends")
@@ -219,24 +251,37 @@ def validate_glossary(root: Path, glossary_path: Path, report: Report, id_prefix
     return glossary
 
 
+def find_series_glossary(root: Path, report: Report) -> Path | None:
+    # root is expected to be <series>/<document>/original/decomposition; the
+    # series glossary lives three levels up. Degrade to "not found" rather than
+    # crashing with an IndexError if a caller points this at a shallower path.
+    try:
+        series_dir = root.parents[2]
+    except IndexError:
+        report.warn(f"Could not locate a series directory above {root} to check for a shared glossary")
+        return None
+    return series_dir / "glossary" / "terminology.json"
+
+
 def main() -> None:
     if len(sys.argv) != 2:
         raise SystemExit(f"Usage: {sys.argv[0]} <document-dir-or-decomposition-dir>")
 
     root = resolve_decomposition_dir(sys.argv[1])
     report = Report()
+    cache: dict[Path, object] = {}
 
-    manifest = load_json(root / "manifest.json", report)
-    document = load_json(root / "document.json", report)
+    check_json_validity_and_absolute_paths(root, report, cache)
+
+    manifest = load_json(root / "manifest.json", report, cache)
+    document = load_json(root / "document.json", report, cache)
 
     for required in (root / "document.json", root / "index" / "contents.json", root / "glossary" / "terminology.json", root / "layout.json"):
         if not required.is_file() or required.stat().st_size == 0:
-            report.error(f"Missing canonical file: {required}")
-
-    check_json_validity_and_absolute_paths(root, report)
+            report.error(f"Missing canonical file: {required.relative_to(root)}")
 
     if manifest is not None:
-        validate_pages(root, manifest, document, report)
+        validate_pages(root, manifest, document, report, cache)
         for section_id in manifest.get("sections", {}):
             folder = root / "frontmatter" if section_id == "FrontMatter" else root / "sections" / section_id
             if not (folder / "manifest.json").is_file():
@@ -245,12 +290,12 @@ def main() -> None:
     doc_glossary = None
     doc_glossary_path = root / "glossary" / "terminology.json"
     if doc_glossary_path.is_file():
-        doc_glossary = validate_glossary(root, doc_glossary_path, report, id_prefix="term-", forbidden_prefix="series-term-")
+        doc_glossary = validate_glossary(doc_glossary_path, report, cache, id_prefix="term-", forbidden_prefix="series-term-")
 
     series_glossary = None
-    series_glossary_path = root.parents[2] / "glossary" / "terminology.json"
-    if series_glossary_path.is_file():
-        series_glossary = validate_glossary(root, series_glossary_path, report, id_prefix="series-term-", forbidden_prefix=None)
+    series_glossary_path = find_series_glossary(root, report)
+    if series_glossary_path is not None and series_glossary_path.is_file():
+        series_glossary = validate_glossary(series_glossary_path, report, cache, id_prefix="series-term-", forbidden_prefix=None)
 
     # Prefix conventions (checked above) are a style hint, not a guarantee: check
     # the actual id sets for a literal collision regardless of naming convention.

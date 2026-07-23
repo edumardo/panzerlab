@@ -9,7 +9,7 @@ Source of truth: `docs/PDF_TO_CANONICAL_JSON.md` §8 and §14 (Acceptance checkl
 
 ## Step 0: run the automated validator
 
-Run `python scripts/validate_archive.py <document-dir>` (or point it at an `original/decomposition/` path directly) first. It mechanically covers items 1–6 and 9 below (JSON validity, referential integrity/absolute paths, page order, unique page/figure IDs, figure-number duplicates and gaps, workflow-state vocabulary, validated-but-empty pages, glossary `extends` resolution and id-prefix collisions) and exits non-zero on any error. Warnings it prints (numbering gaps, missing paragraph-language keys) are not automatically wrong — confirm each one is legitimate (e.g. a documented gap, a blank page) rather than dismissing it.
+Run `python scripts/validate_archive.py <document-dir>` (or point it at an `original/decomposition/` path directly) first. It mechanically covers items 1–6 and 9 below (JSON validity, referential integrity/absolute paths, page order including duplicate page numbers, unique page/figure IDs, figure-number duplicates and gaps, workflow-state vocabulary, validated-but-empty pages, glossary `extends` resolution and literal id-reuse between the document and series glossaries) and exits non-zero on any error. Warnings it prints (numbering gaps, missing paragraph-language keys) are not automatically wrong — confirm each one is legitimate (e.g. a documented gap, a blank page) rather than dismissing it.
 
 Fix anything it flags in canonical JSON before moving on to the checks below, which it cannot automate.
 
