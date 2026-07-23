@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Die 2 Kupplungstreibscheiben und 3 Kupplungsscheiben aus Kupplungszwischenring herausnehmen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Take the 2 clutch drive discs and 3 clutch discs out of the clutch intermediate ring.",
+      "es-ES": "Extraer los 2 discos motrices del embrague y los 3 discos de embrague del anillo intermedio del embrague."
     },
     {
       "id": "p2",
       "de": "Den Abstandsring vor dem hinteren Kugellager ausziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull out the spacer ring in front of the rear ball bearing.",
+      "es-ES": "Extraer el anillo distanciador situado delante del cojinete de bolas trasero."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 105",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 105",
+        "es-ES": "Fig. 105"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 106",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 106",
+        "es-ES": "Fig. 106"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

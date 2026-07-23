@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation",
+    "es-ES": "6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico"
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-029"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen.", "en-GB": "Insert one pin with the split-pin hole and the other with the groove facing outwards into the brake shoes.", "es-ES": "Insertar un perno con el orificio para el pasador y el otro con la ranura hacia fuera en las zapatas de freno."},
+    {"id": "p2", "de": "Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.", "en-GB": "Using a square key, screw in the threaded spindles to an equal depth.", "es-ES": "Con una llave cuadrada, enroscar los husillos roscados a la misma profundidad."},
+    {"id": "p3", "de": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.", "en-GB": "Push the locking spring of the adjusting lock into the groove of one pin. Press the spring against the collar of the other pin and insert the split pin in front of the spring. Bend the split pin open.", "es-ES": "Introducir el resorte de seguridad del cerrojo de reajuste en la ranura de un perno. Presionar el resorte contra el collarín del otro perno e introducir el pasador delante del resorte. Abrir las aletas del pasador."}
   ],
   "figures": [
-    {"id": "fig-039", "number": 39, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 39", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-040", "number": 40, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 40", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-039", "number": 39, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 39", "en-GB": "Fig. 39", "es-ES": "Fig. 39"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-040", "number": 40, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 40", "en-GB": "Fig. 40", "es-ES": "Fig. 40"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

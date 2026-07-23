@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la lafeta autopropulsada blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit Seil und Hebevorrichtung die Bugpanzerdecke abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a rope and lifting gear, lift off the front superstructure armour deck.",
+      "es-ES": "Con cuerda y dispositivo de elevación, levantar la cubierta de la superestructura frontal blindada."
     },
     {
       "id": "p2",
       "de": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun.",
+      "es-ES": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón."
     },
     {
       "id": "p3",
       "de": "Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Knock out the pin with a hammer and lift out the intermediate piece.",
+      "es-ES": "Extraer el perno a golpes de martillo y sacar la pieza intermedia."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 155",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 155",
+        "es-ES": "Fig. 155"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 156",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 156",
+        "es-ES": "Fig. 156"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la lafeta autopropulsada blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the protective caps and items of equipment above the gun mount base.",
+      "es-ES": "Retirar las caperuzas protectoras y los objetos de equipo situados encima de la base del cañón."
     },
     {
       "id": "p2",
       "de": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts.",
+      "es-ES": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas."
     },
     {
       "id": "p3",
       "de": "Bolzen durch leichten Hammerschlag ausschlagen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Knock out the pin with a light hammer blow.",
+      "es-ES": "Extraer el perno con un golpe suave de martillo."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 159",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 159",
+        "es-ES": "Fig. 159"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 160",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 160",
+        "es-ES": "Fig. 160"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

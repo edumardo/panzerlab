@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Turn the brake drum until a fitted bolt is positioned in front of the milled-out point in the hub, Fig. 3.",
+      "es-ES": "Girar el tambor de freno hasta que un tornillo ajustado quede situado delante del rebaje fresado en el cubo, Fig. 3."
     },
     {
       "id": "p2",
       "de": "Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, unscrew the castle nuts 4–5 turns off the fitted bolts.",
+      "es-ES": "Con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, desenroscar las tuercas almenadas 4–5 vueltas de los tornillos ajustados."
     },
     {
       "id": "p3",
       "de": "Paßschraube durch Hammerschlag auf Kronenmutter lösen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Loosen the fitted bolt by striking the castle nut with a hammer.",
+      "es-ES": "Aflojar el tornillo ajustado golpeando con un martillo la tuerca almenada."
     },
     {
       "id": "p4",
       "de": "Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the castle nut and fitted bolt by hand. Hold the fitted bolt firmly so that it does not fall into the brake drum.",
+      "es-ES": "Retirar la tuerca almenada y el tornillo ajustado a mano. Sujetar bien el tornillo ajustado para que no caiga dentro del tambor de freno."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 4",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 4",
+        "es-ES": "Fig. 4"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 5",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 5",
+        "es-ES": "Fig. 5"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

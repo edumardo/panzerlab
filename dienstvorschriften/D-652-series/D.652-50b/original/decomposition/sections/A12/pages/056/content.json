@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -21,16 +21,16 @@
     "next": "d65250b-page-057"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.", "en-GB": "Coat the sealing faces of the housing and cover with jointing compound.", "es-ES": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas."},
+    {"id": "p2", "de": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.", "en-GB": "Bolt the cover and housing together with the three countersunk screws.", "es-ES": "Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados."}
   ],
   "figures": [
-    {"id": "fig-087", "number": 87, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 87", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-087", "number": 87, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 87", "en-GB": "Fig. 87", "es-ES": "Fig. 87"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

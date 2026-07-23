@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la lafeta autopropulsada blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Die Schrauben der Geschützbefestigung entsichern und mit 41-SW-Maul- oder -Steckschlüssel herausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unlock the bolts of the gun mounting and unscrew them using a 41 mm open-end or socket wrench.",
+      "es-ES": "Desasegurar los tornillos de fijación del cañón y desenroscarlos con una llave de boca o de tubo de 41 mm."
     },
     {
       "id": "p2",
       "de": "Geschütz mit Seil und Hebevorrichtung herausheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lift the gun out using a rope and lifting gear.",
+      "es-ES": "Extraer el cañón con cuerda y dispositivo de elevación."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 157",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 157",
+        "es-ES": "Fig. 157"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 158",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 158",
+        "es-ES": "Fig. 158"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

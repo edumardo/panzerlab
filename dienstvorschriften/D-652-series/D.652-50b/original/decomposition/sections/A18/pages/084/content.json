@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner.",
+      "es-ES": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras."
     },
     {
       "id": "p2",
       "de": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the screws by bending over the locking plates.",
+      "es-ES": "Asegurar los tornillos doblando las chapas de seguridad."
     },
     {
       "id": "p3",
       "de": "Das Kupplungsgehäuse über die Kupplung schieben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Slide the clutch housing over the clutch.",
+      "es-ES": "Deslizar la carcasa del embrague sobre el embrague."
     },
     {
       "id": "p4",
       "de": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: The sliding faces of the release yoke must face towards the release bearing.",
+      "es-ES": "Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 135",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 135",
+        "es-ES": "Fig. 135"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 136",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 136",
+        "es-ES": "Fig. 136"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

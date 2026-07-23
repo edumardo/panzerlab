@@ -7,8 +7,8 @@
   "type": "index",
   "titles": {
     "de": "Inhalt",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Contents",
+    "es-ES": "Índice"
   },
   "source": {
     "image": "source.jpg",
@@ -24,153 +24,153 @@
     {
       "id": "p1",
       "de": "Vorbemerkungen 4",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Preliminary remarks 4",
+      "es-ES": "Observaciones preliminares 4"
     },
     {
       "id": "p2",
       "de": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 5–9",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "1. Removing the cardan shaft between the steering gear and the steering brake 5–9",
+      "es-ES": "1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección 5–9"
     },
     {
       "id": "p3",
       "de": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 10–11",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "2. Installing the cardan shaft between the steering gear and the steering brake 10–11",
+      "es-ES": "2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección 10–11"
     },
     {
       "id": "p4",
       "de": "3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse 12–17",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "3. Removing the brake drum and brake shoes of the steering brake 12–17",
+      "es-ES": "3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección 12–17"
     },
     {
       "id": "p5",
       "de": "4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse 18–22",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "4. Installing the brake drum and brake shoes of the steering brake 18–22",
+      "es-ES": "4. Montaje del tambor de freno y las zapatas de freno del freno de dirección 18–22"
     },
     {
       "id": "p6",
       "de": "5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 23–27",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation 23–27",
+      "es-ES": "5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento hidráulico de la dirección 23–27"
     },
     {
       "id": "p7",
       "de": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 28–31",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation 28–31",
+      "es-ES": "6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento hidráulico de la dirección 28–31"
     },
     {
       "id": "p8",
       "de": "7. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 32–33",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "7. Removing the brake drum and brake shoes of the support brake with mechanical steering actuation 32–33",
+      "es-ES": "7. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento mecánico de la dirección 32–33"
     },
     {
       "id": "p9",
       "de": "8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 34–35",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "8. Installing the brake drum and brake shoes of the support brake with mechanical steering actuation 34–35",
+      "es-ES": "8. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento mecánico de la dirección 34–35"
     },
     {
       "id": "p10",
       "de": "9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung 36–39",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "9. Removing a final drive unit using a lifting device 36–39",
+      "es-ES": "9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador 36–39"
     },
     {
       "id": "p11",
       "de": "10. Ausbau des Seitenvorgeleges ohne Hebevorrichtung 40–41",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "10. Removing the final drive unit without a lifting device 40–41",
+      "es-ES": "10. Desmontaje del engranaje lateral final sin dispositivo elevador 40–41"
     },
     {
       "id": "p12",
       "de": "11. Zerlegen des Seitenvorgeleges 42–48",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "11. Disassembling the final drive unit 42–48",
+      "es-ES": "11. Despiece del engranaje lateral final 42–48"
     },
     {
       "id": "p13",
       "de": "12. Zusammenbau des Seitenvorgeleges 49–56",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "12. Reassembling the final drive unit 49–56",
+      "es-ES": "12. Montaje del engranaje lateral final 49–56"
     },
     {
       "id": "p14",
       "de": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung 57–60",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "13. Installing the final drive unit with a lifting device 57–60",
+      "es-ES": "13. Montaje del engranaje lateral final con dispositivo elevador 57–60"
     },
     {
       "id": "p15",
       "de": "14. Ausbau der Hauptkupplung 61–68",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "14. Removing the main clutch 61–68",
+      "es-ES": "14. Desmontaje del embrague principal 61–68"
     },
     {
       "id": "p16",
       "de": "15. Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes 69",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "15. Replacing the clutch plate and the starter ring gear 69",
+      "es-ES": "15. Sustitución del disco de embrague y de la corona dentada de arranque 69"
     },
     {
       "id": "p17",
       "de": "16. Auswechseln des Ausrücklagers der Hauptkupplung 70–75",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "16. Replacing the release bearing of the main clutch 70–75",
+      "es-ES": "16. Sustitución del rodamiento de desembrague del embrague principal 70–75"
     },
     {
       "id": "p18",
       "de": "17. Auswechseln der Kupplungsbeläge 76–77",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "17. Replacing the clutch linings 76–77",
+      "es-ES": "17. Sustitución de los forros de embrague 76–77"
     },
     {
       "id": "p19",
       "de": "18. Zusammenbau der Hauptkupplung 78–88",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "18. Reassembling the main clutch 78–88",
+      "es-ES": "18. Montaje del embrague principal 78–88"
     },
     {
       "id": "p20",
       "de": "19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 89–95",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "19. Removing the cardan shaft and the gearbox with the steering gear 89–95",
+      "es-ES": "19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección 89–95"
     },
     {
       "id": "p21",
       "de": "20. Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 96",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "20. Installing the cardan shaft and the gearbox with the steering gear 96",
+      "es-ES": "20. Montaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección 96"
     },
     {
       "id": "p22",
       "de": "21. Ausbau des Geschützes der gp Sfl 97–101",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "21. Removing the gun of the armoured self-propelled carriage 97–101",
+      "es-ES": "21. Desmontaje del cañón de la lafeta autopropulsada blindada 97–101"
     },
     {
       "id": "p23",
       "de": "22. Verzeichnis der Zeichnungen 102",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "22. List of drawings 102",
+      "es-ES": "22. Índice de planos 102"
     },
     {
       "id": "p24",
       "de": "Zeichnungen 103–112",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Drawings 103–112",
+      "es-ES": "Planos 103–112"
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

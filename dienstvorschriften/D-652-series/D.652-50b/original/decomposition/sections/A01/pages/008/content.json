@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Straighten the sheet-metal lock of the three screws shown in the illustration.",
+      "es-ES": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura."
     },
     {
       "id": "p2",
       "de": "Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
+      "es-ES": "Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras."
     },
     {
       "id": "p3",
       "de": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Push the flange shaft towards the steering gear using a crowbar.",
+      "es-ES": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca."
     },
     {
       "id": "p4",
       "de": "Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: Push the shaft fully across until it seats.",
+      "es-ES": "Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 6",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 6",
+        "es-ES": "Fig. 6"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 7",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 7",
+        "es-ES": "Fig. 7"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

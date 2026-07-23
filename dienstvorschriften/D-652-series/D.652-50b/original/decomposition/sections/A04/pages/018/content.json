@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "4. Installing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "4. Montaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,63 @@
     "next": "d65250b-page-019"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Ein Bremsbackenpaar durch die Klappe einführen. Erregerbacke mit 9 Bremsklötzen nach der Bugseite einsetzen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Die Gewindespindeln der Nachstellvorrichtung gleich weit einschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die Bremsbacken mit der Nachstellvorrichtung durch Einführen eines Bolzens verbinden.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Ein Bremsbackenpaar durch die Klappe einführen. Erregerbacke mit 9 Bremsklötzen nach der Bugseite einsetzen.",
+      "en-GB": "Insert a pair of brake shoes through the hatch. Fit the leading (energising) shoe with 9 brake blocks facing the bow side.",
+      "es-ES": "Introducir un par de zapatas de freno a través de la trampilla. Montar la zapata primaria con 9 tacos de freno orientada hacia el lado de proa."
+    },
+    {
+      "id": "p2",
+      "de": "Die Gewindespindeln der Nachstellvorrichtung gleich weit einschrauben.",
+      "en-GB": "Screw in the threaded spindles of the adjusting device to equal depth.",
+      "es-ES": "Enroscar los husillos roscados del dispositivo de reajuste a la misma profundidad."
+    },
+    {
+      "id": "p3",
+      "de": "Die Bremsbacken mit der Nachstellvorrichtung durch Einführen eines Bolzens verbinden.",
+      "en-GB": "Connect the brake shoes to the adjusting device by inserting a pin.",
+      "es-ES": "Unir las zapatas de freno al dispositivo de reajuste introduciendo un perno."
+    }
   ],
   "figures": [
-    {"id": "fig-022", "number": 22, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 22", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-023", "number": 23, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 23", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-022",
+      "number": 22,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 22",
+        "en-GB": "Fig. 22",
+        "es-ES": "Fig. 22"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-023",
+      "number": 23,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 23",
+        "en-GB": "Fig. 23",
+        "es-ES": "Fig. 23"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

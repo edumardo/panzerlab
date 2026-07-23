@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Kupplungsfußhebel durchtreten.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Depress the clutch pedal fully.",
+      "es-ES": "Pisar a fondo el pedal de embrague."
     },
     {
       "id": "p2",
       "de": "Mit Einstellschlüssel das Spiel der Kupplung einstellen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Adjust the clutch play using the adjusting spanner.",
+      "es-ES": "Ajustar el juego del embrague con la llave de ajuste."
     },
     {
       "id": "p3",
       "de": "Den Abstand von hinterer Kante des Ausrücklagers (1) bis inneren Gewindering (2) messen. Dieser muß 20 mm betragen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Measure the distance from the rear edge of the release bearing (1) to the inner threaded ring (2). This must be 20 mm.",
+      "es-ES": "Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm."
     },
     {
       "id": "p4",
       "de": "Nach eingestellter Kupplung müssen die Sicherungsfedern in die Bohrungen des Einstellringes eingesprungen sein.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Once the clutch has been adjusted, the locking springs must have snapped into the holes of the adjusting ring.",
+      "es-ES": "Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 140",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 140",
+        "es-ES": "Fig. 140"
       },
       "label_keys": {
         "de": null,
@@ -66,8 +66,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "13. Installing the final drive unit with a lifting device",
+    "es-ES": "13. Montaje del engranaje lateral final con dispositivo elevador"
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Seitenvorgelege ohne Triebrad mit Seil an Hebevorrichtung hängen, Bild 55.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Hang the final drive unit without the drive sprocket on the lifting device using a rope, Fig. 55.",
+      "es-ES": "Colgar el engranaje lateral final sin la rueda motriz del dispositivo elevador con una cuerda, Fig. 55."
     },
     {
       "id": "p2",
       "de": "Seitenvorgelege an die Panzerwanne heranführen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bring the final drive unit up to the hull.",
+      "es-ES": "Acercar el engranaje lateral final al casco blindado."
     },
     {
       "id": "p3",
       "de": "Beim Einbauen des Seitenvorgeleges ohne Hebevorrichtung Triebrad anbauen, Einbau des Triebrades D 652/50 a Seite 80.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "When installing the final drive unit without a lifting device, fit the drive sprocket; for fitting the drive sprocket see D 652/50 a, page 80.",
+      "es-ES": "Al montar el engranaje lateral final sin dispositivo elevador, montar la rueda motriz; para el montaje de la rueda motriz véase D 652/50 a, página 80."
     },
     {
       "id": "p4",
       "de": "Seitenvorgelege auf den Holzunterbau heben, Bild 59.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lift the final drive unit onto the wooden support, Fig. 59.",
+      "es-ES": "Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59."
     },
     {
       "id": "p5",
       "de": "Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press the final drive unit against the hull using crowbars.",
+      "es-ES": "Empujar el engranaje lateral final contra el casco blindado con palancas."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 88",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 88",
+        "es-ES": "Fig. 88"
       },
       "label_keys": {
         "de": null,
@@ -72,8 +72,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

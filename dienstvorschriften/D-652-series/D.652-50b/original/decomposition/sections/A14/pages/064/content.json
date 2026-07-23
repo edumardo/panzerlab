@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,38 +24,38 @@
     {
       "id": "p1",
       "de": "Mit Zange die Haltefedern so weit herausziehen, bis sich die Scheiben der Haltefedern seitlich entfernen lassen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using pliers, pull out the retaining springs until the washers of the retaining springs can be removed sideways.",
+      "es-ES": "Con unos alicates, extraer los resortes de retención hasta que las arandelas de los resortes de retención puedan retirarse lateralmente."
     },
     {
       "id": "p2",
       "de": "Kupplungsdruckplatte abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lift off the clutch pressure plate.",
+      "es-ES": "Levantar el plato de presión del embrague."
     },
     {
       "id": "p3",
       "de": "Mit der Vorrichtung, Zeichnung 3 D 652/50 a, die Kupplungsdruckfeder entspannen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using the fixture, Drawing 3, D 652/50 a, release the tension of the clutch pressure spring.",
+      "es-ES": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague."
     },
     {
       "id": "p4",
       "de": "Sicherungsdraht aus den drei Befestigungsschrauben des Ausrücklagers ziehen und diese mit 14-SW-Maulschlüssel ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the locking wire out of the three fixing screws of the release bearing and unscrew them using a 14 mm (A/F) open-ended spanner.",
+      "es-ES": "Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras)."
     },
     {
       "id": "p5",
       "de": "Vorrichtung auseinanderschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the fixture apart.",
+      "es-ES": "Desmontar el dispositivo desenroscándolo."
     },
     {
       "id": "p6",
       "de": "Beachten: Bei festsitzendem Ausrücklager dieses mit Hebel von den drei Zapfen der Schiebebolzen abdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: If the release bearing is stuck, press it off the three pins of the sliding bolts using a lever.",
+      "es-ES": "Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes."
     }
   ],
   "figures": [
@@ -66,8 +66,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 99",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 99",
+        "es-ES": "Fig. 99"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 100",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 100",
+        "es-ES": "Fig. 100"
       },
       "label_keys": {
         "de": null,
@@ -94,8 +94,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

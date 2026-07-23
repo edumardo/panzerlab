@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the thrust plate to the hub with the four screws and spacer tubes (drawing 4)¹).",
+      "es-ES": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (dibujo 4)¹)."
     },
     {
       "id": "p2",
       "de": "Zugspindel (1) in die Ritzelwelle schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Screw the draw spindle (1) into the pinion shaft.",
+      "es-ES": "Enroscar el husillo de tracción (1) en el eje del piñón."
     },
     {
       "id": "p3",
       "de": "Zwischenring (3) unter den Bund der Mutter (2) legen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the intermediate ring (3) under the collar of the nut (2).",
+      "es-ES": "Colocar el anillo intermedio (3) bajo el collar de la tuerca (2)."
     },
     {
       "id": "p4",
       "de": "Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: If the pinion shaft has been turned off, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+      "es-ES": "Atención: si el eje del piñón se ha torneado, se suelda eléctricamente al piñón un perno roscado de longitud apropiada y con él se extrae el piñón."
     },
     {
       "id": "p5",
       "de": "¹) Siehe im Anhang.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "¹) See appendix.",
+      "es-ES": "¹) Véase el anexo."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 71",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 71",
+        "es-ES": "Fig. 71"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 72",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 72",
+        "es-ES": "Fig. 72"
       },
       "label_keys": {
         "de": null,
@@ -88,8 +88,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

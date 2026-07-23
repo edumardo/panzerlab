@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 9. Removing a final drive unit using a lifting device.",
+    "es-ES": "Continuación: 9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
+      "es-ES": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección."
     },
     {
       "id": "p2",
       "de": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
+      "es-ES": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹)."
     },
     {
       "id": "p3",
       "de": "¹) Siehe im Anhang.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "¹) See appendix.",
+      "es-ES": "¹) Véase el anexo."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 56",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 56",
+        "es-ES": "Fig. 56"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 57",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 57",
+        "es-ES": "Fig. 57"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

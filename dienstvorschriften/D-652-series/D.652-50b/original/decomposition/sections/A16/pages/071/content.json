@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Abschmierfett in das Kugellager drücken und Staubring und Kugellager auf die Nabe führen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press grease into the ball bearing and slide the dust ring and ball bearing onto the hub.",
+      "es-ES": "Introducir grasa a presión en el rodamiento de bolas y montar el anillo guardapolvo y el rodamiento de bolas sobre el buje."
     },
     {
       "id": "p2",
       "de": "Mit Weichmetallhammer das Kugellager auf die Nabe schlagen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a soft-metal hammer, drive the ball bearing onto the hub.",
+      "es-ES": "Con un martillo de metal blando, introducir a golpes el rodamiento de bolas en el buje."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 112",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 112",
+        "es-ES": "Fig. 112"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 113",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 113",
+        "es-ES": "Fig. 113"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

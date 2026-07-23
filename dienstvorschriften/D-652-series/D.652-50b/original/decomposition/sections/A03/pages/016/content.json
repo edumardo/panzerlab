@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,57 @@
     "next": "d65250b-page-017"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.",
+      "en-GB": "Using socket wrench III DB 109, unscrew the two retaining screws of the adjusting device.",
+      "es-ES": "Con la llave de vaso III DB 109, desenroscar los dos tornillos de retención del dispositivo de reajuste."
+    },
+    {
+      "id": "p2",
+      "de": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.",
+      "en-GB": "Lift the brake shoes off the steering-brake hub together with the adjusting device. Remove the split pin and washer from one shoe.",
+      "es-ES": "Levantar las zapatas de freno junto con el dispositivo de reajuste del cubo del freno de dirección. Retirar el pasador de aletas y la arandela de una zapata."
+    }
   ],
   "figures": [
-    {"id": "fig-018", "number": 18, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 18", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-019", "number": 19, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 19", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-018",
+      "number": 18,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 18",
+        "en-GB": "Fig. 18",
+        "es-ES": "Fig. 18"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-019",
+      "number": 19,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 19",
+        "en-GB": "Fig. 19",
+        "es-ES": "Fig. 19"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

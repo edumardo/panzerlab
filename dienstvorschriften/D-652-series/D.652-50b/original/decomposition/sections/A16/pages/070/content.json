@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "16. Auswechseln des Ausrücklagers der Hauptkupplung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "16. Replacing the release bearing of the main clutch",
+    "es-ES": "16. Sustitución del rodamiento de desembrague del embrague principal"
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a hammer and drift, drive the ball bearing together with the hub out through the three holes in the housing.",
+      "es-ES": "Con martillo y botador, expulsar el rodamiento de bolas junto con el buje a través de los tres orificios de la carcasa."
     },
     {
       "id": "p2",
       "de": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a hammer and drift, drive the ball bearing off the hub through the three holes in the flange.",
+      "es-ES": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 110",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 110",
+        "es-ES": "Fig. 110"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 111",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 111",
+        "es-ES": "Fig. 111"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

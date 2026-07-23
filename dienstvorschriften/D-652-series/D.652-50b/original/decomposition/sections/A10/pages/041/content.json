@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 10. Ausbau eines Seitenvorgeleges ohne Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 10. Removing the final drive unit without a lifting device.",
+    "es-ES": "Continuación: 10. Desmontaje del engranaje lateral final sin dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,8 +24,8 @@
     {
       "id": "p1",
       "de": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the final drive unit together with the drive sprocket from the armoured hull by levering evenly with two crowbars.",
+      "es-ES": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas."
     }
   ],
   "figures": [
@@ -36,8 +36,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 60",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 60",
+        "es-ES": "Fig. 60"
       },
       "label_keys": {
         "de": null,
@@ -48,8 +48,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

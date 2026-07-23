@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit den acht Innensechskantschrauben die Kupplungsplatte an das Schwungrad schrauben. Die Innensechskantschrauben durch Verbohren und Verstiften in den Sechskanten sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the clutch plate to the flywheel with the eight hexagon socket screws. Secure the hexagon socket screws by drilling and pinning them through the hexagon heads.",
+      "es-ES": "Atornillar el plato de embrague al volante con los ocho tornillos de hexágono interior. Asegurar los tornillos de hexágono interior taladrando y colocando pasadores a través de los hexágonos."
     },
     {
       "id": "p2",
       "de": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting.",
+      "es-ES": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje."
     },
     {
       "id": "p3",
       "de": "Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
+      "es-ES": "Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 126",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 126",
+        "es-ES": "Fig. 126"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 127",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 127",
+        "es-ES": "Fig. 127"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

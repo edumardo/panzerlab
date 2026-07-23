@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,17 @@
     "next": "d65250b-page-027"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die hintere Zugfeder der unteren Bremsbacke aushängen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Bremsbackenpaar mit Nachstellschloß ausheben.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Die hintere Zugfeder der unteren Bremsbacke aushängen.", "en-GB": "Unhook the rear tension spring of the lower brake shoe.", "es-ES": "Desenganchar el resorte de tracción trasero de la zapata de freno inferior."},
+    {"id": "p2", "de": "Bremsbackenpaar mit Nachstellschloß ausheben.", "en-GB": "Lift out the pair of brake shoes together with the adjusting lock.", "es-ES": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste."}
   ],
   "figures": [
-    {"id": "fig-035", "number": 35, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 35", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-036", "number": 36, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 36", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-035", "number": 35, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 35", "en-GB": "Fig. 35", "es-ES": "Fig. 35"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-036", "number": 36, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 36", "en-GB": "Fig. 36", "es-ES": "Fig. 36"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

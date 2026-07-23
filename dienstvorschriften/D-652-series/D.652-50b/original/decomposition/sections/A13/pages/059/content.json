@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 13. Installing the final drive unit with a lifting device.",
+    "es-ES": "Continuación: 13. Montaje del engranaje lateral final con dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.)",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.)",
+      "es-ES": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.)"
     },
     {
       "id": "p2",
       "de": "Sicherungsbleche auf den Befestigungsbolzen legen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the sheet-metal locks onto the fixing bolts.",
+      "es-ES": "Colocar las chapas de seguridad sobre los pernos de fijación."
     },
     {
       "id": "p3",
       "de": "Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55.",
+      "es-ES": "Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55."
     },
     {
       "id": "p4",
       "de": "Die Muttern durch Umbiegen der Sicherungsbleche sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the nuts by bending over the sheet-metal locks.",
+      "es-ES": "Asegurar las tuercas doblando las chapas de seguridad."
     },
     {
       "id": "p5",
       "de": "Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
+      "es-ES": "Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 90",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 90",
+        "es-ES": "Fig. 90"
       },
       "label_keys": {
         "de": null,
@@ -72,8 +72,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

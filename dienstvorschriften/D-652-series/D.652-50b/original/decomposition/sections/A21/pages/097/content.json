@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "21. Ausbau des Geschützes der gp Sfl",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "21. Desmontaje del cañón de la lafeta autopropulsada blindada"
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a screwdriver, unscrew the bolts of the upper front superstructure armour deck marked in the illustration.",
+      "es-ES": "Con destornillador, desenroscar los tornillos de la cubierta superior de la superestructura frontal blindada señalados en la figura."
     },
     {
       "id": "p2",
       "de": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull out the cable connector for the ceiling lighting and, using a 14 mm open-end spanner, unscrew the bolts of the cable clamps.",
+      "es-ES": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 153",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 153",
+        "es-ES": "Fig. 153"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 154",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 154",
+        "es-ES": "Fig. 154"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,57 @@
     "next": "d65250b-page-018"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Die Bremsbacken durch die Klappe ausheben.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
+      "en-GB": "Drive out the connecting bolt using a hammer and drift.",
+      "es-ES": "Extraer el perno de unión golpeando con martillo y botador."
+    },
+    {
+      "id": "p2",
+      "de": "Die Bremsbacken durch die Klappe ausheben.",
+      "en-GB": "Lift the brake shoes out through the hatch.",
+      "es-ES": "Levantar las zapatas de freno a través de la trampilla."
+    }
   ],
   "figures": [
-    {"id": "fig-020", "number": 20, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 20", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-021", "number": 21, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 21", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-020",
+      "number": 20,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 20",
+        "en-GB": "Fig. 20",
+        "es-ES": "Fig. 20"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-021",
+      "number": 21,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 21",
+        "en-GB": "Fig. 21",
+        "es-ES": "Fig. 21"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

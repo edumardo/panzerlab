@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "15. Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "15. Replacing the clutch plate and the starter ring gear",
+    "es-ES": "15. Sustitución del disco de embrague y de la corona dentada de arranque"
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 2 mm drill, drill out the locking pins from the hexagon sockets of the Allen screws, then unscrew the hexagon socket screws of the rear clutch plate using an 8 mm hexagon socket wrench.",
+      "es-ES": "Con una broca de 2 mm, taladrar los pasadores de seguridad de los hexágonos interiores de los tornillos Allen, y con una llave de vaso hexagonal interior de 8 mm desenroscar los tornillos de hexágono interior del disco de embrague trasero."
     },
     {
       "id": "p2",
       "de": "Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: On a used clutch, apply a screw-loosening fluid (Caramba) to the screws before slackening them.",
+      "es-ES": "Atención: En un embrague usado, aplicar un producto aflojatornillos (Caramba) a los tornillos antes de aflojarlos."
     },
     {
       "id": "p3",
       "de": "Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a gas welding torch, gently heat the starter ring gear around its circumference until it can be removed easily from the flywheel. When fitting a new starter ring gear, it is likewise gently heated around its circumference so that it can be slid on easily as far as the shoulder.",
+      "es-ES": "Con el soplete de soldadura, calentar ligeramente la corona dentada de arranque en todo su contorno hasta que pueda separarse fácilmente del volante. Al montar una corona dentada de arranque nueva, ésta se calienta igualmente de forma ligera en todo su contorno para que pueda deslizarse fácilmente hasta el resalte."
     },
     {
       "id": "p4",
       "de": "Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: With the flywheel bolted on, the chamfered side of the starter ring gear teeth must face the engine.",
+      "es-ES": "Atención: Con el volante atornillado, el lado achaflanado de los dientes de la corona dentada de arranque debe mirar hacia el motor."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 109",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 109",
+        "es-ES": "Fig. 109"
       },
       "label_keys": {
         "de": null,
@@ -66,8 +66,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

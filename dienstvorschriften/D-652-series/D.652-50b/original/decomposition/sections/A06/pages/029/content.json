@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-030"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Hintere Zugfeder der unteren Bremsbacke einhängen.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen.", "en-GB": "Fit the brake shoes together with the adjusting lock to the bearing cover.", "es-ES": "Montar las zapatas de freno junto con el cerrojo de reajuste en la tapa de cojinete."},
+    {"id": "p2", "de": "Hintere Zugfeder der unteren Bremsbacke einhängen.", "en-GB": "Hook in the rear tension spring of the lower brake shoe.", "es-ES": "Enganchar el resorte de tracción trasero de la zapata de freno inferior."},
+    {"id": "p3", "de": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.", "en-GB": "Using spring pliers or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.", "es-ES": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior."}
   ],
   "figures": [
-    {"id": "fig-041", "number": 41, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 41", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-042", "number": 42, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 42", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-041", "number": 41, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 41", "en-GB": "Fig. 41", "es-ES": "Fig. 41"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-042", "number": 42, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 42", "en-GB": "Fig. 42", "es-ES": "Fig. 42"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

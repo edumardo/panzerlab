@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the three securing screws of the release bearing with wire.",
+      "es-ES": "Asegurar con alambre los tres tornillos de fijación del rodamiento de desembrague."
     },
     {
       "id": "p2",
       "de": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Hold the clutch pressure plate up against the clutch cover.",
+      "es-ES": "Sujetar la placa de presión del embrague contra la tapa del embrague."
     },
     {
       "id": "p3",
       "de": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
+      "es-ES": "Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2)."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 120",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 120",
+        "es-ES": "Fig. 120"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 121",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 121",
+        "es-ES": "Fig. 121"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

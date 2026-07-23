@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the thrust bar DB 92/2 over the draw spindle. Screw the two nuts onto the studs with a 32 mm across-flats open-ended spanner.",
+      "es-ES": "Colocar el puente de presión DB 92/2 sobre el husillo de tracción. Enroscar las dos tuercas en los pernos prisioneros con una llave fija de 32 mm de entrecaras."
     },
     {
       "id": "p2",
       "de": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press the spur gear and the drive-sprocket shaft apart by turning the nut anticlockwise.",
+      "es-ES": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 69",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 69",
+        "es-ES": "Fig. 69"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 70",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 70",
+        "es-ES": "Fig. 70"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

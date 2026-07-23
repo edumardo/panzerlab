@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "2. Installing the cardan shaft between the steering gear and the steering brake",
+    "es-ES": "2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
   },
   "source": {
     "image": "source.jpg",
@@ -24,38 +24,38 @@
     {
       "id": "p1",
       "de": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum.",
+      "es-ES": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno."
     },
     {
       "id": "p2",
       "de": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3.",
+      "es-ES": "Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3."
     },
     {
       "id": "p3",
       "de": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum.",
+      "es-ES": "Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este."
     },
     {
       "id": "p4",
       "de": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the cardan shaft on the steering-gear side.",
+      "es-ES": "Atornillar el árbol de transmisión en el lado del mecanismo de dirección."
     },
     {
       "id": "p5",
       "de": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the castle nuts of the fitted bolts with split pins.",
+      "es-ES": "Asegurar las tuercas almenadas de los tornillos ajustados con pasadores."
     },
     {
       "id": "p6",
       "de": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "1) Installation of the right- and left-hand cardan shaft is identical.",
+      "es-ES": "1) El montaje del árbol de transmisión derecho e izquierdo es igual."
     }
   ],
   "figures": [
@@ -66,8 +66,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 9",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 9",
+        "es-ES": "Fig. 9"
       },
       "label_keys": {
         "de": null,
@@ -78,8 +78,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

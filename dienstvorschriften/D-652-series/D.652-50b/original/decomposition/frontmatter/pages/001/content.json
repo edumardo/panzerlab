@@ -24,45 +24,45 @@
     {
       "id": "p1",
       "de": "D 652/50b",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "D 652/50b",
+      "es-ES": "D 652/50b"
     },
     {
       "id": "p2",
       "de": "Panzerkampfwagen III Ausführung H bis L",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Panzerkampfwagen III, models H to L",
+      "es-ES": "Panzerkampfwagen III, modelos H a L"
     },
     {
       "id": "p3",
       "de": "Panzerbefehlswagen Ausführung H bis K",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Panzerbefehlswagen, models H to K",
+      "es-ES": "Panzerbefehlswagen, modelos H a K"
     },
     {
       "id": "p4",
       "de": "Gepanzerte Selbstfahrlafette Ausführung A, B, D und E für Sturmgeschütz 7,5 cm Kanone",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Armoured self-propelled mounting, models A, B, D and E, for the 7.5 cm assault gun",
+      "es-ES": "Afuste autopropulsado blindado, modelos A, B, D y E, para el cañón de asalto de 7,5 cm"
     },
     {
       "id": "p5",
       "de": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Provisional repair manual for the power train",
+      "es-ES": "Manual provisional de reparación del tren de potencia"
     },
     {
       "id": "p6",
       "de": "Vom 1. 2. 43",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Dated 1. 2. 43",
+      "es-ES": "De fecha 1. 2. 43"
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

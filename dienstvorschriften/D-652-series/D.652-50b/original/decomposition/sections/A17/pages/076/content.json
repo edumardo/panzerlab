@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "17. Auswechseln der Kupplungsbeläge",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "17. Replacing the clutch linings",
+    "es-ES": "17. Sustitución de los forros de embrague"
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 6 mm drill bit, drill out the countersunk head of the rivets.",
+      "es-ES": "Con una broca de 6 mm, taladrar la cabeza avellanada de los remaches."
     },
     {
       "id": "p2",
       "de": "Kupplungsscheibe mit dem Niet auf eine Mutter legen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the clutch disc, rivet down, onto a nut.",
+      "es-ES": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca."
     },
     {
       "id": "p3",
       "de": "Mit Hammer und Dorn die Nieten ausschlagen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Drive out the rivets using a hammer and drift.",
+      "es-ES": "Extraer los remaches golpeando con martillo y botador."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 122",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 122",
+        "es-ES": "Fig. 122"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 123",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 123",
+        "es-ES": "Fig. 123"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

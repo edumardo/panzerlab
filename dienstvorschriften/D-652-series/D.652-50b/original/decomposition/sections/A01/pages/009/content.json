@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Gelenkwelle mit Seil oder von Hand herausziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull out the cardan shaft using a rope or by hand.",
+      "es-ES": "Extraer el árbol de transmisión con una cuerda o a mano."
     },
     {
       "id": "p2",
       "de": "Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
+      "es-ES": "Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 8",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 8",
+        "es-ES": "Fig. 8"
       },
       "label_keys": {
         "de": null,
@@ -54,8 +54,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

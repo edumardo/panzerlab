@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 4. Installing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 4. Montaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,57 @@
     "next": "d65250b-page-022"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Haltefedern der Bremsbacken mit Zughaken einhängen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn eingehängt werden.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Haltefedern der Bremsbacken mit Zughaken einhängen.",
+      "en-GB": "Hook the retaining springs of the brake shoes in place using a pull hook.",
+      "es-ES": "Enganchar los muelles de retención de las zapatas de freno con un gancho de tracción."
+    },
+    {
+      "id": "p2",
+      "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn eingehängt werden.",
+      "en-GB": "If no pull hook is available, the retaining springs of the brake shoes can be hooked in using a wire pull and a drift.",
+      "es-ES": "Si no se dispone de gancho de tracción, los muelles de retención de las zapatas de freno pueden engancharse con un tirador de alambre y un botador."
+    }
   ],
   "figures": [
-    {"id": "fig-027", "number": 27, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 27", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-028", "number": 28, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 28", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-027",
+      "number": 27,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 27",
+        "en-GB": "Fig. 27",
+        "es-ES": "Fig. 27"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-028",
+      "number": 28,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 28",
+        "en-GB": "Fig. 28",
+        "es-ES": "Fig. 28"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

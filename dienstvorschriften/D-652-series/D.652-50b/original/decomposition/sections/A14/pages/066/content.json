@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press off the ball-bearing flange using four threaded screws (M4).",
+      "es-ES": "Desprender la brida del cojinete de bolas con cuatro tornillos roscados (M4)."
     },
     {
       "id": "p2",
       "de": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws.",
+      "es-ES": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante."
     },
     {
       "id": "p3",
       "de": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
+      "es-ES": "Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia)."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 103",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 103",
+        "es-ES": "Fig. 103"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 104",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 104",
+        "es-ES": "Fig. 104"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

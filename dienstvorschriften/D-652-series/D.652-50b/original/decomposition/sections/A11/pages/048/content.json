@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it.",
+      "es-ES": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él."
     },
     {
       "id": "p2",
       "de": "Ritzelwelle durch Anziehen der Mutter ausziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull out the pinion shaft by tightening the nut.",
+      "es-ES": "Extraer el eje del piñón apretando la tuerca."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 73",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 73",
+        "es-ES": "Fig. 73"
       },
       "label_keys": {
         "de": null,
@@ -54,8 +54,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Auszuwechselnde Ausrückhebel mit Ausrückbolzen aus dem Kupplungsdeckel ziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the release levers to be replaced, together with the release bolts, out of the clutch cover.",
+      "es-ES": "Extraer de la tapa del embrague las palancas de desembrague que deban sustituirse, junto con los pernos de desembrague."
     },
     {
       "id": "p2",
       "de": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement.",
+      "es-ES": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad."
     },
     {
       "id": "p3",
       "de": "Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
+      "es-ES": "Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 101",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 101",
+        "es-ES": "Fig. 101"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 102",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 102",
+        "es-ES": "Fig. 102"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

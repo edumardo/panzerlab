@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Die Kupplungswelle ganz in die Kupplung einschieben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Push the clutch shaft fully into the clutch.",
+      "es-ES": "Introducir el eje de embrague por completo en el embrague."
     },
     {
       "id": "p2",
       "de": "Mit Verstellschlüssel die Kupplung leicht auslösen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Release the clutch slightly using the adjusting spanner.",
+      "es-ES": "Desembragar ligeramente con la llave de ajuste."
     },
     {
       "id": "p3",
       "de": "Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre.",
+      "es-ES": "Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado."
     },
     {
       "id": "p4",
       "de": "Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner.",
+      "es-ES": "Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras."
     },
     {
       "id": "p5",
       "de": "Die Muttern durch Umbiegen der Blechsicherungen sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the nuts by bending over the sheet-metal locks.",
+      "es-ES": "Asegurar las tuercas doblando las chapas de seguridad."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 139",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 139",
+        "es-ES": "Fig. 139"
       },
       "label_keys": {
         "de": null,
@@ -72,8 +72,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the clutch housing to the engine with a 17 mm A/F socket spanner.",
+      "es-ES": "Atornillar la carcasa del embrague al motor con una llave de vaso de 17 mm de entrecaras."
     },
     {
       "id": "p2",
       "de": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Slide the ball-bearing spacer ring onto the clutch shaft with the collar facing the grooves.",
+      "es-ES": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 137",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 137",
+        "es-ES": "Fig. 137"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 138",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 138",
+        "es-ES": "Fig. 138"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

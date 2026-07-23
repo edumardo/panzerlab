@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,17 @@
     "next": "d65250b-page-028"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.", "en-GB": "Clamp the brake shoe in the vice. Using a hammer and chisel, knock off the rivet heads inside the brake shoe. Using a hammer and a drift punch, drive out the rivets.", "es-ES": "Sujetar la zapata de freno en el tornillo de banco. Con martillo y cincel, cortar las cabezas de los remaches en el interior de la zapata de freno. Con martillo y botador, expulsar los remaches."},
+    {"id": "p2", "de": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.", "en-GB": "Clamp a drift punch with the diameter of a rivet head in the vice. Lay on the new brake lining and rivet it in place, starting from the centre and working outwards. Let the rivet head rest on the clamped drift punch and rivet the rivet using a second drift punch.", "es-ES": "Sujetar en el tornillo de banco un botador con el diámetro de una cabeza de remache. Colocar el nuevo forro de freno y remacharlo comenzando desde el centro hacia fuera. Dejar que la cabeza del remache repose sobre el botador sujeto y remachar el remache con un segundo botador."}
   ],
   "figures": [
-    {"id": "fig-037", "number": 37, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 37", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-038", "number": 38, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 38", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-037", "number": 37, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 37", "en-GB": "Fig. 37", "es-ES": "Fig. 37"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-038", "number": 38, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 38", "en-GB": "Fig. 38", "es-ES": "Fig. 38"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

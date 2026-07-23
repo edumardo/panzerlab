@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "Bügel zum Einhängen der kleinen Federn, Stützbremse",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Bracket for hooking in the small springs, support brake",
+    "es-ES": "Estribo para enganchar los muelles pequeños, freno de apoyo"
   },
   "source": {
     "image": "source.jpg",
@@ -24,15 +24,15 @@
     {
       "id": "p1",
       "de": "Zeichnung 3. Bügel zum Einhängen der kleinen Federn, Stützbremse. Maßstab 1:1.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Drawing 3. Bracket for hooking in the small springs, support brake. Scale 1:1.",
+      "es-ES": "Plano 3. Estribo para enganchar los muelles pequeños, freno de apoyo. Escala 1:1."
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

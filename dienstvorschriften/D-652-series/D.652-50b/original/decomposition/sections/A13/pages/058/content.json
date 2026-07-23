@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 13. Installing the final drive unit with a lifting device.",
+    "es-ES": "Continuación: 13. Montaje del engranaje lateral final con dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Einen Gummi-Dichtring (1), auf die Abstandsbuchse (2) und einen weiteren Gummi-Dichtring (3) auf die Nabe der Ritzelwelle schieben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Slide a rubber sealing ring (1) onto the spacer bush (2) and a further rubber sealing ring (3) onto the hub of the pinion shaft.",
+      "es-ES": "Deslizar un anillo de goma (1) sobre el casquillo distanciador (2) y otro anillo de goma (3) sobre el cubo del eje del piñón."
     },
     {
       "id": "p2",
       "de": "Das Seitenvorgelege mit Brechstange aufrichten und die Ritzelwelle auf gleiche Höhe mit der Bremstrommelwelle heben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Raise the final drive unit upright using a crowbar and lift the pinion shaft to the same height as the brake-drum shaft.",
+      "es-ES": "Enderezar el engranaje lateral final con una palanca y elevar el eje del piñón hasta la misma altura que el eje del tambor de freno."
     },
     {
       "id": "p3",
       "de": "Die Bremstrommel so weit herumdrehen, bis die Nuten der Ritzel- und Bremstrommelwelle ineinander passen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Turn the brake drum until the splines of the pinion shaft and the brake-drum shaft engage with one another.",
+      "es-ES": "Girar el tambor de freno hasta que las ranuras del eje del piñón y del eje del tambor de freno encajen entre sí."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 89",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 89",
+        "es-ES": "Fig. 89"
       },
       "label_keys": {
         "de": null,
@@ -60,8 +60,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

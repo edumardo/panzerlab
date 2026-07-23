@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "11. Zerlegen des Seitenvorgeleges",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "11. Disassembling the final drive unit",
+    "es-ES": "11. Despiece del engranaje lateral final"
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Release the locking of the three nuts on the countersunk screws of the housing cover.",
+      "es-ES": "Liberar el seguro de las tres tuercas de los tornillos avellanados de la tapa de la carcasa."
     },
     {
       "id": "p2",
       "de": "Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the nuts with a 22 mm across-flats open-ended spanner. Unscrew the unlocked screws with a screwdriver.",
+      "es-ES": "Desenroscar las tuercas con una llave fija de 22 mm de entrecaras. Desenroscar con un destornillador los tornillos ya liberados de seguro."
     },
     {
       "id": "p3",
       "de": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press off the housing cover of the final drive unit with the extractor screws III DB 37.",
+      "es-ES": "Separar la tapa de la carcasa del engranaje lateral final con los tornillos extractores III DB 37."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 61",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 61",
+        "es-ES": "Fig. 61"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 62",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 62",
+        "es-ES": "Fig. 62"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

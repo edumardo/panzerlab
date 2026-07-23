@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 13. Installing the final drive unit with a lifting device.",
+    "es-ES": "Continuación: 13. Montaje del engranaje lateral final con dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,38 +24,38 @@
     {
       "id": "p1",
       "de": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft.",
+      "es-ES": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón."
     },
     {
       "id": "p2",
       "de": "Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece.",
+      "es-ES": "Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia."
     },
     {
       "id": "p3",
       "de": "Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the washer (Drawing 5)¹) into the recess of the brake-drum hub.",
+      "es-ES": "Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno."
     },
     {
       "id": "p4",
       "de": "Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Guide the bell III DB 101 over the spindle and fit the nut.",
+      "es-ES": "Pasar la campana III DB 101 sobre el husillo y colocar la tuerca."
     },
     {
       "id": "p5",
       "de": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
+      "es-ES": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10."
     },
     {
       "id": "p6",
       "de": "¹) Siehe im Anhang.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "¹) See appendix.",
+      "es-ES": "¹) Véase el anexo."
     }
   ],
   "figures": [
@@ -66,8 +66,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 91",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 91",
+        "es-ES": "Fig. 91"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 92",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 92",
+        "es-ES": "Fig. 92"
       },
       "label_keys": {
         "de": null,
@@ -94,8 +94,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

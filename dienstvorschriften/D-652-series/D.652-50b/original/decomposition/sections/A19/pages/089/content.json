@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using 14 mm and 17 mm open-end spanners, unscrew the bolts from the cardan shaft tunnel and the clutch front housing.",
+      "es-ES": "Con llaves de boca de 14 y 17 mm, desenroscar los tornillos del túnel del árbol de transmisión y de la carcasa delantera del embrague."
     },
     {
       "id": "p2",
       "de": "Die Splinte aus den Kronenmuttern ziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the split pins out of the castellated nuts.",
+      "es-ES": "Extraer los pasadores de aletas de las tuercas almenadas."
     },
     {
       "id": "p3",
       "de": "Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
+      "es-ES": "Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 141",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 141",
+        "es-ES": "Fig. 141"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 142",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 142",
+        "es-ES": "Fig. 142"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring.",
+      "es-ES": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague."
     },
     {
       "id": "p2",
       "de": "Den Kupplungszwischenring abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lift off the clutch intermediate ring.",
+      "es-ES": "Levantar el anillo intermedio del embrague."
     },
     {
       "id": "p3",
       "de": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the wire locks from the square-head screws of the flywheel fixing.",
+      "es-ES": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante."
     },
     {
       "id": "p4",
       "de": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
+      "es-ES": "Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 107",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 107",
+        "es-ES": "Fig. 107"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 108",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 108",
+        "es-ES": "Fig. 108"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

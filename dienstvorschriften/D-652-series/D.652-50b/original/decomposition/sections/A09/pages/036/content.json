@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "9. Removing a final drive unit using a lifting device",
+    "es-ES": "9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador"
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Die Gleiskette am Triebrad abnehmen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the track from the drive sprocket.",
+      "es-ES": "Retirar la cadena de oruga de la rueda motriz."
     },
     {
       "id": "p2",
       "de": "Kettenabdeckung über dem Triebrad abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the track guard above the drive sprocket.",
+      "es-ES": "Desatornillar el guardacadenas situado sobre la rueda motriz."
     },
     {
       "id": "p3",
       "de": "Triebrad ausbauen, Ausbau des Triebrades D 652/50 a, Seite 77 bis 81.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the drive sprocket, see Removing the drive sprocket, D 652/50 a, pages 77 to 81.",
+      "es-ES": "Desmontar la rueda motriz, véase Desmontaje de la rueda motriz, D 652/50 a, páginas 77 a 81."
     },
     {
       "id": "p4",
       "de": "Ölablaßschrauben mit 28-SW-Maulschlüssel ausschrauben und Öl ablassen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the oil drain plugs with a 28 mm across-flats open-ended spanner and drain the oil.",
+      "es-ES": "Desenroscar los tapones de vaciado de aceite con una llave fija de 28 mm de entrecaras y vaciar el aceite."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 54",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 54",
+        "es-ES": "Fig. 54"
       },
       "label_keys": {
         "de": null,
@@ -66,8 +66,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

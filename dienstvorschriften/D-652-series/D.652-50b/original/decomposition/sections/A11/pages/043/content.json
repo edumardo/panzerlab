@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Drahtsicherung aus den Schrauben des Lagerdeckels entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the wire lock from the screws of the bearing cover.",
+      "es-ES": "Retirar el alambre de seguridad de los tornillos de la tapa de cojinete."
     },
     {
       "id": "p2",
       "de": "Mit 14-SW-Steckschlüssel die entsicherten Schrauben ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the unlocked screws with a 14 mm across-flats socket spanner.",
+      "es-ES": "Desenroscar los tornillos ya liberados de seguro con una llave de vaso de 14 mm de entrecaras."
     },
     {
       "id": "p3",
       "de": "Vier Befestigungsschrauben des Lagerdeckels in die Gewindelöcher des Deckels einschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Screw four fixing screws of the bearing cover into the threaded holes of the cover.",
+      "es-ES": "Enroscar cuatro tornillos de fijación de la tapa de cojinete en los orificios roscados de la tapa."
     },
     {
       "id": "p4",
       "de": "Den Lagerdeckel durch gleichmäßiges Anziehen der Schrauben abdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press off the bearing cover by tightening the screws evenly.",
+      "es-ES": "Separar la tapa de cojinete apretando los tornillos de manera uniforme."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 63",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 63",
+        "es-ES": "Fig. 63"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 64",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 64",
+        "es-ES": "Fig. 64"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

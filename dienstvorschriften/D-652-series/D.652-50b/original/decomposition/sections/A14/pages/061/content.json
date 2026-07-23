@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "14. Ausbau der Hauptkupplung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "14. Removing the main clutch",
+    "es-ES": "14. Desmontaje del embrague principal"
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using 14 mm and 17 mm (A/F) open-ended spanners, unscrew the bolts from the cardan-shaft tunnel and the clutch housing extension.",
+      "es-ES": "Con llaves fijas de 14 mm y 17 mm (entrecaras), desatornillar los tornillos del túnel del árbol de transmisión y de la prolongación de la carcasa del embrague."
     },
     {
       "id": "p2",
       "de": "Splinte aus den Kronenmuttern ziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the split pins out of the castle nuts.",
+      "es-ES": "Extraer los pasadores de aletas de las tuercas almenadas."
     },
     {
       "id": "p3",
       "de": "Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1).",
+      "es-ES": "Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1)."
     },
     {
       "id": "p4",
       "de": "Vergasergestänge (2) aus den Kugelgelenken drücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press the carburettor linkage (2) out of the ball joints.",
+      "es-ES": "Sacar el varillaje del carburador (2) de las rótulas."
     },
     {
       "id": "p5",
       "de": "Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the connecting pin (3) out of the clutch linkage.",
+      "es-ES": "Extraer el pasador de unión (3) del varillaje del embrague."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 93",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 93",
+        "es-ES": "Fig. 93"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 94",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 94",
+        "es-ES": "Fig. 94"
       },
       "label_keys": {
         "de": null,
@@ -88,8 +88,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

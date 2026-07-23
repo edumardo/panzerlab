@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Mit 22-SW-Maulschlüssel die Anschlußschrauben der hydraulischen Rohrleitungen an dem linken Lenkstock abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 22 mm open-end spanner, unscrew the connecting bolts of the hydraulic pipelines on the left-hand steering column.",
+      "es-ES": "Con una llave de boca de 22 mm, desenroscar los tornillos de conexión de las tuberías hidráulicas en la columna de dirección izquierda."
     },
     {
       "id": "p2",
       "de": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the split pins out of the castellated nuts of the steering column mounting bolts.",
+      "es-ES": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección."
     },
     {
       "id": "p3",
       "de": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column.",
+      "es-ES": "Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección."
     },
     {
       "id": "p4",
       "de": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "On the mechanical steering actuation, remove only the linkage to the support brake.",
+      "es-ES": "En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 147",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 147",
+        "es-ES": "Fig. 147"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 148",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 148",
+        "es-ES": "Fig. 148"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

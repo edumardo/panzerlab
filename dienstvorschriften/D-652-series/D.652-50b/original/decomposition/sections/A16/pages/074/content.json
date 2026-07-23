@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Kupplungsdruckfeder, Ausrücklager und Druckplatte (1) über die Zugschraube (3) führen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Slide the clutch pressure spring, release bearing, and pressure plate (1) over the draw bolt (3).",
+      "es-ES": "Deslizar el muelle de presión del embrague, el rodamiento de desembrague y la placa de presión (1) sobre el tornillo tensor (3)."
     },
     {
       "id": "p2",
       "de": "Kupplungsdruckfeder mit der Vorrichtung so weit zusammenziehen, bis sich das Kugellagergehäuse mit den Ausrückbolzen verschrauben läßt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Compress the clutch pressure spring with the device until the ball-bearing housing can be bolted to the release bolts.",
+      "es-ES": "Comprimir el muelle de presión del embrague con el dispositivo hasta que la carcasa del rodamiento de bolas pueda atornillarse a los pernos de desembrague."
     },
     {
       "id": "p3",
       "de": "Mit 14-SW-Maulschlüssel die drei Befestigungsschrauben des Ausrücklagergehäuses einschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 14 mm (A/F) open-ended spanner, screw in the three securing screws of the release-bearing housing.",
+      "es-ES": "Con una llave fija de 14 mm (entrecaras), enroscar los tres tornillos de fijación de la carcasa del rodamiento de desembrague."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 118",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 118",
+        "es-ES": "Fig. 118"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 119",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 119",
+        "es-ES": "Fig. 119"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

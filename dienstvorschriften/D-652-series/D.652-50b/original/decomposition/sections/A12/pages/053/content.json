@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,17 @@
     "next": "d65250b-page-054"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Stirnrad mit Hilfe der beiden Stehbolzen DB 92/1 in das Gehäuse des Seitenvorgeleges legen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Stirnrad mit Hilfe der beiden Stehbolzen DB 92/1 in das Gehäuse des Seitenvorgeleges legen.", "en-GB": "Using the two studs DB 92/1, place the spur gear into the housing of the final drive unit.", "es-ES": "Con ayuda de los dos pernos prisioneros DB 92/1, colocar la rueda dentada cilíndrica en la carcasa del engranaje lateral final."},
+    {"id": "p2", "de": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht.", "en-GB": "Set the drive-wheel shaft on wooden supports so that it stands firm during fitting.", "es-ES": "Colocar el eje de la rueda motriz sobre calzos de madera de modo que quede firme durante el montaje."},
+    {"id": "p3", "de": "Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.", "en-GB": "Lift the final drive unit and turn it until the splines of the spur gear and the drive-wheel shaft slide into one another.", "es-ES": "Levantar el engranaje lateral final y girarlo hasta que las estrías de la rueda dentada cilíndrica y del eje de la rueda motriz encajen entre sí."}
   ],
   "figures": [
-    {"id": "fig-082", "number": 82, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 82", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-082", "number": 82, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 82", "en-GB": "Fig. 82", "es-ES": "Fig. 82"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

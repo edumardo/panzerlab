@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 4. Installing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 4. Montaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,53 @@
     "next": "d65250b-page-020"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die lange Zugfeder in die Augen der beiden Bremsbacken einhängen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "Die Asbestschläuche mit Bindedraht festbinden.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Die lange Zugfeder in die Augen der beiden Bremsbacken einhängen.",
+      "en-GB": "Hook the long tension spring into the eyes of the two brake shoes.",
+      "es-ES": "Enganchar el muelle de tracción largo en los ojales de las dos zapatas de freno."
+    },
+    {
+      "id": "p2",
+      "de": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.",
+      "en-GB": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws.",
+      "es-ES": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención."
+    },
+    {
+      "id": "p3",
+      "de": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.",
+      "en-GB": "Fit the asbestos hoses onto the stubs of the brake shoes.",
+      "es-ES": "Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno."
+    },
+    {
+      "id": "p4",
+      "de": "Die Asbestschläuche mit Bindedraht festbinden.",
+      "en-GB": "Tie the asbestos hoses fast with binding wire.",
+      "es-ES": "Atar las mangueras de amianto con alambre de atado."
+    }
   ],
   "figures": [
-    {"id": "fig-024", "number": 24, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 24", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-024",
+      "number": 24,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 24",
+        "en-GB": "Fig. 24",
+        "es-ES": "Fig. 24"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

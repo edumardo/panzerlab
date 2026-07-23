@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 4. Installing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 4. Montaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,57 @@
     "next": "d65250b-page-021"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die stärkere Feder zur Kampfraumseite und die schwächere Feder zur Bugseite in die Bremsbacken mit Federzange einhängen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Ist keine Federzange vorhanden, können die unteren Federn mit Drahtzug und Kettenbolzen eingehängt werden.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Die stärkere Feder zur Kampfraumseite und die schwächere Feder zur Bugseite in die Bremsbacken mit Federzange einhängen.",
+      "en-GB": "Using spring clamps, hook the stronger spring facing the fighting-compartment side and the weaker spring facing the bow side into the brake shoes.",
+      "es-ES": "Con pinzas para muelles, enganchar en las zapatas de freno el muelle más fuerte orientado hacia el lado del compartimento de combate y el muelle más débil hacia el lado de proa."
+    },
+    {
+      "id": "p2",
+      "de": "Ist keine Federzange vorhanden, können die unteren Federn mit Drahtzug und Kettenbolzen eingehängt werden.",
+      "en-GB": "If no spring clamp is available, the lower springs can be hooked in using a wire pull and a chain (track-link) pin.",
+      "es-ES": "Si no se dispone de pinzas para muelles, los muelles inferiores pueden engancharse con un tirador de alambre y un pasador de cadena."
+    }
   ],
   "figures": [
-    {"id": "fig-025", "number": 25, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 25", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-026", "number": 26, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 26", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-025",
+      "number": 25,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 25",
+        "en-GB": "Fig. 25",
+        "es-ES": "Fig. 25"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "fig-026",
+      "number": 26,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 26",
+        "en-GB": "Fig. 26",
+        "es-ES": "Fig. 26"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

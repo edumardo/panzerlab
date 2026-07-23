@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "1. Removing the cardan shaft between the steering gear and the steering brake",
+    "es-ES": "1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the guard plates on the cardan shaft and brake drum.",
+      "es-ES": "Retirar las chapas protectoras del árbol de transmisión y del tambor de freno."
     },
     {
       "id": "p2",
       "de": "Gleiskette vom Triebrad abnehmen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the track from the drive sprocket.",
+      "es-ES": "Retirar la cadena de la rueda motriz."
     },
     {
       "id": "p3",
       "de": "Splinte aus den Paßschrauben der Gelenkwelle ziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the split pins out of the fitted bolts of the cardan shaft.",
+      "es-ES": "Extraer los pasadores de los tornillos ajustados del árbol de transmisión."
     },
     {
       "id": "p4",
       "de": "An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "On the steering-gear side, using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, slacken the castle nuts 4–5 turns off the fitted bolts.",
+      "es-ES": "En el lado del mecanismo de dirección, con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, aflojar las tuercas almenadas 4–5 vueltas de los tornillos ajustados."
     },
     {
       "id": "p5",
       "de": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "1) Removal of the right- and left-hand cardan shaft is identical.",
+      "es-ES": "1) El desmontaje del árbol de transmisión derecho e izquierdo es igual."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 1",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 1",
+        "es-ES": "Fig. 1"
       },
       "label_keys": {
         "de": null,
@@ -72,8 +72,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1).",
+      "es-ES": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1)."
     },
     {
       "id": "p2",
       "de": "Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
+      "es-ES": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3)."
     },
     {
       "id": "p3",
       "de": "Kupplungswelle mit Lagerflansch aus der Kupplung ziehen und das Kupplungsgehäuse ausheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull the clutch shaft with the bearing flange out of the clutch and lift out the clutch housing.",
+      "es-ES": "Extraer el eje del embrague junto con la brida de cojinete del embrague y levantar la carcasa del embrague."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 95",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 95",
+        "es-ES": "Fig. 95"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 96",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 96",
+        "es-ES": "Fig. 96"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

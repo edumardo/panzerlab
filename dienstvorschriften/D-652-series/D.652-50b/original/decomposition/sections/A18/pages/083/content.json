@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Die beiden Halteschrauben des Kupplungsdeckels nachziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Retighten the two retaining screws of the clutch cover.",
+      "es-ES": "Reapretar los dos tornillos de sujeción de la tapa de embrague."
     },
     {
       "id": "p2",
       "de": "Kupplungswelle ausziehen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Withdraw the clutch shaft.",
+      "es-ES": "Extraer el eje de embrague."
     },
     {
       "id": "p3",
       "de": "Mit Kettenbolzen die Kupplungstreibscheiben auf Mitte richten.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Centre the clutch driving discs using a chain bolt.",
+      "es-ES": "Centrar los discos motrices del embrague con un perno de cadena."
     },
     {
       "id": "p4",
       "de": "Prüfen, ob sich Kupplungswelle bis zum hinteren Kugellager einführen läßt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Check that the clutch shaft can be inserted as far as the rear ball bearing.",
+      "es-ES": "Comprobar que el eje de embrague pueda introducirse hasta el rodamiento de bolas trasero."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 134",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 134",
+        "es-ES": "Fig. 134"
       },
       "label_keys": {
         "de": null,
@@ -66,8 +66,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

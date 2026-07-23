@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-025"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Vor dem Abbauen der Stützbremstrommel Stützbremse lösen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Lenkhebel anziehen und den Stufenkeil mit der 3. Stufe zwischen Stellschraube und Bremshebel schieben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Zwei 10-mm-Schrauben in die Gewindelöcher einschrauben und die Stützbremstrommel durch gleichmäßiges Anziehen beider Schrauben abdrücken.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Vor dem Abbauen der Stützbremstrommel Stützbremse lösen.", "en-GB": "Before removing the support brake drum, release the support brake.", "es-ES": "Antes de desmontar el tambor del freno de apoyo, soltar el freno de apoyo."},
+    {"id": "p2", "de": "Lenkhebel anziehen und den Stufenkeil mit der 3. Stufe zwischen Stellschraube und Bremshebel schieben.", "en-GB": "Pull the steering lever and push the stepped wedge, using the 3rd step, between the adjusting screw and the brake lever.", "es-ES": "Tirar de la palanca de dirección e introducir la cuña escalonada, con el 3er escalón, entre el tornillo de ajuste y la palanca de freno."},
+    {"id": "p3", "de": "Zwei 10-mm-Schrauben in die Gewindelöcher einschrauben und die Stützbremstrommel durch gleichmäßiges Anziehen beider Schrauben abdrücken.", "en-GB": "Screw two 10 mm screws into the threaded holes and press off the support brake drum by tightening both screws evenly.", "es-ES": "Enroscar dos tornillos de 10 mm en los orificios roscados y desprender el tambor del freno de apoyo apretando ambos tornillos por igual."}
   ],
   "figures": [
-    {"id": "fig-031", "number": 31, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 31", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-032", "number": 32, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 32", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-031", "number": 31, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 31", "en-GB": "Fig. 31", "es-ES": "Fig. 31"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-032", "number": 32, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 32", "en-GB": "Fig. 32", "es-ES": "Fig. 32"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

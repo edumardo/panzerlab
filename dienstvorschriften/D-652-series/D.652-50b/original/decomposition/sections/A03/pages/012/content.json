@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "3. Removing the brake drum and brake shoes of the steering brake",
+    "es-ES": "3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección"
   },
   "source": {
     "image": "source.jpg",
@@ -21,17 +21,17 @@
     "next": "d65250b-page-013"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Schutzbleche an Gelenkwelle und Bremstrommel entfernen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die Muttern an der Wasserablaufrinne entsichern und mit 17-SW-Maulschlüssel herausschrauben.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Schutzbleche an Gelenkwelle und Bremstrommel entfernen.", "en-GB": "Remove the guard plates on the cardan shaft and brake drum.", "es-ES": "Retirar las chapas de protección del árbol de transmisión y del tambor de freno."},
+    {"id": "p2", "de": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.", "en-GB": "Remove the cardan shaft, marginal number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.", "es-ES": "Desmontar el árbol de transmisión, número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, figs. 1 a 8."},
+    {"id": "p3", "de": "Die Muttern an der Wasserablaufrinne entsichern und mit 17-SW-Maulschlüssel herausschrauben.", "en-GB": "Release the lock on the nuts at the water drain channel and unscrew them using a 17 mm A/F open-ended spanner.", "es-ES": "Liberar el seguro de las tuercas del canal de desagüe de agua y desenroscarlas con una llave fija de 17 mm de entrecaras."}
   ],
   "figures": [
-    {"id": "fig-011", "number": 11, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 11", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-011", "number": 11, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 11", "en-GB": "Fig. 11", "es-ES": "Fig. 11"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

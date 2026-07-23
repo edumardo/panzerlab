@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 4. Installing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 4. Montaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,19 +21,59 @@
     "next": "d65250b-page-023"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Bremstrommel aufsetzen und die beiden Paßstifte bis zur Nute der Sicherungsbleche einführen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Die Bremstrommel mit 22-SW-Ringschlüssel mit der Nabe verschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die Schrauben durch Umbiegen der Blechsicherungen sichern.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "Die Lenkbremse nach Einstellanweisung einstellen.", "en-GB": null, "es-ES": null},
-    {"id": "p5", "de": "Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.", "en-GB": null, "es-ES": null}
+    {
+      "id": "p1",
+      "de": "Bremstrommel aufsetzen und die beiden Paßstifte bis zur Nute der Sicherungsbleche einführen.",
+      "en-GB": "Fit the brake drum in place and insert the two fitted dowel pins as far as the groove of the locking plates.",
+      "es-ES": "Colocar el tambor de freno e introducir los dos pasadores de ajuste hasta la ranura de las chapas de seguridad."
+    },
+    {
+      "id": "p2",
+      "de": "Die Bremstrommel mit 22-SW-Ringschlüssel mit der Nabe verschrauben.",
+      "en-GB": "Bolt the brake drum to the hub using a 22 mm (A/F) ring spanner.",
+      "es-ES": "Atornillar el tambor de freno al cubo con una llave de estrella de 22 mm (entrecaras)."
+    },
+    {
+      "id": "p3",
+      "de": "Die Schrauben durch Umbiegen der Blechsicherungen sichern.",
+      "en-GB": "Secure the screws by bending over the sheet-metal locks.",
+      "es-ES": "Asegurar los tornillos doblando las chapas de seguridad."
+    },
+    {
+      "id": "p4",
+      "de": "Die Lenkbremse nach Einstellanweisung einstellen.",
+      "en-GB": "Adjust the steering brake according to the adjustment instructions.",
+      "es-ES": "Ajustar el freno de dirección según las instrucciones de ajuste."
+    },
+    {
+      "id": "p5",
+      "de": "Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
+      "en-GB": "Install the cardan shaft, margin no. 2, “Installing the cardan shaft between the steering gear and the steering brake”, Fig. 9 to 10.",
+      "es-ES": "Montar el árbol de transmisión, número marginal 2, «Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección», fig. 9 a 10."
+    }
   ],
   "figures": [
-    {"id": "fig-029", "number": 29, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 29", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "fig-029",
+      "number": 29,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": "Bild 29",
+        "en-GB": "Fig. 29",
+        "es-ES": "Fig. 29"
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-014"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die Befestigungsschrauben der Bremstrommel entsichern.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Die Befestigungsschrauben der Bremstrommel entsichern.", "en-GB": "Release the lock on the retaining screws of the brake drum.", "es-ES": "Liberar el seguro de los tornillos de fijación del tambor de freno."},
+    {"id": "p2", "de": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.", "en-GB": "Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.", "es-ES": "Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras."},
+    {"id": "p3", "de": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.", "en-GB": "Press the brake drum off by evenly tightening the two pressure screws III DB 37.", "es-ES": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37."}
   ],
   "figures": [
-    {"id": "fig-012", "number": 12, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 12", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-013", "number": 13, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 13", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-012", "number": 12, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 12", "en-GB": "Fig. 12", "es-ES": "Fig. 12"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-013", "number": 13, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 13", "en-GB": "Fig. 13", "es-ES": "Fig. 13"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

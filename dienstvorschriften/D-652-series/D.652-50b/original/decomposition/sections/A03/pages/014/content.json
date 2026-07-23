@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-015"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).", "en-GB": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).", "es-ES": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹)."},
+    {"id": "p2", "de": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.", "en-GB": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.", "es-ES": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena."},
+    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": "¹) See appendix.", "es-ES": "¹) Véase el anexo."}
   ],
   "figures": [
-    {"id": "fig-014", "number": 14, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 14", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-015", "number": 15, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 15", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-014", "number": 14, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 14", "en-GB": "Fig. 14", "es-ES": "Fig. 14"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-015", "number": 15, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 15", "en-GB": "Fig. 15", "es-ES": "Fig. 15"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

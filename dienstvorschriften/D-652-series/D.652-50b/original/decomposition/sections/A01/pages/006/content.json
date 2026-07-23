@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Loosen the fitted bolts by striking the castle nut with a hammer, then remove the nut and bolt by hand.",
+      "es-ES": "Aflojar los tornillos ajustados golpeando con un martillo la tuerca almenada, después retirar la tuerca y el tornillo a mano."
     },
     {
       "id": "p2",
       "de": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "When removing the fitted bolts on the brake-drum side, turn the brake drum round until the fitted bolt to be removed is at the milled-out point (♦) of the hub.",
+      "es-ES": "Al retirar los tornillos ajustados en el lado del tambor de freno, girar el tambor de freno hasta que el tornillo ajustado que se vaya a retirar quede situado en el rebaje fresado (♦) del cubo."
     },
     {
       "id": "p3",
       "de": "Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: The fitted bolts may only be slackened and removed at the milled-out point.",
+      "es-ES": "Atención: Los tornillos ajustados solo pueden aflojarse y retirarse en el rebaje fresado."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 2",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 2",
+        "es-ES": "Fig. 2"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 3",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 3",
+        "es-ES": "Fig. 3"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

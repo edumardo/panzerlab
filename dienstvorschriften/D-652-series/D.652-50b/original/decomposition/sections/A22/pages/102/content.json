@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "22. Verzeichnis der Zeichnungen",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "22. List of drawings",
+    "es-ES": "22. Índice de planos"
   },
   "source": {
     "image": "source.jpg",
@@ -24,111 +24,111 @@
     {
       "id": "p1",
       "de": "1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft.",
+      "es-ES": "1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final."
     },
     {
       "id": "p2",
       "de": "2. Zughaken für Haltefeder zur Lenkbremse.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "2. Pull hook for the retaining spring of the steering brake.",
+      "es-ES": "2. Gancho de tiro para el resorte de retención del freno de dirección."
     },
     {
       "id": "p3",
       "de": "3. Bügel zum Einhängen der kleinen Federn, Stützbremse.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "3. Bracket for hooking in the small springs, support brake.",
+      "es-ES": "3. Estribo para enganchar los muelles pequeños, freno de apoyo."
     },
     {
       "id": "p4",
       "de": "4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "4. Extracting and inserting device for the pinion shaft of the final-drive unit.",
+      "es-ES": "4. Dispositivo de extracción y montaje para el eje piñón del engranaje lateral final."
     },
     {
       "id": "p5",
       "de": "5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub.",
+      "es-ES": "5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección."
     },
     {
       "id": "p6",
       "de": "6. Aus- und Einbauvorrichtung für Getriebeblock.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "6. Removal and installation device for the gearbox unit.",
+      "es-ES": "6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios."
     },
     {
       "id": "p7",
       "de": "7. Aus- und Einbauvorrichtung für Getriebeblock.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "7. Removal and installation device for the gearbox unit.",
+      "es-ES": "7. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios."
     },
     {
       "id": "p8",
       "de": "8. Federzange.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "8. Spring clamp.",
+      "es-ES": "8. Pinza para muelles."
     },
     {
       "id": "p9",
       "de": "9. Federzange für Federn an Lenkbremsbacken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "9. Spring clamp for the springs on the steering-brake shoes.",
+      "es-ES": "9. Pinza para los muelles de las zapatas del freno de dirección."
     },
     {
       "id": "p10",
       "de": "10. Federzange für Federn an Lenkbremsbacken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "10. Spring clamp for the springs on the steering-brake shoes.",
+      "es-ES": "10. Pinza para los muelles de las zapatas del freno de dirección."
     },
     {
       "id": "p11",
       "de": "Berlin, den 1. 2. 43.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Berlin, 1 February 1943.",
+      "es-ES": "Berlín, 1 de febrero de 1943."
     },
     {
       "id": "p12",
       "de": "Oberkommando des Heeres",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Army High Command (Oberkommando des Heeres)",
+      "es-ES": "Alto Mando del Ejército (Oberkommando des Heeres)"
     },
     {
       "id": "p13",
       "de": "Heereswaffenamt",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Army Ordnance Office (Heereswaffenamt)",
+      "es-ES": "Oficina de Artillería del Ejército (Heereswaffenamt)"
     },
     {
       "id": "p14",
       "de": "Amtsgruppe für Entwicklung und Prüfung",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Development and Testing Group (Amtsgruppe für Entwicklung und Prüfung)",
+      "es-ES": "Grupo de Desarrollo y Ensayo (Amtsgruppe für Entwicklung und Prüfung)"
     },
     {
       "id": "p15",
       "de": "Koch",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Koch",
+      "es-ES": "Koch"
     },
     {
       "id": "p16",
       "de": "S",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "S",
+      "es-ES": "S"
     },
     {
       "id": "p17",
       "de": "C/1550",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "C/1550",
+      "es-ES": "C/1550"
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

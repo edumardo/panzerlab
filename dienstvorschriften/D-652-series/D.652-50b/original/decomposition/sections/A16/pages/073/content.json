@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,8 +24,8 @@
     {
       "id": "p1",
       "de": "Drucksteg (2) mit Zugschraube (3) der Rollenlagerausziehvorrichtung, D 652/50 a, Zeichnung 3, von hinten in den Kupplungsdeckel einführen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Insert the pressure bridge (2), with the draw bolt (3) of the roller-bearing extractor (D 652/50a, Drawing 3), into the clutch cover from behind.",
+      "es-ES": "Introducir el puente de presión (2), con el tornillo tensor (3) del dispositivo extractor del rodamiento de rodillos (D 652/50a, plano 3), en la tapa del embrague desde atrás."
     }
   ],
   "figures": [
@@ -36,8 +36,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 116",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 116",
+        "es-ES": "Fig. 116"
       },
       "label_keys": {
         "de": null,
@@ -52,8 +52,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 117",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 117",
+        "es-ES": "Fig. 117"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

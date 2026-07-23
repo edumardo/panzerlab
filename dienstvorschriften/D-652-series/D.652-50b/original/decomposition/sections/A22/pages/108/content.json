@@ -7,8 +7,8 @@
   "type": "figures",
   "titles": {
     "de": "Aus- und Einbauvorrichtung für Getriebeblock",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Removal and installation device for the gearbox unit",
+    "es-ES": "Dispositivo de desmontaje y montaje para el bloque de la caja de cambios"
   },
   "source": {
     "image": "source.jpg",
@@ -24,15 +24,15 @@
     {
       "id": "p1",
       "de": "Zeichnung 6. Aus- und Einbauvorrichtung für Getriebeblock.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Drawing 6. Removal and installation device for the gearbox unit.",
+      "es-ES": "Plano 6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios."
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

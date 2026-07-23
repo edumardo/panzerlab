@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -21,19 +21,19 @@
     "next": "d65250b-page-016"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).", "en-GB": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).", "es-ES": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹)."},
+    {"id": "p2", "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.", "en-GB": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.", "es-ES": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador."},
+    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": "¹) See appendix.", "es-ES": "¹) Véase el anexo."},
+    {"id": "p4", "de": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.", "en-GB": "Carefully detach the asbestos hoses from the stubs of the brake shoes, Fig. 19.", "es-ES": "Soltar con cuidado las mangueras de amianto de los racores de las zapatas de freno, fig. 19."}
   ],
   "figures": [
-    {"id": "fig-016", "number": 16, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 16", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-017", "number": 17, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 17", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-016", "number": 16, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 16", "en-GB": "Fig. 16", "es-ES": "Fig. 16"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-017", "number": 17, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 17", "en-GB": "Fig. 17", "es-ES": "Fig. 17"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

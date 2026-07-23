@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "18. Zusammenbau der Hauptkupplung\n(mit Hilfe der Kupplungswelle)",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "18. Reassembling the main clutch\n(using the clutch shaft)",
+    "es-ES": "18. Montaje del embrague principal\n(con ayuda del eje de embrague)"
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "Beim Anschrauben eines neuen Schwungrades muß das Schwungrad an dem Motor eingestellt werden.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "When bolting on a new flywheel, the flywheel must be set up on the engine.",
+      "es-ES": "Al atornillar un volante nuevo, el volante debe ajustarse en el motor."
     },
     {
       "id": "p2",
       "de": "Kurbelwelle so weit herumdrehen, bis sich die Ventile des ersten Zylinders auf der Wasserpumpenseite überschneiden.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Turn the crankshaft round until the valves of the first cylinder, on the water-pump side, overlap.",
+      "es-ES": "Girar el cigüeñal hasta que las válvulas del primer cilindro, en el lado de la bomba de agua, se solapen."
     },
     {
       "id": "p3",
       "de": "Schwungrad mit der Einstellmarke „1 und 6 oben“ an die Kurbelwelle schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the flywheel to the crankshaft with the setting mark “1 and 6 top”.",
+      "es-ES": "Atornillar el volante al cigüeñal con la marca de ajuste «1 y 6 arriba»."
     },
     {
       "id": "p4",
       "de": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the flywheel to the crankshaft with the twelve square-head screws.",
+      "es-ES": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada."
     },
     {
       "id": "p5",
       "de": "Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Observe the centre-punch marks made during removal.",
+      "es-ES": "Tener en cuenta las marcas de granete realizadas durante el desmontaje."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 125",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 125",
+        "es-ES": "Fig. 125"
       },
       "label_keys": {
         "de": null,
@@ -72,8 +72,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

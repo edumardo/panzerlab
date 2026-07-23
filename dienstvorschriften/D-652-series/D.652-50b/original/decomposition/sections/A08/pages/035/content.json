@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 8. Installing the brake drum and brake shoes of the support brake with mechanical steering actuation.",
+    "es-ES": "Continuación: 8. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico."
   },
   "source": {
     "image": "source.jpg",
@@ -21,21 +21,21 @@
     "next": "d65250b-page-036"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Mit Federzange oder spitzem Dorn die stärkere Feder in die obere und die schwächere Feder in die untere Bremsbacke einhängen, Bild 49.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die seitlichen Haltefedern der Bremsbacken einsetzen, Bild 48.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "Stützbremstrommel über die Bremsbacken schieben. Sicherungsring über die Zylinderstifte schieben und den Sicherungsring so weit herumdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen, Bild 30.", "en-GB": null, "es-ES": null},
-    {"id": "p5", "de": "Stützbremstrommel mit den Lochschrauben verschrauben, Bild 30.", "en-GB": null, "es-ES": null},
-    {"id": "p6", "de": "Lochschrauben und den Bundstopfen durch Draht sichern, Bild 46.", "en-GB": null, "es-ES": null},
-    {"id": "p7", "de": "Stützbremse nach Einstellanweisung einstellen.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.", "en-GB": "Place the adjusting device together with the brake shoes into the mounting. Put the washer onto the threaded stud and, using a 14 mm open-ended spanner, tighten the adjusting device.", "es-ES": "Colocar el dispositivo de reajuste junto con las zapatas de freno en el soporte. Poner la arandela sobre el espárrago roscado y, con una llave fija de 14 mm, apretar el dispositivo de reajuste."},
+    {"id": "p2", "de": "Mit Federzange oder spitzem Dorn die stärkere Feder in die obere und die schwächere Feder in die untere Bremsbacke einhängen, Bild 49.", "en-GB": "Using spring pliers or a pointed drift, hook the stronger spring into the upper brake shoe and the weaker spring into the lower brake shoe, Fig. 49.", "es-ES": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte más fuerte en la zapata de freno superior y el resorte más débil en la zapata de freno inferior, fig. 49."},
+    {"id": "p3", "de": "Die seitlichen Haltefedern der Bremsbacken einsetzen, Bild 48.", "en-GB": "Fit the side retaining springs of the brake shoes, Fig. 48.", "es-ES": "Montar los resortes de retención laterales de las zapatas de freno, fig. 48."},
+    {"id": "p4", "de": "Stützbremstrommel über die Bremsbacken schieben. Sicherungsring über die Zylinderstifte schieben und den Sicherungsring so weit herumdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen, Bild 30.", "en-GB": "Slide the support brake drum over the brake shoes. Slide the locking ring over the dowel pins and turn the locking ring round until the holes of the locking ring and the support brake drum coincide, Fig. 30.", "es-ES": "Deslizar el tambor del freno de apoyo sobre las zapatas de freno. Deslizar el anillo de seguridad sobre las clavijas cilíndricas y girar el anillo de seguridad hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan, fig. 30."},
+    {"id": "p5", "de": "Stützbremstrommel mit den Lochschrauben verschrauben, Bild 30.", "en-GB": "Bolt the support brake drum in place using the hollow screws, Fig. 30.", "es-ES": "Atornillar el tambor del freno de apoyo con los tornillos huecos, fig. 30."},
+    {"id": "p6", "de": "Lochschrauben und den Bundstopfen durch Draht sichern, Bild 46.", "en-GB": "Secure the hollow screws and the collared plug with wire, Fig. 46.", "es-ES": "Asegurar los tornillos huecos y el tapón con collarín con alambre, fig. 46."},
+    {"id": "p7", "de": "Stützbremse nach Einstellanweisung einstellen.", "en-GB": "Adjust the support brake in accordance with the setting instructions.", "es-ES": "Ajustar el freno de apoyo según las instrucciones de ajuste."}
   ],
   "figures": [
-    {"id": "fig-053", "number": 53, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 53", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-053", "number": 53, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 53", "en-GB": "Fig. 53", "es-ES": "Fig. 53"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

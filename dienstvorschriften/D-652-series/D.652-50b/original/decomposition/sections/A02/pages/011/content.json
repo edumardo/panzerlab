@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 2. Installing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Sicherungsblech vor Bremstrommel legen. Die drei Befestigungsschrauben der Bremstrommel mit 22-SW-Steck- oder -Maulschlüssel einschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the locking plate in front of the brake drum. Screw in the three fixing screws of the brake drum using a 22 A/F socket or open-ended spanner.",
+      "es-ES": "Colocar la chapa de seguridad delante del tambor de freno. Enroscar los tres tornillos de fijación del tambor de freno con una llave de vaso o llave fija de 22 mm de entrecaras."
     },
     {
       "id": "p2",
       "de": "Die Befestigungsschrauben durch Umbiegen der Blechsicherungen sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the fixing screws by bending over the sheet-metal locks.",
+      "es-ES": "Asegurar los tornillos de fijación doblando las chapas de seguridad."
     },
     {
       "id": "p3",
       "de": "Schutzbleche an der Gelenkwelle und Bremstrommel befestigen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Fit the guard plates to the cardan shaft and brake drum.",
+      "es-ES": "Fijar las chapas protectoras en el árbol de transmisión y el tambor de freno."
     },
     {
       "id": "p4",
       "de": "Gleiskette auflegen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Fit the track.",
+      "es-ES": "Colocar la cadena."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 10",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 10",
+        "es-ES": "Fig. 10"
       },
       "label_keys": {
         "de": null,
@@ -66,8 +66,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

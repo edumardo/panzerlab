@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 9. Removing a final drive unit using a lifting device.",
+    "es-ES": "Continuación: 9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,38 +24,38 @@
     {
       "id": "p1",
       "de": "Das Seitenvorgelege mit Holz unterbauen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Support the final drive unit with wood blocks.",
+      "es-ES": "Calzar el engranaje lateral final con tacos de madera."
     },
     {
       "id": "p2",
       "de": "Das Seitenvorgelege mit Drahtseil am Kran aufhängen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Sling the final drive unit from the crane with a wire rope.",
+      "es-ES": "Suspender el engranaje lateral final de la grúa con un cable de acero."
     },
     {
       "id": "p3",
       "de": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Straighten out the sheet-metal locks on the fixing bolts of the final drive unit.",
+      "es-ES": "Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final."
     },
     {
       "id": "p4",
       "de": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the unlocked nuts with a 22 mm across-flats ring spanner.",
+      "es-ES": "Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras."
     },
     {
       "id": "p5",
       "de": "Beachten: Die auf der Abbildung bezeichneten 3 Muttern nicht entfernen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: Do not remove the 3 nuts marked in the illustration.",
+      "es-ES": "Atención: no retirar las 3 tuercas señaladas en la ilustración."
     },
     {
       "id": "p6",
       "de": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Remove the cardan shaft, see marginal number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+      "es-ES": "Desmontar el árbol de transmisión, véase número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 1 a 8."
     }
   ],
   "figures": [
@@ -66,8 +66,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 55",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 55",
+        "es-ES": "Fig. 55"
       },
       "label_keys": {
         "de": null,
@@ -78,8 +78,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

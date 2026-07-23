@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Kupplungsdeckel mit Kupplungsdruckplatte an den Kupplungsring halten und diese mit zwei gegenüberliegenden Schrauben so einschrauben, daß sich die Kupplungstreibscheiben mit Hilfe der Kupplungswelle drehen lassen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Hold the clutch cover with the clutch pressure plate against the clutch ring and screw them together with two opposite screws so that the clutch driving discs can be turned with the aid of the clutch shaft.",
+      "es-ES": "Sujetar la tapa de embrague con el plato de presión del embrague contra el anillo de embrague y atornillarlos con dos tornillos opuestos, de manera que los discos motrices del embrague puedan girarse con ayuda del eje de embrague."
     },
     {
       "id": "p2",
       "de": "Die Kupplungswelle mit den Kupplungstreibscheiben so weit herumdrehen, bis die Nuten der drei Kupplungstreibscheiben übereinanderstehen und sich die Kupplungswelle ganz einführen läßt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Turn the clutch shaft together with the clutch driving discs until the grooves of the three clutch driving discs are aligned and the clutch shaft can be pushed in fully.",
+      "es-ES": "Girar el eje de embrague junto con los discos motrices del embrague hasta que las ranuras de los tres discos motrices queden alineadas y el eje de embrague pueda introducirse por completo."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 132",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 132",
+        "es-ES": "Fig. 132"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 133",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 133",
+        "es-ES": "Fig. 133"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

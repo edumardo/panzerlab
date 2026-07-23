@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Splinte herausziehen und mit zwei 17-SW-Maulschlüsseln die beiden hinteren Getriebebefestigungsschrauben abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pull out the split pins and, using two 17 mm open-end spanners, unscrew the two rear gearbox mounting bolts.",
+      "es-ES": "Extraer los pasadores de aletas y, con dos llaves de boca de 17 mm, desenroscar los dos tornillos traseros de fijación de la caja de cambios."
     },
     {
       "id": "p2",
       "de": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts.",
+      "es-ES": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones."
     },
     {
       "id": "p3",
       "de": "Schaltbrett vorne auf den Panzer legen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lay the instrument panel down at the front on the tank.",
+      "es-ES": "Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 149",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 149",
+        "es-ES": "Fig. 149"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 150",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 150",
+        "es-ES": "Fig. 150"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

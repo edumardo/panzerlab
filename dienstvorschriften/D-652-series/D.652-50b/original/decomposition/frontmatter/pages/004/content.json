@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Vorbemerkungen",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Preliminary remarks",
+    "es-ES": "Observaciones preliminares"
   },
   "source": {
     "image": "source.jpg",
@@ -24,39 +24,39 @@
     {
       "id": "p1",
       "de": "Diese vorläufige Anweisung dient als Hilfsmittel beim Beheben von Schäden am Triebwerk des",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "This provisional instruction serves as an aid in remedying damage to the power train of the",
+      "es-ES": "Esta instrucción provisional sirve de ayuda para la reparación de averías en el tren de potencia del"
     },
     {
       "id": "p2",
       "de": "Pz Kpfw III, Ausf. H bis L\nPz Bef Wg, Ausf. H bis K\nGp Sfl, Ausf. A, B, D und E\nfür St Gesch 7,5 cm Kanone.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Pz Kpfw III, Ausf. H to L\nPz Bef Wg, Ausf. H to K\nGp Sfl, Ausf. A, B, D and E\nfor the St Gesch 7.5 cm gun.",
+      "es-ES": "Pz Kpfw III, Ausf. H a L\nPz Bef Wg, Ausf. H a K\nGp Sfl, Ausf. A, B, D y E\npara el St Gesch cañón de 7,5 cm."
     },
     {
       "id": "p3",
       "de": "Nach Erscheinen der D 652/50 ist diese Vorschrift zu vernichten.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "This regulation is to be destroyed upon publication of D 652/50.",
+      "es-ES": "Esta instrucción deberá destruirse en cuanto se publique la D 652/50."
     },
     {
       "id": "p4",
       "de": "Für die Arbeiten am Triebwerk sind alle Einzelheiten festgelegt, die für eine fachgerechte Durchführung notwendig sind. Die Folge der Arbeitsgänge ist so gestaltet, daß bei ihrer sorgfältigen Beachtung eine möglichst einfache Durchführung der Instandsetzung und ein fehlerfreies Arbeiten des Triebwerks nach der Instandsetzung gewährleistet ist. Sie wurde so eingehend mit Bildern versehen, daß jeder Soldat, auch wenn er nicht als Metallarbeiter ausgebildet ist, die erforderlichen Arbeiten ausführen kann.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "All the details necessary for a proper execution of the work on the power train have been laid down. The sequence of operations has been arranged so that, if carefully observed, it ensures that the repair can be carried out as simply as possible and that the power train works faultlessly after the repair. It has been provided with illustrations in such detail that every soldier, even one not trained as a metalworker, can carry out the work required.",
+      "es-ES": "Para los trabajos en el tren de potencia se han fijado todos los detalles necesarios para una ejecución correcta. La secuencia de las operaciones se ha concebido de manera que, si se observa cuidadosamente, se garantice una ejecución de la reparación lo más sencilla posible y un funcionamiento sin fallos del tren de potencia tras la reparación. Se ha ilustrado con tal detalle que cualquier soldado, aunque no esté formado como metalúrgico, pueda realizar los trabajos necesarios."
     },
     {
       "id": "p5",
       "de": "Verschiedene Arbeiten können durch Benutzung von Sonderwerkzeugen schneller und besser ausgeführt werden. Der größte Teil der in der Vorschrift angegebenen Sonderwerkzeuge ist im Sonderwerkzeugsatz für Pz Kpfw III vorhanden. Sind diese Sonderwerkzeuge nicht vorhanden, müssen diese Arbeiten mit normalen Werkzeugen ausgeführt werden. Auch für diese Art der Arbeitsausführung sind die einzelnen Arbeitsgänge angegeben. Bei der Verwendung normaler Werkzeuge muß mit besonderer Sorgfalt gearbeitet werden, damit die Teile nicht durch unsachgemäßes Arbeiten beschädigt werden. Da Sonderwerkzeuge nicht immer in hinreichender Zahl vorhanden sind und einige zusätzlich entwickelt wurden, sind im Anhang Zeichnungen beigefügt, nach denen die Einheiten diese Sonderwerkzeuge selbst herstellen können.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Various tasks can be carried out more quickly and better by using special tools. Most of the special tools specified in this regulation are contained in the special tool kit for the Pz Kpfw III. If these special tools are not available, the work must be carried out with ordinary tools. The individual operations are also given for this method of working. When ordinary tools are used, particular care must be taken so that the parts are not damaged through improper working. Since special tools are not always available in sufficient numbers, and some additional ones have been developed, drawings are attached in the appendix from which units can manufacture these special tools themselves.",
+      "es-ES": "Diversos trabajos pueden realizarse más rápida y mejor mediante el empleo de herramientas especiales. La mayor parte de las herramientas especiales indicadas en esta instrucción se encuentran en el juego de herramientas especiales para el Pz Kpfw III. Si no se dispone de estas herramientas especiales, estos trabajos deberán realizarse con herramientas normales. También para este modo de ejecución se indican las distintas operaciones. Al emplear herramientas normales debe trabajarse con especial cuidado, para que las piezas no resulten dañadas por un trabajo inadecuado. Dado que las herramientas especiales no siempre están disponibles en número suficiente y que se han desarrollado algunas adicionales, se adjuntan en el anexo unos planos conforme a los cuales las unidades pueden fabricar por sí mismas estas herramientas especiales."
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

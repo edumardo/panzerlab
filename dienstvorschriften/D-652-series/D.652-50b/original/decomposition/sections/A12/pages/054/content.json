@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-055"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Zugspindel DB 92/6 in das Gewinde der Triebradwelle einschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Zugspindel DB 92/6 in das Gewinde der Triebradwelle einschrauben.", "en-GB": "Screw the draw spindle DB 92/6 into the thread of the drive-wheel shaft.", "es-ES": "Enroscar el husillo tensor DB 92/6 en la rosca del eje de la rueda motriz."},
+    {"id": "p2", "de": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen.", "en-GB": "Place the pressure bridge DB 92/2 onto the studs.", "es-ES": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros."},
+    {"id": "p3", "de": "Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.", "en-GB": "Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.", "es-ES": "Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha."}
   ],
   "figures": [
-    {"id": "fig-083", "number": 83, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 83", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-084", "number": 84, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 84", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-083", "number": 83, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 83", "en-GB": "Fig. 83", "es-ES": "Fig. 83"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-084", "number": 84, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 84", "en-GB": "Fig. 84", "es-ES": "Fig. 84"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

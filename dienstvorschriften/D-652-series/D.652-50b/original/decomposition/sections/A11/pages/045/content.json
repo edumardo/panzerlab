@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Mit 30-SW-Maulschlüssel die beiden Stehbolzen DB 92/1 auf die Gewinde des Stirnrades aufschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Screw the two studs DB 92/1 onto the threads of the spur gear with a 30 mm across-flats open-ended spanner.",
+      "es-ES": "Enroscar los dos pernos prisioneros DB 92/1 en las roscas de la rueda dentada frontal con una llave fija de 30 mm de entrecaras."
     },
     {
       "id": "p2",
       "de": "Die Spindel DB 92/6 mit der aufgeschraubten Mutter DB 92/4 in das Gewinde der Triebradwelle einschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Screw the spindle DB 92/6, with the nut DB 92/4 screwed onto it, into the thread of the drive-sprocket shaft.",
+      "es-ES": "Enroscar el husillo DB 92/6, con la tuerca DB 92/4 ya montada, en la rosca del eje de la rueda motriz."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 67",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 67",
+        "es-ES": "Fig. 67"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 68",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 68",
+        "es-ES": "Fig. 68"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

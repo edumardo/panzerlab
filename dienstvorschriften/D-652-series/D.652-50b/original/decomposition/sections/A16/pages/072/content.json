@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,14 +24,14 @@
     {
       "id": "p1",
       "de": "Nabe mit Kugellager in das Gehäuse führen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Guide the hub with the ball bearing into the housing.",
+      "es-ES": "Introducir el cubo con el rodamiento de bolas en la carcasa."
     },
     {
       "id": "p2",
       "de": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Drive the ball bearing into its seat using a soft-faced hammer.",
+      "es-ES": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando."
     }
   ],
   "figures": [
@@ -42,8 +42,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 114",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 114",
+        "es-ES": "Fig. 114"
       },
       "label_keys": {
         "de": null,
@@ -58,8 +58,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 115",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 115",
+        "es-ES": "Fig. 115"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

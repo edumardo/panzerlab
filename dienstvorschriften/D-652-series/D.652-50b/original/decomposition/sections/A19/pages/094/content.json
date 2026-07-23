@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
   },
   "source": {
     "image": "source.jpg",
@@ -24,32 +24,32 @@
     {
       "id": "p1",
       "de": "In die Flansche für die Gelenkwellen zu beiden Seiten des Lenkgetriebes je eine Schraube stecken, Bild 152.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Insert a bolt into the flanges for the cardan shafts on each side of the steering gear, Fig. 152.",
+      "es-ES": "Introducir un tornillo en cada una de las bridas para los árboles de transmisión a ambos lados del mecanismo de dirección, Fig. 152."
     },
     {
       "id": "p2",
       "de": "Durch die beiden vorderen Klappen je ein Drahtseil einführen und das Wechselgetriebe an den Schrauben aufhängen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Feed a wire rope through each of the two front hatches and suspend the gearbox from the bolts.",
+      "es-ES": "Introducir un cable de acero por cada una de las dos escotillas delanteras y suspender la caja de cambios de los tornillos."
     },
     {
       "id": "p3",
       "de": "Ein Drahtseil so um den Bund des Lüfters an der Hinterseite des Wechselgetriebes hängen, daß das Getriebe hinten etwas höher hängt.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Hang a wire rope around the collar of the fan on the rear of the gearbox so that the gearbox hangs slightly higher at the rear.",
+      "es-ES": "Colgar un cable de acero alrededor del collar del ventilador en la parte trasera de la caja de cambios, de modo que ésta quede algo más alta por detrás."
     },
     {
       "id": "p4",
       "de": "Das Wechselgetriebe mit Hebevorrichtung möglichst weit in die Mitte des Kampfraumes heben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using the lifting gear, hoist the gearbox as far as possible into the centre of the fighting compartment.",
+      "es-ES": "Con el dispositivo de elevación, izar la caja de cambios lo más posible hacia el centro de la cámara de combate."
     },
     {
       "id": "p5",
       "de": "Die Drahtseile aus den Klappen herausführen und das Wechselgetriebe an den Drahtseilen unterhalb der Panzerplatte aufhängen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lead the wire ropes out through the hatches and suspend the gearbox from the wire ropes below the armour plate.",
+      "es-ES": "Sacar los cables de acero por las escotillas y suspender la caja de cambios de los cables de acero por debajo de la placa blindada."
     }
   ],
   "figures": [
@@ -60,8 +60,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 151",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 151",
+        "es-ES": "Fig. 151"
       },
       "label_keys": {
         "de": null,
@@ -72,8 +72,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

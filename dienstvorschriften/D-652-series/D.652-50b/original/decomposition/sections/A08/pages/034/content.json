@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "8. Installing the brake drum and brake shoes of the support brake with mechanical steering actuation",
+    "es-ES": "8. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico"
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-035"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.", "en-GB": "Screw the pair of brake shoes together with the adjusting device.", "es-ES": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste."},
+    {"id": "p2", "de": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.", "en-GB": "Note: The threaded spindles must be screwed into the brake shoes to an equal depth.", "es-ES": "Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad."},
+    {"id": "p3", "de": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.", "en-GB": "Tack the mounting of the adjusting device to the bearing cover using the two hexagon-socket screws.", "es-ES": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior."}
   ],
   "figures": [
-    {"id": "fig-051", "number": 51, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 51", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-052", "number": 52, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 52", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-051", "number": 51, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 51", "en-GB": "Fig. 51", "es-ES": "Fig. 51"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-052", "number": 52, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 52", "en-GB": "Fig. 52", "es-ES": "Fig. 52"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

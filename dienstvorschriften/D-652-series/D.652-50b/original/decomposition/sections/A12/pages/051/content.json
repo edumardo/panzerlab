@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -21,19 +21,19 @@
     "next": "d65250b-page-052"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die Ritzelwelle mit dem Rollenlager kann auch in das Gehäuse eingeschlagen werden.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Die Kappe über die Ritzelwelle führen und diese mit der dafür vorgesehenen Schraube an die Ritzelwelle festschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Die Ritzelwelle mit dem Rollenlager kann auch in das Gehäuse eingeschlagen werden.", "en-GB": "The pinion shaft with the roller bearing can also be driven into the housing.", "es-ES": "El eje del piñón con el cojinete de rodillos también puede introducirse a golpes en la carcasa."},
+    {"id": "p2", "de": "Die Kappe über die Ritzelwelle führen und diese mit der dafür vorgesehenen Schraube an die Ritzelwelle festschrauben.", "en-GB": "Slide the cap over the pinion shaft and secure it to the pinion shaft with the screw provided for this purpose.", "es-ES": "Deslizar la tapa sobre el eje del piñón y fijarla a este mediante el tornillo previsto para ello."},
+    {"id": "p3", "de": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73.", "en-GB": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73.", "es-ES": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73."},
+    {"id": "p4", "de": "Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.", "en-GB": "Using a hammer and a wooden block, drive the pinion shaft into the bearing.", "es-ES": "Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete."}
   ],
   "figures": [
-    {"id": "fig-078", "number": 78, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 78", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-079", "number": 79, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 79", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-078", "number": 78, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 78", "en-GB": "Fig. 78", "es-ES": "Fig. 78"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-079", "number": 79, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 79", "en-GB": "Fig. 79", "es-ES": "Fig. 79"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

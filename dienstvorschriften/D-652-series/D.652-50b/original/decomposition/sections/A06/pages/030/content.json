@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
   },
   "source": {
     "image": "source.jpg",
@@ -21,19 +21,19 @@
     "next": "d65250b-page-031"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Feder mit 2 Federtellern in die Vorrichtungsgabel stecken (Zeichnung 3)¹).", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Beachten: Beim Einsetzen müssen die Schlitze der Federteller übereinanderstehen.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Stift von hinten durch den Lagerdeckel und Bremsbacke stecken. Gespannte Feder auf den Stift schieben und Splint einführen. Splint aufbiegen. Wenn keine Vorrichtungsgabel vorhanden ist, lassen sich die Federn auch von Hand einsetzen.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "¹) Siehe im Anhang.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Feder mit 2 Federtellern in die Vorrichtungsgabel stecken (Zeichnung 3)¹).", "en-GB": "Insert the spring with 2 spring caps into the fork of the fitting device (Drawing 3)¹).", "es-ES": "Introducir el resorte con 2 platillos de resorte en la horquilla del dispositivo (dibujo 3)¹)."},
+    {"id": "p2", "de": "Beachten: Beim Einsetzen müssen die Schlitze der Federteller übereinanderstehen.", "en-GB": "Note: When inserting, the slots of the spring caps must be aligned one above the other.", "es-ES": "Atención: al insertarlos, las ranuras de los platillos de resorte deben quedar alineadas una sobre otra."},
+    {"id": "p3", "de": "Stift von hinten durch den Lagerdeckel und Bremsbacke stecken. Gespannte Feder auf den Stift schieben und Splint einführen. Splint aufbiegen. Wenn keine Vorrichtungsgabel vorhanden ist, lassen sich die Federn auch von Hand einsetzen.", "en-GB": "Push the pin through the bearing cover and brake shoe from behind. Slide the compressed spring onto the pin and insert the split pin. Bend the split pin open. If no fitting-device fork is available, the springs can also be fitted by hand.", "es-ES": "Introducir el perno por detrás a través de la tapa de cojinete y la zapata de freno. Deslizar el resorte comprimido sobre el perno e introducir el pasador. Abrir las aletas del pasador. Si no se dispone de la horquilla del dispositivo, los resortes también pueden montarse a mano."},
+    {"id": "p4", "de": "¹) Siehe im Anhang.", "en-GB": "¹) See appendix.", "es-ES": "¹) Véase el anexo."}
   ],
   "figures": [
-    {"id": "fig-043", "number": 43, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 43", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-044", "number": 44, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 44", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-043", "number": 43, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 43", "en-GB": "Fig. 43", "es-ES": "Fig. 43"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "fig-044", "number": 44, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 44", "en-GB": "Fig. 44", "es-ES": "Fig. 44"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

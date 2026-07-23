@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 9. Removing a final drive unit using a lifting device.",
+    "es-ES": "Continuación: 9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador."
   },
   "source": {
     "image": "source.jpg",
@@ -24,8 +24,8 @@
     {
       "id": "p1",
       "de": "Durch gleichmäßiges Abdrücken mit zwei Brechstangen das Seitenvorgelege von der Panzerwanne abdrücken.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press the final drive unit off the armoured hull by levering evenly with two crowbars.",
+      "es-ES": "Separar el engranaje lateral final del casco blindado haciendo palanca de manera uniforme con dos palancas."
     }
   ],
   "figures": [
@@ -36,8 +36,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 58",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 58",
+        "es-ES": "Fig. 58"
       },
       "label_keys": {
         "de": null,
@@ -48,8 +48,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

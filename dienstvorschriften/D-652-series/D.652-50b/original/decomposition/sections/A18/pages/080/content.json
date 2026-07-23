@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,26 +24,26 @@
     {
       "id": "p1",
       "de": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the square-head screws of the flywheel fixing with wire.",
+      "es-ES": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante."
     },
     {
       "id": "p2",
       "de": "Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel.",
+      "es-ES": "Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante."
     },
     {
       "id": "p3",
       "de": "Die Schrauben durch Umbiegen der Blechsicherung sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the screws by bending over the sheet-metal lock.",
+      "es-ES": "Asegurar los tornillos doblando la chapa de seguridad."
     },
     {
       "id": "p4",
       "de": "Die Federspannung der Führungshebel an den Kupplungstreibscheiben prüfen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Check the spring tension of the guide levers on the clutch driving discs.",
+      "es-ES": "Comprobar la tensión de los resortes de las palancas guía en los discos motrices del embrague."
     }
   ],
   "figures": [
@@ -54,8 +54,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 128",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 128",
+        "es-ES": "Fig. 128"
       },
       "label_keys": {
         "de": null,
@@ -70,8 +70,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 129",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 129",
+        "es-ES": "Fig. 129"
       },
       "label_keys": {
         "de": null,
@@ -82,8 +82,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

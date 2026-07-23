@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 14. Ausbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Mit 17-SW-Steckschlüssel die Halteschrauben des Kupplungsdeckels entsichern und ausschrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the retaining screws of the clutch cover.",
+      "es-ES": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de sujeción de la tapa del embrague."
     },
     {
       "id": "p2",
       "de": "Beachten: Die Schrauben bis zur Federentspannung gleichmäßig lösen.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: Loosen the screws evenly until the springs are released.",
+      "es-ES": "Atención: Aflojar los tornillos de manera uniforme hasta que los resortes queden sin tensión."
     },
     {
       "id": "p3",
       "de": "Den Kupplungsdeckel mit der Kupplungsdruckplatte abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lift off the clutch cover together with the clutch pressure plate.",
+      "es-ES": "Levantar la tapa del embrague junto con el plato de presión del embrague."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 97",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 97",
+        "es-ES": "Fig. 97"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 98",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 98",
+        "es-ES": "Fig. 98"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

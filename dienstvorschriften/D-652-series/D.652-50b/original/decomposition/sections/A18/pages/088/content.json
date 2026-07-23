@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
   },
   "source": {
     "image": "source.jpg",
@@ -24,51 +24,51 @@
     {
       "id": "p1",
       "de": "Die Kugelgelenke des Vergasers und des Ölfiltergestänges eindrücken, Bild 91.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Press in the ball joints of the carburettor and oil-filter linkage, Fig. 91.",
+      "es-ES": "Encajar las rótulas del carburador y del varillaje del filtro de aceite, Fig. 91."
     },
     {
       "id": "p2",
       "de": "Das Kupplungsgestänge mit dem Ausrückhebel mit dem Splintbolzen verbinden, Bild 91.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Connect the clutch linkage to the release lever with the split-pin bolt, Fig. 91.",
+      "es-ES": "Unir el varillaje del embrague a la palanca de desembrague con el perno de pasador, Fig. 91."
     },
     {
       "id": "p3",
       "de": "Beachten: Das Kupplungsgestänge gleich so einstellen, daß der Kupplungsfußhebel 30 mm Totgang hat.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Note: Adjust the clutch linkage at the same time so that the clutch pedal has 30 mm of free play.",
+      "es-ES": "Atención: Ajustar al mismo tiempo el varillaje del embrague de manera que el pedal de embrague tenga 30 mm de juego muerto."
     },
     {
       "id": "p4",
       "de": "Den Reglerkasten an die Trennwand schrauben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the governor box to the bulkhead.",
+      "es-ES": "Atornillar la caja del regulador al mamparo."
     },
     {
       "id": "p5",
       "de": "Mit den acht Schrauben die Gelenkwelle an die Kupplungswelle schrauben, Bild 91.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Bolt the cardan shaft to the clutch shaft with the eight screws, Fig. 91.",
+      "es-ES": "Atornillar el árbol de transmisión al eje de embrague con los ocho tornillos, Fig. 91."
     },
     {
       "id": "p6",
       "de": "Die Schrauben mit Splinten sichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Secure the screws with split pins.",
+      "es-ES": "Asegurar los tornillos con pasadores."
     },
     {
       "id": "p7",
       "de": "Den Kupplungsvorbau und den Gelenkwellentunnel einbauen, Bild 90.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Fit the clutch housing extension and the cardan-shaft tunnel, Fig. 90.",
+      "es-ES": "Montar la prolongación de la carcasa del embrague y el túnel del árbol de transmisión, Fig. 90."
     }
   ],
   "figures": [],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

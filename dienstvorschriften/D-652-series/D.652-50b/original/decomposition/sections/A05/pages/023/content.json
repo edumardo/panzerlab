@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation",
+    "es-ES": "5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico"
   },
   "source": {
     "image": "source.jpg",
@@ -21,18 +21,18 @@
     "next": "d65250b-page-024"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Mit Zange den Sicherungsdraht aus den Befestigungsschrauben und aus dem Bundstopfen der Stützbremstrommel ziehen.", "en-GB": null, "es-ES": null},
-    {"id": "p2", "de": "Mit 17-SW-Ringschlüssel die entsicherten Befestigungsschrauben der Stützbremstrommel herausschrauben.", "en-GB": null, "es-ES": null},
-    {"id": "p3", "de": "Den Sicherungsring bis zum runden Loch zurückdrehen.", "en-GB": null, "es-ES": null},
-    {"id": "p4", "de": "Sicherungsring über Zylinderstifte abheben.", "en-GB": null, "es-ES": null}
+    {"id": "p1", "de": "Mit Zange den Sicherungsdraht aus den Befestigungsschrauben und aus dem Bundstopfen der Stützbremstrommel ziehen.", "en-GB": "Using pliers, pull the locking wire out of the fixing screws and out of the collared plug of the support brake drum.", "es-ES": "Con unos alicates, extraer el alambre de seguridad de los tornillos de fijación y del tapón con collarín del tambor del freno de apoyo."},
+    {"id": "p2", "de": "Mit 17-SW-Ringschlüssel die entsicherten Befestigungsschrauben der Stützbremstrommel herausschrauben.", "en-GB": "Using a 17 mm ring spanner, unscrew the unlocked fixing screws of the support brake drum.", "es-ES": "Con una llave de estrella de 17 mm, desenroscar los tornillos de fijación del tambor del freno de apoyo, ya liberados de seguro."},
+    {"id": "p3", "de": "Den Sicherungsring bis zum runden Loch zurückdrehen.", "en-GB": "Turn the locking ring back as far as the round hole.", "es-ES": "Girar el anillo de seguridad hacia atrás hasta el orificio redondo."},
+    {"id": "p4", "de": "Sicherungsring über Zylinderstifte abheben.", "en-GB": "Lift the locking ring off over the dowel pins.", "es-ES": "Levantar el anillo de seguridad por encima de las clavijas cilíndricas."}
   ],
   "figures": [
-    {"id": "fig-030", "number": 30, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 30", "en-GB": null, "es-ES": null}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {"id": "fig-030", "number": 30, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 30", "en-GB": "Fig. 30", "es-ES": "Fig. 30"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }

@@ -7,8 +7,8 @@
   "type": "text",
   "titles": {
     "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
-    "en-GB": null,
-    "es-ES": null
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
   },
   "source": {
     "image": "source.jpg",
@@ -24,20 +24,20 @@
     {
       "id": "p1",
       "de": "Lagerdeckel und Abstandsring abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Lift off the bearing cover and the spacer ring.",
+      "es-ES": "Levantar la tapa de cojinete y el anillo distanciador."
     },
     {
       "id": "p2",
       "de": "Durch Geradebiegen des Sicherungsbleches die Verschlußschraube entsichern.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Release the locking of the closing screw by straightening out the locking plate.",
+      "es-ES": "Liberar el seguro del tornillo de cierre enderezando la chapa de seguridad."
     },
     {
       "id": "p3",
       "de": "Mit 46-SW-Steckschlüssel die Verschlußschraube aus der Triebradwelle schrauben. Sicherungsblech und Spannplatte abheben.",
-      "en-GB": null,
-      "es-ES": null
+      "en-GB": "Unscrew the closing screw from the drive-sprocket shaft with a 46 mm across-flats socket spanner. Lift off the locking plate and the clamping plate.",
+      "es-ES": "Desenroscar el tornillo de cierre del eje de la rueda motriz con una llave de vaso de 46 mm de entrecaras. Levantar la chapa de seguridad y la placa de sujeción."
     }
   ],
   "figures": [
@@ -48,8 +48,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 65",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 65",
+        "es-ES": "Fig. 65"
       },
       "label_keys": {
         "de": null,
@@ -64,8 +64,8 @@
       "status": "candidate_crop",
       "captions": {
         "de": "Bild 66",
-        "en-GB": null,
-        "es-ES": null
+        "en-GB": "Fig. 66",
+        "es-ES": "Fig. 66"
       },
       "label_keys": {
         "de": null,
@@ -76,8 +76,8 @@
   ],
   "status": {
     "transcription": "draft",
-    "en-GB": "pending",
-    "es-ES": "pending",
+    "en-GB": "draft",
+    "es-ES": "draft",
     "figures": "pending"
   }
 }
