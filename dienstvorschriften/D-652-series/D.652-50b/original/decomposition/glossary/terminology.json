@@ -6,7 +6,7 @@
     "en-GB",
     "es-ES"
   ],
-  "extends": "../../../glossary/terminology.json",
+  "extends": "../../../../glossary/terminology.json",
   "terms": [
     {
       "id": "term-001",
