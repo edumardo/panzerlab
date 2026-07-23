@@ -5,19 +5,19 @@
   "source_language": "de-DE",
   "target_languages": ["en-GB", "es-ES"],
   "extends": "../../D-652-series/glossary/terminology.json",
-  "note": "The HL 120 TR/TRM engine documented in Nm 261/237 is the same engine covered by D 652/50c (Panzer III / StuG engine repair instructions), so shared chassis/engine vocabulary lives in the D-652-series glossary and is reused here rather than re-translated. This file adds only terms specific to Maybach's own manufacturer documentation (spare-parts-catalogue format, etc.), shared across whichever Maybach engine manuals this series comes to hold (HL 42, HL 57/62, HL 108/120, HL 230, ...).",
+  "note": "The HL 120 TR/TRM engine documented in Nm 261/237 is the same engine covered by D 652/50c (Panzer III / StuG engine repair instructions), so shared chassis/engine vocabulary lives in the D-652-series glossary and is reused here rather than re-translated. This file adds only terms specific to Maybach's own manufacturer documentation (spare-parts-catalogue format, etc.), shared across whichever Maybach engine manuals this series comes to hold (HL 42, HL 57/62, HL 108/120, HL 230, ...). Term ids start at 200 to stay clear of D-652-series' own series-term-001..143 range, since this glossary's 'extends' chains into that file.",
   "terms": [
-    {"id": "maybach-term-001", "de": "Ersatzteil-Liste", "en-GB": "spare-parts list", "es-ES": "lista de piezas de repuesto", "status": "validated"},
-    {"id": "maybach-term-002", "de": "Tafel", "en-GB": "plate", "es-ES": "lámina", "status": "validated"},
-    {"id": "maybach-term-003", "de": "Ausführung", "en-GB": "version", "es-ES": "versión", "status": "validated"},
-    {"id": "maybach-term-004", "de": "Stückzahl", "en-GB": "quantity", "es-ES": "cantidad", "status": "validated"},
-    {"id": "maybach-term-005", "de": "Bild-Nr.", "en-GB": "item no.", "es-ES": "n.º de elemento", "status": "validated"},
-    {"id": "maybach-term-006", "de": "Maybach-Teil-Nr.", "en-GB": "Maybach part no.", "es-ES": "n.º de pieza Maybach", "status": "validated"},
-    {"id": "maybach-term-007", "de": "Kegelrollenlager", "en-GB": "taper roller bearing", "es-ES": "rodamiento de rodillos cónicos", "status": "validated"},
-    {"id": "maybach-term-008", "de": "Bundbuchse", "en-GB": "flanged bushing", "es-ES": "casquillo con collar", "status": "validated"},
-    {"id": "maybach-term-009", "de": "Kernlochstopfen", "en-GB": "core-hole plug", "es-ES": "tapón de agujero de macho", "status": "validated"},
-    {"id": "maybach-term-010", "de": "Wasserablaßstopfen", "en-GB": "water drain plug", "es-ES": "tapón de vaciado de agua", "status": "validated"},
-    {"id": "maybach-term-011", "de": "Aufhängeöse", "en-GB": "suspension eyelet", "es-ES": "argolla de suspensión", "status": "validated"},
-    {"id": "maybach-term-012", "de": "Ermeto (Dichtkegel/Überwurfmutter)", "en-GB": "Ermeto (proprietary tube-fitting system: sealing cone / union nut)", "es-ES": "Ermeto (sistema de racores patentado: cono de estanqueidad / tuerca de racor)", "status": "validated"}
+    {"id": "series-term-200", "de": "Ersatzteil-Liste", "en-GB": "spare-parts list", "es-ES": "lista de piezas de repuesto", "status": "validated"},
+    {"id": "series-term-201", "de": "Tafel", "en-GB": "plate", "es-ES": "lámina", "status": "validated"},
+    {"id": "series-term-202", "de": "Ausführung", "en-GB": "version", "es-ES": "versión", "status": "validated"},
+    {"id": "series-term-203", "de": "Stückzahl", "en-GB": "quantity", "es-ES": "cantidad", "status": "validated"},
+    {"id": "series-term-204", "de": "Bild-Nr.", "en-GB": "item no.", "es-ES": "n.º de elemento", "status": "validated"},
+    {"id": "series-term-205", "de": "Maybach-Teil-Nr.", "en-GB": "Maybach part no.", "es-ES": "n.º de pieza Maybach", "status": "validated"},
+    {"id": "series-term-206", "de": "Kegelrollenlager", "en-GB": "taper roller bearing", "es-ES": "rodamiento de rodillos cónicos", "status": "validated"},
+    {"id": "series-term-207", "de": "Bundbuchse", "en-GB": "flanged bushing", "es-ES": "casquillo con collar", "status": "validated"},
+    {"id": "series-term-208", "de": "Kernlochstopfen", "en-GB": "core-hole plug", "es-ES": "tapón de agujero de macho", "status": "validated"},
+    {"id": "series-term-209", "de": "Wasserablaßstopfen", "en-GB": "water drain plug", "es-ES": "tapón de vaciado de agua", "status": "validated"},
+    {"id": "series-term-210", "de": "Aufhängeöse", "en-GB": "suspension eyelet", "es-ES": "argolla de suspensión", "status": "validated"},
+    {"id": "series-term-211", "de": "Ermeto (Dichtkegel/Überwurfmutter)", "en-GB": "Ermeto (proprietary tube-fitting system: sealing cone / union nut)", "es-ES": "Ermeto (sistema de racores patentado: cono de estanqueidad / tuerca de racor)", "status": "validated"}
   ]
 }

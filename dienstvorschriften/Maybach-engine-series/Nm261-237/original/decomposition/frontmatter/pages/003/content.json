@@ -24,9 +24,35 @@
   "paragraphs": [
     {
       "id": "nm261237-p003-notice",
-      "de": "Achtung! Wichtig! zur Vermeidung von Lieferungsverzögerungen! Bei Ersatzteil-Bestellungen ist unbedingt die Motornummer mit anzugeben, beispielsweise: sendet Teil-Nr. 49738, Motor 7035",
-      "en-GB": "Attention! Important, to avoid delivery delays! Spare-part orders must always state the engine number, for example: send part no. 49738, engine 7035",
-      "es-ES": "¡Atención! ¡Importante para evitar retrasos en la entrega! Los pedidos de piezas de repuesto deben indicar siempre el número de motor, por ejemplo: enviar pieza n.º 49738, motor 7035"
+      "text": {
+        "de": {
+          "plain": "Achtung! Wichtig! zur Vermeidung von Lieferungsverzögerungen! Bei Ersatzteil-Bestellungen ist unbedingt die Motornummer mit anzugeben, beispielsweise: sendet Teil-Nr. 49738, Motor 7035",
+          "runs": [
+            {
+              "text": "Achtung! Wichtig! zur Vermeidung von Lieferungsverzögerungen! Bei Ersatzteil-Bestellungen ist unbedingt die Motornummer mit anzugeben, beispielsweise: sendet Teil-Nr. 49738, Motor 7035",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Attention! Important, to avoid delivery delays! Spare-part orders must always state the engine number, for example: send part no. 49738, engine 7035",
+          "runs": [
+            {
+              "text": "Attention! Important, to avoid delivery delays! Spare-part orders must always state the engine number, for example: send part no. 49738, engine 7035",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¡Atención! ¡Importante para evitar retrasos en la entrega! Los pedidos de piezas de repuesto deben indicar siempre el número de motor, por ejemplo: enviar pieza n.º 49738, motor 7035",
+          "runs": [
+            {
+              "text": "¡Atención! ¡Importante para evitar retrasos en la entrega! Los pedidos de piezas de repuesto deben indicar siempre el número de motor, por ejemplo: enviar pieza n.º 49738, motor 7035",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

@@ -24,27 +24,131 @@
   "paragraphs": [
     {
       "id": "nm261237-p001-title",
-      "de": "MAYBACH-MOTOR HL 120 TRM — ERSATZTEIL-LISTE",
-      "en-GB": "MAYBACH ENGINE HL 120 TRM — SPARE-PARTS LIST",
-      "es-ES": "MOTOR MAYBACH HL 120 TRM — LISTA DE PIEZAS DE REPUESTO"
+      "text": {
+        "de": {
+          "plain": "MAYBACH-MOTOR HL 120 TRM — ERSATZTEIL-LISTE",
+          "runs": [
+            {
+              "text": "MAYBACH-MOTOR HL 120 TRM — ERSATZTEIL-LISTE",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "MAYBACH ENGINE HL 120 TRM — SPARE-PARTS LIST",
+          "runs": [
+            {
+              "text": "MAYBACH ENGINE HL 120 TRM — SPARE-PARTS LIST",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "MOTOR MAYBACH HL 120 TRM — LISTA DE PIEZAS DE REPUESTO",
+          "runs": [
+            {
+              "text": "MOTOR MAYBACH HL 120 TRM — LISTA DE PIEZAS DE REPUESTO",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
       "id": "nm261237-p001-note",
-      "de": "Beachten: Ausführung „A“ oder Ausführung „B“",
-      "en-GB": "Note: version “A” or version “B”",
-      "es-ES": "Atención: versión «A» o versión «B»"
+      "text": {
+        "de": {
+          "plain": "Beachten: Ausführung „A“ oder Ausführung „B“",
+          "runs": [
+            {
+              "text": "Beachten: Ausführung „A“ oder Ausführung „B“",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: version “A” or version “B”",
+          "runs": [
+            {
+              "text": "Note: version “A” or version “B”",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: versión «A» o versión «B»",
+          "runs": [
+            {
+              "text": "Atención: versión «A» o versión «B»",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
       "id": "nm261237-p001-publisher",
-      "de": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B.",
-      "en-GB": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (manufacturer)",
-      "es-ES": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (fabricante)"
+      "text": {
+        "de": {
+          "plain": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B.",
+          "runs": [
+            {
+              "text": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (manufacturer)",
+          "runs": [
+            {
+              "text": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (manufacturer)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (fabricante)",
+          "runs": [
+            {
+              "text": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (fabricante)",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
       "id": "nm261237-p001-contact",
-      "de": "Fernsprecher: 651 / Telegramme: Maybachmotor / Fernschreibnummer: 06958",
-      "en-GB": "Telephone: 651 / Telegrams: Maybachmotor / Teleprinter number: 06958",
-      "es-ES": "Teléfono: 651 / Telegramas: Maybachmotor / Número de télex: 06958"
+      "text": {
+        "de": {
+          "plain": "Fernsprecher: 651 / Telegramme: Maybachmotor / Fernschreibnummer: 06958",
+          "runs": [
+            {
+              "text": "Fernsprecher: 651 / Telegramme: Maybachmotor / Fernschreibnummer: 06958",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Telephone: 651 / Telegrams: Maybachmotor / Teleprinter number: 06958",
+          "runs": [
+            {
+              "text": "Telephone: 651 / Telegrams: Maybachmotor / Teleprinter number: 06958",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Teléfono: 651 / Telegramas: Maybachmotor / Número de télex: 06958",
+          "runs": [
+            {
+              "text": "Teléfono: 651 / Telegramas: Maybachmotor / Número de télex: 06958",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

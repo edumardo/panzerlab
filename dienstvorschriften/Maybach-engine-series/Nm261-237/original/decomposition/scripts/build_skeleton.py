@@ -252,15 +252,21 @@ DIAGRAM_GROUPS = {
 }
 
 
+def localised_text(de: str, en: str, es: str) -> dict:
+    return {
+        "de": {"plain": de, "runs": [{"text": de, "bold": False}]},
+        "en-GB": {"plain": en, "runs": [{"text": en, "bold": False}]},
+        "es-ES": {"plain": es, "runs": [{"text": es, "bold": False}]},
+    }
+
+
 def make_row_paragraphs(page_num: int, rows: list) -> list:
     paragraphs = []
     for i, (num, de, en, es, qty, part_no) in enumerate(rows, start=1):
         paragraphs.append({
             "id": f"{DOC_PREFIX}-p{page_num:03d}-row{i:03d}",
             "number": num,
-            "de": de,
-            "en-GB": en,
-            "es-ES": es,
+            "text": localised_text(de, en, es),
             "quantity": qty,
             "maybach_part_no": part_no,
         })
@@ -294,18 +300,22 @@ FRONTMATTER_CONTENT = {
             "es-ES": "Página de título",
         },
         "paragraphs": [
-            {"id": f"{DOC_PREFIX}-p001-title", "de": "MAYBACH-MOTOR HL 120 TRM — ERSATZTEIL-LISTE",
-             "en-GB": "MAYBACH ENGINE HL 120 TRM — SPARE-PARTS LIST",
-             "es-ES": "MOTOR MAYBACH HL 120 TRM — LISTA DE PIEZAS DE REPUESTO"},
-            {"id": f"{DOC_PREFIX}-p001-note", "de": "Beachten: Ausführung „A“ oder Ausführung „B“",
-             "en-GB": "Note: version “A” or version “B”",
-             "es-ES": "Atención: versión «A» o versión «B»"},
-            {"id": f"{DOC_PREFIX}-p001-publisher", "de": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B.",
-             "en-GB": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (manufacturer)",
-             "es-ES": "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (fabricante)"},
-            {"id": f"{DOC_PREFIX}-p001-contact", "de": "Fernsprecher: 651 / Telegramme: Maybachmotor / Fernschreibnummer: 06958",
-             "en-GB": "Telephone: 651 / Telegrams: Maybachmotor / Teleprinter number: 06958",
-             "es-ES": "Teléfono: 651 / Telegramas: Maybachmotor / Número de télex: 06958"},
+            {"id": f"{DOC_PREFIX}-p001-title", "text": localised_text(
+                "MAYBACH-MOTOR HL 120 TRM — ERSATZTEIL-LISTE",
+                "MAYBACH ENGINE HL 120 TRM — SPARE-PARTS LIST",
+                "MOTOR MAYBACH HL 120 TRM — LISTA DE PIEZAS DE REPUESTO")},
+            {"id": f"{DOC_PREFIX}-p001-note", "text": localised_text(
+                "Beachten: Ausführung „A“ oder Ausführung „B“",
+                "Note: version “A” or version “B”",
+                "Atención: versión «A» o versión «B»")},
+            {"id": f"{DOC_PREFIX}-p001-publisher", "text": localised_text(
+                "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B.",
+                "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (manufacturer)",
+                "Maybach-Motorenbau G.m.b.H. / Friedrichshafen a.B. (fabricante)")},
+            {"id": f"{DOC_PREFIX}-p001-contact", "text": localised_text(
+                "Fernsprecher: 651 / Telegramme: Maybachmotor / Fernschreibnummer: 06958",
+                "Telephone: 651 / Telegrams: Maybachmotor / Teleprinter number: 06958",
+                "Teléfono: 651 / Telegramas: Maybachmotor / Número de télex: 06958")},
         ],
     },
     2: {
@@ -342,10 +352,10 @@ FRONTMATTER_CONTENT = {
             "es-ES": "¡Atención! Índice",
         },
         "paragraphs": [
-            {"id": f"{DOC_PREFIX}-p003-notice",
-             "de": "Achtung! Wichtig! zur Vermeidung von Lieferungsverzögerungen! Bei Ersatzteil-Bestellungen ist unbedingt die Motornummer mit anzugeben, beispielsweise: sendet Teil-Nr. 49738, Motor 7035",
-             "en-GB": "Attention! Important, to avoid delivery delays! Spare-part orders must always state the engine number, for example: send part no. 49738, engine 7035",
-             "es-ES": "¡Atención! ¡Importante para evitar retrasos en la entrega! Los pedidos de piezas de repuesto deben indicar siempre el número de motor, por ejemplo: enviar pieza n.º 49738, motor 7035"},
+            {"id": f"{DOC_PREFIX}-p003-notice", "text": localised_text(
+                "Achtung! Wichtig! zur Vermeidung von Lieferungsverzögerungen! Bei Ersatzteil-Bestellungen ist unbedingt die Motornummer mit anzugeben, beispielsweise: sendet Teil-Nr. 49738, Motor 7035",
+                "Attention! Important, to avoid delivery delays! Spare-part orders must always state the engine number, for example: send part no. 49738, engine 7035",
+                "¡Atención! ¡Importante para evitar retrasos en la entrega! Los pedidos de piezas de repuesto deben indicar siempre el número de motor, por ejemplo: enviar pieza n.º 49738, motor 7035")},
         ],
     },
 }
