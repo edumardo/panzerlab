@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-099",
+  "document_id": "d652-41a",
+  "page": 99,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 29  Seitenvorgelege, Aus- und Einbau",
+    "en-GB": "Fig. 29  Final drive, removal and installation",
+    "es-ES": "Fig. 29  Reductora final, desmontaje y montaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 63,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild029",
+      "number": 29,
+      "captions": {
+        "de": {
+          "plain": "Bild 29  Seitenvorgelege, Aus- und Einbau",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 29  Final drive, removal and installation",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 29  Reductora final, desmontaje y montaje",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Hinweis: Die Vorlage dieses Bildes ist im Original quer (gedreht) gedruckt; Inhalt wie folgt transkribiert.\nTeilbild 1: DB 88/5, DB 88/4, DB 88/6, DB 88/1, DB 88/7\nTeilbild 2: DB 89/4, DB 89/1, DB 89/5, DB 89/2, DB 89/3, DB 89/6\nTeilbild 3: DB 88/9, DB 88/3, DB 88/2, DB 88/1, DB 88/7, DB 88/8\nTeilbild 4a: DB 92/2, DB 92/1, DB 92/6, DB 92/4\nTeilbild 4b: DB 92/6, DB 92/4, DB 92/1, DB 92/2",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Note: The original plate is printed rotated (landscape) on the source page; content transcribed as follows.\nSub-figure 1: DB 88/5, DB 88/4, DB 88/6, DB 88/1, DB 88/7\nSub-figure 2: DB 89/4, DB 89/1, DB 89/5, DB 89/2, DB 89/3, DB 89/6\nSub-figure 3: DB 88/9, DB 88/3, DB 88/2, DB 88/1, DB 88/7, DB 88/8\nSub-figure 4a: DB 92/2, DB 92/1, DB 92/6, DB 92/4\nSub-figure 4b: DB 92/6, DB 92/4, DB 92/1, DB 92/2",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Nota: La lámina original está impresa girada (apaisada) en la página fuente; contenido transcrito a continuación.\nFigura parcial 1: DB 88/5, DB 88/4, DB 88/6, DB 88/1, DB 88/7\nFigura parcial 2: DB 89/4, DB 89/1, DB 89/5, DB 89/2, DB 89/3, DB 89/6\nFigura parcial 3: DB 88/9, DB 88/3, DB 88/2, DB 88/1, DB 88/7, DB 88/8\nFigura parcial 4a: DB 92/2, DB 92/1, DB 92/6, DB 92/4\nFigura parcial 4b: DB 92/6, DB 92/4, DB 92/1, DB 92/2",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-098",
+    "next": "d65241a-page-100"
+  }
+}

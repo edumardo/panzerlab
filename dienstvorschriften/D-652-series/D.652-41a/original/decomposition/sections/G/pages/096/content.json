@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-096",
+  "document_id": "d652-41a",
+  "page": 96,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 26  Lenkgetriebe mit Stützbremse, Ausbau",
+    "en-GB": "Fig. 26  Steering gear with support brake, removal",
+    "es-ES": "Fig. 26  Mecanismo de dirección con freno de apoyo, desmontaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 60,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild026",
+      "number": 26,
+      "captions": {
+        "de": {
+          "plain": "Bild 26  Lenkgetriebe mit Stützbremse, Ausbau",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 26  Steering gear with support brake, removal",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 26  Mecanismo de dirección con freno de apoyo, desmontaje",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Teilbild 1: DB 93/7, Schlüssel DB 117, DB 89/1, DB 89/4, DB 93/10\nTeilbild 2: DB 93/1, DB 93/2, DB 89/4, DB 89/1\nTeilbild 3: DB 89/4, DB 93/8, DB 93/5, Wälzlager 6220\nTeilbild 4: DB 93/7, DB 89/1, DB 89/4, DB 93/4\nTeilbild 5: DB 93/1, Wälzlager 6222, DB 98, DB 93/9, DB 89/1, DB 89/4\nTeilbild 6: DB 93/1, Wälzlager 6318, DB 89/4, DB 89/1, Schlüssel DB 96, DB 93/3\nTeilbild 7: DB 93/6, DB 90, DB 97, DB 98, DB 93/3, DB 89/1, DB 89/4\nTeilbild 8: DB 93/6, Wälzlager 6318, DB 89/4, DB 89/1, DB 93/3\nTeilbild 9: DB 89/4, DB 89/1, DB 93/9, Wälzlager 6318, DB 89/3",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Sub-figure 1: DB 93/7, spanner (Schlüssel) DB 117, DB 89/1, DB 89/4, DB 93/10\nSub-figure 2: DB 93/1, DB 93/2, DB 89/4, DB 89/1\nSub-figure 3: DB 89/4, DB 93/8, DB 93/5, ball bearing 6220\nSub-figure 4: DB 93/7, DB 89/1, DB 89/4, DB 93/4\nSub-figure 5: DB 93/1, ball bearing 6222, DB 98, DB 93/9, DB 89/1, DB 89/4\nSub-figure 6: DB 93/1, ball bearing 6318, DB 89/4, DB 89/1, spanner (Schlüssel) DB 96, DB 93/3\nSub-figure 7: DB 93/6, DB 90, DB 97, DB 98, DB 93/3, DB 89/1, DB 89/4\nSub-figure 8: DB 93/6, ball bearing 6318, DB 89/4, DB 89/1, DB 93/3\nSub-figure 9: DB 89/4, DB 89/1, DB 93/9, ball bearing 6318, DB 89/3",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Figura parcial 1: DB 93/7, llave (Schlüssel) DB 117, DB 89/1, DB 89/4, DB 93/10\nFigura parcial 2: DB 93/1, DB 93/2, DB 89/4, DB 89/1\nFigura parcial 3: DB 89/4, DB 93/8, DB 93/5, rodamiento 6220\nFigura parcial 4: DB 93/7, DB 89/1, DB 89/4, DB 93/4\nFigura parcial 5: DB 93/1, rodamiento 6222, DB 98, DB 93/9, DB 89/1, DB 89/4\nFigura parcial 6: DB 93/1, rodamiento 6318, DB 89/4, DB 89/1, llave (Schlüssel) DB 96, DB 93/3\nFigura parcial 7: DB 93/6, DB 90, DB 97, DB 98, DB 93/3, DB 89/1, DB 89/4\nFigura parcial 8: DB 93/6, rodamiento 6318, DB 89/4, DB 89/1, DB 93/3\nFigura parcial 9: DB 89/4, DB 89/1, DB 93/9, rodamiento 6318, DB 89/3",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-095",
+    "next": "d65241a-page-097"
+  }
+}

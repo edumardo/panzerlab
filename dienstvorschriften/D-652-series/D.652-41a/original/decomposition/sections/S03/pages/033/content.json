@@ -1,0 +1,512 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-033",
+  "document_id": "d652-41a",
+  "page": 33,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "16. Hilfsgerät",
+    "en-GB": "16. Auxiliary equipment",
+    "es-ES": "16. Equipo auxiliar"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 17,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-033-para01",
+      "text": {
+        "de": {
+          "plain": "Auf den Kettenabdeckungen bzw. auf dem Heck:",
+          "runs": [
+            {
+              "text": "Auf den Kettenabdeckungen bzw. auf dem Heck:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the track guards (Kettenabdeckungen) or at the rear:",
+          "runs": [
+            {
+              "text": "On the track guards (Kettenabdeckungen) or at the rear:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sobre los cubrecadenas (Kettenabdeckungen) o en la popa:",
+          "runs": [
+            {
+              "text": "Sobre los cubrecadenas (Kettenabdeckungen) o en la popa:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para02",
+      "text": {
+        "de": {
+          "plain": "1 Wagenwinde für 10 t Tragkraft;",
+          "runs": [
+            {
+              "text": "1 Wagenwinde für 10 t Tragkraft;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 jack (Wagenwinde) of 10-tonne capacity;",
+          "runs": [
+            {
+              "text": "1 jack (Wagenwinde) of 10-tonne capacity;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 gato (Wagenwinde) de 10 toneladas de capacidad;",
+          "runs": [
+            {
+              "text": "1 gato (Wagenwinde) de 10 toneladas de capacidad;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para03",
+      "text": {
+        "de": {
+          "plain": "1 Unterlegklotz;",
+          "runs": [
+            {
+              "text": "1 Unterlegklotz;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 chock (Unterlegklotz);",
+          "runs": [
+            {
+              "text": "1 chock (Unterlegklotz);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 calzo (Unterlegklotz);",
+          "runs": [
+            {
+              "text": "1 calzo (Unterlegklotz);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para04",
+      "text": {
+        "de": {
+          "plain": "1 Kettenspanner;",
+          "runs": [
+            {
+              "text": "1 Kettenspanner;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 track tensioner (Kettenspanner);",
+          "runs": [
+            {
+              "text": "1 track tensioner (Kettenspanner);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tensor de cadena (Kettenspanner);",
+          "runs": [
+            {
+              "text": "1 tensor de cadena (Kettenspanner);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para05",
+      "text": {
+        "de": {
+          "plain": "1 Brechstange;",
+          "runs": [
+            {
+              "text": "1 Brechstange;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 crowbar (Brechstange);",
+          "runs": [
+            {
+              "text": "1 crowbar (Brechstange);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 palanqueta (Brechstange);",
+          "runs": [
+            {
+              "text": "1 palanqueta (Brechstange);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para06",
+      "text": {
+        "de": {
+          "plain": "1 Feuerlöscher;",
+          "runs": [
+            {
+              "text": "1 Feuerlöscher;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 fire extinguisher (Feuerlöscher);",
+          "runs": [
+            {
+              "text": "1 fire extinguisher (Feuerlöscher);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 extintor (Feuerlöscher);",
+          "runs": [
+            {
+              "text": "1 extintor (Feuerlöscher);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para07",
+      "text": {
+        "de": {
+          "plain": "2 Abschleppseile, 5 m lang, für 10 t Zug;",
+          "runs": [
+            {
+              "text": "2 Abschleppseile, 5 m lang, für 10 t Zug;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 tow ropes (Abschleppseile), 5 m long, for 10-tonne pull;",
+          "runs": [
+            {
+              "text": "2 tow ropes (Abschleppseile), 5 m long, for 10-tonne pull;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 cables de remolque (Abschleppseile), de 5 m, para tracción de 10 toneladas;",
+          "runs": [
+            {
+              "text": "2 cables de remolque (Abschleppseile), de 5 m, para tracción de 10 toneladas;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para08",
+      "text": {
+        "de": {
+          "plain": "2 S-Haken;",
+          "runs": [
+            {
+              "text": "2 S-Haken;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 S-hooks (S-Haken);",
+          "runs": [
+            {
+              "text": "2 S-hooks (S-Haken);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 ganchos en S (S-Haken);",
+          "runs": [
+            {
+              "text": "2 ganchos en S (S-Haken);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para09",
+      "text": {
+        "de": {
+          "plain": "1 Andrehkurbel;",
+          "runs": [
+            {
+              "text": "1 Andrehkurbel;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 hand crank (Andrehkurbel);",
+          "runs": [
+            {
+              "text": "1 hand crank (Andrehkurbel);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 manivela de arranque (Andrehkurbel);",
+          "runs": [
+            {
+              "text": "1 manivela de arranque (Andrehkurbel);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para10",
+      "text": {
+        "de": {
+          "plain": "1 große Drahtschere.",
+          "runs": [
+            {
+              "text": "1 große Drahtschere.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 large wire cutter (Drahtschere).",
+          "runs": [
+            {
+              "text": "1 large wire cutter (Drahtschere).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 cizalla grande para alambre (Drahtschere).",
+          "runs": [
+            {
+              "text": "1 cizalla grande para alambre (Drahtschere).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para11",
+      "text": {
+        "de": {
+          "plain": "im Kampfraum: 1 Feuerlöscher.",
+          "runs": [
+            {
+              "text": "im Kampfraum: 1 Feuerlöscher.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In the fighting compartment: 1 fire extinguisher.",
+          "runs": [
+            {
+              "text": "In the fighting compartment: 1 fire extinguisher.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el compartimento de combate: 1 extintor.",
+          "runs": [
+            {
+              "text": "En el compartimento de combate: 1 extintor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para12",
+      "text": {
+        "de": {
+          "plain": "17. Schanzzeug",
+          "runs": [
+            {
+              "text": "17. Schanzzeug",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "17. Entrenching tools",
+          "runs": [
+            {
+              "text": "17. Entrenching tools",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "17. Útiles de zapa",
+          "runs": [
+            {
+              "text": "17. Útiles de zapa",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para13",
+      "text": {
+        "de": {
+          "plain": "Als Schanzzeug ist auf den Kettenabdeckungen gelagert:",
+          "runs": [
+            {
+              "text": "Als Schanzzeug ist auf den Kettenabdeckungen gelagert:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The following entrenching tools are stowed on the track guards:",
+          "runs": [
+            {
+              "text": "The following entrenching tools are stowed on the track guards:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sobre los cubrecadenas van estibados los siguientes útiles de zapa:",
+          "runs": [
+            {
+              "text": "Sobre los cubrecadenas van estibados los siguientes útiles de zapa:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para14",
+      "text": {
+        "de": {
+          "plain": "1 langer Spaten;",
+          "runs": [
+            {
+              "text": "1 langer Spaten;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 long spade (Spaten);",
+          "runs": [
+            {
+              "text": "1 long spade (Spaten);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 pala larga (Spaten);",
+          "runs": [
+            {
+              "text": "1 pala larga (Spaten);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-033-para15",
+      "text": {
+        "de": {
+          "plain": "1 halblange Axt.",
+          "runs": [
+            {
+              "text": "1 halblange Axt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 medium-length axe (Axt).",
+          "runs": [
+            {
+              "text": "1 medium-length axe (Axt).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 hacha de mango medio (Axt).",
+          "runs": [
+            {
+              "text": "1 hacha de mango medio (Axt).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-032",
+    "next": "d65241a-page-034"
+  }
+}

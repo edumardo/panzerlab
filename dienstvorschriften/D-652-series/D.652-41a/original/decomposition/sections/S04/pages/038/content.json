@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-038",
+  "document_id": "d652-41a",
+  "page": 38,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 20,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p038-para01",
+      "text": {
+        "de": {
+          "plain": "4.) Bei kaltem Motor Hebel der Anlaßvorrichtung bis zum Anspringen des Motors niederdrücken, dabei den Fahrfußhebel nicht betätigen.",
+          "runs": [
+            {
+              "text": "4.) Bei kaltem Motor Hebel der Anlaßvorrichtung bis zum Anspringen des Motors niederdrücken, dabei den Fahrfußhebel nicht betätigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4.) With a cold engine, press the lever of the starting device down until the engine fires, without operating the accelerator pedal.",
+          "runs": [
+            {
+              "text": "4.) With a cold engine, press the lever of the starting device down until the engine fires, without operating the accelerator pedal.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4.º) Con el motor frío, presione hacia abajo la palanca del dispositivo de arranque hasta que el motor arranque, sin accionar el pedal del acelerador.",
+          "runs": [
+            {
+              "text": "4.º) Con el motor frío, presione hacia abajo la palanca del dispositivo de arranque hasta que el motor arranque, sin accionar el pedal del acelerador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para02",
+      "text": {
+        "de": {
+          "plain": "5.) Kupplungsfußhebel durchtreten.",
+          "runs": [
+            {
+              "text": "5.) Kupplungsfußhebel durchtreten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5.) Depress the clutch pedal.",
+          "runs": [
+            {
+              "text": "5.) Depress the clutch pedal.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5.º) Pise el pedal de embrague.",
+          "runs": [
+            {
+              "text": "5.º) Pise el pedal de embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para03",
+      "text": {
+        "de": {
+          "plain": "6.) Schwungkraftanlasser andrehen und durch Herausziehen des Handgriffs einrücken.",
+          "runs": [
+            {
+              "text": "6.) Schwungkraftanlasser andrehen und durch Herausziehen des Handgriffs einrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6.) Crank the inertia starter and engage it by pulling out the handle.",
+          "runs": [
+            {
+              "text": "6.) Crank the inertia starter and engage it by pulling out the handle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6.º) Dé cuerda al arrancador de inercia y engránelo tirando de la empuñadura.",
+          "runs": [
+            {
+              "text": "6.º) Dé cuerda al arrancador de inercia y engránelo tirando de la empuñadura.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para04",
+      "text": {
+        "de": {
+          "plain": "7.) Nach dem Anspringen des Motors Kupplungsfußhebel langsam loslassen.",
+          "runs": [
+            {
+              "text": "7.) Nach dem Anspringen des Motors Kupplungsfußhebel langsam loslassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7.) After the engine fires, release the clutch pedal slowly.",
+          "runs": [
+            {
+              "text": "7.) After the engine fires, release the clutch pedal slowly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7.º) Tras arrancar el motor, suelte lentamente el pedal de embrague.",
+          "runs": [
+            {
+              "text": "7.º) Tras arrancar el motor, suelte lentamente el pedal de embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para05",
+      "text": {
+        "de": {
+          "plain": "8.) Motor einige Zeit bei etwa 1000 bis 1200 U/min warmlaufen lassen. Hierbei empfiehlt es sich, die Luftregelklappen vorübergehend zu schließen.",
+          "runs": [
+            {
+              "text": "8.) Motor einige Zeit bei etwa 1000 bis 1200 U/min warmlaufen lassen. Hierbei empfiehlt es sich, die Luftregelklappen vorübergehend zu schließen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "8.) Let the engine warm up for a while at about 1000 to 1200 rpm. It is advisable to close the air-regulating flaps temporarily.",
+          "runs": [
+            {
+              "text": "8.) Let the engine warm up for a while at about 1000 to 1200 rpm. It is advisable to close the air-regulating flaps temporarily.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "8.º) Deje calentar el motor un rato a unas 1000 a 1200 rpm. Conviene cerrar temporalmente las compuertas reguladoras de aire.",
+          "runs": [
+            {
+              "text": "8.º) Deje calentar el motor un rato a unas 1000 a 1200 rpm. Conviene cerrar temporalmente las compuertas reguladoras de aire.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para06",
+      "text": {
+        "de": {
+          "plain": "Bei hoher Außentemperatur bzw. dünnem Getriebeöl ist beim Anlaßvorgang die Betätigung des Kupplungsfußhebels nicht erforderlich.",
+          "runs": [
+            {
+              "text": "Bei hoher Außentemperatur bzw. dünnem Getriebeöl ist beim Anlaßvorgang die Betätigung des Kupplungsfußhebels nicht erforderlich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At high outside temperature, or with thin gear oil, operating the clutch pedal during starting is not necessary.",
+          "runs": [
+            {
+              "text": "At high outside temperature, or with thin gear oil, operating the clutch pedal during starting is not necessary.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con temperatura exterior elevada, o con aceite de transmisión fluido, no es necesario accionar el pedal de embrague durante el arranque.",
+          "runs": [
+            {
+              "text": "Con temperatura exterior elevada, o con aceite de transmisión fluido, no es necesario accionar el pedal de embrague durante el arranque.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para07",
+      "text": {
+        "de": {
+          "plain": "Wenn schwierige Geländeverhältnisse langsame Fahrt bedingen und hohe Außentemperatur herrscht, ist es mit Rücksicht auf eine gute Kühlung vorteilhaft, den Motor mit hoher Drehzahl laufen zu lassen und einen entsprechend niedrigen Gang einzuschalten.",
+          "runs": [
+            {
+              "text": "Wenn schwierige Geländeverhältnisse langsame Fahrt bedingen und hohe Außentemperatur herrscht, ist es mit Rücksicht auf eine gute Kühlung vorteilhaft, den Motor mit hoher Drehzahl laufen zu lassen und einen entsprechend niedrigen Gang einzuschalten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When difficult terrain calls for slow driving and the outside temperature is high, it is advantageous — for good cooling — to run the engine at high revs and engage a correspondingly low gear.",
+          "runs": [
+            {
+              "text": "When difficult terrain calls for slow driving and the outside temperature is high, it is advantageous — for good cooling — to run the engine at high revs and engage a correspondingly low gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cuando el terreno difícil exija marcha lenta y la temperatura exterior sea alta, conviene —para una buena refrigeración— hacer girar el motor a altas revoluciones y meter una marcha correspondientemente baja.",
+          "runs": [
+            {
+              "text": "Cuando el terreno difícil exija marcha lenta y la temperatura exterior sea alta, conviene —para una buena refrigeración— hacer girar el motor a altas revoluciones y meter una marcha correspondientemente baja.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para08",
+      "text": {
+        "de": {
+          "plain": "Der Motor darf mit einer Normaldrehzahl von 2600 U/min laufen. Ein Überdrehen ist zu vermeiden. In dem rot angelegten Bereich des Drehzahlmessers — 2600 bis 3200 U/min — soll nach Möglichkeit nicht gefahren werden. Dieses ist besonders wichtig, wenn bei Bergabfahrt der Motor als Bremse mitbenutzt wird, dabei Drehzahl höchstens 2200 bis 2400 U/min.",
+          "runs": [
+            {
+              "text": "Der Motor darf mit einer Normaldrehzahl von 2600 U/min laufen. Ein Überdrehen ist zu vermeiden. In dem rot angelegten Bereich des Drehzahlmessers — 2600 bis 3200 U/min — soll nach Möglichkeit nicht gefahren werden. Dieses ist besonders wichtig, wenn bei Bergabfahrt der Motor als Bremse mitbenutzt wird, dabei Drehzahl höchstens 2200 bis 2400 U/min.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The engine may run at a normal speed of 2600 rpm. Over-revving must be avoided. The red-marked range of the tachometer — 2600 to 3200 rpm — should, if possible, not be used. This is especially important when the engine is also used as a brake going downhill, where the speed should be at most 2200 to 2400 rpm.",
+          "runs": [
+            {
+              "text": "The engine may run at a normal speed of 2600 rpm. Over-revving must be avoided. The red-marked range of the tachometer — 2600 to 3200 rpm — should, if possible, not be used. This is especially important when the engine is also used as a brake going downhill, where the speed should be at most 2200 to 2400 rpm.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor puede girar a un régimen normal de 2600 rpm. Debe evitarse el exceso de revoluciones. El margen marcado en rojo del cuentarrevoluciones —2600 a 3200 rpm— no debería utilizarse, en lo posible. Esto es especialmente importante cuando el motor se usa además como freno cuesta abajo, donde el régimen debería ser como máximo de 2200 a 2400 rpm.",
+          "runs": [
+            {
+              "text": "El motor puede girar a un régimen normal de 2600 rpm. Debe evitarse el exceso de revoluciones. El margen marcado en rojo del cuentarrevoluciones —2600 a 3200 rpm— no debería utilizarse, en lo posible. Esto es especialmente importante cuando el motor se usa además como freno cuesta abajo, donde el régimen debería ser como máximo de 2200 a 2400 rpm.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para09",
+      "text": {
+        "de": {
+          "plain": "Nach starker Beanspruchung des Motors im Gelände kommt es vor, daß die Auslaßventile und Zündkerzen glühend werden. Bei sofortigem Stillsetzen des Motors kann dann dadurch ein Nachlaufen des Motors eintreten, daß sich das Kraftstoffluftgemisch an den glühenden Teilen entzündet.",
+          "runs": [
+            {
+              "text": "Nach starker Beanspruchung des Motors im Gelände kommt es vor, daß die Auslaßventile und Zündkerzen glühend werden. Bei sofortigem Stillsetzen des Motors kann dann dadurch ein Nachlaufen des Motors eintreten, daß sich das Kraftstoffluftgemisch an den glühenden Teilen entzündet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "After heavy use in the field, the exhaust valves and spark plugs may glow. If the engine is then stopped at once, it may run on because the fuel-air mixture ignites on the glowing parts.",
+          "runs": [
+            {
+              "text": "After heavy use in the field, the exhaust valves and spark plugs may glow. If the engine is then stopped at once, it may run on because the fuel-air mixture ignites on the glowing parts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Tras un uso intenso en campaña, las válvulas de escape y las bujías pueden quedar incandescentes. Si el motor se para entonces de inmediato, puede seguir funcionando porque la mezcla aire-combustible se inflama en las piezas incandescentes.",
+          "runs": [
+            {
+              "text": "Tras un uso intenso en campaña, las válvulas de escape y las bujías pueden quedar incandescentes. Si el motor se para entonces de inmediato, puede seguir funcionando porque la mezcla aire-combustible se inflama en las piezas incandescentes.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para10",
+      "text": {
+        "de": {
+          "plain": "In diesem Fall empfiehlt es sich, den Motor etwa eine Minute laufen zu lassen. Das Kühlwasser bleibt dann im Umlauf und die heißen Teile können sich abkühlen. Sollte der Motor nach dieser Zeit bei ausgeschalteter Zündung noch nicht stehenbleiben, so kann durch Vollgasgeben ebenfalls bei ausgeschalteter Zündung eine schnellere Abkühlung erreicht werden.",
+          "runs": [
+            {
+              "text": "In diesem Fall empfiehlt es sich, den Motor etwa eine Minute laufen zu lassen. Das Kühlwasser bleibt dann im Umlauf und die heißen Teile können sich abkühlen. Sollte der Motor nach dieser Zeit bei ausgeschalteter Zündung noch nicht stehenbleiben, so kann durch Vollgasgeben ebenfalls bei ausgeschalteter Zündung eine schnellere Abkühlung erreicht werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In this case it is advisable to let the engine run for about a minute; the cooling water then keeps circulating and the hot parts can cool. If the engine has still not stopped after this time with the ignition switched off, faster cooling can likewise be achieved — with the ignition off — by giving full throttle.",
+          "runs": [
+            {
+              "text": "In this case it is advisable to let the engine run for about a minute; the cooling water then keeps circulating and the hot parts can cool. If the engine has still not stopped after this time with the ignition switched off, faster cooling can likewise be achieved — with the ignition off — by giving full throttle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En tal caso conviene dejar el motor en marcha alrededor de un minuto; el agua de refrigeración sigue circulando y las piezas calientes pueden enfriarse. Si transcurrido ese tiempo el motor no se ha parado con el encendido cortado, puede lograrse asimismo un enfriamiento más rápido —con el encendido cortado— dando gas a fondo.",
+          "runs": [
+            {
+              "text": "En tal caso conviene dejar el motor en marcha alrededor de un minuto; el agua de refrigeración sigue circulando y las piezas calientes pueden enfriarse. Si transcurrido ese tiempo el motor no se ha parado con el encendido cortado, puede lograrse asimismo un enfriamiento más rápido —con el encendido cortado— dando gas a fondo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para11",
+      "text": {
+        "de": {
+          "plain": "Einfahren",
+          "runs": [
+            {
+              "text": "Einfahren",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Running-in",
+          "runs": [
+            {
+              "text": "Running-in",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Rodaje",
+          "runs": [
+            {
+              "text": "Rodaje",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p038-para12",
+      "text": {
+        "de": {
+          "plain": "Neue und in einer der Maybach-Instandsetzungswerkstätten überholte Motoren brauchen nicht eingefahren zu werden. Es ist lediglich darauf zu achten, daß die Kühlwassertemperatur bei der Abfahrt mindestens 50° C beträgt.",
+          "runs": [
+            {
+              "text": "Neue und in einer der Maybach-Instandsetzungswerkstätten überholte Motoren brauchen nicht eingefahren zu werden. Es ist lediglich darauf zu achten, daß die Kühlwassertemperatur bei der Abfahrt mindestens 50° C beträgt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "New engines, and engines overhauled at one of the Maybach repair workshops, need not be run in. It is only necessary to ensure that the coolant temperature is at least 50 °C at the start.",
+          "runs": [
+            {
+              "text": "New engines, and engines overhauled at one of the Maybach repair workshops, need not be run in. It is only necessary to ensure that the coolant temperature is at least 50 °C at the start.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los motores nuevos, y los revisados en uno de los talleres de reparación Maybach, no necesitan rodaje. Solo hay que asegurarse de que la temperatura del refrigerante sea de al menos 50 °C al arrancar.",
+          "runs": [
+            {
+              "text": "Los motores nuevos, y los revisados en uno de los talleres de reparación Maybach, no necesitan rodaje. Solo hay que asegurarse de que la temperatura del refrigerante sea de al menos 50 °C al arrancar.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-037",
+    "next": "d65241a-page-039"
+  }
+}

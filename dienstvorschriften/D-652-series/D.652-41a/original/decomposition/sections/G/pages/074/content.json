@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-074",
+  "document_id": "d652-41a",
+  "page": 74,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 1  Ansicht des Fahrgestells",
+    "en-GB": "Fig. 1  View of the chassis",
+    "es-ES": "Fig. 1  Vista del chasis"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 38,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild001",
+      "number": 1,
+      "captions": {
+        "de": {
+          "plain": "Bild 1  Ansicht des Fahrgestells",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 1  View of the chassis",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 1  Vista del chasis",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Kettenabdeckung\nTarnscheinwerfer\nStoßdämpfer\nStützrolle\nPanzerwanne\nMotor\nEinfüllöffnung z. Kraftstoffbehälter\nKühler\nLüfterhaube\nTriebrad\nLeitrad\nSchwingarm\nLaufrolle\nSchwingarmführung mit Anschlag\nGleiskette\nKettenbolzen mit Sicherung\nSchwingarmanschlag",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "track guard (Kettenabdeckung)\nblackout (Notek) headlamp (Tarnscheinwerfer)\nshock absorber (Stoßdämpfer)\nreturn roller (Stützrolle)\narmoured hull (Panzerwanne)\nengine (Motor)\nfiller opening for the fuel tank (Einfüllöffnung z. Kraftstoffbehälter)\nradiator (Kühler)\nfan cowling (Lüfterhaube)\ndrive (sprocket) wheel (Triebrad)\nidler wheel (Leitrad)\nswing arm (Schwingarm)\nroad wheel (Laufrolle)\nswing-arm guide with stop (Schwingarmführung mit Anschlag)\ntrack (Gleiskette)\ntrack pin with retainer (Kettenbolzen mit Sicherung)\nswing-arm stop (Schwingarmanschlag)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "guardacadenas (Kettenabdeckung)\nfaro de camuflaje (Tarnscheinwerfer)\namortiguador (Stoßdämpfer)\nrodillo de retorno (Stützrolle)\ncasco blindado (Panzerwanne)\nmotor (Motor)\nabertura de llenado del depósito de combustible (Einfüllöffnung z. Kraftstoffbehälter)\nradiador (Kühler)\ncapó del ventilador (Lüfterhaube)\nrueda tractora (Triebrad)\nrueda tensora (Leitrad)\nbrazo oscilante (Schwingarm)\nrueda de rodadura (Laufrolle)\nguía del brazo oscilante con tope (Schwingarmführung mit Anschlag)\ncadena (Gleiskette)\nbulón de cadena con seguro (Kettenbolzen mit Sicherung)\ntope del brazo oscilante (Schwingarmanschlag)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-073",
+    "next": "d65241a-page-075"
+  }
+}

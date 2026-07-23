@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-052",
+  "document_id": "d652-41a",
+  "page": 52,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 27,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-052-para01",
+      "text": {
+        "de": {"plain": "Zugfedern usw. anbauen. In Flanschwelle oben Paßschrauben einziehen, Flanschwelle in Zahnradnabe einstecken.", "runs": [{"text": "Zugfedern usw. anbauen. In Flanschwelle oben Paßschrauben einziehen, Flanschwelle in Zahnradnabe einstecken.", "bold": false}]},
+        "en-GB": {"plain": "– fit the pull springs etc. Draw the dowel screws into the flanged shaft above; insert the flanged shaft into the gear hub.", "runs": [{"text": "– fit the pull springs etc. Draw the dowel screws into the flanged shaft above; insert the flanged shaft into the gear hub.", "bold": false}]},
+        "es-ES": {"plain": "– monte los muelles de tracción, etc. Cale arriba los tornillos de espiga en el eje embridado; introduzca el eje embridado en el cubo del piñón.", "runs": [{"text": "– monte los muelles de tracción, etc. Cale arriba los tornillos de espiga en el eje embridado; introduzca el eje embridado en el cubo del piñón.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para02",
+      "text": {
+        "de": {"plain": "Gelenkwellen", "runs": [{"text": "Gelenkwellen", "bold": true}]},
+        "en-GB": {"plain": "Gelenkwellen – Cardan shafts", "runs": [{"text": "Gelenkwellen – Cardan shafts", "bold": true}]},
+        "es-ES": {"plain": "Gelenkwellen – Árboles de transmisión (cardán)", "runs": [{"text": "Gelenkwellen – Árboles de transmisión (cardán)", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para03",
+      "text": {
+        "de": {"plain": "Nach Einbau des Getriebeblockes (Lenkgetriebe mit Wechselgetriebe) in das Fahrgestell Seitenwellen anbauen.", "runs": [{"text": "Nach Einbau des Getriebeblockes (Lenkgetriebe mit Wechselgetriebe) in das Fahrgestell Seitenwellen anbauen.", "bold": false}]},
+        "en-GB": {"plain": "After installing the gear block (steering gears with change-speed gearbox) in the chassis, fit the side shafts.", "runs": [{"text": "After installing the gear block (steering gears with change-speed gearbox) in the chassis, fit the side shafts.", "bold": false}]},
+        "es-ES": {"plain": "Tras instalar en el chasis el bloque de engranajes (mecanismos de dirección con caja de cambios), monte los semiejes.", "runs": [{"text": "Tras instalar en el chasis el bloque de engranajes (mecanismos de dirección con caja de cambios), monte los semiejes.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para04",
+      "text": {
+        "de": {"plain": "Flansch über Paßschrauben der Flanschwelle stecken. Auf der Lenkbremsseite lassen sich die Flanschschrauben von hinten durch den festen Flansch der Lenkbremsnabe stecken.", "runs": [{"text": "Flansch über Paßschrauben der Flanschwelle stecken. Auf der Lenkbremsseite lassen sich die Flanschschrauben von hinten durch den festen Flansch der Lenkbremsnabe stecken.", "bold": false}]},
+        "en-GB": {"plain": "Put the flange over the dowel screws of the flanged shaft. On the steering-brake side, the flange screws can be inserted from behind through the fixed flange of the steering-brake hub.", "runs": [{"text": "Put the flange over the dowel screws of the flanged shaft. On the steering-brake side, the flange screws can be inserted from behind through the fixed flange of the steering-brake hub.", "bold": false}]},
+        "es-ES": {"plain": "Coloque la brida sobre los tornillos de espiga del eje embridado. Por el lado del freno de dirección, los tornillos de la brida pueden introducirse desde atrás a través de la brida fija del cubo del freno de dirección.", "runs": [{"text": "Coloque la brida sobre los tornillos de espiga del eje embridado. Por el lado del freno de dirección, los tornillos de la brida pueden introducirse desde atrás a través de la brida fija del cubo del freno de dirección.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para05",
+      "text": {
+        "de": {"plain": "Lenkbremse, Bild 13 und 28 (Sonderwerkzeug III DB 37, 88, 89, 114 bis 118)", "runs": [{"text": "Lenkbremse, Bild 13 und 28 (Sonderwerkzeug III DB 37, 88, 89, 114 bis 118)", "bold": true}]},
+        "en-GB": {"plain": "Lenkbremse, Bild 13 und 28 (Sonderwerkzeug III DB 37, 88, 89, 114 bis 118) – Steering brake, Figures 13 and 28 (special tools III DB 37, 88, 89, 114 to 118)", "runs": [{"text": "Lenkbremse, Bild 13 und 28 (Sonderwerkzeug III DB 37, 88, 89, 114 bis 118) – Steering brake, Figures 13 and 28 (special tools III DB 37, 88, 89, 114 to 118)", "bold": true}]},
+        "es-ES": {"plain": "Lenkbremse, Bild 13 und 28 (Sonderwerkzeug III DB 37, 88, 89, 114 bis 118) – Freno de dirección, figuras 13 y 28 (herramientas especiales III DB 37, 88, 89, 114 a 118)", "runs": [{"text": "Lenkbremse, Bild 13 und 28 (Sonderwerkzeug III DB 37, 88, 89, 114 bis 118) – Freno de dirección, figuras 13 y 28 (herramientas especiales III DB 37, 88, 89, 114 a 118)", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para06",
+      "text": {
+        "de": {"plain": "Ausbau und Auseinandernehmen: Seitenwelle abbauen. Rohrleitungen, Gestänge usw. abnehmen.", "runs": [{"text": "Ausbau und Auseinandernehmen: ", "bold": true}, {"text": "Seitenwelle abbauen. Rohrleitungen, Gestänge usw. abnehmen.", "bold": false}]},
+        "en-GB": {"plain": "Removal and dismantling: Remove the side shaft. Take off pipe lines, linkages etc.", "runs": [{"text": "Removal and dismantling: ", "bold": true}, {"text": "Remove the side shaft. Take off pipe lines, linkages etc.", "bold": false}]},
+        "es-ES": {"plain": "Desmontaje y despiece: Retire el semieje. Quite tuberías, varillajes, etc.", "runs": [{"text": "Desmontaje y despiece: ", "bold": true}, {"text": "Retire el semieje. Quite tuberías, varillajes, etc.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para07",
+      "text": {
+        "de": {"plain": "Bild 28 7 Bremstrommel abschrauben und abdrücken (III DB 37). Nutmutter abschrauben (III DB 117), Flanschnabe abziehen (III DB 118), (III DB 89/5, III DB 88/3, 9). Asbestluftschläuche vorsichtig lösen, Bremsbacken mit Zubehör los- und auseinandernehmen.", "runs": [{"text": "Bild 28 7 Bremstrommel abschrauben und abdrücken (III DB 37). Nutmutter abschrauben (III DB 117), Flanschnabe abziehen (III DB 118), (III DB 89/5, III DB 88/3, 9). Asbestluftschläuche vorsichtig lösen, Bremsbacken mit Zubehör los- und auseinandernehmen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 28/7 – Unscrew and press off the brake drum (III DB 37). Unscrew the slotted nut (III DB 117), pull off the flanged hub (III DB 118), (III DB 89/5, III DB 88/3, 9). Carefully release the asbestos air hoses; take the brake shoes with accessories off and apart.", "runs": [{"text": "Fig. 28/7 – Unscrew and press off the brake drum (III DB 37). Unscrew the slotted nut (III DB 117), pull off the flanged hub (III DB 118), (III DB 89/5, III DB 88/3, 9). Carefully release the asbestos air hoses; take the brake shoes with accessories off and apart.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 28/7 – Desatornille y expulse el tambor de freno (III DB 37). Desatornille la tuerca ranurada (III DB 117), extraiga el cubo embridado (III DB 118), (III DB 89/5, III DB 88/3, 9). Suelte con cuidado las mangueras de aire de amianto; retire y despiece las zapatas con sus accesorios.", "runs": [{"text": "Fig. 28/7 – Desatornille y expulse el tambor de freno (III DB 37). Desatornille la tuerca ranurada (III DB 117), extraiga el cubo embridado (III DB 118), (III DB 89/5, III DB 88/3, 9). Suelte con cuidado las mangueras de aire de amianto; retire y despiece las zapatas con sus accesorios.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para08",
+      "text": {
+        "de": {"plain": "Es ist darauf zu achten, daß die beiden Gabelbolzen des Schlosses mit ihrem Rechts- bzw. Linksgewinde gleichmäßig tief in die Mutterbuchse eingeschraubt sind.", "runs": [{"text": "Es ist darauf zu achten, daß die beiden Gabelbolzen des Schlosses mit ihrem Rechts- bzw. Linksgewinde gleichmäßig tief in die Mutterbuchse eingeschraubt sind.", "bold": false}]},
+        "en-GB": {"plain": "Ensure that the two fork bolts of the lock (Schloß) are screwed evenly deep into the nut bush with their right-hand and left-hand threads respectively.", "runs": [{"text": "Ensure that the two fork bolts of the lock (Schloß) are screwed evenly deep into the nut bush with their right-hand and left-hand threads respectively.", "bold": false}]},
+        "es-ES": {"plain": "Procure que los dos bulones de horquilla del cierre (Schloß) queden enroscados a igual profundidad en el casquillo con tuerca, con sus roscas a derechas y a izquierdas respectivamente.", "runs": [{"text": "Procure que los dos bulones de horquilla del cierre (Schloß) queden enroscados a igual profundidad en el casquillo con tuerca, con sus roscas a derechas y a izquierdas respectivamente.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para09",
+      "text": {
+        "de": {"plain": "Nachstellvorrichtung mit Fett einschmieren.", "runs": [{"text": "Nachstellvorrichtung mit Fett einschmieren.", "bold": false}]},
+        "en-GB": {"plain": "Grease the adjusting device.", "runs": [{"text": "Grease the adjusting device.", "bold": false}]},
+        "es-ES": {"plain": "Engrase el dispositivo de reglaje.", "runs": [{"text": "Engrase el dispositivo de reglaje.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para10",
+      "text": {
+        "de": {"plain": "Überflüssiges Fett, auch vom Bremshebellager, vollständig entfernen, damit später kein Fett auf die Bremstrommel gelangt. Bremstrommel und Paßstifte anschrauben und Schrauben mit Sicherungsblechen sichern.", "runs": [{"text": "Überflüssiges Fett, auch vom Bremshebellager, vollständig entfernen, damit später kein Fett auf die Bremstrommel gelangt. Bremstrommel und Paßstifte anschrauben und Schrauben mit Sicherungsblechen sichern.", "bold": false}]},
+        "en-GB": {"plain": "Completely remove excess grease, also from the brake-lever bearing, so that no grease later reaches the brake drum. Bolt on the brake drum and dowel pins and secure the screws with locking plates.", "runs": [{"text": "Completely remove excess grease, also from the brake-lever bearing, so that no grease later reaches the brake drum. Bolt on the brake drum and dowel pins and secure the screws with locking plates.", "bold": false}]},
+        "es-ES": {"plain": "Elimine por completo el exceso de grasa, también del cojinete de la palanca de freno, de modo que después no llegue grasa al tambor de freno. Atornille el tambor de freno y los pasadores de espiga y asegure los tornillos con chapas de bloqueo.", "runs": [{"text": "Elimine por completo el exceso de grasa, también del cojinete de la palanca de freno, de modo que después no llegue grasa al tambor de freno. Atornille el tambor de freno y los pasadores de espiga y asegure los tornillos con chapas de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para11",
+      "text": {
+        "de": {"plain": "Luftleitung anschließen und Seitenwelle anbauen.", "runs": [{"text": "Luftleitung anschließen und Seitenwelle anbauen.", "bold": false}]},
+        "en-GB": {"plain": "Connect the air line and fit the side shaft.", "runs": [{"text": "Connect the air line and fit the side shaft.", "bold": false}]},
+        "es-ES": {"plain": "Conecte la tubería de aire y monte el semieje.", "runs": [{"text": "Conecte la tubería de aire y monte el semieje.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para12",
+      "text": {
+        "de": {"plain": "Beim Erneuern der Bremsbeläge, Luftschläuche, Federn usw. braucht bei der linken Lenkbremse nur die Bremstrommel gelöst und auf der Seitenwelle zur Seite geschoben zu werden, um neue Backen usw. einbauen zu können.", "runs": [{"text": "Beim Erneuern der Bremsbeläge, Luftschläuche, Federn usw. braucht bei der linken Lenkbremse nur die Bremstrommel gelöst und auf der Seitenwelle zur Seite geschoben zu werden, um neue Backen usw. einbauen zu können.", "bold": false}]},
+        "en-GB": {"plain": "When renewing the brake linings, air hoses, springs etc., on the left steering brake only the brake drum needs to be released and pushed aside on the side shaft to fit new shoes etc.", "runs": [{"text": "When renewing the brake linings, air hoses, springs etc., on the left steering brake only the brake drum needs to be released and pushed aside on the side shaft to fit new shoes etc.", "bold": false}]},
+        "es-ES": {"plain": "Al renovar los forros de freno, las mangueras de aire, los muelles, etc., en el freno de dirección izquierdo solo hace falta soltar el tambor de freno y apartarlo sobre el semieje para montar zapatas nuevas, etc.", "runs": [{"text": "Al renovar los forros de freno, las mangueras de aire, los muelles, etc., en el freno de dirección izquierdo solo hace falta soltar el tambor de freno y apartarlo sobre el semieje para montar zapatas nuevas, etc.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para13",
+      "text": {
+        "de": {"plain": "Bei der rechten Lenkbremse empfiehlt sich Ausbau des Doppelkreuzgelenkes.", "runs": [{"text": "Bei der rechten Lenkbremse empfiehlt sich Ausbau des Doppelkreuzgelenkes.", "bold": false}]},
+        "en-GB": {"plain": "On the right steering brake, removal of the double universal joint (Doppelkreuzgelenk) is recommended.", "runs": [{"text": "On the right steering brake, removal of the double universal joint (Doppelkreuzgelenk) is recommended.", "bold": false}]},
+        "es-ES": {"plain": "En el freno de dirección derecho se recomienda desmontar la cruceta doble (Doppelkreuzgelenk).", "runs": [{"text": "En el freno de dirección derecho se recomienda desmontar la cruceta doble (Doppelkreuzgelenk).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para14",
+      "text": {
+        "de": {"plain": "Kühlanlage der Lenkbremsen", "runs": [{"text": "Kühlanlage der Lenkbremsen", "bold": true}]},
+        "en-GB": {"plain": "Kühlanlage der Lenkbremsen – Cooling system of the steering brakes", "runs": [{"text": "Kühlanlage der Lenkbremsen – Cooling system of the steering brakes", "bold": true}]},
+        "es-ES": {"plain": "Kühlanlage der Lenkbremsen – Sistema de refrigeración de los frenos de dirección", "runs": [{"text": "Kühlanlage der Lenkbremsen – Sistema de refrigeración de los frenos de dirección", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para15",
+      "text": {
+        "de": {"plain": "Vorne den Flansch der Kühlluftleitung am Querträger mit den Flanschen der Kühlluftleitung an den Lagergehäusen zur Lenkbremse durch Rohrleitung verbinden.", "runs": [{"text": "Vorne den Flansch der Kühlluftleitung am Querträger mit den Flanschen der Kühlluftleitung an den Lagergehäusen zur Lenkbremse durch Rohrleitung verbinden.", "bold": false}]},
+        "en-GB": {"plain": "At the front, connect the flange of the cooling-air line on the cross-member with the flanges of the cooling-air line at the bearing housings of the steering brake by a pipe.", "runs": [{"text": "At the front, connect the flange of the cooling-air line on the cross-member with the flanges of the cooling-air line at the bearing housings of the steering brake by a pipe.", "bold": false}]},
+        "es-ES": {"plain": "En la parte delantera, una la brida de la tubería de aire de refrigeración del travesaño con las bridas de la tubería de aire de refrigeración de las carcasas de cojinete del freno de dirección mediante un tubo.", "runs": [{"text": "En la parte delantera, una la brida de la tubería de aire de refrigeración del travesaño con las bridas de la tubería de aire de refrigeración de las carcasas de cojinete del freno de dirección mediante un tubo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-052-para16",
+      "text": {
+        "de": {"plain": "An allen Verbindungsstellen auf Luftdichtheit achten!", "runs": [{"text": "An allen Verbindungsstellen auf Luftdichtheit achten!", "bold": true}]},
+        "en-GB": {"plain": "Ensure airtightness at all connection points!", "runs": [{"text": "Ensure airtightness at all connection points!", "bold": true}]},
+        "es-ES": {"plain": "¡Asegure la estanqueidad al aire en todos los puntos de unión!", "runs": [{"text": "¡Asegure la estanqueidad al aire en todos los puntos de unión!", "bold": true}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-051",
+    "next": "d65241a-page-053"
+  }
+}

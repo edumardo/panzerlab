@@ -1,0 +1,448 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-047",
+  "document_id": "d652-41a",
+  "page": 47,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "24. Kegeltrieb, Lenkgetriebe, Seitenwellen und Lenkbremse",
+    "en-GB": "24. Bevel drive, steering gears, side shafts and steering brake",
+    "es-ES": "24. Par cónico, mecanismos de dirección, semiejes y freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 24,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p047-para01",
+      "text": {
+        "de": {
+          "plain": "eingespritzt werden kann.",
+          "runs": [
+            {
+              "text": "eingespritzt werden kann.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… can be injected.",
+          "runs": [
+            {
+              "text": "… can be injected.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… puede inyectarse.",
+          "runs": [
+            {
+              "text": "… puede inyectarse.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para02",
+      "text": {
+        "de": {
+          "plain": "Das Ölfilter ist vor jeder Fahrt durch 1—2 Umdrehungen des Knebels zu reinigen und diese Reinigung ist täglich mehrmals zu wiederholen. Bei jedem Ölwechsel ist das Ölfilter herauszuziehen. Nach Entfernen der seitlichen Ablaßschraube ist der angesammelte Ölschlamm abzulassen und die Schmutzkruste im Innern zu entfernen. Gleichzeitig ist auf den Zustand der Filterlamellen zu achten (siehe Motor-Schmierölfilter).",
+          "runs": [
+            {
+              "text": "Das Ölfilter ist vor jeder Fahrt durch 1—2 Umdrehungen des Knebels zu reinigen und diese Reinigung ist täglich mehrmals zu wiederholen. Bei jedem Ölwechsel ist das Ölfilter herauszuziehen. Nach Entfernen der seitlichen Ablaßschraube ist der angesammelte Ölschlamm abzulassen und die Schmutzkruste im Innern zu entfernen. Gleichzeitig ist auf den Zustand der Filterlamellen zu achten (siehe Motor-Schmierölfilter).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clean the oil filter before every run by 1 to 2 turns of the toggle (Knebel), and repeat this cleaning several times daily. At every oil change, pull out the oil filter. After removing the side drain screw, drain the accumulated oil sludge and remove the dirt crust inside. At the same time check the condition of the filter discs (see engine oil filter).",
+          "runs": [
+            {
+              "text": "Clean the oil filter before every run by 1 to 2 turns of the toggle (Knebel), and repeat this cleaning several times daily. At every oil change, pull out the oil filter. After removing the side drain screw, drain the accumulated oil sludge and remove the dirt crust inside. At the same time check the condition of the filter discs (see engine oil filter).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpie el filtro de aceite antes de cada marcha con 1 o 2 vueltas de la manecilla (Knebel), y repita esta limpieza varias veces al día. En cada cambio de aceite, extraiga el filtro de aceite. Tras retirar el tornillo de vaciado lateral, vacíe el lodo de aceite acumulado y elimine la costra de suciedad del interior. Compruebe al mismo tiempo el estado de las láminas del filtro (véase el filtro de aceite del motor).",
+          "runs": [
+            {
+              "text": "Limpie el filtro de aceite antes de cada marcha con 1 o 2 vueltas de la manecilla (Knebel), y repita esta limpieza varias veces al día. En cada cambio de aceite, extraiga el filtro de aceite. Tras retirar el tornillo de vaciado lateral, vacíe el lodo de aceite acumulado y elimine la costra de suciedad del interior. Compruebe al mismo tiempo el estado de las láminas del filtro (véase el filtro de aceite del motor).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para03",
+      "text": {
+        "de": {
+          "plain": "Bild 8 bis 13, 26 bis 28",
+          "runs": [
+            {
+              "text": "Bild 8 bis 13, 26 bis 28",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Figures 8 to 13, 26 to 28",
+          "runs": [
+            {
+              "text": "Figures 8 to 13, 26 to 28",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Figuras 8 a 13, 26 a 28",
+          "runs": [
+            {
+              "text": "Figuras 8 a 13, 26 a 28",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para04",
+      "text": {
+        "de": {
+          "plain": "Sonderwerkzeuge III DB 83, 89, 93 bis 99, 117",
+          "runs": [
+            {
+              "text": "Sonderwerkzeuge III DB 83, 89, 93 bis 99, 117",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Special tools III DB 83, 89, 93 to 99, 117",
+          "runs": [
+            {
+              "text": "Special tools III DB 83, 89, 93 to 99, 117",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Herramientas especiales III DB 83, 89, 93 a 99, 117",
+          "runs": [
+            {
+              "text": "Herramientas especiales III DB 83, 89, 93 a 99, 117",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para05",
+      "text": {
+        "de": {
+          "plain": "Ausbau",
+          "runs": [
+            {
+              "text": "Ausbau",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Removal:",
+          "runs": [
+            {
+              "text": "Removal:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontaje:",
+          "runs": [
+            {
+              "text": "Desmontaje:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para06",
+      "text": {
+        "de": {
+          "plain": "Beim Ausbau der Lenkgetriebe ist das Wechselgetriebe mit auszubauen (siehe „Ausbau des Wechselgetriebes\").",
+          "runs": [
+            {
+              "text": "Beim Ausbau der Lenkgetriebe ist das Wechselgetriebe mit auszubauen (siehe „Ausbau des Wechselgetriebes\").",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When removing the steering gears, the gearbox must be removed with them (see “Dismantling the gearbox”).",
+          "runs": [
+            {
+              "text": "When removing the steering gears, the gearbox must be removed with them (see “Dismantling the gearbox”).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al desmontar los mecanismos de dirección, hay que desmontar con ellos la caja de cambios (véase «Despiece de la caja de cambios»).",
+          "runs": [
+            {
+              "text": "Al desmontar los mecanismos de dirección, hay que desmontar con ellos la caja de cambios (véase «Despiece de la caja de cambios»).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para07",
+      "text": {
+        "de": {
+          "plain": "Auseinandernehmen des Lenkgetriebes",
+          "runs": [
+            {
+              "text": "Auseinandernehmen des Lenkgetriebes",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Dismantling the steering gear",
+          "runs": [
+            {
+              "text": "Dismantling the steering gear",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Despiece del mecanismo de dirección",
+          "runs": [
+            {
+              "text": "Despiece del mecanismo de dirección",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para08",
+      "text": {
+        "de": {
+          "plain": "Antrieb für Geschwindigkeitsmesser, Ölleitungen, Bremszugfeder usw. abbauen. Obere Flanschwelle herausziehen. Nutmuttern und Verschlußschrauben auf Mittenvollradwelle mit Schlüssel III DB 117 und Nutmuttern innen auf Kegelradwelle mit Schlüssel III DB 97, 99 lösen.",
+          "runs": [
+            {
+              "text": "Antrieb für Geschwindigkeitsmesser, Ölleitungen, Bremszugfeder usw. abbauen. Obere Flanschwelle herausziehen. Nutmuttern und Verschlußschrauben auf Mittenvollradwelle mit Schlüssel III DB 117 und Nutmuttern innen auf Kegelradwelle mit Schlüssel III DB 97, 99 lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the drive for the speedometer, the oil lines, the brake pull-spring etc. Pull out the upper flanged shaft. Undo the slotted nuts and closing screws on the sun-gear shaft (Mittenvollradwelle) with spanner III DB 117, and the inner slotted nuts on the bevel-gear shaft with spanner III DB 97, 99.",
+          "runs": [
+            {
+              "text": "Remove the drive for the speedometer, the oil lines, the brake pull-spring etc. Pull out the upper flanged shaft. Undo the slotted nuts and closing screws on the sun-gear shaft (Mittenvollradwelle) with spanner III DB 117, and the inner slotted nuts on the bevel-gear shaft with spanner III DB 97, 99.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retire el accionamiento del velocímetro, las tuberías de aceite, el muelle de tracción del freno, etc. Extraiga el eje embridado superior. Suelte las tuercas ranuradas y los tornillos de cierre del eje del planeta central (Mittenvollradwelle) con la llave III DB 117, y las tuercas ranuradas interiores del eje del piñón cónico con la llave III DB 97, 99.",
+          "runs": [
+            {
+              "text": "Retire el accionamiento del velocímetro, las tuberías de aceite, el muelle de tracción del freno, etc. Extraiga el eje embridado superior. Suelte las tuercas ranuradas y los tornillos de cierre del eje del planeta central (Mittenvollradwelle) con la llave III DB 117, y las tuercas ranuradas interiores del eje del piñón cónico con la llave III DB 97, 99.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para09",
+      "text": {
+        "de": {
+          "plain": "Vollständigen Seitendeckel vom Getriebegehäuse abschrauben und vorsichtig abnehmen.",
+          "runs": [
+            {
+              "text": "Vollständigen Seitendeckel vom Getriebegehäuse abschrauben und vorsichtig abnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the complete side cover from the gearbox housing and remove it carefully.",
+          "runs": [
+            {
+              "text": "Unscrew the complete side cover from the gearbox housing and remove it carefully.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desatornille la tapa lateral completa de la carcasa de la caja de cambios y retírela con cuidado.",
+          "runs": [
+            {
+              "text": "Desatornille la tapa lateral completa de la carcasa de la caja de cambios y retírela con cuidado.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para10",
+      "text": {
+        "de": {
+          "plain": "Unten",
+          "runs": [
+            {
+              "text": "Unten",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Below:",
+          "runs": [
+            {
+              "text": "Below:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Abajo:",
+          "runs": [
+            {
+              "text": "Abajo:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para11",
+      "text": {
+        "de": {
+          "plain": "Stützbremstrommel und Stützbremse mit Hebel usw. abbauen. Inneren Umlaufradträger ausbauen und Umlaufgetriebe herausnehmen.",
+          "runs": [
+            {
+              "text": "Stützbremstrommel und Stützbremse mit Hebel usw. abbauen. Inneren Umlaufradträger ausbauen und Umlaufgetriebe herausnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the support-brake drum and support brake with lever etc. Remove the inner planet carrier and take out the epicyclic gear.",
+          "runs": [
+            {
+              "text": "Remove the support-brake drum and support brake with lever etc. Remove the inner planet carrier and take out the epicyclic gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retire el tambor del freno de apoyo y el freno de apoyo con su palanca, etc. Retire el portasatélites interior y extraiga el engranaje planetario.",
+          "runs": [
+            {
+              "text": "Retire el tambor del freno de apoyo y el freno de apoyo con su palanca, etc. Retire el portasatélites interior y extraiga el engranaje planetario.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para12",
+      "text": {
+        "de": {
+          "plain": "Bild 26/1 — Mittenvollrad aus Stützbremsnabe herausdrücken (III DB 89/1, 4; DB 93/7, 10), Dichtungsdeckel und Lagerdeckel abschrauben. Klemmring lösen und Stützbremsnabe mit Dichtungsdeckel herausziehen.",
+          "runs": [
+            {
+              "text": "Bild 26/1 — Mittenvollrad aus Stützbremsnabe herausdrücken (III DB 89/1, 4; DB 93/7, 10), Dichtungsdeckel und Lagerdeckel abschrauben. Klemmring lösen und Stützbremsnabe mit Dichtungsdeckel herausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 26/1 — Press the central sun gear out of the support-brake hub (III DB 89/1, 4; DB 93/7, 10), unscrew the sealing cover and bearing cover. Undo the clamping ring and pull out the support-brake hub with sealing cover.",
+          "runs": [
+            {
+              "text": "Fig. 26/1 — Press the central sun gear out of the support-brake hub (III DB 89/1, 4; DB 93/7, 10), unscrew the sealing cover and bearing cover. Undo the clamping ring and pull out the support-brake hub with sealing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 26/1 — Expulse el planeta central del cubo del freno de apoyo (III DB 89/1, 4; DB 93/7, 10), desatornille la tapa de estanqueidad y la tapa de cojinete. Suelte el anillo de apriete y extraiga el cubo del freno de apoyo con la tapa de estanqueidad.",
+          "runs": [
+            {
+              "text": "Fig. 26/1 — Expulse el planeta central del cubo del freno de apoyo (III DB 89/1, 4; DB 93/7, 10), desatornille la tapa de estanqueidad y la tapa de cojinete. Suelte el anillo de apriete y extraiga el cubo del freno de apoyo con la tapa de estanqueidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p047-para13",
+      "text": {
+        "de": {
+          "plain": "Bild 26/2 — Rollenlagerinnenring von Stützbremsnabe abziehen (III DB 93/1, 2; DB 89/1, 4). Rollenlageraußenring aus Lagerdeckel mit Hilfe einer hydraulischen Presse herausdrücken.",
+          "runs": [
+            {
+              "text": "Bild 26/2 — Rollenlagerinnenring von Stützbremsnabe abziehen (III DB 93/1, 2; DB 89/1, 4). Rollenlageraußenring aus Lagerdeckel mit Hilfe einer hydraulischen Presse herausdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 26/2 — Pull the roller-bearing inner ring off the support-brake hub (III DB 93/1, 2; DB 89/1, 4). Press the roller-bearing outer ring out of the bearing cover with a hydraulic press.",
+          "runs": [
+            {
+              "text": "Fig. 26/2 — Pull the roller-bearing inner ring off the support-brake hub (III DB 93/1, 2; DB 89/1, 4). Press the roller-bearing outer ring out of the bearing cover with a hydraulic press.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 26/2 — Extraiga el anillo interior del cojinete de rodillos del cubo del freno de apoyo (III DB 93/1, 2; DB 89/1, 4). Expulse el anillo exterior del cojinete de rodillos de la tapa de cojinete con una prensa hidráulica.",
+          "runs": [
+            {
+              "text": "Fig. 26/2 — Extraiga el anillo interior del cojinete de rodillos del cubo del freno de apoyo (III DB 93/1, 2; DB 89/1, 4). Expulse el anillo exterior del cojinete de rodillos de la tapa de cojinete con una prensa hidráulica.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-046",
+    "next": "d65241a-page-048"
+  }
+}

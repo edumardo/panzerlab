@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-094",
+  "document_id": "d652-41a",
+  "page": 94,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 23-24  Einstellbild der Stützbremse / Einstellbild der Lenkbremse",
+    "en-GB": "Fig. 23-24  Adjustment diagram of the support brake / Adjustment diagram of the steering brake",
+    "es-ES": "Fig. 23-24  Esquema de ajuste del freno de apoyo / Esquema de ajuste del freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 58,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild023",
+      "number": 23,
+      "captions": {
+        "de": {
+          "plain": "Bild 23  Einstellbild der Stützbremse",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 23  Adjustment diagram of the support brake",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 23  Esquema de ajuste del freno de apoyo",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Nachspannhebel Nr. 5\n\"Vergrößern der Federspannung im 1. u. 2. Gang.\"\nBremsfeder Nr. 4\nRollenhebel Nr. 2\nKurvenhebel Nr. 3\n\"Bremse fest\" / \"Bremse lose\"\n\"Das hier eingestempelte Maß hier einstellen\"\nKugelbundmutter Nr. 7\nWinkelhebel Nr. 8\nNachstellvorrichtung Nr. 6\nBremsbacke Nr. 14\nBremsbackenrückholfedern\nHalteschrauben\nBremsbacke Nr. 15\nDrehrichtung",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Tensioning lever (Nachspannhebel) No. 5\n\"Increasing the spring tension in 1st and 2nd gear\" (Vergrößern der Federspannung im 1. u. 2. Gang)\nBrake spring (Bremsfeder) No. 4\nRoller lever (Rollenhebel) No. 2\nCam lever (Kurvenhebel) No. 3\n\"Brake applied\" (Bremse fest) / \"Brake released\" (Bremse lose)\n\"Set here to the dimension stamped here\" (Das hier eingestempelte Maß hier einstellen)\nSpherical-collar nut (Kugelbundmutter) No. 7\nAngle lever (Winkelhebel) No. 8\nAdjusting device (Nachstellvorrichtung) No. 6\nBrake shoe (Bremsbacke) No. 14\nBrake-shoe return springs (Bremsbackenrückholfedern)\nRetaining screws (Halteschrauben)\nBrake shoe (Bremsbacke) No. 15\nDirection of rotation (Drehrichtung)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Palanca tensora (Nachspannhebel) n.º 5\n\"Aumento de la tensión del muelle en 1.ª y 2.ª marcha\" (Vergrößern der Federspannung im 1. u. 2. Gang)\nMuelle de freno (Bremsfeder) n.º 4\nPalanca de rodillo (Rollenhebel) n.º 2\nPalanca de leva (Kurvenhebel) n.º 3\n\"Freno aplicado\" (Bremse fest) / \"Freno suelto\" (Bremse lose)\n\"Ajustar aquí a la medida aquí estampada\" (Das hier eingestempelte Maß hier einstellen)\nTuerca de collar esférico (Kugelbundmutter) n.º 7\nPalanca angular (Winkelhebel) n.º 8\nDispositivo de reajuste (Nachstellvorrichtung) n.º 6\nZapata de freno (Bremsbacke) n.º 14\nMuelles de retorno de las zapatas (Bremsbackenrückholfedern)\nTornillos de retención (Halteschrauben)\nZapata de freno (Bremsbacke) n.º 15\nSentido de giro (Drehrichtung)",
+          "runs": []
+        }
+      }
+    },
+    {
+      "id": "d65241a-bild024",
+      "number": 24,
+      "captions": {
+        "de": {
+          "plain": "Bild 24  Einstellbild der Lenkbremse",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 24  Adjustment diagram of the steering brake",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 24  Esquema de ajuste del freno de dirección",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Nachstellvorrichtung Nr. 9\nBremsbacke Nr. 12\nBremsbacke Nr. 13\nBremsbackenrückholfedern\nHalteschrauben\nRollen\nBremskeil Nr. 11\nNachstellvorrichtung Nr. 10\n\"zum Fußbremsgestänge\"\nDrehrichtung",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Adjusting device (Nachstellvorrichtung) No. 9\nBrake shoe (Bremsbacke) No. 12\nBrake shoe (Bremsbacke) No. 13\nBrake-shoe return springs (Bremsbackenrückholfedern)\nRetaining screws (Halteschrauben)\nRollers (Rollen)\nBrake wedge (Bremskeil) No. 11\nAdjusting device (Nachstellvorrichtung) No. 10\n\"to the foot-brake linkage\" (zum Fußbremsgestänge)\nDirection of rotation (Drehrichtung)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Dispositivo de reajuste (Nachstellvorrichtung) n.º 9\nZapata de freno (Bremsbacke) n.º 12\nZapata de freno (Bremsbacke) n.º 13\nMuelles de retorno de las zapatas (Bremsbackenrückholfedern)\nTornillos de retención (Halteschrauben)\nRodillos (Rollen)\nCuña de freno (Bremskeil) n.º 11\nDispositivo de reajuste (Nachstellvorrichtung) n.º 10\n\"al varillaje del freno de pedal\" (zum Fußbremsgestänge)\nSentido de giro (Drehrichtung)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-093",
+    "next": "d65241a-page-095"
+  }
+}

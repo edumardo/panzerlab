@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-089",
+  "document_id": "d652-41a",
+  "page": 89,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 18  Laufwerk",
+    "en-GB": "Fig. 18  Running gear",
+    "es-ES": "Fig. 18  Tren de rodaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 53,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild018",
+      "number": 18,
+      "captions": {
+        "de": {
+          "plain": "Bild 18  Laufwerk",
+          "runs": [
+            { "text": "Bild 18  Laufwerk", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 18  Running gear",
+          "runs": [
+            { "text": "Fig. 18  Running gear", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 18  Tren de rodaje",
+          "runs": [
+            { "text": "Fig. 18  Tren de rodaje", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Schwingarmanschlag\nSchwingarmführung mit Anschlag\nLaufrad\nSchwingarm\nStoßdämpfer\nDreh-Stabfeder für linkes Laufrad\nDreh-Stabfeder für rechtes Laufrad\nSchwingarmlager\nSchwingarmführung\nLaufrad\nLagernuß\nSchwingarmlager\nLagernuß\nSchwingarm\nLaufrad",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "swing-arm stop (Schwingarmanschlag)\nswing-arm guide with stop (Schwingarmführung mit Anschlag)\nroad wheel (Laufrad)\nswing arm (Schwingarm)\nshock absorber (Stoßdämpfer)\ntorsion bar for the left road wheel (Dreh-Stabfeder für linkes Laufrad)\ntorsion bar for the right road wheel (Dreh-Stabfeder für rechtes Laufrad)\nswing-arm bearing (Schwingarmlager)\nswing-arm guide (Schwingarmführung)\nroad wheel (Laufrad)\nbearing journal / race nut (Lagernuß)\nswing-arm bearing (Schwingarmlager)\nbearing journal / race nut (Lagernuß)\nswing arm (Schwingarm)\nroad wheel (Laufrad)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "tope del brazo oscilante (Schwingarmanschlag)\nguía del brazo oscilante con tope (Schwingarmführung mit Anschlag)\nrueda de rodadura (Laufrad)\nbrazo oscilante (Schwingarm)\namortiguador (Stoßdämpfer)\nbarra de torsión de la rueda izquierda (Dreh-Stabfeder für linkes Laufrad)\nbarra de torsión de la rueda derecha (Dreh-Stabfeder für rechtes Laufrad)\ncojinete del brazo oscilante (Schwingarmlager)\nguía del brazo oscilante (Schwingarmführung)\nrueda de rodadura (Laufrad)\nalojamiento del cojinete (Lagernuß)\ncojinete del brazo oscilante (Schwingarmlager)\nalojamiento del cojinete (Lagernuß)\nbrazo oscilante (Schwingarm)\nrueda de rodadura (Laufrad)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-088",
+    "next": "d65241a-page-090"
+  }
+}

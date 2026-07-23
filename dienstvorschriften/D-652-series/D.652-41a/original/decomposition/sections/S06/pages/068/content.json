@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-068",
+  "document_id": "d652-41a",
+  "page": 68,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 35,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p068-para01",
+      "text": {
+        "de": {
+          "plain": "Für Richtungsänderungen bestehen zwei Lenkmöglichkeiten:",
+          "runs": [
+            {
+              "text": "Für Richtungsänderungen bestehen zwei Lenkmöglichkeiten:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For changes of direction there are two steering methods:",
+          "runs": [
+            {
+              "text": "For changes of direction there are two steering methods:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para los cambios de dirección hay dos formas de dirigir:",
+          "runs": [
+            {
+              "text": "Para los cambios de dirección hay dos formas de dirigir:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para02",
+      "text": {
+        "de": {
+          "plain": "a) Leichte Abweichungen von der Fahrtrichtung und langgestreckte flache Kurven sind durch Lösen der Stützbremse — leichtes Anziehen des nach der gewünschten Richtung liegenden Lenkhebels — unter gleichzeitigem Gasgeben zu fahren. Lenkhebel soweit anziehen, daß die Stützbremse vollkommen gelöst, die Lenkbremse jedoch noch nicht angezogen wird.",
+          "runs": [
+            {
+              "text": "a) Leichte Abweichungen von der Fahrtrichtung und langgestreckte flache Kurven sind durch Lösen der Stützbremse — leichtes Anziehen des nach der gewünschten Richtung liegenden Lenkhebels — unter gleichzeitigem Gasgeben zu fahren. Lenkhebel soweit anziehen, daß die Stützbremse vollkommen gelöst, die Lenkbremse jedoch noch nicht angezogen wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Slight deviations from the direction of travel and long, gentle curves are driven by releasing the support brake (Stützbremse) — lightly pulling the steering lever on the side of the desired direction — while giving throttle at the same time. Pull the steering lever only far enough that the support brake is fully released but the steering brake (Lenkbremse) is not yet applied.",
+          "runs": [
+            {
+              "text": "a) Slight deviations from the direction of travel and long, gentle curves are driven by releasing the support brake (Stützbremse) — lightly pulling the steering lever on the side of the desired direction — while giving throttle at the same time. Pull the steering lever only far enough that the support brake is fully released but the steering brake (Lenkbremse) is not yet applied.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Las desviaciones ligeras del rumbo y las curvas amplias y suaves se toman soltando el freno de apoyo (Stützbremse) —tirando ligeramente de la palanca de dirección del lado hacia el que se quiere ir— dando gas al mismo tiempo. Tire de la palanca de dirección solo lo justo para que el freno de apoyo quede totalmente suelto, pero sin que el freno de dirección (Lenkbremse) llegue a aplicarse.",
+          "runs": [
+            {
+              "text": "a) Las desviaciones ligeras del rumbo y las curvas amplias y suaves se toman soltando el freno de apoyo (Stützbremse) —tirando ligeramente de la palanca de dirección del lado hacia el que se quiere ir— dando gas al mismo tiempo. Tire de la palanca de dirección solo lo justo para que el freno de apoyo quede totalmente suelto, pero sin que el freno de dirección (Lenkbremse) llegue a aplicarse.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para03",
+      "text": {
+        "de": {
+          "plain": "b) Kurven, die durch Anziehen der Lenkbremse gefahren werden müssen, sind nicht im Kreisbogen, sondern in einem Vieleck zu durchfahren, d. h. es ist im stetigen Wechsel mit dem Lenkhebel die Lenkbremse anzuziehen und nachzulassen. Hierdurch wird eine bessere Kühlung der Lenkbremse gewährleistet und der Motor hat, da jeder Bremsvorgang Leistung verzehrt, genügend Zeit, sich zu erholen.",
+          "runs": [
+            {
+              "text": "b) Kurven, die durch Anziehen der Lenkbremse gefahren werden müssen, sind nicht im Kreisbogen, sondern in einem Vieleck zu durchfahren, d. h. es ist im stetigen Wechsel mit dem Lenkhebel die Lenkbremse anzuziehen und nachzulassen. Hierdurch wird eine bessere Kühlung der Lenkbremse gewährleistet und der Motor hat, da jeder Bremsvorgang Leistung verzehrt, genügend Zeit, sich zu erholen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Curves that must be driven by applying the steering brake are to be negotiated not as a circular arc but as a polygon; that is, the steering brake is applied and released in continuous alternation with the steering lever. This ensures better cooling of the steering brake, and since every braking action consumes power, the engine has enough time to recover.",
+          "runs": [
+            {
+              "text": "b) Curves that must be driven by applying the steering brake are to be negotiated not as a circular arc but as a polygon; that is, the steering brake is applied and released in continuous alternation with the steering lever. This ensures better cooling of the steering brake, and since every braking action consumes power, the engine has enough time to recover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Las curvas que deban tomarse aplicando el freno de dirección no se recorren en arco de círculo, sino en polígono; es decir, el freno de dirección se aplica y se suelta en alternancia continua con la palanca de dirección. Con ello se garantiza una mejor refrigeración del freno de dirección y, como cada frenada consume potencia, el motor tiene tiempo suficiente para recuperarse.",
+          "runs": [
+            {
+              "text": "b) Las curvas que deban tomarse aplicando el freno de dirección no se recorren en arco de círculo, sino en polígono; es decir, el freno de dirección se aplica y se suelta en alternancia continua con la palanca de dirección. Con ello se garantiza una mejor refrigeración del freno de dirección y, como cada frenada consume potencia, el motor tiene tiempo suficiente para recuperarse.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para04",
+      "text": {
+        "de": {
+          "plain": "Je besser der Fahrer, desto kühler die Lenkbremsen.",
+          "runs": [
+            {
+              "text": "Je besser der Fahrer, desto kühler die Lenkbremsen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The better the driver, the cooler the steering brakes.",
+          "runs": [
+            {
+              "text": "The better the driver, the cooler the steering brakes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cuanto mejor es el conductor, más fríos van los frenos de dirección.",
+          "runs": [
+            {
+              "text": "Cuanto mejor es el conductor, más fríos van los frenos de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para05",
+      "text": {
+        "de": {
+          "plain": "Beim Lenken grundsätzlich immer Gas geben. Beim Lenken muß Kraftreserve vorhanden sein. Deshalb rechtzeitig herunterschalten, Motordrehzahl jedoch nicht unter 2000 U/min sinken lassen.",
+          "runs": [
+            {
+              "text": "Beim Lenken grundsätzlich immer Gas geben. Beim Lenken muß Kraftreserve vorhanden sein. Deshalb rechtzeitig herunterschalten, Motordrehzahl jedoch nicht unter 2000 U/min sinken lassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When steering, always give throttle as a matter of principle. A power reserve must be available when steering. Therefore change down in good time, but do not let the engine speed drop below 2000 rpm.",
+          "runs": [
+            {
+              "text": "When steering, always give throttle as a matter of principle. A power reserve must be available when steering. Therefore change down in good time, but do not let the engine speed drop below 2000 rpm.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al dirigir, dé gas siempre por principio. Al dirigir debe haber una reserva de potencia disponible. Por ello, reduzca a tiempo, pero no deje bajar el régimen del motor por debajo de 2000 rpm.",
+          "runs": [
+            {
+              "text": "Al dirigir, dé gas siempre por principio. Al dirigir debe haber una reserva de potencia disponible. Por ello, reduzca a tiempo, pero no deje bajar el régimen del motor por debajo de 2000 rpm.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para06",
+      "text": {
+        "de": {
+          "plain": "Wendungen auf der Stelle sind zu unterlassen; sie dürfen nur im Notfall ausgeführt werden.",
+          "runs": [
+            {
+              "text": "Wendungen auf der Stelle sind zu unterlassen; sie dürfen nur im Notfall ausgeführt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turns on the spot (pivot turns) are to be avoided; they may only be carried out in an emergency.",
+          "runs": [
+            {
+              "text": "Turns on the spot (pivot turns) are to be avoided; they may only be carried out in an emergency.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los giros sobre el sitio deben evitarse; solo pueden ejecutarse en caso de emergencia.",
+          "runs": [
+            {
+              "text": "Los giros sobre el sitio deben evitarse; solo pueden ejecutarse en caso de emergencia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para07",
+      "text": {
+        "de": {
+          "plain": "Auf guten Straßen, die für Vollkettenfahrzeuge meist nicht griffig sind, besteht die Gefahr, das Fahrzeug beim Lenken zu überziehen. Erhöhte Sorgfalt ist auf derartigen Straßen mit Rücksicht auf andere Verkehrsteilnehmer geboten.",
+          "runs": [
+            {
+              "text": "Auf guten Straßen, die für Vollkettenfahrzeuge meist nicht griffig sind, besteht die Gefahr, das Fahrzeug beim Lenken zu überziehen. Erhöhte Sorgfalt ist auf derartigen Straßen mit Rücksicht auf andere Verkehrsteilnehmer geboten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On good roads, which usually offer little grip to full-tracked vehicles, there is a danger of over-steering the vehicle. Increased care is required on such roads out of consideration for other road users.",
+          "runs": [
+            {
+              "text": "On good roads, which usually offer little grip to full-tracked vehicles, there is a danger of over-steering the vehicle. Increased care is required on such roads out of consideration for other road users.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En buenas carreteras, que por lo general ofrecen poca adherencia a los vehículos de cadenas, existe el peligro de sobredirigir el vehículo. En tales carreteras se impone un cuidado especial, por consideración a los demás usuarios de la vía.",
+          "runs": [
+            {
+              "text": "En buenas carreteras, que por lo general ofrecen poca adherencia a los vehículos de cadenas, existe el peligro de sobredirigir el vehículo. En tales carreteras se impone un cuidado especial, por consideración a los demás usuarios de la vía.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para08",
+      "text": {
+        "de": {
+          "plain": "Lenkwechsel (linker Lenkhebel = rechte Kurve) tritt ein, wenn im Auslauf aus schneller Fahrt bei bremsendem Motor nur mit gelöster Stützbremse gelenkt wird. Dieser Lenkwechsel ist auf der Straße möglichst zu vermeiden. Es ist zweckmäßig, rechtzeitig herunterzuschalten, normal zu lenken und, falls erforderlich, mehr Gas zu geben.",
+          "runs": [
+            {
+              "text": "Lenkwechsel (linker Lenkhebel = rechte Kurve) tritt ein, wenn im Auslauf aus schneller Fahrt bei bremsendem Motor nur mit gelöster Stützbremse gelenkt wird. Dieser Lenkwechsel ist auf der Straße möglichst zu vermeiden. Es ist zweckmäßig, rechtzeitig herunterzuschalten, normal zu lenken und, falls erforderlich, mehr Gas zu geben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A steering reversal (Lenkwechsel) — left steering lever = right turn — occurs when, while coasting down from high speed with the engine braking, one steers only with the support brake released. This steering reversal is to be avoided on the road as far as possible. It is expedient to change down in good time, steer normally and, if necessary, give more throttle.",
+          "runs": [
+            {
+              "text": "A steering reversal (Lenkwechsel) — left steering lever = right turn — occurs when, while coasting down from high speed with the engine braking, one steers only with the support brake released. This steering reversal is to be avoided on the road as far as possible. It is expedient to change down in good time, steer normally and, if necessary, give more throttle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Se produce una inversión de la dirección (Lenkwechsel) —palanca izquierda = giro a la derecha— cuando, al desacelerar desde alta velocidad con el motor frenando, se dirige solo con el freno de apoyo suelto. Esta inversión de la dirección debe evitarse en lo posible en carretera. Conviene reducir a tiempo, dirigir de forma normal y, si es necesario, dar más gas.",
+          "runs": [
+            {
+              "text": "Se produce una inversión de la dirección (Lenkwechsel) —palanca izquierda = giro a la derecha— cuando, al desacelerar desde alta velocidad con el motor frenando, se dirige solo con el freno de apoyo suelto. Esta inversión de la dirección debe evitarse en lo posible en carretera. Conviene reducir a tiempo, dirigir de forma normal y, si es necesario, dar más gas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para09",
+      "text": {
+        "de": {
+          "plain": "Bei Übungsfahrten ist darauf zu achten, daß die Fahrstrecke so gewählt wird, daß Wendungen nach beiden Seiten ausgeführt werden können, damit eine Lenkbremse nicht überhitzt wird bzw. damit die nötigen Abkühlzeiten vorhanden sind.",
+          "runs": [
+            {
+              "text": "Bei Übungsfahrten ist darauf zu achten, daß die Fahrstrecke so gewählt wird, daß Wendungen nach beiden Seiten ausgeführt werden können, damit eine Lenkbremse nicht überhitzt wird bzw. damit die nötigen Abkühlzeiten vorhanden sind.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "During practice runs, care must be taken to choose the route so that turns can be made to both sides, so that one steering brake is not overheated and the necessary cooling times are available.",
+          "runs": [
+            {
+              "text": "During practice runs, care must be taken to choose the route so that turns can be made to both sides, so that one steering brake is not overheated and the necessary cooling times are available.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En las marchas de instrucción hay que procurar elegir el recorrido de modo que puedan ejecutarse giros hacia ambos lados, para que un freno de dirección no se recaliente y se disponga de los tiempos de enfriamiento necesarios.",
+          "runs": [
+            {
+              "text": "En las marchas de instrucción hay que procurar elegir el recorrido de modo que puedan ejecutarse giros hacia ambos lados, para que un freno de dirección no se recaliente y se disponga de los tiempos de enfriamiento necesarios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p068-para10",
+      "text": {
+        "de": {
+          "plain": "Bei großer Hitze (etwa 30° im Schatten) nicht dauernd mit Vollgas fahren, damit ein Kochen des Kühlers vermieden wird. Rechtzeitig ...",
+          "runs": [
+            {
+              "text": "Bei großer Hitze (etwa 30° im Schatten) nicht dauernd mit Vollgas fahren, damit ein Kochen des Kühlers vermieden wird. Rechtzeitig ...",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In great heat (about 30 degrees in the shade) do not drive continuously at full throttle, so that boiling of the radiator is avoided. In good time ...",
+          "runs": [
+            {
+              "text": "In great heat (about 30 degrees in the shade) do not drive continuously at full throttle, so that boiling of the radiator is avoided. In good time ...",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con mucho calor (unos 30 grados a la sombra) no circule de forma continua a pleno gas, para evitar que el radiador hierva. A tiempo …",
+          "runs": [
+            {
+              "text": "Con mucho calor (unos 30 grados a la sombra) no circule de forma continua a pleno gas, para evitar que el radiador hierva. A tiempo …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-067",
+    "next": "d65241a-page-069"
+  }
+}

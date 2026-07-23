@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-063",
+  "document_id": "d652-41a",
+  "page": 63,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 32,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-063-para01",
+      "text": {
+        "de": {"plain": "Leitrades geklemmt und durch die Kerben einer dünnen Schnur gespannt.", "runs": [{"text": "Leitrades geklemmt und durch die Kerben einer dünnen Schnur gespannt.", "bold": false}]},
+        "en-GB": {"plain": "– idler wheel, and tensioned by the notches of a thin cord.", "runs": [{"text": "– idler wheel, and tensioned by the notches of a thin cord.", "bold": false}]},
+        "es-ES": {"plain": "– rueda tensora, y se tensan mediante las muescas de un cordel fino.", "runs": [{"text": "– rueda tensora, y se tensan mediante las muescas de un cordel fino.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para02",
+      "text": {
+        "de": {"plain": "Mit Vorrichtung (III DB 130/3), die nacheinander zwischen die Spurkränze der Stützrolle geklemmt wird, kann dann das genaue Fluchten überprüft werden.", "runs": [{"text": "Mit Vorrichtung (III DB 130/3), die nacheinander zwischen die Spurkränze der Stützrolle geklemmt wird, kann dann das genaue Fluchten überprüft werden.", "bold": false}]},
+        "en-GB": {"plain": "With tool (III DB 130/3), which is clamped one after another between the flange rings of the return roller, the exact alignment can then be checked.", "runs": [{"text": "With tool (III DB 130/3), which is clamped one after another between the flange rings of the return roller, the exact alignment can then be checked.", "bold": false}]},
+        "es-ES": {"plain": "Con la herramienta (III DB 130/3), que se sujeta una tras otra entre los aros de brida del rodillo de retorno, puede comprobarse entonces la alineación exacta.", "runs": [{"text": "Con la herramienta (III DB 130/3), que se sujeta una tras otra entre los aros de brida del rodillo de retorno, puede comprobarse entonces la alineación exacta.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para03",
+      "text": {
+        "de": {"plain": "Beim Überprüfen der Laufrollen wird in der gleichen Art verfahren, nur müssen zu diesem Zweck das Trieb- und Leitrad mit den entsprechenden Vorrichtungen nach unten gedreht werden.", "runs": [{"text": "Beim Überprüfen der Laufrollen wird in der gleichen Art verfahren, nur müssen zu diesem Zweck das Trieb- und Leitrad mit den entsprechenden Vorrichtungen nach unten gedreht werden.", "bold": false}]},
+        "en-GB": {"plain": "When checking the road wheels, proceed in the same way; only for this purpose the drive sprocket and idler wheel must be turned downward with the corresponding tools.", "runs": [{"text": "When checking the road wheels, proceed in the same way; only for this purpose the drive sprocket and idler wheel must be turned downward with the corresponding tools.", "bold": false}]},
+        "es-ES": {"plain": "Al comprobar las ruedas de rodadura, proceda del mismo modo; solo que para ello la rueda motriz y la rueda tensora deben girarse hacia abajo con las herramientas correspondientes.", "runs": [{"text": "Al comprobar las ruedas de rodadura, proceda del mismo modo; solo que para ello la rueda motriz y la rueda tensora deben girarse hacia abajo con las herramientas correspondientes.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para04",
+      "text": {
+        "de": {"plain": "d) Gleiskette", "runs": [{"text": "d) Gleiskette", "bold": true}]},
+        "en-GB": {"plain": "d) Gleiskette – d) Track", "runs": [{"text": "d) Gleiskette – d) Track", "bold": true}]},
+        "es-ES": {"plain": "d) Gleiskette – d) Cadena", "runs": [{"text": "d) Gleiskette – d) Cadena", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para05",
+      "text": {
+        "de": {"plain": "Sonderwerkzeug III DB 54 im Fahrgestell auf Kraftstoffbehälter.", "runs": [{"text": "Sonderwerkzeug III DB 54 im Fahrgestell auf Kraftstoffbehälter.", "bold": false}]},
+        "en-GB": {"plain": "Special tool III DB 54, in the chassis on the fuel tank.", "runs": [{"text": "Special tool III DB 54, in the chassis on the fuel tank.", "bold": false}]},
+        "es-ES": {"plain": "Herramienta especial III DB 54, en el chasis sobre el depósito de combustible.", "runs": [{"text": "Herramienta especial III DB 54, en el chasis sobre el depósito de combustible.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para06",
+      "text": {
+        "de": {"plain": "Die Gleisketten sind so aufzulegen, daß bei dem auf dem Boden liegenden Kettenteil die Glieder mit den drei Augen in der Laufrichtung nach vorn zeigen.", "runs": [{"text": "Die Gleisketten sind so aufzulegen, daß bei dem auf dem Boden liegenden Kettenteil die Glieder mit den drei Augen in der Laufrichtung nach vorn zeigen.", "bold": false}]},
+        "en-GB": {"plain": "Lay the tracks so that, on the section lying on the ground, the links with the three eyes point forward in the direction of travel.", "runs": [{"text": "Lay the tracks so that, on the section lying on the ground, the links with the three eyes point forward in the direction of travel.", "bold": false}]},
+        "es-ES": {"plain": "Coloque las cadenas de modo que, en el tramo apoyado en el suelo, los eslabones con los tres ojales apunten hacia delante en el sentido de la marcha.", "runs": [{"text": "Coloque las cadenas de modo que, en el tramo apoyado en el suelo, los eslabones con los tres ojales apunten hacia delante en el sentido de la marcha.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para07",
+      "text": {
+        "de": {"plain": "Die Kettenbolzensicherungen müssen sich außen befinden und sind so umzubiegen, daß in dem auf dem Boden liegenden Kettenteil der untere Bogen der Sicherung nach vorn zeigt. Bei einer durchrutschenden Kette können die Kettenbolzensicherungen dann nicht abgebrochen werden.", "runs": [{"text": "Die Kettenbolzensicherungen müssen sich außen befinden und sind so umzubiegen, daß in dem auf dem Boden liegenden Kettenteil der untere Bogen der Sicherung nach vorn zeigt. Bei einer durchrutschenden Kette können die Kettenbolzensicherungen dann nicht abgebrochen werden.", "bold": false}]},
+        "en-GB": {"plain": "The track-pin retainers (Kettenbolzensicherungen) must be on the outside and are to be bent so that, on the track section lying on the ground, the lower bend of the retainer points forward. With a slipping track the retainers cannot then be broken off.", "runs": [{"text": "The track-pin retainers (Kettenbolzensicherungen) must be on the outside and are to be bent so that, on the track section lying on the ground, the lower bend of the retainer points forward. With a slipping track the retainers cannot then be broken off.", "bold": false}]},
+        "es-ES": {"plain": "Los seguros de bulón (Kettenbolzensicherungen) deben quedar por fuera y hay que doblarlos de modo que, en el tramo de cadena apoyado en el suelo, el pliegue inferior del seguro apunte hacia delante. Con una cadena que patine, los seguros no podrán entonces romperse.", "runs": [{"text": "Los seguros de bulón (Kettenbolzensicherungen) deben quedar por fuera y hay que doblarlos de modo que, en el tramo de cadena apoyado en el suelo, el pliegue inferior del seguro apunte hacia delante. Con una cadena que patine, los seguros no podrán entonces romperse.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para08",
+      "text": {
+        "de": {"plain": "Auflegen der Gleiskette", "runs": [{"text": "Auflegen der Gleiskette", "bold": true}]},
+        "en-GB": {"plain": "Auflegen der Gleiskette – Laying the track", "runs": [{"text": "Auflegen der Gleiskette – Laying the track", "bold": true}]},
+        "es-ES": {"plain": "Auflegen der Gleiskette – Colocación de la cadena", "runs": [{"text": "Auflegen der Gleiskette – Colocación de la cadena", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para09",
+      "text": {
+        "de": {"plain": "Leitrad soweit wie möglich nach vorn stellen. Beide Ketten in Spurweite vor dem Fahrzeug auslegen. Die Köpfe der Kettenbolzen liegen dabei der Wanne zu. Fahrzeug auf die Kette aufschleppen, bis Triebradvorderkante ungefähr mit dem vorderen Ende der Kette abschließt. Die hinteren Enden der Kette über das Leitrad und die Stützrollen ziehen und über dem Triebrad mit Hilfe der Kettenspannervorrichtung III DB 54 beide Enden zusammenholen. Bolzen einschlagen und sichern.", "runs": [{"text": "Leitrad soweit wie möglich nach vorn stellen. Beide Ketten in Spurweite vor dem Fahrzeug auslegen. Die Köpfe der Kettenbolzen liegen dabei der Wanne zu. Fahrzeug auf die Kette aufschleppen, bis Triebradvorderkante ungefähr mit dem vorderen Ende der Kette abschließt. Die hinteren Enden der Kette über das Leitrad und die Stützrollen ziehen und über dem Triebrad mit Hilfe der Kettenspannervorrichtung III DB 54 beide Enden zusammenholen. Bolzen einschlagen und sichern.", "bold": false}]},
+        "en-GB": {"plain": "Set the idler wheel as far forward as possible. Lay out both tracks at track gauge in front of the vehicle; the heads of the track pins face the hull. Drive the vehicle onto the track until the front edge of the drive sprocket roughly meets the front end of the track. Pull the rear ends of the track over the idler wheel and the return rollers, and bring both ends together over the drive sprocket with the track-tensioning device III DB 54. Drive in the pins and secure.", "runs": [{"text": "Set the idler wheel as far forward as possible. Lay out both tracks at track gauge in front of the vehicle; the heads of the track pins face the hull. Drive the vehicle onto the track until the front edge of the drive sprocket roughly meets the front end of the track. Pull the rear ends of the track over the idler wheel and the return rollers, and bring both ends together over the drive sprocket with the track-tensioning device III DB 54. Drive in the pins and secure.", "bold": false}]},
+        "es-ES": {"plain": "Adelante al máximo la rueda tensora. Extienda ambas cadenas al ancho de vía delante del vehículo; las cabezas de los bulones miran hacia el casco. Conduzca el vehículo sobre la cadena hasta que el borde delantero de la rueda motriz coincida aproximadamente con el extremo delantero de la cadena. Pase los extremos traseros de la cadena sobre la rueda tensora y los rodillos de retorno, y una ambos extremos sobre la rueda motriz con el dispositivo tensor de cadena III DB 54. Introduzca los bulones y asegúrelos.", "runs": [{"text": "Adelante al máximo la rueda tensora. Extienda ambas cadenas al ancho de vía delante del vehículo; las cabezas de los bulones miran hacia el casco. Conduzca el vehículo sobre la cadena hasta que el borde delantero de la rueda motriz coincida aproximadamente con el extremo delantero de la cadena. Pase los extremos traseros de la cadena sobre la rueda tensora y los rodillos de retorno, y una ambos extremos sobre la rueda motriz con el dispositivo tensor de cadena III DB 54. Introduzca los bulones y asegúrelos.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para10",
+      "text": {
+        "de": {"plain": "Mit dem Kettenspanner ist die Kette so zu spannen, daß diese zwischen den Stützrollen ungefähr 40 mm durchhängt. Zu straff gespannte Gleisketten verursachen einen erhöhten Rollwiderstand, zu lose gespannte neigen zum Entgleisen. Genügt der Verstellweg des Leitrades zum Spannen der Gleiskette nicht, so muß ein neues Kettenglied eingebaut bzw. herausgenommen werden.", "runs": [{"text": "Mit dem Kettenspanner ist die Kette so zu spannen, daß diese zwischen den Stützrollen ungefähr 40 mm durchhängt. Zu straff gespannte Gleisketten verursachen einen erhöhten Rollwiderstand, zu lose gespannte neigen zum Entgleisen. Genügt der Verstellweg des Leitrades zum Spannen der Gleiskette nicht, so muß ein neues Kettenglied eingebaut bzw. herausgenommen werden.", "bold": false}]},
+        "en-GB": {"plain": "Tension the track with the tensioner so that it sags about 40 mm between the return rollers. Over-tight tracks cause increased rolling resistance; too-loose ones tend to derail. If the adjustment travel of the idler wheel is not enough to tension the track, a new track link must be fitted or one removed.", "runs": [{"text": "Tension the track with the tensioner so that it sags about 40 mm between the return rollers. Over-tight tracks cause increased rolling resistance; too-loose ones tend to derail. If the adjustment travel of the idler wheel is not enough to tension the track, a new track link must be fitted or one removed.", "bold": false}]},
+        "es-ES": {"plain": "Tense la cadena con el tensor de modo que combe unos 40 mm entre los rodillos de retorno. Las cadenas demasiado tensas causan mayor resistencia a la rodadura; las demasiado flojas tienden a descarrilar. Si el recorrido de ajuste de la rueda tensora no basta para tensar la cadena, hay que añadir un eslabón nuevo o retirar uno.", "runs": [{"text": "Tense la cadena con el tensor de modo que combe unos 40 mm entre los rodillos de retorno. Las cadenas demasiado tensas causan mayor resistencia a la rodadura; las demasiado flojas tienden a descarrilar. Si el recorrido de ajuste de la rueda tensora no basta para tensar la cadena, hay que añadir un eslabón nuevo o retirar uno.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para11",
+      "text": {
+        "de": {"plain": "Auswechseln eines Kettenbolzens", "runs": [{"text": "Auswechseln eines Kettenbolzens", "bold": true}]},
+        "en-GB": {"plain": "Auswechseln eines Kettenbolzens – Replacing a track pin", "runs": [{"text": "Auswechseln eines Kettenbolzens – Replacing a track pin", "bold": true}]},
+        "es-ES": {"plain": "Auswechseln eines Kettenbolzens – Sustitución de un bulón de cadena", "runs": [{"text": "Auswechseln eines Kettenbolzens – Sustitución de un bulón de cadena", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-063-para12",
+      "text": {
+        "de": {"plain": "Das Fahrzeug so fahren, daß sich das Glied, in dem der Kettenbolzen ausgewechselt werden soll, auf dem oberen Teil des Triebrades befindet. Kette entspannen. Kettenbolzensicherung abmeißeln und mit einem Kettenbolzen den beschädigten von außen nach innen herausschlagen. Mit neuem Kettenbolzen, Kopf zur", "runs": [{"text": "Das Fahrzeug so fahren, daß sich das Glied, in dem der Kettenbolzen ausgewechselt werden soll, auf dem oberen Teil des Triebrades befindet. Kette entspannen. Kettenbolzensicherung abmeißeln und mit einem Kettenbolzen den beschädigten von außen nach innen herausschlagen. Mit neuem Kettenbolzen, Kopf zur", "bold": false}]},
+        "en-GB": {"plain": "Drive the vehicle so that the link in which the track pin is to be replaced is on the upper part of the drive sprocket. Release the track. Chisel off the track-pin retainer and knock the damaged track pin out from outside to inside with a track pin. With a new track pin, head towards –", "runs": [{"text": "Drive the vehicle so that the link in which the track pin is to be replaced is on the upper part of the drive sprocket. Release the track. Chisel off the track-pin retainer and knock the damaged track pin out from outside to inside with a track pin. With a new track pin, head towards –", "bold": false}]},
+        "es-ES": {"plain": "Conduzca el vehículo de modo que el eslabón cuyo bulón hay que sustituir quede en la parte superior de la rueda motriz. Afloje la cadena. Corte con cincel el seguro del bulón y expulse el bulón dañado de fuera hacia dentro con otro bulón. Con un bulón nuevo, con la cabeza hacia –", "runs": [{"text": "Conduzca el vehículo de modo que el eslabón cuyo bulón hay que sustituir quede en la parte superior de la rueda motriz. Afloje la cadena. Corte con cincel el seguro del bulón y expulse el bulón dañado de fuera hacia dentro con otro bulón. Con un bulón nuevo, con la cabeza hacia –", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-062",
+    "next": "d65241a-page-064"
+  }
+}

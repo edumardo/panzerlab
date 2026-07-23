@@ -138,6 +138,13 @@ creating or changing a decomposition.
   crop images are then optional archival data, not a rendering requirement.
   Other sections keep the per-figure-crop layout until they adopt the
   facsimile approach.
+- `A4_landscape_facsimile_then_translation` is the same facsimile-then-
+  translation export mode, for sections whose printed page is itself a
+  landscape sheet that crosses the gutter and must never be split into
+  left/right halves (a plate spanning two book pages, for example). Used by
+  D.652-41a's `G` (plates) section: each source page carries one or two
+  `Bild` numbers, and the following translation page lists captions and
+  label keys for all of them.
 - `source_display.jpg` (when present next to a page's `source.jpg`) is a
   derived, regenerable crop that trims scan background/edges for display. It
   never replaces `source.jpg`, which stays as the untouched archival scan.

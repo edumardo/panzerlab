@@ -1,0 +1,512 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-022",
+  "document_id": "d652-41a",
+  "page": 22,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 12,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p022-para01",
+      "text": {
+        "de": {
+          "plain": "Durch das Lüften der Stützbremse, auf die sich bei Geradeausfahrt die Kraftübertragung abstützt, ist die kraftschlüssige Verbindung vom Antrieb zum Triebrad unterbrochen.",
+          "runs": [
+            {
+              "text": "Durch das Lüften der Stützbremse, auf die sich bei Geradeausfahrt die Kraftübertragung abstützt, ist die kraftschlüssige Verbindung vom Antrieb zum Triebrad unterbrochen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "By releasing the support brake — against which the power transmission is braced in straight-ahead running — the positive connection from the drive to the drive sprocket is broken.",
+          "runs": [
+            {
+              "text": "By releasing the support brake — against which the power transmission is braced in straight-ahead running — the positive connection from the drive to the drive sprocket is broken.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al soltar el freno de apoyo —contra el cual se apoya la transmisión de fuerza en marcha recta— se interrumpe la unión positiva desde el accionamiento hasta la rueda motriz.",
+          "runs": [
+            {
+              "text": "Al soltar el freno de apoyo —contra el cual se apoya la transmisión de fuerza en marcha recta— se interrumpe la unión positiva desde el accionamiento hasta la rueda motriz.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para02",
+      "text": {
+        "de": {
+          "plain": "c) Schmierung von Kegeltrieb und Lenkgetriebe, Bild 9",
+          "runs": [
+            {
+              "text": "c) Schmierung von Kegeltrieb und Lenkgetriebe, Bild 9",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Lubrication of bevel drive and steering gears (Schmierung von Kegeltrieb und Lenkgetriebe), Figure 9",
+          "runs": [
+            {
+              "text": "c) Lubrication of bevel drive and steering gears (Schmierung von Kegeltrieb und Lenkgetriebe), Figure 9",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Lubricación del par cónico y de los mecanismos de dirección (Schmierung von Kegeltrieb und Lenkgetriebe), figura 9",
+          "runs": [
+            {
+              "text": "c) Lubricación del par cónico y de los mecanismos de dirección (Schmierung von Kegeltrieb und Lenkgetriebe), figura 9",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para03",
+      "text": {
+        "de": {
+          "plain": "Der Kegeltrieb und die Zahnradvorgelege der beiden Lenkgetriebe werden mit Drucköl geschmiert, das Umlaufgetriebe taucht in den sich bildenden Ölsumpf ein.",
+          "runs": [
+            {
+              "text": "Der Kegeltrieb und die Zahnradvorgelege der beiden Lenkgetriebe werden mit Drucköl geschmiert, das Umlaufgetriebe taucht in den sich bildenden Ölsumpf ein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The bevel drive and the spur-gear reductions of the two steering gears are lubricated with pressure oil (Drucköl); the epicyclic gear dips into the oil sump that forms.",
+          "runs": [
+            {
+              "text": "The bevel drive and the spur-gear reductions of the two steering gears are lubricated with pressure oil (Drucköl); the epicyclic gear dips into the oil sump that forms.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El par cónico y las reductoras de engranajes cilíndricos de los dos mecanismos de dirección se lubrican con aceite a presión (Drucköl); el engranaje planetario se sumerge en el cárter de aceite que se forma.",
+          "runs": [
+            {
+              "text": "El par cónico y las reductoras de engranajes cilíndricos de los dos mecanismos de dirección se lubrican con aceite a presión (Drucköl); el engranaje planetario se sumerge en el cárter de aceite que se forma.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para04",
+      "text": {
+        "de": {
+          "plain": "Von der Druckschmierleitung des Wechselgetriebes wird das Drucköl abgezweigt und durch Düsen in die Eingriffe der Zahnräder gespritzt.",
+          "runs": [
+            {
+              "text": "Von der Druckschmierleitung des Wechselgetriebes wird das Drucköl abgezweigt und durch Düsen in die Eingriffe der Zahnräder gespritzt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The pressure oil is branched off from the pressure-lubrication line (Druckschmierleitung) of the gearbox and sprayed through nozzles (Düsen) into the gear meshes.",
+          "runs": [
+            {
+              "text": "The pressure oil is branched off from the pressure-lubrication line (Druckschmierleitung) of the gearbox and sprayed through nozzles (Düsen) into the gear meshes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El aceite a presión se deriva de la tubería de lubricación a presión (Druckschmierleitung) de la caja de cambios y se pulveriza por toberas (Düsen) sobre los engranes.",
+          "runs": [
+            {
+              "text": "El aceite a presión se deriva de la tubería de lubricación a presión (Druckschmierleitung) de la caja de cambios y se pulveriza por toberas (Düsen) sobre los engranes.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para05",
+      "text": {
+        "de": {
+          "plain": "Durch das Kegeltriebgehäuse, das mit dem Ölraum des Wechselgetriebes durch Wanddurchbrüche in Verbindung steht, fließt das Öl in das Wechselgetriebe zurück.",
+          "runs": [
+            {
+              "text": "Durch das Kegeltriebgehäuse, das mit dem Ölraum des Wechselgetriebes durch Wanddurchbrüche in Verbindung steht, fließt das Öl in das Wechselgetriebe zurück.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Through the bevel-drive housing (Kegeltriebgehäuse), which communicates with the oil space of the gearbox through wall openings, the oil flows back into the gearbox.",
+          "runs": [
+            {
+              "text": "Through the bevel-drive housing (Kegeltriebgehäuse), which communicates with the oil space of the gearbox through wall openings, the oil flows back into the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A través de la carcasa del par cónico (Kegeltriebgehäuse), que comunica con el espacio de aceite de la caja de cambios por aberturas en la pared, el aceite retorna a la caja.",
+          "runs": [
+            {
+              "text": "A través de la carcasa del par cónico (Kegeltriebgehäuse), que comunica con el espacio de aceite de la caja de cambios por aberturas en la pared, el aceite retorna a la caja.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para06",
+      "text": {
+        "de": {
+          "plain": "Für den Druckausgleich ist oben auf dem Kegeltriebgehäuse ein Entlüfter vorgesehen.",
+          "runs": [
+            {
+              "text": "Für den Druckausgleich ist oben auf dem Kegeltriebgehäuse ein Entlüfter vorgesehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For pressure equalisation, a breather (Entlüfter) is provided on top of the bevel-drive housing.",
+          "runs": [
+            {
+              "text": "For pressure equalisation, a breather (Entlüfter) is provided on top of the bevel-drive housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para la compensación de presión, en la parte superior de la carcasa del par cónico se dispone un respiradero (Entlüfter).",
+          "runs": [
+            {
+              "text": "Para la compensación de presión, en la parte superior de la carcasa del par cónico se dispone un respiradero (Entlüfter).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para07",
+      "text": {
+        "de": {
+          "plain": "d) Seitenwellen",
+          "runs": [
+            {
+              "text": "d) Seitenwellen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Side shafts (Seitenwellen)",
+          "runs": [
+            {
+              "text": "d) Side shafts (Seitenwellen)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Semiejes (Seitenwellen)",
+          "runs": [
+            {
+              "text": "d) Semiejes (Seitenwellen)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para08",
+      "text": {
+        "de": {
+          "plain": "Von den Lenkgetrieben wird der Antrieb durch zwei Seitenwellen nach links und rechts zu den Lenkbremsen und Seitenvorgelegen weitergeleitet. Die Zapfen der Kreuzgelenke bewegen sich in Nadellagern.",
+          "runs": [
+            {
+              "text": "Von den Lenkgetrieben wird der Antrieb durch zwei Seitenwellen nach links und rechts zu den Lenkbremsen und Seitenvorgelegen weitergeleitet. Die Zapfen der Kreuzgelenke bewegen sich in Nadellagern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "From the steering gears the drive is passed on by two side shafts (Seitenwellen) to left and right, to the steering brakes and the final drives. The journals of the universal joints run in needle bearings.",
+          "runs": [
+            {
+              "text": "From the steering gears the drive is passed on by two side shafts (Seitenwellen) to left and right, to the steering brakes and the final drives. The journals of the universal joints run in needle bearings.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desde los mecanismos de dirección, el accionamiento se transmite mediante dos semiejes (Seitenwellen) a izquierda y derecha, hasta los frenos de dirección y las reductoras finales. Los muñones de las crucetas giran sobre cojinetes de agujas.",
+          "runs": [
+            {
+              "text": "Desde los mecanismos de dirección, el accionamiento se transmite mediante dos semiejes (Seitenwellen) a izquierda y derecha, hasta los frenos de dirección y las reductoras finales. Los muñones de las crucetas giran sobre cojinetes de agujas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para09",
+      "text": {
+        "de": {
+          "plain": "8. Stütz- und Lenkbremse",
+          "runs": [
+            {
+              "text": "8. Stütz- und Lenkbremse",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "8. Support brake and steering brake (Stütz- und Lenkbremse)",
+          "runs": [
+            {
+              "text": "8. Support brake and steering brake (Stütz- und Lenkbremse)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "8. Freno de apoyo y freno de dirección (Stütz- und Lenkbremse)",
+          "runs": [
+            {
+              "text": "8. Freno de apoyo y freno de dirección (Stütz- und Lenkbremse)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para10",
+      "text": {
+        "de": {
+          "plain": "a) Stützbremse, Bild 12",
+          "runs": [
+            {
+              "text": "a) Stützbremse, Bild 12",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Support brake (Stützbremse), Figure 12",
+          "runs": [
+            {
+              "text": "a) Support brake (Stützbremse), Figure 12",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Freno de apoyo (Stützbremse), figura 12",
+          "runs": [
+            {
+              "text": "a) Freno de apoyo (Stützbremse), figura 12",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para11",
+      "text": {
+        "de": {
+          "plain": "Aufbau",
+          "runs": [
+            {
+              "text": "Aufbau",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Construction",
+          "runs": [
+            {
+              "text": "Construction",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Constitución",
+          "runs": [
+            {
+              "text": "Constitución",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para12",
+      "text": {
+        "de": {
+          "plain": "Die Stützbremse ist eine Servo-Innenbackenbremse mit zwei Bremsbacken.",
+          "runs": [
+            {
+              "text": "Die Stützbremse ist eine Servo-Innenbackenbremse mit zwei Bremsbacken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The support brake is a servo internal-shoe brake (Servo-Innenbackenbremse) with two brake shoes.",
+          "runs": [
+            {
+              "text": "The support brake is a servo internal-shoe brake (Servo-Innenbackenbremse) with two brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El freno de apoyo es un freno servo de zapatas interiores (Servo-Innenbackenbremse) con dos zapatas.",
+          "runs": [
+            {
+              "text": "El freno de apoyo es un freno servo de zapatas interiores (Servo-Innenbackenbremse) con dos zapatas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para13",
+      "text": {
+        "de": {
+          "plain": "Die Bremstrommel ist mit der Mittenvollradwelle durch eine im Lagerdeckel gelagerte Nabe fest verbunden. Die Bremsbacken, die mit Belägen aus Asbestgewebe versehen sind, werden am Lagerdeckel gehalten.",
+          "runs": [
+            {
+              "text": "Die Bremstrommel ist mit der Mittenvollradwelle durch eine im Lagerdeckel gelagerte Nabe fest verbunden. Die Bremsbacken, die mit Belägen aus Asbestgewebe versehen sind, werden am Lagerdeckel gehalten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The brake drum is firmly connected to the sun-gear shaft (Mittenvollradwelle) by a hub mounted in the bearing cover. The brake shoes, lined with woven-asbestos linings (Asbestgewebe), are held on the bearing cover.",
+          "runs": [
+            {
+              "text": "The brake drum is firmly connected to the sun-gear shaft (Mittenvollradwelle) by a hub mounted in the bearing cover. The brake shoes, lined with woven-asbestos linings (Asbestgewebe), are held on the bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El tambor de freno va firmemente unido al eje del planeta central (Mittenvollradwelle) por un cubo montado en la tapa de cojinete. Las zapatas, revestidas con forros de tejido de amianto (Asbestgewebe), van sujetas a la tapa de cojinete.",
+          "runs": [
+            {
+              "text": "El tambor de freno va firmemente unido al eje del planeta central (Mittenvollradwelle) por un cubo montado en la tapa de cojinete. Las zapatas, revestidas con forros de tejido de amianto (Asbestgewebe), van sujetas a la tapa de cojinete.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para14",
+      "text": {
+        "de": {
+          "plain": "Eine Nachstellvorrichtung hält die einen Enden der Bremsbacken gelenkig zusammen, während sich die anderen Enden gegen einen im Lagerdeckel gelagerten Haltebolzen abstützen. Durch am Lagerdeckel angebrachte Zugfedern werden die Backen bei gelöster Bremse nach der Mitte der Trommel und gegen den Haltebolzen gezogen. Zwei weitere Federn mit Haltestiften bringen die Backen in axialer Richtung am Lagerdeckel zur Anlage.",
+          "runs": [
+            {
+              "text": "Eine Nachstellvorrichtung hält die einen Enden der Bremsbacken gelenkig zusammen, während sich die anderen Enden gegen einen im Lagerdeckel gelagerten Haltebolzen abstützen. Durch am Lagerdeckel angebrachte Zugfedern werden die Backen bei gelöster Bremse nach der Mitte der Trommel und gegen den Haltebolzen gezogen. Zwei weitere Federn mit Haltestiften bringen die Backen in axialer Richtung am Lagerdeckel zur Anlage.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "An adjusting device (Nachstellvorrichtung) holds one pair of ends of the brake shoes together in an articulated manner, while the other ends bear against a retaining bolt (Haltebolzen) mounted in the bearing cover. Tension springs (Zugfedern) fitted on the bearing cover pull the shoes, when the brake is released, towards the centre of the drum and against the retaining bolt. Two further springs with retaining pins bring the shoes to bear axially against the bearing cover.",
+          "runs": [
+            {
+              "text": "An adjusting device (Nachstellvorrichtung) holds one pair of ends of the brake shoes together in an articulated manner, while the other ends bear against a retaining bolt (Haltebolzen) mounted in the bearing cover. Tension springs (Zugfedern) fitted on the bearing cover pull the shoes, when the brake is released, towards the centre of the drum and against the retaining bolt. Two further springs with retaining pins bring the shoes to bear axially against the bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Un dispositivo de reglaje (Nachstellvorrichtung) mantiene unido de forma articulada un par de extremos de las zapatas, mientras que los otros extremos apoyan contra un bulón de retención (Haltebolzen) montado en la tapa de cojinete. Unos muelles de tracción (Zugfedern) dispuestos en la tapa de cojinete tiran de las zapatas, con el freno suelto, hacia el centro del tambor y contra el bulón de retención. Otros dos muelles con pasadores de retención hacen que las zapatas apoyen axialmente contra la tapa de cojinete.",
+          "runs": [
+            {
+              "text": "Un dispositivo de reglaje (Nachstellvorrichtung) mantiene unido de forma articulada un par de extremos de las zapatas, mientras que los otros extremos apoyan contra un bulón de retención (Haltebolzen) montado en la tapa de cojinete. Unos muelles de tracción (Zugfedern) dispuestos en la tapa de cojinete tiran de las zapatas, con el freno suelto, hacia el centro del tambor y contra el bulón de retención. Otros dos muelles con pasadores de retención hacen que las zapatas apoyen axialmente contra la tapa de cojinete.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p022-para15",
+      "text": {
+        "de": {
+          "plain": "Die zentrische Lage des Backensystems zur Bremstrommel wird durch eine Mittenzentrierung eingestellt, das Spiel zwischen …",
+          "runs": [
+            {
+              "text": "Die zentrische Lage des Backensystems zur Bremstrommel wird durch eine Mittenzentrierung eingestellt, das Spiel zwischen …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The centred position of the shoe system relative to the brake drum is set by a central centring device (Mittenzentrierung); the clearance between …",
+          "runs": [
+            {
+              "text": "The centred position of the shoe system relative to the brake drum is set by a central centring device (Mittenzentrierung); the clearance between …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La posición centrada del conjunto de zapatas respecto al tambor de freno se ajusta mediante un centrado central (Mittenzentrierung); la holgura entre …",
+          "runs": [
+            {
+              "text": "La posición centrada del conjunto de zapatas respecto al tambor de freno se ajusta mediante un centrado central (Mittenzentrierung); la holgura entre …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-021",
+    "next": "d65241a-page-023"
+  }
+}

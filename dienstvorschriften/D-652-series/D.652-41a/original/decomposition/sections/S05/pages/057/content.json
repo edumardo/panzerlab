@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-057",
+  "document_id": "d652-41a",
+  "page": 57,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 29,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-057-para01",
+      "text": {
+        "de": {"plain": "ziehen. Triebrad abdrücken. Aus Getriebegehäuse Öl ablassen und Gehäuse abnehmen.", "runs": [{"text": "ziehen. Triebrad abdrücken. Aus Getriebegehäuse Öl ablassen und Gehäuse abnehmen.", "bold": false}]},
+        "en-GB": {"plain": "– Press off the drive sprocket (Triebrad). Drain the oil from the gearbox housing and remove the housing.", "runs": [{"text": "– Press off the drive sprocket (Triebrad). Drain the oil from the gearbox housing and remove the housing.", "bold": false}]},
+        "es-ES": {"plain": "– Expulse la rueda motriz (Triebrad). Vacíe el aceite de la carcasa de la reductora y retire la carcasa.", "runs": [{"text": "– Expulse la rueda motriz (Triebrad). Vacíe el aceite de la carcasa de la reductora y retire la carcasa.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para02",
+      "text": {
+        "de": {"plain": "Hinteren Gehäusedeckel abnehmen (III DB 37), Klemmring aus Deckel herausnehmen und Rollenlageraußenring samt Dichtungsdeckel herausdrücken.", "runs": [{"text": "Hinteren Gehäusedeckel abnehmen (III DB 37), Klemmring aus Deckel herausnehmen und Rollenlageraußenring samt Dichtungsdeckel herausdrücken.", "bold": false}]},
+        "en-GB": {"plain": "Take off the rear housing cover (III DB 37), remove the clamping ring from the cover and press the roller-bearing outer ring together with the sealing cover out.", "runs": [{"text": "Take off the rear housing cover (III DB 37), remove the clamping ring from the cover and press the roller-bearing outer ring together with the sealing cover out.", "bold": false}]},
+        "es-ES": {"plain": "Retire la tapa trasera de la carcasa (III DB 37), quite el anillo de apriete de la tapa y expulse el anillo exterior del cojinete de rodillos junto con la tapa de estanqueidad.", "runs": [{"text": "Retire la tapa trasera de la carcasa (III DB 37), quite el anillo de apriete de la tapa y expulse el anillo exterior del cojinete de rodillos junto con la tapa de estanqueidad.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para03",
+      "text": {
+        "de": {"plain": "Triebwelle", "runs": [{"text": "Triebwelle", "bold": true}]},
+        "en-GB": {"plain": "Triebwelle – Drive shaft", "runs": [{"text": "Triebwelle – Drive shaft", "bold": true}]},
+        "es-ES": {"plain": "Triebwelle – Eje motriz", "runs": [{"text": "Triebwelle – Eje motriz", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para04",
+      "text": {
+        "de": {"plain": "Hintere Verschlußschraube in Triebwelle lösen, Druckring abnehmen und Haltestift herausziehen.", "runs": [{"text": "Hintere Verschlußschraube in Triebwelle lösen, Druckring abnehmen und Haltestift herausziehen.", "bold": false}]},
+        "en-GB": {"plain": "Undo the rear closing screw in the drive shaft, take off the thrust ring and pull out the retaining pin.", "runs": [{"text": "Undo the rear closing screw in the drive shaft, take off the thrust ring and pull out the retaining pin.", "bold": false}]},
+        "es-ES": {"plain": "Suelte el tornillo de cierre trasero del eje motriz, retire el anillo de empuje y extraiga el pasador de retención.", "runs": [{"text": "Suelte el tornillo de cierre trasero del eje motriz, retire el anillo de empuje y extraiga el pasador de retención.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para05",
+      "text": {
+        "de": {"plain": "Bild 29 4a Triebwelle aus Zahnrad herausdrücken (III DB 92/1, 2, 4, 6). Von Triebwelle Rollenlagerring heruntertreiben. Zahnkranz mit Nabe herausnehmen. Vorderen Dichtungsdeckel abschrauben. Rollenlageraußenring und Klemmring herausziehen.", "runs": [{"text": "Bild 29 4a Triebwelle aus Zahnrad herausdrücken (III DB 92/1, 2, 4, 6). Von Triebwelle Rollenlagerring heruntertreiben. Zahnkranz mit Nabe herausnehmen. Vorderen Dichtungsdeckel abschrauben. Rollenlageraußenring und Klemmring herausziehen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 29/4a – Press the drive shaft out of the gear (III DB 92/1, 2, 4, 6). Drive the roller-bearing ring off the drive shaft. Take out the ring gear with hub. Unscrew the front sealing cover. Pull out the roller-bearing outer ring and clamping ring.", "runs": [{"text": "Fig. 29/4a – Press the drive shaft out of the gear (III DB 92/1, 2, 4, 6). Drive the roller-bearing ring off the drive shaft. Take out the ring gear with hub. Unscrew the front sealing cover. Pull out the roller-bearing outer ring and clamping ring.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 29/4a – Expulse el eje motriz del piñón (III DB 92/1, 2, 4, 6). Expulse el anillo del cojinete de rodillos del eje motriz. Extraiga la corona dentada con su cubo. Desatornille la tapa de estanqueidad delantera. Extraiga el anillo exterior del cojinete de rodillos y el anillo de apriete.", "runs": [{"text": "Fig. 29/4a – Expulse el eje motriz del piñón (III DB 92/1, 2, 4, 6). Expulse el anillo del cojinete de rodillos del eje motriz. Extraiga la corona dentada con su cubo. Desatornille la tapa de estanqueidad delantera. Extraiga el anillo exterior del cojinete de rodillos y el anillo de apriete.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para06",
+      "text": {
+        "de": {"plain": "Ritzelwelle", "runs": [{"text": "Ritzelwelle", "bold": true}]},
+        "en-GB": {"plain": "Ritzelwelle – Pinion shaft", "runs": [{"text": "Ritzelwelle – Pinion shaft", "bold": true}]},
+        "es-ES": {"plain": "Ritzelwelle – Eje del piñón", "runs": [{"text": "Ritzelwelle – Eje del piñón", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para07",
+      "text": {
+        "de": {"plain": "Dichtungsdeckel lösen und Abstandring herausnehmen.", "runs": [{"text": "Dichtungsdeckel lösen und Abstandring herausnehmen.", "bold": false}]},
+        "en-GB": {"plain": "Undo the sealing cover and take out the spacer ring.", "runs": [{"text": "Undo the sealing cover and take out the spacer ring.", "bold": false}]},
+        "es-ES": {"plain": "Suelte la tapa de estanqueidad y extraiga el anillo separador.", "runs": [{"text": "Suelte la tapa de estanqueidad y extraiga el anillo separador.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para08",
+      "text": {
+        "de": {"plain": "Bild 29 1 Ritzelwelle mit Rollenlager herausziehen (III DB 88/1, 4, 5, 6, 7).", "runs": [{"text": "Bild 29 1 Ritzelwelle mit Rollenlager herausziehen (III DB 88/1, 4, 5, 6, 7).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 29/1 – Pull out the pinion shaft with roller bearing (III DB 88/1, 4, 5, 6, 7).", "runs": [{"text": "Fig. 29/1 – Pull out the pinion shaft with roller bearing (III DB 88/1, 4, 5, 6, 7).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 29/1 – Extraiga el eje del piñón con el cojinete de rodillos (III DB 88/1, 4, 5, 6, 7).", "runs": [{"text": "Fig. 29/1 – Extraiga el eje del piñón con el cojinete de rodillos (III DB 88/1, 4, 5, 6, 7).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para09",
+      "text": {
+        "de": {"plain": "Bild 29 2 Pendelrollenlager und Innenring des breiten Rollenlagers abziehen (III DB 89/1, 2, 3, 4, 5, 6).", "runs": [{"text": "Bild 29 2 Pendelrollenlager und Innenring des breiten Rollenlagers abziehen (III DB 89/1, 2, 3, 4, 5, 6).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 29/2 – Pull off the self-aligning roller bearing (Pendelrollenlager) and the inner ring of the wide roller bearing (III DB 89/1, 2, 3, 4, 5, 6).", "runs": [{"text": "Fig. 29/2 – Pull off the self-aligning roller bearing (Pendelrollenlager) and the inner ring of the wide roller bearing (III DB 89/1, 2, 3, 4, 5, 6).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 29/2 – Extraiga el rodamiento de rodillos a rótula (Pendelrollenlager) y el anillo interior del cojinete de rodillos ancho (III DB 89/1, 2, 3, 4, 5, 6).", "runs": [{"text": "Fig. 29/2 – Extraiga el rodamiento de rodillos a rótula (Pendelrollenlager) y el anillo interior del cojinete de rodillos ancho (III DB 89/1, 2, 3, 4, 5, 6).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para10",
+      "text": {
+        "de": {"plain": "Einbau", "runs": [{"text": "Einbau", "bold": true}]},
+        "en-GB": {"plain": "Einbau – Installation", "runs": [{"text": "Einbau – Installation", "bold": true}]},
+        "es-ES": {"plain": "Einbau – Montaje", "runs": [{"text": "Einbau – Montaje", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para11",
+      "text": {
+        "de": {"plain": "Äußeres Getriebegehäuse waagerecht legen.", "runs": [{"text": "Äußeres Getriebegehäuse waagerecht legen.", "bold": false}]},
+        "en-GB": {"plain": "Lay the outer gearbox housing horizontally.", "runs": [{"text": "Lay the outer gearbox housing horizontally.", "bold": false}]},
+        "es-ES": {"plain": "Coloque en horizontal la carcasa exterior de la reductora.", "runs": [{"text": "Coloque en horizontal la carcasa exterior de la reductora.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para12",
+      "text": {
+        "de": {"plain": "Auf Ritzelwelle Pendelrollenlager aufziehen und mit Klemmring sichern. Öldichtscheibe auf Rollenlagerseite aufstecken und Rollenlagerinnenring aufziehen (III DB 4, 5).", "runs": [{"text": "Auf Ritzelwelle Pendelrollenlager aufziehen und mit Klemmring sichern. Öldichtscheibe auf Rollenlagerseite aufstecken und Rollenlagerinnenring aufziehen (III DB 4, 5).", "bold": false}]},
+        "en-GB": {"plain": "Fit the self-aligning roller bearing on the pinion shaft and secure with a clamping ring. Fit the oil-seal disc on the roller-bearing side and draw on the roller-bearing inner ring (III DB 4, 5).", "runs": [{"text": "Fit the self-aligning roller bearing on the pinion shaft and secure with a clamping ring. Fit the oil-seal disc on the roller-bearing side and draw on the roller-bearing inner ring (III DB 4, 5).", "bold": false}]},
+        "es-ES": {"plain": "Monte el rodamiento de rodillos a rótula en el eje del piñón y asegúrelo con un anillo de apriete. Monte el disco retén por el lado del cojinete de rodillos y cale el anillo interior del cojinete de rodillos (III DB 4, 5).", "runs": [{"text": "Monte el rodamiento de rodillos a rótula en el eje del piñón y asegúrelo con un anillo de apriete. Monte el disco retén por el lado del cojinete de rodillos y cale el anillo interior del cojinete de rodillos (III DB 4, 5).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para13",
+      "text": {
+        "de": {"plain": "Bild 29 3 Vollständiges Ritzel mit den Lagern in Gehäuse einziehen (III DB 88/1, 2, 3, 7, 8, 9), dabei zur Führung des Pendelrollenlagers die Gabel (III DB 88/8) benutzen.", "runs": [{"text": "Bild 29 3 Vollständiges Ritzel mit den Lagern in Gehäuse einziehen (III DB 88/1, 2, 3, 7, 8, 9), dabei zur Führung des Pendelrollenlagers die Gabel (III DB 88/8) benutzen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 29/3 – Draw the complete pinion with its bearings into the housing (III DB 88/1, 2, 3, 7, 8, 9), using the fork (III DB 88/8) to guide the self-aligning roller bearing.", "runs": [{"text": "Fig. 29/3 – Draw the complete pinion with its bearings into the housing (III DB 88/1, 2, 3, 7, 8, 9), using the fork (III DB 88/8) to guide the self-aligning roller bearing.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 29/3 – Cale el piñón completo con sus cojinetes en la carcasa (III DB 88/1, 2, 3, 7, 8, 9), usando la horquilla (III DB 88/8) para guiar el rodamiento de rodillos a rótula.", "runs": [{"text": "Fig. 29/3 – Cale el piñón completo con sus cojinetes en la carcasa (III DB 88/1, 2, 3, 7, 8, 9), usando la horquilla (III DB 88/8) para guiar el rodamiento de rodillos a rótula.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para14",
+      "text": {
+        "de": {"plain": "Dichtungsdeckel nebst Dichtring und Blechkappe anschrauben, vorher Stoßfläche mit Dichtungsmasse bestreichen. Schrauben mit Draht sichern.", "runs": [{"text": "Dichtungsdeckel nebst Dichtring und Blechkappe anschrauben, vorher Stoßfläche mit Dichtungsmasse bestreichen. Schrauben mit Draht sichern.", "bold": false}]},
+        "en-GB": {"plain": "Screw on the sealing cover together with sealing ring and sheet cap; beforehand coat the mating face with jointing compound. Secure the screws with wire.", "runs": [{"text": "Screw on the sealing cover together with sealing ring and sheet cap; beforehand coat the mating face with jointing compound. Secure the screws with wire.", "bold": false}]},
+        "es-ES": {"plain": "Atornille la tapa de estanqueidad junto con su retén y su tapa de chapa; antes, unte la superficie de contacto con pasta de junta. Asegure los tornillos con alambre.", "runs": [{"text": "Atornille la tapa de estanqueidad junto con su retén y su tapa de chapa; antes, unte la superficie de contacto con pasta de junta. Asegure los tornillos con alambre.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para15",
+      "text": {
+        "de": {"plain": "Zahnkranz mit Nabe verschrauben. Schrauben, auch die zwei Bundschrauben, die sich gegenüberstehen müssen, von der kurzen Nabenseite her einziehen. Vollständigen Zahnkranz in Gehäuse einbringen.", "runs": [{"text": "Zahnkranz mit Nabe verschrauben. Schrauben, auch die zwei Bundschrauben, die sich gegenüberstehen müssen, von der kurzen Nabenseite her einziehen. Vollständigen Zahnkranz in Gehäuse einbringen.", "bold": false}]},
+        "en-GB": {"plain": "Bolt the ring gear and hub together. The screws – including the two collar screws, which must be opposite each other – are drawn in from the short hub side. Bring the complete ring gear into the housing.", "runs": [{"text": "Bolt the ring gear and hub together. The screws – including the two collar screws, which must be opposite each other – are drawn in from the short hub side. Bring the complete ring gear into the housing.", "bold": false}]},
+        "es-ES": {"plain": "Atornille entre sí la corona dentada y el cubo. Los tornillos –incluidos los dos tornillos de collar, que deben quedar enfrentados– se introducen desde el lado del cubo corto. Lleve la corona dentada completa a la carcasa.", "runs": [{"text": "Atornille entre sí la corona dentada y el cubo. Los tornillos –incluidos los dos tornillos de collar, que deben quedar enfrentados– se introducen desde el lado del cubo corto. Lleve la corona dentada completa a la carcasa.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-057-para16",
+      "text": {
+        "de": {"plain": "In vorderes Halslager Klemmring einsetzen und Rollenlageraußenring zusammen mit innerem Schulterring einziehen. Dichtungsdeckel (Labyrinth) mit Dichtring anschrauben, vorher Stoßfläche mit Dichtungsmasse bestreichen. Schrauben mit Draht sichern. Labyrinth mit Fett füllen.", "runs": [{"text": "In vorderes Halslager Klemmring einsetzen und Rollenlageraußenring zusammen mit innerem Schulterring einziehen. Dichtungsdeckel (Labyrinth) mit Dichtring anschrauben, vorher Stoßfläche mit Dichtungsmasse bestreichen. Schrauben mit Draht sichern. Labyrinth mit Fett füllen.", "bold": false}]},
+        "en-GB": {"plain": "Insert the clamping ring into the front neck bearing and draw in the roller-bearing outer ring together with the inner shoulder ring. Screw on the sealing cover (labyrinth) with sealing ring; beforehand coat the mating face with jointing compound. Secure the screws with wire. Fill the labyrinth with grease.", "runs": [{"text": "Insert the clamping ring into the front neck bearing and draw in the roller-bearing outer ring together with the inner shoulder ring. Screw on the sealing cover (labyrinth) with sealing ring; beforehand coat the mating face with jointing compound. Secure the screws with wire. Fill the labyrinth with grease.", "bold": false}]},
+        "es-ES": {"plain": "Introduzca el anillo de apriete en el cojinete del cuello delantero y cale el anillo exterior del cojinete de rodillos junto con el anillo de resalte interior. Atornille la tapa de estanqueidad (laberinto) con su retén; antes, unte la superficie de contacto con pasta de junta. Asegure los tornillos con alambre. Rellene el laberinto de grasa.", "runs": [{"text": "Introduzca el anillo de apriete en el cojinete del cuello delantero y cale el anillo exterior del cojinete de rodillos junto con el anillo de resalte interior. Atornille la tapa de estanqueidad (laberinto) con su retén; antes, unte la superficie de contacto con pasta de junta. Asegure los tornillos con alambre. Rellene el laberinto de grasa.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-056",
+    "next": "d65241a-page-058"
+  }
+}

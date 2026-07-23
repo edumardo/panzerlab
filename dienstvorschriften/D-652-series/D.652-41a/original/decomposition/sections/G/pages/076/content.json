@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-076",
+  "document_id": "d652-41a",
+  "page": 76,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 3  Kühlanlage",
+    "en-GB": "Fig. 3  Cooling system",
+    "es-ES": "Fig. 3  Sistema de refrigeración"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 40,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild003",
+      "number": 3,
+      "captions": {
+        "de": {
+          "plain": "Bild 3  Kühlanlage",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 3  Cooling system",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 3  Sistema de refrigeración",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Einfüllstutzen\nRechter Kühler\nAusgleichrohr\nWasseraustritt aus Motor\nÜberlaufrohr\nÜberdruck-Ventil\nLinker Kühler\nWasserpumpe des Motors\nÖlkühler des Motors\nWassereintritt in Ölkühler\nWassereintritt in Motor\nWasseraustritt aus Ölkühler\nAblaßstutzen",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "filler neck (Einfüllstutzen)\nright radiator (Rechter Kühler)\nexpansion pipe (Ausgleichrohr)\nwater outlet from engine (Wasseraustritt aus Motor)\noverflow pipe (Überlaufrohr)\npressure-relief valve (Überdruck-Ventil)\nleft radiator (Linker Kühler)\nengine water pump (Wasserpumpe des Motors)\nengine oil cooler (Ölkühler des Motors)\nwater inlet to oil cooler (Wassereintritt in Ölkühler)\nwater inlet to engine (Wassereintritt in Motor)\nwater outlet from oil cooler (Wasseraustritt aus Ölkühler)\ndrain spigot (Ablaßstutzen)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "boca de llenado (Einfüllstutzen)\nradiador derecho (Rechter Kühler)\ntubo de compensación (Ausgleichrohr)\nsalida de agua del motor (Wasseraustritt aus Motor)\ntubo de rebose (Überlaufrohr)\nválvula de sobrepresión (Überdruck-Ventil)\nradiador izquierdo (Linker Kühler)\nbomba de agua del motor (Wasserpumpe des Motors)\nradiador de aceite del motor (Ölkühler des Motors)\nentrada de agua al radiador de aceite (Wassereintritt in Ölkühler)\nentrada de agua al motor (Wassereintritt in Motor)\nsalida de agua del radiador de aceite (Wasseraustritt aus Ölkühler)\ntubuladura de vaciado (Ablaßstutzen)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-075",
+    "next": "d65241a-page-077"
+  }
+}

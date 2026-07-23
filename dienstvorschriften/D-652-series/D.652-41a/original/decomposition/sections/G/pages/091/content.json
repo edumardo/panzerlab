@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-091",
+  "document_id": "d652-41a",
+  "page": 91,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 20  Schaltplan",
+    "en-GB": "Fig. 20  Wiring diagram",
+    "es-ES": "Fig. 20  Esquema eléctrico"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 55,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild020",
+      "number": 20,
+      "captions": {
+        "de": {
+          "plain": "Bild 20  Schaltplan",
+          "runs": [
+            { "text": "Bild 20  Schaltplan", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 20  Wiring diagram",
+          "runs": [
+            { "text": "Fig. 20  Wiring diagram", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 20  Esquema eléctrico",
+          "runs": [
+            { "text": "Fig. 20  Esquema eléctrico", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Legende: – – – entstörte Leitungen doppelt umsponnen\n(Die hier noch aufgeführten Scheinwerfer sind weggefallen)\nRelais 24 Volt\nLichtmaschine 12 Volt\n12 Volt (Sammler, 2x)\nrechts\nlinks\nHinweis: Die Leitungskennzeichen (Drahtnummern) sind wie im Original abgedruckt und wurden — gemäß redaktioneller Entscheidung — nicht einzeln transkribiert oder übersetzt.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Key: – – – suppressed lines, double-braided (entstörte Leitungen doppelt umsponnen)\n(Note: the headlamps still shown here have since been discontinued — Die hier noch aufgeführten Scheinwerfer sind weggefallen)\nrelay, 24 V (Relais 24 Volt)\ndynamo, 12 V (Lichtmaschine 12 Volt)\nbattery, 12 V, x2 (12 Volt, Sammler)\nright (rechts)\nleft (links)\nNote: the wire codes (Leitungskennzeichen) are given exactly as printed — by editorial decision they were not individually transcribed or translated.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Leyenda: – – – líneas antiparasitarias con doble trenzado (entstörte Leitungen doppelt umsponnen)\n(Nota: los faros que aquí todavía figuran han sido suprimidos — Die hier noch aufgeführten Scheinwerfer sind weggefallen)\nrelé, 24 V (Relais 24 Volt)\ndinamo, 12 V (Lichtmaschine 12 Volt)\nbatería, 12 V, 2 unidades (12 Volt, Sammler)\nderecha (rechts)\nizquierda (links)\nNota: los códigos de los conductores (Leitungskennzeichen) se reproducen tal como aparecen impresos — por decisión editorial no se transcribieron ni tradujeron individualmente.",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-090",
+    "next": "d65241a-page-092"
+  }
+}

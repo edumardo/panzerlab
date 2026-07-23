@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-080",
+  "document_id": "d652-41a",
+  "page": 80,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 8  Lenkgetriebe",
+    "en-GB": "Fig. 8  Steering gear",
+    "es-ES": "Fig. 8  Mecanismo de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 44,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild008",
+      "number": 8,
+      "captions": {
+        "de": {
+          "plain": "Bild 8  Lenkgetriebe",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 8  Steering gear",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 8  Mecanismo de dirección",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Seitenwelle\nVorgelegezahnrad Nr. 7\nMittenhohlrad Nr. 2\nUmlaufradträger Nr. 4\nKegelrad\nUmlaufrad Nr. 3\nMittenvollrad Nr. 5\nNr. 1\nSeitenwelle\nStützbremse\nEinstellmuttern für Kegeltrieb\nNr. 6",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "side (final-drive) shaft (Seitenwelle)\nlayshaft gear No. 7 (Vorgelegezahnrad Nr. 7)\ncentral ring gear No. 2 (Mittenhohlrad Nr. 2)\nplanet carrier No. 4 (Umlaufradträger Nr. 4)\nbevel gear (Kegelrad)\nplanet gear No. 3 (Umlaufrad Nr. 3)\ncentral sun gear No. 5 (Mittenvollrad Nr. 5)\nNo. 1 — bevel-gear shaft (Kegelradwelle) (Nr. 1)\nside (final-drive) shaft (Seitenwelle)\nsupport brake (Stützbremse)\nadjusting nuts for the bevel drive (Einstellmuttern für Kegeltrieb)\nNo. 6 — support-brake drum, on the extended shaft of the central sun gear (Nr. 6)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "semieje (Seitenwelle)\nengranaje del eje intermedio n.º 7 (Vorgelegezahnrad Nr. 7)\ncorona central n.º 2 (Mittenhohlrad Nr. 2)\nportaplanetas n.º 4 (Umlaufradträger Nr. 4)\npiñón cónico (Kegelrad)\nengranaje planetario n.º 3 (Umlaufrad Nr. 3)\nplaneta central n.º 5 (Mittenvollrad Nr. 5)\nn.º 1 — eje del piñón cónico (Kegelradwelle) (Nr. 1)\nsemieje (Seitenwelle)\nfreno de apoyo (Stützbremse)\ntuercas de ajuste del par cónico (Einstellmuttern für Kegeltrieb)\nn.º 6 — tambor del freno de apoyo, en el eje prolongado del planeta central (Nr. 6)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-079",
+    "next": "d65241a-page-081"
+  }
+}

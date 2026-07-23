@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-045",
+  "document_id": "d652-41a",
+  "page": 45,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "b) Wechselgetriebe, Bild 7 (Sonderwerkzeug III DB 83)",
+    "en-GB": "b) Gearbox, Figure 7 (special tool III DB 83)",
+    "es-ES": "b) Caja de cambios, figura 7 (herramienta especial III DB 83)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 23,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p045-para01",
+      "text": {
+        "de": {
+          "plain": "Einstellmutter liegt dann am Gewindeauslauf an. Die Kupplungsbeläge sind abgenutzt.",
+          "runs": [
+            {
+              "text": "Einstellmutter liegt dann am Gewindeauslauf an. Die Kupplungsbeläge sind abgenutzt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… adjusting nut then lies against the thread run-out. The clutch linings are worn.",
+          "runs": [
+            {
+              "text": "… adjusting nut then lies against the thread run-out. The clutch linings are worn.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… tuerca de ajuste queda entonces apoyada contra el final de la rosca. Los forros del embrague están gastados.",
+          "runs": [
+            {
+              "text": "… tuerca de ajuste queda entonces apoyada contra el final de la rosca. Los forros del embrague están gastados.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para02",
+      "text": {
+        "de": {
+          "plain": "Auseinandernehmen des Wechselgetriebes:",
+          "runs": [
+            {
+              "text": "Auseinandernehmen des Wechselgetriebes:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Dismantling the gearbox:",
+          "runs": [
+            {
+              "text": "Dismantling the gearbox:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Despiece de la caja de cambios:",
+          "runs": [
+            {
+              "text": "Despiece de la caja de cambios:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para03",
+      "text": {
+        "de": {
+          "plain": "1.) Abnehmen der Gelenkwelle und des Kegeltriebes vom Wechselgetriebe.",
+          "runs": [
+            {
+              "text": "1.) Abnehmen der Gelenkwelle und des Kegeltriebes vom Wechselgetriebe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1.) Remove the cardan shaft and the bevel drive from the gearbox.",
+          "runs": [
+            {
+              "text": "1.) Remove the cardan shaft and the bevel drive from the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1.º) Retire el árbol de transmisión y el par cónico de la caja de cambios.",
+          "runs": [
+            {
+              "text": "1.º) Retire el árbol de transmisión y el par cónico de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para04",
+      "text": {
+        "de": {
+          "plain": "2.) Ausbau des Schalthebels mit Schalthebelwelle. Hierzu muß die Schalthebelführung gelöst werden. Danach wird das Lagerrohr in Richtung der Schaltseite herausgezogen.",
+          "runs": [
+            {
+              "text": "2.) Ausbau des Schalthebels mit Schalthebelwelle. Hierzu muß die Schalthebelführung gelöst werden. Danach wird das Lagerrohr in Richtung der Schaltseite herausgezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2.) Remove the gear lever with its shaft. To do this, undo the shift gate; then pull the bearing tube out towards the shift side.",
+          "runs": [
+            {
+              "text": "2.) Remove the gear lever with its shaft. To do this, undo the shift gate; then pull the bearing tube out towards the shift side.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2.º) Retire la palanca de cambios con su eje. Para ello, suelte la guía de cambios; extraiga después el tubo de cojinete hacia el lado del cambio.",
+          "runs": [
+            {
+              "text": "2.º) Retire la palanca de cambios con su eje. Para ello, suelte la guía de cambios; extraiga después el tubo de cojinete hacia el lado del cambio.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para05",
+      "text": {
+        "de": {
+          "plain": "3.) Abziehen der Hebel des Schaltgestänges. Die Wellenenden sind kerbverzahnt, und es muß daher für das Abziehen der Schalthebel vom 1.—6. Gang eine Abziehvorrichtung verwendet werden. Der Hebel des Rückwärtsganges braucht nicht abgezogen zu werden. Die Hebel sind für die zugehörigen Gänge gezeichnet.",
+          "runs": [
+            {
+              "text": "3.) Abziehen der Hebel des Schaltgestänges. Die Wellenenden sind kerbverzahnt, und es muß daher für das Abziehen der Schalthebel vom 1.—6. Gang eine Abziehvorrichtung verwendet werden. Der Hebel des Rückwärtsganges braucht nicht abgezogen zu werden. Die Hebel sind für die zugehörigen Gänge gezeichnet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3.) Pull off the levers of the shift linkage. The shaft ends are serrated, so an extractor must be used to pull the levers for 1st–6th gear. The reverse-gear lever need not be pulled off. The levers are marked for their respective gears.",
+          "runs": [
+            {
+              "text": "3.) Pull off the levers of the shift linkage. The shaft ends are serrated, so an extractor must be used to pull the levers for 1st–6th gear. The reverse-gear lever need not be pulled off. The levers are marked for their respective gears.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3.º) Extraiga las palancas del varillaje de cambio. Los extremos del eje son estriados, por lo que hay que usar un extractor para las palancas de 1.ª–6.ª. La palanca de la marcha atrás no necesita extraerse. Las palancas van marcadas para su respectiva marcha.",
+          "runs": [
+            {
+              "text": "3.º) Extraiga las palancas del varillaje de cambio. Los extremos del eje son estriados, por lo que hay que usar un extractor para las palancas de 1.ª–6.ª. La palanca de la marcha atrás no necesita extraerse. Las palancas van marcadas para su respectiva marcha.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para06",
+      "text": {
+        "de": {
+          "plain": "4.) Öffnen des Wechselgetriebes. Dazu wird das Wechselgetriebe mit der Schaltseite nach oben umgelegt und sämtliche Gehäuseschrauben gelöst. Die obere Gehäusehälfte wird nun vorsichtig und gleichmäßig abgehoben. Dabei ist darauf zu achten, daß die Schaltgabelwellen nicht in der oberen Gehäusehälfte hängenbleiben.",
+          "runs": [
+            {
+              "text": "4.) Öffnen des Wechselgetriebes. Dazu wird das Wechselgetriebe mit der Schaltseite nach oben umgelegt und sämtliche Gehäuseschrauben gelöst. Die obere Gehäusehälfte wird nun vorsichtig und gleichmäßig abgehoben. Dabei ist darauf zu achten, daß die Schaltgabelwellen nicht in der oberen Gehäusehälfte hängenbleiben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4.) Open the gearbox. Lay it with the shift side up and undo all housing screws. Lift the upper housing half off carefully and evenly; ensure the selector-fork shafts do not remain hanging in the upper half.",
+          "runs": [
+            {
+              "text": "4.) Open the gearbox. Lay it with the shift side up and undo all housing screws. Lift the upper housing half off carefully and evenly; ensure the selector-fork shafts do not remain hanging in the upper half.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4.º) Abra la caja. Colóquela con el lado del cambio hacia arriba y suelte todos los tornillos de la carcasa. Levante la mitad superior con cuidado y de forma uniforme; procure que los ejes de las horquillas de mando no queden colgando en la mitad superior.",
+          "runs": [
+            {
+              "text": "4.º) Abra la caja. Colóquela con el lado del cambio hacia arriba y suelte todos los tornillos de la carcasa. Levante la mitad superior con cuidado y de forma uniforme; procure que los ejes de las horquillas de mando no queden colgando en la mitad superior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para07",
+      "text": {
+        "de": {
+          "plain": "5.) Ausbau der Haupt- und Vorgelegewelle. Die Wellen werden mit sämtlichen daraufbefindlichen Rädern und Lagern sowie mit den Schaltgabeln nacheinander aus der unteren Gehäusehälfte herausgehoben. Die Räder und Lager sind vor Verschmutzen und Feuchtigkeit zu schützen.",
+          "runs": [
+            {
+              "text": "5.) Ausbau der Haupt- und Vorgelegewelle. Die Wellen werden mit sämtlichen daraufbefindlichen Rädern und Lagern sowie mit den Schaltgabeln nacheinander aus der unteren Gehäusehälfte herausgehoben. Die Räder und Lager sind vor Verschmutzen und Feuchtigkeit zu schützen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5.) Remove the main shaft and layshaft. Lift the shafts, with all their wheels and bearings and the selector forks, one after another out of the lower housing half. Protect the wheels and bearings from dirt and moisture.",
+          "runs": [
+            {
+              "text": "5.) Remove the main shaft and layshaft. Lift the shafts, with all their wheels and bearings and the selector forks, one after another out of the lower housing half. Protect the wheels and bearings from dirt and moisture.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5.º) Retire el eje principal y el eje intermedio (contramarcha). Levante los ejes, con todas sus ruedas y cojinetes y las horquillas de mando, uno tras otro fuera de la mitad inferior. Proteja las ruedas y cojinetes de la suciedad y la humedad.",
+          "runs": [
+            {
+              "text": "5.º) Retire el eje principal y el eje intermedio (contramarcha). Levante los ejes, con todas sus ruedas y cojinetes y las horquillas de mando, uno tras otro fuera de la mitad inferior. Proteja las ruedas y cojinetes de la suciedad y la humedad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para08",
+      "text": {
+        "de": {
+          "plain": "6.) Auseinandernehmen der Wellensätze. Die Räder, Schiebehülsen und Gleichlaufvorrichtung sind auf den mit Keilprofilen versehenen Wellen aufgefädelt und werden sinngemäß nacheinander abgezogen.",
+          "runs": [
+            {
+              "text": "6.) Auseinandernehmen der Wellensätze. Die Räder, Schiebehülsen und Gleichlaufvorrichtung sind auf den mit Keilprofilen versehenen Wellen aufgefädelt und werden sinngemäß nacheinander abgezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6.) Dismantle the shaft assemblies. The wheels, sliding sleeves and synchromesh device are threaded onto the splined shafts and are pulled off one after another accordingly.",
+          "runs": [
+            {
+              "text": "6.) Dismantle the shaft assemblies. The wheels, sliding sleeves and synchromesh device are threaded onto the splined shafts and are pulled off one after another accordingly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6.º) Despiece los conjuntos de eje. Las ruedas, los manguitos deslizantes y el dispositivo de sincronización van ensartados en los ejes estriados y se extraen en consecuencia uno tras otro.",
+          "runs": [
+            {
+              "text": "6.º) Despiece los conjuntos de eje. Las ruedas, los manguitos deslizantes y el dispositivo de sincronización van ensartados en los ejes estriados y se extraen en consecuencia uno tras otro.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para09",
+      "text": {
+        "de": {
+          "plain": "Das Kegelrad wird mit Vorrichtung DB 83 abgezogen.",
+          "runs": [
+            {
+              "text": "Das Kegelrad wird mit Vorrichtung DB 83 abgezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The bevel gear (Kegelrad) is pulled off with tool DB 83.",
+          "runs": [
+            {
+              "text": "The bevel gear (Kegelrad) is pulled off with tool DB 83.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El piñón cónico (Kegelrad) se extrae con la herramienta DB 83.",
+          "runs": [
+            {
+              "text": "El piñón cónico (Kegelrad) se extrae con la herramienta DB 83.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para10",
+      "text": {
+        "de": {
+          "plain": "Zusammenbau des Wechselgetriebes:",
+          "runs": [
+            {
+              "text": "Zusammenbau des Wechselgetriebes:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Reassembly of the gearbox:",
+          "runs": [
+            {
+              "text": "Reassembly of the gearbox:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montaje de la caja de cambios:",
+          "runs": [
+            {
+              "text": "Montaje de la caja de cambios:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p045-para11",
+      "text": {
+        "de": {
+          "plain": "1.) Zusammenbau der beiden Wellensätze. Zum Einstellen der Gleichlaufkupplungen werden die zugehörigen Räder, Schiebehülsen und Gleichlaufkeile mit der Welle eingelegt und die Schaltwege gemessen. Zwischen Gleichlaufkeil und dem Gleichlaufscheibenpaket sind in Mittelstellung …",
+          "runs": [
+            {
+              "text": "1.) Zusammenbau der beiden Wellensätze. Zum Einstellen der Gleichlaufkupplungen werden die zugehörigen Räder, Schiebehülsen und Gleichlaufkeile mit der Welle eingelegt und die Schaltwege gemessen. Zwischen Gleichlaufkeil und dem Gleichlaufscheibenpaket sind in Mittelstellung …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1.) Assemble the two shaft sets. To set the synchromesh clutches, put the associated wheels, sliding sleeves and synchromesh keys on the shaft and measure the shift travels. Between the synchromesh key and the synchromesh disc pack, in the middle position …",
+          "runs": [
+            {
+              "text": "1.) Assemble the two shaft sets. To set the synchromesh clutches, put the associated wheels, sliding sleeves and synchromesh keys on the shaft and measure the shift travels. Between the synchromesh key and the synchromesh disc pack, in the middle position …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1.º) Arme los dos conjuntos de eje. Para ajustar los embragues de sincronización, coloque en el eje las ruedas, manguitos deslizantes y chavetas de sincronización correspondientes y mida las carreras de cambio. Entre la chaveta de sincronización y el paquete de discos de sincronización, en la posición central …",
+          "runs": [
+            {
+              "text": "1.º) Arme los dos conjuntos de eje. Para ajustar los embragues de sincronización, coloque en el eje las ruedas, manguitos deslizantes y chavetas de sincronización correspondientes y mida las carreras de cambio. Entre la chaveta de sincronización y el paquete de discos de sincronización, en la posición central …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-044",
+    "next": "d65241a-page-046"
+  }
+}

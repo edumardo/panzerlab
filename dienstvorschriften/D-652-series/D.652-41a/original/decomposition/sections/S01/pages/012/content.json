@@ -1,0 +1,832 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-012",
+  "document_id": "d652-41a",
+  "page": 12,
+  "section": "S01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 7,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p012-para01",
+      "text": {
+        "de": {
+          "plain": "Zum Bedienen von Maschinenteilen sind folgende Deckel bzw. Klappen vorgesehen:",
+          "runs": [
+            {
+              "text": "Zum Bedienen von Maschinenteilen sind folgende Deckel bzw. Klappen vorgesehen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The following covers and hatches (Deckel bzw. Klappen) are provided for servicing machinery components:",
+          "runs": [
+            {
+              "text": "The following covers and hatches (Deckel bzw. Klappen) are provided for servicing machinery components:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para el servicio de los componentes mecánicos se disponen las siguientes tapas y trampillas (Deckel bzw. Klappen):",
+          "runs": [
+            {
+              "text": "Para el servicio de los componentes mecánicos se disponen las siguientes tapas y trampillas (Deckel bzw. Klappen):",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para02",
+      "text": {
+        "de": {
+          "plain": "a) im Bugpanzer: zwei einteilige Bedienungsklappen",
+          "runs": [
+            {
+              "text": "a) im Bugpanzer: zwei einteilige Bedienungsklappen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) In the bow armour (Bugpanzer): two one-piece service hatches (Bedienungsklappen).",
+          "runs": [
+            {
+              "text": "a) In the bow armour (Bugpanzer): two one-piece service hatches (Bedienungsklappen).",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) En el blindaje de proa (Bugpanzer): dos trampillas de servicio de una pieza (Bedienungsklappen).",
+          "runs": [
+            {
+              "text": "a) En el blindaje de proa (Bugpanzer): dos trampillas de servicio de una pieza (Bedienungsklappen).",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para03",
+      "text": {
+        "de": {
+          "plain": "b) im Heck:",
+          "runs": [
+            {
+              "text": "b) im Heck:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) In the rear (Heck):",
+          "runs": [
+            {
+              "text": "b) In the rear (Heck):",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) En la popa (Heck):",
+          "runs": [
+            {
+              "text": "b) En la popa (Heck):",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para04",
+      "text": {
+        "de": {
+          "plain": "1 Klappe für die Andrehkurbel zum Schwungkraftanlasser des Motors",
+          "runs": [
+            {
+              "text": "1 Klappe für die Andrehkurbel zum Schwungkraftanlasser des Motors",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 hatch for the hand crank (Andrehkurbel) of the engine's inertia starter (Schwungkraftanlasser);",
+          "runs": [
+            {
+              "text": "1 hatch for the hand crank (Andrehkurbel) of the engine's inertia starter (Schwungkraftanlasser);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 trampilla para la manivela de arranque (Andrehkurbel) del arrancador de inercia del motor (Schwungkraftanlasser);",
+          "runs": [
+            {
+              "text": "1 trampilla para la manivela de arranque (Andrehkurbel) del arrancador de inercia del motor (Schwungkraftanlasser);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para05",
+      "text": {
+        "de": {
+          "plain": "1 abschraubbare Kappe zum Bedienen der Nachstellung der Lüfterantriebsscheibe",
+          "runs": [
+            {
+              "text": "1 abschraubbare Kappe zum Bedienen der Nachstellung der Lüfterantriebsscheibe",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 unscrewable cap for adjusting the fan-drive pulley (Lüfterantriebsscheibe);",
+          "runs": [
+            {
+              "text": "1 unscrewable cap for adjusting the fan-drive pulley (Lüfterantriebsscheibe);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tapón desenroscable para ajustar la polea de accionamiento del ventilador (Lüfterantriebsscheibe);",
+          "runs": [
+            {
+              "text": "1 tapón desenroscable para ajustar la polea de accionamiento del ventilador (Lüfterantriebsscheibe);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para06",
+      "text": {
+        "de": {
+          "plain": "1 abschraubbarer Deckel zum Abschmieren der Gelenkwelle des Lüfterantriebes",
+          "runs": [
+            {
+              "text": "1 abschraubbarer Deckel zum Abschmieren der Gelenkwelle des Lüfterantriebes",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 unscrewable cover for greasing the cardan shaft of the fan drive (Lüfterantrieb).",
+          "runs": [
+            {
+              "text": "1 unscrewable cover for greasing the cardan shaft of the fan drive (Lüfterantrieb).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tapa desenroscable para engrasar el árbol de transmisión del accionamiento del ventilador (Lüfterantrieb).",
+          "runs": [
+            {
+              "text": "1 tapa desenroscable para engrasar el árbol de transmisión del accionamiento del ventilador (Lüfterantrieb).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para07",
+      "text": {
+        "de": {
+          "plain": "c) im Boden:",
+          "runs": [
+            {
+              "text": "c) im Boden:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) In the floor (Boden):",
+          "runs": [
+            {
+              "text": "c) In the floor (Boden):",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) En el piso (Boden):",
+          "runs": [
+            {
+              "text": "c) En el piso (Boden):",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para08",
+      "text": {
+        "de": {
+          "plain": "1.) zum Ablassen von Wasser:",
+          "runs": [
+            {
+              "text": "1.) zum Ablassen von Wasser:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1.) For draining water:",
+          "runs": [
+            {
+              "text": "1.) For draining water:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1.º) Para vaciar agua:",
+          "runs": [
+            {
+              "text": "1.º) Para vaciar agua:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para09",
+      "text": {
+        "de": {
+          "plain": "1 Ablaßventil im Kampfraum",
+          "runs": [
+            {
+              "text": "1 Ablaßventil im Kampfraum",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 drain valve (Ablaßventil) in the fighting compartment;",
+          "runs": [
+            {
+              "text": "1 drain valve (Ablaßventil) in the fighting compartment;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 válvula de vaciado (Ablaßventil) en el compartimento de combate;",
+          "runs": [
+            {
+              "text": "1 válvula de vaciado (Ablaßventil) en el compartimento de combate;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para10",
+      "text": {
+        "de": {
+          "plain": "1 Ablaßventil im Motorraum",
+          "runs": [
+            {
+              "text": "1 Ablaßventil im Motorraum",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 drain valve in the engine compartment;",
+          "runs": [
+            {
+              "text": "1 drain valve in the engine compartment;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 válvula de vaciado en el compartimento del motor;",
+          "runs": [
+            {
+              "text": "1 válvula de vaciado en el compartimento del motor;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para11",
+      "text": {
+        "de": {
+          "plain": "1 abschraubbarer Deckel für Wasserablaß der Kühlanlage",
+          "runs": [
+            {
+              "text": "1 abschraubbarer Deckel für Wasserablaß der Kühlanlage",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 unscrewable cover for draining water from the cooling system (Kühlanlage).",
+          "runs": [
+            {
+              "text": "1 unscrewable cover for draining water from the cooling system (Kühlanlage).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tapa desenroscable para vaciar el agua del sistema de refrigeración (Kühlanlage).",
+          "runs": [
+            {
+              "text": "1 tapa desenroscable para vaciar el agua del sistema de refrigeración (Kühlanlage).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para12",
+      "text": {
+        "de": {
+          "plain": "2.) zum Ablassen von Öl:",
+          "runs": [
+            {
+              "text": "2.) zum Ablassen von Öl:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2.) For draining oil:",
+          "runs": [
+            {
+              "text": "2.) For draining oil:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2.º) Para vaciar aceite:",
+          "runs": [
+            {
+              "text": "2.º) Para vaciar aceite:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para13",
+      "text": {
+        "de": {
+          "plain": "2 abschraubbare Deckel unter dem Lenkgetriebe",
+          "runs": [
+            {
+              "text": "2 abschraubbare Deckel unter dem Lenkgetriebe",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 unscrewable covers under the steering gears (Lenkgetriebe);",
+          "runs": [
+            {
+              "text": "2 unscrewable covers under the steering gears (Lenkgetriebe);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 tapas desenroscables bajo los mecanismos de dirección (Lenkgetriebe);",
+          "runs": [
+            {
+              "text": "2 tapas desenroscables bajo los mecanismos de dirección (Lenkgetriebe);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para14",
+      "text": {
+        "de": {
+          "plain": "1 abschraubbarer Deckel unter dem Wechselgetriebe",
+          "runs": [
+            {
+              "text": "1 abschraubbarer Deckel unter dem Wechselgetriebe",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 unscrewable cover under the gearbox (Wechselgetriebe);",
+          "runs": [
+            {
+              "text": "1 unscrewable cover under the gearbox (Wechselgetriebe);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tapa desenroscable bajo la caja de cambios (Wechselgetriebe);",
+          "runs": [
+            {
+              "text": "1 tapa desenroscable bajo la caja de cambios (Wechselgetriebe);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para15",
+      "text": {
+        "de": {
+          "plain": "1 abschraubbarer Deckel unter dem Motor",
+          "runs": [
+            {
+              "text": "1 abschraubbarer Deckel unter dem Motor",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 unscrewable cover under the engine.",
+          "runs": [
+            {
+              "text": "1 unscrewable cover under the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tapa desenroscable bajo el motor.",
+          "runs": [
+            {
+              "text": "1 tapa desenroscable bajo el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para16",
+      "text": {
+        "de": {
+          "plain": "3.) zum Ablassen von Kraftstoff:",
+          "runs": [
+            {
+              "text": "3.) zum Ablassen von Kraftstoff:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3.) For draining fuel:",
+          "runs": [
+            {
+              "text": "3.) For draining fuel:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3.º) Para vaciar combustible:",
+          "runs": [
+            {
+              "text": "3.º) Para vaciar combustible:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para17",
+      "text": {
+        "de": {
+          "plain": "1 abschraubbarer Deckel unter dem Kraftstoffbehälter",
+          "runs": [
+            {
+              "text": "1 abschraubbarer Deckel unter dem Kraftstoffbehälter",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 unscrewable cover under the fuel tank (Kraftstoffbehälter);",
+          "runs": [
+            {
+              "text": "1 unscrewable cover under the fuel tank (Kraftstoffbehälter);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tapa desenroscable bajo el depósito de combustible (Kraftstoffbehälter);",
+          "runs": [
+            {
+              "text": "1 tapa desenroscable bajo el depósito de combustible (Kraftstoffbehälter);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para18",
+      "text": {
+        "de": {
+          "plain": "1 Hahn zum Ablassen von Kraftstoff aus der Panzerwanne",
+          "runs": [
+            {
+              "text": "1 Hahn zum Ablassen von Kraftstoff aus der Panzerwanne",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 cock (Hahn) for draining fuel from the hull.",
+          "runs": [
+            {
+              "text": "1 cock (Hahn) for draining fuel from the hull.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 grifo (Hahn) para vaciar el combustible del casco.",
+          "runs": [
+            {
+              "text": "1 grifo (Hahn) para vaciar el combustible del casco.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para19",
+      "text": {
+        "de": {
+          "plain": "d) Außerdem: an der Trennwand zwischen Motor- und Kampfraum ein abschraubbarer Deckel.",
+          "runs": [
+            {
+              "text": "d) Außerdem: an der Trennwand zwischen Motor- und Kampfraum ein abschraubbarer Deckel.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) In addition (Außerdem): an unscrewable cover on the partition wall (Trennwand) between the engine and fighting compartments.",
+          "runs": [
+            {
+              "text": "d) In addition (Außerdem): an unscrewable cover on the partition wall (Trennwand) between the engine and fighting compartments.",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Además (Außerdem): una tapa desenroscable en el mamparo de separación (Trennwand) entre el compartimento del motor y el de combate.",
+          "runs": [
+            {
+              "text": "d) Además (Außerdem): una tapa desenroscable en el mamparo de separación (Trennwand) entre el compartimento del motor y el de combate.",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para20",
+      "text": {
+        "de": {
+          "plain": "An der Panzerwanne befinden sich zum Einhängen eines Seiles oder von Zugstangen zum Abschleppen:",
+          "runs": [
+            {
+              "text": "An der Panzerwanne befinden sich zum Einhängen eines Seiles oder von Zugstangen zum Abschleppen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For hitching a cable or tow bars (Zugstangen) for towing, the hull has:",
+          "runs": [
+            {
+              "text": "For hitching a cable or tow bars (Zugstangen) for towing, the hull has:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para enganchar un cable o barras de remolque (Zugstangen), el casco dispone de:",
+          "runs": [
+            {
+              "text": "Para enganchar un cable o barras de remolque (Zugstangen), el casco dispone de:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para21",
+      "text": {
+        "de": {
+          "plain": "2 Ösen mit Bolzen am Bugpanzer",
+          "runs": [
+            {
+              "text": "2 Ösen mit Bolzen am Bugpanzer",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 eyes with pins (Ösen mit Bolzen) on the bow armour;",
+          "runs": [
+            {
+              "text": "2 eyes with pins (Ösen mit Bolzen) on the bow armour;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 argollas con bulones (Ösen mit Bolzen) en el blindaje de proa;",
+          "runs": [
+            {
+              "text": "2 argollas con bulones (Ösen mit Bolzen) en el blindaje de proa;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para22",
+      "text": {
+        "de": {
+          "plain": "2 Ösen mit Bolzen am Heck.",
+          "runs": [
+            {
+              "text": "2 Ösen mit Bolzen am Heck.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 eyes with pins at the rear.",
+          "runs": [
+            {
+              "text": "2 eyes with pins at the rear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 argollas con bulones en la popa.",
+          "runs": [
+            {
+              "text": "2 argollas con bulones en la popa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para23",
+      "text": {
+        "de": {
+          "plain": "Über den Ketten sind an der Panzerwanne geriffelte Kettenabdeckbleche vorgesehen, deren vordere und hintere Enden zum Befahren von Trichtergelände hochgeklappt werden können.",
+          "runs": [
+            {
+              "text": "Über den Ketten sind an der Panzerwanne geriffelte Kettenabdeckbleche vorgesehen, deren vordere und hintere Enden zum Befahren von Trichtergelände hochgeklappt werden können.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Ribbed track-cover plates (Kettenabdeckbleche) are fitted over the tracks; their front and rear ends can be folded up for driving over cratered ground (Trichtergelände).",
+          "runs": [
+            {
+              "text": "Ribbed track-cover plates (Kettenabdeckbleche) are fitted over the tracks; their front and rear ends can be folded up for driving over cratered ground (Trichtergelände).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sobre las cadenas van montadas planchas cubrecadenas nervadas (Kettenabdeckbleche); sus extremos delantero y trasero pueden abatirse hacia arriba para circular por terreno con cráteres (Trichtergelände).",
+          "runs": [
+            {
+              "text": "Sobre las cadenas van montadas planchas cubrecadenas nervadas (Kettenabdeckbleche); sus extremos delantero y trasero pueden abatirse hacia arriba para circular por terreno con cráteres (Trichtergelände).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para24",
+      "text": {
+        "de": {
+          "plain": "4. Motor",
+          "runs": [
+            {
+              "text": "4. Motor",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4. Engine (Motor)",
+          "runs": [
+            {
+              "text": "4. Engine (Motor)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4. Motor",
+          "runs": [
+            {
+              "text": "4. Motor",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p012-para25",
+      "text": {
+        "de": {
+          "plain": "Der Motor ist dreifach in Gummi gelagert, vorn in zwei Tragzapfen, hinten in einem um die Kurbelachse schwenkbaren Querträger.",
+          "runs": [
+            {
+              "text": "Der Motor ist dreifach in Gummi gelagert, vorn in zwei Tragzapfen, hinten in einem um die Kurbelachse schwenkbaren Querträger.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The engine is rubber-mounted at three points (dreifach in Gummi gelagert): at the front on two support trunnions (Tragzapfen), and at the rear on a cross-member (Querträger) that can pivot about the crank axle (Kurbelachse).",
+          "runs": [
+            {
+              "text": "The engine is rubber-mounted at three points (dreifach in Gummi gelagert): at the front on two support trunnions (Tragzapfen), and at the rear on a cross-member (Querträger) that can pivot about the crank axle (Kurbelachse).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor va suspendido sobre goma en tres puntos (dreifach in Gummi gelagert): delante, sobre dos muñones de apoyo (Tragzapfen); y detrás, sobre un travesaño (Querträger) que puede bascular en torno al eje de manivela (Kurbelachse).",
+          "runs": [
+            {
+              "text": "El motor va suspendido sobre goma en tres puntos (dreifach in Gummi gelagert): delante, sobre dos muñones de apoyo (Tragzapfen); y detrás, sobre un travesaño (Querträger) que puede bascular en torno al eje de manivela (Kurbelachse).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-011",
+    "next": "d65241a-page-013"
+  }
+}

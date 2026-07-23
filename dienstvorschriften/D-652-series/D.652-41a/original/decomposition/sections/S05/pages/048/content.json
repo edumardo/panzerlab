@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-048",
+  "document_id": "d652-41a",
+  "page": 48,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 25,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-048-para01",
+      "text": {
+        "de": {"plain": "Bild 26/3 Klemmring lösen und Stirnrad aus Kugellager 6220 herausdrücken (III DB 89/4; III DB 93/5, 8).", "runs": [{"text": "Bild 26/3 Klemmring lösen und Stirnrad aus Kugellager 6220 herausdrücken (III DB 89/4; III DB 93/5, 8).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/3 – Undo the clamping ring and press the spur gear out of ball bearing 6220 (III DB 89/4; III DB 93/5, 8).", "runs": [{"text": "Fig. 26/3 – Undo the clamping ring and press the spur gear out of ball bearing 6220 (III DB 89/4; III DB 93/5, 8).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/3 – Suelte el anillo de apriete y expulse el piñón cilíndrico del rodamiento de bolas 6220 (III DB 89/4; III DB 93/5, 8).", "runs": [{"text": "Fig. 26/3 – Suelte el anillo de apriete y expulse el piñón cilíndrico del rodamiento de bolas 6220 (III DB 89/4; III DB 93/5, 8).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para02",
+      "text": {
+        "de": {"plain": "Bild 26/4 Äußeren Umlaufradträger aus Ritzel herausdrücken (III DB 89/1, 4; III DB 93/4, 7). Klemmring lösen und Kugellager 6220 aus Seitendeckel heraustreiben.", "runs": [{"text": "Bild 26/4 Äußeren Umlaufradträger aus Ritzel herausdrücken (III DB 89/1, 4; III DB 93/4, 7). Klemmring lösen und Kugellager 6220 aus Seitendeckel heraustreiben.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/4 – Press the outer planet carrier out of the pinion (III DB 89/1, 4; III DB 93/4, 7). Undo the clamping ring and drive ball bearing 6220 out of the side cover.", "runs": [{"text": "Fig. 26/4 – Press the outer planet carrier out of the pinion (III DB 89/1, 4; III DB 93/4, 7). Undo the clamping ring and drive ball bearing 6220 out of the side cover.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/4 – Expulse el portasatélites exterior del piñón (III DB 89/1, 4; III DB 93/4, 7). Suelte el anillo de apriete y expulse el rodamiento de bolas 6220 de la tapa lateral.", "runs": [{"text": "Fig. 26/4 – Expulse el portasatélites exterior del piñón (III DB 89/1, 4; III DB 93/4, 7). Suelte el anillo de apriete y expulse el rodamiento de bolas 6220 de la tapa lateral.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para03",
+      "text": {
+        "de": {"plain": "Oben: Dichtungsdeckel abschrauben; Klemmring von Zahnradnabe lösen.", "runs": [{"text": "Oben: Dichtungsdeckel abschrauben; Klemmring von Zahnradnabe lösen.", "bold": false}]},
+        "en-GB": {"plain": "Above: Unscrew the sealing cover; undo the clamping ring from the gear hub.", "runs": [{"text": "Above: Unscrew the sealing cover; undo the clamping ring from the gear hub.", "bold": false}]},
+        "es-ES": {"plain": "Arriba: Desatornille la tapa de estanqueidad; suelte el anillo de apriete del cubo del piñón.", "runs": [{"text": "Arriba: Desatornille la tapa de estanqueidad; suelte el anillo de apriete del cubo del piñón.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para04",
+      "text": {
+        "de": {"plain": "Bild 26/5 Zahnradnabe aus Kugellager herausdrücken (III DB 98). Zahnkranz von Nabe abschrauben. Rollenlagerinnenring von Nabe abziehen (III DB 89/1, 4; III DB 93/1, 9). Flanschbüchse von Getriebegehäuse abschrauben und Rollenlageraußenring herausdrücken.", "runs": [{"text": "Bild 26/5 Zahnradnabe aus Kugellager herausdrücken (III DB 98). Zahnkranz von Nabe abschrauben. Rollenlagerinnenring von Nabe abziehen (III DB 89/1, 4; III DB 93/1, 9). Flanschbüchse von Getriebegehäuse abschrauben und Rollenlageraußenring herausdrücken.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/5 – Press the gear hub out of the ball bearing (III DB 98). Unscrew the sprocket ring from the hub. Pull the roller-bearing inner ring off the hub (III DB 89/1, 4; III DB 93/1, 9). Unscrew the flange bush from the gearbox housing and press out the roller-bearing outer ring.", "runs": [{"text": "Fig. 26/5 – Press the gear hub out of the ball bearing (III DB 98). Unscrew the sprocket ring from the hub. Pull the roller-bearing inner ring off the hub (III DB 89/1, 4; III DB 93/1, 9). Unscrew the flange bush from the gearbox housing and press out the roller-bearing outer ring.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/5 – Expulse el cubo del piñón del rodamiento de bolas (III DB 98). Desatornille la corona dentada del cubo. Extraiga el anillo interior del cojinete de rodillos del cubo (III DB 89/1, 4; III DB 93/1, 9). Desatornille el casquillo embridado de la carcasa de la caja y expulse el anillo exterior del cojinete de rodillos.", "runs": [{"text": "Fig. 26/5 – Expulse el cubo del piñón del rodamiento de bolas (III DB 98). Desatornille la corona dentada del cubo. Extraiga el anillo interior del cojinete de rodillos del cubo (III DB 89/1, 4; III DB 93/1, 9). Desatornille el casquillo embridado de la carcasa de la caja y expulse el anillo exterior del cojinete de rodillos.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para05",
+      "text": {
+        "de": {"plain": "Kegelradwelle", "runs": [{"text": "Kegelradwelle", "bold": true}]},
+        "en-GB": {"plain": "Kegelradwelle – Bevel-gear shaft", "runs": [{"text": "Kegelradwelle – Bevel-gear shaft", "bold": true}]},
+        "es-ES": {"plain": "Kegelradwelle – Eje del piñón cónico", "runs": [{"text": "Kegelradwelle – Eje del piñón cónico", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para06",
+      "text": {
+        "de": {"plain": "Auf beiden Seiten: Nutmuttern lösen (III DB 96).", "runs": [{"text": "Auf beiden Seiten: Nutmuttern lösen (III DB 96).", "bold": false}]},
+        "en-GB": {"plain": "On both sides: Undo the slotted nuts (III DB 96).", "runs": [{"text": "On both sides: Undo the slotted nuts (III DB 96).", "bold": false}]},
+        "es-ES": {"plain": "En ambos lados: Suelte las tuercas ranuradas (III DB 96).", "runs": [{"text": "En ambos lados: Suelte las tuercas ranuradas (III DB 96).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para07",
+      "text": {
+        "de": {"plain": "Bild 26/6 Rollenlagerinnenringe von Kegelradwelle und Mittenhohlrädern gemeinsam abziehen (III DB 89/1, 4; III DB 93/1, 3).", "runs": [{"text": "Bild 26/6 Rollenlagerinnenringe von Kegelradwelle und Mittenhohlrädern gemeinsam abziehen (III DB 89/1, 4; III DB 93/1, 3).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/6 – Pull the roller-bearing inner rings off the bevel-gear shaft and the central ring gears together (III DB 89/1, 4; III DB 93/1, 3).", "runs": [{"text": "Fig. 26/6 – Pull the roller-bearing inner rings off the bevel-gear shaft and the central ring gears together (III DB 89/1, 4; III DB 93/1, 3).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/6 – Extraiga a la vez los anillos interiores del cojinete de rodillos del eje del piñón cónico y las coronas interiores centrales (III DB 89/1, 4; III DB 93/1, 3).", "runs": [{"text": "Fig. 26/6 – Extraiga a la vez los anillos interiores del cojinete de rodillos del eje del piñón cónico y las coronas interiores centrales (III DB 89/1, 4; III DB 93/1, 3).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para08",
+      "text": {
+        "de": {"plain": "Rechts:", "runs": [{"text": "Rechts:", "bold": false}]},
+        "en-GB": {"plain": "Right:", "runs": [{"text": "Right:", "bold": false}]},
+        "es-ES": {"plain": "Derecha:", "runs": [{"text": "Derecha:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para09",
+      "text": {
+        "de": {"plain": "Bild 26/7 Kegelradwelle und Teile aus rechtem Mittenhohlrad herausdrücken (III DB 89/1, 4; III DB 93/3, 6). Nutmutter neben Einstellkugellager von Nabe des Mittenhohlrades abschrauben (III DB 97). Mittenhohlrad aus Kugellager herausdrücken (III DB 98). Klemmringe neben Kugellageraußenring entfernen und Kugellager aus Gehäuse heraustreiben.", "runs": [{"text": "Bild 26/7 Kegelradwelle und Teile aus rechtem Mittenhohlrad herausdrücken (III DB 89/1, 4; III DB 93/3, 6). Nutmutter neben Einstellkugellager von Nabe des Mittenhohlrades abschrauben (III DB 97). Mittenhohlrad aus Kugellager herausdrücken (III DB 98). Klemmringe neben Kugellageraußenring entfernen und Kugellager aus Gehäuse heraustreiben.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/7 – Press the bevel-gear shaft and parts out of the right central ring gear (III DB 89/1, 4; III DB 93/3, 6). Unscrew the slotted nut beside the setting ball bearing from the hub of the central ring gear (III DB 97). Press the central ring gear out of the ball bearing (III DB 98). Remove the clamping rings beside the ball-bearing outer ring and drive the ball bearing out of the housing.", "runs": [{"text": "Fig. 26/7 – Press the bevel-gear shaft and parts out of the right central ring gear (III DB 89/1, 4; III DB 93/3, 6). Unscrew the slotted nut beside the setting ball bearing from the hub of the central ring gear (III DB 97). Press the central ring gear out of the ball bearing (III DB 98). Remove the clamping rings beside the ball-bearing outer ring and drive the ball bearing out of the housing.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/7 – Expulse el eje del piñón cónico y piezas de la corona interior central derecha (III DB 89/1, 4; III DB 93/3, 6). Desatornille del cubo de la corona interior central la tuerca ranurada contigua al rodamiento de bolas de reglaje (III DB 97). Expulse la corona interior central del rodamiento de bolas (III DB 98). Retire los anillos de apriete contiguos al anillo exterior del rodamiento de bolas y expulse el rodamiento de la carcasa.", "runs": [{"text": "Fig. 26/7 – Expulse el eje del piñón cónico y piezas de la corona interior central derecha (III DB 89/1, 4; III DB 93/3, 6). Desatornille del cubo de la corona interior central la tuerca ranurada contigua al rodamiento de bolas de reglaje (III DB 97). Expulse la corona interior central del rodamiento de bolas (III DB 98). Retire los anillos de apriete contiguos al anillo exterior del rodamiento de bolas y expulse el rodamiento de la carcasa.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para10",
+      "text": {
+        "de": {"plain": "Links:", "runs": [{"text": "Links:", "bold": false}]},
+        "en-GB": {"plain": "Left:", "runs": [{"text": "Left:", "bold": false}]},
+        "es-ES": {"plain": "Izquierda:", "runs": [{"text": "Izquierda:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para11",
+      "text": {
+        "de": {"plain": "Bild 26/8 Mittenhohlrad von Kegelradwelle abziehen (III DB 89/1, 4; III DB 93/3, 6). Nutmuttern (III DB 99) und Schraubenrad von Kegelradwelle entfernen. Kegelrad abdrücken mit hydraulischer Presse.", "runs": [{"text": "Bild 26/8 Mittenhohlrad von Kegelradwelle abziehen (III DB 89/1, 4; III DB 93/3, 6). Nutmuttern (III DB 99) und Schraubenrad von Kegelradwelle entfernen. Kegelrad abdrücken mit hydraulischer Presse.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/8 – Pull the central ring gear off the bevel-gear shaft (III DB 89/1, 4; III DB 93/3, 6). Remove the slotted nuts (III DB 99) and the helical gear (Schraubenrad) from the bevel-gear shaft. Press off the bevel gear with a hydraulic press.", "runs": [{"text": "Fig. 26/8 – Pull the central ring gear off the bevel-gear shaft (III DB 89/1, 4; III DB 93/3, 6). Remove the slotted nuts (III DB 99) and the helical gear (Schraubenrad) from the bevel-gear shaft. Press off the bevel gear with a hydraulic press.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/8 – Extraiga la corona interior central del eje del piñón cónico (III DB 89/1, 4; III DB 93/3, 6). Retire las tuercas ranuradas (III DB 99) y la rueda helicoidal (Schraubenrad) del eje del piñón cónico. Expulse el piñón cónico con una prensa hidráulica.", "runs": [{"text": "Fig. 26/8 – Extraiga la corona interior central del eje del piñón cónico (III DB 89/1, 4; III DB 93/3, 6). Retire las tuercas ranuradas (III DB 99) y la rueda helicoidal (Schraubenrad) del eje del piñón cónico. Expulse el piñón cónico con una prensa hidráulica.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para12",
+      "text": {
+        "de": {"plain": "Bild 26/9 Kugellager von Kegelrad abziehen (III DB 89/1, 3, 4; III DB 93/9). Getriebegehäuse von Wechselgetriebe abschrauben und abnehmen. Zwischenbleche zeichnen und gut aufheben!", "runs": [{"text": "Bild 26/9 Kugellager von Kegelrad abziehen (III DB 89/1, 3, 4; III DB 93/9). Getriebegehäuse von Wechselgetriebe abschrauben und abnehmen. Zwischenbleche zeichnen und gut aufheben!", "bold": false}]},
+        "en-GB": {"plain": "Fig. 26/9 – Pull the ball bearing off the bevel gear (III DB 89/1, 3, 4; III DB 93/9). Unscrew the gearbox housing from the change-speed gearbox and remove it. Mark the shim plates (Zwischenbleche) and keep them safe!", "runs": [{"text": "Fig. 26/9 – Pull the ball bearing off the bevel gear (III DB 89/1, 3, 4; III DB 93/9). Unscrew the gearbox housing from the change-speed gearbox and remove it. Mark the shim plates (Zwischenbleche) and keep them safe!", "bold": false}]},
+        "es-ES": {"plain": "Fig. 26/9 – Extraiga el rodamiento de bolas del piñón cónico (III DB 89/1, 3, 4; III DB 93/9). Desatornille de la caja de cambios la carcasa del par cónico y retírela. ¡Marque las chapas intermedias (Zwischenbleche) y consérvelas!", "runs": [{"text": "Fig. 26/9 – Extraiga el rodamiento de bolas del piñón cónico (III DB 89/1, 3, 4; III DB 93/9). Desatornille de la caja de cambios la carcasa del par cónico y retírela. ¡Marque las chapas intermedias (Zwischenbleche) y consérvelas!", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-048-para13",
+      "text": {
+        "de": {"plain": "Achtung! Das Kegelrad am Wechselgetriebe kann mit Vorrichtung III DB 83 abgezogen werden.", "runs": [{"text": "Achtung! ", "bold": true}, {"text": "Das Kegelrad am Wechselgetriebe kann mit Vorrichtung III DB 83 abgezogen werden.", "bold": false}]},
+        "en-GB": {"plain": "ATTENTION! The bevel gear on the gearbox can be pulled off with tool III DB 83.", "runs": [{"text": "ATTENTION! ", "bold": true}, {"text": "The bevel gear on the gearbox can be pulled off with tool III DB 83.", "bold": false}]},
+        "es-ES": {"plain": "¡ATENCIÓN! El piñón cónico de la caja de cambios puede extraerse con la herramienta III DB 83.", "runs": [{"text": "¡ATENCIÓN! ", "bold": true}, {"text": "El piñón cónico de la caja de cambios puede extraerse con la herramienta III DB 83.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-047",
+    "next": "d65241a-page-049"
+  }
+}

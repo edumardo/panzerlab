@@ -1,0 +1,960 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-005",
+  "document_id": "d652-41a",
+  "page": 5,
+  "section": "FrontMatter",
+  "type": "index",
+  "titles": {
+    "de": "Inhalt",
+    "en-GB": "Contents",
+    "es-ES": "Índice"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 3,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-005-para01",
+      "text": {
+        "de": {
+          "plain": "Vorbemerkungen .......... 5",
+          "runs": [
+            {
+              "text": "Vorbemerkungen .......... 5",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Preliminary remarks .......... p. 5",
+          "runs": [
+            {
+              "text": "Preliminary remarks .......... p. 5",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Observaciones preliminares .......... pág. 5",
+          "runs": [
+            {
+              "text": "Observaciones preliminares .......... pág. 5",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para02",
+      "text": {
+        "de": {
+          "plain": "A. Technische Angaben .......... 7",
+          "runs": [
+            {
+              "text": "A. Technische Angaben .......... 7",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A. Technical data .......... p. 7",
+          "runs": [
+            {
+              "text": "A. Technical data .......... p. 7",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A. Datos técnicos .......... pág. 7",
+          "runs": [
+            {
+              "text": "A. Datos técnicos .......... pág. 7",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para03",
+      "text": {
+        "de": {
+          "plain": "B. Beschreibung .......... 8",
+          "runs": [
+            {
+              "text": "B. Beschreibung .......... 8",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "B. Description .......... p. 8",
+          "runs": [
+            {
+              "text": "B. Description .......... p. 8",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "B. Descripción .......... pág. 8",
+          "runs": [
+            {
+              "text": "B. Descripción .......... pág. 8",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para04",
+      "text": {
+        "de": {
+          "plain": "1. Allgemeines .......... 8",
+          "runs": [
+            {
+              "text": "1. Allgemeines .......... 8",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. General .......... 8",
+          "runs": [
+            {
+              "text": "1. General .......... 8",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. Generalidades .......... 8",
+          "runs": [
+            {
+              "text": "1. Generalidades .......... 8",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para05",
+      "text": {
+        "de": {
+          "plain": "2. Hauptteile des Fahrgestells .......... 8",
+          "runs": [
+            {
+              "text": "2. Hauptteile des Fahrgestells .......... 8",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. Main components of the chassis .......... 8",
+          "runs": [
+            {
+              "text": "2. Main components of the chassis .......... 8",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Componentes principales del chasis .......... 8",
+          "runs": [
+            {
+              "text": "2. Componentes principales del chasis .......... 8",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para06",
+      "text": {
+        "de": {
+          "plain": "3. Panzerwanne .......... 9",
+          "runs": [
+            {
+              "text": "3. Panzerwanne .......... 9",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. Armoured hull .......... 9",
+          "runs": [
+            {
+              "text": "3. Armoured hull .......... 9",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. Casco blindado .......... 9",
+          "runs": [
+            {
+              "text": "3. Casco blindado .......... 9",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para07",
+      "text": {
+        "de": {
+          "plain": "4. Motor .......... 10",
+          "runs": [
+            {
+              "text": "4. Motor .......... 10",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4. Engine .......... 10",
+          "runs": [
+            {
+              "text": "4. Engine .......... 10",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4. Motor .......... 10",
+          "runs": [
+            {
+              "text": "4. Motor .......... 10",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para08",
+      "text": {
+        "de": {
+          "plain": "a) Schmierung und Ölfilter .......... 11",
+          "runs": [
+            {
+              "text": "a) Schmierung und Ölfilter .......... 11",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Lubrication and oil filter .......... 11",
+          "runs": [
+            {
+              "text": "a) Lubrication and oil filter .......... 11",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Lubricación y filtro de aceite .......... 11",
+          "runs": [
+            {
+              "text": "a) Lubricación y filtro de aceite .......... 11",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para09",
+      "text": {
+        "de": {
+          "plain": "b) Kühlanlage .......... 12",
+          "runs": [
+            {
+              "text": "b) Kühlanlage .......... 12",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Cooling system .......... 12",
+          "runs": [
+            {
+              "text": "b) Cooling system .......... 12",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Sistema de refrigeración .......... 12",
+          "runs": [
+            {
+              "text": "b) Sistema de refrigeración .......... 12",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para10",
+      "text": {
+        "de": {
+          "plain": "c) Vergaser und Luftfilter .......... 13",
+          "runs": [
+            {
+              "text": "c) Vergaser und Luftfilter .......... 13",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Carburettor and air filter .......... 13",
+          "runs": [
+            {
+              "text": "c) Carburettor and air filter .......... 13",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Carburador y filtro de aire .......... 13",
+          "runs": [
+            {
+              "text": "c) Carburador y filtro de aire .......... 13",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para11",
+      "text": {
+        "de": {
+          "plain": "d) Anlasser .......... 14",
+          "runs": [
+            {
+              "text": "d) Anlasser .......... 14",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Starter .......... 14",
+          "runs": [
+            {
+              "text": "d) Starter .......... 14",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Motor de arranque .......... 14",
+          "runs": [
+            {
+              "text": "d) Motor de arranque .......... 14",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para12",
+      "text": {
+        "de": {
+          "plain": "e) Kraftstofflagerung und -förderung .......... 14",
+          "runs": [
+            {
+              "text": "e) Kraftstofflagerung und -förderung .......... 14",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "e) Fuel storage and delivery .......... 14",
+          "runs": [
+            {
+              "text": "e) Fuel storage and delivery .......... 14",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "e) Almacenamiento y alimentación de combustible .......... 14",
+          "runs": [
+            {
+              "text": "e) Almacenamiento y alimentación de combustible .......... 14",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para13",
+      "text": {
+        "de": {
+          "plain": "5. Hauptkupplung und Gelenkwelle .......... 15",
+          "runs": [
+            {
+              "text": "5. Hauptkupplung und Gelenkwelle .......... 15",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5. Main clutch and cardan shaft .......... 15",
+          "runs": [
+            {
+              "text": "5. Main clutch and cardan shaft .......... 15",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5. Embrague principal y árbol de transmisión (cardán) .......... 15",
+          "runs": [
+            {
+              "text": "5. Embrague principal y árbol de transmisión (cardán) .......... 15",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para14",
+      "text": {
+        "de": {
+          "plain": "6. Wechselgetriebe .......... 16",
+          "runs": [
+            {
+              "text": "6. Wechselgetriebe .......... 16",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6. Gearbox .......... 16",
+          "runs": [
+            {
+              "text": "6. Gearbox .......... 16",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6. Caja de cambios .......... 16",
+          "runs": [
+            {
+              "text": "6. Caja de cambios .......... 16",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para15",
+      "text": {
+        "de": {
+          "plain": "7. Kegeltrieb, Lenkgetriebe und Gelenkwellen .......... 18",
+          "runs": [
+            {
+              "text": "7. Kegeltrieb, Lenkgetriebe und Gelenkwellen .......... 18",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7. Bevel drive, steering gear and cardan shafts .......... 18",
+          "runs": [
+            {
+              "text": "7. Bevel drive, steering gear and cardan shafts .......... 18",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7. Par cónico, mecanismos de dirección y árboles cardán .......... 18",
+          "runs": [
+            {
+              "text": "7. Par cónico, mecanismos de dirección y árboles cardán .......... 18",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para16",
+      "text": {
+        "de": {
+          "plain": "8. Stütz- und Lenkbremse .......... 20",
+          "runs": [
+            {
+              "text": "8. Stütz- und Lenkbremse .......... 20",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "8. Support and steering brake .......... 20",
+          "runs": [
+            {
+              "text": "8. Support and steering brake .......... 20",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "8. Freno de apoyo y freno de dirección .......... 20",
+          "runs": [
+            {
+              "text": "8. Freno de apoyo y freno de dirección .......... 20",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para17",
+      "text": {
+        "de": {
+          "plain": "9. Kraftübertragung zum Lenken .......... 23",
+          "runs": [
+            {
+              "text": "9. Kraftübertragung zum Lenken .......... 23",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "9. Power transmission for steering .......... 23",
+          "runs": [
+            {
+              "text": "9. Power transmission for steering .......... 23",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "9. Transmisión de fuerza a la dirección .......... 23",
+          "runs": [
+            {
+              "text": "9. Transmisión de fuerza a la dirección .......... 23",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para18",
+      "text": {
+        "de": {
+          "plain": "10. Seitenvorgelege .......... 24",
+          "runs": [
+            {
+              "text": "10. Seitenvorgelege .......... 24",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "10. Final drive .......... 24",
+          "runs": [
+            {
+              "text": "10. Final drive .......... 24",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "10. Reductora final .......... 24",
+          "runs": [
+            {
+              "text": "10. Reductora final .......... 24",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para19",
+      "text": {
+        "de": {
+          "plain": "11. Laufwerk .......... 24",
+          "runs": [
+            {
+              "text": "11. Laufwerk .......... 24",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "11. Running gear .......... 24",
+          "runs": [
+            {
+              "text": "11. Running gear .......... 24",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "11. Tren de rodaje .......... 24",
+          "runs": [
+            {
+              "text": "11. Tren de rodaje .......... 24",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para20",
+      "text": {
+        "de": {
+          "plain": "a) Triebrad, Leitrad, Stützrollen .......... 24",
+          "runs": [
+            {
+              "text": "a) Triebrad, Leitrad, Stützrollen .......... 24",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Drive sprocket, idler, return rollers .......... 24",
+          "runs": [
+            {
+              "text": "a) Drive sprocket, idler, return rollers .......... 24",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Rueda motriz, rueda tensora y rodillos de retorno .......... 24",
+          "runs": [
+            {
+              "text": "a) Rueda motriz, rueda tensora y rodillos de retorno .......... 24",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para21",
+      "text": {
+        "de": {
+          "plain": "b) Laufrollen und Stabfedern .......... 25",
+          "runs": [
+            {
+              "text": "b) Laufrollen und Stabfedern .......... 25",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Road wheels and torsion bars .......... 25",
+          "runs": [
+            {
+              "text": "b) Road wheels and torsion bars .......... 25",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Ruedas de rodadura y barras de torsión .......... 25",
+          "runs": [
+            {
+              "text": "b) Ruedas de rodadura y barras de torsión .......... 25",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para22",
+      "text": {
+        "de": {
+          "plain": "c) Stoßdämpfer .......... 25",
+          "runs": [
+            {
+              "text": "c) Stoßdämpfer .......... 25",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Shock absorbers .......... 25",
+          "runs": [
+            {
+              "text": "c) Shock absorbers .......... 25",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Amortiguadores .......... 25",
+          "runs": [
+            {
+              "text": "c) Amortiguadores .......... 25",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para23",
+      "text": {
+        "de": {
+          "plain": "d) Gleiskette .......... 26",
+          "runs": [
+            {
+              "text": "d) Gleiskette .......... 26",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Track .......... 26",
+          "runs": [
+            {
+              "text": "d) Track .......... 26",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Cadena (oruga) .......... 26",
+          "runs": [
+            {
+              "text": "d) Cadena (oruga) .......... 26",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para24",
+      "text": {
+        "de": {
+          "plain": "12. Gestänge .......... 26",
+          "runs": [
+            {
+              "text": "12. Gestänge .......... 26",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "12. Linkages .......... 26",
+          "runs": [
+            {
+              "text": "12. Linkages .......... 26",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "12. Varillajes (timonería) .......... 26",
+          "runs": [
+            {
+              "text": "12. Varillajes (timonería) .......... 26",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para25",
+      "text": {
+        "de": {
+          "plain": "13. Elektrische Ausrüstung .......... 27",
+          "runs": [
+            {
+              "text": "13. Elektrische Ausrüstung .......... 27",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "13. Electrical equipment .......... 27",
+          "runs": [
+            {
+              "text": "13. Electrical equipment .......... 27",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "13. Equipo eléctrico .......... 27",
+          "runs": [
+            {
+              "text": "13. Equipo eléctrico .......... 27",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para26",
+      "text": {
+        "de": {
+          "plain": "14. Schalttafel und Zwischenwand .......... 29",
+          "runs": [
+            {
+              "text": "14. Schalttafel und Zwischenwand .......... 29",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "14. Switchboard and bulkhead .......... 29",
+          "runs": [
+            {
+              "text": "14. Switchboard and bulkhead .......... 29",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "14. Cuadro de mandos y mamparo .......... 29",
+          "runs": [
+            {
+              "text": "14. Cuadro de mandos y mamparo .......... 29",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para27",
+      "text": {
+        "de": {
+          "plain": "15. Werkzeug .......... 30",
+          "runs": [
+            {
+              "text": "15. Werkzeug .......... 30",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "15. Tools .......... 30",
+          "runs": [
+            {
+              "text": "15. Tools .......... 30",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "15. Herramienta .......... 30",
+          "runs": [
+            {
+              "text": "15. Herramienta .......... 30",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para28",
+      "text": {
+        "de": {
+          "plain": "16. Hilfsgerät .......... 31",
+          "runs": [
+            {
+              "text": "16. Hilfsgerät .......... 31",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "16. Auxiliary equipment .......... 31",
+          "runs": [
+            {
+              "text": "16. Auxiliary equipment .......... 31",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "16. Equipo auxiliar .......... 31",
+          "runs": [
+            {
+              "text": "16. Equipo auxiliar .......... 31",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-005-para29",
+      "text": {
+        "de": {
+          "plain": "17. Schanzzeug .......... 31",
+          "runs": [
+            {
+              "text": "17. Schanzzeug .......... 31",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "17. Entrenching tools .......... 31",
+          "runs": [
+            {
+              "text": "17. Entrenching tools .......... 31",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "17. Útiles de zapa .......... 31",
+          "runs": [
+            {
+              "text": "17. Útiles de zapa .......... 31",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-004",
+    "next": "d65241a-page-006"
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-070",
+  "document_id": "d652-41a",
+  "page": 70,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 36,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p070-para01",
+      "text": {
+        "de": {
+          "plain": "4.) Abstellen des Motors.",
+          "runs": [
+            {
+              "text": "4.) Abstellen des Motors.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4) Switch off the engine.",
+          "runs": [
+            {
+              "text": "4) Switch off the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4) Pare el motor.",
+          "runs": [
+            {
+              "text": "4) Pare el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para02",
+      "text": {
+        "de": {
+          "plain": "5.) Klötze, Steine oder dergl. hinter die Gleiskette legen.",
+          "runs": [
+            {
+              "text": "5.) Klötze, Steine oder dergl. hinter die Gleiskette legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5) Place blocks, stones or the like behind the track.",
+          "runs": [
+            {
+              "text": "5) Place blocks, stones or the like behind the track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5) Coloque calzos, piedras o similares detrás de la cadena.",
+          "runs": [
+            {
+              "text": "5) Coloque calzos, piedras o similares detrás de la cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para03",
+      "text": {
+        "de": {
+          "plain": "d) Anhalten und Feststellen des Fahrzeuges in der Steigung: abwärts",
+          "runs": [
+            {
+              "text": "d) Anhalten und Feststellen des Fahrzeuges in der Steigung: abwärts",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Stopping and securing the vehicle on a gradient: facing downhill",
+          "runs": [
+            {
+              "text": "d) Stopping and securing the vehicle on a gradient: facing downhill",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Detención y aseguramiento del vehículo en pendiente: de cara hacia abajo",
+          "runs": [
+            {
+              "text": "d) Detención y aseguramiento del vehículo en pendiente: de cara hacia abajo",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para04",
+      "text": {
+        "de": {
+          "plain": "1.) Bremsen mit Fußbremse, Hauptkupplung auskuppeln und Fußbremshebel feststellen.",
+          "runs": [
+            {
+              "text": "1.) Bremsen mit Fußbremse, Hauptkupplung auskuppeln und Fußbremshebel feststellen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Brake with the foot brake, disengage the main clutch and lock the foot-brake pedal.",
+          "runs": [
+            {
+              "text": "1) Brake with the foot brake, disengage the main clutch and lock the foot-brake pedal.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Frene con el freno de pie, desembrague el embrague principal y bloquee el pedal del freno de pie.",
+          "runs": [
+            {
+              "text": "1) Frene con el freno de pie, desembrague el embrague principal y bloquee el pedal del freno de pie.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para05",
+      "text": {
+        "de": {
+          "plain": "2.) Einschalten des ersten Ganges.",
+          "runs": [
+            {
+              "text": "2.) Einschalten des ersten Ganges.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) Engage first gear.",
+          "runs": [
+            {
+              "text": "2) Engage first gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Meta la primera marcha.",
+          "runs": [
+            {
+              "text": "2) Meta la primera marcha.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para06",
+      "text": {
+        "de": {
+          "plain": "3.) Abstellen des Motors.",
+          "runs": [
+            {
+              "text": "3.) Abstellen des Motors.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3) Switch off the engine.",
+          "runs": [
+            {
+              "text": "3) Switch off the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3) Pare el motor.",
+          "runs": [
+            {
+              "text": "3) Pare el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para07",
+      "text": {
+        "de": {
+          "plain": "4.) Klötze, Steine oder dergl. vor die Kette legen.",
+          "runs": [
+            {
+              "text": "4.) Klötze, Steine oder dergl. vor die Kette legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4) Place blocks, stones or the like in front of the track.",
+          "runs": [
+            {
+              "text": "4) Place blocks, stones or the like in front of the track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4) Coloque calzos, piedras o similares delante de la cadena.",
+          "runs": [
+            {
+              "text": "4) Coloque calzos, piedras o similares delante de la cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para08",
+      "text": {
+        "de": {
+          "plain": "e) Anfahren in der Steigung: aufwärts",
+          "runs": [
+            {
+              "text": "e) Anfahren in der Steigung: aufwärts",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "e) Moving off on a gradient: facing uphill",
+          "runs": [
+            {
+              "text": "e) Moving off on a gradient: facing uphill",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "e) Arrancada en pendiente: de cara hacia arriba",
+          "runs": [
+            {
+              "text": "e) Arrancada en pendiente: de cara hacia arriba",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para09",
+      "text": {
+        "de": {
+          "plain": "(Fußbremshebel ist festgestellt, 1. Gang eingeschaltet)",
+          "runs": [
+            {
+              "text": "(Fußbremshebel ist festgestellt, 1. Gang eingeschaltet)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "(foot-brake pedal locked, 1st gear engaged)",
+          "runs": [
+            {
+              "text": "(foot-brake pedal locked, 1st gear engaged)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "(pedal del freno bloqueado, 1.ª metida)",
+          "runs": [
+            {
+              "text": "(pedal del freno bloqueado, 1.ª metida)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para10",
+      "text": {
+        "de": {
+          "plain": "1.) Entfernen der Vorlegeklötze oder dergl.",
+          "runs": [
+            {
+              "text": "1.) Entfernen der Vorlegeklötze oder dergl.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Remove the chocks (Vorlegeklötze) or the like.",
+          "runs": [
+            {
+              "text": "1) Remove the chocks (Vorlegeklötze) or the like.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Retire los calzos (Vorlegeklötze) o similares.",
+          "runs": [
+            {
+              "text": "1) Retire los calzos (Vorlegeklötze) o similares.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para11",
+      "text": {
+        "de": {
+          "plain": "2.) Auskuppeln und Anlassen des Motors.",
+          "runs": [
+            {
+              "text": "2.) Auskuppeln und Anlassen des Motors.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) Disengage the clutch and start the engine.",
+          "runs": [
+            {
+              "text": "2) Disengage the clutch and start the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Desembrague y arranque el motor.",
+          "runs": [
+            {
+              "text": "2) Desembrague y arranque el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para12",
+      "text": {
+        "de": {
+          "plain": "3.) Weiches Einkuppeln der Hauptkupplung.",
+          "runs": [
+            {
+              "text": "3.) Weiches Einkuppeln der Hauptkupplung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3) Engage the main clutch smoothly.",
+          "runs": [
+            {
+              "text": "3) Engage the main clutch smoothly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3) Embrague el embrague principal con suavidad.",
+          "runs": [
+            {
+              "text": "3) Embrague el embrague principal con suavidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para13",
+      "text": {
+        "de": {
+          "plain": "4.) Während die Hauptkupplung faßt, langsam die Fußbremse lösen.",
+          "runs": [
+            {
+              "text": "4.) Während die Hauptkupplung faßt, langsam die Fußbremse lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4) While the main clutch takes hold, slowly release the foot brake.",
+          "runs": [
+            {
+              "text": "4) While the main clutch takes hold, slowly release the foot brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4) Mientras el embrague principal agarra, suelte lentamente el freno de pie.",
+          "runs": [
+            {
+              "text": "4) Mientras el embrague principal agarra, suelte lentamente el freno de pie.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para14",
+      "text": {
+        "de": {
+          "plain": "f) Anfahren in der Steigung: abwärts",
+          "runs": [
+            {
+              "text": "f) Anfahren in der Steigung: abwärts",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "f) Moving off on a gradient: facing downhill",
+          "runs": [
+            {
+              "text": "f) Moving off on a gradient: facing downhill",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "f) Arrancada en pendiente: de cara hacia abajo",
+          "runs": [
+            {
+              "text": "f) Arrancada en pendiente: de cara hacia abajo",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para15",
+      "text": {
+        "de": {
+          "plain": "(Fußbremshebel ist festgestellt, 1. Gang eingeschaltet)",
+          "runs": [
+            {
+              "text": "(Fußbremshebel ist festgestellt, 1. Gang eingeschaltet)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "(foot-brake pedal locked, 1st gear engaged)",
+          "runs": [
+            {
+              "text": "(foot-brake pedal locked, 1st gear engaged)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "(pedal del freno bloqueado, 1.ª metida)",
+          "runs": [
+            {
+              "text": "(pedal del freno bloqueado, 1.ª metida)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para16",
+      "text": {
+        "de": {
+          "plain": "1.) Entfernen der Vorlegeklötze oder dergl.",
+          "runs": [
+            {
+              "text": "1.) Entfernen der Vorlegeklötze oder dergl.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Remove the chocks or the like.",
+          "runs": [
+            {
+              "text": "1) Remove the chocks or the like.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Retire los calzos o similares.",
+          "runs": [
+            {
+              "text": "1) Retire los calzos o similares.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para17",
+      "text": {
+        "de": {
+          "plain": "2.) Auskuppeln und Anlassen des Motors.",
+          "runs": [
+            {
+              "text": "2.) Auskuppeln und Anlassen des Motors.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) Disengage the clutch and start the engine.",
+          "runs": [
+            {
+              "text": "2) Disengage the clutch and start the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Desembrague y arranque el motor.",
+          "runs": [
+            {
+              "text": "2) Desembrague y arranque el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para18",
+      "text": {
+        "de": {
+          "plain": "3.) Weiches Einkuppeln der Hauptkupplung.",
+          "runs": [
+            {
+              "text": "3.) Weiches Einkuppeln der Hauptkupplung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3) Engage the main clutch smoothly.",
+          "runs": [
+            {
+              "text": "3) Engage the main clutch smoothly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3) Embrague el embrague principal con suavidad.",
+          "runs": [
+            {
+              "text": "3) Embrague el embrague principal con suavidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para19",
+      "text": {
+        "de": {
+          "plain": "4.) Während die Hauptkupplung faßt, langsam die Fußbremse lösen.",
+          "runs": [
+            {
+              "text": "4.) Während die Hauptkupplung faßt, langsam die Fußbremse lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4) While the main clutch takes hold, slowly release the foot brake.",
+          "runs": [
+            {
+              "text": "4) While the main clutch takes hold, slowly release the foot brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4) Mientras el embrague principal agarra, suelte lentamente el freno de pie.",
+          "runs": [
+            {
+              "text": "4) Mientras el embrague principal agarra, suelte lentamente el freno de pie.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para20",
+      "text": {
+        "de": {
+          "plain": "g) Anhalten in der Ebene",
+          "runs": [
+            {
+              "text": "g) Anhalten in der Ebene",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "g) Stopping on level ground",
+          "runs": [
+            {
+              "text": "g) Stopping on level ground",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "g) Detención en llano",
+          "runs": [
+            {
+              "text": "g) Detención en llano",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para21",
+      "text": {
+        "de": {
+          "plain": "1.) Fußbremse weich und langsam betätigen oder beide Lenkhebel gleichmäßig anziehen.",
+          "runs": [
+            {
+              "text": "1.) Fußbremse weich und langsam betätigen oder beide Lenkhebel gleichmäßig anziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Apply the foot brake gently and slowly, or pull both steering levers evenly.",
+          "runs": [
+            {
+              "text": "1) Apply the foot brake gently and slowly, or pull both steering levers evenly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Accione el freno de pie con suavidad y lentitud, o tire por igual de ambas palancas de dirección.",
+          "runs": [
+            {
+              "text": "1) Accione el freno de pie con suavidad y lentitud, o tire por igual de ambas palancas de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para22",
+      "text": {
+        "de": {
+          "plain": "2.) Bei stark erhitztem Motor einige Minuten Leerlauf zur Abkühlung.",
+          "runs": [
+            {
+              "text": "2.) Bei stark erhitztem Motor einige Minuten Leerlauf zur Abkühlung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) If the engine is very hot, idle for a few minutes to cool down.",
+          "runs": [
+            {
+              "text": "2) If the engine is very hot, idle for a few minutes to cool down.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Con el motor muy caliente, déjelo al ralentí unos minutos para que se enfríe.",
+          "runs": [
+            {
+              "text": "2) Con el motor muy caliente, déjelo al ralentí unos minutos para que se enfríe.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para23",
+      "text": {
+        "de": {
+          "plain": "32. Überwinden von Hindernissen",
+          "runs": [
+            {
+              "text": "32. Überwinden von Hindernissen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "32. Overcoming obstacles",
+          "runs": [
+            {
+              "text": "32. Overcoming obstacles",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "32. Superación de obstáculos",
+          "runs": [
+            {
+              "text": "32. Superación de obstáculos",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p070-para24",
+      "text": {
+        "de": {
+          "plain": "Hindernisse (Gräben, Mauerreste, Baumstämme usw.) sind möglichst in den niedrigen Gängen zu nehmen. Beim Fahren im Waldgelände ist darauf zu achten, daß die Panzerwanne sich nicht auf Baumstämme aufsetzt. Liegt das Fahrzeug doch auf einem Baum-",
+          "runs": [
+            {
+              "text": "Hindernisse (Gräben, Mauerreste, Baumstämme usw.) sind möglichst in den niedrigen Gängen zu nehmen. Beim Fahren im Waldgelände ist darauf zu achten, daß die Panzerwanne sich nicht auf Baumstämme aufsetzt. Liegt das Fahrzeug doch auf einem Baum-",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Obstacles (ditches, remains of walls, tree trunks, etc.) should be taken in the low gears where possible. When driving in wooded terrain, care must be taken that the armoured hull (Panzerwanne) does not become hung up on tree trunks. If, however, the vehicle does become grounded on a tree ...",
+          "runs": [
+            {
+              "text": "Obstacles (ditches, remains of walls, tree trunks, etc.) should be taken in the low gears where possible. When driving in wooded terrain, care must be taken that the armoured hull (Panzerwanne) does not become hung up on tree trunks. If, however, the vehicle does become grounded on a tree ...",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los obstáculos (zanjas, restos de muros, troncos, etc.) deben tomarse, en lo posible, en marchas bajas. Al circular por terreno boscoso hay que cuidar que el casco blindado (Panzerwanne) no quede encallado sobre los troncos. Si, aun así, el vehículo queda apoyado sobre un …",
+          "runs": [
+            {
+              "text": "Los obstáculos (zanjas, restos de muros, troncos, etc.) deben tomarse, en lo posible, en marchas bajas. Al circular por terreno boscoso hay que cuidar que el casco blindado (Panzerwanne) no quede encallado sobre los troncos. Si, aun así, el vehículo queda apoyado sobre un …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-069",
+    "next": "d65241a-page-071"
+  }
+}

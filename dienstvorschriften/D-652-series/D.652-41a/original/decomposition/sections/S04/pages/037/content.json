@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-037",
+  "document_id": "d652-41a",
+  "page": 37,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "D. Anweisung für Aus- und Einbau und Bedienung — 20. Panzerwanne — 21. Motor",
+    "en-GB": "D. Instructions for removal, installation and operation — 20. Armoured hull — 21. Engine",
+    "es-ES": "D. Instrucciones de desmontaje, montaje y manejo — 20. Casco blindado — 21. Motor"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 19,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p037-para01",
+      "text": {
+        "de": {
+          "plain": "Ein- und Aussteigklappen, Handlochdeckel, Bodenventile usw. sind von Sand und Schmutz freizuhalten und sind, damit sie bei Wasserdurchquerung dichthalten, stets mit den dazugehörigen unverletzten Dichtungen anzuschrauben. Die Gelenke sind von Zeit zu Zeit zu ölen und die Gummidichtungen mit Talkum abzureiben.",
+          "runs": [
+            {
+              "text": "Ein- und Aussteigklappen, Handlochdeckel, Bodenventile usw. sind von Sand und Schmutz freizuhalten und sind, damit sie bei Wasserdurchquerung dichthalten, stets mit den dazugehörigen unverletzten Dichtungen anzuschrauben. Die Gelenke sind von Zeit zu Zeit zu ölen und die Gummidichtungen mit Talkum abzureiben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Keep entry and exit hatches, hand-hole covers, bottom valves etc. free of sand and dirt, and always bolt them up with the associated, undamaged seals so that they stay watertight when fording. Oil the joints from time to time and rub the rubber seals with talc.",
+          "runs": [
+            {
+              "text": "Keep entry and exit hatches, hand-hole covers, bottom valves etc. free of sand and dirt, and always bolt them up with the associated, undamaged seals so that they stay watertight when fording. Oil the joints from time to time and rub the rubber seals with talc.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Mantenga las trampillas de entrada y salida, las tapas de registro, las válvulas de fondo, etc., libres de arena y suciedad, y atorníllelas siempre con sus juntas correspondientes, sin daños, para que sigan siendo estancas al vadear. Engrase de vez en cuando las articulaciones y frote con talco las juntas de goma.",
+          "runs": [
+            {
+              "text": "Mantenga las trampillas de entrada y salida, las tapas de registro, las válvulas de fondo, etc., libres de arena y suciedad, y atorníllelas siempre con sus juntas correspondientes, sin daños, para que sigan siendo estancas al vadear. Engrase de vez en cuando las articulaciones y frote con talco las juntas de goma.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para02",
+      "text": {
+        "de": {
+          "plain": "Der kalte Motor ist durch den Schwungkraftanlasser anzulassen. Eine in die Andrehklaue einsteckbare Handkurbel ist von zwei Mann anfangs langsam, dann schneller werdend linksherum zu drehen.",
+          "runs": [
+            {
+              "text": "Der kalte Motor ist durch den Schwungkraftanlasser anzulassen. Eine in die Andrehklaue einsteckbare Handkurbel ist von zwei Mann anfangs langsam, dann schneller werdend linksherum zu drehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Start the cold engine with the inertia starter (Schwungkraftanlasser). A hand crank inserted in the cranking claw is to be turned anticlockwise by two men, slowly at first, then increasingly fast.",
+          "runs": [
+            {
+              "text": "Start the cold engine with the inertia starter (Schwungkraftanlasser). A hand crank inserted in the cranking claw is to be turned anticlockwise by two men, slowly at first, then increasingly fast.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Arranque el motor en frío con el arrancador de inercia (Schwungkraftanlasser). Una manivela introducida en la garra de arranque debe girarse en sentido antihorario entre dos hombres, primero despacio y luego cada vez más rápido.",
+          "runs": [
+            {
+              "text": "Arranque el motor en frío con el arrancador de inercia (Schwungkraftanlasser). Una manivela introducida en la garra de arranque debe girarse en sentido antihorario entre dos hombres, primero despacio y luego cada vez más rápido.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para03",
+      "text": {
+        "de": {
+          "plain": "Erst nach Erreichen von etwa 60 U/min, also einer Umdrehung je Sekunde, ist der neben der Andrehklaue vorgesehene Handgriff bis zum Anschlag herauszuziehen und festzuhalten, bis der Motor anspringt.",
+          "runs": [
+            {
+              "text": "Erst nach Erreichen von etwa 60 U/min, also einer Umdrehung je Sekunde, ist der neben der Andrehklaue vorgesehene Handgriff bis zum Anschlag herauszuziehen und festzuhalten, bis der Motor anspringt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Only after reaching about 60 rpm (i.e. one turn per second) is the handle beside the cranking claw to be pulled out to the stop and held until the engine fires.",
+          "runs": [
+            {
+              "text": "Only after reaching about 60 rpm (i.e. one turn per second) is the handle beside the cranking claw to be pulled out to the stop and held until the engine fires.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Solo tras alcanzar unas 60 rpm (es decir, una vuelta por segundo) debe tirarse hasta el tope de la empuñadura situada junto a la garra de arranque y mantenerla hasta que el motor arranque.",
+          "runs": [
+            {
+              "text": "Solo tras alcanzar unas 60 rpm (es decir, una vuelta por segundo) debe tirarse hasta el tope de la empuñadura situada junto a la garra de arranque y mantenerla hasta que el motor arranque.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para04",
+      "text": {
+        "de": {
+          "plain": "Während des Anlassens ist durch den Fahrer der Hebel der Anlaßvorrichtung zu betätigen, nach dem Anspringen jedoch sofort loszulassen und Gas zu geben.",
+          "runs": [
+            {
+              "text": "Während des Anlassens ist durch den Fahrer der Hebel der Anlaßvorrichtung zu betätigen, nach dem Anspringen jedoch sofort loszulassen und Gas zu geben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "During starting, the driver must operate the lever of the starting device (Anlaßvorrichtung); once the engine fires, release it immediately and give throttle.",
+          "runs": [
+            {
+              "text": "During starting, the driver must operate the lever of the starting device (Anlaßvorrichtung); once the engine fires, release it immediately and give throttle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Durante el arranque, el conductor debe accionar la palanca del dispositivo de arranque (Anlaßvorrichtung); en cuanto el motor arranque, suéltela de inmediato y dé gas.",
+          "runs": [
+            {
+              "text": "Durante el arranque, el conductor debe accionar la palanca del dispositivo de arranque (Anlaßvorrichtung); en cuanto el motor arranque, suéltela de inmediato y dé gas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para05",
+      "text": {
+        "de": {
+          "plain": "Der elektrische Anlasser ist nur bei warmem Motor zu verwenden, nie bei kaltem Motor.",
+          "runs": [
+            {
+              "text": "Der elektrische Anlasser ist nur bei warmem Motor zu verwenden, nie bei kaltem Motor.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electric starter is to be used only with the engine warm, never with a cold engine.",
+          "runs": [
+            {
+              "text": "The electric starter is to be used only with the engine warm, never with a cold engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor de arranque eléctrico solo debe emplearse con el motor caliente, nunca con el motor frío.",
+          "runs": [
+            {
+              "text": "El motor de arranque eléctrico solo debe emplearse con el motor caliente, nunca con el motor frío.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para06",
+      "text": {
+        "de": {
+          "plain": "Achtung!",
+          "runs": [
+            {
+              "text": "Achtung!",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Attention!",
+          "runs": [
+            {
+              "text": "Attention!",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¡Atención!",
+          "runs": [
+            {
+              "text": "¡Atención!",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para07",
+      "text": {
+        "de": {
+          "plain": "Der elektrische und der Schwungkraftanlasser dürfen nie benutzt werden, solange sich der Motor noch dreht, auch nie gemeinsam, da sonst Beschädigung der Anlaßritzel eintritt.",
+          "runs": [
+            {
+              "text": "Der elektrische und der Schwungkraftanlasser dürfen nie benutzt werden, solange sich der Motor noch dreht, auch nie gemeinsam, da sonst Beschädigung der Anlaßritzel eintritt.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electric and the inertia starter must never be used while the engine is still turning, nor both together, otherwise the starter pinions are damaged.",
+          "runs": [
+            {
+              "text": "The electric and the inertia starter must never be used while the engine is still turning, nor both together, otherwise the starter pinions are damaged.",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El arrancador eléctrico y el de inercia no deben usarse nunca mientras el motor aún gire, ni ambos a la vez, pues de lo contrario se dañan los piñones de arranque.",
+          "runs": [
+            {
+              "text": "El arrancador eléctrico y el de inercia no deben usarse nunca mientras el motor aún gire, ni ambos a la vez, pues de lo contrario se dañan los piñones de arranque.",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para08",
+      "text": {
+        "de": {
+          "plain": "Anlassen des Motors",
+          "runs": [
+            {
+              "text": "Anlassen des Motors",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Starting the engine",
+          "runs": [
+            {
+              "text": "Starting the engine",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Arranque del motor",
+          "runs": [
+            {
+              "text": "Arranque del motor",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para09",
+      "text": {
+        "de": {
+          "plain": "1.) Schalthebel in Mittelstellung bringen.",
+          "runs": [
+            {
+              "text": "1.) Schalthebel in Mittelstellung bringen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1.) Move the gear lever to the neutral (middle) position.",
+          "runs": [
+            {
+              "text": "1.) Move the gear lever to the neutral (middle) position.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1.º) Ponga la palanca de cambios en punto muerto (posición central).",
+          "runs": [
+            {
+              "text": "1.º) Ponga la palanca de cambios en punto muerto (posición central).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para10",
+      "text": {
+        "de": {
+          "plain": "2.) Schaltschlüssel in Schaltkasten stecken, rote Lampe muß dann aufleuchten.",
+          "runs": [
+            {
+              "text": "2.) Schaltschlüssel in Schaltkasten stecken, rote Lampe muß dann aufleuchten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2.) Insert the switch key into the switch box; the red lamp must then light up.",
+          "runs": [
+            {
+              "text": "2.) Insert the switch key into the switch box; the red lamp must then light up.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2.º) Introduzca la llave de contacto en la caja de conexión; debe encenderse entonces la luz roja.",
+          "runs": [
+            {
+              "text": "2.º) Introduzca la llave de contacto en la caja de conexión; debe encenderse entonces la luz roja.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p037-para11",
+      "text": {
+        "de": {
+          "plain": "3.) Druckknopf der elektr. Kraftstoffpumpen betätigen (etwa 20 Sekunden).",
+          "runs": [
+            {
+              "text": "3.) Druckknopf der elektr. Kraftstoffpumpen betätigen (etwa 20 Sekunden).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3.) Operate the push-button of the electric fuel pumps (about 20 seconds).",
+          "runs": [
+            {
+              "text": "3.) Operate the push-button of the electric fuel pumps (about 20 seconds).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3.º) Accione el pulsador de las bombas eléctricas de combustible (unos 20 segundos).",
+          "runs": [
+            {
+              "text": "3.º) Accione el pulsador de las bombas eléctricas de combustible (unos 20 segundos).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-036",
+    "next": "d65241a-page-038"
+  }
+}

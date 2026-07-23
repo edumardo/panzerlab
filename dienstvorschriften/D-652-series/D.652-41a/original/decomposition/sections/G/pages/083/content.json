@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-083",
+  "document_id": "d652-41a",
+  "page": 83,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 12  Stützbremse",
+    "en-GB": "Fig. 12  Support brake",
+    "es-ES": "Fig. 12  Freno de apoyo"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 47,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild012",
+      "number": 12,
+      "captions": {
+        "de": {
+          "plain": "Bild 12  Stützbremse",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 12  Support brake",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 12  Freno de apoyo",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Nachspannvorrichtung\nNachspannhebel\nFahrtrichtung\nDrehrichtung Stützbremse\nNachstellvorrichtung\nErregte Bremsbacke\nZugfeder\nRollenhebel\nBremsfeder\nSchwinge\nKurvenhebel\nWinkelhebel\nKugelbundmutter\nHaltebolzen\nErreger Bremsbacke\nBremsbelag\nSchnitt A-B\nBremstrommel\nLagerdeckel\nMitten-vollradwelle\nSchnitt C-D\nNachstellvorrichtung\nLagerdeckel\nKurvenhebel\nHaltebolzen\nSchnitt E-F\nBremshebel\nErregte Bremsbacke\nSchwinge\nHaltebolzen\nErreger Bremsbacke",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "(re-)tensioning device (Nachspannvorrichtung)\ntensioning lever (Nachspannhebel)\ndirection of travel (Fahrtrichtung)\ndirection of rotation, support brake (Drehrichtung Stützbremse)\nadjusting device (Nachstellvorrichtung)\nenergised (servo) brake shoe (Erregte Bremsbacke)\ntension spring (Zugfeder)\nroller lever (Rollenhebel)\nbrake spring (Bremsfeder)\nswing lever/rocker (Schwinge)\ncam lever (Kurvenhebel)\nangle (bell-crank) lever (Winkelhebel)\nspherical-collar nut (Kugelbundmutter)\nretaining bolt (Haltebolzen)\nactuating brake shoe (Erreger Bremsbacke)\nbrake lining (Bremsbelag)\nSection A-B (Schnitt A-B)\nbrake drum (Bremstrommel)\nbearing cover (Lagerdeckel)\ncentral sun-gear shaft (Mitten-vollradwelle)\nSection C-D (Schnitt C-D)\nadjusting device (Nachstellvorrichtung)\nbearing cover (Lagerdeckel)\ncam lever (Kurvenhebel)\nretaining bolt (Haltebolzen)\nSection E-F (Schnitt E-F)\nbrake lever (Bremshebel)\nenergised (servo) brake shoe (Erregte Bremsbacke)\nswing lever/rocker (Schwinge)\nretaining bolt (Haltebolzen)\nactuating brake shoe (Erreger Bremsbacke)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "dispositivo de retensado (Nachspannvorrichtung)\npalanca de retensado (Nachspannhebel)\nsentido de la marcha (Fahrtrichtung)\nsentido de giro, freno de apoyo (Drehrichtung Stützbremse)\ndispositivo de reglaje (Nachstellvorrichtung)\nzapata excitada (Erregte Bremsbacke)\nmuelle de tracción (Zugfeder)\npalanca de rodillo (Rollenhebel)\nmuelle de freno (Bremsfeder)\nbalancín (Schwinge)\npalanca de leva (Kurvenhebel)\npalanca angular (Winkelhebel)\ntuerca de collarín esférico (Kugelbundmutter)\nbulón de retención (Haltebolzen)\nzapata excitadora (Erreger Bremsbacke)\nforro de freno (Bremsbelag)\nsección A-B (Schnitt A-B)\ntambor de freno (Bremstrommel)\ntapa de cojinete (Lagerdeckel)\neje del planeta central (Mitten-vollradwelle)\nsección C-D (Schnitt C-D)\ndispositivo de reglaje (Nachstellvorrichtung)\ntapa de cojinete (Lagerdeckel)\npalanca de leva (Kurvenhebel)\nbulón de retención (Haltebolzen)\nsección E-F (Schnitt E-F)\npalanca de freno (Bremshebel)\nzapata excitada (Erregte Bremsbacke)\nbalancín (Schwinge)\nbulón de retención (Haltebolzen)\nzapata excitadora (Erreger Bremsbacke)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-082",
+    "next": "d65241a-page-084"
+  }
+}

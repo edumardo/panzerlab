@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-046",
+  "document_id": "d652-41a",
+  "page": 46,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 24,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p046-para01",
+      "text": {
+        "de": {
+          "plain": "der Schiebehülsen bei neuen Gleichlaufscheiben 1,5 mm Spiel einzuhalten. Bei gebrauchten Gleichlaufscheiben darf dieses Spiel bis zu 2 mm betragen. Bei zu großem Spiel wird durch Beilegen einer weiteren Gleichlaufscheibe und entsprechendes Nachschleifen dasselbe auf das richtige Maß gebracht.",
+          "runs": [
+            {
+              "text": "der Schiebehülsen bei neuen Gleichlaufscheiben 1,5 mm Spiel einzuhalten. Bei gebrauchten Gleichlaufscheiben darf dieses Spiel bis zu 2 mm betragen. Bei zu großem Spiel wird durch Beilegen einer weiteren Gleichlaufscheibe und entsprechendes Nachschleifen dasselbe auf das richtige Maß gebracht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… of the sliding sleeves, a clearance of 1.5 mm is to be maintained with new synchromesh discs. With used discs this clearance may be up to 2 mm. If it is too large, it is brought to the correct dimension by inserting a further synchromesh disc and grinding accordingly.",
+          "runs": [
+            {
+              "text": "… of the sliding sleeves, a clearance of 1.5 mm is to be maintained with new synchromesh discs. With used discs this clearance may be up to 2 mm. If it is too large, it is brought to the correct dimension by inserting a further synchromesh disc and grinding accordingly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… de los manguitos deslizantes, debe mantenerse una holgura de 1,5 mm con discos de sincronización nuevos. Con discos usados, esta holgura puede llegar a 2 mm. Si es demasiado grande, se lleva a la medida correcta insertando otro disco de sincronización y rectificando en consecuencia.",
+          "runs": [
+            {
+              "text": "… de los manguitos deslizantes, debe mantenerse una holgura de 1,5 mm con discos de sincronización nuevos. Con discos usados, esta holgura puede llegar a 2 mm. Si es demasiado grande, se lleva a la medida correcta insertando otro disco de sincronización y rectificando en consecuencia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para02",
+      "text": {
+        "de": {
+          "plain": "2.) Einlegen der Haupt- und Vorgelegewelle ins Gehäuse. Hierzu müssen die Wellen vollständig zusammengebaut sein. Die Schaltgabeln müssen gleichzeitig mit den zugehörigen Wellen eingeführt werden. Die Lagerbüchsen sind mit Nummern versehen, und es ist darauf zu achten, daß die Paßstifte in die zugehörigen Löcher an den Lagerbüchsen eingreifen. Die Nummern auf den Lagerbüchsen liegen dann oben.",
+          "runs": [
+            {
+              "text": "2.) Einlegen der Haupt- und Vorgelegewelle ins Gehäuse. Hierzu müssen die Wellen vollständig zusammengebaut sein. Die Schaltgabeln müssen gleichzeitig mit den zugehörigen Wellen eingeführt werden. Die Lagerbüchsen sind mit Nummern versehen, und es ist darauf zu achten, daß die Paßstifte in die zugehörigen Löcher an den Lagerbüchsen eingreifen. Die Nummern auf den Lagerbüchsen liegen dann oben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2.) Lay the main shaft and layshaft into the housing. For this the shafts must be fully assembled. The selector forks must be inserted at the same time as the associated shafts. The bearing bushes are numbered; ensure the dowel pins engage in the associated holes in the bearing bushes. The numbers on the bearing bushes then lie on top.",
+          "runs": [
+            {
+              "text": "2.) Lay the main shaft and layshaft into the housing. For this the shafts must be fully assembled. The selector forks must be inserted at the same time as the associated shafts. The bearing bushes are numbered; ensure the dowel pins engage in the associated holes in the bearing bushes. The numbers on the bearing bushes then lie on top.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2.º) Deposite el eje principal y el intermedio en la carcasa. Para ello, los ejes deben estar totalmente armados. Las horquillas de mando deben introducirse al mismo tiempo que sus ejes correspondientes. Los casquillos de cojinete van numerados; procure que los pasadores de fijación engranen en los taladros correspondientes de los casquillos. Los números de los casquillos quedan entonces arriba.",
+          "runs": [
+            {
+              "text": "2.º) Deposite el eje principal y el intermedio en la carcasa. Para ello, los ejes deben estar totalmente armados. Las horquillas de mando deben introducirse al mismo tiempo que sus ejes correspondientes. Los casquillos de cojinete van numerados; procure que los pasadores de fijación engranen en los taladros correspondientes de los casquillos. Los números de los casquillos quedan entonces arriba.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para03",
+      "text": {
+        "de": {
+          "plain": "3.) Zusammenbau des Gehäuses. Die Trennfuge der einen Gehäusehälfte wird vor dem Zusammensetzen mit Dichtungsmasse bestrichen (die alte Dichtungsmasse muß vorher sauber entfernt sein) und mit entsprechender Sorgfalt auf die andere Gehäusehälfte aufgesetzt. Mit Holzhammerschlägen ist so weit nachzuhelfen, bis die Trennfuge geschlossen ist. Dann kann das Gehäuse verschraubt werden.",
+          "runs": [
+            {
+              "text": "3.) Zusammenbau des Gehäuses. Die Trennfuge der einen Gehäusehälfte wird vor dem Zusammensetzen mit Dichtungsmasse bestrichen (die alte Dichtungsmasse muß vorher sauber entfernt sein) und mit entsprechender Sorgfalt auf die andere Gehäusehälfte aufgesetzt. Mit Holzhammerschlägen ist so weit nachzuhelfen, bis die Trennfuge geschlossen ist. Dann kann das Gehäuse verschraubt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3.) Assemble the housing. Coat the parting joint of one housing half with jointing compound (Dichtungsmasse) before assembly (the old compound must first be cleaned off) and place it carefully on the other half. Help it along with wooden-mallet blows until the parting joint is closed; then bolt the housing.",
+          "runs": [
+            {
+              "text": "3.) Assemble the housing. Coat the parting joint of one housing half with jointing compound (Dichtungsmasse) before assembly (the old compound must first be cleaned off) and place it carefully on the other half. Help it along with wooden-mallet blows until the parting joint is closed; then bolt the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3.º) Cierre la carcasa. Antes del montaje, unte con pasta de junta (Dichtungsmasse) la superficie de unión de una mitad de la carcasa (primero hay que limpiar la pasta vieja) y colóquela con cuidado sobre la otra mitad. Ayúdela con golpes de mazo de madera hasta que la junta quede cerrada; atornille después la carcasa.",
+          "runs": [
+            {
+              "text": "3.º) Cierre la carcasa. Antes del montaje, unte con pasta de junta (Dichtungsmasse) la superficie de unión de una mitad de la carcasa (primero hay que limpiar la pasta vieja) y colóquela con cuidado sobre la otra mitad. Ayúdela con golpes de mazo de madera hasta que la junta quede cerrada; atornille después la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para04",
+      "text": {
+        "de": {
+          "plain": "4.) Aufsetzen der Schalthebel auf die kerbverzahnten Schaltwellenenden. Hierbei müssen die Hebel so aufgesetzt werden, daß bei Mittelstellung des Schalthebels in der Schaltführung auch die Schiebehülsen genau in der Mitte stehen. Ein Verstellen des Schaltgestänges zwischen Schaltschienen und Schalthebel sollte vermieden werden und ist im allgemeinen auch gar nicht notwendig.",
+          "runs": [
+            {
+              "text": "4.) Aufsetzen der Schalthebel auf die kerbverzahnten Schaltwellenenden. Hierbei müssen die Hebel so aufgesetzt werden, daß bei Mittelstellung des Schalthebels in der Schaltführung auch die Schiebehülsen genau in der Mitte stehen. Ein Verstellen des Schaltgestänges zwischen Schaltschienen und Schalthebel sollte vermieden werden und ist im allgemeinen auch gar nicht notwendig.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4.) Fit the gear levers on the serrated shift-shaft ends so that, with the gear lever in the middle position in the shift gate, the sliding sleeves also stand exactly in the middle. Adjusting the linkage between the selector rails and gear lever should be avoided and is generally not even necessary.",
+          "runs": [
+            {
+              "text": "4.) Fit the gear levers on the serrated shift-shaft ends so that, with the gear lever in the middle position in the shift gate, the sliding sleeves also stand exactly in the middle. Adjusting the linkage between the selector rails and gear lever should be avoided and is generally not even necessary.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4.º) Monte las palancas de cambio en los extremos estriados de los ejes de mando de modo que, con la palanca de cambios en la posición central de la guía, los manguitos deslizantes queden también exactamente en el centro. Debe evitarse ajustar el varillaje entre las correderas de mando y la palanca de cambios, y por lo general ni siquiera es necesario.",
+          "runs": [
+            {
+              "text": "4.º) Monte las palancas de cambio en los extremos estriados de los ejes de mando de modo que, con la palanca de cambios en la posición central de la guía, los manguitos deslizantes queden también exactamente en el centro. Debe evitarse ajustar el varillaje entre las correderas de mando y la palanca de cambios, y por lo general ni siquiera es necesario.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para05",
+      "text": {
+        "de": {
+          "plain": "5.) Anbau des Schalthebels. Hierzu wird wiederum zuerst das Lagerrohr eingezogen und dann der Schalthebel zusammen mit der Schaltführung befestigt.",
+          "runs": [
+            {
+              "text": "5.) Anbau des Schalthebels. Hierzu wird wiederum zuerst das Lagerrohr eingezogen und dann der Schalthebel zusammen mit der Schaltführung befestigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5.) Fit the gear lever. For this, again first draw in the bearing tube and then secure the gear lever together with the shift gate.",
+          "runs": [
+            {
+              "text": "5.) Fit the gear lever. For this, again first draw in the bearing tube and then secure the gear lever together with the shift gate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5.º) Monte la palanca de cambios. Para ello, introduzca primero de nuevo el tubo de cojinete y asegure después la palanca de cambios junto con la guía de cambios.",
+          "runs": [
+            {
+              "text": "5.º) Monte la palanca de cambios. Para ello, introduzca primero de nuevo el tubo de cojinete y asegure después la palanca de cambios junto con la guía de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para06",
+      "text": {
+        "de": {
+          "plain": "Behandlung:",
+          "runs": [
+            {
+              "text": "Behandlung:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Servicing:",
+          "runs": [
+            {
+              "text": "Servicing:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Mantenimiento:",
+          "runs": [
+            {
+              "text": "Mantenimiento:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para07",
+      "text": {
+        "de": {
+          "plain": "Es ist darauf zu achten, daß das Spiel „S\" zwischen den Schiebekeilen 4 und den Gleichlaufscheiben nicht mehr als 2 mm beträgt, da sonst vor Beendigung des Gleichlaufes die Verzahnung der Schiebehülse 1 in die des Zahnrades 7 eingreift und Geräusch entsteht.",
+          "runs": [
+            {
+              "text": "Es ist darauf zu achten, daß das Spiel „S\" zwischen den Schiebekeilen 4 und den Gleichlaufscheiben nicht mehr als 2 mm beträgt, da sonst vor Beendigung des Gleichlaufes die Verzahnung der Schiebehülse 1 in die des Zahnrades 7 eingreift und Geräusch entsteht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Ensure that the clearance “S” between the sliding keys 4 and the synchromesh discs is no more than 2 mm; otherwise, before synchronisation is complete, the teeth of sliding sleeve 1 engage those of gear 7 and noise arises.",
+          "runs": [
+            {
+              "text": "Ensure that the clearance “S” between the sliding keys 4 and the synchromesh discs is no more than 2 mm; otherwise, before synchronisation is complete, the teeth of sliding sleeve 1 engage those of gear 7 and noise arises.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Procure que la holgura «S» entre las chavetas deslizantes 4 y los discos de sincronización no sea mayor de 2 mm; de lo contrario, antes de completarse la sincronización, los dientes del manguito deslizante 1 engranan con los del piñón 7 y se produce ruido.",
+          "runs": [
+            {
+              "text": "Procure que la holgura «S» entre las chavetas deslizantes 4 y los discos de sincronización no sea mayor de 2 mm; de lo contrario, antes de completarse la sincronización, los dientes del manguito deslizante 1 engranan con los del piñón 7 y se produce ruido.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p046-para08",
+      "text": {
+        "de": {
+          "plain": "Zum Schmieren der Mitnehmer und Schaltschienen sind auf der rechten Seite des Gehäuses gegenüber dem Schalthebel zwei durch Sechskantschrauben verschlossene Löcher vorgesehen, durch die Öl …",
+          "runs": [
+            {
+              "text": "Zum Schmieren der Mitnehmer und Schaltschienen sind auf der rechten Seite des Gehäuses gegenüber dem Schalthebel zwei durch Sechskantschrauben verschlossene Löcher vorgesehen, durch die Öl …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For lubricating the dogs and selector rails, two holes closed by hexagon screws are provided on the right side of the housing, opposite the gear lever, through which oil …",
+          "runs": [
+            {
+              "text": "For lubricating the dogs and selector rails, two holes closed by hexagon screws are provided on the right side of the housing, opposite the gear lever, through which oil …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para lubricar los arrastradores y las correderas de mando, en el lado derecho de la carcasa, enfrente de la palanca de cambios, se disponen dos taladros cerrados por tornillos hexagonales a través de los cuales …",
+          "runs": [
+            {
+              "text": "Para lubricar los arrastradores y las correderas de mando, en el lado derecho de la carcasa, enfrente de la palanca de cambios, se disponen dos taladros cerrados por tornillos hexagonales a través de los cuales …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-045",
+    "next": "d65241a-page-047"
+  }
+}

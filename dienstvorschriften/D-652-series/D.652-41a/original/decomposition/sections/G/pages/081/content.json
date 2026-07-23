@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-081",
+  "document_id": "d652-41a",
+  "page": 81,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 9  Schnitt durch Kegeltrieb",
+    "en-GB": "Fig. 9  Section through the bevel drive",
+    "es-ES": "Fig. 9  Sección del par cónico"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 45,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild009",
+      "number": 9,
+      "captions": {
+        "de": {
+          "plain": "Bild 9  Schnitt durch Kegeltrieb",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 9  Section through the bevel drive",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 9  Sección del par cónico",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Schnitt C-D\nEntlüfter\nLenkgetriebe\nWechselgetriebe\nSchmierölleitung\nGeschwindigkeitsmesser\nSchmierölleitung\nKegeltrieb\nSchnitt E-F",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Section C-D (Schnitt C-D)\nbreather (Entlüfter)\nsteering gear (Lenkgetriebe)\ngearbox (Wechselgetriebe)\nlubricating-oil line (Schmierölleitung)\nspeedometer (Geschwindigkeitsmesser)\nlubricating-oil line (Schmierölleitung)\nbevel drive (Kegeltrieb)\nSection E-F (Schnitt E-F)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "sección C-D (Schnitt C-D)\nrespiradero (Entlüfter)\nmecanismo de dirección (Lenkgetriebe)\ncaja de cambios (Wechselgetriebe)\ntubería de aceite lubricante (Schmierölleitung)\nvelocímetro (Geschwindigkeitsmesser)\ntubería de aceite lubricante (Schmierölleitung)\npar cónico (Kegeltrieb)\nsección E-F (Schnitt E-F)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-080",
+    "next": "d65241a-page-082"
+  }
+}

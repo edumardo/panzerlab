@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-066",
+  "document_id": "d652-41a",
+  "page": 66,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 34,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p066-para01",
+      "text": {
+        "de": {
+          "plain": "Das Kupferrohr, auf dem die Verschraubung beweglich angeordnet ist, soll nach Möglichkeit nicht gebogen werden. Beim Einbau sind daher unter allen Umständen scharfe Biegungen und Knickungen zu vermeiden. Bei Richtungsänderungen dürfen in der Leitungsführung höchstens Biegungen von 3 cm Halbmesser gemacht werden, sofern man nicht Gefahr laufen will, die Leitung einzubrechen. Überflüssige Länge der Fernleitung ist in große Schleifen zu legen. Tauchkörper und Fernleitung dürfen niemals mit Werkzeugen (Zangen und dergl.) angefaßt werden, da Pressungen Haarrisse hervorrufen können, wodurch die Flüssigkeit entweicht und das Gerät nicht arbeitet.",
+          "runs": [
+            {
+              "text": "Das Kupferrohr, auf dem die Verschraubung beweglich angeordnet ist, soll nach Möglichkeit nicht gebogen werden. Beim Einbau sind daher unter allen Umständen scharfe Biegungen und Knickungen zu vermeiden. Bei Richtungsänderungen dürfen in der Leitungsführung höchstens Biegungen von 3 cm Halbmesser gemacht werden, sofern man nicht Gefahr laufen will, die Leitung einzubrechen. Überflüssige Länge der Fernleitung ist in große Schleifen zu legen. Tauchkörper und Fernleitung dürfen niemals mit Werkzeugen (Zangen und dergl.) angefaßt werden, da Pressungen Haarrisse hervorrufen können, wodurch die Flüssigkeit entweicht und das Gerät nicht arbeitet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The copper tube on which the union nut is movably arranged should, as far as possible, not be bent. During installation, sharp bends and kinks must therefore be avoided under all circumstances. Where the routing changes direction, the tightest bend permitted is a radius of 3 cm, unless one wishes to risk fracturing the line. Excess length of the remote line must be laid in large loops. The sensing bulb and remote line must never be handled with tools (pliers and the like), since pinching can cause hairline cracks through which the liquid escapes and the instrument ceases to work.",
+          "runs": [
+            {
+              "text": "The copper tube on which the union nut is movably arranged should, as far as possible, not be bent. During installation, sharp bends and kinks must therefore be avoided under all circumstances. Where the routing changes direction, the tightest bend permitted is a radius of 3 cm, unless one wishes to risk fracturing the line. Excess length of the remote line must be laid in large loops. The sensing bulb and remote line must never be handled with tools (pliers and the like), since pinching can cause hairline cracks through which the liquid escapes and the instrument ceases to work.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El tubo de cobre sobre el que va montada de forma móvil la tuerca de racor no debe doblarse, en lo posible. Durante el montaje deben evitarse por tanto, en todo caso, los dobleces bruscos y los acodamientos. Donde el trazado cambie de dirección, el doblez más cerrado admisible es de 3 cm de radio, salvo que se quiera correr el riesgo de fracturar la tubería. La longitud sobrante de la tubería a distancia debe disponerse en bucles amplios. El bulbo sensor y la tubería a distancia no deben manipularse nunca con herramientas (alicates y similares), pues los pellizcos pueden causar grietas capilares por las que se escapa el líquido y el instrumento deja de funcionar.",
+          "runs": [
+            {
+              "text": "El tubo de cobre sobre el que va montada de forma móvil la tuerca de racor no debe doblarse, en lo posible. Durante el montaje deben evitarse por tanto, en todo caso, los dobleces bruscos y los acodamientos. Donde el trazado cambie de dirección, el doblez más cerrado admisible es de 3 cm de radio, salvo que se quiera correr el riesgo de fracturar la tubería. La longitud sobrante de la tubería a distancia debe disponerse en bucles amplios. El bulbo sensor y la tubería a distancia no deben manipularse nunca con herramientas (alicates y similares), pues los pellizcos pueden causar grietas capilares por las que se escapa el líquido y el instrumento deja de funcionar.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p066-para02",
+      "text": {
+        "de": {
+          "plain": "Es empfiehlt sich, an beiden Enden der Fernleitung kurze Bogen zu machen, damit bei Dehnung zwischen Meßstellen und Schalttafel das Reißen der Leitung verhindert wird.",
+          "runs": [
+            {
+              "text": "Es empfiehlt sich, an beiden Enden der Fernleitung kurze Bogen zu machen, damit bei Dehnung zwischen Meßstellen und Schalttafel das Reißen der Leitung verhindert wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "It is advisable to make short curves at both ends of the remote line, so that tearing of the line is prevented when expansion occurs between the measuring points and the instrument panel.",
+          "runs": [
+            {
+              "text": "It is advisable to make short curves at both ends of the remote line, so that tearing of the line is prevented when expansion occurs between the measuring points and the instrument panel.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conviene hacer pequeñas curvas en ambos extremos de la tubería a distancia, de modo que se evite la rotura de la tubería cuando se produzca dilatación entre los puntos de medida y el cuadro de mandos.",
+          "runs": [
+            {
+              "text": "Conviene hacer pequeñas curvas en ambos extremos de la tubería a distancia, de modo que se evite la rotura de la tubería cuando se produzca dilatación entre los puntos de medida y el cuadro de mandos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p066-para03",
+      "text": {
+        "de": {
+          "plain": "Die übrige Leitung ist durch Rohrschellen in Abständen von 25 bis 30 cm fest zu verlegen, da Eigenschwingungen dieser Leitung auf die Dauer zum Bruch führen.",
+          "runs": [
+            {
+              "text": "Die übrige Leitung ist durch Rohrschellen in Abständen von 25 bis 30 cm fest zu verlegen, da Eigenschwingungen dieser Leitung auf die Dauer zum Bruch führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The remaining line must be laid firmly with pipe clamps at intervals of 25 to 30 cm, since natural vibration of this line leads to breakage in the long run.",
+          "runs": [
+            {
+              "text": "The remaining line must be laid firmly with pipe clamps at intervals of 25 to 30 cm, since natural vibration of this line leads to breakage in the long run.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El resto de la tubería debe fijarse firmemente con abrazaderas a intervalos de 25 a 30 cm, pues las vibraciones propias de esta tubería llevan a la rotura a la larga.",
+          "runs": [
+            {
+              "text": "El resto de la tubería debe fijarse firmemente con abrazaderas a intervalos de 25 a 30 cm, pues las vibraciones propias de esta tubería llevan a la rotura a la larga.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p066-para04",
+      "text": {
+        "de": {
+          "plain": "Die Anzeigegeräte dürfen niemals von unkundigen Händen geöffnet und Instandsetzungen nur beim Hersteller ausgeführt werden. Zerbrochene Glasscheiben sind sofort zu ersetzen.",
+          "runs": [
+            {
+              "text": "Die Anzeigegeräte dürfen niemals von unkundigen Händen geöffnet und Instandsetzungen nur beim Hersteller ausgeführt werden. Zerbrochene Glasscheiben sind sofort zu ersetzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The indicator instruments must never be opened by unqualified hands, and repairs may only be carried out by the manufacturer. Broken glass faces must be replaced immediately.",
+          "runs": [
+            {
+              "text": "The indicator instruments must never be opened by unqualified hands, and repairs may only be carried out by the manufacturer. Broken glass faces must be replaced immediately.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los instrumentos indicadores no deben nunca ser abiertos por manos inexpertas, y las reparaciones solo puede realizarlas el fabricante. Los cristales rotos deben sustituirse de inmediato.",
+          "runs": [
+            {
+              "text": "Los instrumentos indicadores no deben nunca ser abiertos por manos inexpertas, y las reparaciones solo puede realizarlas el fabricante. Los cristales rotos deben sustituirse de inmediato.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p066-para05",
+      "text": {
+        "de": {
+          "plain": "Nach Ausbau des Thermometers ist die Meßstelle durch eine mitgegebene Sechskantverschlußschraube zu verschließen.",
+          "runs": [
+            {
+              "text": "Nach Ausbau des Thermometers ist die Meßstelle durch eine mitgegebene Sechskantverschlußschraube zu verschließen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "After removal of the thermometer, the measuring point must be closed off with the hexagon screw plug (Sechskantverschlussschraube) supplied with it.",
+          "runs": [
+            {
+              "text": "After removal of the thermometer, the measuring point must be closed off with the hexagon screw plug (Sechskantverschlussschraube) supplied with it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Tras desmontar el termómetro, el punto de medida debe cerrarse con el tapón roscado hexagonal (Sechskantverschlußschraube) que se suministra con él.",
+          "runs": [
+            {
+              "text": "Tras desmontar el termómetro, el punto de medida debe cerrarse con el tapón roscado hexagonal (Sechskantverschlußschraube) que se suministra con él.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-065",
+    "next": "d65241a-page-067"
+  }
+}

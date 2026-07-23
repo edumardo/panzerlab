@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-054",
+  "document_id": "d652-41a",
+  "page": 54,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 28,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-054-para01",
+      "text": {
+        "de": {"plain": "3.) Bremsbacken durch Rechtsdrehen des Vierkantes in der Nachstellvorrichtung Nr. 6 mit Hilfe des Steckschlüssels III DB 51 zur leichten Anlage an die Bremstrommel bringen, d. h. die Bremsbacken dürfen die Bremstrommel soeben berühren. Die Bremstrommel läßt sich unter einiger Kraftaufwendung, jedoch noch von Hand, um das im Lenkgetriebe vorhandene Zahnspiel hin- und herbewegen. Im Winter bei dickem Getriebeöl erfordert das Drehen der Bremstrommel eine größere Kraft.", "runs": [{"text": "3.) Bremsbacken durch Rechtsdrehen des Vierkantes in der Nachstellvorrichtung Nr. 6 mit Hilfe des Steckschlüssels III DB 51 zur leichten Anlage an die Bremstrommel bringen, d. h. die Bremsbacken dürfen die Bremstrommel soeben berühren. Die Bremstrommel läßt sich unter einiger Kraftaufwendung, jedoch noch von Hand, um das im Lenkgetriebe vorhandene Zahnspiel hin- und herbewegen. Im Winter bei dickem Getriebeöl erfordert das Drehen der Bremstrommel eine größere Kraft.", "bold": false}]},
+        "en-GB": {"plain": "3.) Bring the brake shoes to a light contact with the brake drum by turning the square of adjusting device No. 6 clockwise with socket spanner III DB 51 – i.e. the shoes may just touch the drum. (The drum can still be moved by hand, with some effort, to move the backlash present in the steering gear to and fro. In winter, with thick gear oil, turning the drum takes greater force.)", "runs": [{"text": "3.) Bring the brake shoes to a light contact with the brake drum by turning the square of adjusting device No. 6 clockwise with socket spanner III DB 51 – i.e. the shoes may just touch the drum. (The drum can still be moved by hand, with some effort, to move the backlash present in the steering gear to and fro. In winter, with thick gear oil, turning the drum takes greater force.)", "bold": false}]},
+        "es-ES": {"plain": "3.º) Lleve las zapatas a un contacto ligero con el tambor de freno girando a derechas el cuadradillo del dispositivo de reglaje n.º 6 con la llave de vaso III DB 51 – es decir, las zapatas apenas deben rozar el tambor. (El tambor aún puede moverse a mano, con algo de esfuerzo, para desplazar de un lado a otro el juego existente en el mecanismo de dirección. En invierno, con aceite de transmisión espeso, girar el tambor exige mayor fuerza.)", "runs": [{"text": "3.º) Lleve las zapatas a un contacto ligero con el tambor de freno girando a derechas el cuadradillo del dispositivo de reglaje n.º 6 con la llave de vaso III DB 51 – es decir, las zapatas apenas deben rozar el tambor. (El tambor aún puede moverse a mano, con algo de esfuerzo, para desplazar de un lado a otro el juego existente en el mecanismo de dirección. En invierno, con aceite de transmisión espeso, girar el tambor exige mayor fuerza.)", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para02",
+      "text": {
+        "de": {"plain": "4.) Halteschrauben der Nachstellvorrichtung Nr. 6 wieder fest anziehen und den Vierkant der Nachstellvorrichtung Nr. 6 linksherum um zwei Umdrehungen — 8 Rastenstellungen = 0,3 mm Backenluft — zurückschrauben.", "runs": [{"text": "4.) Halteschrauben der Nachstellvorrichtung Nr. 6 wieder fest anziehen und den Vierkant der Nachstellvorrichtung Nr. 6 linksherum um zwei Umdrehungen — 8 Rastenstellungen = 0,3 mm Backenluft — zurückschrauben.", "bold": false}]},
+        "en-GB": {"plain": "4.) Retighten the retaining screws of adjusting device No. 6 firmly and turn its square back anticlockwise by two turns – 8 detent positions = 0.3 mm shoe clearance.", "runs": [{"text": "4.) Retighten the retaining screws of adjusting device No. 6 firmly and turn its square back anticlockwise by two turns – 8 detent positions = 0.3 mm shoe clearance.", "bold": false}]},
+        "es-ES": {"plain": "4.º) Reapriete firmemente los tornillos de retención del dispositivo de reglaje n.º 6 y gire su cuadradillo hacia atrás, a izquierdas, dos vueltas – 8 posiciones de enclavamiento = 0,3 mm de holgura de zapata.", "runs": [{"text": "4.º) Reapriete firmemente los tornillos de retención del dispositivo de reglaje n.º 6 y gire su cuadradillo hacia atrás, a izquierdas, dos vueltas – 8 posiciones de enclavamiento = 0,3 mm de holgura de zapata.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para03",
+      "text": {
+        "de": {"plain": "b) Neueinstellen nach Ausbau", "runs": [{"text": "b) Neueinstellen nach Ausbau", "bold": true}]},
+        "en-GB": {"plain": "b) Neueinstellen nach Ausbau – b) Fresh setting after removal", "runs": [{"text": "b) Neueinstellen nach Ausbau – b) Fresh setting after removal", "bold": true}]},
+        "es-ES": {"plain": "b) Neueinstellen nach Ausbau – b) Reglaje nuevo tras el desmontaje", "runs": [{"text": "b) Neueinstellen nach Ausbau – b) Reglaje nuevo tras el desmontaje", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para04",
+      "text": {
+        "de": {"plain": "1.) Feder einhängen und bei angezogenem Lenkhebel und gelöster Kugelbundmutter Nr. 7 auf das eingestempelte Längenmaß einstellen, Bild 25.", "runs": [{"text": "1.) Feder einhängen und bei angezogenem Lenkhebel und gelöster Kugelbundmutter Nr. 7 auf das eingestempelte Längenmaß einstellen, Bild 25.", "bold": false}]},
+        "en-GB": {"plain": "1.) Hang in the spring and, with the steering lever pulled and the ball-collar nut No. 7 released, set it to the stamped length dimension, Figure 25.", "runs": [{"text": "1.) Hang in the spring and, with the steering lever pulled and the ball-collar nut No. 7 released, set it to the stamped length dimension, Figure 25.", "bold": false}]},
+        "es-ES": {"plain": "1.º) Cuelgue el muelle y, con la palanca de dirección tirada y la tuerca de collarín esférico n.º 7 suelta, ajústelo a la medida de longitud grabada, figura 25.", "runs": [{"text": "1.º) Cuelgue el muelle y, con la palanca de dirección tirada y la tuerca de collarín esférico n.º 7 suelta, ajústelo a la medida de longitud grabada, figura 25.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para05",
+      "text": {
+        "de": {"plain": "2.) Einstellen der Bremsbacken wie unter a) Punkt 2 bis 4.", "runs": [{"text": "2.) Einstellen der Bremsbacken wie unter a) Punkt 2 bis 4.", "bold": false}]},
+        "en-GB": {"plain": "2.) Set the brake shoes as under a), points 2 to 4.", "runs": [{"text": "2.) Set the brake shoes as under a), points 2 to 4.", "bold": false}]},
+        "es-ES": {"plain": "2.º) Ajuste las zapatas como en a), puntos 2 a 4.", "runs": [{"text": "2.º) Ajuste las zapatas como en a), puntos 2 a 4.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para06",
+      "text": {
+        "de": {"plain": "3.) Winkelhebel Nr. 8 mit der Hand bis zum Anschlag anheben und Kugelbundmutter Nr. 7 soweit andrehen, bis das Spiel zwischen ihr und dem Winkelhebel auf etwa ein Zehntel Millimeter gesunken ist. Kugelbundmutter sichern.", "runs": [{"text": "3.) Winkelhebel Nr. 8 mit der Hand bis zum Anschlag anheben und Kugelbundmutter Nr. 7 soweit andrehen, bis das Spiel zwischen ihr und dem Winkelhebel auf etwa ein Zehntel Millimeter gesunken ist. Kugelbundmutter sichern.", "bold": false}]},
+        "en-GB": {"plain": "3.) Raise angle lever No. 8 by hand to the stop and turn ball-collar nut No. 7 in until the play between it and the angle lever has dropped to about one tenth of a millimetre. Secure the ball-collar nut.", "runs": [{"text": "3.) Raise angle lever No. 8 by hand to the stop and turn ball-collar nut No. 7 in until the play between it and the angle lever has dropped to about one tenth of a millimetre. Secure the ball-collar nut.", "bold": false}]},
+        "es-ES": {"plain": "3.º) Levante a mano la palanca acodada n.º 8 hasta el tope y enrosque la tuerca de collarín esférico n.º 7 hasta que el juego entre ella y la palanca acodada haya bajado a una décima de milímetro aproximadamente. Asegure la tuerca de collarín esférico.", "runs": [{"text": "3.º) Levante a mano la palanca acodada n.º 8 hasta el tope y enrosque la tuerca de collarín esférico n.º 7 hasta que el juego entre ella y la palanca acodada haya bajado a una décima de milímetro aproximadamente. Asegure la tuerca de collarín esférico.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para07",
+      "text": {
+        "de": {"plain": "4.) Beim Nachvornlegen des Lenkhebels wird nunmehr der Kurvenhebel Nr. 3 von der Bremsfeder Nr. 4 um etwa 14 mm angezogen, wodurch die Federspannung auf etwa 55 kg sinkt.", "runs": [{"text": "4.) Beim Nachvornlegen des Lenkhebels wird nunmehr der Kurvenhebel Nr. 3 von der Bremsfeder Nr. 4 um etwa 14 mm angezogen, wodurch die Federspannung auf etwa 55 kg sinkt.", "bold": false}]},
+        "en-GB": {"plain": "4.) When the steering lever is pushed forward again, cam lever No. 3 is now pulled about 14 mm by brake spring No. 4, whereby the spring tension drops to about 55 kg.", "runs": [{"text": "4.) When the steering lever is pushed forward again, cam lever No. 3 is now pulled about 14 mm by brake spring No. 4, whereby the spring tension drops to about 55 kg.", "bold": false}]},
+        "es-ES": {"plain": "4.º) Al empujar de nuevo la palanca de dirección hacia delante, el muelle de freno n.º 4 tira ahora de la palanca de leva n.º 3 unos 14 mm, con lo que la tensión del muelle baja a unos 55 kg.", "runs": [{"text": "4.º) Al empujar de nuevo la palanca de dirección hacia delante, el muelle de freno n.º 4 tira ahora de la palanca de leva n.º 3 unos 14 mm, con lo que la tensión del muelle baja a unos 55 kg.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para08",
+      "text": {
+        "de": {"plain": "Prüfung 1", "runs": [{"text": "Prüfung 1", "bold": true}]},
+        "en-GB": {"plain": "Prüfung 1 – Check 1", "runs": [{"text": "Prüfung 1 – Check 1", "bold": true}]},
+        "es-ES": {"plain": "Prüfung 1 – Comprobación 1", "runs": [{"text": "Prüfung 1 – Comprobación 1", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para09",
+      "text": {
+        "de": {"plain": "Bei einer sachgemäß eingestellten Stützbremse darf die Rolle des Rollenhebels Nr. 2 den Kurvenhebel Nr. 3 nicht berühren. Die Berührung des Kurvenhebels Nr. 3 durch die Rolle des Rollenhebels Nr. 2 darf erst nach dem Leerhub des Lenkhebels Nr. 1, und zwar etwa 24 mm vor dem Kurvenbuckel „B\" erfolgen. Bei nach vorn gelegtem Lenkhebel befindet sich zwischen der Rolle des Rollenhebels Nr. 2 und der Stützbremstrommel ein Abstand von etwa 5 mm.", "runs": [{"text": "Bei einer sachgemäß eingestellten Stützbremse darf die Rolle des Rollenhebels Nr. 2 den Kurvenhebel Nr. 3 nicht berühren. Die Berührung des Kurvenhebels Nr. 3 durch die Rolle des Rollenhebels Nr. 2 darf erst nach dem Leerhub des Lenkhebels Nr. 1, und zwar etwa 24 mm vor dem Kurvenbuckel „B\" erfolgen. Bei nach vorn gelegtem Lenkhebel befindet sich zwischen der Rolle des Rollenhebels Nr. 2 und der Stützbremstrommel ein Abstand von etwa 5 mm.", "bold": false}]},
+        "en-GB": {"plain": "With a properly adjusted support brake, the roller of roller lever No. 2 must not touch cam lever No. 3. Contact may occur only after the free travel of steering lever No. 1, i.e. about 24 mm before cam crest \"B\". With the steering lever pushed forward, there is a gap of about 5 mm between the roller of roller lever No. 2 and the support-brake drum.", "runs": [{"text": "With a properly adjusted support brake, the roller of roller lever No. 2 must not touch cam lever No. 3. Contact may occur only after the free travel of steering lever No. 1, i.e. about 24 mm before cam crest \"B\". With the steering lever pushed forward, there is a gap of about 5 mm between the roller of roller lever No. 2 and the support-brake drum.", "bold": false}]},
+        "es-ES": {"plain": "Con el freno de apoyo bien ajustado, el rodillo de la palanca de rodillo n.º 2 no debe tocar la palanca de leva n.º 3. El contacto solo puede producirse tras la carrera libre de la palanca de dirección n.º 1, es decir, unos 24 mm antes de la cresta de leva «B». Con la palanca de dirección empujada hacia delante, hay una holgura de unos 5 mm entre el rodillo de la palanca de rodillo n.º 2 y el tambor del freno de apoyo.", "runs": [{"text": "Con el freno de apoyo bien ajustado, el rodillo de la palanca de rodillo n.º 2 no debe tocar la palanca de leva n.º 3. El contacto solo puede producirse tras la carrera libre de la palanca de dirección n.º 1, es decir, unos 24 mm antes de la cresta de leva «B». Con la palanca de dirección empujada hacia delante, hay una holgura de unos 5 mm entre el rodillo de la palanca de rodillo n.º 2 y el tambor del freno de apoyo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para10",
+      "text": {
+        "de": {"plain": "Die am Lenkhebel Nr. 1 auszuübende Kraft soll 9 bis 12 kg, bei umgelegtem Nachspannhebel Nr. 5 etwa 20 kg, nicht überschreiten. Widrigenfalls ist das Gestänge auf klemmfreien Gang zu überprüfen.", "runs": [{"text": "Die am Lenkhebel Nr. 1 auszuübende Kraft soll 9 bis 12 kg, bei umgelegtem Nachspannhebel Nr. 5 etwa 20 kg, nicht überschreiten. Widrigenfalls ist das Gestänge auf klemmfreien Gang zu überprüfen.", "bold": false}]},
+        "en-GB": {"plain": "The force at steering lever No. 1 should not exceed 9 to 12 kg, and about 20 kg with tensioning lever No. 5 thrown over. Otherwise check the linkage for free movement.", "runs": [{"text": "The force at steering lever No. 1 should not exceed 9 to 12 kg, and about 20 kg with tensioning lever No. 5 thrown over. Otherwise check the linkage for free movement.", "bold": false}]},
+        "es-ES": {"plain": "La fuerza en la palanca de dirección n.º 1 no debe superar los 9 a 12 kg, y unos 20 kg con la palanca de tensado n.º 5 abatida. En caso contrario, compruebe que el varillaje se mueva con libertad.", "runs": [{"text": "La fuerza en la palanca de dirección n.º 1 no debe superar los 9 a 12 kg, y unos 20 kg con la palanca de tensado n.º 5 abatida. En caso contrario, compruebe que el varillaje se mueva con libertad.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para11",
+      "text": {
+        "de": {"plain": "Einstellen der Lenkbremse, Bild 24 und 25", "runs": [{"text": "Einstellen der Lenkbremse, Bild 24 und 25", "bold": true}]},
+        "en-GB": {"plain": "Einstellen der Lenkbremse, Bild 24 und 25 – Adjusting the steering brake, Figures 24 and 25", "runs": [{"text": "Einstellen der Lenkbremse, Bild 24 und 25 – Adjusting the steering brake, Figures 24 and 25", "bold": true}]},
+        "es-ES": {"plain": "Einstellen der Lenkbremse, Bild 24 und 25 – Ajuste del freno de dirección, figuras 24 y 25", "runs": [{"text": "Einstellen der Lenkbremse, Bild 24 und 25 – Ajuste del freno de dirección, figuras 24 y 25", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-054-para12",
+      "text": {
+        "de": {"plain": "1.) Halteschrauben der Nachstellvorrichtung Nr. 9 mit Hilfe des langen Sechskantzapfenschlüssels III DB 132 lösen.", "runs": [{"text": "1.) Halteschrauben der Nachstellvorrichtung Nr. 9 mit Hilfe des langen Sechskantzapfenschlüssels III DB 132 lösen.", "bold": false}]},
+        "en-GB": {"plain": "1.) Undo the retaining screws of adjusting device No. 9 with the long hexagon-socket spanner III DB 132.", "runs": [{"text": "1.) Undo the retaining screws of adjusting device No. 9 with the long hexagon-socket spanner III DB 132.", "bold": false}]},
+        "es-ES": {"plain": "1.º) Suelte los tornillos de retención del dispositivo de reglaje n.º 9 con la llave de vaso hexagonal larga III DB 132.", "runs": [{"text": "1.º) Suelte los tornillos de retención del dispositivo de reglaje n.º 9 con la llave de vaso hexagonal larga III DB 132.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-053",
+    "next": "d65241a-page-055"
+  }
+}

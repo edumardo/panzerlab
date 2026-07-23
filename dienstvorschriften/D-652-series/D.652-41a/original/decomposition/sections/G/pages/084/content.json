@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-084",
+  "document_id": "d652-41a",
+  "page": 84,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 13  Lenkbremse",
+    "en-GB": "Fig. 13  Steering brake",
+    "es-ES": "Fig. 13  Freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 48,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild013",
+      "number": 13,
+      "captions": {
+        "de": {
+          "plain": "Bild 13  Lenkbremse",
+          "runs": [
+            { "text": "Bild 13  Lenkbremse", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 13  Steering brake",
+          "runs": [
+            { "text": "Fig. 13  Steering brake", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 13  Freno de dirección",
+          "runs": [
+            { "text": "Fig. 13  Freno de dirección", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "1 Lagergehäuse\n2 Flanschnabe\n3 Bremstrommel\n4 Ritzelwelle\n5 Haltegabel\n6 Nachstellvorrichtung\n7 Anschlag\n8 Bremskeil\n9 Äußerer Bremshebel\n10 Erreger-Bremsbacke\n11 Erregte Bremsbacke\nInnerer Bremshebel\nEntlüfter\nZugfeder\nLuftabsaugkrümmer\nBremsbelag\nBackenrückholfeder\nAsbestschlauch\nRolle\nFahrtrichtung\nDrehrichtung Lenkbremse",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "1 bearing housing (Lagergehäuse)\n2 flange hub (Flanschnabe)\n3 brake drum (Bremstrommel)\n4 pinion shaft (Ritzelwelle)\n5 retaining fork (Haltegabel)\n6 adjusting device (Nachstellvorrichtung)\n7 stop (Anschlag)\n8 brake wedge (Bremskeil)\n9 outer brake lever (Äußerer Bremshebel)\n10 actuating (exciter) brake shoe (Erreger-Bremsbacke)\n11 energised brake shoe (Erregte Bremsbacke)\ninner brake lever (Innerer Bremshebel)\nbreather (Entlüfter)\ntension spring (Zugfeder)\nair-extraction elbow (Luftabsaugkrümmer)\nbrake lining (Bremsbelag)\nshoe return spring (Backenrückholfeder)\nasbestos hose (Asbestschlauch)\nroller (Rolle)\ndirection of travel (Fahrtrichtung)\nsteering-brake direction of rotation (Drehrichtung Lenkbremse)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "1 carcasa de cojinete (Lagergehäuse)\n2 cubo embridado (Flanschnabe)\n3 tambor de freno (Bremstrommel)\n4 eje del piñón (Ritzelwelle)\n5 horquilla de retención (Haltegabel)\n6 dispositivo de reglaje (Nachstellvorrichtung)\n7 tope (Anschlag)\n8 cuña de freno (Bremskeil)\n9 palanca de freno exterior (Äußerer Bremshebel)\n10 zapata excitadora (Erreger-Bremsbacke)\n11 zapata excitada (Erregte Bremsbacke)\npalanca de freno interior (Innerer Bremshebel)\npurgador (Entlüfter)\nmuelle de tracción (Zugfeder)\ncodo de aspiración de aire (Luftabsaugkrümmer)\nforro de freno (Bremsbelag)\nmuelle de retorno de las zapatas (Backenrückholfeder)\nmanguera de amianto (Asbestschlauch)\nrodillo (Rolle)\nsentido de la marcha (Fahrtrichtung)\nsentido de giro del freno de dirección (Drehrichtung Lenkbremse)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-083",
+    "next": "d65241a-page-085"
+  }
+}

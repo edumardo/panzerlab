@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-071",
+  "document_id": "d652-41a",
+  "page": 71,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 36,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p071-para01",
+      "text": {
+        "de": {
+          "plain": "stamm auf, so kann er mit Hilfe des zugehörigen Schleppseiles, das an der Kette und an einem festen Gegenstand (Baum oder dergl.) befestigt wird, wieder heruntergezogen werden.",
+          "runs": [
+            {
+              "text": "stamm auf, so kann er mit Hilfe des zugehörigen Schleppseiles, das an der Kette und an einem festen Gegenstand (Baum oder dergl.) befestigt wird, wieder heruntergezogen werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "... trunk, it can be pulled down again with the aid of the towing cable provided, which is attached to the track and to a fixed object (tree or the like).",
+          "runs": [
+            {
+              "text": "... trunk, it can be pulled down again with the aid of the towing cable provided, which is attached to the track and to a fixed object (tree or the like).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… tronco, puede volver a bajarse con ayuda del cable de remolque previsto, que se fija a la cadena y a un objeto fijo (un árbol o similar).",
+          "runs": [
+            {
+              "text": "… tronco, puede volver a bajarse con ayuda del cable de remolque previsto, que se fija a la cadena y a un objeto fijo (un árbol o similar).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p071-para02",
+      "text": {
+        "de": {
+          "plain": "Beim Umlegen von Bäumen ist so zu fahren, daß das Fahrzeug nicht durch das Wurzelwerk eines fallenden Baumes angehoben wird. Der letzte Druck auf den fallenden Baum muß durch Auffahren mit einer Kette ausgeübt werden.",
+          "runs": [
+            {
+              "text": "Beim Umlegen von Bäumen ist so zu fahren, daß das Fahrzeug nicht durch das Wurzelwerk eines fallenden Baumes angehoben wird. Der letzte Druck auf den fallenden Baum muß durch Auffahren mit einer Kette ausgeübt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When pushing over trees, drive in such a way that the vehicle is not lifted by the root system of a falling tree. The final push on the falling tree must be applied by driving up onto it with one track.",
+          "runs": [
+            {
+              "text": "When pushing over trees, drive in such a way that the vehicle is not lifted by the root system of a falling tree. The final push on the falling tree must be applied by driving up onto it with one track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al abatir árboles, conduzca de modo que el vehículo no quede levantado por el cepellón de raíces de un árbol que cae. El último empuje sobre el árbol que cae debe darse subiéndose sobre él con una cadena.",
+          "runs": [
+            {
+              "text": "Al abatir árboles, conduzca de modo que el vehículo no quede levantado por el cepellón de raíces de un árbol que cae. El último empuje sobre el árbol que cae debe darse subiéndose sobre él con una cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p071-para03",
+      "text": {
+        "de": {
+          "plain": "In sehr schlechtem Gelände (Bodenwellen und Löcher) ist so zu fahren, daß allzu starke Stöße und Beanspruchungen vermieden werden.",
+          "runs": [
+            {
+              "text": "In sehr schlechtem Gelände (Bodenwellen und Löcher) ist so zu fahren, daß allzu starke Stöße und Beanspruchungen vermieden werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In very poor terrain (undulations and holes), drive in such a way that excessively heavy shocks and stresses are avoided.",
+          "runs": [
+            {
+              "text": "In very poor terrain (undulations and holes), drive in such a way that excessively heavy shocks and stresses are avoided.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En terreno muy malo (ondulaciones y hoyos), conduzca de modo que se eviten choques y esfuerzos excesivamente fuertes.",
+          "runs": [
+            {
+              "text": "En terreno muy malo (ondulaciones y hoyos), conduzca de modo que se eviten choques y esfuerzos excesivamente fuertes.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-070",
+    "next": "d65241a-page-072"
+  }
+}

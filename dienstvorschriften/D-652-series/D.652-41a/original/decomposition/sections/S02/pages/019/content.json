@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-019",
+  "document_id": "d652-41a",
+  "page": 19,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 10,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p019-para01",
+      "text": {
+        "de": {
+          "plain": "… Gang, wenn vom zweiten in den dritten Gang geschaltet wird. Erst nach Niederdrücken des Knopfes auf dem Schaltgriff kann der fünfte und sechste Gang eingerückt werden.",
+          "runs": [
+            {
+              "text": "… Gang, wenn vom zweiten in den dritten Gang geschaltet wird. Erst nach Niederdrücken des Knopfes auf dem Schaltgriff kann der fünfte und sechste Gang eingerückt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… gear when changing from second to third. Only after pressing the button on the gear knob (Schaltgriff) can fifth and sixth gear be engaged.",
+          "runs": [
+            {
+              "text": "… gear when changing from second to third. Only after pressing the button on the gear knob (Schaltgriff) can fifth and sixth gear be engaged.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… al pasar de segunda a tercera. Solo tras pulsar el botón del pomo de cambios (Schaltgriff) pueden meterse la quinta y la sexta.",
+          "runs": [
+            {
+              "text": "… al pasar de segunda a tercera. Solo tras pulsar el botón del pomo de cambios (Schaltgriff) pueden meterse la quinta y la sexta.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para02",
+      "text": {
+        "de": {
+          "plain": "Die Schaltstellung des Rückwärtsganges ist durch einen federbelasteten Hebel gesichert, der durch einen Handhebel betätigt wird.",
+          "runs": [
+            {
+              "text": "Die Schaltstellung des Rückwärtsganges ist durch einen federbelasteten Hebel gesichert, der durch einen Handhebel betätigt wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The reverse-gear position is secured by a spring-loaded lever operated by a hand lever.",
+          "runs": [
+            {
+              "text": "The reverse-gear position is secured by a spring-loaded lever operated by a hand lever.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La posición de marcha atrás va asegurada por una palanca con muelle accionada mediante una palanca de mano.",
+          "runs": [
+            {
+              "text": "La posición de marcha atrás va asegurada por una palanca con muelle accionada mediante una palanca de mano.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para03",
+      "text": {
+        "de": {
+          "plain": "Sämtliche Gänge werden nach dem Einschalten eines Ganges gegeneinander verriegelt. Die Mittel- und Endstellungen des Schalthebels werden durch Kugelsperren gesichert.",
+          "runs": [
+            {
+              "text": "Sämtliche Gänge werden nach dem Einschalten eines Ganges gegeneinander verriegelt. Die Mittel- und Endstellungen des Schalthebels werden durch Kugelsperren gesichert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Once a gear is engaged, all gears are interlocked against one another. The intermediate and end positions of the gear lever are secured by ball detents (Kugelsperren).",
+          "runs": [
+            {
+              "text": "Once a gear is engaged, all gears are interlocked against one another. The intermediate and end positions of the gear lever are secured by ball detents (Kugelsperren).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Una vez metida una marcha, todas quedan enclavadas entre sí. Las posiciones intermedias y finales de la palanca de cambios van aseguradas por enclavamientos de bola (Kugelsperren).",
+          "runs": [
+            {
+              "text": "Una vez metida una marcha, todas quedan enclavadas entre sí. Las posiciones intermedias y finales de la palanca de cambios van aseguradas por enclavamientos de bola (Kugelsperren).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para04",
+      "text": {
+        "de": {
+          "plain": "Die Räder des ersten bis sechsten Ganges sind schräg verzahnt und dauernd im Eingriff. Diejenigen des Rückwärtsganges sind geradeverzahnt und werden beim Schalten eingerückt.",
+          "runs": [
+            {
+              "text": "Die Räder des ersten bis sechsten Ganges sind schräg verzahnt und dauernd im Eingriff. Diejenigen des Rückwärtsganges sind geradeverzahnt und werden beim Schalten eingerückt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gears for first to sixth are helically cut (schräg verzahnt) and permanently in mesh; those for reverse are straight-cut (geradeverzahnt) and are engaged only when shifting.",
+          "runs": [
+            {
+              "text": "The gears for first to sixth are helically cut (schräg verzahnt) and permanently in mesh; those for reverse are straight-cut (geradeverzahnt) and are engaged only when shifting.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los engranajes de primera a sexta son de dentado helicoidal (schräg verzahnt) y están permanentemente engranados; los de la marcha atrás son de dentado recto (geradeverzahnt) y solo engranan al cambiar.",
+          "runs": [
+            {
+              "text": "Los engranajes de primera a sexta son de dentado helicoidal (schräg verzahnt) y están permanentemente engranados; los de la marcha atrás son de dentado recto (geradeverzahnt) y solo engranan al cambiar.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para05",
+      "text": {
+        "de": {
+          "plain": "Die Gleichlaufeinrichtung, deren Anordnung und Wirkungsweise anschließend beschrieben ist, gestattet ein geräuschloses Schalten.",
+          "runs": [
+            {
+              "text": "Die Gleichlaufeinrichtung, deren Anordnung und Wirkungsweise anschließend beschrieben ist, gestattet ein geräuschloses Schalten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The synchromesh (Gleichlaufeinrichtung), whose arrangement and operation are described below, allows silent gear-changing.",
+          "runs": [
+            {
+              "text": "The synchromesh (Gleichlaufeinrichtung), whose arrangement and operation are described below, allows silent gear-changing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El dispositivo de sincronización (Gleichlaufeinrichtung), cuya disposición y funcionamiento se describen a continuación, permite un cambio de marchas silencioso.",
+          "runs": [
+            {
+              "text": "El dispositivo de sincronización (Gleichlaufeinrichtung), cuya disposición y funcionamiento se describen a continuación, permite un cambio de marchas silencioso.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para06",
+      "text": {
+        "de": {
+          "plain": "Der Schalthebel bewegt über Mitnehmer die Schaltschienen, an die das Schaltgestänge angeschlossen ist. Dieses Gestänge, das die Gleichlaufschiebehülsen verschiebt, ist zum genauen Einstellen verstellbar. Das Einstellen wird beim Zusammenbau vorgenommen.",
+          "runs": [
+            {
+              "text": "Der Schalthebel bewegt über Mitnehmer die Schaltschienen, an die das Schaltgestänge angeschlossen ist. Dieses Gestänge, das die Gleichlaufschiebehülsen verschiebt, ist zum genauen Einstellen verstellbar. Das Einstellen wird beim Zusammenbau vorgenommen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Through dogs (Mitnehmer) the gear lever moves the selector rails (Schaltschienen), to which the shift linkage (Schaltgestänge) is connected. This linkage, which moves the synchromesh sliding sleeves (Gleichlaufschiebehülsen), is adjustable for precise setting; the setting is done during assembly.",
+          "runs": [
+            {
+              "text": "Through dogs (Mitnehmer) the gear lever moves the selector rails (Schaltschienen), to which the shift linkage (Schaltgestänge) is connected. This linkage, which moves the synchromesh sliding sleeves (Gleichlaufschiebehülsen), is adjustable for precise setting; the setting is done during assembly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Mediante arrastradores (Mitnehmer), la palanca de cambios mueve las correderas de mando (Schaltschienen), a las que va unido el varillaje de cambio (Schaltgestänge). Este varillaje, que mueve los manguitos deslizantes de sincronización (Gleichlaufschiebehülsen), es regulable para un ajuste preciso; el ajuste se realiza durante el montaje.",
+          "runs": [
+            {
+              "text": "Mediante arrastradores (Mitnehmer), la palanca de cambios mueve las correderas de mando (Schaltschienen), a las que va unido el varillaje de cambio (Schaltgestänge). Este varillaje, que mueve los manguitos deslizantes de sincronización (Gleichlaufschiebehülsen), es regulable para un ajuste preciso; el ajuste se realiza durante el montaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para07",
+      "text": {
+        "de": {
+          "plain": "Das Getriebe wird durch eine Zahnradpumpe geschmiert, die im Innern des Getriebegehäuses liegt.",
+          "runs": [
+            {
+              "text": "Das Getriebe wird durch eine Zahnradpumpe geschmiert, die im Innern des Getriebegehäuses liegt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gearbox is lubricated by a gear pump (Zahnradpumpe) located inside the gearbox casing.",
+          "runs": [
+            {
+              "text": "The gearbox is lubricated by a gear pump (Zahnradpumpe) located inside the gearbox casing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La caja de cambios se lubrica mediante una bomba de engranajes (Zahnradpumpe) situada dentro de la carcasa.",
+          "runs": [
+            {
+              "text": "La caja de cambios se lubrica mediante una bomba de engranajes (Zahnradpumpe) situada dentro de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para08",
+      "text": {
+        "de": {
+          "plain": "Das Öl wird vom Ölsumpf über ein Spaltfilter den Zahnrädern des Wechselgetriebes zugeführt. Außerdem versorgt die Ölpumpe die Lenkgetriebe und den Kegeltrieb mit Öl, das von dort in das Wechselgetriebe zurückläuft. Die Zahnräder des ersten und Rückwärtsganges sind nicht an diesen Ölkreislauf angeschlossen, sondern tauchen in den Ölsumpf ein.",
+          "runs": [
+            {
+              "text": "Das Öl wird vom Ölsumpf über ein Spaltfilter den Zahnrädern des Wechselgetriebes zugeführt. Außerdem versorgt die Ölpumpe die Lenkgetriebe und den Kegeltrieb mit Öl, das von dort in das Wechselgetriebe zurückläuft. Die Zahnräder des ersten und Rückwärtsganges sind nicht an diesen Ölkreislauf angeschlossen, sondern tauchen in den Ölsumpf ein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Oil is fed from the oil sump (Ölsumpf) via a gap filter (Spaltfilter) to the gears of the gearbox. The oil pump also supplies the steering gears (Lenkgetriebe) and the bevel drive (Kegeltrieb) with oil, which flows back from there into the gearbox. The gears for first and reverse are not connected to this oil circuit but dip into the oil sump.",
+          "runs": [
+            {
+              "text": "Oil is fed from the oil sump (Ölsumpf) via a gap filter (Spaltfilter) to the gears of the gearbox. The oil pump also supplies the steering gears (Lenkgetriebe) and the bevel drive (Kegeltrieb) with oil, which flows back from there into the gearbox. The gears for first and reverse are not connected to this oil circuit but dip into the oil sump.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El aceite se envía desde el cárter de aceite (Ölsumpf), a través de un filtro de ranura (Spaltfilter), a los engranajes de la caja. La bomba de aceite alimenta también los mecanismos de dirección (Lenkgetriebe) y el par cónico (Kegeltrieb), desde donde el aceite retorna a la caja. Los engranajes de primera y marcha atrás no están conectados a este circuito de aceite, sino que se sumergen en el cárter.",
+          "runs": [
+            {
+              "text": "El aceite se envía desde el cárter de aceite (Ölsumpf), a través de un filtro de ranura (Spaltfilter), a los engranajes de la caja. La bomba de aceite alimenta también los mecanismos de dirección (Lenkgetriebe) y el par cónico (Kegeltrieb), desde donde el aceite retorna a la caja. Los engranajes de primera y marcha atrás no están conectados a este circuito de aceite, sino que se sumergen en el cárter.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para09",
+      "text": {
+        "de": {
+          "plain": "Der Spaltfilter ist oben in das Gehäuse eingelassen und herausnehmbar. Durch Drehen des rechts auf dem Wechselgetriebe vorgesehenen Knebels wird der Filter gereinigt.",
+          "runs": [
+            {
+              "text": "Der Spaltfilter ist oben in das Gehäuse eingelassen und herausnehmbar. Durch Drehen des rechts auf dem Wechselgetriebe vorgesehenen Knebels wird der Filter gereinigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gap filter is set into the top of the casing and is removable. It is cleaned by turning the toggle (Knebel) provided on the right of the gearbox.",
+          "runs": [
+            {
+              "text": "The gap filter is set into the top of the casing and is removable. It is cleaned by turning the toggle (Knebel) provided on the right of the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El filtro de ranura va encajado en la parte superior de la carcasa y es extraíble. Se limpia girando la manecilla (Knebel) dispuesta a la derecha de la caja.",
+          "runs": [
+            {
+              "text": "El filtro de ranura va encajado en la parte superior de la carcasa y es extraíble. Se limpia girando la manecilla (Knebel) dispuesta a la derecha de la caja.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para10",
+      "text": {
+        "de": {
+          "plain": "Gleichlaufeinrichtung",
+          "runs": [
+            {
+              "text": "Gleichlaufeinrichtung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Synchromesh (Gleichlaufeinrichtung)",
+          "runs": [
+            {
+              "text": "Synchromesh (Gleichlaufeinrichtung)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Dispositivo de sincronización (Gleichlaufeinrichtung)",
+          "runs": [
+            {
+              "text": "Dispositivo de sincronización (Gleichlaufeinrichtung)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para11",
+      "text": {
+        "de": {
+          "plain": "Anordnung",
+          "runs": [
+            {
+              "text": "Anordnung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Arrangement",
+          "runs": [
+            {
+              "text": "Arrangement",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Disposición",
+          "runs": [
+            {
+              "text": "Disposición",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p019-para12",
+      "text": {
+        "de": {
+          "plain": "Mit dem Schalthebel ist über das vorher beschriebene Schaltgestänge die verschiebbare Schaltmuffe 1 verbunden. Durch die drei Keile 2 erfolgt die Kraftübertragung von der getriebenen Welle 3 auf die Schiebehülse 1. Drei Schiebekeile 4 befinden sich in Nuten der Schiebehülse 1 und werden durch je einen federbelasteten Riegel 5 in der Schiebehülse 1 lösbar festgehalten. Die drei Schiebekeile gleiten außerdem auf Abflachungen der Welle 3. Auf beiden Seiten der Schiebehülse 1 befinden sich außen Mitnehmerzähne 6.",
+          "runs": [
+            {
+              "text": "Mit dem Schalthebel ist über das vorher beschriebene Schaltgestänge die verschiebbare Schaltmuffe 1 verbunden. Durch die drei Keile 2 erfolgt die Kraftübertragung von der getriebenen Welle 3 auf die Schiebehülse 1. Drei Schiebekeile 4 befinden sich in Nuten der Schiebehülse 1 und werden durch je einen federbelasteten Riegel 5 in der Schiebehülse 1 lösbar festgehalten. Die drei Schiebekeile gleiten außerdem auf Abflachungen der Welle 3. Auf beiden Seiten der Schiebehülse 1 befinden sich außen Mitnehmerzähne 6.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The slidable selector sleeve 1 (Schaltmuffe) is connected to the gear lever through the shift linkage described above. Power is transmitted from the driven shaft 3 to the sliding sleeve 1 by the three keys 2 (Keile). Three sliding keys 4 (Schiebekeile) sit in grooves of the sliding sleeve 1 and are each releasably held in it by a spring-loaded catch 5 (Riegel); the three sliding keys also slide on flats of shaft 3. On both sides of the sliding sleeve 1 there are external dog teeth 6 (Mitnehmerzähne).",
+          "runs": [
+            {
+              "text": "The slidable selector sleeve 1 (Schaltmuffe) is connected to the gear lever through the shift linkage described above. Power is transmitted from the driven shaft 3 to the sliding sleeve 1 by the three keys 2 (Keile). Three sliding keys 4 (Schiebekeile) sit in grooves of the sliding sleeve 1 and are each releasably held in it by a spring-loaded catch 5 (Riegel); the three sliding keys also slide on flats of shaft 3. On both sides of the sliding sleeve 1 there are external dog teeth 6 (Mitnehmerzähne).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El manguito de mando deslizante 1 (Schaltmuffe) va unido a la palanca de cambios a través del varillaje descrito. La fuerza se transmite del eje conducido 3 al manguito deslizante 1 mediante las tres chavetas 2 (Keile). Tres chavetas deslizantes 4 (Schiebekeile) van alojadas en ranuras del manguito 1 y quedan retenidas en él de forma soltable por un pestillo con muelle 5 (Riegel); las tres chavetas deslizantes deslizan además sobre planos del eje 3. A ambos lados del manguito 1 hay dientes de arrastre exteriores 6 (Mitnehmerzähne).",
+          "runs": [
+            {
+              "text": "El manguito de mando deslizante 1 (Schaltmuffe) va unido a la palanca de cambios a través del varillaje descrito. La fuerza se transmite del eje conducido 3 al manguito deslizante 1 mediante las tres chavetas 2 (Keile). Tres chavetas deslizantes 4 (Schiebekeile) van alojadas en ranuras del manguito 1 y quedan retenidas en él de forma soltable por un pestillo con muelle 5 (Riegel); las tres chavetas deslizantes deslizan además sobre planos del eje 3. A ambos lados del manguito 1 hay dientes de arrastre exteriores 6 (Mitnehmerzähne).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-018",
+    "next": "d65241a-page-020"
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-010",
+  "document_id": "d652-41a",
+  "page": 10,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {
+    "de": "B. Beschreibung",
+    "en-GB": "B. Description",
+    "es-ES": "B. Descripción"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 6,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-010-para01",
+      "text": {
+        "de": {
+          "plain": "Zur richtigen Behandlung des Sturmgeschützes sowie zum schnelleren Feststellen und Beseitigen von Störungen ist genaue Kenntnis der einzelnen Teile und deren Zusammenwirken erforderlich.",
+          "runs": [
+            {
+              "text": "Zur richtigen Behandlung des Sturmgeschützes sowie zum schnelleren Feststellen und Beseitigen von Störungen ist genaue Kenntnis der einzelnen Teile und deren Zusammenwirken erforderlich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For the correct handling of the assault gun, and for the faster detection and elimination of faults, exact knowledge of the individual parts and their interaction is required.",
+          "runs": [
+            {
+              "text": "For the correct handling of the assault gun, and for the faster detection and elimination of faults, exact knowledge of the individual parts and their interaction is required.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para el manejo correcto del cañón de asalto, así como para localizar y subsanar averías con mayor rapidez, se requiere un conocimiento exacto de las piezas individuales y de su funcionamiento conjunto.",
+          "runs": [
+            {
+              "text": "Para el manejo correcto del cañón de asalto, así como para localizar y subsanar averías con mayor rapidez, se requiere un conocimiento exacto de las piezas individuales y de su funcionamiento conjunto.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para02",
+      "text": {
+        "de": {
+          "plain": "Nur sorgsames Behandeln und richtige Pflege des Gerätes verbürgen gute Leistungen und schützen vor frühzeitigem Unbrauchbarwerden.",
+          "runs": [
+            {
+              "text": "Nur sorgsames Behandeln und richtige Pflege des Gerätes verbürgen gute Leistungen und schützen vor frühzeitigem Unbrauchbarwerden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Only careful handling and correct maintenance of the equipment guarantee good performance and protect against premature deterioration (becoming unserviceable).",
+          "runs": [
+            {
+              "text": "Only careful handling and correct maintenance of the equipment guarantee good performance and protect against premature deterioration (becoming unserviceable).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Solo un trato cuidadoso y un mantenimiento correcto del material garantizan un buen rendimiento y lo protegen de quedar inservible prematuramente.",
+          "runs": [
+            {
+              "text": "Solo un trato cuidadoso y un mantenimiento correcto del material garantizan un buen rendimiento y lo protegen de quedar inservible prematuramente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para03",
+      "text": {
+        "de": {
+          "plain": "Besondere Vorkommnisse, die die Gebrauchsfähigkeit des Gerätes beeinträchtigen, sind sofort auf dem vorgeschriebenen Wege zu melden.",
+          "runs": [
+            {
+              "text": "Besondere Vorkommnisse, die die Gebrauchsfähigkeit des Gerätes beeinträchtigen, sind sofort auf dem vorgeschriebenen Wege zu melden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Special occurrences that impair the serviceability of the equipment are to be reported immediately through the prescribed channel.",
+          "runs": [
+            {
+              "text": "Special occurrences that impair the serviceability of the equipment are to be reported immediately through the prescribed channel.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las incidencias especiales que afecten a la capacidad de uso del material deben comunicarse de inmediato por el conducto reglamentario.",
+          "runs": [
+            {
+              "text": "Las incidencias especiales que afecten a la capacidad de uso del material deben comunicarse de inmediato por el conducto reglamentario.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para04",
+      "text": {
+        "de": {
+          "plain": "1. Allgemeines",
+          "runs": [
+            {
+              "text": "1. Allgemeines",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. General",
+          "runs": [
+            {
+              "text": "1. General",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. Generalidades",
+          "runs": [
+            {
+              "text": "1. Generalidades",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para05",
+      "text": {
+        "de": {
+          "plain": "Das Sturmgeschütz besteht aus dem Fahrgestell und dem darauf befestigten Panzeraufbau.",
+          "runs": [
+            {
+              "text": "Das Sturmgeschütz besteht aus dem Fahrgestell und dem darauf befestigten Panzeraufbau.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The assault gun consists of the chassis (Fahrgestell) and the armoured superstructure (Panzeraufbau) mounted on it.",
+          "runs": [
+            {
+              "text": "The assault gun consists of the chassis (Fahrgestell) and the armoured superstructure (Panzeraufbau) mounted on it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El cañón de asalto se compone del chasis (Fahrgestell) y de la superestructura blindada (Panzeraufbau) montada sobre él.",
+          "runs": [
+            {
+              "text": "El cañón de asalto se compone del chasis (Fahrgestell) y de la superestructura blindada (Panzeraufbau) montada sobre él.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para06",
+      "text": {
+        "de": {
+          "plain": "Fahrgestell und Panzeraufbau sind durch die Trennfuge geteilt.",
+          "runs": [
+            {
+              "text": "Fahrgestell und Panzeraufbau sind durch die Trennfuge geteilt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The chassis and superstructure are separated by the parting joint (Trennfuge).",
+          "runs": [
+            {
+              "text": "The chassis and superstructure are separated by the parting joint (Trennfuge).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El chasis y la superestructura están separados por la junta de separación (Trennfuge).",
+          "runs": [
+            {
+              "text": "El chasis y la superestructura están separados por la junta de separación (Trennfuge).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para07",
+      "text": {
+        "de": {
+          "plain": "Diese Vorschrift umfaßt nur das Fahrgestell.",
+          "runs": [
+            {
+              "text": "Diese Vorschrift umfaßt nur das Fahrgestell.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "This manual covers only the chassis.",
+          "runs": [
+            {
+              "text": "This manual covers only the chassis.",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Esta instrucción abarca únicamente el chasis.",
+          "runs": [
+            {
+              "text": "Esta instrucción abarca únicamente el chasis.",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para08",
+      "text": {
+        "de": {
+          "plain": "Der Panzeraufbau ist in der D 652/43 b beschrieben.",
+          "runs": [
+            {
+              "text": "Der Panzeraufbau ist in der D 652/43 b beschrieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The superstructure is described in D 652/43b.",
+          "runs": [
+            {
+              "text": "The superstructure is described in D 652/43b.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La superestructura se describe en la D 652/43b.",
+          "runs": [
+            {
+              "text": "La superestructura se describe en la D 652/43b.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para09",
+      "text": {
+        "de": {
+          "plain": "2. Hauptteile des Fahrgestells",
+          "runs": [
+            {
+              "text": "2. Hauptteile des Fahrgestells",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. Main components of the chassis",
+          "runs": [
+            {
+              "text": "2. Main components of the chassis",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Componentes principales del chasis",
+          "runs": [
+            {
+              "text": "2. Componentes principales del chasis",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para10",
+      "text": {
+        "de": {
+          "plain": "Bild 1—2",
+          "runs": [
+            {
+              "text": "Bild 1—2",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Figures 1–2",
+          "runs": [
+            {
+              "text": "Figures 1–2",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Figuras 1–2",
+          "runs": [
+            {
+              "text": "Figuras 1–2",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para11",
+      "text": {
+        "de": {
+          "plain": "Das Fahrgestell besteht aus folgenden Hauptteilen:",
+          "runs": [
+            {
+              "text": "Das Fahrgestell besteht aus folgenden Hauptteilen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The chassis consists of the following main components:",
+          "runs": [
+            {
+              "text": "The chassis consists of the following main components:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El chasis se compone de los siguientes componentes principales:",
+          "runs": [
+            {
+              "text": "El chasis se compone de los siguientes componentes principales:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para12",
+      "text": {
+        "de": {
+          "plain": "Panzerwanne",
+          "runs": [
+            {
+              "text": "Panzerwanne",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "armoured hull (Panzerwanne)",
+          "runs": [
+            {
+              "text": "armoured hull (Panzerwanne)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "casco blindado (Panzerwanne)",
+          "runs": [
+            {
+              "text": "casco blindado (Panzerwanne)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para13",
+      "text": {
+        "de": {
+          "plain": "Motor mit Kühlanlage und Zubehör",
+          "runs": [
+            {
+              "text": "Motor mit Kühlanlage und Zubehör",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "engine with cooling system and accessories (Motor mit Kühlanlage und Zubehör)",
+          "runs": [
+            {
+              "text": "engine with cooling system and accessories (Motor mit Kühlanlage und Zubehör)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "motor con sistema de refrigeración y accesorios (Motor mit Kühlanlage und Zubehör)",
+          "runs": [
+            {
+              "text": "motor con sistema de refrigeración y accesorios (Motor mit Kühlanlage und Zubehör)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para14",
+      "text": {
+        "de": {
+          "plain": "Hauptkupplung",
+          "runs": [
+            {
+              "text": "Hauptkupplung",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "main clutch (Hauptkupplung)",
+          "runs": [
+            {
+              "text": "main clutch (Hauptkupplung)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "embrague principal (Hauptkupplung)",
+          "runs": [
+            {
+              "text": "embrague principal (Hauptkupplung)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para15",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle",
+          "runs": [
+            {
+              "text": "Gelenkwelle",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "cardan shaft (Gelenkwelle)",
+          "runs": [
+            {
+              "text": "cardan shaft (Gelenkwelle)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "árbol de transmisión (Gelenkwelle)",
+          "runs": [
+            {
+              "text": "árbol de transmisión (Gelenkwelle)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para16",
+      "text": {
+        "de": {
+          "plain": "Wechselgetriebe mit Gebläse",
+          "runs": [
+            {
+              "text": "Wechselgetriebe mit Gebläse",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "gearbox with blower (Wechselgetriebe mit Gebläse)",
+          "runs": [
+            {
+              "text": "gearbox with blower (Wechselgetriebe mit Gebläse)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "caja de cambios con soplante (Wechselgetriebe mit Gebläse)",
+          "runs": [
+            {
+              "text": "caja de cambios con soplante (Wechselgetriebe mit Gebläse)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para17",
+      "text": {
+        "de": {
+          "plain": "Kegeltrieb, Lenkgetriebe mit Stützbremsen und Gelenkwellen",
+          "runs": [
+            {
+              "text": "Kegeltrieb, Lenkgetriebe mit Stützbremsen und Gelenkwellen",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "bevel drive, steering gear with support brakes and cardan shafts (Kegeltrieb, Lenkgetriebe mit Stützbremsen und Gelenkwellen)",
+          "runs": [
+            {
+              "text": "bevel drive, steering gear with support brakes and cardan shafts (Kegeltrieb, Lenkgetriebe mit Stützbremsen und Gelenkwellen)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "par cónico y mecanismos de dirección con frenos de apoyo y árboles cardán (Kegeltrieb, Lenkgetriebe mit Stützbremsen und Gelenkwellen)",
+          "runs": [
+            {
+              "text": "par cónico y mecanismos de dirección con frenos de apoyo y árboles cardán (Kegeltrieb, Lenkgetriebe mit Stützbremsen und Gelenkwellen)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para18",
+      "text": {
+        "de": {
+          "plain": "Lenkbremse",
+          "runs": [
+            {
+              "text": "Lenkbremse",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "steering brake (Lenkbremse)",
+          "runs": [
+            {
+              "text": "steering brake (Lenkbremse)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "freno de dirección (Lenkbremse)",
+          "runs": [
+            {
+              "text": "freno de dirección (Lenkbremse)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para19",
+      "text": {
+        "de": {
+          "plain": "Seitenvorgelege",
+          "runs": [
+            {
+              "text": "Seitenvorgelege",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "final drive (Seitenvorgelege)",
+          "runs": [
+            {
+              "text": "final drive (Seitenvorgelege)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "reductora final (Seitenvorgelege)",
+          "runs": [
+            {
+              "text": "reductora final (Seitenvorgelege)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para20",
+      "text": {
+        "de": {
+          "plain": "Laufwerk",
+          "runs": [
+            {
+              "text": "Laufwerk",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "running gear (Laufwerk)",
+          "runs": [
+            {
+              "text": "running gear (Laufwerk)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "tren de rodaje (Laufwerk)",
+          "runs": [
+            {
+              "text": "tren de rodaje (Laufwerk)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para21",
+      "text": {
+        "de": {
+          "plain": "Gleiskette",
+          "runs": [
+            {
+              "text": "Gleiskette",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "track (Gleiskette)",
+          "runs": [
+            {
+              "text": "track (Gleiskette)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "cadena (Gleiskette)",
+          "runs": [
+            {
+              "text": "cadena (Gleiskette)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para22",
+      "text": {
+        "de": {
+          "plain": "Lenkanlage",
+          "runs": [
+            {
+              "text": "Lenkanlage",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "steering system (Lenkanlage)",
+          "runs": [
+            {
+              "text": "steering system (Lenkanlage)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "sistema de dirección (Lenkanlage)",
+          "runs": [
+            {
+              "text": "sistema de dirección (Lenkanlage)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para23",
+      "text": {
+        "de": {
+          "plain": "Elektrische Ausrüstung",
+          "runs": [
+            {
+              "text": "Elektrische Ausrüstung",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "electrical equipment (Elektrische Ausrüstung)",
+          "runs": [
+            {
+              "text": "electrical equipment (Elektrische Ausrüstung)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "equipo eléctrico (Elektrische Ausrüstung)",
+          "runs": [
+            {
+              "text": "equipo eléctrico (Elektrische Ausrüstung)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para24",
+      "text": {
+        "de": {
+          "plain": "Schaltbrett und Zwischenwand",
+          "runs": [
+            {
+              "text": "Schaltbrett und Zwischenwand",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "switchboard and bulkhead (Schaltbrett und Zwischenwand)",
+          "runs": [
+            {
+              "text": "switchboard and bulkhead (Schaltbrett und Zwischenwand)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "cuadro de mandos y mamparo (Schaltbrett und Zwischenwand)",
+          "runs": [
+            {
+              "text": "cuadro de mandos y mamparo (Schaltbrett und Zwischenwand)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para25",
+      "text": {
+        "de": {
+          "plain": "Werkzeug",
+          "runs": [
+            {
+              "text": "Werkzeug",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "tools (Werkzeug)",
+          "runs": [
+            {
+              "text": "tools (Werkzeug)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "herramienta (Werkzeug)",
+          "runs": [
+            {
+              "text": "herramienta (Werkzeug)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para26",
+      "text": {
+        "de": {
+          "plain": "Hilfsgerät",
+          "runs": [
+            {
+              "text": "Hilfsgerät",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "auxiliary equipment (Hilfsgerät)",
+          "runs": [
+            {
+              "text": "auxiliary equipment (Hilfsgerät)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "equipo auxiliar (Hilfsgerät)",
+          "runs": [
+            {
+              "text": "equipo auxiliar (Hilfsgerät)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-010-para27",
+      "text": {
+        "de": {
+          "plain": "Schanzzeug",
+          "runs": [
+            {
+              "text": "Schanzzeug",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "entrenching tools (Schanzzeug)",
+          "runs": [
+            {
+              "text": "entrenching tools (Schanzzeug)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "útiles de zapa (Schanzzeug)",
+          "runs": [
+            {
+              "text": "útiles de zapa (Schanzzeug)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-009",
+    "next": "d65241a-page-011"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-100",
+  "document_id": "d652-41a",
+  "page": 100,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 30  Laufwerk, Ausbau",
+    "en-GB": "Fig. 30  Running gear, removal",
+    "es-ES": "Fig. 30  Tren de rodaje, desmontaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 64,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild030",
+      "number": 30,
+      "captions": {
+        "de": {
+          "plain": "Bild 30  Laufwerk, Ausbau",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 30  Running gear, removal",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 30  Tren de rodaje, desmontaje",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Teilbild 1: DB 100/2, DB 100/1, M14 Din 934\nTeilbild 2: DB 101/1, Schlüssel für Kappe DB 129, M22 Kr 751, DB 101/2\nTeilbild 3: M20 Kr 751, DB 102, DB 92/4, DB 92/2, DB 92/6, DB 92/3, DB 92/4\nTeilbild 4: DB 103/1, M22 Kr 751, DB 103/2, DB 103/3",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Sub-figure 1: DB 100/2, DB 100/1, M14 Din 934\nSub-figure 2: DB 101/1, spanner for the cap (Schlüssel für Kappe) DB 129, M22 Kr 751, DB 101/2\nSub-figure 3: M20 Kr 751, DB 102, DB 92/4, DB 92/2, DB 92/6, DB 92/3, DB 92/4\nSub-figure 4: DB 103/1, M22 Kr 751, DB 103/2, DB 103/3",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Figura parcial 1: DB 100/2, DB 100/1, M14 Din 934\nFigura parcial 2: DB 101/1, llave para la tapa (Schlüssel für Kappe) DB 129, M22 Kr 751, DB 101/2\nFigura parcial 3: M20 Kr 751, DB 102, DB 92/4, DB 92/2, DB 92/6, DB 92/3, DB 92/4\nFigura parcial 4: DB 103/1, M22 Kr 751, DB 103/2, DB 103/3",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-099",
+    "next": "d65241a-page-101"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-020",
+  "document_id": "d652-41a",
+  "page": 20,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 11,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p020-para01",
+      "text": {
+        "de": {
+          "plain": "Das Zahnrad 7 ist an beiden Seiten in Rollenlagern gelagert. Die Bohrung des Zahnrades ist mit durchgehenden Mitnehmerzähnen 8 versehen, die den einen Teil der Synchronisierungsscheiben 9 über Außennuten mitnehmen. Der andere Teil der Gleichlaufscheiben 10 wird durch Innennuten von der Welle 3 mitgenommen. In jeder Scheibengruppe folgt abwechselnd eine Scheibe 9 der Scheibe 10.",
+          "runs": [
+            {
+              "text": "Das Zahnrad 7 ist an beiden Seiten in Rollenlagern gelagert. Die Bohrung des Zahnrades ist mit durchgehenden Mitnehmerzähnen 8 versehen, die den einen Teil der Synchronisierungsscheiben 9 über Außennuten mitnehmen. Der andere Teil der Gleichlaufscheiben 10 wird durch Innennuten von der Welle 3 mitgenommen. In jeder Scheibengruppe folgt abwechselnd eine Scheibe 9 der Scheibe 10.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Gear 7 is supported on both sides in roller bearings. The bore of the gear has continuous dog teeth 8, which drive one set of synchronising discs 9 (Synchronisierungsscheiben) via external splines; the other set of synchromesh discs 10 (Gleichlaufscheiben) is driven by shaft 3 via internal splines. In each disc group, a disc 9 and a disc 10 alternate.",
+          "runs": [
+            {
+              "text": "Gear 7 is supported on both sides in roller bearings. The bore of the gear has continuous dog teeth 8, which drive one set of synchronising discs 9 (Synchronisierungsscheiben) via external splines; the other set of synchromesh discs 10 (Gleichlaufscheiben) is driven by shaft 3 via internal splines. In each disc group, a disc 9 and a disc 10 alternate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El piñón 7 va apoyado por ambos lados en cojinetes de rodillos. El taladro del piñón tiene un dentado de arrastre continuo 8, que acciona por estriado exterior un grupo de discos de sincronización 9 (Synchronisierungsscheiben); el otro grupo de discos de sincronización 10 (Gleichlaufscheiben) es accionado por el eje 3 mediante estriado interior. En cada grupo de discos se alternan un disco 9 y un disco 10.",
+          "runs": [
+            {
+              "text": "El piñón 7 va apoyado por ambos lados en cojinetes de rodillos. El taladro del piñón tiene un dentado de arrastre continuo 8, que acciona por estriado exterior un grupo de discos de sincronización 9 (Synchronisierungsscheiben); el otro grupo de discos de sincronización 10 (Gleichlaufscheiben) es accionado por el eje 3 mediante estriado interior. En cada grupo de discos se alternan un disco 9 y un disco 10.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para02",
+      "text": {
+        "de": {
+          "plain": "Wirkungsweise",
+          "runs": [
+            {
+              "text": "Wirkungsweise",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Operation",
+          "runs": [
+            {
+              "text": "Operation",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Funcionamiento",
+          "runs": [
+            {
+              "text": "Funcionamiento",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para03",
+      "text": {
+        "de": {
+          "plain": "Durch den Schalthebel wird die Schaltmuffe in Pfeilrichtung verschoben. Dabei werden durch die federbelasteten Riegel 5 die Schiebekeile 4 mitgenommen, welche nach Zurücklegen des Weges „S\" (Scheibenspiel) die Gleichlaufscheiben aneinanderpressen, bis Gleichlauf zwischen Welle 3 und Zahnrad 7 erreicht wird. Beim Weiterbewegen der Schiebehülse 1 werden die federbelasteten Riegel 5 aus den abgeschrägten Rasten der Schiebekeile 4 herausgeschoben. Wenn die Riegel 5 ihre oberste Stellung erreicht haben, besteht noch ein kleiner Zwischenraum zwischen den Mitnehmerzähnen 6 der Schiebehülse 1 und den Mitnehmerzähnen 8 des Zahnrades 7. Damit ist der Gleichlaufvorgang beendet, und nun werden die Mitnehmerzähne 6 in die Zähne 8 des Zahnrades eingeschoben, wodurch die kraftschlüssige Verbindung zwischen Welle 3 und Zahnrad 7 hergestellt ist.",
+          "runs": [
+            {
+              "text": "Durch den Schalthebel wird die Schaltmuffe in Pfeilrichtung verschoben. Dabei werden durch die federbelasteten Riegel 5 die Schiebekeile 4 mitgenommen, welche nach Zurücklegen des Weges „S\" (Scheibenspiel) die Gleichlaufscheiben aneinanderpressen, bis Gleichlauf zwischen Welle 3 und Zahnrad 7 erreicht wird. Beim Weiterbewegen der Schiebehülse 1 werden die federbelasteten Riegel 5 aus den abgeschrägten Rasten der Schiebekeile 4 herausgeschoben. Wenn die Riegel 5 ihre oberste Stellung erreicht haben, besteht noch ein kleiner Zwischenraum zwischen den Mitnehmerzähnen 6 der Schiebehülse 1 und den Mitnehmerzähnen 8 des Zahnrades 7. Damit ist der Gleichlaufvorgang beendet, und nun werden die Mitnehmerzähne 6 in die Zähne 8 des Zahnrades eingeschoben, wodurch die kraftschlüssige Verbindung zwischen Welle 3 und Zahnrad 7 hergestellt ist.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gear lever moves the selector sleeve in the direction of the arrow. In doing so, the spring-loaded catches 5 carry along the sliding keys 4 which, after covering the distance “S” (disc clearance, Scheibenspiel), press the synchromesh discs together until synchronism between shaft 3 and gear 7 is reached. As the sliding sleeve 1 moves on, the spring-loaded catches 5 are pushed out of the chamfered detents of the sliding keys 4. When the catches 5 have reached their uppermost position, a small gap still remains between the dog teeth 6 of the sliding sleeve 1 and the dog teeth 8 of gear 7. The synchronising process is thereby complete, and the dog teeth 6 are now slid into the teeth 8 of the gear, establishing the positive (force-locking) connection between shaft 3 and gear 7.",
+          "runs": [
+            {
+              "text": "The gear lever moves the selector sleeve in the direction of the arrow. In doing so, the spring-loaded catches 5 carry along the sliding keys 4 which, after covering the distance “S” (disc clearance, Scheibenspiel), press the synchromesh discs together until synchronism between shaft 3 and gear 7 is reached. As the sliding sleeve 1 moves on, the spring-loaded catches 5 are pushed out of the chamfered detents of the sliding keys 4. When the catches 5 have reached their uppermost position, a small gap still remains between the dog teeth 6 of the sliding sleeve 1 and the dog teeth 8 of gear 7. The synchronising process is thereby complete, and the dog teeth 6 are now slid into the teeth 8 of the gear, establishing the positive (force-locking) connection between shaft 3 and gear 7.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La palanca de cambios mueve el manguito de mando en el sentido de la flecha. Al hacerlo, los pestillos con muelle 5 arrastran las chavetas deslizantes 4 que, tras recorrer la distancia «S» (juego de discos, Scheibenspiel), aprietan entre sí los discos de sincronización hasta alcanzar el sincronismo entre el eje 3 y el piñón 7. Al seguir avanzando el manguito 1, los pestillos con muelle 5 son expulsados de los enclavamientos achaflanados de las chavetas deslizantes 4. Cuando los pestillos 5 han alcanzado su posición más alta, aún queda una pequeña holgura entre los dientes de arrastre 6 del manguito 1 y los dientes de arrastre 8 del piñón 7. Con ello queda concluido el proceso de sincronización, y los dientes de arrastre 6 se introducen ahora en los dientes 8 del piñón, estableciendo la unión positiva (por forma) entre el eje 3 y el piñón 7.",
+          "runs": [
+            {
+              "text": "La palanca de cambios mueve el manguito de mando en el sentido de la flecha. Al hacerlo, los pestillos con muelle 5 arrastran las chavetas deslizantes 4 que, tras recorrer la distancia «S» (juego de discos, Scheibenspiel), aprietan entre sí los discos de sincronización hasta alcanzar el sincronismo entre el eje 3 y el piñón 7. Al seguir avanzando el manguito 1, los pestillos con muelle 5 son expulsados de los enclavamientos achaflanados de las chavetas deslizantes 4. Cuando los pestillos 5 han alcanzado su posición más alta, aún queda una pequeña holgura entre los dientes de arrastre 6 del manguito 1 y los dientes de arrastre 8 del piñón 7. Con ello queda concluido el proceso de sincronización, y los dientes de arrastre 6 se introducen ahora en los dientes 8 del piñón, estableciendo la unión positiva (por forma) entre el eje 3 y el piñón 7.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para04",
+      "text": {
+        "de": {
+          "plain": "In der Schaltreihe aufeinanderfolgende Gänge liegen sich im Getriebe paarweise gegenüber, damit beim Gangwechsel die Schiebehülse beim Verschieben den einen Gang freigibt und den anderen kuppelt. In der Mitte liegt die Leerlaufstellung.",
+          "runs": [
+            {
+              "text": "In der Schaltreihe aufeinanderfolgende Gänge liegen sich im Getriebe paarweise gegenüber, damit beim Gangwechsel die Schiebehülse beim Verschieben den einen Gang freigibt und den anderen kuppelt. In der Mitte liegt die Leerlaufstellung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Gears that follow one another in the shift sequence lie opposite each other in pairs within the gearbox, so that on a gear change the sliding sleeve releases one gear and couples the other as it moves. The neutral position (Leerlaufstellung) is in the middle.",
+          "runs": [
+            {
+              "text": "Gears that follow one another in the shift sequence lie opposite each other in pairs within the gearbox, so that on a gear change the sliding sleeve releases one gear and couples the other as it moves. The neutral position (Leerlaufstellung) is in the middle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las marchas que se suceden en la secuencia de cambio quedan enfrentadas por pares dentro de la caja, de modo que, al cambiar de marcha, el manguito deslizante libera una marcha y acopla la otra al desplazarse. La posición de punto muerto (Leerlaufstellung) queda en el centro.",
+          "runs": [
+            {
+              "text": "Las marchas que se suceden en la secuencia de cambio quedan enfrentadas por pares dentro de la caja, de modo que, al cambiar de marcha, el manguito deslizante libera una marcha y acopla la otra al desplazarse. La posición de punto muerto (Leerlaufstellung) queda en el centro.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para05",
+      "text": {
+        "de": {
+          "plain": "7. Kegeltrieb, Lenkgetriebe und Seitenwellen, Bild 8 bis 11",
+          "runs": [
+            {
+              "text": "7. Kegeltrieb, Lenkgetriebe und Seitenwellen, Bild 8 bis 11",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7. Bevel drive, steering gears and side shafts (Kegeltrieb, Lenkgetriebe und Seitenwellen), Figures 8 to 11",
+          "runs": [
+            {
+              "text": "7. Bevel drive, steering gears and side shafts (Kegeltrieb, Lenkgetriebe und Seitenwellen), Figures 8 to 11",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7. Par cónico, mecanismos de dirección y semiejes (Kegeltrieb, Lenkgetriebe und Seitenwellen), figuras 8 a 11",
+          "runs": [
+            {
+              "text": "7. Par cónico, mecanismos de dirección y semiejes (Kegeltrieb, Lenkgetriebe und Seitenwellen), figuras 8 a 11",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para06",
+      "text": {
+        "de": {
+          "plain": "Kegeltrieb, Lenkgetriebe mit Stützbremsen",
+          "runs": [
+            {
+              "text": "Kegeltrieb, Lenkgetriebe mit Stützbremsen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bevel drive, steering gears with support brakes",
+          "runs": [
+            {
+              "text": "Bevel drive, steering gears with support brakes",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Par cónico, mecanismos de dirección con frenos de apoyo",
+          "runs": [
+            {
+              "text": "Par cónico, mecanismos de dirección con frenos de apoyo",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para07",
+      "text": {
+        "de": {
+          "plain": "An das Wechselgetriebe ist der Kegeltrieb mit den Lenkgetrieben in einem gemeinsamen Gehäuse angeflanscht. Dieses Gehäuse besteht aus drei Kammern, deren mittlere den Kegeltrieb mit einer Untersetzung von 1,07 : 1 enthält. Die beiden übrigen Kammern sind symmetrisch zur Mittelkammer angeordnet und enthalten das rechte und linke Lenkgetriebe.",
+          "runs": [
+            {
+              "text": "An das Wechselgetriebe ist der Kegeltrieb mit den Lenkgetrieben in einem gemeinsamen Gehäuse angeflanscht. Dieses Gehäuse besteht aus drei Kammern, deren mittlere den Kegeltrieb mit einer Untersetzung von 1,07 : 1 enthält. Die beiden übrigen Kammern sind symmetrisch zur Mittelkammer angeordnet und enthalten das rechte und linke Lenkgetriebe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The bevel drive with the steering gears is flanged to the gearbox in a common housing. This housing has three chambers; the middle one contains the bevel drive (Kegeltrieb) with a reduction of 1.07 : 1. The other two chambers are arranged symmetrically about the middle chamber and contain the right and left steering gears (Lenkgetriebe).",
+          "runs": [
+            {
+              "text": "The bevel drive with the steering gears is flanged to the gearbox in a common housing. This housing has three chambers; the middle one contains the bevel drive (Kegeltrieb) with a reduction of 1.07 : 1. The other two chambers are arranged symmetrically about the middle chamber and contain the right and left steering gears (Lenkgetriebe).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El par cónico con los mecanismos de dirección va embridado a la caja de cambios en una carcasa común. Esta carcasa tiene tres cámaras; la central contiene el par cónico (Kegeltrieb) con una reducción de 1,07 : 1. Las otras dos cámaras se disponen simétricamente respecto a la central y contienen los mecanismos de dirección (Lenkgetriebe) derecho e izquierdo.",
+          "runs": [
+            {
+              "text": "El par cónico con los mecanismos de dirección va embridado a la caja de cambios en una carcasa común. Esta carcasa tiene tres cámaras; la central contiene el par cónico (Kegeltrieb) con una reducción de 1,07 : 1. Las otras dos cámaras se disponen simétricamente respecto a la central y contienen los mecanismos de dirección (Lenkgetriebe) derecho e izquierdo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para08",
+      "text": {
+        "de": {
+          "plain": "Jedes Lenkgetriebe besteht aus einem Umlaufgetriebe mit einer Übersetzung von 1 : 1,391 und einem nachfolgenden Zahnradvorgelege mit einer Übersetzung 1 : 1,862.",
+          "runs": [
+            {
+              "text": "Jedes Lenkgetriebe besteht aus einem Umlaufgetriebe mit einer Übersetzung von 1 : 1,391 und einem nachfolgenden Zahnradvorgelege mit einer Übersetzung 1 : 1,862.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Each steering gear consists of an epicyclic gear (Umlaufgetriebe) with a ratio of 1 : 1.391 and a following spur-gear reduction (Zahnradvorgelege) with a ratio of 1 : 1.862.",
+          "runs": [
+            {
+              "text": "Each steering gear consists of an epicyclic gear (Umlaufgetriebe) with a ratio of 1 : 1.391 and a following spur-gear reduction (Zahnradvorgelege) with a ratio of 1 : 1.862.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cada mecanismo de dirección se compone de un engranaje planetario (Umlaufgetriebe) con una relación de 1 : 1,391 y una reductora de engranajes cilíndricos subsiguiente (Zahnradvorgelege) con una relación de 1 : 1,862.",
+          "runs": [
+            {
+              "text": "Cada mecanismo de dirección se compone de un engranaje planetario (Umlaufgetriebe) con una relación de 1 : 1,391 y una reductora de engranajes cilíndricos subsiguiente (Zahnradvorgelege) con una relación de 1 : 1,862.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p020-para09",
+      "text": {
+        "de": {
+          "plain": "Bei Geradeausfahrt dienen die Umlaufgetriebe lediglich als Übersetzungsgetriebe und bilden mit einem Zahnradvorgelege eine Gesamtuntersetzung von 1 : 2,6.",
+          "runs": [
+            {
+              "text": "Bei Geradeausfahrt dienen die Umlaufgetriebe lediglich als Übersetzungsgetriebe und bilden mit einem Zahnradvorgelege eine Gesamtuntersetzung von 1 : 2,6.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In straight-ahead driving, the epicyclic gears serve merely as reduction gears and, together with a spur-gear reduction, give an overall reduction of 1 : 2.6.",
+          "runs": [
+            {
+              "text": "In straight-ahead driving, the epicyclic gears serve merely as reduction gears and, together with a spur-gear reduction, give an overall reduction of 1 : 2.6.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En marcha en línea recta, los engranajes planetarios sirven simplemente como engranajes reductores y, junto con una reductora de engranajes cilíndricos, dan una reducción total de 1 : 2,6.",
+          "runs": [
+            {
+              "text": "En marcha en línea recta, los engranajes planetarios sirven simplemente como engranajes reductores y, junto con una reductora de engranajes cilíndricos, dan una reducción total de 1 : 2,6.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-019",
+    "next": "d65241a-page-021"
+  }
+}

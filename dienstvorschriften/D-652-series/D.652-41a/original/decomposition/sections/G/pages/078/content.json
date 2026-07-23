@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-078",
+  "document_id": "d652-41a",
+  "page": 78,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 6  Hauptkupplung",
+    "en-GB": "Fig. 6  Main clutch",
+    "es-ES": "Fig. 6  Embrague principal"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 42,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild006",
+      "number": 6,
+      "captions": {
+        "de": {
+          "plain": "Bild 6  Hauptkupplung",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 6  Main clutch",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 6  Embrague principal",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Kupplungsdeckel\nZwischenring\nKupplungsdruckfeder\nKupplungswelle\nEinstellmutter\nAusrücklager\nKupplungsflansch\nAusrückgabel\nAusrückwelle\nAusrückhebel\nKupplungsdruckplatte\nKupplungstreibscheibe\nMitnehmer\nKupplungsscheibe\nKupplungsbelag\nSchwungrad\nKupplungsgehäuse\nKupplungsdeckel\nAusrückplatte\nAusrückgabel\nAusrückwelle",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "clutch cover (Kupplungsdeckel)\nintermediate ring (Zwischenring)\nclutch pressure spring (Kupplungsdruckfeder)\nclutch shaft (Kupplungswelle)\nadjusting nut (Einstellmutter)\nrelease bearing (Ausrücklager)\nclutch flange (Kupplungsflansch)\nrelease fork (Ausrückgabel)\nrelease shaft (Ausrückwelle)\nrelease lever (Ausrückhebel)\nclutch pressure plate (Kupplungsdruckplatte)\nclutch driving disc (Kupplungstreibscheibe)\ndriver/entrainment plate (Mitnehmer)\nclutch disc (Kupplungsscheibe)\nclutch lining (Kupplungsbelag)\nflywheel (Schwungrad)\nclutch housing (Kupplungsgehäuse)\nclutch cover (Kupplungsdeckel)\nrelease plate (Ausrückplatte)\nrelease fork (Ausrückgabel)\nrelease shaft (Ausrückwelle)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "tapa del embrague (Kupplungsdeckel)\nanillo intermedio (Zwischenring)\nmuelle de presión del embrague (Kupplungsdruckfeder)\neje del embrague (Kupplungswelle)\ntuerca de ajuste (Einstellmutter)\ncojinete de desembrague (Ausrücklager)\nbrida del embrague (Kupplungsflansch)\nhorquilla de desembrague (Ausrückgabel)\neje de desembrague (Ausrückwelle)\npalanca de desembrague (Ausrückhebel)\nplato de presión (Kupplungsdruckplatte)\ndisco de arrastre (Kupplungstreibscheibe)\narrastrador (Mitnehmer)\ndisco de embrague (Kupplungsscheibe)\nforro de embrague (Kupplungsbelag)\nvolante (Schwungrad)\ncampana de embrague (Kupplungsgehäuse)\ntapa del embrague (Kupplungsdeckel)\nplaca de desembrague (Ausrückplatte)\nhorquilla de desembrague (Ausrückgabel)\neje de desembrague (Ausrückwelle)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-077",
+    "next": "d65241a-page-079"
+  }
+}

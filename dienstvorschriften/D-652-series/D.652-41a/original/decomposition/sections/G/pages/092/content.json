@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-092",
+  "document_id": "d652-41a",
+  "page": 92,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 21  Schmier- und Pflegeplan",
+    "en-GB": "Fig. 21  Lubrication and maintenance chart",
+    "es-ES": "Fig. 21  Esquema de lubricación y mantenimiento"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 56,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild021",
+      "number": 21,
+      "captions": {
+        "de": {
+          "plain": "Bild 21  Schmier- und Pflegeplan",
+          "runs": [
+            { "text": "Bild 21  Schmier- und Pflegeplan", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 21  Lubrication and maintenance chart",
+          "runs": [
+            { "text": "Fig. 21  Lubrication and maintenance chart", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 21  Esquema de lubricación y mantenimiento",
+          "runs": [
+            { "text": "Fig. 21  Esquema de lubricación y mantenimiento", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "1–36  Schmierstellen, durchnumeriert (die vollständige Aufstellung mit Bezeichnung, Schmierstoff und Fristen steht in Bild 22, Schmier- und Pflegeanweisung)\nÖlablaß\nÖlfilter\nEntlüfter\nEinfüllöffnung\nSammler\nel. Pumpe\nmech. Pumpen",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "1–36  numbered lubrication points (the full list of designations, lubricant and intervals is given in Figure 22, Lubrication and maintenance instructions)\noil drain (Ölablaß)\noil filter (Ölfilter)\nbreather (Entlüfter)\nfiller opening (Einfüllöffnung)\nbattery (Sammler)\nelectric pump (el. Pumpe)\nmechanical pumps (mech. Pumpen)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "1–36  puntos de lubricación numerados (la lista completa con denominación, lubricante e intervalos figura en la Fig. 22, Instrucciones de lubricación y mantenimiento)\npurga de aceite (Ölablaß)\nfiltro de aceite (Ölfilter)\npurgador (Entlüfter)\nboca de llenado (Einfüllöffnung)\nbatería (Sammler)\nbomba eléctrica (el. Pumpe)\nbombas mecánicas (mech. Pumpen)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-091",
+    "next": "d65241a-page-093"
+  }
+}

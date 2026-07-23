@@ -1,0 +1,26 @@
+{
+  "id": "FrontMatter",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "titles": {
+    "de": "Titelseite, Inhalt, Vorbemerkungen, A. Technische Angaben, B. Beschreibung §1-2",
+    "en-GB": "Title page, Contents, Preliminary remarks, A. Technical data, B. Description §1-2",
+    "es-ES": "Portada, Índice, Observaciones preliminares, A. Datos técnicos, B. Descripción §1-2"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

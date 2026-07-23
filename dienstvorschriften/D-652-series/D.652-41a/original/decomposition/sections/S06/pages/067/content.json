@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-067",
+  "document_id": "d652-41a",
+  "page": 67,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": "F. Fahrvorschrift",
+    "en-GB": "F. Driving instructions",
+    "es-ES": "F. Instrucciones de conducción"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 34,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p067-para01",
+      "text": {
+        "de": {
+          "plain": "31. Allgemeines",
+          "runs": [
+            {
+              "text": "31. Allgemeines",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "31. General",
+          "runs": [
+            {
+              "text": "31. General",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "31. Generalidades",
+          "runs": [
+            {
+              "text": "31. Generalidades",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para02",
+      "text": {
+        "de": {
+          "plain": "Vor jedem Anfahren ist darauf zu achten, daß die Fußbremse gelöst ist, da sonst Brüche der Seitenwellen eintreten.",
+          "runs": [
+            {
+              "text": "Vor jedem Anfahren ist darauf zu achten, daß die Fußbremse gelöst ist, da sonst Brüche der Seitenwellen eintreten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Before every move-off, ensure that the foot brake is released, otherwise fractures of the side (final-drive) shafts (Seitenwellen) will occur.",
+          "runs": [
+            {
+              "text": "Before every move-off, ensure that the foot brake is released, otherwise fractures of the side (final-drive) shafts (Seitenwellen) will occur.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Antes de cada arrancada, asegúrese de que el freno de pie esté suelto, pues de lo contrario se producen roturas de los semiejes (Seitenwellen).",
+          "runs": [
+            {
+              "text": "Antes de cada arrancada, asegúrese de que el freno de pie esté suelto, pues de lo contrario se producen roturas de los semiejes (Seitenwellen).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para03",
+      "text": {
+        "de": {
+          "plain": "Nicht unter 50° Kühlwassertemperatur anfahren.",
+          "runs": [
+            {
+              "text": "Nicht unter 50° Kühlwassertemperatur anfahren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Do not move off below a coolant temperature of 50 degrees.",
+          "runs": [
+            {
+              "text": "Do not move off below a coolant temperature of 50 degrees.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "No arranque por debajo de una temperatura del refrigerante de 50 grados.",
+          "runs": [
+            {
+              "text": "No arranque por debajo de una temperatura del refrigerante de 50 grados.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para04",
+      "text": {
+        "de": {
+          "plain": "Der Motor darf nicht über seine Normaldrehzahl von 2600 U/min laufen, also nicht im Bereich des roten Feldes des Drehzahlanzeigers fahren. Gangwechsel rechtzeitig vornehmen.",
+          "runs": [
+            {
+              "text": "Der Motor darf nicht über seine Normaldrehzahl von 2600 U/min laufen, also nicht im Bereich des roten Feldes des Drehzahlanzeigers fahren. Gangwechsel rechtzeitig vornehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The engine must not run above its normal speed of 2600 rpm, i.e. do not drive in the range of the red field on the tachometer. Change gear in good time.",
+          "runs": [
+            {
+              "text": "The engine must not run above its normal speed of 2600 rpm, i.e. do not drive in the range of the red field on the tachometer. Change gear in good time.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor no debe girar por encima de su régimen normal de 2600 rpm, es decir, no circule en el margen del campo rojo del cuentarrevoluciones. Cambie de marcha a tiempo.",
+          "runs": [
+            {
+              "text": "El motor no debe girar por encima de su régimen normal de 2600 rpm, es decir, no circule en el margen del campo rojo del cuentarrevoluciones. Cambie de marcha a tiempo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para05",
+      "text": {
+        "de": {
+          "plain": "Beim Gangwechsel darf der Motor ebenfalls nicht „überdreht\" werden, sonst Ventilfederbrüche.",
+          "runs": [
+            {
+              "text": "Beim Gangwechsel darf der Motor ebenfalls nicht „überdreht\" werden, sonst Ventilfederbrüche.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When changing gear the engine must likewise not be over-revved, otherwise valve-spring breakages result.",
+          "runs": [
+            {
+              "text": "When changing gear the engine must likewise not be over-revved, otherwise valve-spring breakages result.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al cambiar de marcha, el motor tampoco debe sobrerrevolucionarse, pues de lo contrario se rompen los muelles de válvula.",
+          "runs": [
+            {
+              "text": "Al cambiar de marcha, el motor tampoco debe sobrerrevolucionarse, pues de lo contrario se rompen los muelles de válvula.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para06",
+      "text": {
+        "de": {
+          "plain": "Die Gänge sind zügig zu schalten. Beim Schalten Wirkungsweise der Gleichlaufvorrichtung beachten: Gang rasch herausnehmen, während der Schaltpause Schalthebel nicht in Mittelstellung stehenlassen, sondern neuen Gang mit leichtem Druck gegen die Gleichlaufvorrichtung anlegen und dann einschalten. Aufwärtsschalten ohne Zwischenkuppeln. Beim Abwärtsschalten Zwischengas geben und Zwischenkuppeln.",
+          "runs": [
+            {
+              "text": "Die Gänge sind zügig zu schalten. Beim Schalten Wirkungsweise der Gleichlaufvorrichtung beachten: Gang rasch herausnehmen, während der Schaltpause Schalthebel nicht in Mittelstellung stehenlassen, sondern neuen Gang mit leichtem Druck gegen die Gleichlaufvorrichtung anlegen und dann einschalten. Aufwärtsschalten ohne Zwischenkuppeln. Beim Abwärtsschalten Zwischengas geben und Zwischenkuppeln.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gears must be shifted briskly. When shifting, observe the action of the synchromesh (Gleichlaufvorrichtung): take the gear out quickly; during the shift pause do not leave the gear lever in the neutral (middle) position, but bring the new gear up against the synchromesh with light pressure and then engage it. Change up without double-declutching. When changing down, blip the throttle (Zwischengas) and double-declutch.",
+          "runs": [
+            {
+              "text": "The gears must be shifted briskly. When shifting, observe the action of the synchromesh (Gleichlaufvorrichtung): take the gear out quickly; during the shift pause do not leave the gear lever in the neutral (middle) position, but bring the new gear up against the synchromesh with light pressure and then engage it. Change up without double-declutching. When changing down, blip the throttle (Zwischengas) and double-declutch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las marchas deben meterse con soltura. Al cambiar, observe el funcionamiento del sincronizador (Gleichlaufvorrichtung): saque la marcha con rapidez; durante la pausa de cambio no deje la palanca en punto muerto (posición central), sino apoye la nueva marcha con ligera presión contra el sincronizador y métala después. Suba de marcha sin doble embrague. Al reducir, dé un acelerón (Zwischengas) y haga doble embrague.",
+          "runs": [
+            {
+              "text": "Las marchas deben meterse con soltura. Al cambiar, observe el funcionamiento del sincronizador (Gleichlaufvorrichtung): saque la marcha con rapidez; durante la pausa de cambio no deje la palanca en punto muerto (posición central), sino apoye la nueva marcha con ligera presión contra el sincronizador y métala después. Suba de marcha sin doble embrague. Al reducir, dé un acelerón (Zwischengas) y haga doble embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para07",
+      "text": {
+        "de": {
+          "plain": "Die Kupplung nicht länger schleifen lassen, als unbedingt nötig. Beim Fahren den Fuß nicht auf dem Kupplungsfußhebel stehenlassen, damit Ausrückring nicht unnötig schleift.",
+          "runs": [
+            {
+              "text": "Die Kupplung nicht länger schleifen lassen, als unbedingt nötig. Beim Fahren den Fuß nicht auf dem Kupplungsfußhebel stehenlassen, damit Ausrückring nicht unnötig schleift.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Do not let the clutch slip any longer than absolutely necessary. When driving, do not rest the foot on the clutch pedal, so that the release ring (Ausrückring) does not rub unnecessarily.",
+          "runs": [
+            {
+              "text": "Do not let the clutch slip any longer than absolutely necessary. When driving, do not rest the foot on the clutch pedal, so that the release ring (Ausrückring) does not rub unnecessarily.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "No deje patinar el embrague más de lo estrictamente necesario. Al conducir, no apoye el pie en el pedal de embrague, para que el anillo de desembrague (Ausrückring) no roce innecesariamente.",
+          "runs": [
+            {
+              "text": "No deje patinar el embrague más de lo estrictamente necesario. Al conducir, no apoye el pie en el pedal de embrague, para que el anillo de desembrague (Ausrückring) no roce innecesariamente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para08",
+      "text": {
+        "de": {
+          "plain": "Der 1. Gang ist nur für steile Hänge aufwärts und abwärts, Gräben, Schluchten, Trichter und unübersichtliches Gelände zu verwenden. Im 1. Gang sowie bei durchrutschender Stützbremse ist der Nachspannhebel an der Stützbremsfeder in Richtung zum Fahrer (unten) umzulegen. In der Ebene ist mit dem 2. oder 3. Gang anzufahren. Nur auf freien und übersichtlichen Strecken hohe Geschwindigkeit fahren. An allen unübersichtlichen Stellen, insbesondere auch beim Überholen, rechtzeitig herunterschalten und vorsichtig fahren.",
+          "runs": [
+            {
+              "text": "Der 1. Gang ist nur für steile Hänge aufwärts und abwärts, Gräben, Schluchten, Trichter und unübersichtliches Gelände zu verwenden. Im 1. Gang sowie bei durchrutschender Stützbremse ist der Nachspannhebel an der Stützbremsfeder in Richtung zum Fahrer (unten) umzulegen. In der Ebene ist mit dem 2. oder 3. Gang anzufahren. Nur auf freien und übersichtlichen Strecken hohe Geschwindigkeit fahren. An allen unübersichtlichen Stellen, insbesondere auch beim Überholen, rechtzeitig herunterschalten und vorsichtig fahren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "First gear is to be used only for steep slopes up and down, ditches, gullies, craters and blind terrain. In first gear, and also when the support brake (Stützbremse) slips, the re-tensioning lever on the support-brake spring must be moved towards the driver (down). On level ground, move off in 2nd or 3rd gear. Drive at high speed only on open, clear stretches. At all blind spots, and especially when overtaking, change down in good time and drive carefully.",
+          "runs": [
+            {
+              "text": "First gear is to be used only for steep slopes up and down, ditches, gullies, craters and blind terrain. In first gear, and also when the support brake (Stützbremse) slips, the re-tensioning lever on the support-brake spring must be moved towards the driver (down). On level ground, move off in 2nd or 3rd gear. Drive at high speed only on open, clear stretches. At all blind spots, and especially when overtaking, change down in good time and drive carefully.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La primera marcha solo debe emplearse para pendientes pronunciadas, arriba y abajo, zanjas, barrancos, cráteres y terreno sin visibilidad. En primera, y también cuando el freno de apoyo (Stützbremse) patine, la palanca de retensado del muelle del freno de apoyo debe abatirse hacia el conductor (abajo). En llano, arranque en 2.ª o 3.ª. Circule a alta velocidad solo en tramos despejados y con visibilidad. En todos los puntos sin visibilidad, y en especial al adelantar, reduzca a tiempo y conduzca con prudencia.",
+          "runs": [
+            {
+              "text": "La primera marcha solo debe emplearse para pendientes pronunciadas, arriba y abajo, zanjas, barrancos, cráteres y terreno sin visibilidad. En primera, y también cuando el freno de apoyo (Stützbremse) patine, la palanca de retensado del muelle del freno de apoyo debe abatirse hacia el conductor (abajo). En llano, arranque en 2.ª o 3.ª. Circule a alta velocidad solo en tramos despejados y con visibilidad. En todos los puntos sin visibilidad, y en especial al adelantar, reduzca a tiempo y conduzca con prudencia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p067-para09",
+      "text": {
+        "de": {
+          "plain": "Wenn schwieriges Gelände langsame Fahrt bedingt, ist der Motor mit Rücksicht auf eine gute Kühlung mit höherer Drehzahl laufen zu lassen und der entsprechend niedrigere Gang einzuschalten.",
+          "runs": [
+            {
+              "text": "Wenn schwieriges Gelände langsame Fahrt bedingt, ist der Motor mit Rücksicht auf eine gute Kühlung mit höherer Drehzahl laufen zu lassen und der entsprechend niedrigere Gang einzuschalten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When difficult terrain calls for slow travel, the engine should be run at a higher speed for the sake of good cooling, and the correspondingly lower gear engaged.",
+          "runs": [
+            {
+              "text": "When difficult terrain calls for slow travel, the engine should be run at a higher speed for the sake of good cooling, and the correspondingly lower gear engaged.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cuando el terreno difícil exija marcha lenta, conviene hacer girar el motor a mayor régimen para una buena refrigeración y meter la marcha correspondientemente más baja.",
+          "runs": [
+            {
+              "text": "Cuando el terreno difícil exija marcha lenta, conviene hacer girar el motor a mayor régimen para una buena refrigeración y meter la marcha correspondientemente más baja.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-066",
+    "next": "d65241a-page-068"
+  }
+}

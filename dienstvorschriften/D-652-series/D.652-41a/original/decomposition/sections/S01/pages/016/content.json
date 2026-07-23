@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-016",
+  "document_id": "d652-41a",
+  "page": 16,
+  "section": "S01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 9,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p016-para01",
+      "text": {
+        "de": {
+          "plain": "vorgereinigte Luft durchströmt dann ein Feinfilter und wird durch den Auslaßstutzen und das Gabelrohr zum Vergaser weitergeleitet.",
+          "runs": [
+            {
+              "text": "vorgereinigte Luft durchströmt dann ein Feinfilter und wird durch den Auslaßstutzen und das Gabelrohr zum Vergaser weitergeleitet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "— then passes through a fine filter (Feinfilter) and is led on through the outlet stub (Auslaßstutzen) and the forked pipe to the carburettor.",
+          "runs": [
+            {
+              "text": "— then passes through a fine filter (Feinfilter) and is led on through the outlet stub (Auslaßstutzen) and the forked pipe to the carburettor.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "— pasa a continuación por un filtro fino (Feinfilter) y se conduce a través de la tubuladura de salida (Auslaßstutzen) y el tubo bifurcado hasta el carburador.",
+          "runs": [
+            {
+              "text": "— pasa a continuación por un filtro fino (Feinfilter) y se conduce a través de la tubuladura de salida (Auslaßstutzen) y el tubo bifurcado hasta el carburador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para02",
+      "text": {
+        "de": {
+          "plain": "d) Anlasser",
+          "runs": [
+            {
+              "text": "d) Anlasser",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Starter (Anlasser)",
+          "runs": [
+            {
+              "text": "d) Starter (Anlasser)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Motor de arranque (Anlasser)",
+          "runs": [
+            {
+              "text": "d) Motor de arranque (Anlasser)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para03",
+      "text": {
+        "de": {
+          "plain": "Für das Anlassen des Motors ist ein elektrischer Anlasser und ein Schwungkraftanlasser vorgesehen.",
+          "runs": [
+            {
+              "text": "Für das Anlassen des Motors ist ein elektrischer Anlasser und ein Schwungkraftanlasser vorgesehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "An electric starter (elektrischer Anlasser) and an inertia starter (Schwungkraftanlasser) are provided for starting the engine.",
+          "runs": [
+            {
+              "text": "An electric starter (elektrischer Anlasser) and an inertia starter (Schwungkraftanlasser) are provided for starting the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para el arranque del motor se disponen un motor de arranque eléctrico (elektrischer Anlasser) y un arrancador de inercia (Schwungkraftanlasser).",
+          "runs": [
+            {
+              "text": "Para el arranque del motor se disponen un motor de arranque eléctrico (elektrischer Anlasser) y un arrancador de inercia (Schwungkraftanlasser).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para04",
+      "text": {
+        "de": {
+          "plain": "Der elektrische Anlasser, auf der rechten Seite des Motors, wird durch einen auf dem Schaltbrett vorgesehenen Druckknopf betätigt.",
+          "runs": [
+            {
+              "text": "Der elektrische Anlasser, auf der rechten Seite des Motors, wird durch einen auf dem Schaltbrett vorgesehenen Druckknopf betätigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electric starter, on the right of the engine, is worked by a push-button (Druckknopf) on the instrument panel (Schaltbrett).",
+          "runs": [
+            {
+              "text": "The electric starter, on the right of the engine, is worked by a push-button (Druckknopf) on the instrument panel (Schaltbrett).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor de arranque eléctrico, a la derecha del motor, se acciona mediante un pulsador (Druckknopf) situado en el cuadro de mandos (Schaltbrett).",
+          "runs": [
+            {
+              "text": "El motor de arranque eléctrico, a la derecha del motor, se acciona mediante un pulsador (Druckknopf) situado en el cuadro de mandos (Schaltbrett).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para05",
+      "text": {
+        "de": {
+          "plain": "Der Schwungkraftanlasser liegt auf der linken Seite des Motors und ist durch eine Gelenkwelle mit einer im Heck gelagerten Andrehklaue verbunden. Durch Drehen einer einsteckbaren Andrehkurbel wird in der Schwungmasse dieses Anlassers ein großes Arbeitsvermögen aufgespeichert, mit dem der Motor in Gang gebracht wird.",
+          "runs": [
+            {
+              "text": "Der Schwungkraftanlasser liegt auf der linken Seite des Motors und ist durch eine Gelenkwelle mit einer im Heck gelagerten Andrehklaue verbunden. Durch Drehen einer einsteckbaren Andrehkurbel wird in der Schwungmasse dieses Anlassers ein großes Arbeitsvermögen aufgespeichert, mit dem der Motor in Gang gebracht wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The inertia starter is on the left of the engine and is connected by a cardan shaft to a cranking claw (Andrehklaue) mounted at the rear. Turning an insertable hand crank (Andrehkurbel) stores a large amount of energy in this starter's flywheel mass (Schwungmasse), with which the engine is turned over.",
+          "runs": [
+            {
+              "text": "The inertia starter is on the left of the engine and is connected by a cardan shaft to a cranking claw (Andrehklaue) mounted at the rear. Turning an insertable hand crank (Andrehkurbel) stores a large amount of energy in this starter's flywheel mass (Schwungmasse), with which the engine is turned over.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El arrancador de inercia va a la izquierda del motor y está unido por un árbol de transmisión a una garra de arranque (Andrehklaue) montada en la popa. Al girar una manivela de arranque acoplable (Andrehkurbel) se almacena una gran cantidad de energía en la masa volante (Schwungmasse) de este arrancador, con la que se hace girar el motor.",
+          "runs": [
+            {
+              "text": "El arrancador de inercia va a la izquierda del motor y está unido por un árbol de transmisión a una garra de arranque (Andrehklaue) montada en la popa. Al girar una manivela de arranque acoplable (Andrehkurbel) se almacena una gran cantidad de energía en la masa volante (Schwungmasse) de este arrancador, con la que se hace girar el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para06",
+      "text": {
+        "de": {
+          "plain": "Das Einrücken des Anlaßritzels in die Verzahnung des Schwungrades geschieht mit einem Handgriff, der durch eine Stange mit einem Einrückhebel verbunden ist. Handgriff und Andrehklaue befinden sich in einem durch eine Klappe verschließbaren Andrehgehäuse in der Heckwand.",
+          "runs": [
+            {
+              "text": "Das Einrücken des Anlaßritzels in die Verzahnung des Schwungrades geschieht mit einem Handgriff, der durch eine Stange mit einem Einrückhebel verbunden ist. Handgriff und Andrehklaue befinden sich in einem durch eine Klappe verschließbaren Andrehgehäuse in der Heckwand.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The starter pinion (Anlaßritzel) is engaged with the flywheel teeth (Schwungrad) by a handle (Handgriff) linked by a rod to an engagement lever (Einrückhebel). The handle and cranking claw are in a cranking housing (Andrehgehäuse) in the rear wall, closed by a hatch.",
+          "runs": [
+            {
+              "text": "The starter pinion (Anlaßritzel) is engaged with the flywheel teeth (Schwungrad) by a handle (Handgriff) linked by a rod to an engagement lever (Einrückhebel). The handle and cranking claw are in a cranking housing (Andrehgehäuse) in the rear wall, closed by a hatch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El piñón de arranque (Anlaßritzel) se engrana con el dentado del volante (Schwungrad) mediante una empuñadura (Handgriff) unida por una varilla a una palanca de engrane (Einrückhebel). La empuñadura y la garra de arranque van en una caja de arranque (Andrehgehäuse) situada en la pared de popa, cerrada por una trampilla.",
+          "runs": [
+            {
+              "text": "El piñón de arranque (Anlaßritzel) se engrana con el dentado del volante (Schwungrad) mediante una empuñadura (Handgriff) unida por una varilla a una palanca de engrane (Einrückhebel). La empuñadura y la garra de arranque van en una caja de arranque (Andrehgehäuse) situada en la pared de popa, cerrada por una trampilla.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para07",
+      "text": {
+        "de": {
+          "plain": "e) Kraftstofflagerung und -förderung, Bild 5",
+          "runs": [
+            {
+              "text": "e) Kraftstofflagerung und -förderung, Bild 5",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "e) Fuel storage and delivery (Kraftstofflagerung und -förderung), Figure 5",
+          "runs": [
+            {
+              "text": "e) Fuel storage and delivery (Kraftstofflagerung und -förderung), Figure 5",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "e) Almacenamiento y alimentación de combustible (Kraftstofflagerung und -förderung), figura 5",
+          "runs": [
+            {
+              "text": "e) Almacenamiento y alimentación de combustible (Kraftstofflagerung und -förderung), figura 5",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para08",
+      "text": {
+        "de": {
+          "plain": "Der Kraftstoff befindet sich in einem Behälter von 310 Liter Inhalt auf der rechten Seite des Motors. Durch Klappen im Heckpanzer kann die Einfüllöffnung und durch einen Deckel im Wannenboden die Ablaßöffnung bedient werden. Außerdem ist unter dem Behälter im Wannenboden ein Bodenventil vorgesehen, durch das ausfließender Kraftstoff im Notfall aus dem Fahrzeug abgelassen werden kann. Dieses Bodenventil wird vom Kampfraum aus durch einen Handhebel an der Trennwand betätigt.",
+          "runs": [
+            {
+              "text": "Der Kraftstoff befindet sich in einem Behälter von 310 Liter Inhalt auf der rechten Seite des Motors. Durch Klappen im Heckpanzer kann die Einfüllöffnung und durch einen Deckel im Wannenboden die Ablaßöffnung bedient werden. Außerdem ist unter dem Behälter im Wannenboden ein Bodenventil vorgesehen, durch das ausfließender Kraftstoff im Notfall aus dem Fahrzeug abgelassen werden kann. Dieses Bodenventil wird vom Kampfraum aus durch einen Handhebel an der Trennwand betätigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The fuel is held in a 310-litre tank (Behälter) on the right of the engine. The filler opening (Einfüllöffnung) is reached through flaps in the rear armour, and the drain opening (Ablaßöffnung) through a cover in the hull floor. A bottom valve (Bodenventil) under the tank in the hull floor allows fuel to be drained from the vehicle in an emergency; it is worked from the fighting compartment by a hand lever on the partition wall.",
+          "runs": [
+            {
+              "text": "The fuel is held in a 310-litre tank (Behälter) on the right of the engine. The filler opening (Einfüllöffnung) is reached through flaps in the rear armour, and the drain opening (Ablaßöffnung) through a cover in the hull floor. A bottom valve (Bodenventil) under the tank in the hull floor allows fuel to be drained from the vehicle in an emergency; it is worked from the fighting compartment by a hand lever on the partition wall.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El combustible se aloja en un depósito de 310 litros (Behälter) situado a la derecha del motor. La boca de llenado (Einfüllöffnung) se alcanza por trampillas del blindaje trasero, y la abertura de vaciado (Ablaßöffnung) por una tapa del piso del casco. Una válvula de fondo (Bodenventil) situada bajo el depósito, en el piso del casco, permite vaciar el combustible del vehículo en caso de emergencia; se acciona desde el compartimento de combate mediante una palanca de mano en el mamparo.",
+          "runs": [
+            {
+              "text": "El combustible se aloja en un depósito de 310 litros (Behälter) situado a la derecha del motor. La boca de llenado (Einfüllöffnung) se alcanza por trampillas del blindaje trasero, y la abertura de vaciado (Ablaßöffnung) por una tapa del piso del casco. Una válvula de fondo (Bodenventil) situada bajo el depósito, en el piso del casco, permite vaciar el combustible del vehículo en caso de emergencia; se acciona desde el compartimento de combate mediante una palanca de mano en el mamparo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para09",
+      "text": {
+        "de": {
+          "plain": "Durch einen Kraftstoffvorratszeiger, der aus einer Luftpumpe und einem Druckmesser besteht, kann der jeweilige Kraftstoffstand festgestellt werden. Ein Hub der Pumpe senkt in einem bis auf den Boden des Behälters reichenden Tauchrohr den Kraftstoffspiegel. Die zur Verdrängung der Kraftstoffsäule erforderliche Druckhöhe wird mit einem Druckmesser gemessen und gibt den Stand des Kraftstoffes an. Ein Sicherheitsventil verhindert das Eindringen von Kraftstoff in das Meßgerät.",
+          "runs": [
+            {
+              "text": "Durch einen Kraftstoffvorratszeiger, der aus einer Luftpumpe und einem Druckmesser besteht, kann der jeweilige Kraftstoffstand festgestellt werden. Ein Hub der Pumpe senkt in einem bis auf den Boden des Behälters reichenden Tauchrohr den Kraftstoffspiegel. Die zur Verdrängung der Kraftstoffsäule erforderliche Druckhöhe wird mit einem Druckmesser gemessen und gibt den Stand des Kraftstoffes an. Ein Sicherheitsventil verhindert das Eindringen von Kraftstoff in das Meßgerät.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A fuel-contents gauge (Kraftstoffvorratszeiger), consisting of an air pump and a pressure gauge (Druckmesser), shows the current fuel level. One stroke of the pump lowers the fuel level in a dip tube (Tauchrohr) that reaches to the bottom of the tank; the pressure head needed to displace the fuel column is read on the gauge and indicates the level. A safety valve (Sicherheitsventil) stops fuel from entering the instrument.",
+          "runs": [
+            {
+              "text": "A fuel-contents gauge (Kraftstoffvorratszeiger), consisting of an air pump and a pressure gauge (Druckmesser), shows the current fuel level. One stroke of the pump lowers the fuel level in a dip tube (Tauchrohr) that reaches to the bottom of the tank; the pressure head needed to displace the fuel column is read on the gauge and indicates the level. A safety valve (Sicherheitsventil) stops fuel from entering the instrument.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Un indicador de nivel de combustible (Kraftstoffvorratszeiger), compuesto por una bomba de aire y un manómetro (Druckmesser), muestra el nivel actual de combustible. Un bombeo hace descender el nivel de combustible en un tubo buzo (Tauchrohr) que llega hasta el fondo del depósito; la presión necesaria para desplazar la columna de combustible se lee en el manómetro e indica el nivel. Una válvula de seguridad (Sicherheitsventil) impide que el combustible entre en el instrumento.",
+          "runs": [
+            {
+              "text": "Un indicador de nivel de combustible (Kraftstoffvorratszeiger), compuesto por una bomba de aire y un manómetro (Druckmesser), muestra el nivel actual de combustible. Un bombeo hace descender el nivel de combustible en un tubo buzo (Tauchrohr) que llega hasta el fondo del depósito; la presión necesaria para desplazar la columna de combustible se lee en el manómetro e indica el nivel. Una válvula de seguridad (Sicherheitsventil) impide que el combustible entre en el instrumento.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para10",
+      "text": {
+        "de": {
+          "plain": "Aus dem Behälter wird der Kraftstoff durch eine Rohrleitung, in der sich ein vom Kampfraum zu betätigender Absperrhahn befindet, mit Hilfe der Kraftstoffpumpen zum Vergaser befördert.",
+          "runs": [
+            {
+              "text": "Aus dem Behälter wird der Kraftstoff durch eine Rohrleitung, in der sich ein vom Kampfraum zu betätigender Absperrhahn befindet, mit Hilfe der Kraftstoffpumpen zum Vergaser befördert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "From the tank the fuel is delivered to the carburettor by the fuel pumps through a pipe containing a shut-off cock (Absperrhahn) that can be operated from the fighting compartment.",
+          "runs": [
+            {
+              "text": "From the tank the fuel is delivered to the carburettor by the fuel pumps through a pipe containing a shut-off cock (Absperrhahn) that can be operated from the fighting compartment.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desde el depósito, las bombas de combustible envían el combustible al carburador por una tubería que contiene un grifo de cierre (Absperrhahn) accionable desde el compartimento de combate.",
+          "runs": [
+            {
+              "text": "Desde el depósito, las bombas de combustible envían el combustible al carburador por una tubería que contiene un grifo de cierre (Absperrhahn) accionable desde el compartimento de combate.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p016-para11",
+      "text": {
+        "de": {
+          "plain": "Während des Betriebes fördern die beiden mechanischen Pumpen den Kraftstoff. Sie sind im Kurbelgehäuse-Unterteil des Motors an-",
+          "runs": [
+            {
+              "text": "Während des Betriebes fördern die beiden mechanischen Pumpen den Kraftstoff. Sie sind im Kurbelgehäuse-Unterteil des Motors an-",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "During operation, the two mechanical pumps deliver the fuel. They are fitted in the lower crankcase section (Kurbelgehäuse-Unterteil) of the engine —",
+          "runs": [
+            {
+              "text": "During operation, the two mechanical pumps deliver the fuel. They are fitted in the lower crankcase section (Kurbelgehäuse-Unterteil) of the engine —",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Durante el servicio, las dos bombas mecánicas envían el combustible. Van montadas en la parte inferior del cárter (Kurbelgehäuse-Unterteil) del motor —",
+          "runs": [
+            {
+              "text": "Durante el servicio, las dos bombas mecánicas envían el combustible. Van montadas en la parte inferior del cárter (Kurbelgehäuse-Unterteil) del motor —",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-015",
+    "next": "d65241a-page-017"
+  }
+}

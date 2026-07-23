@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-027",
+  "document_id": "d652-41a",
+  "page": 27,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "b) Laufrollen und Stabfedern, Bild 17 und 18",
+    "en-GB": "b) Road wheels and torsion bars, Figures 17 and 18",
+    "es-ES": "b) Ruedas de rodadura y barras de torsión, figuras 17 y 18"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 14,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-027-para01",
+      "text": {
+        "de": {
+          "plain": "wird die Spannung der Gleiskette eingestellt. Diese Spannschraube wird in einer Lagerpfanne am Heck abgestützt. Zwischen dem Kopf der Spannschraube und der Lagerpfanne befindet sich eine Scherscheibe, die bei einer Überbeanspruchung der Kette abgeschert wird.",
+          "runs": [
+            {
+              "text": "wird die Spannung der Gleiskette eingestellt. Diese Spannschraube wird in einer Lagerpfanne am Heck abgestützt. Zwischen dem Kopf der Spannschraube und der Lagerpfanne befindet sich eine Scherscheibe, die bei einer Überbeanspruchung der Kette abgeschert wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "the track tension is set. This tensioning screw is supported in a bearing socket (Lagerpfanne) at the rear. Between the head of the tensioning screw and the bearing socket there is a shear disc (Scherscheibe) which shears off if the track is overstrained.",
+          "runs": [
+            {
+              "text": "the track tension is set. This tensioning screw is supported in a bearing socket (Lagerpfanne) at the rear. Between the head of the tensioning screw and the bearing socket there is a shear disc (Scherscheibe) which shears off if the track is overstrained.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "se ajusta la tensión de la cadena. Este tornillo tensor se apoya en una copa de cojinete (Lagerpfanne) en la popa. Entre la cabeza del tornillo tensor y la copa de cojinete hay un disco de rotura (Scherscheibe) que se cizalla si la cadena se somete a esfuerzo excesivo.",
+          "runs": [
+            {
+              "text": "se ajusta la tensión de la cadena. Este tornillo tensor se apoya en una copa de cojinete (Lagerpfanne) en la popa. Entre la cabeza del tornillo tensor y la copa de cojinete hay un disco de rotura (Scherscheibe) que se cizalla si la cadena se somete a esfuerzo excesivo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-027-para02",
+      "text": {
+        "de": {
+          "plain": "Die drei Stützrollen, Bild 18, drehen sich um feste, in besonderen Böcken gelagerte Zapfen. Sie sind als Doppelräder mit abnehmbaren Vollgummireifen ausgebildet, zwischen denen die Zähne der Gleiskette durch Führungsringe seitlich geführt werden.",
+          "runs": [
+            {
+              "text": "Die drei Stützrollen, Bild 18, drehen sich um feste, in besonderen Böcken gelagerte Zapfen. Sie sind als Doppelräder mit abnehmbaren Vollgummireifen ausgebildet, zwischen denen die Zähne der Gleiskette durch Führungsringe seitlich geführt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The three return rollers (Figure 18) turn about fixed journals mounted in special brackets. They are built as twin wheels with removable solid-rubber tyres (Vollgummireifen), between which the track teeth are guided laterally by guide rings (Führungsringe).",
+          "runs": [
+            {
+              "text": "The three return rollers (Figure 18) turn about fixed journals mounted in special brackets. They are built as twin wheels with removable solid-rubber tyres (Vollgummireifen), between which the track teeth are guided laterally by guide rings (Führungsringe).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los tres rodillos de retorno (figura 18) giran en torno a muñones fijos montados en soportes especiales. Están construidos como ruedas gemelas con neumáticos de goma maciza desmontables (Vollgummireifen), entre los cuales los dientes de la cadena se guían lateralmente mediante aros de guía (Führungsringe).",
+          "runs": [
+            {
+              "text": "Los tres rodillos de retorno (figura 18) giran en torno a muñones fijos montados en soportes especiales. Están construidos como ruedas gemelas con neumáticos de goma maciza desmontables (Vollgummireifen), entre los cuales los dientes de la cadena se guían lateralmente mediante aros de guía (Führungsringe).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-027-para03",
+      "text": {
+        "de": {
+          "plain": "Die Laufrollen sind ebenfalls als Doppelräder ausgebildet und bestehen aus zwei auf eine Nabe aufgeschweißten Stahlblechscheiben, auf die mit Vollgummibereifung versehene Felgen aufgezogen sind. Die Zähne der Gleiskette werden auch hier durch innere Führungsringe seitlich geführt. Jede Laufrolle dreht sich um einen Zapfen, der in einen in der Wanne gelagerten Schwingarm eingepreßt ist. Eine Drehstabfeder — ein Stab aus Federstahl mit zwei kerbverzahnten Köpfen — greift mit einem Kopf in den Schwingarm ein, während der andere Kopf in einer Nuß neben dem Lager des anderseitigen Schwingarmes auf der gegenüberliegenden Wannenseite festgehalten wird. Die Ausschläge der Schwingarme sind nach oben durch Gummianschläge begrenzt. Zur Aufnahme der seitlich auftretenden Kräfte ist jeder Schwingarm in einer an der Panzerwanne befestigten Gleitbahn geführt.",
+          "runs": [
+            {
+              "text": "Die Laufrollen sind ebenfalls als Doppelräder ausgebildet und bestehen aus zwei auf eine Nabe aufgeschweißten Stahlblechscheiben, auf die mit Vollgummibereifung versehene Felgen aufgezogen sind. Die Zähne der Gleiskette werden auch hier durch innere Führungsringe seitlich geführt. Jede Laufrolle dreht sich um einen Zapfen, der in einen in der Wanne gelagerten Schwingarm eingepreßt ist. Eine Drehstabfeder — ein Stab aus Federstahl mit zwei kerbverzahnten Köpfen — greift mit einem Kopf in den Schwingarm ein, während der andere Kopf in einer Nuß neben dem Lager des anderseitigen Schwingarmes auf der gegenüberliegenden Wannenseite festgehalten wird. Die Ausschläge der Schwingarme sind nach oben durch Gummianschläge begrenzt. Zur Aufnahme der seitlich auftretenden Kräfte ist jeder Schwingarm in einer an der Panzerwanne befestigten Gleitbahn geführt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The road wheels are likewise built as twin wheels and consist of two sheet-steel discs welded to a hub, onto which rims with solid-rubber tyres are fitted. Here too the track teeth are guided laterally by inner guide rings. Each road wheel turns on a journal pressed into a swing arm (Schwingarm) mounted in the hull. A torsion bar (Drehstabfeder) — a bar of spring steel with two serrated heads — engages by one head in the swing arm, while the other head is held in a socket (Nuß) beside the bearing of the opposite swing arm on the other side of the hull. The upward travel of the swing arms is limited by rubber bump stops (Gummianschläge). To take up the laterally arising forces, each swing arm is guided in a slide track (Gleitbahn) fixed to the hull.",
+          "runs": [
+            {
+              "text": "The road wheels are likewise built as twin wheels and consist of two sheet-steel discs welded to a hub, onto which rims with solid-rubber tyres are fitted. Here too the track teeth are guided laterally by inner guide rings. Each road wheel turns on a journal pressed into a swing arm (Schwingarm) mounted in the hull. A torsion bar (Drehstabfeder) — a bar of spring steel with two serrated heads — engages by one head in the swing arm, while the other head is held in a socket (Nuß) beside the bearing of the opposite swing arm on the other side of the hull. The upward travel of the swing arms is limited by rubber bump stops (Gummianschläge). To take up the laterally arising forces, each swing arm is guided in a slide track (Gleitbahn) fixed to the hull.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las ruedas de rodadura están construidas asimismo como ruedas gemelas y constan de dos discos de chapa de acero soldados a un cubo, sobre el que van montadas llantas con neumáticos de goma maciza. También aquí los dientes de la cadena se guían lateralmente por aros de guía interiores. Cada rueda de rodadura gira sobre un muñón introducido a presión en un brazo oscilante (Schwingarm) montado en el casco. Una barra de torsión (Drehstabfeder) — una barra de acero de muelle con dos cabezas estriadas — engancha por una cabeza en el brazo oscilante, mientras que la otra cabeza queda retenida en un alojamiento (Nuß) junto al cojinete del brazo oscilante opuesto, en el otro costado del casco. El recorrido ascendente de los brazos oscilantes está limitado por topes de goma (Gummianschläge). Para absorber las fuerzas que surgen lateralmente, cada brazo oscilante va guiado en una pista de deslizamiento (Gleitbahn) fijada al casco.",
+          "runs": [
+            {
+              "text": "Las ruedas de rodadura están construidas asimismo como ruedas gemelas y constan de dos discos de chapa de acero soldados a un cubo, sobre el que van montadas llantas con neumáticos de goma maciza. También aquí los dientes de la cadena se guían lateralmente por aros de guía interiores. Cada rueda de rodadura gira sobre un muñón introducido a presión en un brazo oscilante (Schwingarm) montado en el casco. Una barra de torsión (Drehstabfeder) — una barra de acero de muelle con dos cabezas estriadas — engancha por una cabeza en el brazo oscilante, mientras que la otra cabeza queda retenida en un alojamiento (Nuß) junto al cojinete del brazo oscilante opuesto, en el otro costado del casco. El recorrido ascendente de los brazos oscilantes está limitado por topes de goma (Gummianschläge). Para absorber las fuerzas que surgen lateralmente, cada brazo oscilante va guiado en una pista de deslizamiento (Gleitbahn) fijada al casco.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-027-para04",
+      "text": {
+        "de": {
+          "plain": "c) Stoßdämpfer, Bild 19",
+          "runs": [
+            {
+              "text": "c) Stoßdämpfer, Bild 19",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Shock absorbers, Figure 19",
+          "runs": [
+            {
+              "text": "c) Shock absorbers, Figure 19",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Amortiguadores, figura 19",
+          "runs": [
+            {
+              "text": "c) Amortiguadores, figura 19",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-027-para05",
+      "text": {
+        "de": {
+          "plain": "Zum Dämpfen der Nickschwingungen ist der vordere und hintere Schwingarm jeder Fahrzeugseite mit je einem Stoßdämpfer versehen.",
+          "runs": [
+            {
+              "text": "Zum Dämpfen der Nickschwingungen ist der vordere und hintere Schwingarm jeder Fahrzeugseite mit je einem Stoßdämpfer versehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To damp pitching oscillations (Nickschwingungen), the front and rear swing arm on each side of the vehicle is fitted with a shock absorber.",
+          "runs": [
+            {
+              "text": "To damp pitching oscillations (Nickschwingungen), the front and rear swing arm on each side of the vehicle is fitted with a shock absorber.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para amortiguar las oscilaciones de cabeceo (Nickschwingungen), el brazo oscilante delantero y el trasero de cada costado del vehículo llevan un amortiguador.",
+          "runs": [
+            {
+              "text": "Para amortiguar las oscilaciones de cabeceo (Nickschwingungen), el brazo oscilante delantero y el trasero de cada costado del vehículo llevan un amortiguador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-027-para06",
+      "text": {
+        "de": {
+          "plain": "Der Stoßdämpfer — Bauart Hemscheidt — ist ein einseitig wirkender Öldruckdämpfer, der die Abwärtsbewegungen der Laufrolle dämpft. Er besteht im wesentlichen aus einem Zylinder, in dem eine Kolbenstange mit Kolben hin und her bewegt wird. Zwischen dem Kolben und dem Zylinderdeckel befindet sich Öl, das bei einer Abwärtsbewegung des Zylinders verdrängt werden muß und dadurch der Kolbenbewegung Widerstand entgegensetzt. Dieser Widerstand wird durch ein Hochdruckventil im Kolben bestimmt, durch das das Öl beim Auseinanderziehen des Stoßdämpfers strömen muß. Beim Zusammenschieben des Stoßdämpfers strömt das Öl bei geringem Gegendruck durch ein Niederdruckventil in den Raum zwischen Kolben- und Zylinderdeckel zurück.",
+          "runs": [
+            {
+              "text": "Der Stoßdämpfer — Bauart Hemscheidt — ist ein einseitig wirkender Öldruckdämpfer, der die Abwärtsbewegungen der Laufrolle dämpft. Er besteht im wesentlichen aus einem Zylinder, in dem eine Kolbenstange mit Kolben hin und her bewegt wird. Zwischen dem Kolben und dem Zylinderdeckel befindet sich Öl, das bei einer Abwärtsbewegung des Zylinders verdrängt werden muß und dadurch der Kolbenbewegung Widerstand entgegensetzt. Dieser Widerstand wird durch ein Hochdruckventil im Kolben bestimmt, durch das das Öl beim Auseinanderziehen des Stoßdämpfers strömen muß. Beim Zusammenschieben des Stoßdämpfers strömt das Öl bei geringem Gegendruck durch ein Niederdruckventil in den Raum zwischen Kolben- und Zylinderdeckel zurück.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The shock absorber — Hemscheidt type — is a single-acting hydraulic (oil-pressure) damper that damps the downward movements of the road wheel. It consists essentially of a cylinder in which a piston rod with piston moves to and fro. Between the piston and the cylinder cover there is oil, which must be displaced when the cylinder moves down and thus opposes the piston movement. This resistance is set by a high-pressure valve (Hochdruckventil) in the piston, through which the oil must flow as the damper is extended. When the damper is compressed, the oil flows back at low counter-pressure through a low-pressure valve (Niederdruckventil) into the space between the piston and cylinder cover.",
+          "runs": [
+            {
+              "text": "The shock absorber — Hemscheidt type — is a single-acting hydraulic (oil-pressure) damper that damps the downward movements of the road wheel. It consists essentially of a cylinder in which a piston rod with piston moves to and fro. Between the piston and the cylinder cover there is oil, which must be displaced when the cylinder moves down and thus opposes the piston movement. This resistance is set by a high-pressure valve (Hochdruckventil) in the piston, through which the oil must flow as the damper is extended. When the damper is compressed, the oil flows back at low counter-pressure through a low-pressure valve (Niederdruckventil) into the space between the piston and cylinder cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El amortiguador — tipo Hemscheidt — es un amortiguador hidráulico (por presión de aceite) de simple efecto que amortigua los movimientos descendentes de la rueda de rodadura. Se compone esencialmente de un cilindro en el que un vástago con pistón se mueve de un lado a otro. Entre el pistón y la tapa del cilindro hay aceite, que debe desplazarse al bajar el cilindro y se opone así al movimiento del pistón. Esta resistencia la determina una válvula de alta presión (Hochdruckventil) situada en el pistón, a través de la cual debe fluir el aceite al extenderse el amortiguador. Al comprimirse el amortiguador, el aceite retorna con baja contrapresión por una válvula de baja presión (Niederdruckventil) al espacio entre el pistón y la tapa del cilindro.",
+          "runs": [
+            {
+              "text": "El amortiguador — tipo Hemscheidt — es un amortiguador hidráulico (por presión de aceite) de simple efecto que amortigua los movimientos descendentes de la rueda de rodadura. Se compone esencialmente de un cilindro en el que un vástago con pistón se mueve de un lado a otro. Entre el pistón y la tapa del cilindro hay aceite, que debe desplazarse al bajar el cilindro y se opone así al movimiento del pistón. Esta resistencia la determina una válvula de alta presión (Hochdruckventil) situada en el pistón, a través de la cual debe fluir el aceite al extenderse el amortiguador. Al comprimirse el amortiguador, el aceite retorna con baja contrapresión por una válvula de baja presión (Niederdruckventil) al espacio entre el pistón y la tapa del cilindro.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-026",
+    "next": "d65241a-page-028"
+  }
+}

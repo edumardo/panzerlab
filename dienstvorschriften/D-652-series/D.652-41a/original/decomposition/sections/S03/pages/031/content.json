@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-031",
+  "document_id": "d652-41a",
+  "page": 31,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "14. Schaltbrett und Trennwand",
+    "en-GB": "14. Instrument panel and partition wall",
+    "es-ES": "14. Cuadro de mandos y mamparo"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 16,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-031-para01",
+      "text": {
+        "de": {
+          "plain": "Stellungen des Schaltschlüssels: 0 (Schlüssel eingesteckt) — eingeschaltet: Steckdosen, Tarnscheinwerfer, Abstandrücklicht; einzuschalten mit besonderem Schalter: Anlaß-Kraftstoffpumpe, Anlasser, Schaltbrettleuchten. — 1 (Schlüssel eingesteckt) — eingeschaltet: Steckdosen, Tarnscheinwerfer, Abstandrücklicht; einzuschalten mit besonderem Schalter: Anlaß-Kraftstoffpumpe, Anlasser. — 2 (Schlüssel eingesteckt) — eingeschaltet: Steckdosen, Scheinwerfer, Tarnscheinwerfer, Abstandrücklicht; einzuschalten mit besonderem Schalter: Anlasser, Anlaß-Kraftstoffpumpe, Schaltbrettleuchten.",
+          "runs": [
+            {
+              "text": "Stellungen des Schaltschlüssels: 0 (Schlüssel eingesteckt) — eingeschaltet: Steckdosen, Tarnscheinwerfer, Abstandrücklicht; einzuschalten mit besonderem Schalter: Anlaß-Kraftstoffpumpe, Anlasser, Schaltbrettleuchten. — 1 (Schlüssel eingesteckt) — eingeschaltet: Steckdosen, Tarnscheinwerfer, Abstandrücklicht; einzuschalten mit besonderem Schalter: Anlaß-Kraftstoffpumpe, Anlasser. — 2 (Schlüssel eingesteckt) — eingeschaltet: Steckdosen, Scheinwerfer, Tarnscheinwerfer, Abstandrücklicht; einzuschalten mit besonderem Schalter: Anlasser, Anlaß-Kraftstoffpumpe, Schaltbrettleuchten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Switch-key (Schaltschlüssel) positions: 0 (key inserted) — switched on: sockets, blackout headlamp, convoy-spacing tail-light; to be switched on with a separate switch: priming fuel pump, starter, instrument-panel lamps. — 1 (key inserted) — switched on: sockets, blackout headlamp, convoy-spacing tail-light; to be switched on with a separate switch: priming fuel pump, starter. — 2 (key inserted) — switched on: sockets, headlamp, blackout headlamp, convoy-spacing tail-light; to be switched on with a separate switch: starter, priming fuel pump, instrument-panel lamps. [Steckdosen = sockets; Scheinwerfer = headlamp; Tarnscheinwerfer = blackout (Notek) headlamp; Abstandrücklicht = convoy-spacing tail-light]",
+          "runs": [
+            {
+              "text": "Switch-key (Schaltschlüssel) positions: 0 (key inserted) — switched on: sockets, blackout headlamp, convoy-spacing tail-light; to be switched on with a separate switch: priming fuel pump, starter, instrument-panel lamps. — 1 (key inserted) — switched on: sockets, blackout headlamp, convoy-spacing tail-light; to be switched on with a separate switch: priming fuel pump, starter. — 2 (key inserted) — switched on: sockets, headlamp, blackout headlamp, convoy-spacing tail-light; to be switched on with a separate switch: starter, priming fuel pump, instrument-panel lamps. [Steckdosen = sockets; Scheinwerfer = headlamp; Tarnscheinwerfer = blackout (Notek) headlamp; Abstandrücklicht = convoy-spacing tail-light]",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Posiciones de la llave de contacto (Schaltschlüssel): 0 (llave puesta) — conectados: tomas de corriente, faro de camuflaje, piloto trasero de distancia; a conectar con interruptor propio: bomba de cebado de combustible, motor de arranque, luces del cuadro de mandos. — 1 (llave puesta) — conectados: tomas de corriente, faro de camuflaje, piloto trasero de distancia; a conectar con interruptor propio: bomba de cebado de combustible, motor de arranque. — 2 (llave puesta) — conectados: tomas de corriente, faro, faro de camuflaje, piloto trasero de distancia; a conectar con interruptor propio: motor de arranque, bomba de cebado de combustible, luces del cuadro de mandos. [Steckdosen = tomas de corriente; Scheinwerfer = faro; Tarnscheinwerfer = faro de camuflaje (Notek); Abstandrücklicht = piloto trasero de distancia]",
+          "runs": [
+            {
+              "text": "Posiciones de la llave de contacto (Schaltschlüssel): 0 (llave puesta) — conectados: tomas de corriente, faro de camuflaje, piloto trasero de distancia; a conectar con interruptor propio: bomba de cebado de combustible, motor de arranque, luces del cuadro de mandos. — 1 (llave puesta) — conectados: tomas de corriente, faro de camuflaje, piloto trasero de distancia; a conectar con interruptor propio: bomba de cebado de combustible, motor de arranque. — 2 (llave puesta) — conectados: tomas de corriente, faro, faro de camuflaje, piloto trasero de distancia; a conectar con interruptor propio: motor de arranque, bomba de cebado de combustible, luces del cuadro de mandos. [Steckdosen = tomas de corriente; Scheinwerfer = faro; Tarnscheinwerfer = faro de camuflaje (Notek); Abstandrücklicht = piloto trasero de distancia]",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para02",
+      "text": {
+        "de": {
+          "plain": "Auf dem Schaltbrett befinden sich die für die Überwachung des Motors und der elektrischen Anlage erforderlichen Meß- und elektrischen Geräte, wie: Drehzahlmesser, Öldruckmesser, Kühlwasserthermometer, Geschwindigkeitsmesser mit Kilometerzähler, Schaltkasten mit Zündschalter, Hebelschalter für Schlußlicht, Hebelschalter für Schaltbrettleuchten, ein Mehrfachschalter für Nachtmarschgerät, vier Sicherungsdosen, Druckknopf für Anlaßkraftstoffpumpe und zwei Steckdosen.",
+          "runs": [
+            {
+              "text": "Auf dem Schaltbrett befinden sich die für die Überwachung des Motors und der elektrischen Anlage erforderlichen Meß- und elektrischen Geräte, wie: Drehzahlmesser, Öldruckmesser, Kühlwasserthermometer, Geschwindigkeitsmesser mit Kilometerzähler, Schaltkasten mit Zündschalter, Hebelschalter für Schlußlicht, Hebelschalter für Schaltbrettleuchten, ein Mehrfachschalter für Nachtmarschgerät, vier Sicherungsdosen, Druckknopf für Anlaßkraftstoffpumpe und zwei Steckdosen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the instrument panel are the measuring and electrical instruments needed to monitor the engine and the electrical system, namely: a tachometer (Drehzahlmesser), an oil-pressure gauge (Öldruckmesser), a coolant thermometer (Kühlwasserthermometer), a speedometer with odometer (Geschwindigkeitsmesser mit Kilometerzähler), a switch box with ignition switch (Zündschalter), a lever switch for the tail-light (Schlußlicht), a lever switch for the instrument-panel lamps, a multiple switch for the night-march set, four fuse boxes, a push-button for the priming fuel pump, and two sockets.",
+          "runs": [
+            {
+              "text": "On the instrument panel are the measuring and electrical instruments needed to monitor the engine and the electrical system, namely: a tachometer (Drehzahlmesser), an oil-pressure gauge (Öldruckmesser), a coolant thermometer (Kühlwasserthermometer), a speedometer with odometer (Geschwindigkeitsmesser mit Kilometerzähler), a switch box with ignition switch (Zündschalter), a lever switch for the tail-light (Schlußlicht), a lever switch for the instrument-panel lamps, a multiple switch for the night-march set, four fuse boxes, a push-button for the priming fuel pump, and two sockets.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el cuadro de mandos van los instrumentos de medida y eléctricos necesarios para vigilar el motor y la instalación eléctrica, a saber: un cuentarrevoluciones (Drehzahlmesser), un manómetro de presión de aceite (Öldruckmesser), un termómetro del agua de refrigeración (Kühlwasserthermometer), un velocímetro con cuentakilómetros (Geschwindigkeitsmesser mit Kilometerzähler), una caja de conexión con llave de contacto (Zündschalter), un interruptor de palanca para el piloto trasero (Schlußlicht), un interruptor de palanca para las luces del cuadro, un conmutador múltiple para el equipo de marcha nocturna, cuatro cajas de fusibles, un pulsador para la bomba de cebado y dos tomas de corriente.",
+          "runs": [
+            {
+              "text": "En el cuadro de mandos van los instrumentos de medida y eléctricos necesarios para vigilar el motor y la instalación eléctrica, a saber: un cuentarrevoluciones (Drehzahlmesser), un manómetro de presión de aceite (Öldruckmesser), un termómetro del agua de refrigeración (Kühlwasserthermometer), un velocímetro con cuentakilómetros (Geschwindigkeitsmesser mit Kilometerzähler), una caja de conexión con llave de contacto (Zündschalter), un interruptor de palanca para el piloto trasero (Schlußlicht), un interruptor de palanca para las luces del cuadro, un conmutador múltiple para el equipo de marcha nocturna, cuatro cajas de fusibles, un pulsador para la bomba de cebado y dos tomas de corriente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para03",
+      "text": {
+        "de": {
+          "plain": "Beleuchtet wird das Schaltbrett durch die Schaltbrettleuchten, die an ihm angebracht sind.",
+          "runs": [
+            {
+              "text": "Beleuchtet wird das Schaltbrett durch die Schaltbrettleuchten, die an ihm angebracht sind.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The instrument panel is illuminated by the instrument-panel lamps fitted to it.",
+          "runs": [
+            {
+              "text": "The instrument panel is illuminated by the instrument-panel lamps fitted to it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El cuadro de mandos se ilumina mediante las luces del cuadro montadas en él.",
+          "runs": [
+            {
+              "text": "El cuadro de mandos se ilumina mediante las luces del cuadro montadas en él.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para04",
+      "text": {
+        "de": {
+          "plain": "Ferner sind folgende für die Bedienung der Motoranlage erforderlichen Geräte angebracht:",
+          "runs": [
+            {
+              "text": "Ferner sind folgende für die Bedienung der Motoranlage erforderlichen Geräte angebracht:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In addition, the following controls needed to operate the engine installation are fitted:",
+          "runs": [
+            {
+              "text": "In addition, the following controls needed to operate the engine installation are fitted:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Además, van montados los siguientes mandos necesarios para el manejo de la instalación del motor:",
+          "runs": [
+            {
+              "text": "Además, van montados los siguientes mandos necesarios para el manejo de la instalación del motor:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para05",
+      "text": {
+        "de": {
+          "plain": "im Kampfraum: an der Trennwand:",
+          "runs": [
+            {
+              "text": "im Kampfraum: an der Trennwand:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "in the fighting compartment (Kampfraum), on the partition wall (Trennwand):",
+          "runs": [
+            {
+              "text": "in the fighting compartment (Kampfraum), on the partition wall (Trennwand):",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "en el compartimento de combate (Kampfraum), en el mamparo (Trennwand):",
+          "runs": [
+            {
+              "text": "en el compartimento de combate (Kampfraum), en el mamparo (Trennwand):",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para06",
+      "text": {
+        "de": {
+          "plain": "1 Reglerschalter;",
+          "runs": [
+            {
+              "text": "1 Reglerschalter;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 regulator switch (Reglerschalter);",
+          "runs": [
+            {
+              "text": "1 regulator switch (Reglerschalter);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 regulador conmutador (Reglerschalter);",
+          "runs": [
+            {
+              "text": "1 regulador conmutador (Reglerschalter);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para07",
+      "text": {
+        "de": {
+          "plain": "1 Hauptschalter;",
+          "runs": [
+            {
+              "text": "1 Hauptschalter;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 main switch (Hauptschalter);",
+          "runs": [
+            {
+              "text": "1 main switch (Hauptschalter);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 interruptor principal (Hauptschalter);",
+          "runs": [
+            {
+              "text": "1 interruptor principal (Hauptschalter);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-031-para08",
+      "text": {
+        "de": {
+          "plain": "1 elektromagnetischer Batterieschalter;",
+          "runs": [
+            {
+              "text": "1 elektromagnetischer Batterieschalter;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 electromagnetic battery switch (Batterieschalter);",
+          "runs": [
+            {
+              "text": "1 electromagnetic battery switch (Batterieschalter);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 conmutador electromagnético de batería (Batterieschalter);",
+          "runs": [
+            {
+              "text": "1 conmutador electromagnético de batería (Batterieschalter);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-030",
+    "next": "d65241a-page-032"
+  }
+}

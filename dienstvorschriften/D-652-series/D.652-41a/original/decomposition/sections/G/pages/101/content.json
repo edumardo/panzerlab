@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-101",
+  "document_id": "d652-41a",
+  "page": 101,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 31  Laufwerk, Einbau",
+    "en-GB": "Fig. 31  Running gear, installation",
+    "es-ES": "Fig. 31  Tren de rodaje, montaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 65,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild031",
+      "number": 31,
+      "captions": {
+        "de": {
+          "plain": "Bild 31  Laufwerk, Einbau",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 31  Running gear, installation",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 31  Tren de rodaje, montaje",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Teilbild 1: DB 103/3, DB 103/4, DB 103/5, DB 103/2, M22 Kr 751\nTeilbild 2: DB 113/2, DB 113/3, DB 113/1, DB 113/4, Reibahle, Lagerbuchse\nTeilbild 3: DB 103/3, DB 103/2, DB 103/7 (vierteilig), DB 103/6, M22 Kr 751\nTeilbild 4: DB 112/1",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Sub-figure 1: DB 103/3, DB 103/4, DB 103/5, DB 103/2, M22 Kr 751\nSub-figure 2: DB 113/2, DB 113/3, DB 113/1, DB 113/4, reamer (Reibahle), bearing bush (Lagerbuchse)\nSub-figure 3: DB 103/3, DB 103/2, DB 103/7 (in four parts / vierteilig), DB 103/6, M22 Kr 751\nSub-figure 4: DB 112/1",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Figura parcial 1: DB 103/3, DB 103/4, DB 103/5, DB 103/2, M22 Kr 751\nFigura parcial 2: DB 113/2, DB 113/3, DB 113/1, DB 113/4, escariador (Reibahle), casquillo de cojinete (Lagerbuchse)\nFigura parcial 3: DB 103/3, DB 103/2, DB 103/7 (en cuatro partes / vierteilig), DB 103/6, M22 Kr 751\nFigura parcial 4: DB 112/1",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-100",
+    "next": null
+  }
+}

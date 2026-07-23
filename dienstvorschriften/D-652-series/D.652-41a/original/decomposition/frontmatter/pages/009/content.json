@@ -1,0 +1,1088 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-009",
+  "document_id": "d652-41a",
+  "page": 9,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {
+    "de": "A. Technische Angaben",
+    "en-GB": "A. Technical data",
+    "es-ES": "A. Datos técnicos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 5,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-009-para01",
+      "text": {
+        "de": {
+          "plain": "Gefechtsgewicht: 23 400 kg 23 900 kg",
+          "runs": [
+            {
+              "text": "Gefechtsgewicht: 23 400 kg 23 900 kg",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Combat weight: 23,400 kg 23,900 kg",
+          "runs": [
+            {
+              "text": "Combat weight: 23,400 kg 23,900 kg",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Peso de combate: 23 400 kg 23 900 kg",
+          "runs": [
+            {
+              "text": "Peso de combate: 23 400 kg 23 900 kg",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para02",
+      "text": {
+        "de": {
+          "plain": "Hauptmaße (Fahrzeug)",
+          "runs": [
+            {
+              "text": "Hauptmaße (Fahrzeug)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Main dimensions (vehicle)",
+          "runs": [
+            {
+              "text": "Main dimensions (vehicle)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Dimensiones principales (vehículo)",
+          "runs": [
+            {
+              "text": "Dimensiones principales (vehículo)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para03",
+      "text": {
+        "de": {
+          "plain": "Länge über alles:",
+          "runs": [
+            {
+              "text": "Länge über alles:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Overall length:",
+          "runs": [
+            {
+              "text": "Overall length:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Longitud total:",
+          "runs": [
+            {
+              "text": "Longitud total:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para04",
+      "text": {
+        "de": {
+          "plain": "a) mit Rohr: 6770 mm 6000 mm",
+          "runs": [
+            {
+              "text": "a) mit Rohr: 6770 mm 6000 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) with gun barrel: 6770 mm 6000 mm",
+          "runs": [
+            {
+              "text": "a) with gun barrel: 6770 mm 6000 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) con el tubo: 6770 mm 6000 mm",
+          "runs": [
+            {
+              "text": "a) con el tubo: 6770 mm 6000 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para05",
+      "text": {
+        "de": {
+          "plain": "b) ohne Rohr: 5400 mm",
+          "runs": [
+            {
+              "text": "b) ohne Rohr: 5400 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) without gun barrel: 5400 mm",
+          "runs": [
+            {
+              "text": "b) without gun barrel: 5400 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) sin el tubo: 5400 mm",
+          "runs": [
+            {
+              "text": "b) sin el tubo: 5400 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para06",
+      "text": {
+        "de": {
+          "plain": "Rohrüberstand: 1370 mm 600 mm",
+          "runs": [
+            {
+              "text": "Rohrüberstand: 1370 mm 600 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Barrel overhang: 1370 mm 600 mm",
+          "runs": [
+            {
+              "text": "Barrel overhang: 1370 mm 600 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Voladizo del tubo: 1370 mm 600 mm",
+          "runs": [
+            {
+              "text": "Voladizo del tubo: 1370 mm 600 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para07",
+      "text": {
+        "de": {
+          "plain": "Kettenauflagelänge: 2860 mm",
+          "runs": [
+            {
+              "text": "Kettenauflagelänge: 2860 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track contact length: 2860 mm",
+          "runs": [
+            {
+              "text": "Track contact length: 2860 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Longitud de apoyo de la cadena: 2860 mm",
+          "runs": [
+            {
+              "text": "Longitud de apoyo de la cadena: 2860 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para08",
+      "text": {
+        "de": {
+          "plain": "Breite über alles (mit Geländekette): 2950 mm",
+          "runs": [
+            {
+              "text": "Breite über alles (mit Geländekette): 2950 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Overall width (with cross-country track): 2950 mm",
+          "runs": [
+            {
+              "text": "Overall width (with cross-country track): 2950 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura total (con cadena de campo): 2950 mm",
+          "runs": [
+            {
+              "text": "Anchura total (con cadena de campo): 2950 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para09",
+      "text": {
+        "de": {
+          "plain": "Breite über Ketten (mit Geländekette): 2910 mm",
+          "runs": [
+            {
+              "text": "Breite über Ketten (mit Geländekette): 2910 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Width over tracks (with cross-country track): 2910 mm",
+          "runs": [
+            {
+              "text": "Width over tracks (with cross-country track): 2910 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura sobre cadenas (con cadena de campo): 2910 mm",
+          "runs": [
+            {
+              "text": "Anchura sobre cadenas (con cadena de campo): 2910 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para10",
+      "text": {
+        "de": {
+          "plain": "Spurweite (mit Geländekette): 2510 mm",
+          "runs": [
+            {
+              "text": "Spurweite (mit Geländekette): 2510 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track gauge (with cross-country track): 2510 mm",
+          "runs": [
+            {
+              "text": "Track gauge (with cross-country track): 2510 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ancho de vía (con cadena de campo): 2510 mm",
+          "runs": [
+            {
+              "text": "Ancho de vía (con cadena de campo): 2510 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para11",
+      "text": {
+        "de": {
+          "plain": "Breite der Kette (mit Geländekette): 400 mm",
+          "runs": [
+            {
+              "text": "Breite der Kette (mit Geländekette): 400 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track width (with cross-country track): 400 mm",
+          "runs": [
+            {
+              "text": "Track width (with cross-country track): 400 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura de la cadena (con cadena de campo): 400 mm",
+          "runs": [
+            {
+              "text": "Anchura de la cadena (con cadena de campo): 400 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para12",
+      "text": {
+        "de": {
+          "plain": "Breite über alles (mit Winterkette): 3230 mm",
+          "runs": [
+            {
+              "text": "Breite über alles (mit Winterkette): 3230 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Overall width (with winter track): 3230 mm",
+          "runs": [
+            {
+              "text": "Overall width (with winter track): 3230 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura total (con cadena de invierno): 3230 mm",
+          "runs": [
+            {
+              "text": "Anchura total (con cadena de invierno): 3230 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para13",
+      "text": {
+        "de": {
+          "plain": "Breite über Ketten (mit Winterkette): 3230 mm",
+          "runs": [
+            {
+              "text": "Breite über Ketten (mit Winterkette): 3230 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Width over tracks (with winter track): 3230 mm",
+          "runs": [
+            {
+              "text": "Width over tracks (with winter track): 3230 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura sobre cadenas (con cadena de invierno): 3230 mm",
+          "runs": [
+            {
+              "text": "Anchura sobre cadenas (con cadena de invierno): 3230 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para14",
+      "text": {
+        "de": {
+          "plain": "Spurweite (mit Winterkette): 2670 mm",
+          "runs": [
+            {
+              "text": "Spurweite (mit Winterkette): 2670 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track gauge (with winter track): 2670 mm",
+          "runs": [
+            {
+              "text": "Track gauge (with winter track): 2670 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ancho de vía (con cadena de invierno): 2670 mm",
+          "runs": [
+            {
+              "text": "Ancho de vía (con cadena de invierno): 2670 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para15",
+      "text": {
+        "de": {
+          "plain": "Breite der Kette (mit Winterkette): 560 mm",
+          "runs": [
+            {
+              "text": "Breite der Kette (mit Winterkette): 560 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track width (with winter track): 560 mm",
+          "runs": [
+            {
+              "text": "Track width (with winter track): 560 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura de la cadena (con cadena de invierno): 560 mm",
+          "runs": [
+            {
+              "text": "Anchura de la cadena (con cadena de invierno): 560 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para16",
+      "text": {
+        "de": {
+          "plain": "Lichte Wannenbreite: 1850 mm",
+          "runs": [
+            {
+              "text": "Lichte Wannenbreite: 1850 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clear hull width: 1850 mm",
+          "runs": [
+            {
+              "text": "Clear hull width: 1850 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Anchura libre del casco: 1850 mm",
+          "runs": [
+            {
+              "text": "Anchura libre del casco: 1850 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para17",
+      "text": {
+        "de": {
+          "plain": "Höhe über alles: 2150 mm 2160 mm 2160 mm",
+          "runs": [
+            {
+              "text": "Höhe über alles: 2150 mm 2160 mm 2160 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Overall height: 2150 mm 2160 mm 2160 mm",
+          "runs": [
+            {
+              "text": "Overall height: 2150 mm 2160 mm 2160 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Altura total: 2150 mm 2160 mm 2160 mm",
+          "runs": [
+            {
+              "text": "Altura total: 2150 mm 2160 mm 2160 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para18",
+      "text": {
+        "de": {
+          "plain": "Feuerhöhe: 1570 mm 1600 mm",
+          "runs": [
+            {
+              "text": "Feuerhöhe: 1570 mm 1600 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Height of fire (line of fire): 1570 mm 1600 mm",
+          "runs": [
+            {
+              "text": "Height of fire (line of fire): 1570 mm 1600 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Altura de fuego: 1570 mm 1600 mm",
+          "runs": [
+            {
+              "text": "Altura de fuego: 1570 mm 1600 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para19",
+      "text": {
+        "de": {
+          "plain": "Bodenfreiheit: 390 mm",
+          "runs": [
+            {
+              "text": "Bodenfreiheit: 390 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Ground clearance: 390 mm",
+          "runs": [
+            {
+              "text": "Ground clearance: 390 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Altura libre sobre el suelo: 390 mm",
+          "runs": [
+            {
+              "text": "Altura libre sobre el suelo: 390 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para20",
+      "text": {
+        "de": {
+          "plain": "Watfähigkeit: 800 mm",
+          "runs": [
+            {
+              "text": "Watfähigkeit: 800 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fording capability: 800 mm",
+          "runs": [
+            {
+              "text": "Fording capability: 800 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Capacidad de vadeo: 800 mm",
+          "runs": [
+            {
+              "text": "Capacidad de vadeo: 800 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para21",
+      "text": {
+        "de": {
+          "plain": "Spurweite : Auflagelänge mit Geländekette = 1 : 1,14",
+          "runs": [
+            {
+              "text": "Spurweite : Auflagelänge mit Geländekette = 1 : 1,14",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track gauge to contact-length ratio with cross-country track = 1 : 1.14",
+          "runs": [
+            {
+              "text": "Track gauge to contact-length ratio with cross-country track = 1 : 1.14",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Relación ancho de vía : longitud de apoyo con cadena de campo = 1 : 1,14",
+          "runs": [
+            {
+              "text": "Relación ancho de vía : longitud de apoyo con cadena de campo = 1 : 1,14",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para22",
+      "text": {
+        "de": {
+          "plain": "Spurweite : Auflagelänge mit Winterkette = 1 : 1,08",
+          "runs": [
+            {
+              "text": "Spurweite : Auflagelänge mit Winterkette = 1 : 1,08",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Track gauge to contact-length ratio with winter track = 1 : 1.08",
+          "runs": [
+            {
+              "text": "Track gauge to contact-length ratio with winter track = 1 : 1.08",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Relación ancho de vía : longitud de apoyo con cadena de invierno = 1 : 1,08",
+          "runs": [
+            {
+              "text": "Relación ancho de vía : longitud de apoyo con cadena de invierno = 1 : 1,08",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para23",
+      "text": {
+        "de": {
+          "plain": "Motor:",
+          "runs": [
+            {
+              "text": "Motor:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Engine:",
+          "runs": [
+            {
+              "text": "Engine:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Motor:",
+          "runs": [
+            {
+              "text": "Motor:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para24",
+      "text": {
+        "de": {
+          "plain": "Bauart Otto, Typ: HL 120 TRM",
+          "runs": [
+            {
+              "text": "Bauart Otto, Typ: HL 120 TRM",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Design (Otto-cycle), type: HL 120 TRM",
+          "runs": [
+            {
+              "text": "Design (Otto-cycle), type: HL 120 TRM",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Diseño (ciclo Otto), tipo: HL 120 TRM",
+          "runs": [
+            {
+              "text": "Diseño (ciclo Otto), tipo: HL 120 TRM",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para25",
+      "text": {
+        "de": {
+          "plain": "Arbeitsweise: Viertakt",
+          "runs": [
+            {
+              "text": "Arbeitsweise: Viertakt",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Operating cycle: four-stroke",
+          "runs": [
+            {
+              "text": "Operating cycle: four-stroke",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ciclo de trabajo: cuatro tiempos",
+          "runs": [
+            {
+              "text": "Ciclo de trabajo: cuatro tiempos",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para26",
+      "text": {
+        "de": {
+          "plain": "Leistung bei 2600 U/min u. O.Z. 74: 265 PS",
+          "runs": [
+            {
+              "text": "Leistung bei 2600 U/min u. O.Z. 74: 265 PS",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Output at 2,600 rpm and O.N. 74: 265 hp",
+          "runs": [
+            {
+              "text": "Output at 2,600 rpm and O.N. 74: 265 hp",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Potencia a 2600 r.p.m. y O.Z. 74: 265 CV",
+          "runs": [
+            {
+              "text": "Potencia a 2600 r.p.m. y O.Z. 74: 265 CV",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para27",
+      "text": {
+        "de": {
+          "plain": "Bohrung: 105 mm",
+          "runs": [
+            {
+              "text": "Bohrung: 105 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bore: 105 mm",
+          "runs": [
+            {
+              "text": "Bore: 105 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Diámetro (calibre): 105 mm",
+          "runs": [
+            {
+              "text": "Diámetro (calibre): 105 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para28",
+      "text": {
+        "de": {
+          "plain": "Hub: 115 mm",
+          "runs": [
+            {
+              "text": "Hub: 115 mm",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Stroke: 115 mm",
+          "runs": [
+            {
+              "text": "Stroke: 115 mm",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Carrera: 115 mm",
+          "runs": [
+            {
+              "text": "Carrera: 115 mm",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para29",
+      "text": {
+        "de": {
+          "plain": "Zylinderzahl: 12",
+          "runs": [
+            {
+              "text": "Zylinderzahl: 12",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Number of cylinders: 12",
+          "runs": [
+            {
+              "text": "Number of cylinders: 12",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Número de cilindros: 12",
+          "runs": [
+            {
+              "text": "Número de cilindros: 12",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para30",
+      "text": {
+        "de": {
+          "plain": "Zylinderinhalt: 11,9 Liter",
+          "runs": [
+            {
+              "text": "Zylinderinhalt: 11,9 Liter",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Cylinder capacity: 11.9 litres",
+          "runs": [
+            {
+              "text": "Cylinder capacity: 11.9 litres",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cilindrada: 11,9 litros",
+          "runs": [
+            {
+              "text": "Cilindrada: 11,9 litros",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para31",
+      "text": {
+        "de": {
+          "plain": "Ölinhalt: etwa 25 Liter",
+          "runs": [
+            {
+              "text": "Ölinhalt: etwa 25 Liter",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Oil capacity: approx. 25 litres",
+          "runs": [
+            {
+              "text": "Oil capacity: approx. 25 litres",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Capacidad de aceite: aprox. 25 litros",
+          "runs": [
+            {
+              "text": "Capacidad de aceite: aprox. 25 litros",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para32",
+      "text": {
+        "de": {
+          "plain": "Kraftstoffvorrat: 310 Liter",
+          "runs": [
+            {
+              "text": "Kraftstoffvorrat: 310 Liter",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fuel supply: 310 litres",
+          "runs": [
+            {
+              "text": "Fuel supply: 310 litres",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Reserva de combustible: 310 litros",
+          "runs": [
+            {
+              "text": "Reserva de combustible: 310 litros",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-009-para33",
+      "text": {
+        "de": {
+          "plain": "Zündkerze: 225 T 22",
+          "runs": [
+            {
+              "text": "Zündkerze: 225 T 22",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Spark plug: 225 T 22",
+          "runs": [
+            {
+              "text": "Spark plug: 225 T 22",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Bujía: 225 T 22",
+          "runs": [
+            {
+              "text": "Bujía: 225 T 22",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-008",
+    "next": "d65241a-page-010"
+  }
+}

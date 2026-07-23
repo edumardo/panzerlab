@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-077",
+  "document_id": "d652-41a",
+  "page": 77,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 4-5  Luftfilter / Kraftstofflagerung u. -förderung",
+    "en-GB": "Fig. 4-5  Air filter / Fuel storage and delivery",
+    "es-ES": "Fig. 4-5  Filtro de aire / Almacenamiento y alimentación de combustible"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 41,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild004",
+      "number": 4,
+      "captions": {
+        "de": {
+          "plain": "Bild 4  Luftfilter",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 4  Air filter",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 4  Filtro de aire",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Ansaugkrümmer\nÖlstandschraube\nFiltereinsatz\nFeinfilter\nDichtring\nDichtring\nAuslaßstutzen\nFiltergehäuse",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "intake elbow (Ansaugkrümmer)\noil-level screw (Ölstandschraube)\nfilter cartridge (Filtereinsatz)\nfine filter (Feinfilter)\nsealing ring (Dichtring)\nsealing ring (Dichtring)\noutlet spigot (Auslaßstutzen)\nfilter housing (Filtergehäuse)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "codo de admisión (Ansaugkrümmer)\ntornillo de nivel de aceite (Ölstandschraube)\ncartucho filtrante (Filtereinsatz)\nfiltro fino (Feinfilter)\nanillo de estanqueidad (Dichtring)\nanillo de estanqueidad (Dichtring)\ntubuladura de salida (Auslaßstutzen)\ncarcasa del filtro (Filtergehäuse)",
+          "runs": []
+        }
+      }
+    },
+    {
+      "id": "d65241a-bild005",
+      "number": 5,
+      "captions": {
+        "de": {
+          "plain": "Bild 5  Kraftstofflagerung und -förderung",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 5  Fuel storage and delivery",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 5  Almacenamiento y alimentación de combustible",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "elektr. Anlaß-Kraftstoffpumpe\nzum Vergaser\nmech. Kraftstoffpumpen\nAbsperrhahn\nAblaßöffnung\nEinfüllöffnung\nKraftstoffbehälter",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "electric starting (priming) fuel pump (elektr. Anlaß-Kraftstoffpumpe)\nto the carburettor (zum Vergaser)\nmechanical fuel pumps (mech. Kraftstoffpumpen)\nshut-off cock (Absperrhahn)\ndrain opening (Ablaßöffnung)\nfiller opening (Einfüllöffnung)\nfuel tank (Kraftstoffbehälter)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "bomba eléctrica de cebado de combustible (elektr. Anlaß-Kraftstoffpumpe)\nal carburador (zum Vergaser)\nbombas mecánicas de combustible (mech. Kraftstoffpumpen)\nllave de paso (Absperrhahn)\nabertura de vaciado (Ablaßöffnung)\nabertura de llenado (Einfüllöffnung)\ndepósito de combustible (Kraftstoffbehälter)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-076",
+    "next": "d65241a-page-078"
+  }
+}

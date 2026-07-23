@@ -1,0 +1,51 @@
+{
+  "format_version": 1,
+  "profiles": {
+    "A4_portrait_facsimile_then_translation": {
+      "page": {
+        "size": "A4",
+        "orientation": "portrait",
+        "width_dxa": 11906,
+        "height_dxa": 16838,
+        "margins_dxa": {"top": 1080, "right": 1080, "bottom": 1080, "left": 1080}
+      },
+      "numbered_sections": {"cover": false, "header": false, "footer": false},
+      "facsimile_page": {
+        "image_source": "display_image_or_image",
+        "fit": "scale_to_fill_preserving_aspect_ratio",
+        "split_figures": false
+      },
+      "translation_page": {
+        "lists": ["title", "figure_captions"],
+        "languages": ["en-GB", "es-ES"],
+        "bilingual": true
+      }
+    },
+    "A4_landscape_facsimile_then_translation": {
+      "page": {
+        "size": "A4",
+        "orientation": "landscape",
+        "width_dxa": 16838,
+        "height_dxa": 11906,
+        "margins_dxa": {"top": 720, "right": 720, "bottom": 720, "left": 720}
+      },
+      "numbered_sections": {"cover": false, "header": false, "footer": false},
+      "facsimile_page": {
+        "image_source": "display_image_or_image",
+        "fit": "scale_to_fill_preserving_aspect_ratio",
+        "split_figures": false,
+        "note": "Each source page is a whole plate sheet that crosses the gutter (never split into left/right halves); one or two Bild numbers per sheet."
+      },
+      "translation_page": {
+        "lists": ["title", "figure_captions", "figure_label_keys"],
+        "languages": ["en-GB", "es-ES"],
+        "bilingual": true
+      }
+    }
+  },
+  "languages": {
+    "source": "de-DE",
+    "targets": ["en-GB", "es-ES"],
+    "technical_term_policy": "translated term followed by the German original in parentheses"
+  }
+}

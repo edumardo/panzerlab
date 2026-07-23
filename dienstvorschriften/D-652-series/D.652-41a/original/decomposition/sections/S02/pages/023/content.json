@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-023",
+  "document_id": "d652-41a",
+  "page": 23,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 12,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p023-para01",
+      "text": {
+        "de": {
+          "plain": "… Backen und Trommel durch die Nachstellvorrichtung (siehe Abschnitt 25).",
+          "runs": [
+            {
+              "text": "… Backen und Trommel durch die Nachstellvorrichtung (siehe Abschnitt 25).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… shoes and drum is set by the adjusting device (see Section 25).",
+          "runs": [
+            {
+              "text": "… shoes and drum is set by the adjusting device (see Section 25).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… zapatas y tambor se ajusta mediante el dispositivo de reglaje (véase el apartado 25).",
+          "runs": [
+            {
+              "text": "… zapatas y tambor se ajusta mediante el dispositivo de reglaje (véase el apartado 25).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para02",
+      "text": {
+        "de": {
+          "plain": "Betätigt werden die Bremsbacken durch die beiden Nocken der Schwinge. In ein Langloch dieser Schwinge greifen Ansätze des um den Haltebolzen drehbar gelagerten Bremshebels.",
+          "runs": [
+            {
+              "text": "Betätigt werden die Bremsbacken durch die beiden Nocken der Schwinge. In ein Langloch dieser Schwinge greifen Ansätze des um den Haltebolzen drehbar gelagerten Bremshebels.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The brake shoes are actuated by the two cams of the rocker (Schwinge). Lugs of the brake lever (Bremshebel) — which pivots about the retaining bolt — engage in an elongated slot (Langloch) of this rocker.",
+          "runs": [
+            {
+              "text": "The brake shoes are actuated by the two cams of the rocker (Schwinge). Lugs of the brake lever (Bremshebel) — which pivots about the retaining bolt — engage in an elongated slot (Langloch) of this rocker.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las zapatas son accionadas por las dos levas del balancín (Schwinge). Unos salientes de la palanca de freno (Bremshebel) —que pivota en torno al bulón de retención— engranan en una ranura alargada (Langloch) de este balancín.",
+          "runs": [
+            {
+              "text": "Las zapatas son accionadas por las dos levas del balancín (Schwinge). Unos salientes de la palanca de freno (Bremshebel) —que pivota en torno al bulón de retención— engranan en una ranura alargada (Langloch) de este balancín.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para03",
+      "text": {
+        "de": {
+          "plain": "Der Bremshebel steht unter der Wirkung der Bremsfeder, die die Bremse dauernd anzieht. Durch eine am Lenkgetriebe vorgesehene Nachspannvorrichtung kann die Bremsfeder auf eine höhere Zugkraft angespannt werden. Dies geschieht durch Umlegen des Federspannhebels nach unten. Das Lüften der Bremse erfolgt durch den Lenkhebel.",
+          "runs": [
+            {
+              "text": "Der Bremshebel steht unter der Wirkung der Bremsfeder, die die Bremse dauernd anzieht. Durch eine am Lenkgetriebe vorgesehene Nachspannvorrichtung kann die Bremsfeder auf eine höhere Zugkraft angespannt werden. Dies geschieht durch Umlegen des Federspannhebels nach unten. Das Lüften der Bremse erfolgt durch den Lenkhebel.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The brake lever is under the action of the brake spring (Bremsfeder), which keeps the brake permanently applied. By a re-tensioning device (Nachspannvorrichtung) on the steering gear, the brake spring can be tensioned to a higher pull; this is done by throwing the spring-tensioning lever (Federspannhebel) downward. The brake is released by the steering lever (Lenkhebel).",
+          "runs": [
+            {
+              "text": "The brake lever is under the action of the brake spring (Bremsfeder), which keeps the brake permanently applied. By a re-tensioning device (Nachspannvorrichtung) on the steering gear, the brake spring can be tensioned to a higher pull; this is done by throwing the spring-tensioning lever (Federspannhebel) downward. The brake is released by the steering lever (Lenkhebel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La palanca de freno está bajo la acción del muelle del freno (Bremsfeder), que mantiene el freno permanentemente aplicado. Mediante un dispositivo de retensado (Nachspannvorrichtung) en el mecanismo de dirección, el muelle del freno puede tensarse a una tracción mayor; esto se hace abatiendo hacia abajo la palanca de tensado del muelle (Federspannhebel). El freno se suelta con la palanca de dirección (Lenkhebel).",
+          "runs": [
+            {
+              "text": "La palanca de freno está bajo la acción del muelle del freno (Bremsfeder), que mantiene el freno permanentemente aplicado. Mediante un dispositivo de retensado (Nachspannvorrichtung) en el mecanismo de dirección, el muelle del freno puede tensarse a una tracción mayor; esto se hace abatiendo hacia abajo la palanca de tensado del muelle (Federspannhebel). El freno se suelta con la palanca de dirección (Lenkhebel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para04",
+      "text": {
+        "de": {
+          "plain": "Wirkungsweise",
+          "runs": [
+            {
+              "text": "Wirkungsweise",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Operation",
+          "runs": [
+            {
+              "text": "Operation",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Funcionamiento",
+          "runs": [
+            {
+              "text": "Funcionamiento",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para05",
+      "text": {
+        "de": {
+          "plain": "Lösen der Stützbremse",
+          "runs": [
+            {
+              "text": "Lösen der Stützbremse",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Releasing the support brake (Lösen der Stützbremse)",
+          "runs": [
+            {
+              "text": "Releasing the support brake (Lösen der Stützbremse)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Soltado del freno de apoyo (Lösen der Stützbremse)",
+          "runs": [
+            {
+              "text": "Soltado del freno de apoyo (Lösen der Stützbremse)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para06",
+      "text": {
+        "de": {
+          "plain": "Beim Anziehen eines Lenkhebels wird die ausgeübte Kraft auf den Bremshebel übertragen. Der Bremshebel und die mit diesem in Verbindung stehende Schwinge werden auf „Bremse lose\" gestellt. Die Bremsbacken werden dabei durch die Federn von der Bremstrommel abgezogen.",
+          "runs": [
+            {
+              "text": "Beim Anziehen eines Lenkhebels wird die ausgeübte Kraft auf den Bremshebel übertragen. Der Bremshebel und die mit diesem in Verbindung stehende Schwinge werden auf „Bremse lose\" gestellt. Die Bremsbacken werden dabei durch die Federn von der Bremstrommel abgezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When a steering lever is pulled, the force applied is transmitted to the brake lever. The brake lever and the rocker connected to it are set to “brake released” (Bremse lose); the brake shoes are thereby pulled away from the brake drum by the springs.",
+          "runs": [
+            {
+              "text": "When a steering lever is pulled, the force applied is transmitted to the brake lever. The brake lever and the rocker connected to it are set to “brake released” (Bremse lose); the brake shoes are thereby pulled away from the brake drum by the springs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al tirar de una palanca de dirección, la fuerza aplicada se transmite a la palanca de freno. La palanca de freno y el balancín unido a ella pasan a «freno suelto» (Bremse lose); los muelles apartan así las zapatas del tambor.",
+          "runs": [
+            {
+              "text": "Al tirar de una palanca de dirección, la fuerza aplicada se transmite a la palanca de freno. La palanca de freno y el balancín unido a ella pasan a «freno suelto» (Bremse lose); los muelles apartan así las zapatas del tambor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para07",
+      "text": {
+        "de": {
+          "plain": "„Die Stützbremstrommel ist lose.\"",
+          "runs": [
+            {
+              "text": "„Die Stützbremstrommel ist lose.\"",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "“The support-brake drum is free.”",
+          "runs": [
+            {
+              "text": "“The support-brake drum is free.”",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "«El tambor del freno de apoyo queda libre.»",
+          "runs": [
+            {
+              "text": "«El tambor del freno de apoyo queda libre.»",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para08",
+      "text": {
+        "de": {
+          "plain": "Anziehen der Stützbremse",
+          "runs": [
+            {
+              "text": "Anziehen der Stützbremse",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Applying the support brake (Anziehen der Stützbremse)",
+          "runs": [
+            {
+              "text": "Applying the support brake (Anziehen der Stützbremse)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aplicación del freno de apoyo (Anziehen der Stützbremse)",
+          "runs": [
+            {
+              "text": "Aplicación del freno de apoyo (Anziehen der Stützbremse)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para09",
+      "text": {
+        "de": {
+          "plain": "Wird der Lenkhebel in seine Ausgangsstellung zurückgeführt, so zieht die Bremsfeder den Bremshebel wieder nach oben auf „Bremse fest\". Die Schwinge wird dadurch verdreht und drückt zunächst die untere Bremsbacke, die „Erreger-Bremsbacke\", gegen die Trommel. Die „Erreger-Bremsbacke\", die durch die auftretende Reibungskraft in der Drehrichtung mitgenommen wird, überträgt diese Kraft über die Nachstellvorrichtung auf die obere Bremsbacke, die „Erregte Bremsbacke\". Hierdurch wird diese ebenfalls an die Bremstrommel gepreßt, und zwar kräftiger als die „Erreger-Bremsbacke\".",
+          "runs": [
+            {
+              "text": "Wird der Lenkhebel in seine Ausgangsstellung zurückgeführt, so zieht die Bremsfeder den Bremshebel wieder nach oben auf „Bremse fest\". Die Schwinge wird dadurch verdreht und drückt zunächst die untere Bremsbacke, die „Erreger-Bremsbacke\", gegen die Trommel. Die „Erreger-Bremsbacke\", die durch die auftretende Reibungskraft in der Drehrichtung mitgenommen wird, überträgt diese Kraft über die Nachstellvorrichtung auf die obere Bremsbacke, die „Erregte Bremsbacke\". Hierdurch wird diese ebenfalls an die Bremstrommel gepreßt, und zwar kräftiger als die „Erreger-Bremsbacke\".",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When the steering lever is returned to its initial position, the brake spring pulls the brake lever back up to “brake applied” (Bremse fest). The rocker is thereby turned and first presses the lower brake shoe, the “exciter shoe” (Erreger-Bremsbacke), against the drum. The exciter shoe, carried along in the direction of rotation by the friction force that arises, transmits this force through the adjusting device to the upper brake shoe, the “excited shoe” (Erregte Bremsbacke). This shoe too is thereby pressed against the drum — and more strongly than the exciter shoe.",
+          "runs": [
+            {
+              "text": "When the steering lever is returned to its initial position, the brake spring pulls the brake lever back up to “brake applied” (Bremse fest). The rocker is thereby turned and first presses the lower brake shoe, the “exciter shoe” (Erreger-Bremsbacke), against the drum. The exciter shoe, carried along in the direction of rotation by the friction force that arises, transmits this force through the adjusting device to the upper brake shoe, the “excited shoe” (Erregte Bremsbacke). This shoe too is thereby pressed against the drum — and more strongly than the exciter shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al devolver la palanca de dirección a su posición inicial, el muelle del freno vuelve a tirar de la palanca de freno hasta «freno aplicado» (Bremse fest). El balancín gira así y presiona primero la zapata inferior, la «zapata excitadora» (Erreger-Bremsbacke), contra el tambor. La zapata excitadora, arrastrada en el sentido de giro por la fuerza de rozamiento que surge, transmite esta fuerza a través del dispositivo de reglaje a la zapata superior, la «zapata excitada» (Erregte Bremsbacke). Esta zapata queda así también presionada contra el tambor —y con más fuerza que la excitadora.",
+          "runs": [
+            {
+              "text": "Al devolver la palanca de dirección a su posición inicial, el muelle del freno vuelve a tirar de la palanca de freno hasta «freno aplicado» (Bremse fest). El balancín gira así y presiona primero la zapata inferior, la «zapata excitadora» (Erreger-Bremsbacke), contra el tambor. La zapata excitadora, arrastrada en el sentido de giro por la fuerza de rozamiento que surge, transmite esta fuerza a través del dispositivo de reglaje a la zapata superior, la «zapata excitada» (Erregte Bremsbacke). Esta zapata queda así también presionada contra el tambor —y con más fuerza que la excitadora.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para10",
+      "text": {
+        "de": {
+          "plain": "Während des Bremsvorganges stützt sich die „Erregte Bremsbacke\" gegen den Haltebolzen ab, der somit die Bremsumfangskraft beider Bremsbacken aufnimmt. Je nach dem Spiel zwischen Bremsbacke und Trommel entfernt sich die „Erreger-Bremsbacke\" mehr oder weniger vom Haltebolzen. Ebenso wandert die Schwinge, bedingt durch das Langloch, auch etwas mit und ist somit von der Umfangskraft entlastet.",
+          "runs": [
+            {
+              "text": "Während des Bremsvorganges stützt sich die „Erregte Bremsbacke\" gegen den Haltebolzen ab, der somit die Bremsumfangskraft beider Bremsbacken aufnimmt. Je nach dem Spiel zwischen Bremsbacke und Trommel entfernt sich die „Erreger-Bremsbacke\" mehr oder weniger vom Haltebolzen. Ebenso wandert die Schwinge, bedingt durch das Langloch, auch etwas mit und ist somit von der Umfangskraft entlastet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "During braking, the excited shoe braces itself against the retaining bolt, which thus takes up the braking circumferential force of both shoes. Depending on the clearance between shoe and drum, the exciter shoe moves more or less away from the retaining bolt; the rocker likewise travels along a little, owing to the elongated slot, and is thus relieved of the circumferential force.",
+          "runs": [
+            {
+              "text": "During braking, the excited shoe braces itself against the retaining bolt, which thus takes up the braking circumferential force of both shoes. Depending on the clearance between shoe and drum, the exciter shoe moves more or less away from the retaining bolt; the rocker likewise travels along a little, owing to the elongated slot, and is thus relieved of the circumferential force.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Durante el frenado, la zapata excitada se apoya contra el bulón de retención, que absorbe así la fuerza circunferencial de frenado de ambas zapatas. Según la holgura entre zapata y tambor, la zapata excitadora se aleja más o menos del bulón de retención; el balancín se desplaza también algo, gracias a la ranura alargada, quedando así descargado de la fuerza circunferencial.",
+          "runs": [
+            {
+              "text": "Durante el frenado, la zapata excitada se apoya contra el bulón de retención, que absorbe así la fuerza circunferencial de frenado de ambas zapatas. Según la holgura entre zapata y tambor, la zapata excitadora se aleja más o menos del bulón de retención; el balancín se desplaza también algo, gracias a la ranura alargada, quedando así descargado de la fuerza circunferencial.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p023-para11",
+      "text": {
+        "de": {
+          "plain": "„Die Stützbremstrommel wird festgehalten.\"",
+          "runs": [
+            {
+              "text": "„Die Stützbremstrommel wird festgehalten.\"",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "“The support-brake drum is held fast.”",
+          "runs": [
+            {
+              "text": "“The support-brake drum is held fast.”",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "«El tambor del freno de apoyo queda retenido.»",
+          "runs": [
+            {
+              "text": "«El tambor del freno de apoyo queda retenido.»",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-022",
+    "next": "d65241a-page-024"
+  }
+}

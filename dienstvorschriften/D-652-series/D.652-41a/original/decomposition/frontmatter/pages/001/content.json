@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-001",
+  "document_id": "d652-41a",
+  "page": 1,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {
+    "de": "7,5 cm Sturmgeschütz 40 Ausführung F/8 und G und 10,5 cm Sturmhaubitze 42 Ausführung G",
+    "en-GB": "7.5 cm Assault Gun 40 model F/8 and G and 10.5 cm Assault Howitzer 42 model G",
+    "es-ES": "Cañón de asalto de 7,5 cm 40 modelos F/8 y G y obús de asalto de 10,5 cm 42 modelo G"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 1,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-001-para01",
+      "text": {
+        "de": {
+          "plain": "D 652/41a",
+          "runs": [
+            {
+              "text": "D 652/41a",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "D 652/41a",
+          "runs": [
+            {
+              "text": "D 652/41a",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "D 652/41a",
+          "runs": [
+            {
+              "text": "D 652/41a",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-001-para02",
+      "text": {
+        "de": {
+          "plain": "7,5 cm Sturmgeschütz 40 Ausführung F/8 und G",
+          "runs": [
+            {
+              "text": "7,5 cm Sturmgeschütz 40 Ausführung F/8 und G",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7.5 cm Assault Gun 40 (7,5 cm Sturmgeschütz 40), models F/8 and G",
+          "runs": [
+            {
+              "text": "7.5 cm Assault Gun 40 (7,5 cm Sturmgeschütz 40), models F/8 and G",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cañón de asalto de 7,5 cm 40 (7,5 cm Sturmgeschütz 40), modelos F/8 y G",
+          "runs": [
+            {
+              "text": "Cañón de asalto de 7,5 cm 40 (7,5 cm Sturmgeschütz 40), modelos F/8 y G",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-001-para03",
+      "text": {
+        "de": {
+          "plain": "und",
+          "runs": [
+            {
+              "text": "und",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "and",
+          "runs": [
+            {
+              "text": "and",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "y",
+          "runs": [
+            {
+              "text": "y",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-001-para04",
+      "text": {
+        "de": {
+          "plain": "10,5 cm Sturmhaubitze 42 Ausführung G",
+          "runs": [
+            {
+              "text": "10,5 cm Sturmhaubitze 42 Ausführung G",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "10.5 cm Assault Howitzer 42 (10,5 cm Sturmhaubitze 42), model G",
+          "runs": [
+            {
+              "text": "10.5 cm Assault Howitzer 42 (10,5 cm Sturmhaubitze 42), model G",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "obús de asalto de 10,5 cm 42 (10,5 cm Sturmhaubitze 42), modelo G",
+          "runs": [
+            {
+              "text": "obús de asalto de 10,5 cm 42 (10,5 cm Sturmhaubitze 42), modelo G",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-001-para05",
+      "text": {
+        "de": {
+          "plain": "Gerätbeschreibung und Bedienungsanweisung zum Fahrgestell",
+          "runs": [
+            {
+              "text": "Gerätbeschreibung und Bedienungsanweisung zum Fahrgestell",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Equipment description and operating instructions for the chassis (Gerätbeschreibung und Bedienungsanweisung zum Fahrgestell)",
+          "runs": [
+            {
+              "text": "Equipment description and operating instructions for the chassis (Gerätbeschreibung und Bedienungsanweisung zum Fahrgestell)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Descripción del material e instrucciones de manejo del chasis (Gerätbeschreibung und Bedienungsanweisung zum Fahrgestell)",
+          "runs": [
+            {
+              "text": "Descripción del material e instrucciones de manejo del chasis (Gerätbeschreibung und Bedienungsanweisung zum Fahrgestell)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-001-para06",
+      "text": {
+        "de": {
+          "plain": "Vom 1. 5. 43",
+          "runs": [
+            {
+              "text": "Vom 1. 5. 43",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Dated 1 May 1943 (Vom 1. 5. 43)",
+          "runs": [
+            {
+              "text": "Dated 1 May 1943 (Vom 1. 5. 43)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fechado el 1 de mayo de 1943 (Vom 1. 5. 43)",
+          "runs": [
+            {
+              "text": "Fechado el 1 de mayo de 1943 (Vom 1. 5. 43)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": null,
+    "next": "d65241a-page-002"
+  }
+}

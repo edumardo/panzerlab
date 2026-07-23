@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-050",
+  "document_id": "d652-41a",
+  "page": 50,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 26,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-050-para01",
+      "text": {
+        "de": {"plain": "Auf der Kegelradwelle Abstandscheibe aufbringen, Rollenlager aufziehen, Sicherungsblech aufstecken und Nutmutter aufschrauben (III DB 96). Sicherungsblech erst nach Einstellen der Kegelräder einbiegen!", "runs": [{"text": "Auf der Kegelradwelle Abstandscheibe aufbringen, Rollenlager aufziehen, Sicherungsblech aufstecken und Nutmutter aufschrauben (III DB 96). Sicherungsblech erst nach Einstellen der Kegelräder einbiegen!", "bold": false}]},
+        "en-GB": {"plain": "Fit the spacer washer on the bevel-gear shaft, draw on the roller bearing, fit the locking plate and screw on the slotted nut (III DB 96). Bend over the locking plate only after setting the bevel gears!", "runs": [{"text": "Fit the spacer washer on the bevel-gear shaft, draw on the roller bearing, fit the locking plate and screw on the slotted nut (III DB 96). Bend over the locking plate only after setting the bevel gears!", "bold": false}]},
+        "es-ES": {"plain": "Monte la arandela separadora en el eje del piñón cónico, cale el cojinete de rodillos, coloque la chapa de bloqueo y enrosque la tuerca ranurada (III DB 96). ¡Doble la chapa de bloqueo solo después de ajustar los piñones cónicos!", "runs": [{"text": "Monte la arandela separadora en el eje del piñón cónico, cale el cojinete de rodillos, coloque la chapa de bloqueo y enrosque la tuerca ranurada (III DB 96). ¡Doble la chapa de bloqueo solo después de ajustar los piñones cónicos!", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para02",
+      "text": {
+        "de": {"plain": "Oben: In Flanschbuchse Rollenlageraußenring und Klemmring einsetzen. Flanschbuchse anschrauben und Schrauben mit Sicherungsblechen sichern.", "runs": [{"text": "Oben: In Flanschbuchse Rollenlageraußenring und Klemmring einsetzen. Flanschbuchse anschrauben und Schrauben mit Sicherungsblechen sichern.", "bold": false}]},
+        "en-GB": {"plain": "Above: Insert the roller-bearing outer ring and clamping ring into the flange bush. Screw on the flange bush and secure the screws with locking plates.", "runs": [{"text": "Above: Insert the roller-bearing outer ring and clamping ring into the flange bush. Screw on the flange bush and secure the screws with locking plates.", "bold": false}]},
+        "es-ES": {"plain": "Arriba: Introduzca el anillo exterior del cojinete de rodillos y el anillo de apriete en el casquillo embridado. Enrosque el casquillo embridado y asegure los tornillos con chapas de bloqueo.", "runs": [{"text": "Arriba: Introduzca el anillo exterior del cojinete de rodillos y el anillo de apriete en el casquillo embridado. Enrosque el casquillo embridado y asegure los tornillos con chapas de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para03",
+      "text": {
+        "de": {"plain": "b) Anbau an Wechselgetriebe", "runs": [{"text": "b) Anbau an Wechselgetriebe", "bold": true}]},
+        "en-GB": {"plain": "b) Anbau an Wechselgetriebe – b) Attachment to the gearbox", "runs": [{"text": "b) Anbau an Wechselgetriebe – b) Attachment to the gearbox", "bold": true}]},
+        "es-ES": {"plain": "b) Anbau an Wechselgetriebe – b) Acoplamiento a la caja de cambios", "runs": [{"text": "b) Anbau an Wechselgetriebe – b) Acoplamiento a la caja de cambios", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para04",
+      "text": {
+        "de": {"plain": "Getriebegehäuse ohne Seitendeckel an Wechselgetriebe vorsichtig anbauen und verschrauben. Vorher Paßbleche zum Einstellen der Kegelräder zwischenlegen. Oberen Deckel anschrauben.", "runs": [{"text": "Getriebegehäuse ohne Seitendeckel an Wechselgetriebe vorsichtig anbauen und verschrauben. Vorher Paßbleche zum Einstellen der Kegelräder zwischenlegen. Oberen Deckel anschrauben.", "bold": false}]},
+        "en-GB": {"plain": "Carefully attach the gearbox housing (without side cover) to the change-speed gearbox and bolt it. Beforehand, insert shim plates (Paßbleche) to set the bevel gears. Screw on the upper cover.", "runs": [{"text": "Carefully attach the gearbox housing (without side cover) to the change-speed gearbox and bolt it. Beforehand, insert shim plates (Paßbleche) to set the bevel gears. Screw on the upper cover.", "bold": false}]},
+        "es-ES": {"plain": "Acople con cuidado la carcasa del par cónico (sin la tapa lateral) a la caja de cambios y atorníllela. Antes, intercale chapas de ajuste (Paßbleche) para ajustar los piñones cónicos. Enrosque la tapa superior.", "runs": [{"text": "Acople con cuidado la carcasa del par cónico (sin la tapa lateral) a la caja de cambios y atorníllela. Antes, intercale chapas de ajuste (Paßbleche) para ajustar los piñones cónicos. Enrosque la tapa superior.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para05",
+      "text": {
+        "de": {"plain": "Eingriff der Kegelräder durch die noch nicht gesicherten Nutmuttern einstellen (III DB 96, III DB 99) unter Beachtung des auf die Kegelräder eingeschlagenen Zahnflankenspiels. Danach Nutmutter fest anziehen und Sicherungsbleche einbiegen.", "runs": [{"text": "Eingriff der Kegelräder durch die noch nicht gesicherten Nutmuttern einstellen (III DB 96, III DB 99) unter Beachtung des auf die Kegelräder eingeschlagenen Zahnflankenspiels. Danach Nutmutter fest anziehen und Sicherungsbleche einbiegen.", "bold": false}]},
+        "en-GB": {"plain": "Set the mesh of the bevel gears using the still-unsecured slotted nuts (III DB 96, III DB 99), observing the tooth-flank clearance stamped on the bevel gears. Then tighten the slotted nut firmly and bend over the locking plates.", "runs": [{"text": "Set the mesh of the bevel gears using the still-unsecured slotted nuts (III DB 96, III DB 99), observing the tooth-flank clearance stamped on the bevel gears. Then tighten the slotted nut firmly and bend over the locking plates.", "bold": false}]},
+        "es-ES": {"plain": "Ajuste el engrane de los piñones cónicos con las tuercas ranuradas aún sin asegurar (III DB 96, III DB 99), respetando la holgura de flanco de diente grabada en los piñones cónicos. Apriete después firmemente la tuerca ranurada y doble las chapas de bloqueo.", "runs": [{"text": "Ajuste el engrane de los piñones cónicos con las tuercas ranuradas aún sin asegurar (III DB 96, III DB 99), respetando la holgura de flanco de diente grabada en los piñones cónicos. Apriete después firmemente la tuerca ranurada y doble las chapas de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para06",
+      "text": {
+        "de": {"plain": "Kegelrad- und Wechselgetriebe endgültig miteinander verschrauben und Muttern durch Splinte bzw. Sicherungsbleche sichern.", "runs": [{"text": "Kegelrad- und Wechselgetriebe endgültig miteinander verschrauben und Muttern durch Splinte bzw. Sicherungsbleche sichern.", "bold": false}]},
+        "en-GB": {"plain": "Finally bolt the bevel-gear housing and change-speed gearbox together and secure the nuts with split pins or locking plates.", "runs": [{"text": "Finally bolt the bevel-gear housing and change-speed gearbox together and secure the nuts with split pins or locking plates.", "bold": false}]},
+        "es-ES": {"plain": "Por último, atornille entre sí la carcasa del par cónico y la caja de cambios y asegure las tuercas con pasadores de aletas o chapas de bloqueo.", "runs": [{"text": "Por último, atornille entre sí la carcasa del par cónico y la caja de cambios y asegure las tuercas con pasadores de aletas o chapas de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para07",
+      "text": {
+        "de": {"plain": "c) Teile im Gehäuseseitendeckel", "runs": [{"text": "c) Teile im Gehäuseseitendeckel", "bold": true}]},
+        "en-GB": {"plain": "c) Teile im Gehäuseseitendeckel – c) Parts in the housing side cover", "runs": [{"text": "c) Teile im Gehäuseseitendeckel – c) Parts in the housing side cover", "bold": true}]},
+        "es-ES": {"plain": "c) Teile im Gehäuseseitendeckel – c) Piezas en la tapa lateral de la carcasa", "runs": [{"text": "c) Teile im Gehäuseseitendeckel – c) Piezas en la tapa lateral de la carcasa", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para08",
+      "text": {
+        "de": {"plain": "Oben:", "runs": [{"text": "Oben:", "bold": false}]},
+        "en-GB": {"plain": "Above:", "runs": [{"text": "Above:", "bold": false}]},
+        "es-ES": {"plain": "Arriba:", "runs": [{"text": "Arriba:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para09",
+      "text": {
+        "de": {"plain": "Bild 28 1, 2 Auf Zahnradnabe (Zahnradseite) Klemmring auflegen, Kugellager 6222 aufziehen (III DB 95/2, 3, 5) und mit Klemmring sichern. Auf die Zahnradnabe außen Rollenlagerinnenring aufziehen (III DB 95/2, 3, 5).", "runs": [{"text": "Bild 28 1, 2 Auf Zahnradnabe (Zahnradseite) Klemmring auflegen, Kugellager 6222 aufziehen (III DB 95/2, 3, 5) und mit Klemmring sichern. Auf die Zahnradnabe außen Rollenlagerinnenring aufziehen (III DB 95/2, 3, 5).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 28/1, 2 – Lay the clamping ring on the gear hub (gear side), draw on ball bearing 6222 (III DB 95/2, 3, 5) and secure with a clamping ring. Fit the roller-bearing inner ring on the outside of the gear hub (III DB 95/2, 3, 5).", "runs": [{"text": "Fig. 28/1, 2 – Lay the clamping ring on the gear hub (gear side), draw on ball bearing 6222 (III DB 95/2, 3, 5) and secure with a clamping ring. Fit the roller-bearing inner ring on the outside of the gear hub (III DB 95/2, 3, 5).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 28/1, 2 – Coloque el anillo de apriete en el cubo del piñón (lado del piñón), cale el rodamiento de bolas 6222 (III DB 95/2, 3, 5) y asegúrelo con un anillo de apriete. Monte el anillo interior del cojinete de rodillos en el exterior del cubo del piñón (III DB 95/2, 3, 5).", "runs": [{"text": "Fig. 28/1, 2 – Coloque el anillo de apriete en el cubo del piñón (lado del piñón), cale el rodamiento de bolas 6222 (III DB 95/2, 3, 5) y asegúrelo con un anillo de apriete. Monte el anillo interior del cojinete de rodillos en el exterior del cubo del piñón (III DB 95/2, 3, 5).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para10",
+      "text": {
+        "de": {"plain": "In Zahnradnabe Zentrierring einpressen und mit Klemmring sichern. Zahnkranz und Nabe miteinander verschrauben und Muttern durch Splinte sichern.", "runs": [{"text": "In Zahnradnabe Zentrierring einpressen und mit Klemmring sichern. Zahnkranz und Nabe miteinander verschrauben und Muttern durch Splinte sichern.", "bold": false}]},
+        "en-GB": {"plain": "Press the centring ring into the gear hub and secure with a clamping ring. Bolt the sprocket ring and hub together and secure the nuts with split pins.", "runs": [{"text": "Press the centring ring into the gear hub and secure with a clamping ring. Bolt the sprocket ring and hub together and secure the nuts with split pins.", "bold": false}]},
+        "es-ES": {"plain": "Introduzca a presión el anillo de centrado en el cubo del piñón y asegúrelo con un anillo de apriete. Atornille entre sí la corona dentada y el cubo y asegure las tuercas con pasadores de aletas.", "runs": [{"text": "Introduzca a presión el anillo de centrado en el cubo del piñón y asegúrelo con un anillo de apriete. Atornille entre sí la corona dentada y el cubo y asegure las tuercas con pasadores de aletas.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para11",
+      "text": {
+        "de": {"plain": "Unten:", "runs": [{"text": "Unten:", "bold": false}]},
+        "en-GB": {"plain": "Below:", "runs": [{"text": "Below:", "bold": false}]},
+        "es-ES": {"plain": "Abajo:", "runs": [{"text": "Abajo:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para12",
+      "text": {
+        "de": {"plain": "In Gehäusedeckel Kugellager 6220 einpressen und mit Klemmring sichern.", "runs": [{"text": "In Gehäusedeckel Kugellager 6220 einpressen und mit Klemmring sichern.", "bold": false}]},
+        "en-GB": {"plain": "Press ball bearing 6220 into the housing cover and secure with a clamping ring.", "runs": [{"text": "Press ball bearing 6220 into the housing cover and secure with a clamping ring.", "bold": false}]},
+        "es-ES": {"plain": "Introduzca a presión el rodamiento de bolas 6220 en la tapa de la carcasa y asegúrelo con un anillo de apriete.", "runs": [{"text": "Introduzca a presión el rodamiento de bolas 6220 en la tapa de la carcasa y asegúrelo con un anillo de apriete.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para13",
+      "text": {
+        "de": {"plain": "Bild 28 3 Auf den äußeren Umlaufradträger das Zahnradritzel aufziehen (III DB 95/1, 3, 4). Zentrierring in Ritzel einsetzen und durch Klemmring sichern.", "runs": [{"text": "Bild 28 3 Auf den äußeren Umlaufradträger das Zahnradritzel aufziehen (III DB 95/1, 3, 4). Zentrierring in Ritzel einsetzen und durch Klemmring sichern.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 28/3 – Fit the gear pinion (Zahnradritzel) on the outer planet carrier (III DB 95/1, 3, 4). Insert the centring ring into the pinion and secure with a clamping ring.", "runs": [{"text": "Fig. 28/3 – Fit the gear pinion (Zahnradritzel) on the outer planet carrier (III DB 95/1, 3, 4). Insert the centring ring into the pinion and secure with a clamping ring.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 28/3 – Monte el piñón (Zahnradritzel) en el portasatélites exterior (III DB 95/1, 3, 4). Introduzca el anillo de centrado en el piñón y asegúrelo con un anillo de apriete.", "runs": [{"text": "Fig. 28/3 – Monte el piñón (Zahnradritzel) en el portasatélites exterior (III DB 95/1, 3, 4). Introduzca el anillo de centrado en el piñón y asegúrelo con un anillo de apriete.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para14",
+      "text": {
+        "de": {"plain": "Bild 28 4 Auf das Zahnradritzel das Kugellager 6220 aufziehen (III DB 95/1, 4, 5). In Lagerdeckel Rollenlageraußenring eintreiben und Dichtungsdeckel auf Stützbremsnabe aufschieben.", "runs": [{"text": "Bild 28 4 Auf das Zahnradritzel das Kugellager 6220 aufziehen (III DB 95/1, 4, 5). In Lagerdeckel Rollenlageraußenring eintreiben und Dichtungsdeckel auf Stützbremsnabe aufschieben.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 28/4 – Fit ball bearing 6220 on the gear pinion (III DB 95/1, 4, 5). Drive the roller-bearing outer ring into the bearing cover and slide the sealing cover onto the support-brake hub.", "runs": [{"text": "Fig. 28/4 – Fit ball bearing 6220 on the gear pinion (III DB 95/1, 4, 5). Drive the roller-bearing outer ring into the bearing cover and slide the sealing cover onto the support-brake hub.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 28/4 – Monte el rodamiento de bolas 6220 en el piñón (III DB 95/1, 4, 5). Introduzca el anillo exterior del cojinete de rodillos en la tapa de cojinete y deslice la tapa de estanqueidad sobre el cubo del freno de apoyo.", "runs": [{"text": "Fig. 28/4 – Monte el rodamiento de bolas 6220 en el piñón (III DB 95/1, 4, 5). Introduzca el anillo exterior del cojinete de rodillos en la tapa de cojinete y deslice la tapa de estanqueidad sobre el cubo del freno de apoyo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-050-para15",
+      "text": {
+        "de": {"plain": "Bild 28 5 Rollenlagerinnenring auf Nabe aufziehen (III DB 95/2, 3, 5). Nabe in Rollenlager im Deckel einführen, Anlauf-", "runs": [{"text": "Bild 28 5 Rollenlagerinnenring auf Nabe aufziehen (III DB 95/2, 3, 5). Nabe in Rollenlager im Deckel einführen, Anlauf-", "bold": false}]},
+        "en-GB": {"plain": "Fig. 28/5 – Fit the roller-bearing inner ring on the hub (III DB 95/2, 3, 5). Introduce the hub into the roller bearing in the cover, fit the thrust –", "runs": [{"text": "Fig. 28/5 – Fit the roller-bearing inner ring on the hub (III DB 95/2, 3, 5). Introduce the hub into the roller bearing in the cover, fit the thrust –", "bold": false}]},
+        "es-ES": {"plain": "Fig. 28/5 – Monte el anillo interior del cojinete de rodillos en el cubo (III DB 95/2, 3, 5). Introduzca el cubo en el cojinete de rodillos de la tapa, coloque la arandela de –", "runs": [{"text": "Fig. 28/5 – Monte el anillo interior del cojinete de rodillos en el cubo (III DB 95/2, 3, 5). Introduzca el cubo en el cojinete de rodillos de la tapa, coloque la arandela de –", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-049",
+    "next": "d65241a-page-051"
+  }
+}

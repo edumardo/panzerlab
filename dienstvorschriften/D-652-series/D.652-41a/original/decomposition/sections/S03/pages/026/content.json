@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-026",
+  "document_id": "d652-41a",
+  "page": 26,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "10. Seitenvorgelege, Bild 14",
+    "en-GB": "10. Final drives, Figure 14",
+    "es-ES": "10. Reductoras finales, figura 14"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 14,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-026-para01",
+      "text": {
+        "de": {
+          "plain": "gebremst. Beim Abrollen der Rolle auf der zweiten Kurvenbahn des Kurvenhebels Nr. 3 wird dieser in der gleichen Stellung wie beim Lösen der Stützbremse gehalten, d. h. die Stützbremse ist beim Betätigen der Lenkbremse ständig gelöst.",
+          "runs": [
+            {
+              "text": "gebremst. Beim Abrollen der Rolle auf der zweiten Kurvenbahn des Kurvenhebels Nr. 3 wird dieser in der gleichen Stellung wie beim Lösen der Stützbremse gehalten, d. h. die Stützbremse ist beim Betätigen der Lenkbremse ständig gelöst.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "braked. As the roller runs along the second cam track of cam lever No. 3, the lever is held in the same position as when releasing the support brake — i.e. while the steering brake is being operated, the support brake is kept permanently released.",
+          "runs": [
+            {
+              "text": "braked. As the roller runs along the second cam track of cam lever No. 3, the lever is held in the same position as when releasing the support brake — i.e. while the steering brake is being operated, the support brake is kept permanently released.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "frenado. A medida que el rodillo recorre la segunda pista de leva de la palanca de leva n.º 3, la palanca se mantiene en la misma posición que al soltar el freno de apoyo — es decir, mientras se acciona el freno de dirección, el freno de apoyo permanece constantemente suelto.",
+          "runs": [
+            {
+              "text": "frenado. A medida que el rodillo recorre la segunda pista de leva de la palanca de leva n.º 3, la palanca se mantiene en la misma posición que al soltar el freno de apoyo — es decir, mientras se acciona el freno de dirección, el freno de apoyo permanece constantemente suelto.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para02",
+      "text": {
+        "de": {
+          "plain": "Beim Zurücklegen des Lenkhebels in seine Ausgangsstellung verursachen die an den Bremshebeln angelenkten Zugfedern auch ein Zurückführen der übrigen Gestängeteile in ihre Ausgangsstellungen. Die Stützbremse ist dann wieder abgebremst und die Lenkbremse gelüftet.",
+          "runs": [
+            {
+              "text": "Beim Zurücklegen des Lenkhebels in seine Ausgangsstellung verursachen die an den Bremshebeln angelenkten Zugfedern auch ein Zurückführen der übrigen Gestängeteile in ihre Ausgangsstellungen. Die Stützbremse ist dann wieder abgebremst und die Lenkbremse gelüftet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When the steering lever is returned to its initial position, the tension springs hinged to the brake levers also return the remaining linkage parts to their initial positions. The support brake is then applied again and the steering brake released.",
+          "runs": [
+            {
+              "text": "When the steering lever is returned to its initial position, the tension springs hinged to the brake levers also return the remaining linkage parts to their initial positions. The support brake is then applied again and the steering brake released.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al devolver la palanca de dirección a su posición inicial, los muelles de tracción articulados a las palancas de freno devuelven también a su posición inicial las demás piezas del varillaje. El freno de apoyo vuelve entonces a aplicarse y el freno de dirección a soltarse.",
+          "runs": [
+            {
+              "text": "Al devolver la palanca de dirección a su posición inicial, los muelles de tracción articulados a las palancas de freno devuelven también a su posición inicial las demás piezas del varillaje. El freno de apoyo vuelve entonces a aplicarse y el freno de dirección a soltarse.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para03",
+      "text": {
+        "de": {
+          "plain": "Zum Vermeiden eines Totganges sind an den Lenkhebeln je eine Zugfeder vorgesehen.",
+          "runs": [
+            {
+              "text": "Zum Vermeiden eines Totganges sind an den Lenkhebeln je eine Zugfeder vorgesehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To avoid lost motion (Totgang), a tension spring is provided on each steering lever.",
+          "runs": [
+            {
+              "text": "To avoid lost motion (Totgang), a tension spring is provided on each steering lever.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para evitar la carrera muerta (Totgang), cada palanca de dirección lleva un muelle de tracción.",
+          "runs": [
+            {
+              "text": "Para evitar la carrera muerta (Totgang), cada palanca de dirección lleva un muelle de tracción.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para04",
+      "text": {
+        "de": {
+          "plain": "Die beiden Seitenvorgelege, zwei Stirnradtriebe mit einer Untersetzung von 4 : 1, sind in je einem außen an der Wanne angebrachten Gehäuse aus Panzermaterial gelagert. Das große Rad des Stirnradtriebes ist mit einer Flanschwelle verkeilt, die durch das Gehäuse geführt ist und gegen eindringenden Sand oder Wasser durch eine unter Fett stehende Labyrinthdichtung und einen Dichtring abgedichtet wird.",
+          "runs": [
+            {
+              "text": "Die beiden Seitenvorgelege, zwei Stirnradtriebe mit einer Untersetzung von 4 : 1, sind in je einem außen an der Wanne angebrachten Gehäuse aus Panzermaterial gelagert. Das große Rad des Stirnradtriebes ist mit einer Flanschwelle verkeilt, die durch das Gehäuse geführt ist und gegen eindringenden Sand oder Wasser durch eine unter Fett stehende Labyrinthdichtung und einen Dichtring abgedichtet wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The two final drives (Seitenvorgelege) — spur-gear drives (Stirnradtriebe) with a reduction of 4 : 1 — are each mounted in a housing of armour material fitted on the outside of the hull. The large gear of the spur-gear drive is keyed to a flanged shaft (Flanschwelle) which passes through the housing and is sealed against ingress of sand or water by a grease-filled labyrinth seal (Labyrinthdichtung) and a sealing ring (Dichtring).",
+          "runs": [
+            {
+              "text": "The two final drives (Seitenvorgelege) — spur-gear drives (Stirnradtriebe) with a reduction of 4 : 1 — are each mounted in a housing of armour material fitted on the outside of the hull. The large gear of the spur-gear drive is keyed to a flanged shaft (Flanschwelle) which passes through the housing and is sealed against ingress of sand or water by a grease-filled labyrinth seal (Labyrinthdichtung) and a sealing ring (Dichtring).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las dos reductoras finales (Seitenvorgelege) — transmisiones de engranajes cilíndricos (Stirnradtriebe) con una reducción de 4 : 1 — van montadas cada una en una carcasa de material de blindaje dispuesta por fuera del casco. El piñón grande de la transmisión va chavetado a un eje embridado (Flanschwelle) que atraviesa la carcasa y va estanqueizado contra la entrada de arena o agua por un cierre de laberinto relleno de grasa (Labyrinthdichtung) y un retén (Dichtring).",
+          "runs": [
+            {
+              "text": "Las dos reductoras finales (Seitenvorgelege) — transmisiones de engranajes cilíndricos (Stirnradtriebe) con una reducción de 4 : 1 — van montadas cada una en una carcasa de material de blindaje dispuesta por fuera del casco. El piñón grande de la transmisión va chavetado a un eje embridado (Flanschwelle) que atraviesa la carcasa y va estanqueizado contra la entrada de arena o agua por un cierre de laberinto relleno de grasa (Labyrinthdichtung) y un retén (Dichtring).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para05",
+      "text": {
+        "de": {
+          "plain": "11. Laufwerk, Bild 15 bis 19",
+          "runs": [
+            {
+              "text": "11. Laufwerk, Bild 15 bis 19",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "11. Running gear, Figures 15 to 19",
+          "runs": [
+            {
+              "text": "11. Running gear, Figures 15 to 19",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "11. Tren de rodaje, figuras 15 a 19",
+          "runs": [
+            {
+              "text": "11. Tren de rodaje, figuras 15 a 19",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para06",
+      "text": {
+        "de": {
+          "plain": "Das Laufwerk besteht auf jeder Seite aus dem Triebrad, den 6 Laufrollen mit Abfederung, dem Leitrad, den 3 Stützrollen und der Gleiskette.",
+          "runs": [
+            {
+              "text": "Das Laufwerk besteht auf jeder Seite aus dem Triebrad, den 6 Laufrollen mit Abfederung, dem Leitrad, den 3 Stützrollen und der Gleiskette.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On each side, the running gear comprises the drive sprocket (Triebrad), the six sprung road wheels (Laufrollen), the idler wheel (Leitrad), the three return rollers (Stützrollen) and the track (Gleiskette).",
+          "runs": [
+            {
+              "text": "On each side, the running gear comprises the drive sprocket (Triebrad), the six sprung road wheels (Laufrollen), the idler wheel (Leitrad), the three return rollers (Stützrollen) and the track (Gleiskette).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En cada costado, el tren de rodaje comprende la rueda motriz (Triebrad), las seis ruedas de rodadura suspendidas (Laufrollen), la rueda tensora (Leitrad), los tres rodillos de retorno (Stützrollen) y la cadena (Gleiskette).",
+          "runs": [
+            {
+              "text": "En cada costado, el tren de rodaje comprende la rueda motriz (Triebrad), las seis ruedas de rodadura suspendidas (Laufrollen), la rueda tensora (Leitrad), los tres rodillos de retorno (Stützrollen) y la cadena (Gleiskette).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para07",
+      "text": {
+        "de": {
+          "plain": "a) Triebrad, Leitrad mit Kettenspanner, Stützrollen",
+          "runs": [
+            {
+              "text": "a) Triebrad, Leitrad mit Kettenspanner, Stützrollen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Drive sprocket, idler wheel with track tensioner, return rollers",
+          "runs": [
+            {
+              "text": "a) Drive sprocket, idler wheel with track tensioner, return rollers",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Rueda motriz, rueda tensora con tensor de cadena, rodillos de retorno",
+          "runs": [
+            {
+              "text": "a) Rueda motriz, rueda tensora con tensor de cadena, rodillos de retorno",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para08",
+      "text": {
+        "de": {
+          "plain": "Das Triebrad aus Stahlguß, Bild 15, ist mit der Flanschwelle des Seitenvorgeleges verschraubt und hat 2 auswechselbare Zahnkränze mit je 21 Zähnen, die in die Gleiskette eingreifen.",
+          "runs": [
+            {
+              "text": "Das Triebrad aus Stahlguß, Bild 15, ist mit der Flanschwelle des Seitenvorgeleges verschraubt und hat 2 auswechselbare Zahnkränze mit je 21 Zähnen, die in die Gleiskette eingreifen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The cast-steel drive sprocket (Figure 15) is bolted to the flanged shaft of the final drive and has two replaceable sprocket rings (Zahnkränze) of 21 teeth each, which engage in the track.",
+          "runs": [
+            {
+              "text": "The cast-steel drive sprocket (Figure 15) is bolted to the flanged shaft of the final drive and has two replaceable sprocket rings (Zahnkränze) of 21 teeth each, which engage in the track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La rueda motriz, de acero moldeado (figura 15), va atornillada al eje embridado de la reductora final y lleva dos coronas dentadas recambiables (Zahnkränze) de 21 dientes cada una, que engranan en la cadena.",
+          "runs": [
+            {
+              "text": "La rueda motriz, de acero moldeado (figura 15), va atornillada al eje embridado de la reductora final y lleva dos coronas dentadas recambiables (Zahnkränze) de 21 dientes cada una, que engranan en la cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-026-para09",
+      "text": {
+        "de": {
+          "plain": "Das Leitrad, Bild 16, ist als ein Speichenrad mit 2 aufgeschweißten Felgenringen ausgebildet. Die inneren Führungsflächen dieser Felgenringe sind gehärtet und dienen zur seitlichen Führung der Zähne der Gleiskette. Das Leitrad dreht sich in Rollenlagern um eine Kurbelachse, die im Heck der Wanne gelagert ist. Durch Schwenken dieser Kurbelachse mit Hilfe einer Spannschraube, die außerhalb der Wanne an einen Zapfen der Kurbelachse angreift,",
+          "runs": [
+            {
+              "text": "Das Leitrad, Bild 16, ist als ein Speichenrad mit 2 aufgeschweißten Felgenringen ausgebildet. Die inneren Führungsflächen dieser Felgenringe sind gehärtet und dienen zur seitlichen Führung der Zähne der Gleiskette. Das Leitrad dreht sich in Rollenlagern um eine Kurbelachse, die im Heck der Wanne gelagert ist. Durch Schwenken dieser Kurbelachse mit Hilfe einer Spannschraube, die außerhalb der Wanne an einen Zapfen der Kurbelachse angreift,",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The idler wheel (Figure 16) is built as a spoked wheel with two welded-on rim rings (Felgenringe). The inner guide faces of these rim rings are hardened and serve to guide the track teeth laterally. The idler wheel turns in roller bearings about a crank axle (Kurbelachse) mounted at the rear of the hull. By swivelling this crank axle with a tensioning screw (Spannschraube) that engages a journal of the crank axle outside the hull,",
+          "runs": [
+            {
+              "text": "The idler wheel (Figure 16) is built as a spoked wheel with two welded-on rim rings (Felgenringe). The inner guide faces of these rim rings are hardened and serve to guide the track teeth laterally. The idler wheel turns in roller bearings about a crank axle (Kurbelachse) mounted at the rear of the hull. By swivelling this crank axle with a tensioning screw (Spannschraube) that engages a journal of the crank axle outside the hull,",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La rueda tensora (figura 16) está construida como rueda de radios con dos aros de llanta soldados (Felgenringe). Las caras interiores de guía de estos aros van templadas y sirven para guiar lateralmente los dientes de la cadena. La rueda tensora gira sobre cojinetes de rodillos en torno a un eje de manivela (Kurbelachse) montado en la popa del casco. Al bascular este eje de manivela con un tornillo tensor (Spannschraube) que engancha en un muñón del eje de manivela por fuera del casco,",
+          "runs": [
+            {
+              "text": "La rueda tensora (figura 16) está construida como rueda de radios con dos aros de llanta soldados (Felgenringe). Las caras interiores de guía de estos aros van templadas y sirven para guiar lateralmente los dientes de la cadena. La rueda tensora gira sobre cojinetes de rodillos en torno a un eje de manivela (Kurbelachse) montado en la popa del casco. Al bascular este eje de manivela con un tornillo tensor (Spannschraube) que engancha en un muñón del eje de manivela por fuera del casco,",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-025",
+    "next": "d65241a-page-027"
+  }
+}

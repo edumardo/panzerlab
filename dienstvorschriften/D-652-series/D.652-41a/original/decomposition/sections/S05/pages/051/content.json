@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-051",
+  "document_id": "d652-41a",
+  "page": 51,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 26,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-051-para01",
+      "text": {
+        "de": {"plain": "scheibe zum Rollenlager aufstecken und mit Klemmring sichern.", "runs": [{"text": "scheibe zum Rollenlager aufstecken und mit Klemmring sichern.", "bold": false}]},
+        "en-GB": {"plain": "– washer to the roller bearing and secure with a clamping ring.", "runs": [{"text": "– washer to the roller bearing and secure with a clamping ring.", "bold": false}]},
+        "es-ES": {"plain": "– empuje contra el cojinete de rodillos y asegúrela con un anillo de apriete.", "runs": [{"text": "– empuje contra el cojinete de rodillos y asegúrela con un anillo de apriete.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para02",
+      "text": {
+        "de": {"plain": "Dichtungsdeckel an Lagerdeckel anschrauben und Schrauben mit Sicherungsblechen sichern. Lagerdeckel mit drei Schrauben anheften.", "runs": [{"text": "Dichtungsdeckel an Lagerdeckel anschrauben und Schrauben mit Sicherungsblechen sichern. Lagerdeckel mit drei Schrauben anheften.", "bold": false}]},
+        "en-GB": {"plain": "Bolt the sealing cover to the bearing cover and secure the bolts with locking plates. Attach the bearing cover with three screws.", "runs": [{"text": "Bolt the sealing cover to the bearing cover and secure the bolts with locking plates. Attach the bearing cover with three screws.", "bold": false}]},
+        "es-ES": {"plain": "Atornille la tapa de estanqueidad a la tapa de cojinete y asegure los tornillos con chapas de bloqueo. Fije la tapa de cojinete con tres tornillos.", "runs": [{"text": "Atornille la tapa de estanqueidad a la tapa de cojinete y asegure los tornillos con chapas de bloqueo. Fije la tapa de cojinete con tres tornillos.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para03",
+      "text": {
+        "de": {"plain": "Bild 28 6 Mittenvollradwelle durch äußeren Umlaufradträger stecken und in Stützbremsnabe einziehen (III DB 95/1, 3, 4). Zentrierring in Stützbremsnabe einsetzen. Sicherungsblech einlegen und Nutmutter anziehen (III DB 117). Sicherungsblech einbiegen. Verschlußschraube mit Dichtring in Mittenvollradwelle einschrauben. Lagerdeckel anschrauben, Schrauben mit Draht sichern. In inneren Umlaufradträger vier Bolzen, mit Schlitzseite nach der Nabe, einpressen. Sicherungen in Bolzen einstecken und durch das erste Rollenlager und Abstandring aufziehen, Umlaufrad aufstecken und das zweite Rollenlager aufziehen. Vollständigen inneren Umlaufradträger mit äußerem Träger verschrauben. Muttern durch Splinte sichern.", "runs": [{"text": "Bild 28 6 Mittenvollradwelle durch äußeren Umlaufradträger stecken und in Stützbremsnabe einziehen (III DB 95/1, 3, 4). Zentrierring in Stützbremsnabe einsetzen. Sicherungsblech einlegen und Nutmutter anziehen (III DB 117). Sicherungsblech einbiegen. Verschlußschraube mit Dichtring in Mittenvollradwelle einschrauben. Lagerdeckel anschrauben, Schrauben mit Draht sichern. In inneren Umlaufradträger vier Bolzen, mit Schlitzseite nach der Nabe, einpressen. Sicherungen in Bolzen einstecken und durch das erste Rollenlager und Abstandring aufziehen, Umlaufrad aufstecken und das zweite Rollenlager aufziehen. Vollständigen inneren Umlaufradträger mit äußerem Träger verschrauben. Muttern durch Splinte sichern.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 28/6 – Push the sun-gear shaft through the outer planet carrier and draw it into the support-brake hub (III DB 95/1, 3, 4). Insert the centring ring into the support-brake hub. Fit the locking plate and tighten the slotted nut (III DB 117); bend over the locking plate. Screw the closing screw with sealing ring into the sun-gear shaft. Bolt on the bearing cover and secure the screws with wire. Press four bolts into the inner planet carrier, slot side towards the hub. Insert the locks into the bolts, draw on the first roller bearing and spacer ring, fit the planet gear and draw on the second roller bearing. Bolt the complete inner planet carrier to the outer carrier and secure the nuts with split pins.", "runs": [{"text": "Fig. 28/6 – Push the sun-gear shaft through the outer planet carrier and draw it into the support-brake hub (III DB 95/1, 3, 4). Insert the centring ring into the support-brake hub. Fit the locking plate and tighten the slotted nut (III DB 117); bend over the locking plate. Screw the closing screw with sealing ring into the sun-gear shaft. Bolt on the bearing cover and secure the screws with wire. Press four bolts into the inner planet carrier, slot side towards the hub. Insert the locks into the bolts, draw on the first roller bearing and spacer ring, fit the planet gear and draw on the second roller bearing. Bolt the complete inner planet carrier to the outer carrier and secure the nuts with split pins.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 28/6 – Pase el eje del planeta central a través del portasatélites exterior y célelo en el cubo del freno de apoyo (III DB 95/1, 3, 4). Introduzca el anillo de centrado en el cubo del freno de apoyo. Coloque la chapa de bloqueo y apriete la tuerca ranurada (III DB 117); doble la chapa de bloqueo. Enrosque el tornillo de cierre con su retén en el eje del planeta central. Atornille la tapa de cojinete y asegure los tornillos con alambre. Introduzca a presión cuatro bulones en el portasatélites interior, con el lado de la ranura hacia el cubo. Introduzca los seguros en los bulones, cale el primer cojinete de rodillos y el anillo separador, monte el satélite y cale el segundo cojinete de rodillos. Atornille el portasatélites interior completo al exterior y asegure las tuercas con pasadores de aletas.", "runs": [{"text": "Fig. 28/6 – Pase el eje del planeta central a través del portasatélites exterior y célelo en el cubo del freno de apoyo (III DB 95/1, 3, 4). Introduzca el anillo de centrado en el cubo del freno de apoyo. Coloque la chapa de bloqueo y apriete la tuerca ranurada (III DB 117); doble la chapa de bloqueo. Enrosque el tornillo de cierre con su retén en el eje del planeta central. Atornille la tapa de cojinete y asegure los tornillos con alambre. Introduzca a presión cuatro bulones en el portasatélites interior, con el lado de la ranura hacia el cubo. Introduzca los seguros en los bulones, cale el primer cojinete de rodillos y el anillo separador, monte el satélite y cale el segundo cojinete de rodillos. Atornille el portasatélites interior completo al exterior y asegure las tuercas con pasadores de aletas.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para04",
+      "text": {
+        "de": {"plain": "d) Anbau des Gehäusedeckels", "runs": [{"text": "d) Anbau des Gehäusedeckels", "bold": true}]},
+        "en-GB": {"plain": "d) Anbau des Gehäusedeckels – d) Fitting the housing cover", "runs": [{"text": "d) Anbau des Gehäusedeckels – d) Fitting the housing cover", "bold": true}]},
+        "es-ES": {"plain": "d) Anbau des Gehäusedeckels – d) Montaje de la tapa de la carcasa", "runs": [{"text": "d) Anbau des Gehäusedeckels – d) Montaje de la tapa de la carcasa", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para05",
+      "text": {
+        "de": {"plain": "Stoßflächen mit Dichtungsmasse bestreichen. Vollständigen Gehäusedeckel an Gehäuse heranbringen und Zahnräder und Rollenlager vorsichtig einführen. Beide Teile verschrauben und Schrauben und Muttern durch Sicherungsbleche sichern.", "runs": [{"text": "Stoßflächen mit Dichtungsmasse bestreichen. Vollständigen Gehäusedeckel an Gehäuse heranbringen und Zahnräder und Rollenlager vorsichtig einführen. Beide Teile verschrauben und Schrauben und Muttern durch Sicherungsbleche sichern.", "bold": false}]},
+        "en-GB": {"plain": "Coat the mating faces with jointing compound. Bring the complete housing cover up to the housing and carefully introduce the gears and roller bearings. Bolt the two parts together and secure the nuts with locking plates.", "runs": [{"text": "Coat the mating faces with jointing compound. Bring the complete housing cover up to the housing and carefully introduce the gears and roller bearings. Bolt the two parts together and secure the nuts with locking plates.", "bold": false}]},
+        "es-ES": {"plain": "Unte las superficies de contacto con pasta de junta. Acerque la tapa completa de la carcasa a esta e introduzca con cuidado los engranajes y los cojinetes de rodillos. Atornille entre sí las dos piezas y asegure las tuercas con chapas de bloqueo.", "runs": [{"text": "Unte las superficies de contacto con pasta de junta. Acerque la tapa completa de la carcasa a esta e introduzca con cuidado los engranajes y los cojinetes de rodillos. Atornille entre sí las dos piezas y asegure las tuercas con chapas de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para06",
+      "text": {
+        "de": {"plain": "An Lagerdeckel Stützbremse mit Exzenter und Bremshebel mit aufgesteckter Schwinge anbauen. Bremsbackenrückholfedern mit Zange (III DB 131) einhängen. Lagerung des Bremshebels mit Graphitfett schmieren.", "runs": [{"text": "An Lagerdeckel Stützbremse mit Exzenter und Bremshebel mit aufgesteckter Schwinge anbauen. Bremsbackenrückholfedern mit Zange (III DB 131) einhängen. Lagerung des Bremshebels mit Graphitfett schmieren.", "bold": false}]},
+        "en-GB": {"plain": "Fit the support brake, with eccentric and brake lever with fitted rocker, to the bearing cover. Hang the brake-shoe return springs with pliers (III DB 131). Lubricate the brake-lever bearing with graphite grease.", "runs": [{"text": "Fit the support brake, with eccentric and brake lever with fitted rocker, to the bearing cover. Hang the brake-shoe return springs with pliers (III DB 131). Lubricate the brake-lever bearing with graphite grease.", "bold": false}]},
+        "es-ES": {"plain": "Monte en la tapa de cojinete el freno de apoyo, con su excéntrica y la palanca de freno con el balancín montado. Cuelgue los muelles de retorno de las zapatas con alicates (III DB 131). Lubrique el cojinete de la palanca de freno con grasa grafitada.", "runs": [{"text": "Monte en la tapa de cojinete el freno de apoyo, con su excéntrica y la palanca de freno con el balancín montado. Cuelgue los muelles de retorno de las zapatas con alicates (III DB 131). Lubrique el cojinete de la palanca de freno con grasa grafitada.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para07",
+      "text": {
+        "de": {"plain": "Stützbremstrommel mit Spritzring an Nabe anschrauben, Schrauben zusammen mit Verschlußschraube zur Mittenvollradwelle mit Draht sichern. Ölleitungen anbauen, Lage der Spritzdüse zu Kegelrädern prüfen. Entlüfter anbringen.", "runs": [{"text": "Stützbremstrommel mit Spritzring an Nabe anschrauben, Schrauben zusammen mit Verschlußschraube zur Mittenvollradwelle mit Draht sichern. Ölleitungen anbauen, Lage der Spritzdüse zu Kegelrädern prüfen. Entlüfter anbringen.", "bold": false}]},
+        "en-GB": {"plain": "Bolt the support-brake drum with slinger ring (Spritzring) to the hub; secure the screws, together with the closing screw to the sun-gear shaft, with wire. Fit the oil lines and check the position of the spray nozzle relative to the bevel gears. Fit the breather.", "runs": [{"text": "Bolt the support-brake drum with slinger ring (Spritzring) to the hub; secure the screws, together with the closing screw to the sun-gear shaft, with wire. Fit the oil lines and check the position of the spray nozzle relative to the bevel gears. Fit the breather.", "bold": false}]},
+        "es-ES": {"plain": "Atornille al cubo el tambor del freno de apoyo con su anillo deflector (Spritzring); asegure los tornillos, junto con el tornillo de cierre del eje del planeta central, con alambre. Monte las tuberías de aceite y compruebe la posición de la tobera pulverizadora respecto a los piñones cónicos. Monte el respiradero.", "runs": [{"text": "Atornille al cubo el tambor del freno de apoyo con su anillo deflector (Spritzring); asegure los tornillos, junto con el tornillo de cierre del eje del planeta central, con alambre. Monte las tuberías de aceite y compruebe la posición de la tobera pulverizadora respecto a los piñones cónicos. Monte el respiradero.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-051-para08",
+      "text": {
+        "de": {"plain": "Nach Inbetriebnahme eines überholten Wechsel-Lenkgetriebes sind die zum Lenkgetriebe führenden Ölleitungen daraufhin zu untersuchen, ob sie heiß werden. Kaltbleibende Ölleitungen deuten darauf hin, daß Spritzdüsen oder Filter verstopft sind, das Lenkgetriebe also nicht geschmiert wird und damit gefährdet ist. Vorderen Deckel an Kegelradgehäuse anschrauben und Schrauben mit Sicherungsblechen sichern. Verschlußschrauben einschrauben,", "runs": [{"text": "Nach Inbetriebnahme eines überholten Wechsel-Lenkgetriebes sind die zum Lenkgetriebe führenden Ölleitungen daraufhin zu untersuchen, ob sie heiß werden. Kaltbleibende Ölleitungen deuten darauf hin, daß Spritzdüsen oder Filter verstopft sind, das Lenkgetriebe also nicht geschmiert wird und damit gefährdet ist. Vorderen Deckel an Kegelradgehäuse anschrauben und Schrauben mit Sicherungsblechen sichern. Verschlußschrauben einschrauben,", "bold": false}]},
+        "en-GB": {"plain": "After putting an overhauled gearbox/steering-gear unit into service, check whether the oil lines leading to the steering gear become hot. Lines that stay cold indicate that the spray nozzles or filter are blocked – i.e. the steering gear is not being lubricated and is therefore at risk. Screw the front cover to the bevel-gear housing and secure the screws with locking plates. Screw in the closing screws,", "runs": [{"text": "After putting an overhauled gearbox/steering-gear unit into service, check whether the oil lines leading to the steering gear become hot. Lines that stay cold indicate that the spray nozzles or filter are blocked – i.e. the steering gear is not being lubricated and is therefore at risk. Screw the front cover to the bevel-gear housing and secure the screws with locking plates. Screw in the closing screws,", "bold": false}]},
+        "es-ES": {"plain": "Tras poner en servicio un conjunto caja/dirección revisado, compruebe si las tuberías de aceite que van al mecanismo de dirección se calientan. Las tuberías que permanecen frías indican que las toberas pulverizadoras o el filtro están obstruidos – es decir, el mecanismo de dirección no se lubrica y corre por tanto peligro. Atornille la tapa delantera a la carcasa del par cónico y asegure los tornillos con chapas de bloqueo. Enrosque los tornillos de cierre,", "runs": [{"text": "Tras poner en servicio un conjunto caja/dirección revisado, compruebe si las tuberías de aceite que van al mecanismo de dirección se calientan. Las tuberías que permanecen frías indican que las toberas pulverizadoras o el filtro están obstruidos – es decir, el mecanismo de dirección no se lubrica y corre por tanto peligro. Atornille la tapa delantera a la carcasa del par cónico y asegure los tornillos con chapas de bloqueo. Enrosque los tornillos de cierre,", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-050",
+    "next": "d65241a-page-052"
+  }
+}

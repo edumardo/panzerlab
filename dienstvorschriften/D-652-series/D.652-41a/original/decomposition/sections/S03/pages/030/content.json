@@ -1,0 +1,672 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-030",
+  "document_id": "d652-41a",
+  "page": 30,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 16,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-030-para01",
+      "text": {
+        "de": {
+          "plain": "Als Verbraucher sind angeschlossen:",
+          "runs": [
+            {
+              "text": "Als Verbraucher sind angeschlossen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The following consumers are connected:",
+          "runs": [
+            {
+              "text": "The following consumers are connected:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Van conectados los siguientes consumidores:",
+          "runs": [
+            {
+              "text": "Van conectados los siguientes consumidores:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para02",
+      "text": {
+        "de": {
+          "plain": "2 Schaltbrettleuchten mit je 1 Lampe — 3 W, betätigt durch besonderen Schalter.",
+          "runs": [
+            {
+              "text": "2 Schaltbrettleuchten mit je 1 Lampe — 3 W, betätigt durch besonderen Schalter.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 instrument-panel lamps (Schaltbrettleuchten), 1 bulb each — 3 W; operated by a separate switch.",
+          "runs": [
+            {
+              "text": "2 instrument-panel lamps (Schaltbrettleuchten), 1 bulb each — 3 W; operated by a separate switch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 luces del cuadro de mandos (Schaltbrettleuchten), 1 lámpara cada una — 3 W; accionadas por un interruptor propio.",
+          "runs": [
+            {
+              "text": "2 luces del cuadro de mandos (Schaltbrettleuchten), 1 lámpara cada una — 3 W; accionadas por un interruptor propio.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para03",
+      "text": {
+        "de": {
+          "plain": "1 Anzeigeleuchte im Schaltkasten mit 1 Lampe — 3 W, für Lichtmaschine, betätigt durch Schaltschlüssel im Schaltkasten.",
+          "runs": [
+            {
+              "text": "1 Anzeigeleuchte im Schaltkasten mit 1 Lampe — 3 W, für Lichtmaschine, betätigt durch Schaltschlüssel im Schaltkasten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 indicator lamp (Anzeigeleuchte) in the switch box, 1 bulb — 3 W, for the dynamo; operated by the switch key in the switch box (Schaltkasten).",
+          "runs": [
+            {
+              "text": "1 indicator lamp (Anzeigeleuchte) in the switch box, 1 bulb — 3 W, for the dynamo; operated by the switch key in the switch box (Schaltkasten).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 luz indicadora (Anzeigeleuchte) en la caja de conexión, 1 lámpara — 3 W, para la dinamo; accionada por la llave de contacto de la caja de conexión (Schaltkasten).",
+          "runs": [
+            {
+              "text": "1 luz indicadora (Anzeigeleuchte) en la caja de conexión, 1 lámpara — 3 W, para la dinamo; accionada por la llave de contacto de la caja de conexión (Schaltkasten).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para04",
+      "text": {
+        "de": {
+          "plain": "1 Nachtmarschgerät, bestehend aus 1 Tarnscheinwerfer — 35 W und 1 Abstandrücklicht — 10 W.",
+          "runs": [
+            {
+              "text": "1 Nachtmarschgerät, bestehend aus 1 Tarnscheinwerfer — 35 W und 1 Abstandrücklicht — 10 W.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 night-march set (Nachtmarschgerät): 1 blackout headlamp (Tarnscheinwerfer) — 35 W and 1 convoy-spacing tail-light (Abstandrücklicht) — 10 W.",
+          "runs": [
+            {
+              "text": "1 night-march set (Nachtmarschgerät): 1 blackout headlamp (Tarnscheinwerfer) — 35 W and 1 convoy-spacing tail-light (Abstandrücklicht) — 10 W.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 equipo de marcha nocturna (Nachtmarschgerät): 1 faro de camuflaje (Tarnscheinwerfer) — 35 W y 1 piloto trasero de distancia (Abstandrücklicht) — 10 W.",
+          "runs": [
+            {
+              "text": "1 equipo de marcha nocturna (Nachtmarschgerät): 1 faro de camuflaje (Tarnscheinwerfer) — 35 W y 1 piloto trasero de distancia (Abstandrücklicht) — 10 W.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para05",
+      "text": {
+        "de": {
+          "plain": "1 elektrischer Anlasser, betätigt über einen Druckknopf am Schaltbrett durch einen elektromagnetischen Batterieschalter.",
+          "runs": [
+            {
+              "text": "1 elektrischer Anlasser, betätigt über einen Druckknopf am Schaltbrett durch einen elektromagnetischen Batterieschalter.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 electric starter, operated via a push-button on the instrument panel through an electromagnetic battery switch (Batterieschalter).",
+          "runs": [
+            {
+              "text": "1 electric starter, operated via a push-button on the instrument panel through an electromagnetic battery switch (Batterieschalter).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 motor de arranque eléctrico, accionado mediante un pulsador del cuadro de mandos a través de un conmutador electromagnético de batería (Batterieschalter).",
+          "runs": [
+            {
+              "text": "1 motor de arranque eléctrico, accionado mediante un pulsador del cuadro de mandos a través de un conmutador electromagnético de batería (Batterieschalter).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para06",
+      "text": {
+        "de": {
+          "plain": "1 elektrische Anlaß-Kraftstoffpumpe, betätigt durch Druckknopf an dem Schaltbrett.",
+          "runs": [
+            {
+              "text": "1 elektrische Anlaß-Kraftstoffpumpe, betätigt durch Druckknopf an dem Schaltbrett.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 electric priming fuel pump, operated by a push-button on the instrument panel.",
+          "runs": [
+            {
+              "text": "1 electric priming fuel pump, operated by a push-button on the instrument panel.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 bomba eléctrica de cebado de combustible, accionada por un pulsador del cuadro de mandos.",
+          "runs": [
+            {
+              "text": "1 bomba eléctrica de cebado de combustible, accionada por un pulsador del cuadro de mandos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para07",
+      "text": {
+        "de": {
+          "plain": "1 Aufbau-Lichter.",
+          "runs": [
+            {
+              "text": "1 Aufbau-Lichter.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 superstructure lighting set (Aufbau-Lichter).",
+          "runs": [
+            {
+              "text": "1 superstructure lighting set (Aufbau-Lichter).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 equipo de alumbrado de la superestructura (Aufbau-Lichter).",
+          "runs": [
+            {
+              "text": "1 equipo de alumbrado de la superestructura (Aufbau-Lichter).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para08",
+      "text": {
+        "de": {
+          "plain": "Ferner können angeschlossen werden durch 2 Steckdosen an dem Schaltbrett:",
+          "runs": [
+            {
+              "text": "Ferner können angeschlossen werden durch 2 Steckdosen an dem Schaltbrett:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Furthermore, the following can be connected via two sockets (Steckdosen) on the instrument panel:",
+          "runs": [
+            {
+              "text": "Furthermore, the following can be connected via two sockets (Steckdosen) on the instrument panel:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Además, a través de dos tomas de corriente (Steckdosen) del cuadro de mandos pueden conectarse:",
+          "runs": [
+            {
+              "text": "Además, a través de dos tomas de corriente (Steckdosen) del cuadro de mandos pueden conectarse:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para09",
+      "text": {
+        "de": {
+          "plain": "1. 1 Magnetlampe mit 6 m langer Leitung, mit 1 Lampe — 15 W.",
+          "runs": [
+            {
+              "text": "1. 1 Magnetlampe mit 6 m langer Leitung, mit 1 Lampe — 15 W.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. one magnetic lamp (Magnetlampe) with a 6 m lead, 1 bulb — 15 W.",
+          "runs": [
+            {
+              "text": "1. one magnetic lamp (Magnetlampe) with a 6 m lead, 1 bulb — 15 W.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. una lámpara magnética (Magnetlampe) con cable de 6 m, 1 lámpara — 15 W.",
+          "runs": [
+            {
+              "text": "1. una lámpara magnética (Magnetlampe) con cable de 6 m, 1 lámpara — 15 W.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para10",
+      "text": {
+        "de": {
+          "plain": "2. Die Kampfraumbeleuchtung.",
+          "runs": [
+            {
+              "text": "2. Die Kampfraumbeleuchtung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. the fighting-compartment lighting (Kampfraumbeleuchtung).",
+          "runs": [
+            {
+              "text": "2. the fighting-compartment lighting (Kampfraumbeleuchtung).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. el alumbrado del compartimento de combate (Kampfraumbeleuchtung).",
+          "runs": [
+            {
+              "text": "2. el alumbrado del compartimento de combate (Kampfraumbeleuchtung).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para11",
+      "text": {
+        "de": {
+          "plain": "3. Der Geschützabzug mit zwei Anzeigeleuchten — je 3 W.",
+          "runs": [
+            {
+              "text": "3. Der Geschützabzug mit zwei Anzeigeleuchten — je 3 W.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. the gun firing trigger (Geschützabzug) with two indicator lamps — 3 W each.",
+          "runs": [
+            {
+              "text": "3. the gun firing trigger (Geschützabzug) with two indicator lamps — 3 W each.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. el disparador del cañón (Geschützabzug) con dos luces indicadoras — 3 W cada una.",
+          "runs": [
+            {
+              "text": "3. el disparador del cañón (Geschützabzug) con dos luces indicadoras — 3 W cada una.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para12",
+      "text": {
+        "de": {
+          "plain": "Die Funkanlage ist über eine Abzweigdose an der linken Seitenwand des Kampfraumes angeschlossen.",
+          "runs": [
+            {
+              "text": "Die Funkanlage ist über eine Abzweigdose an der linken Seitenwand des Kampfraumes angeschlossen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The radio set (Funkanlage) is connected via a junction box (Abzweigdose) on the left side wall of the fighting compartment.",
+          "runs": [
+            {
+              "text": "The radio set (Funkanlage) is connected via a junction box (Abzweigdose) on the left side wall of the fighting compartment.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El equipo de radio (Funkanlage) se conecta a través de una caja de derivación (Abzweigdose) en la pared lateral izquierda del compartimento de combate.",
+          "runs": [
+            {
+              "text": "El equipo de radio (Funkanlage) se conecta a través de una caja de derivación (Abzweigdose) en la pared lateral izquierda del compartimento de combate.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para13",
+      "text": {
+        "de": {
+          "plain": "Die elektrische Anlage ist ausgerüstet mit:",
+          "runs": [
+            {
+              "text": "Die elektrische Anlage ist ausgerüstet mit:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electrical system is fitted with:",
+          "runs": [
+            {
+              "text": "The electrical system is fitted with:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La instalación eléctrica lleva:",
+          "runs": [
+            {
+              "text": "La instalación eléctrica lleva:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para14",
+      "text": {
+        "de": {
+          "plain": "12 Sicherungspatronen 15 A in drei Sicherungsdosen,",
+          "runs": [
+            {
+              "text": "12 Sicherungspatronen 15 A in drei Sicherungsdosen,",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "12 fuse cartridges (Sicherungspatronen) of 15 A in three fuse boxes (Sicherungsdosen);",
+          "runs": [
+            {
+              "text": "12 fuse cartridges (Sicherungspatronen) of 15 A in three fuse boxes (Sicherungsdosen);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "12 cartuchos fusibles (Sicherungspatronen) de 15 A en tres cajas de fusibles (Sicherungsdosen);",
+          "runs": [
+            {
+              "text": "12 cartuchos fusibles (Sicherungspatronen) de 15 A en tres cajas de fusibles (Sicherungsdosen);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para15",
+      "text": {
+        "de": {
+          "plain": "1 Sicherungspatrone 60 A in Reglerschalter.",
+          "runs": [
+            {
+              "text": "1 Sicherungspatrone 60 A in Reglerschalter.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 fuse cartridge of 60 A in the regulator switch.",
+          "runs": [
+            {
+              "text": "1 fuse cartridge of 60 A in the regulator switch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 cartucho fusible de 60 A en el regulador conmutador.",
+          "runs": [
+            {
+              "text": "1 cartucho fusible de 60 A en el regulador conmutador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para16",
+      "text": {
+        "de": {
+          "plain": "Außer mit einer Lichtmaschine und einem Anlasser ist der Motor mit einem Schnappermagnetzünder ausgerüstet.",
+          "runs": [
+            {
+              "text": "Außer mit einer Lichtmaschine und einem Anlasser ist der Motor mit einem Schnappermagnetzünder ausgerüstet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Besides a dynamo and a starter, the engine is fitted with an impulse magneto (Schnappermagnetzünder).",
+          "runs": [
+            {
+              "text": "Besides a dynamo and a starter, the engine is fitted with an impulse magneto (Schnappermagnetzünder).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Además de dinamo y motor de arranque, el motor lleva una magneto de encendido por resorte (Schnappermagnetzünder).",
+          "runs": [
+            {
+              "text": "Además de dinamo y motor de arranque, el motor lleva una magneto de encendido por resorte (Schnappermagnetzünder).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para17",
+      "text": {
+        "de": {
+          "plain": "Zur elektrischen Anlage gehört ein Schaltkasten, der in der Schalttafel untergebracht ist. Im Schaltkasten ist eine Anzeigeleuchte und ein Abblendhebel eingebaut.",
+          "runs": [
+            {
+              "text": "Zur elektrischen Anlage gehört ein Schaltkasten, der in der Schalttafel untergebracht ist. Im Schaltkasten ist eine Anzeigeleuchte und ein Abblendhebel eingebaut.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electrical system includes a switch box (Schaltkasten) housed in the instrument panel; an indicator lamp and a dip lever (Abblendhebel) are built into it.",
+          "runs": [
+            {
+              "text": "The electrical system includes a switch box (Schaltkasten) housed in the instrument panel; an indicator lamp and a dip lever (Abblendhebel) are built into it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La instalación eléctrica incluye una caja de conexión (Schaltkasten) alojada en el cuadro de mandos; en ella van integradas una luz indicadora y una palanca de reducción de luces (Abblendhebel).",
+          "runs": [
+            {
+              "text": "La instalación eléctrica incluye una caja de conexión (Schaltkasten) alojada en el cuadro de mandos; en ella van integradas una luz indicadora y una palanca de reducción de luces (Abblendhebel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para18",
+      "text": {
+        "de": {
+          "plain": "Der Schaltkasten hat drei Schaltstellungen (0, 1, 2). In jeder der drei Stellungen kann der Schlüssel herausgezogen werden.",
+          "runs": [
+            {
+              "text": "Der Schaltkasten hat drei Schaltstellungen (0, 1, 2). In jeder der drei Stellungen kann der Schlüssel herausgezogen werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The switch box has three positions (0, 1, 2); the key can be withdrawn in each of the three positions.",
+          "runs": [
+            {
+              "text": "The switch box has three positions (0, 1, 2); the key can be withdrawn in each of the three positions.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La caja de conexión tiene tres posiciones (0, 1, 2); la llave puede retirarse en cualquiera de las tres.",
+          "runs": [
+            {
+              "text": "La caja de conexión tiene tres posiciones (0, 1, 2); la llave puede retirarse en cualquiera de las tres.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para19",
+      "text": {
+        "de": {
+          "plain": "Das ordnungsgemäße Arbeiten der Lichtmaschine ist daran zu erkennen, daß die Ladeanzeigeleuchte im Schaltkasten bei laufendem Motor erlischt.",
+          "runs": [
+            {
+              "text": "Das ordnungsgemäße Arbeiten der Lichtmaschine ist daran zu erkennen, daß die Ladeanzeigeleuchte im Schaltkasten bei laufendem Motor erlischt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Correct operation of the dynamo is shown by the charge-indicator lamp (Ladeanzeigeleuchte) in the switch box going out when the engine is running.",
+          "runs": [
+            {
+              "text": "Correct operation of the dynamo is shown by the charge-indicator lamp (Ladeanzeigeleuchte) in the switch box going out when the engine is running.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El funcionamiento correcto de la dinamo se manifiesta en que la luz indicadora de carga (Ladeanzeigeleuchte) de la caja de conexión se apaga con el motor en marcha.",
+          "runs": [
+            {
+              "text": "El funcionamiento correcto de la dinamo se manifiesta en que la luz indicadora de carga (Ladeanzeigeleuchte) de la caja de conexión se apaga con el motor en marcha.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-030-para20",
+      "text": {
+        "de": {
+          "plain": "Um einen einwandfreien drahtlosen Empfang zu ermöglichen, ist die elektrische Fahrzeugausrüstung nach Entstörklasse I a entstört.",
+          "runs": [
+            {
+              "text": "Um einen einwandfreien drahtlosen Empfang zu ermöglichen, ist die elektrische Fahrzeugausrüstung nach Entstörklasse I a entstört.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To allow interference-free wireless reception, the vehicle's electrical equipment is suppressed to interference-suppression class Ia (Entstörklasse Ia).",
+          "runs": [
+            {
+              "text": "To allow interference-free wireless reception, the vehicle's electrical equipment is suppressed to interference-suppression class Ia (Entstörklasse Ia).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para permitir una recepción de radio sin interferencias, el equipo eléctrico del vehículo va antiparasitado a la clase de antiparasitaje Ia (Entstörklasse Ia).",
+          "runs": [
+            {
+              "text": "Para permitir una recepción de radio sin interferencias, el equipo eléctrico del vehículo va antiparasitado a la clase de antiparasitaje Ia (Entstörklasse Ia).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-029",
+    "next": "d65241a-page-031"
+  }
+}

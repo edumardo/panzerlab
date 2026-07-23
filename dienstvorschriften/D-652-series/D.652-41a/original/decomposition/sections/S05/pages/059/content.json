@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-059",
+  "document_id": "d652-41a",
+  "page": 59,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 30,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-059-para01",
+      "text": {
+        "de": {"plain": "mutter anschrauben (gut anziehen und versplinten), Triebradkappe anbringen.", "runs": [{"text": "mutter anschrauben (gut anziehen und versplinten), Triebradkappe anbringen.", "bold": false}]},
+        "en-GB": {"plain": "– nut (tighten well and split-pin it) and fit the drive-sprocket cap.", "runs": [{"text": "– nut (tighten well and split-pin it) and fit the drive-sprocket cap.", "bold": false}]},
+        "es-ES": {"plain": "– almenada (apriétela bien y coloque el pasador de aletas) y monte la tapa de la rueda motriz.", "runs": [{"text": "– almenada (apriétela bien y coloque el pasador de aletas) y monte la tapa de la rueda motriz.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para02",
+      "text": {
+        "de": {"plain": "b) Leitrad und Leitachse, Bild 16", "runs": [{"text": "b) Leitrad und Leitachse, Bild 16", "bold": true}]},
+        "en-GB": {"plain": "b) Leitrad und Leitachse, Bild 16 – b) Idler wheel and idler axle, Figure 16", "runs": [{"text": "b) Leitrad und Leitachse, Bild 16 – b) Idler wheel and idler axle, Figure 16", "bold": true}]},
+        "es-ES": {"plain": "b) Leitrad und Leitachse, Bild 16 – b) Rueda tensora y su eje, figura 16", "runs": [{"text": "b) Leitrad und Leitachse, Bild 16 – b) Rueda tensora y su eje, figura 16", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para03",
+      "text": {
+        "de": {"plain": "Ausbau: Nach Aufbiegen des Sicherungsbleches Schraubkappe und Mutter des Kettenspanners lösen und auf diese Art Kette entspannen. Kette abnehmen. Verschlußkappe des Leitrades abnehmen, Mutter lösen, D-Scheibe, Beilegscheibe und Winkelring des Rollenlagers abnehmen und Leitrad vorsichtig abziehen, Klemmring auf dem oberen Zapfen der Kurbelachse, Spannband und Schrauben des Kurbelachsenflansches und Mutter auf Wellenende im Fahrzeug lösen, darauf Kurbelachse aus der Lagerhülse herausziehen.", "runs": [{"text": "Ausbau: ", "bold": true}, {"text": "Nach Aufbiegen des Sicherungsbleches Schraubkappe und Mutter des Kettenspanners lösen und auf diese Art Kette entspannen. Kette abnehmen. Verschlußkappe des Leitrades abnehmen, Mutter lösen, D-Scheibe, Beilegscheibe und Winkelring des Rollenlagers abnehmen und Leitrad vorsichtig abziehen, Klemmring auf dem oberen Zapfen der Kurbelachse, Spannband und Schrauben des Kurbelachsenflansches und Mutter auf Wellenende im Fahrzeug lösen, darauf Kurbelachse aus der Lagerhülse herausziehen.", "bold": false}]},
+        "en-GB": {"plain": "Removal: After bending back the locking plate, undo the screw cap and nut of the track tensioner and release the track this way; take off the track. Remove the closing cap of the idler wheel, undo the nut, take off the D-washer, shim washer and angle ring of the roller bearing, and carefully pull the idler wheel off. Undo the clamping ring on the upper journal of the crank axle, the tension band (Spannband), the screws of the crank-axle flange and the nut on the shaft end in the vehicle; then pull the crank axle out of the bearing sleeve.", "runs": [{"text": "Removal: ", "bold": true}, {"text": "After bending back the locking plate, undo the screw cap and nut of the track tensioner and release the track this way; take off the track. Remove the closing cap of the idler wheel, undo the nut, take off the D-washer, shim washer and angle ring of the roller bearing, and carefully pull the idler wheel off. Undo the clamping ring on the upper journal of the crank axle, the tension band (Spannband), the screws of the crank-axle flange and the nut on the shaft end in the vehicle; then pull the crank axle out of the bearing sleeve.", "bold": false}]},
+        "es-ES": {"plain": "Desmontaje: Tras enderezar la chapa de bloqueo, suelte la tapa roscada y la tuerca del tensor de cadena y afloje así la cadena; retire la cadena. Quite la tapa de cierre de la rueda tensora, suelte la tuerca, retire la arandela en D, la arandela de ajuste y el anillo angular del cojinete de rodillos, y extraiga con cuidado la rueda tensora. Suelte el anillo de apriete del muñón superior del eje de manivela, la banda de sujeción (Spannband), los tornillos de la brida del eje de manivela y la tuerca del extremo del eje dentro del vehículo; extraiga después el eje de manivela del manguito de cojinete.", "runs": [{"text": "Desmontaje: ", "bold": true}, {"text": "Tras enderezar la chapa de bloqueo, suelte la tapa roscada y la tuerca del tensor de cadena y afloje así la cadena; retire la cadena. Quite la tapa de cierre de la rueda tensora, suelte la tuerca, retire la arandela en D, la arandela de ajuste y el anillo angular del cojinete de rodillos, y extraiga con cuidado la rueda tensora. Suelte el anillo de apriete del muñón superior del eje de manivela, la banda de sujeción (Spannband), los tornillos de la brida del eje de manivela y la tuerca del extremo del eje dentro del vehículo; extraiga después el eje de manivela del manguito de cojinete.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para04",
+      "text": {
+        "de": {"plain": "Einbau: Abdichtringe über die Lagerhülse ziehen, Kurbelachse vorsichtig einführen und Kurbelachsenflansch zusammenbauen. In das Leitrad die Rollenlageraußenringe, Abstandhülse und Abdichtring einziehen. Nabe zwischen den Rollenlagerringen mit Schmierfett anfüllen, den Abdichtring gut einfetten und das Leitrad auf den Kurbelachsenzapfen vorsichtig aufschieben. Winkelring, Beilegringe, D-Scheibe aufstecken, die Mutter gut anziehen und durch ein Sicherungsblech sichern. Verschlußkappe mit Schmierfett füllen und anschrauben.", "runs": [{"text": "Einbau: ", "bold": true}, {"text": "Abdichtringe über die Lagerhülse ziehen, Kurbelachse vorsichtig einführen und Kurbelachsenflansch zusammenbauen. In das Leitrad die Rollenlageraußenringe, Abstandhülse und Abdichtring einziehen. Nabe zwischen den Rollenlagerringen mit Schmierfett anfüllen, den Abdichtring gut einfetten und das Leitrad auf den Kurbelachsenzapfen vorsichtig aufschieben. Winkelring, Beilegringe, D-Scheibe aufstecken, die Mutter gut anziehen und durch ein Sicherungsblech sichern. Verschlußkappe mit Schmierfett füllen und anschrauben.", "bold": false}]},
+        "en-GB": {"plain": "Installation: Draw the sealing rings over the bearing sleeve, insert the crank axle carefully and assemble the crank-axle flange. Draw the roller-bearing outer rings, spacer sleeve and sealing ring into the idler wheel. Fill the hub between the roller-bearing rings with grease, grease the sealing ring well and carefully push the idler wheel onto the crank-axle journal. Fit the angle ring, shim rings and D-washer, tighten the nut well and secure with a locking plate. Fill the closing cap with grease and screw it on.", "runs": [{"text": "Installation: ", "bold": true}, {"text": "Draw the sealing rings over the bearing sleeve, insert the crank axle carefully and assemble the crank-axle flange. Draw the roller-bearing outer rings, spacer sleeve and sealing ring into the idler wheel. Fill the hub between the roller-bearing rings with grease, grease the sealing ring well and carefully push the idler wheel onto the crank-axle journal. Fit the angle ring, shim rings and D-washer, tighten the nut well and secure with a locking plate. Fill the closing cap with grease and screw it on.", "bold": false}]},
+        "es-ES": {"plain": "Montaje: Cale los retenes sobre el manguito de cojinete, introduzca con cuidado el eje de manivela y arme la brida del eje de manivela. Cale en la rueda tensora los anillos exteriores del cojinete de rodillos, el manguito separador y el retén. Rellene de grasa el cubo entre los anillos del cojinete de rodillos, engrase bien el retén y empuje con cuidado la rueda tensora sobre el muñón del eje de manivela. Monte el anillo angular, los anillos de ajuste y la arandela en D, apriete bien la tuerca y asegúrela con una chapa de bloqueo. Rellene de grasa la tapa de cierre y enrósquela.", "runs": [{"text": "Montaje: ", "bold": true}, {"text": "Cale los retenes sobre el manguito de cojinete, introduzca con cuidado el eje de manivela y arme la brida del eje de manivela. Cale en la rueda tensora los anillos exteriores del cojinete de rodillos, el manguito separador y el retén. Rellene de grasa el cubo entre los anillos del cojinete de rodillos, engrase bien el retén y empuje con cuidado la rueda tensora sobre el muñón del eje de manivela. Monte el anillo angular, los anillos de ajuste y la arandela en D, apriete bien la tuerca y asegúrela con una chapa de bloqueo. Rellene de grasa la tapa de cierre y enrósquela.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para05",
+      "text": {
+        "de": {"plain": "Aus- und Einbau der Scherscheibe", "runs": [{"text": "Aus- und Einbau der Scherscheibe", "bold": true}]},
+        "en-GB": {"plain": "Aus- und Einbau der Scherscheibe – Removal and installation of the shear disc", "runs": [{"text": "Aus- und Einbau der Scherscheibe – Removal and installation of the shear disc", "bold": true}]},
+        "es-ES": {"plain": "Aus- und Einbau der Scherscheibe – Desmontaje y montaje del disco de rotura", "runs": [{"text": "Aus- und Einbau der Scherscheibe – Desmontaje y montaje del disco de rotura", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para06",
+      "text": {
+        "de": {"plain": "Bei einem Abscheren der Scherscheibe braucht zum Einbau einer neuen Scherscheibe die Kette nicht abgenommen zu werden.", "runs": [{"text": "Bei einem Abscheren der Scherscheibe braucht zum Einbau einer neuen Scherscheibe die Kette nicht abgenommen zu werden.", "bold": false}]},
+        "en-GB": {"plain": "If the shear disc (Scherscheibe) has sheared, the track need not be removed to fit a new one.", "runs": [{"text": "If the shear disc (Scherscheibe) has sheared, the track need not be removed to fit a new one.", "bold": false}]},
+        "es-ES": {"plain": "Si el disco de rotura (Scherscheibe) ha cizallado, no hace falta retirar la cadena para montar uno nuevo.", "runs": [{"text": "Si el disco de rotura (Scherscheibe) ha cizallado, no hace falta retirar la cadena para montar uno nuevo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para07",
+      "text": {
+        "de": {"plain": "Zwischen der letzten Laufrolle und dem Leitrad einen Holzklotz klemmen und nach dem Abschrauben der Schraubhülse die Spannschraube nach hinten herausdrehen. Scherscheibe auswechseln und die Spannschraube wieder einbauen. Hierbei empfiehlt es sich, auf die Auflagefläche der Scherscheibe einige Tropfen Öl zu geben.", "runs": [{"text": "Zwischen der letzten Laufrolle und dem Leitrad einen Holzklotz klemmen und nach dem Abschrauben der Schraubhülse die Spannschraube nach hinten herausdrehen. Scherscheibe auswechseln und die Spannschraube wieder einbauen. Hierbei empfiehlt es sich, auf die Auflagefläche der Scherscheibe einige Tropfen Öl zu geben.", "bold": false}]},
+        "en-GB": {"plain": "Clamp a wooden block between the last road wheel and the idler wheel and, after unscrewing the screw sleeve, turn the tensioning screw out to the rear. Replace the shear disc and refit the tensioning screw. It is advisable to put a few drops of oil on the bearing face of the shear disc.", "runs": [{"text": "Clamp a wooden block between the last road wheel and the idler wheel and, after unscrewing the screw sleeve, turn the tensioning screw out to the rear. Replace the shear disc and refit the tensioning screw. It is advisable to put a few drops of oil on the bearing face of the shear disc.", "bold": false}]},
+        "es-ES": {"plain": "Sujete un taco de madera entre la última rueda de rodadura y la rueda tensora y, tras desenroscar el manguito roscado, extraiga hacia atrás el tornillo tensor. Sustituya el disco de rotura y vuelva a montar el tornillo tensor. Conviene poner unas gotas de aceite en la superficie de apoyo del disco de rotura.", "runs": [{"text": "Sujete un taco de madera entre la última rueda de rodadura y la rueda tensora y, tras desenroscar el manguito roscado, extraiga hacia atrás el tornillo tensor. Sustituya el disco de rotura y vuelva a montar el tornillo tensor. Conviene poner unas gotas de aceite en la superficie de apoyo del disco de rotura.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para08",
+      "text": {
+        "de": {"plain": "c) Stützrollen, Laufrollen, Schwingarm, Drehstabfedern und Stoßdämpfer", "runs": [{"text": "c) Stützrollen, Laufrollen, Schwingarm, Drehstabfedern und Stoßdämpfer", "bold": true}]},
+        "en-GB": {"plain": "c) Stützrollen, Laufrollen, Schwingarm, Drehstabfedern und Stoßdämpfer – c) Return rollers, road wheels, swing arm, torsion bars and shock absorbers", "runs": [{"text": "c) Stützrollen, Laufrollen, Schwingarm, Drehstabfedern und Stoßdämpfer – c) Return rollers, road wheels, swing arm, torsion bars and shock absorbers", "bold": true}]},
+        "es-ES": {"plain": "c) Stützrollen, Laufrollen, Schwingarm, Drehstabfedern und Stoßdämpfer – c) Rodillos de retorno, ruedas de rodadura, brazo oscilante, barras de torsión y amortiguadores", "runs": [{"text": "c) Stützrollen, Laufrollen, Schwingarm, Drehstabfedern und Stoßdämpfer – c) Rodillos de retorno, ruedas de rodadura, brazo oscilante, barras de torsión y amortiguadores", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para09",
+      "text": {
+        "de": {"plain": "(Sonderwerkzeug III DB 92, 100 bis 103, 112, 113, 121, 128, 130)", "runs": [{"text": "(Sonderwerkzeug III DB 92, 100 bis 103, 112, 113, 121, 128, 130)", "bold": false}]},
+        "en-GB": {"plain": "Special tools III DB 92, 100 to 103, 112, 113, 121, 128, 130", "runs": [{"text": "Special tools III DB 92, 100 to 103, 112, 113, 121, 128, 130", "bold": false}]},
+        "es-ES": {"plain": "Herramientas especiales III DB 92, 100 a 103, 112, 113, 121, 128, 130", "runs": [{"text": "Herramientas especiales III DB 92, 100 a 103, 112, 113, 121, 128, 130", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para10",
+      "text": {
+        "de": {"plain": "Beim Einbau der Stützrollen, Laufrollen, Schwingarme, Drehstabfedern und Beilegbleche ist darauf zu achten, daß diese genau in der gleichen Art und an derselben Stelle wieder eingebaut werden, an der sie sich vor dem Ausbau befanden.", "runs": [{"text": "Beim Einbau der Stützrollen, Laufrollen, Schwingarme, Drehstabfedern und Beilegbleche ist darauf zu achten, daß diese genau in der gleichen Art und an derselben Stelle wieder eingebaut werden, an der sie sich vor dem Ausbau befanden.", "bold": false}]},
+        "en-GB": {"plain": "When installing the return rollers, road wheels, swing arms, torsion bars and shim plates, ensure they are refitted exactly the same way and in the same place as before removal.", "runs": [{"text": "When installing the return rollers, road wheels, swing arms, torsion bars and shim plates, ensure they are refitted exactly the same way and in the same place as before removal.", "bold": false}]},
+        "es-ES": {"plain": "Al montar los rodillos de retorno, las ruedas de rodadura, los brazos oscilantes, las barras de torsión y las chapas de ajuste, procure volver a montarlos exactamente igual y en el mismo sitio que antes del desmontaje.", "runs": [{"text": "Al montar los rodillos de retorno, las ruedas de rodadura, los brazos oscilantes, las barras de torsión y las chapas de ajuste, procure volver a montarlos exactamente igual y en el mismo sitio que antes del desmontaje.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-059-para11",
+      "text": {
+        "de": {"plain": "So dürfen z. B. die Drehstabfedern der Schwingarme oder die Rollenlageraußen- und -innenringe der Laufrollen keinesfalls vertauscht werden.", "runs": [{"text": "So dürfen z. B. die Drehstabfedern der Schwingarme oder die Rollenlageraußen- und -innenringe der Laufrollen keinesfalls vertauscht werden.", "bold": false}]},
+        "en-GB": {"plain": "Thus, for example, the torsion bars of the swing arms, or the roller-bearing outer and inner rings of the road wheels, must on no account be interchanged.", "runs": [{"text": "Thus, for example, the torsion bars of the swing arms, or the roller-bearing outer and inner rings of the road wheels, must on no account be interchanged.", "bold": false}]},
+        "es-ES": {"plain": "Así, por ejemplo, las barras de torsión de los brazos oscilantes, o los anillos exterior e interior del cojinete de rodillos de las ruedas de rodadura, no deben en ningún caso intercambiarse.", "runs": [{"text": "Así, por ejemplo, las barras de torsión de los brazos oscilantes, o los anillos exterior e interior del cojinete de rodillos de las ruedas de rodadura, no deben en ningún caso intercambiarse.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-058",
+    "next": "d65241a-page-060"
+  }
+}

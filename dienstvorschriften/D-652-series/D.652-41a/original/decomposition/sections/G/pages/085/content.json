@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-085",
+  "document_id": "d652-41a",
+  "page": 85,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 14  Seitenvorgelege",
+    "en-GB": "Fig. 14  Final drive",
+    "es-ES": "Fig. 14  Reductora final"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 49,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild014",
+      "number": 14,
+      "captions": {
+        "de": {
+          "plain": "Bild 14  Seitenvorgelege",
+          "runs": [
+            { "text": "Bild 14  Seitenvorgelege", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 14  Final drive",
+          "runs": [
+            { "text": "Fig. 14  Final drive", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 14  Reductora final",
+          "runs": [
+            { "text": "Fig. 14  Reductora final", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Schmierung für Labyrinth-Dichtung\nDichtring",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "lubrication for the labyrinth seal (Schmierung für Labyrinth-Dichtung)\nsealing ring (Dichtring)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "lubricación del cierre de laberinto (Schmierung für Labyrinth-Dichtung)\nretén (Dichtring)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-084",
+    "next": "d65241a-page-086"
+  }
+}

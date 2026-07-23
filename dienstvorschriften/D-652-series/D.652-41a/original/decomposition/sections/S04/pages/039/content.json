@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-039",
+  "document_id": "d652-41a",
+  "page": 39,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "Ölfilter",
+    "en-GB": "Oil filter",
+    "es-ES": "Filtro de aceite"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 20,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p039-para01",
+      "text": {
+        "de": {
+          "plain": "Überholte Motoren, bei denen kein Einlaufen möglich war, sind bei stehendem Fahrzeug fünf Stunden im Leerlauf einlaufen zu lassen und dann 200 km mit max. 2000 U/min einzufahren.",
+          "runs": [
+            {
+              "text": "Überholte Motoren, bei denen kein Einlaufen möglich war, sind bei stehendem Fahrzeug fünf Stunden im Leerlauf einlaufen zu lassen und dann 200 km mit max. 2000 U/min einzufahren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Overhauled engines that could not be run in are to be run in for five hours at idle with the vehicle stationary, and then over 200 km at max. 2000 rpm.",
+          "runs": [
+            {
+              "text": "Overhauled engines that could not be run in are to be run in for five hours at idle with the vehicle stationary, and then over 200 km at max. 2000 rpm.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los motores revisados que no hayan podido rodarse deben rodarse cinco horas al ralentí con el vehículo detenido, y después a lo largo de 200 km a un máximo de 2000 rpm.",
+          "runs": [
+            {
+              "text": "Los motores revisados que no hayan podido rodarse deben rodarse cinco horas al ralentí con el vehículo detenido, y después a lo largo de 200 km a un máximo de 2000 rpm.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para02",
+      "text": {
+        "de": {
+          "plain": "Bei größeren Instandsetzungsarbeiten ist der Motor auszubauen und an die Fa. Maybach-Motorenbau, Friedrichshafen a. B., bzw. zu deren nächstliegenden Instandsetzungswerkstätten zu schicken.",
+          "runs": [
+            {
+              "text": "Bei größeren Instandsetzungsarbeiten ist der Motor auszubauen und an die Fa. Maybach-Motorenbau, Friedrichshafen a. B., bzw. zu deren nächstliegenden Instandsetzungswerkstätten zu schicken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For major repairs the engine is to be removed and sent to the firm Maybach-Motorenbau, Friedrichshafen a. B., or to their nearest repair workshop.",
+          "runs": [
+            {
+              "text": "For major repairs the engine is to be removed and sent to the firm Maybach-Motorenbau, Friedrichshafen a. B., or to their nearest repair workshop.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para reparaciones importantes hay que desmontar el motor y enviarlo a la firma Maybach-Motorenbau, Friedrichshafen a. B., o a su taller de reparación más cercano.",
+          "runs": [
+            {
+              "text": "Para reparaciones importantes hay que desmontar el motor y enviarlo a la firma Maybach-Motorenbau, Friedrichshafen a. B., o a su taller de reparación más cercano.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para03",
+      "text": {
+        "de": {
+          "plain": "Ausbau (Sonderwerkzeug III DB 20)",
+          "runs": [
+            {
+              "text": "Ausbau (Sonderwerkzeug III DB 20)",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Removal (special tool III DB 20)",
+          "runs": [
+            {
+              "text": "Removal (special tool III DB 20)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontaje (herramienta especial III DB 20)",
+          "runs": [
+            {
+              "text": "Desmontaje (herramienta especial III DB 20)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para04",
+      "text": {
+        "de": {
+          "plain": "Vor dem Ausbau ist das Kühlwasser durch die Ablaßverschraubung, zugänglich nach Abnahme des Bodendeckels am Heck der Wanne, abzulassen.",
+          "runs": [
+            {
+              "text": "Vor dem Ausbau ist das Kühlwasser durch die Ablaßverschraubung, zugänglich nach Abnahme des Bodendeckels am Heck der Wanne, abzulassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Before removal, drain the cooling water through the drain plug, accessible after removing the bottom cover at the rear of the hull.",
+          "runs": [
+            {
+              "text": "Before removal, drain the cooling water through the drain plug, accessible after removing the bottom cover at the rear of the hull.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Antes del desmontaje, vacíe el agua de refrigeración por el tapón de vaciado, accesible tras retirar la tapa inferior de la popa del casco.",
+          "runs": [
+            {
+              "text": "Antes del desmontaje, vacíe el agua de refrigeración por el tapón de vaciado, accesible tras retirar la tapa inferior de la popa del casco.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para05",
+      "text": {
+        "de": {
+          "plain": "Es sind zu lösen:",
+          "runs": [
+            {
+              "text": "Es sind zu lösen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The following are to be disconnected:",
+          "runs": [
+            {
+              "text": "The following are to be disconnected:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deben desconectarse:",
+          "runs": [
+            {
+              "text": "Deben desconectarse:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para06",
+      "text": {
+        "de": {
+          "plain": "Leitungen zum: Kühler, Kraftstoffbehälter, Luftfilter, Auspuff, Luftleitung zur Lichtmaschine, elektr. Leitungen,",
+          "runs": [
+            {
+              "text": "Leitungen zum: Kühler, Kraftstoffbehälter, Luftfilter, Auspuff, Luftleitung zur Lichtmaschine, elektr. Leitungen,",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lines to: radiator, fuel tank, air filter, exhaust, air line to the dynamo, and electrical leads;",
+          "runs": [
+            {
+              "text": "Lines to: radiator, fuel tank, air filter, exhaust, air line to the dynamo, and electrical leads;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Tuberías a: radiador, depósito de combustible, filtro de aire, escape, tubería de aire a la dinamo y cables eléctricos;",
+          "runs": [
+            {
+              "text": "Tuberías a: radiador, depósito de combustible, filtro de aire, escape, tubería de aire a la dinamo y cables eléctricos;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para07",
+      "text": {
+        "de": {
+          "plain": "Gestänge zum: Vergaser, Anlaßvorrichtung, Ölfilter, Schwungkraftanlasser, Gelenkwelle zum Lüfterantrieb.",
+          "runs": [
+            {
+              "text": "Gestänge zum: Vergaser, Anlaßvorrichtung, Ölfilter, Schwungkraftanlasser, Gelenkwelle zum Lüfterantrieb.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Linkages to: carburettor, starting device, oil filter, inertia starter, and cardan shaft to the fan drive.",
+          "runs": [
+            {
+              "text": "Linkages to: carburettor, starting device, oil filter, inertia starter, and cardan shaft to the fan drive.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Varillajes a: carburador, dispositivo de arranque, filtro de aceite, arrancador de inercia y árbol de transmisión del accionamiento del ventilador.",
+          "runs": [
+            {
+              "text": "Varillajes a: carburador, dispositivo de arranque, filtro de aceite, arrancador de inercia y árbol de transmisión del accionamiento del ventilador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para08",
+      "text": {
+        "de": {
+          "plain": "Im Kampfraum: Tunneloberteil, Gestänge zum Vergaser und Anlaßvergaser, Tunnelkopf und Gelenkwelle. Dieses genügt jedoch nur dann, wenn zur Herausnahme des Motors eine Aufhängevorrichtung vorhanden ist, die es gestattet, den Motor, Wasserpumpenseite angehoben, schräg nach oben aus dem Fahrzeug herauszuheben.",
+          "runs": [
+            {
+              "text": "Im Kampfraum: Tunneloberteil, Gestänge zum Vergaser und Anlaßvergaser, Tunnelkopf und Gelenkwelle. Dieses genügt jedoch nur dann, wenn zur Herausnahme des Motors eine Aufhängevorrichtung vorhanden ist, die es gestattet, den Motor, Wasserpumpenseite angehoben, schräg nach oben aus dem Fahrzeug herauszuheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In the fighting compartment: tunnel top part (Tunneloberteil), linkage to the carburettor and starting carburettor, tunnel head (Tunnelkopf) and cardan shaft. This is, however, only sufficient if a lifting device (Aufhängevorrichtung) is available for removing the engine that allows it to be lifted — raised on the water-pump side — obliquely upward out of the vehicle.",
+          "runs": [
+            {
+              "text": "In the fighting compartment: tunnel top part (Tunneloberteil), linkage to the carburettor and starting carburettor, tunnel head (Tunnelkopf) and cardan shaft. This is, however, only sufficient if a lifting device (Aufhängevorrichtung) is available for removing the engine that allows it to be lifted — raised on the water-pump side — obliquely upward out of the vehicle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el compartimento de combate: parte superior del túnel (Tunneloberteil), varillaje al carburador y al carburador de arranque, cabezal del túnel (Tunnelkopf) y árbol de transmisión. Esto, no obstante, solo basta si se dispone de un dispositivo de suspensión (Aufhängevorrichtung) para desmontar el motor que permita izarlo —levantado por el lado de la bomba de agua— oblicuamente hacia arriba fuera del vehículo.",
+          "runs": [
+            {
+              "text": "En el compartimento de combate: parte superior del túnel (Tunneloberteil), varillaje al carburador y al carburador de arranque, cabezal del túnel (Tunnelkopf) y árbol de transmisión. Esto, no obstante, solo basta si se dispone de un dispositivo de suspensión (Aufhängevorrichtung) para desmontar el motor que permita izarlo —levantado por el lado de la bomba de agua— oblicuamente hacia arriba fuera del vehículo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para09",
+      "text": {
+        "de": {
+          "plain": "Ist eine derartige Ausbauvorrichtung nicht vorhanden, dann muß zusätzlich die Kupplung vom Motor gelöst werden.",
+          "runs": [
+            {
+              "text": "Ist eine derartige Ausbauvorrichtung nicht vorhanden, dann muß zusätzlich die Kupplung vom Motor gelöst werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If no such removal device is available, the clutch must additionally be released from the engine.",
+          "runs": [
+            {
+              "text": "If no such removal device is available, the clutch must additionally be released from the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si no se dispone de tal dispositivo de desmontaje, hay que separar además el embrague del motor.",
+          "runs": [
+            {
+              "text": "Si no se dispone de tal dispositivo de desmontaje, hay que separar además el embrague del motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para10",
+      "text": {
+        "de": {
+          "plain": "Danach ist zuerst der linke Kühler auszubauen, wonach der Motor nach Lösen der Befestigungsschrauben nach oben herausgehoben werden kann.",
+          "runs": [
+            {
+              "text": "Danach ist zuerst der linke Kühler auszubauen, wonach der Motor nach Lösen der Befestigungsschrauben nach oben herausgehoben werden kann.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Then the left radiator is to be removed first, after which the engine can be lifted upward once the fastening bolts are undone.",
+          "runs": [
+            {
+              "text": "Then the left radiator is to be removed first, after which the engine can be lifted upward once the fastening bolts are undone.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Entonces se desmonta primero el radiador izquierdo, tras lo cual el motor puede izarse hacia arriba una vez aflojados los pernos de fijación.",
+          "runs": [
+            {
+              "text": "Entonces se desmonta primero el radiador izquierdo, tras lo cual el motor puede izarse hacia arriba una vez aflojados los pernos de fijación.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para11",
+      "text": {
+        "de": {
+          "plain": "Ölfilter",
+          "runs": [
+            {
+              "text": "Ölfilter",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Oil filter",
+          "runs": [
+            {
+              "text": "Oil filter",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Filtro de aceite",
+          "runs": [
+            {
+              "text": "Filtro de aceite",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p039-para12",
+      "text": {
+        "de": {
+          "plain": "Der Ölfilter ist vor dem ersten Anlassen des Motors durch 5–8maliges Durchtreten des Kupplungsfußhebels zu reinigen. Bei jedem Ölwechsel ist die Filterglocke vorsichtig abzunehmen und der angesammelte Schmutz zu entfernen. Gleichzeitig ist auf den Zustand der Filterlamellen zu achten. Die Lamellen müssen alle gleiche Abstände haben und dürfen nicht an einer Stelle zusammengedrückt und an der anderen auseinanderstehen. Zeigen sich größere Zwischenräume, so können sich größere Schmutzteilchen dazwischengeklemmt haben. Diese sind dann vorsichtig zu entfernen, …",
+          "runs": [
+            {
+              "text": "Der Ölfilter ist vor dem ersten Anlassen des Motors durch 5–8maliges Durchtreten des Kupplungsfußhebels zu reinigen. Bei jedem Ölwechsel ist die Filterglocke vorsichtig abzunehmen und der angesammelte Schmutz zu entfernen. Gleichzeitig ist auf den Zustand der Filterlamellen zu achten. Die Lamellen müssen alle gleiche Abstände haben und dürfen nicht an einer Stelle zusammengedrückt und an der anderen auseinanderstehen. Zeigen sich größere Zwischenräume, so können sich größere Schmutzteilchen dazwischengeklemmt haben. Diese sind dann vorsichtig zu entfernen, …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Before the engine is first started, clean the oil filter by depressing the clutch pedal 5 to 8 times. At each oil change, carefully remove the filter bowl (Filterglocke) and clear away the accumulated dirt. At the same time check the condition of the filter discs (Filterlamellen): they must all be evenly spaced and must not be pressed together in one place and spread apart in another. If larger gaps appear, larger dirt particles may have jammed between them; these are then to be removed carefully, …",
+          "runs": [
+            {
+              "text": "Before the engine is first started, clean the oil filter by depressing the clutch pedal 5 to 8 times. At each oil change, carefully remove the filter bowl (Filterglocke) and clear away the accumulated dirt. At the same time check the condition of the filter discs (Filterlamellen): they must all be evenly spaced and must not be pressed together in one place and spread apart in another. If larger gaps appear, larger dirt particles may have jammed between them; these are then to be removed carefully, …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Antes de arrancar el motor por primera vez, limpie el filtro de aceite pisando el pedal de embrague de 5 a 8 veces. En cada cambio de aceite, retire con cuidado el vaso del filtro (Filterglocke) y elimine la suciedad acumulada. Compruebe al mismo tiempo el estado de las láminas del filtro (Filterlamellen): deben estar todas separadas de manera uniforme y no deben quedar apretadas en un punto y separadas en otro. Si aparecen ranuras mayores, puede que se hayan atascado entre ellas partículas de suciedad grandes; estas deben retirarse entonces con cuidado, …",
+          "runs": [
+            {
+              "text": "Antes de arrancar el motor por primera vez, limpie el filtro de aceite pisando el pedal de embrague de 5 a 8 veces. En cada cambio de aceite, retire con cuidado el vaso del filtro (Filterglocke) y elimine la suciedad acumulada. Compruebe al mismo tiempo el estado de las láminas del filtro (Filterlamellen): deben estar todas separadas de manera uniforme y no deben quedar apretadas en un punto y separadas en otro. Si aparecen ranuras mayores, puede que se hayan atascado entre ellas partículas de suciedad grandes; estas deben retirarse entonces con cuidado, …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-038",
+    "next": "d65241a-page-040"
+  }
+}

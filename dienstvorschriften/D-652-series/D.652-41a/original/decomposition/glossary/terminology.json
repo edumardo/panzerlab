@@ -1,0 +1,1223 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-41a",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "extends": "../../../../glossary/terminology.json",
+  "terms": [
+    {
+      "id": "term-001",
+      "de": "Sturmgeschütz",
+      "en-GB": "assault gun",
+      "es-ES": "cañón de asalto",
+      "status": "draft"
+    },
+    {
+      "id": "term-002",
+      "de": "Sturmhaubitze",
+      "en-GB": "assault howitzer",
+      "es-ES": "obús de asalto",
+      "status": "draft"
+    },
+    {
+      "id": "term-003",
+      "de": "Fahrgestell",
+      "en-GB": "chassis",
+      "es-ES": "chasis",
+      "status": "draft"
+    },
+    {
+      "id": "term-004",
+      "de": "Trennfuge",
+      "en-GB": "separation joint (between hull and superstructure)",
+      "es-ES": "junta de separación",
+      "status": "draft"
+    },
+    {
+      "id": "term-005",
+      "de": "Panzeraufbau",
+      "en-GB": "armoured superstructure",
+      "es-ES": "superestructura blindada",
+      "status": "draft"
+    },
+    {
+      "id": "term-006",
+      "de": "Schwingungsdämpferbolzen",
+      "en-GB": "shock-absorber (damper) bolt",
+      "es-ES": "perno del amortiguador",
+      "status": "draft"
+    },
+    {
+      "id": "term-007",
+      "de": "Stoßdämpfer",
+      "en-GB": "shock absorber",
+      "es-ES": "amortiguador",
+      "status": "draft"
+    },
+    {
+      "id": "term-008",
+      "de": "Tarnscheinwerfer",
+      "en-GB": "blackout (Notek) headlamp",
+      "es-ES": "faro de camuflaje (Notek)",
+      "status": "draft"
+    },
+    {
+      "id": "term-009",
+      "de": "Fahrtrichtung",
+      "en-GB": "direction of travel",
+      "es-ES": "sentido de la marcha",
+      "status": "draft"
+    },
+    {
+      "id": "term-010",
+      "de": "Kupplungswelle",
+      "en-GB": "clutch shaft",
+      "es-ES": "eje del embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-011",
+      "de": "Kupplungsdruckfeder",
+      "en-GB": "clutch pressure spring",
+      "es-ES": "muelle de presión del embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-012",
+      "de": "Kupplungsdeckel",
+      "en-GB": "clutch cover",
+      "es-ES": "tapa del embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-013",
+      "de": "Zwischenring",
+      "en-GB": "intermediate ring",
+      "es-ES": "anillo intermedio",
+      "status": "draft"
+    },
+    {
+      "id": "term-014",
+      "de": "Einstellmutter",
+      "en-GB": "adjusting nut",
+      "es-ES": "tuerca de ajuste",
+      "status": "draft"
+    },
+    {
+      "id": "term-015",
+      "de": "Ausrücklager",
+      "en-GB": "release bearing",
+      "es-ES": "cojinete de desembrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-016",
+      "de": "Kupplungsflansch",
+      "en-GB": "clutch flange",
+      "es-ES": "brida del embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-017",
+      "de": "Ausrückgabel",
+      "en-GB": "release fork",
+      "es-ES": "horquilla de desembrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-018",
+      "de": "Ausrückwelle",
+      "en-GB": "release shaft",
+      "es-ES": "eje de desembrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-019",
+      "de": "Ausrückhebel",
+      "en-GB": "release lever",
+      "es-ES": "palanca de desembrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-020",
+      "de": "Kupplungsdruckplatte",
+      "en-GB": "clutch pressure plate",
+      "es-ES": "plato de presión",
+      "status": "draft"
+    },
+    {
+      "id": "term-021",
+      "de": "Kupplungstreibscheibe",
+      "en-GB": "clutch driving disc",
+      "es-ES": "disco de arrastre",
+      "status": "draft"
+    },
+    {
+      "id": "term-022",
+      "de": "Mitnehmer",
+      "en-GB": "driver (entrainment plate)",
+      "es-ES": "arrastrador",
+      "status": "draft"
+    },
+    {
+      "id": "term-023",
+      "de": "Kupplungsscheibe",
+      "en-GB": "clutch disc (plate)",
+      "es-ES": "disco de embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-024",
+      "de": "Kupplungsbelag",
+      "en-GB": "clutch lining",
+      "es-ES": "forro de embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-025",
+      "de": "Kupplungsgehäuse",
+      "en-GB": "clutch housing (bell housing)",
+      "es-ES": "campana de embrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-026",
+      "de": "Ausrückplatte",
+      "en-GB": "release plate",
+      "es-ES": "placa de desembrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-027",
+      "de": "Gleichlaufeinrichtung",
+      "en-GB": "synchromesh device",
+      "es-ES": "dispositivo de sincronización",
+      "status": "draft"
+    },
+    {
+      "id": "term-028",
+      "de": "Kräfteverlauf",
+      "en-GB": "force flow (torque path)",
+      "es-ES": "flujo de fuerzas",
+      "status": "draft"
+    },
+    {
+      "id": "term-029",
+      "de": "Schaltplan",
+      "en-GB": "shift pattern",
+      "es-ES": "esquema de cambios",
+      "status": "draft"
+    },
+    {
+      "id": "term-030",
+      "de": "Übersetzung",
+      "en-GB": "gear ratio",
+      "es-ES": "relación de transmisión",
+      "status": "draft"
+    },
+    {
+      "id": "term-031",
+      "de": "Seitenwelle",
+      "en-GB": "side (final-drive) shaft",
+      "es-ES": "semieje",
+      "status": "draft"
+    },
+    {
+      "id": "term-032",
+      "de": "Vorgelegezahnrad",
+      "en-GB": "layshaft gear",
+      "es-ES": "engranaje del eje intermedio",
+      "status": "draft"
+    },
+    {
+      "id": "term-033",
+      "de": "Mittenhohlrad",
+      "en-GB": "central ring gear",
+      "es-ES": "corona central",
+      "status": "draft"
+    },
+    {
+      "id": "term-034",
+      "de": "Umlaufrad",
+      "en-GB": "planet gear",
+      "es-ES": "engranaje planetario",
+      "status": "draft"
+    },
+    {
+      "id": "term-035",
+      "de": "Umlaufradträger",
+      "en-GB": "planet carrier",
+      "es-ES": "portaplanetas",
+      "status": "draft"
+    },
+    {
+      "id": "term-036",
+      "de": "Kegelrad",
+      "en-GB": "bevel gear",
+      "es-ES": "piñón cónico",
+      "status": "draft"
+    },
+    {
+      "id": "term-037",
+      "de": "Mittenvollrad",
+      "en-GB": "central sun gear",
+      "es-ES": "planeta central",
+      "status": "draft"
+    },
+    {
+      "id": "term-038",
+      "de": "Vorgelege",
+      "en-GB": "layshaft (reduction gear)",
+      "es-ES": "reductora (grupo intermedio)",
+      "status": "draft"
+    },
+    {
+      "id": "term-039",
+      "de": "Entlüfter",
+      "en-GB": "breather (vent)",
+      "es-ES": "respiradero",
+      "status": "draft"
+    },
+    {
+      "id": "term-040",
+      "de": "Schmierölleitung",
+      "en-GB": "lubricating-oil line",
+      "es-ES": "tubería de aceite lubricante",
+      "status": "draft"
+    },
+    {
+      "id": "term-041",
+      "de": "Geschwindigkeitsmesser",
+      "en-GB": "speedometer",
+      "es-ES": "velocímetro",
+      "status": "draft"
+    },
+    {
+      "id": "term-042",
+      "de": "Nachspannvorrichtung",
+      "en-GB": "(re-)tensioning device",
+      "es-ES": "dispositivo de retensado",
+      "status": "draft"
+    },
+    {
+      "id": "term-043",
+      "de": "Nachspannhebel",
+      "en-GB": "tensioning lever",
+      "es-ES": "palanca de retensado",
+      "status": "draft"
+    },
+    {
+      "id": "term-044",
+      "de": "Bremsfeder",
+      "en-GB": "brake spring",
+      "es-ES": "muelle de freno",
+      "status": "draft"
+    },
+    {
+      "id": "term-045",
+      "de": "Drehrichtung",
+      "en-GB": "direction of rotation",
+      "es-ES": "sentido de giro",
+      "status": "draft"
+    },
+    {
+      "id": "term-046",
+      "de": "Erregte Bremsbacke",
+      "en-GB": "energised (servo) brake shoe",
+      "es-ES": "zapata excitada",
+      "status": "draft"
+    },
+    {
+      "id": "term-047",
+      "de": "Erreger-Bremsbacke",
+      "en-GB": "actuating brake shoe",
+      "es-ES": "zapata excitadora",
+      "status": "draft"
+    },
+    {
+      "id": "term-048",
+      "de": "Zugfeder",
+      "en-GB": "tension spring",
+      "es-ES": "muelle de tracción",
+      "status": "draft"
+    },
+    {
+      "id": "term-049",
+      "de": "Rollenhebel",
+      "en-GB": "roller lever",
+      "es-ES": "palanca de rodillo",
+      "status": "draft"
+    },
+    {
+      "id": "term-050",
+      "de": "Nachstellvorrichtung",
+      "en-GB": "adjusting device",
+      "es-ES": "dispositivo de reglaje",
+      "status": "draft"
+    },
+    {
+      "id": "term-051",
+      "de": "Schwinge",
+      "en-GB": "swing lever (rocker)",
+      "es-ES": "balancín",
+      "status": "draft"
+    },
+    {
+      "id": "term-052",
+      "de": "Haltebolzen",
+      "en-GB": "retaining bolt",
+      "es-ES": "bulón de retención",
+      "status": "draft"
+    },
+    {
+      "id": "term-053",
+      "de": "Kugelbundmutter",
+      "en-GB": "spherical-collar nut",
+      "es-ES": "tuerca de collarín esférico",
+      "status": "draft"
+    },
+    {
+      "id": "term-054",
+      "de": "Kurvenhebel",
+      "en-GB": "cam lever",
+      "es-ES": "palanca de leva",
+      "status": "draft"
+    },
+    {
+      "id": "term-055",
+      "de": "Bremsbelag",
+      "en-GB": "brake lining",
+      "es-ES": "forro de freno",
+      "status": "draft"
+    },
+    {
+      "id": "term-056",
+      "de": "Bremstrommel",
+      "en-GB": "brake drum",
+      "es-ES": "tambor de freno",
+      "status": "draft"
+    },
+    {
+      "id": "term-057",
+      "de": "Ansaugkrümmer",
+      "en-GB": "intake elbow",
+      "es-ES": "codo de admisión",
+      "status": "draft"
+    },
+    {
+      "id": "term-058",
+      "de": "Dichtring",
+      "en-GB": "sealing ring",
+      "es-ES": "anillo de estanqueidad",
+      "status": "draft"
+    },
+    {
+      "id": "term-059",
+      "de": "Filtereinsatz",
+      "en-GB": "filter cartridge (insert)",
+      "es-ES": "cartucho filtrante",
+      "status": "draft"
+    },
+    {
+      "id": "term-060",
+      "de": "Feinfilter",
+      "en-GB": "fine filter",
+      "es-ES": "filtro fino",
+      "status": "draft"
+    },
+    {
+      "id": "term-061",
+      "de": "Filtergehäuse",
+      "en-GB": "filter housing",
+      "es-ES": "carcasa del filtro",
+      "status": "draft"
+    },
+    {
+      "id": "term-062",
+      "de": "Ölstandschraube",
+      "en-GB": "oil-level screw",
+      "es-ES": "tornillo de nivel de aceite",
+      "status": "draft"
+    },
+    {
+      "id": "term-063",
+      "de": "Auslaßstutzen",
+      "en-GB": "outlet spigot",
+      "es-ES": "tubuladura de salida",
+      "status": "draft"
+    },
+    {
+      "id": "term-064",
+      "de": "Einfüllöffnung",
+      "en-GB": "filler opening",
+      "es-ES": "abertura de llenado",
+      "status": "draft"
+    },
+    {
+      "id": "term-065",
+      "de": "Ablaßöffnung",
+      "en-GB": "drain opening",
+      "es-ES": "abertura de vaciado",
+      "status": "draft"
+    },
+    {
+      "id": "term-066",
+      "de": "Absperrhahn",
+      "en-GB": "shut-off cock",
+      "es-ES": "llave de paso",
+      "status": "draft"
+    },
+    {
+      "id": "term-067",
+      "de": "Ablaßstutzen",
+      "en-GB": "drain spigot",
+      "es-ES": "tubuladura de vaciado",
+      "status": "draft"
+    },
+    {
+      "id": "term-068",
+      "de": "Gefechtsgewicht",
+      "en-GB": "combat weight",
+      "es-ES": "peso de combate",
+      "status": "draft"
+    },
+    {
+      "id": "term-069",
+      "de": "Rohrüberstand",
+      "en-GB": "barrel overhang",
+      "es-ES": "voladizo del tubo",
+      "status": "draft"
+    },
+    {
+      "id": "term-070",
+      "de": "Kettenauflagelänge",
+      "en-GB": "track contact length",
+      "es-ES": "longitud de apoyo de la cadena",
+      "status": "draft"
+    },
+    {
+      "id": "term-071",
+      "de": "Bodenfreiheit",
+      "en-GB": "ground clearance",
+      "es-ES": "altura libre sobre el suelo",
+      "status": "draft"
+    },
+    {
+      "id": "term-072",
+      "de": "Watfähigkeit",
+      "en-GB": "fording capability",
+      "es-ES": "capacidad de vadeo",
+      "status": "draft"
+    },
+    {
+      "id": "term-073",
+      "de": "Feuerhöhe",
+      "en-GB": "height of fire (line of fire)",
+      "es-ES": "altura de fuego",
+      "status": "draft"
+    },
+    {
+      "id": "term-074",
+      "de": "Zündkerze",
+      "en-GB": "spark plug",
+      "es-ES": "bujía",
+      "status": "draft"
+    },
+    {
+      "id": "term-081",
+      "de": "Drehstabfeder",
+      "en-GB": "torsion bar",
+      "es-ES": "barra de torsión",
+      "status": "draft"
+    },
+    {
+      "id": "term-083",
+      "de": "Kettenbolzen",
+      "en-GB": "track pin",
+      "es-ES": "bulón de cadena",
+      "status": "draft"
+    },
+    {
+      "id": "term-084",
+      "de": "Kettenspanner",
+      "en-GB": "track tensioner",
+      "es-ES": "tensor de cadena",
+      "status": "draft"
+    },
+    {
+      "id": "term-085",
+      "de": "Schaltkasten",
+      "en-GB": "switch box",
+      "es-ES": "caja de conexión",
+      "status": "draft"
+    },
+    {
+      "id": "term-086",
+      "de": "Reglerschalter",
+      "en-GB": "regulator switch",
+      "es-ES": "regulador conmutador",
+      "status": "draft"
+    },
+    {
+      "id": "term-087",
+      "de": "Sicherungspatrone",
+      "en-GB": "fuse cartridge",
+      "es-ES": "cartucho fusible",
+      "status": "draft"
+    },
+    {
+      "id": "term-088",
+      "de": "Gestänge",
+      "en-GB": "linkage",
+      "es-ES": "varillaje",
+      "status": "draft"
+    },
+    {
+      "id": "term-089",
+      "de": "Hilfsgerät",
+      "en-GB": "auxiliary equipment",
+      "es-ES": "equipo auxiliar",
+      "status": "draft"
+    },
+    {
+      "id": "term-090",
+      "de": "Schanzzeug",
+      "en-GB": "entrenching tools",
+      "es-ES": "útiles de zapa",
+      "status": "draft"
+    },
+    {
+      "id": "term-091",
+      "de": "Mannschaftsraum",
+      "en-GB": "crew compartment",
+      "es-ES": "compartimento de la tripulación",
+      "status": "draft"
+    },
+    {
+      "id": "term-092",
+      "de": "Bugraum",
+      "en-GB": "bow compartment",
+      "es-ES": "compartimento de proa",
+      "status": "draft"
+    },
+    {
+      "id": "term-093",
+      "de": "Wannenmittelteil",
+      "en-GB": "centre hull section",
+      "es-ES": "parte central del casco",
+      "status": "draft"
+    },
+    {
+      "id": "term-094",
+      "de": "Heckraum",
+      "en-GB": "rear compartment",
+      "es-ES": "compartimento trasero",
+      "status": "draft"
+    },
+    {
+      "id": "term-095",
+      "de": "Andrehkurbel",
+      "en-GB": "hand crank",
+      "es-ES": "manivela de arranque",
+      "status": "draft"
+    },
+    {
+      "id": "term-096",
+      "de": "Andrehklaue",
+      "en-GB": "cranking claw",
+      "es-ES": "garra de arranque",
+      "status": "draft"
+    },
+    {
+      "id": "term-097",
+      "de": "Andrehgehäuse",
+      "en-GB": "cranking housing",
+      "es-ES": "caja de arranque",
+      "status": "draft"
+    },
+    {
+      "id": "term-098",
+      "de": "Anlaßritzel",
+      "en-GB": "starter pinion",
+      "es-ES": "piñón de arranque",
+      "status": "draft"
+    },
+    {
+      "id": "term-099",
+      "de": "Trockensumpfschmierung",
+      "en-GB": "dry-sump lubrication system",
+      "es-ES": "sistema de lubricación de cárter seco",
+      "status": "draft"
+    },
+    {
+      "id": "term-100",
+      "de": "Geländevergaser",
+      "en-GB": "cross-country carburettor",
+      "es-ES": "carburador para todoterreno",
+      "status": "draft"
+    },
+    {
+      "id": "term-101",
+      "de": "Kraftstoffvorratszeiger",
+      "en-GB": "fuel-contents gauge",
+      "es-ES": "indicador de nivel de combustible",
+      "status": "draft"
+    },
+    {
+      "id": "term-102",
+      "de": "Tauchrohr",
+      "en-GB": "dip tube",
+      "es-ES": "tubo buzo",
+      "status": "draft"
+    },
+    {
+      "id": "term-103",
+      "de": "Sicherheitsventil",
+      "en-GB": "safety valve",
+      "es-ES": "válvula de seguridad",
+      "status": "draft"
+    },
+    {
+      "id": "term-104",
+      "de": "Bodenventil",
+      "en-GB": "bottom valve",
+      "es-ES": "válvula de fondo",
+      "status": "draft"
+    },
+    {
+      "id": "term-105",
+      "de": "Wasserkühler",
+      "en-GB": "water radiator",
+      "es-ES": "radiador de agua",
+      "status": "draft"
+    },
+    {
+      "id": "term-106",
+      "de": "Tropenausführung",
+      "en-GB": "tropical version",
+      "es-ES": "versión tropical",
+      "status": "draft"
+    },
+    {
+      "id": "term-107",
+      "de": "Luftkanal",
+      "en-GB": "air duct",
+      "es-ES": "conducto de aire",
+      "status": "draft"
+    },
+    {
+      "id": "term-108",
+      "de": "Umlaufgetriebe",
+      "en-GB": "epicyclic (planetary) gear unit",
+      "es-ES": "grupo de engranajes planetarios",
+      "status": "draft"
+    },
+    {
+      "id": "term-109",
+      "de": "Lüfterhaube",
+      "en-GB": "fan cowling",
+      "es-ES": "capó del ventilador",
+      "status": "draft"
+    },
+    {
+      "id": "term-117",
+      "de": "Kraftübertragung",
+      "en-GB": "power transmission",
+      "es-ES": "transmisión de fuerza",
+      "status": "draft"
+    },
+    {
+      "id": "term-118",
+      "de": "Servo-Innenbackenbremse",
+      "en-GB": "servo internal-shoe brake",
+      "es-ES": "freno servo de zapatas interiores",
+      "status": "draft"
+    },
+    {
+      "id": "term-119",
+      "de": "Abdichtring",
+      "en-GB": "oil seal (sealing ring)",
+      "es-ES": "retén (junta de estanqueidad)",
+      "status": "draft"
+    },
+    {
+      "id": "term-120",
+      "de": "Fernthermometer",
+      "en-GB": "remote (distance) thermometer",
+      "es-ES": "termómetro a distancia",
+      "status": "draft"
+    },
+    {
+      "id": "term-121",
+      "de": "Tauchkörper",
+      "en-GB": "sensing bulb",
+      "es-ES": "bulbo sensor",
+      "status": "draft"
+    },
+    {
+      "id": "term-122",
+      "de": "Fernleitung",
+      "en-GB": "remote line",
+      "es-ES": "tubería a distancia",
+      "status": "draft"
+    },
+    {
+      "id": "term-123",
+      "de": "Gleichlaufvorrichtung",
+      "en-GB": "synchromesh",
+      "es-ES": "sincronizador",
+      "status": "draft"
+    },
+    {
+      "id": "term-124",
+      "de": "Zwischengas",
+      "en-GB": "throttle blip (during double-declutching)",
+      "es-ES": "acelerón intermedio (para el doble embrague)",
+      "status": "draft"
+    },
+    {
+      "id": "term-125",
+      "de": "Ausrückring",
+      "en-GB": "clutch release ring",
+      "es-ES": "anillo de desembrague",
+      "status": "draft"
+    },
+    {
+      "id": "term-126",
+      "de": "Lenkwechsel",
+      "en-GB": "steering reversal",
+      "es-ES": "inversión de la dirección",
+      "status": "draft"
+    },
+    {
+      "id": "term-127",
+      "de": "Vorlegeklotz",
+      "en-GB": "chock",
+      "es-ES": "calzo",
+      "status": "draft"
+    },
+    {
+      "id": "term-128",
+      "de": "Lagergehäuse",
+      "en-GB": "bearing housing",
+      "es-ES": "carcasa de cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-129",
+      "de": "Flanschnabe",
+      "en-GB": "flange hub",
+      "es-ES": "cubo embridado",
+      "status": "draft"
+    },
+    {
+      "id": "term-130",
+      "de": "Ritzelwelle",
+      "en-GB": "pinion shaft",
+      "es-ES": "eje del piñón",
+      "status": "draft"
+    },
+    {
+      "id": "term-131",
+      "de": "Haltegabel",
+      "en-GB": "retaining fork",
+      "es-ES": "horquilla de retención",
+      "status": "draft"
+    },
+    {
+      "id": "term-132",
+      "de": "Bremskeil",
+      "en-GB": "brake wedge",
+      "es-ES": "cuña de freno",
+      "status": "draft"
+    },
+    {
+      "id": "term-133",
+      "de": "Äußerer Bremshebel",
+      "en-GB": "outer brake lever",
+      "es-ES": "palanca de freno exterior",
+      "status": "draft"
+    },
+    {
+      "id": "term-134",
+      "de": "Innerer Bremshebel",
+      "en-GB": "inner brake lever",
+      "es-ES": "palanca de freno interior",
+      "status": "draft"
+    },
+    {
+      "id": "term-135",
+      "de": "Anschlag",
+      "en-GB": "stop",
+      "es-ES": "tope",
+      "status": "draft"
+    },
+    {
+      "id": "term-136",
+      "de": "Luftabsaugkrümmer",
+      "en-GB": "air-extraction elbow",
+      "es-ES": "codo de aspiración de aire",
+      "status": "draft"
+    },
+    {
+      "id": "term-137",
+      "de": "Backenrückholfeder",
+      "en-GB": "shoe return spring",
+      "es-ES": "muelle de retorno de las zapatas",
+      "status": "draft"
+    },
+    {
+      "id": "term-138",
+      "de": "Asbestschlauch",
+      "en-GB": "asbestos hose",
+      "es-ES": "manguera de amianto",
+      "status": "draft"
+    },
+    {
+      "id": "term-139",
+      "de": "Labyrinthdichtung",
+      "en-GB": "labyrinth seal",
+      "es-ES": "cierre de laberinto",
+      "status": "draft"
+    },
+    {
+      "id": "term-140",
+      "de": "Lagerhülse",
+      "en-GB": "bearing sleeve",
+      "es-ES": "casquillo de cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-141",
+      "de": "Schraubhülse",
+      "en-GB": "screwed sleeve",
+      "es-ES": "casquillo roscado",
+      "status": "draft"
+    },
+    {
+      "id": "term-142",
+      "de": "Ledermanschette",
+      "en-GB": "leather sleeve",
+      "es-ES": "manguito de cuero",
+      "status": "draft"
+    },
+    {
+      "id": "term-143",
+      "de": "Lagerpfanne",
+      "en-GB": "bearing cup",
+      "es-ES": "copa de cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-144",
+      "de": "Scherscheibe",
+      "en-GB": "shear disc",
+      "es-ES": "disco de rotura",
+      "status": "draft"
+    },
+    {
+      "id": "term-145",
+      "de": "Spannschraube",
+      "en-GB": "tensioning screw",
+      "es-ES": "tornillo tensor",
+      "status": "draft"
+    },
+    {
+      "id": "term-146",
+      "de": "Kugelstück",
+      "en-GB": "ball piece",
+      "es-ES": "pieza esférica (rótula)",
+      "status": "draft"
+    },
+    {
+      "id": "term-147",
+      "de": "Verschlußkappe",
+      "en-GB": "closure cap",
+      "es-ES": "tapa de cierre",
+      "status": "draft"
+    },
+    {
+      "id": "term-148",
+      "de": "Anhängegabel",
+      "en-GB": "towing-fork bracket",
+      "es-ES": "horquilla de enganche",
+      "status": "draft"
+    },
+    {
+      "id": "term-149",
+      "de": "Schwingarmlager",
+      "en-GB": "swing-arm bearing",
+      "es-ES": "cojinete del brazo oscilante",
+      "status": "draft"
+    },
+    {
+      "id": "term-150",
+      "de": "Schwingarmanschlag",
+      "en-GB": "swing-arm stop",
+      "es-ES": "tope del brazo oscilante",
+      "status": "draft"
+    },
+    {
+      "id": "term-151",
+      "de": "Schwingarmführung mit Anschlag",
+      "en-GB": "swing-arm guide with stop",
+      "es-ES": "guía del brazo oscilante con tope",
+      "status": "draft"
+    },
+    {
+      "id": "term-152",
+      "de": "Druckscheibe",
+      "en-GB": "thrust washer",
+      "es-ES": "arandela de empuje",
+      "status": "draft"
+    },
+    {
+      "id": "term-153",
+      "de": "Beilegscheiben",
+      "en-GB": "shims",
+      "es-ES": "arandelas de ajuste",
+      "status": "draft"
+    },
+    {
+      "id": "term-154",
+      "de": "Lagernuß",
+      "en-GB": "bearing journal (race nut)",
+      "es-ES": "alojamiento del cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-155",
+      "de": "Kolbenstange",
+      "en-GB": "piston rod",
+      "es-ES": "vástago del pistón",
+      "status": "draft"
+    },
+    {
+      "id": "term-156",
+      "de": "Mantelraum",
+      "en-GB": "jacket (annular) chamber",
+      "es-ES": "cámara anular (camisa)",
+      "status": "draft"
+    },
+    {
+      "id": "term-157",
+      "de": "Niederdruckventil",
+      "en-GB": "low-pressure valve",
+      "es-ES": "válvula de baja presión",
+      "status": "draft"
+    },
+    {
+      "id": "term-158",
+      "de": "Hochdruckventil",
+      "en-GB": "high-pressure valve",
+      "es-ES": "válvula de alta presión",
+      "status": "draft"
+    },
+    {
+      "id": "term-159",
+      "de": "Lagerbock",
+      "en-GB": "bearing bracket",
+      "es-ES": "soporte de cojinete",
+      "status": "draft"
+    },
+    {
+      "id": "term-160",
+      "de": "Öleinfüllschraube",
+      "en-GB": "oil filler screw",
+      "es-ES": "tapón de llenado de aceite",
+      "status": "draft"
+    },
+    {
+      "id": "term-161",
+      "de": "Verschlußdeckel",
+      "en-GB": "closure cover",
+      "es-ES": "tapa de cierre",
+      "status": "draft"
+    },
+    {
+      "id": "term-162",
+      "de": "Ölmeßstab",
+      "en-GB": "dipstick",
+      "es-ES": "varilla de nivel de aceite",
+      "status": "draft"
+    },
+    {
+      "id": "term-163",
+      "de": "Kollag-Graphitfett",
+      "en-GB": "Kollag graphite grease",
+      "es-ES": "grasa grafitada Kollag",
+      "status": "draft"
+    },
+    {
+      "id": "term-164",
+      "de": "Schmierpresse",
+      "en-GB": "grease gun",
+      "es-ES": "bomba de engrase",
+      "status": "draft"
+    },
+    {
+      "id": "term-165",
+      "de": "Frostschutzmittel",
+      "en-GB": "antifreeze",
+      "es-ES": "anticongelante",
+      "status": "draft"
+    },
+    {
+      "id": "term-166",
+      "de": "Wellentunnel",
+      "en-GB": "shaft tunnel",
+      "es-ES": "túnel del árbol",
+      "status": "draft"
+    },
+    {
+      "id": "term-167",
+      "de": "Flanschwelle",
+      "en-GB": "flanged shaft",
+      "es-ES": "eje embridado",
+      "status": "draft"
+    },
+    {
+      "id": "term-168",
+      "de": "Leitapparat",
+      "en-GB": "guide apparatus",
+      "es-ES": "aparato de guía",
+      "status": "draft"
+    },
+    {
+      "id": "term-169",
+      "de": "Schiebehülse",
+      "en-GB": "sliding sleeve",
+      "es-ES": "manguito deslizante",
+      "status": "draft"
+    },
+    {
+      "id": "term-170",
+      "de": "Schaltgabel",
+      "en-GB": "selector fork",
+      "es-ES": "horquilla de mando",
+      "status": "draft"
+    },
+    {
+      "id": "term-171",
+      "de": "Dichtungsmasse",
+      "en-GB": "jointing compound",
+      "es-ES": "pasta de junta",
+      "status": "draft"
+    },
+    {
+      "id": "term-172",
+      "de": "Anlaßvorrichtung",
+      "en-GB": "starting device",
+      "es-ES": "dispositivo de arranque",
+      "status": "draft"
+    },
+    {
+      "id": "term-173",
+      "de": "Ölfilter",
+      "en-GB": "oil filter",
+      "es-ES": "filtro de aceite",
+      "status": "draft"
+    },
+    {
+      "id": "term-174",
+      "de": "Filterlamelle",
+      "en-GB": "filter disc",
+      "es-ES": "lámina de filtro",
+      "status": "draft"
+    },
+    {
+      "id": "term-175",
+      "de": "Bremsbacke",
+      "en-GB": "brake shoe",
+      "es-ES": "zapata de freno",
+      "status": "draft"
+    },
+    {
+      "id": "term-177",
+      "de": "Halteschraube",
+      "en-GB": "retaining screw",
+      "es-ES": "tornillo de retención",
+      "status": "draft"
+    },
+    {
+      "id": "term-178",
+      "de": "Bremshebel",
+      "en-GB": "brake lever",
+      "es-ES": "palanca de freno",
+      "status": "draft"
+    },
+    {
+      "id": "term-179",
+      "de": "Mittenvollradwelle",
+      "en-GB": "central sun-gear shaft",
+      "es-ES": "eje del planeta central",
+      "status": "draft"
+    },
+    {
+      "id": "term-180",
+      "de": "Kegelradwelle",
+      "en-GB": "bevel-gear shaft",
+      "es-ES": "eje del piñón cónico",
+      "status": "draft"
+    },
+    {
+      "id": "term-181",
+      "de": "Triebwelle",
+      "en-GB": "drive shaft",
+      "es-ES": "eje motriz",
+      "status": "draft"
+    },
+    {
+      "id": "term-182",
+      "de": "Zahnradnabe",
+      "en-GB": "gear hub",
+      "es-ES": "cubo del piñón",
+      "status": "draft"
+    },
+    {
+      "id": "term-183",
+      "de": "Nutmutter",
+      "en-GB": "slotted nut",
+      "es-ES": "tuerca ranurada",
+      "status": "draft"
+    },
+    {
+      "id": "term-184",
+      "de": "Klemmring",
+      "en-GB": "clamping ring",
+      "es-ES": "anillo de apriete",
+      "status": "draft"
+    },
+    {
+      "id": "term-185",
+      "de": "Pendelrollenlager",
+      "en-GB": "self-aligning roller bearing",
+      "es-ES": "rodamiento de rodillos a rótula",
+      "status": "draft"
+    },
+    {
+      "id": "term-186",
+      "de": "Doppelkreuzgelenk",
+      "en-GB": "double universal joint",
+      "es-ES": "cruceta doble",
+      "status": "draft"
+    },
+    {
+      "id": "term-187",
+      "de": "Einstellehre",
+      "en-GB": "setting gauge",
+      "es-ES": "calibre de reglaje",
+      "status": "draft"
+    },
+    {
+      "id": "term-188",
+      "de": "Kettenbolzensicherung",
+      "en-GB": "track-pin retainer",
+      "es-ES": "seguro de bulón de cadena",
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "S05",
+  "pages": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "titles": {
+    "de": "D. Aus-/Einbau §24 (Forts.)-28",
+    "en-GB": "D. Removal/installation §24 (cont.)-28",
+    "es-ES": "D. Desmontaje/montaje §24 (cont.)-28"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

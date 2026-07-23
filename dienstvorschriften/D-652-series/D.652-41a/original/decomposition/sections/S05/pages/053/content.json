@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-053",
+  "document_id": "d652-41a",
+  "page": 53,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": "25. Einstellen und Behandeln der Stütz- und Lenkbremse",
+    "en-GB": "25. Adjusting and servicing the support and steering brakes",
+    "es-ES": "25. Ajuste y mantenimiento del freno de apoyo y de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 27,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-053-para01",
+      "text": {
+        "de": {"plain": "Bild 12, 13, 23 bis 25", "runs": [{"text": "Bild 12, 13, 23 bis 25", "bold": false}]},
+        "en-GB": {"plain": "Figures 12, 13, 23 to 25", "runs": [{"text": "Figures 12, 13, 23 to 25", "bold": false}]},
+        "es-ES": {"plain": "Figuras 12, 13, 23 a 25", "runs": [{"text": "Figuras 12, 13, 23 a 25", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para02",
+      "text": {
+        "de": {"plain": "Sonderwerkzeug im Fahrgestell:", "runs": [{"text": "Sonderwerkzeug im Fahrgestell:", "bold": true}]},
+        "en-GB": {"plain": "Special tools in the chassis:", "runs": [{"text": "Special tools in the chassis:", "bold": true}]},
+        "es-ES": {"plain": "Herramientas especiales en el chasis:", "runs": [{"text": "Herramientas especiales en el chasis:", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para03",
+      "text": {
+        "de": {"plain": "Steckschlüssel III DB 51 zum Nachstellen der Bremsbacken zur Stützbremse.", "runs": [{"text": "Steckschlüssel III DB 51 zum Nachstellen der Bremsbacken zur Stützbremse.", "bold": false}]},
+        "en-GB": {"plain": "Socket spanner III DB 51 – for adjusting the brake shoes of the support brake;", "runs": [{"text": "Socket spanner III DB 51 – for adjusting the brake shoes of the support brake;", "bold": false}]},
+        "es-ES": {"plain": "Llave de vaso III DB 51 – para ajustar las zapatas del freno de apoyo;", "runs": [{"text": "Llave de vaso III DB 51 – para ajustar las zapatas del freno de apoyo;", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para04",
+      "text": {
+        "de": {"plain": "Steckschlüssel III DB 109 zum Nachstellen der Bremsbacken zur Lenkbremse.", "runs": [{"text": "Steckschlüssel III DB 109 zum Nachstellen der Bremsbacken zur Lenkbremse.", "bold": false}]},
+        "en-GB": {"plain": "Socket spanner III DB 109 – for adjusting the brake shoes of the steering brake;", "runs": [{"text": "Socket spanner III DB 109 – for adjusting the brake shoes of the steering brake;", "bold": false}]},
+        "es-ES": {"plain": "Llave de vaso III DB 109 – para ajustar las zapatas del freno de dirección;", "runs": [{"text": "Llave de vaso III DB 109 – para ajustar las zapatas del freno de dirección;", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para05",
+      "text": {
+        "de": {"plain": "Steckschlüssel III DB 132 zum Einstellen der Nachstellvorrichtung der Lenkbremse.", "runs": [{"text": "Steckschlüssel III DB 132 zum Einstellen der Nachstellvorrichtung der Lenkbremse.", "bold": false}]},
+        "en-GB": {"plain": "Socket spanner III DB 132 – for setting the adjusting device of the steering brake;", "runs": [{"text": "Socket spanner III DB 132 – for setting the adjusting device of the steering brake;", "bold": false}]},
+        "es-ES": {"plain": "Llave de vaso III DB 132 – para ajustar el dispositivo de reglaje del freno de dirección;", "runs": [{"text": "Llave de vaso III DB 132 – para ajustar el dispositivo de reglaje del freno de dirección;", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para06",
+      "text": {
+        "de": {"plain": "Steckschlüssel III DB 144 zum Einstellen der Nachstellvorrichtung der Stützbremse.", "runs": [{"text": "Steckschlüssel III DB 144 zum Einstellen der Nachstellvorrichtung der Stützbremse.", "bold": false}]},
+        "en-GB": {"plain": "Socket spanner III DB 144 – for setting the adjusting device of the support brake.", "runs": [{"text": "Socket spanner III DB 144 – for setting the adjusting device of the support brake.", "bold": false}]},
+        "es-ES": {"plain": "Llave de vaso III DB 144 – para ajustar el dispositivo de reglaje del freno de apoyo.", "runs": [{"text": "Llave de vaso III DB 144 – para ajustar el dispositivo de reglaje del freno de apoyo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para07",
+      "text": {
+        "de": {"plain": "Stützbremse, Bild 23 und 25", "runs": [{"text": "Stützbremse, Bild 23 und 25", "bold": true}]},
+        "en-GB": {"plain": "Stützbremse, Bild 23 und 25 – Support brake, Figures 23 and 25", "runs": [{"text": "Stützbremse, Bild 23 und 25 – Support brake, Figures 23 and 25", "bold": true}]},
+        "es-ES": {"plain": "Stützbremse, Bild 23 und 25 – Freno de apoyo, figuras 23 y 25", "runs": [{"text": "Stützbremse, Bild 23 und 25 – Freno de apoyo, figuras 23 y 25", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para08",
+      "text": {
+        "de": {"plain": "Kennzeichen für die Notwendigkeit einer Neueinstellung ist der Abstand „C\" zwischen der Rolle des Rollenhebels Nr. 2 und dem Kurvenhebel Nr. 3. Hat sich dieser Abstand auf etwa 2 mm verringert, so wurde der Bremsbelag um 0,5 mm abgenutzt und die Bremsfeder Nr. 4 besitzt nicht mehr die zum Abbremsen der Stützbremse erforderliche Spannung. Die Stützbremse rutscht in größeren Steigungen durch und muß neu eingestellt werden.", "runs": [{"text": "Kennzeichen für die Notwendigkeit einer Neueinstellung ist der Abstand „C\" zwischen der Rolle des Rollenhebels Nr. 2 und dem Kurvenhebel Nr. 3. Hat sich dieser Abstand auf etwa 2 mm verringert, so wurde der Bremsbelag um 0,5 mm abgenutzt und die Bremsfeder Nr. 4 besitzt nicht mehr die zum Abbremsen der Stützbremse erforderliche Spannung. Die Stützbremse rutscht in größeren Steigungen durch und muß neu eingestellt werden.", "bold": false}]},
+        "en-GB": {"plain": "The sign that re-adjustment is necessary is the distance \"C\" between the roller of roller lever No. 2 and cam lever No. 3. If this distance has decreased to about 2 mm, the brake lining has worn by 0.5 mm and brake spring No. 4 no longer has the tension needed to brake the support brake. The support brake then slips on steeper gradients and must be re-adjusted.", "runs": [{"text": "The sign that re-adjustment is necessary is the distance \"C\" between the roller of roller lever No. 2 and cam lever No. 3. If this distance has decreased to about 2 mm, the brake lining has worn by 0.5 mm and brake spring No. 4 no longer has the tension needed to brake the support brake. The support brake then slips on steeper gradients and must be re-adjusted.", "bold": false}]},
+        "es-ES": {"plain": "La señal de que es necesario reajustar es la distancia «C» entre el rodillo de la palanca de rodillo n.º 2 y la palanca de leva n.º 3. Si esta distancia se ha reducido a unos 2 mm, el forro de freno se ha desgastado 0,5 mm y el muelle de freno n.º 4 ya no tiene la tensión necesaria para frenar el freno de apoyo. El freno de apoyo patina entonces en pendientes más pronunciadas y debe reajustarse.", "runs": [{"text": "La señal de que es necesario reajustar es la distancia «C» entre el rodillo de la palanca de rodillo n.º 2 y la palanca de leva n.º 3. Si esta distancia se ha reducido a unos 2 mm, el forro de freno se ha desgastado 0,5 mm y el muelle de freno n.º 4 ya no tiene la tensión necesaria para frenar el freno de apoyo. El freno de apoyo patina entonces en pendientes más pronunciadas y debe reajustarse.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para09",
+      "text": {
+        "de": {"plain": "Eine vorübergehende Besserung kann dadurch erreicht werden, daß der Nachspannhebel Nr. 5, der beim Fahren im 1. Gang ständig nach hinten gelegt werden muß, auch in den höheren Gängen umgelegt wird. Dieses ist jedoch nur als kurzzeitiger Notbehelf zu betrachten, da in kurzer Zeit die Stützbremse erneut durchrutscht und die am Lenkhebel Nr. 1 auszuübende Kraft über 30 kg ansteigt.", "runs": [{"text": "Eine vorübergehende Besserung kann dadurch erreicht werden, daß der Nachspannhebel Nr. 5, der beim Fahren im 1. Gang ständig nach hinten gelegt werden muß, auch in den höheren Gängen umgelegt wird. Dieses ist jedoch nur als kurzzeitiger Notbehelf zu betrachten, da in kurzer Zeit die Stützbremse erneut durchrutscht und die am Lenkhebel Nr. 1 auszuübende Kraft über 30 kg ansteigt.", "bold": false}]},
+        "en-GB": {"plain": "A temporary improvement can be achieved by keeping tensioning lever No. 5 – which must always be thrown back when driving in 1st gear – thrown over also in the higher gears. This is, however, only a short-term expedient, because the support brake soon slips again and the force at steering lever No. 1 rises above 30 kg.", "runs": [{"text": "A temporary improvement can be achieved by keeping tensioning lever No. 5 – which must always be thrown back when driving in 1st gear – thrown over also in the higher gears. This is, however, only a short-term expedient, because the support brake soon slips again and the force at steering lever No. 1 rises above 30 kg.", "bold": false}]},
+        "es-ES": {"plain": "Puede lograrse una mejora provisional manteniendo abatida la palanca de tensado n.º 5 –que siempre debe abatirse al circular en 1.ª– también en las marchas superiores. Esto es, no obstante, solo un remedio de corta duración, porque el freno de apoyo pronto vuelve a patinar y la fuerza en la palanca de dirección n.º 1 sube por encima de 30 kg.", "runs": [{"text": "Puede lograrse una mejora provisional manteniendo abatida la palanca de tensado n.º 5 –que siempre debe abatirse al circular en 1.ª– también en las marchas superiores. Esto es, no obstante, solo un remedio de corta duración, porque el freno de apoyo pronto vuelve a patinar y la fuerza en la palanca de dirección n.º 1 sube por encima de 30 kg.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para10",
+      "text": {
+        "de": {"plain": "Vor dem Einstellen der Bremsen sind die Stellungen der Lenkhebel zu überprüfen. In der Ausgangsstellung muß der linke Lenkhebel soweit nach vorn stehen, daß zwischen Schaft und Schutzblech der seitlichen Gelenkwelle ein Abstand von etwa 50 mm gemessen werden kann. Der rechte Lenkhebel muß parallel zum linken Lenkhebel eingestellt sein. Widrigenfalls sind vor dem Einstellen der Stützbremsen die Handhebelanschläge entsprechend nachzustellen.", "runs": [{"text": "Vor dem Einstellen der Bremsen sind die Stellungen der Lenkhebel zu überprüfen. In der Ausgangsstellung muß der linke Lenkhebel soweit nach vorn stehen, daß zwischen Schaft und Schutzblech der seitlichen Gelenkwelle ein Abstand von etwa 50 mm gemessen werden kann. Der rechte Lenkhebel muß parallel zum linken Lenkhebel eingestellt sein. Widrigenfalls sind vor dem Einstellen der Stützbremsen die Handhebelanschläge entsprechend nachzustellen.", "bold": false}]},
+        "en-GB": {"plain": "Before adjusting the brakes, check the positions of the steering levers. In the initial position, the left steering lever must be far enough forward that a gap of about 50 mm can be measured between the shaft and the guard plate of the side cardan shaft. The right steering lever must be set parallel to the left. Otherwise, before adjusting the support brakes, adjust the hand-lever stops accordingly.", "runs": [{"text": "Before adjusting the brakes, check the positions of the steering levers. In the initial position, the left steering lever must be far enough forward that a gap of about 50 mm can be measured between the shaft and the guard plate of the side cardan shaft. The right steering lever must be set parallel to the left. Otherwise, before adjusting the support brakes, adjust the hand-lever stops accordingly.", "bold": false}]},
+        "es-ES": {"plain": "Antes de ajustar los frenos, compruebe las posiciones de las palancas de dirección. En la posición inicial, la palanca de dirección izquierda debe estar lo bastante adelantada como para poder medir una holgura de unos 50 mm entre el eje y la chapa protectora del árbol cardán lateral. La palanca de dirección derecha debe quedar paralela a la izquierda. En caso contrario, antes de ajustar los frenos de apoyo, ajuste en consecuencia los topes de las palancas de mano.", "runs": [{"text": "Antes de ajustar los frenos, compruebe las posiciones de las palancas de dirección. En la posición inicial, la palanca de dirección izquierda debe estar lo bastante adelantada como para poder medir una holgura de unos 50 mm entre el eje y la chapa protectora del árbol cardán lateral. La palanca de dirección derecha debe quedar paralela a la izquierda. En caso contrario, antes de ajustar los frenos de apoyo, ajuste en consecuencia los topes de las palancas de mano.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para11",
+      "text": {
+        "de": {"plain": "Einstellen der Stützbremse — a) Nachstellen im Betrieb", "runs": [{"text": "Einstellen der Stützbremse — a) Nachstellen im Betrieb", "bold": true}]},
+        "en-GB": {"plain": "Einstellen der Stützbremse – a) Nachstellen im Betrieb – Adjusting the support brake – a) Re-adjustment in service", "runs": [{"text": "Einstellen der Stützbremse – a) Nachstellen im Betrieb – Adjusting the support brake – a) Re-adjustment in service", "bold": true}]},
+        "es-ES": {"plain": "Einstellen der Stützbremse – a) Nachstellen im Betrieb – Ajuste del freno de apoyo – a) Reajuste en servicio", "runs": [{"text": "Einstellen der Stützbremse – a) Nachstellen im Betrieb – Ajuste del freno de apoyo – a) Reajuste en servicio", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para12",
+      "text": {
+        "de": {"plain": "1.) Lenkhebel Nr. 1 anziehen, bis die Rolle des Rollenhebels Nr. 2 hinter Buckel B steht.", "runs": [{"text": "1.) Lenkhebel Nr. 1 anziehen, bis die Rolle des Rollenhebels Nr. 2 hinter Buckel B steht.", "bold": false}]},
+        "en-GB": {"plain": "1.) Pull steering lever No. 1 until the roller of roller lever No. 2 is behind crest B.", "runs": [{"text": "1.) Pull steering lever No. 1 until the roller of roller lever No. 2 is behind crest B.", "bold": false}]},
+        "es-ES": {"plain": "1.º) Tire de la palanca de dirección n.º 1 hasta que el rodillo de la palanca de rodillo n.º 2 quede detrás de la cresta B.", "runs": [{"text": "1.º) Tire de la palanca de dirección n.º 1 hasta que el rodillo de la palanca de rodillo n.º 2 quede detrás de la cresta B.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-053-para13",
+      "text": {
+        "de": {"plain": "2.) Halteschrauben der Nachstellvorrichtung Nr. 6 mit Hilfe des langen Steckschlüssels III DB 144 lösen.", "runs": [{"text": "2.) Halteschrauben der Nachstellvorrichtung Nr. 6 mit Hilfe des langen Steckschlüssels III DB 144 lösen.", "bold": false}]},
+        "en-GB": {"plain": "2.) Undo the retaining screws of adjusting device No. 6 with the long socket spanner III DB 144.", "runs": [{"text": "2.) Undo the retaining screws of adjusting device No. 6 with the long socket spanner III DB 144.", "bold": false}]},
+        "es-ES": {"plain": "2.º) Suelte los tornillos de retención del dispositivo de reglaje n.º 6 con la llave de vaso larga III DB 144.", "runs": [{"text": "2.º) Suelte los tornillos de retención del dispositivo de reglaje n.º 6 con la llave de vaso larga III DB 144.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-052",
+    "next": "d65241a-page-054"
+  }
+}

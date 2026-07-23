@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-060",
+  "document_id": "d652-41a",
+  "page": 60,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 31,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-060-para01",
+      "text": {
+        "de": {"plain": "Es empfiehlt sich daher, sämtliche Teile vor dem Ausbau so zu zeichnen, daß ein einwandfreier Einbau an derselben Stelle gewährleistet ist.", "runs": [{"text": "Es empfiehlt sich daher, sämtliche Teile vor dem Ausbau so zu zeichnen, daß ein einwandfreier Einbau an derselben Stelle gewährleistet ist.", "bold": false}]},
+        "en-GB": {"plain": "It is therefore advisable to mark all parts before removal so that faultless installation in the same place is ensured.", "runs": [{"text": "It is therefore advisable to mark all parts before removal so that faultless installation in the same place is ensured.", "bold": false}]},
+        "es-ES": {"plain": "Por ello conviene marcar todas las piezas antes del desmontaje, de modo que quede asegurado un montaje impecable en el mismo sitio.", "runs": [{"text": "Por ello conviene marcar todas las piezas antes del desmontaje, de modo que quede asegurado un montaje impecable en el mismo sitio.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para02",
+      "text": {
+        "de": {"plain": "Bei Aus- und Einbau einzelner Laufrollen, Drehstabfedern und Schwingarme sowie der Stoßdämpfer braucht die Kette nicht abgenommen zu werden. Werden jedoch mehrere Laufrollen, Stabfedern oder Schwingarme ausgebaut, so empfiehlt es sich, das Fahrzeug auf Böcke zu stellen und Gleiskette abzunehmen.", "runs": [{"text": "Bei Aus- und Einbau einzelner Laufrollen, Drehstabfedern und Schwingarme sowie der Stoßdämpfer braucht die Kette nicht abgenommen zu werden. Werden jedoch mehrere Laufrollen, Stabfedern oder Schwingarme ausgebaut, so empfiehlt es sich, das Fahrzeug auf Böcke zu stellen und Gleiskette abzunehmen.", "bold": false}]},
+        "en-GB": {"plain": "For removing and installing individual road wheels, torsion bars and swing arms, as well as the shock absorbers, the track need not be taken off. If, however, several road wheels, torsion bars or swing arms are removed, it is advisable to place the vehicle on stands (Böcke) and take off the track.", "runs": [{"text": "For removing and installing individual road wheels, torsion bars and swing arms, as well as the shock absorbers, the track need not be taken off. If, however, several road wheels, torsion bars or swing arms are removed, it is advisable to place the vehicle on stands (Böcke) and take off the track.", "bold": false}]},
+        "es-ES": {"plain": "Para desmontar y montar ruedas de rodadura, barras de torsión y brazos oscilantes individuales, así como los amortiguadores, no hace falta retirar la cadena. Si, en cambio, se desmontan varias ruedas de rodadura, barras de torsión o brazos oscilantes, conviene poner el vehículo sobre caballetes (Böcke) y retirar la cadena.", "runs": [{"text": "Para desmontar y montar ruedas de rodadura, barras de torsión y brazos oscilantes individuales, así como los amortiguadores, no hace falta retirar la cadena. Si, en cambio, se desmontan varias ruedas de rodadura, barras de torsión o brazos oscilantes, conviene poner el vehículo sobre caballetes (Böcke) y retirar la cadena.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para03",
+      "text": {
+        "de": {"plain": "Stützrollen", "runs": [{"text": "Stützrollen", "bold": true}]},
+        "en-GB": {"plain": "Stützrollen – Return rollers", "runs": [{"text": "Stützrollen – Return rollers", "bold": true}]},
+        "es-ES": {"plain": "Stützrollen – Rodillos de retorno", "runs": [{"text": "Stützrollen – Rodillos de retorno", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para04",
+      "text": {
+        "de": {"plain": "Ausbau: Stützrolle mit Lagerbock zusammen abnehmen und auseinandernehmen.", "runs": [{"text": "Ausbau: ", "bold": true}, {"text": "Stützrolle mit Lagerbock zusammen abnehmen und auseinandernehmen.", "bold": false}]},
+        "en-GB": {"plain": "Removal: Take off the return roller together with its bearing bracket (Lagerbock) and dismantle.", "runs": [{"text": "Removal: ", "bold": true}, {"text": "Take off the return roller together with its bearing bracket (Lagerbock) and dismantle.", "bold": false}]},
+        "es-ES": {"plain": "Desmontaje: Retire el rodillo de retorno junto con su soporte (Lagerbock) y despiécelo.", "runs": [{"text": "Desmontaje: ", "bold": true}, {"text": "Retire el rodillo de retorno junto con su soporte (Lagerbock) y despiécelo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para05",
+      "text": {
+        "de": {"plain": "Einbau: Zuerst Stützrolle mit Achse zusammenbauen, dann Achse in Lagerbock einziehen. Stellung der Stützrolle zur Kette, wenn erforderlich, durch Paßbleche unter dem Sockel ausgleichen.", "runs": [{"text": "Einbau: ", "bold": true}, {"text": "Zuerst Stützrolle mit Achse zusammenbauen, dann Achse in Lagerbock einziehen. Stellung der Stützrolle zur Kette, wenn erforderlich, durch Paßbleche unter dem Sockel ausgleichen.", "bold": false}]},
+        "en-GB": {"plain": "Installation: First assemble the return roller with its axle, then draw the axle into the bearing bracket. If necessary, correct the position of the return roller relative to the track with shim plates (Paßbleche) under the base.", "runs": [{"text": "Installation: ", "bold": true}, {"text": "First assemble the return roller with its axle, then draw the axle into the bearing bracket. If necessary, correct the position of the return roller relative to the track with shim plates (Paßbleche) under the base.", "bold": false}]},
+        "es-ES": {"plain": "Montaje: Arme primero el rodillo de retorno con su eje, luego cale el eje en el soporte. Si es preciso, corrija la posición del rodillo de retorno respecto a la cadena con chapas de ajuste (Paßbleche) bajo la base.", "runs": [{"text": "Montaje: ", "bold": true}, {"text": "Arme primero el rodillo de retorno con su eje, luego cale el eje en el soporte. Si es preciso, corrija la posición del rodillo de retorno respecto a la cadena con chapas de ajuste (Paßbleche) bajo la base.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para06",
+      "text": {
+        "de": {"plain": "Laufrollen", "runs": [{"text": "Laufrollen", "bold": true}]},
+        "en-GB": {"plain": "Laufrollen – Road wheels", "runs": [{"text": "Laufrollen – Road wheels", "bold": true}]},
+        "es-ES": {"plain": "Laufrollen – Ruedas de rodadura", "runs": [{"text": "Laufrollen – Ruedas de rodadura", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para07",
+      "text": {
+        "de": {"plain": "Ausbau: Schwingarm mit Hilfe einer Winde anheben, bis die Zähne der Kette dem späteren Abziehen der Laufrolle nicht mehr hinderlich sind. Beim Ausbauen der 1. und 6. Laufrolle muß die Kette entspannt, das Leitrad so weit wie möglich nach vorn gestellt und beim Abziehen der Laufrolle mit Hilfe einer Brechstange die Kette niedergedrückt werden. Verschlußkappe der Laufrolle abschrauben, Kronenmutter lösen, D-Scheibe, Beilegringe, Winkelring abnehmen und Laufrollen vorsichtig abziehen.", "runs": [{"text": "Ausbau: ", "bold": true}, {"text": "Schwingarm mit Hilfe einer Winde anheben, bis die Zähne der Kette dem späteren Abziehen der Laufrolle nicht mehr hinderlich sind. Beim Ausbauen der 1. und 6. Laufrolle muß die Kette entspannt, das Leitrad so weit wie möglich nach vorn gestellt und beim Abziehen der Laufrolle mit Hilfe einer Brechstange die Kette niedergedrückt werden. Verschlußkappe der Laufrolle abschrauben, Kronenmutter lösen, D-Scheibe, Beilegringe, Winkelring abnehmen und Laufrollen vorsichtig abziehen.", "bold": false}]},
+        "en-GB": {"plain": "Removal: Raise the swing arm with a jack until the track teeth no longer hinder the subsequent pulling-off of the road wheel. When removing the 1st and 6th road wheel, the track must be released, the idler wheel set as far forward as possible, and the track pressed down with a crowbar while the road wheel is pulled off. Unscrew the closing cap of the road wheel, undo the castellated nut, take off the D-washer, shim rings and angle ring, and carefully pull off the road wheel.", "runs": [{"text": "Removal: ", "bold": true}, {"text": "Raise the swing arm with a jack until the track teeth no longer hinder the subsequent pulling-off of the road wheel. When removing the 1st and 6th road wheel, the track must be released, the idler wheel set as far forward as possible, and the track pressed down with a crowbar while the road wheel is pulled off. Unscrew the closing cap of the road wheel, undo the castellated nut, take off the D-washer, shim rings and angle ring, and carefully pull off the road wheel.", "bold": false}]},
+        "es-ES": {"plain": "Desmontaje: Levante el brazo oscilante con un gato hasta que los dientes de la cadena ya no estorben la posterior extracción de la rueda de rodadura. Al desmontar la 1.ª y la 6.ª rueda de rodadura, hay que aflojar la cadena, adelantar al máximo la rueda tensora y presionar la cadena hacia abajo con una palanqueta mientras se extrae la rueda. Desenrosque la tapa de cierre de la rueda de rodadura, suelte la tuerca almenada, retire la arandela en D, los anillos de ajuste y el anillo angular, y extraiga con cuidado la rueda de rodadura.", "runs": [{"text": "Desmontaje: ", "bold": true}, {"text": "Levante el brazo oscilante con un gato hasta que los dientes de la cadena ya no estorben la posterior extracción de la rueda de rodadura. Al desmontar la 1.ª y la 6.ª rueda de rodadura, hay que aflojar la cadena, adelantar al máximo la rueda tensora y presionar la cadena hacia abajo con una palanqueta mientras se extrae la rueda. Desenrosque la tapa de cierre de la rueda de rodadura, suelte la tuerca almenada, retire la arandela en D, los anillos de ajuste y el anillo angular, y extraiga con cuidado la rueda de rodadura.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para08",
+      "text": {
+        "de": {"plain": "Einbau: In der Laufrolle die Rollenlageraußenringe, Klemmring und Abdichtring einziehen. Nabe zwischen den Rollenlagerringen mit Fett füllen, den Abdichtring gut einfetten und die Laufrolle vorsichtig aufschieben.", "runs": [{"text": "Einbau: ", "bold": true}, {"text": "In der Laufrolle die Rollenlageraußenringe, Klemmring und Abdichtring einziehen. Nabe zwischen den Rollenlagerringen mit Fett füllen, den Abdichtring gut einfetten und die Laufrolle vorsichtig aufschieben.", "bold": false}]},
+        "en-GB": {"plain": "Installation: Draw the roller-bearing outer rings, clamping ring and sealing ring into the road wheel. Fill the hub between the roller-bearing rings with grease, grease the sealing ring well and carefully push the road wheel on.", "runs": [{"text": "Installation: ", "bold": true}, {"text": "Draw the roller-bearing outer rings, clamping ring and sealing ring into the road wheel. Fill the hub between the roller-bearing rings with grease, grease the sealing ring well and carefully push the road wheel on.", "bold": false}]},
+        "es-ES": {"plain": "Montaje: Cale en la rueda de rodadura los anillos exteriores del cojinete de rodillos, el anillo de apriete y el retén. Rellene de grasa el cubo entre los anillos del cojinete de rodillos, engrase bien el retén y empuje con cuidado la rueda de rodadura.", "runs": [{"text": "Montaje: ", "bold": true}, {"text": "Cale en la rueda de rodadura los anillos exteriores del cojinete de rodillos, el anillo de apriete y el retén. Rellene de grasa el cubo entre los anillos del cojinete de rodillos, engrase bien el retén y empuje con cuidado la rueda de rodadura.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-060-para09",
+      "text": {
+        "de": {"plain": "Beilegringe, Winkelring und D-Scheibe aufstecken. Mutter anziehen und versplinten. Deckel mit Fett füllen und anschrauben. Verschlußkappe anschrauben und Schraube durch Sicherungsbleche sichern.", "runs": [{"text": "Beilegringe, Winkelring und D-Scheibe aufstecken. Mutter anziehen und versplinten. Deckel mit Fett füllen und anschrauben. Verschlußkappe anschrauben und Schraube durch Sicherungsbleche sichern.", "bold": false}]},
+        "en-GB": {"plain": "Fit the shim rings, angle ring and D-washer. Tighten the nut and split-pin it. Fill the cover with grease and screw it on. Screw on the closing cap and secure the screw with locking plates.", "runs": [{"text": "Fit the shim rings, angle ring and D-washer. Tighten the nut and split-pin it. Fill the cover with grease and screw it on. Screw on the closing cap and secure the screw with locking plates.", "bold": false}]},
+        "es-ES": {"plain": "Monte los anillos de ajuste, el anillo angular y la arandela en D. Apriete la tuerca y coloque el pasador de aletas. Rellene de grasa la tapa y enrósquela. Enrosque la tapa de cierre y asegure el tornillo con chapas de bloqueo.", "runs": [{"text": "Monte los anillos de ajuste, el anillo angular y la arandela en D. Apriete la tuerca y coloque el pasador de aletas. Rellene de grasa la tapa y enrósquela. Enrosque la tapa de cierre y asegure el tornillo con chapas de bloqueo.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-059",
+    "next": "d65241a-page-061"
+  }
+}

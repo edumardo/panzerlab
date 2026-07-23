@@ -1008,6 +1008,118 @@
       "en-GB": "carburettor spacer piece",
       "es-ES": "pieza distanciadora del carburador",
       "status": "draft"
+    },
+    {
+      "id": "series-term-144",
+      "de": "Panzerwanne",
+      "en-GB": "armoured hull",
+      "es-ES": "casco blindado",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-145",
+      "de": "Hauptkupplung",
+      "en-GB": "main clutch",
+      "es-ES": "embrague principal",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-146",
+      "de": "Wechselgetriebe",
+      "en-GB": "gearbox",
+      "es-ES": "caja de cambios",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-147",
+      "de": "Kegeltrieb",
+      "en-GB": "bevel drive",
+      "es-ES": "par cónico",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-148",
+      "de": "Lenkgetriebe",
+      "en-GB": "steering gear",
+      "es-ES": "mecanismo de dirección",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-149",
+      "de": "Stützbremse",
+      "en-GB": "support brake",
+      "es-ES": "freno de apoyo",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-150",
+      "de": "Lenkbremse",
+      "en-GB": "steering brake",
+      "es-ES": "freno de dirección",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-151",
+      "de": "Seitenvorgelege",
+      "en-GB": "final drive",
+      "es-ES": "reductora final",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-152",
+      "de": "Laufwerk",
+      "en-GB": "running gear",
+      "es-ES": "tren de rodaje",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-153",
+      "de": "Laufrolle",
+      "en-GB": "road wheel",
+      "es-ES": "rueda de rodadura",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-154",
+      "de": "Stützrolle",
+      "en-GB": "return roller",
+      "es-ES": "rodillo de retorno",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-155",
+      "de": "Leitrad",
+      "en-GB": "idler wheel",
+      "es-ES": "rueda tensora",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-156",
+      "de": "Triebrad",
+      "en-GB": "drive (sprocket) wheel",
+      "es-ES": "rueda tractora",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-157",
+      "de": "Stabfeder",
+      "en-GB": "torsion bar",
+      "es-ES": "barra de torsión",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-158",
+      "de": "Schwingarm",
+      "en-GB": "swing arm",
+      "es-ES": "brazo oscilante",
+      "status": "draft"
+    },
+    {
+      "id": "series-term-159",
+      "de": "Gleiskette",
+      "en-GB": "track (chain)",
+      "es-ES": "cadena (oruga)",
+      "status": "draft"
     }
   ]
 }
