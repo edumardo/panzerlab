@@ -30,7 +30,7 @@ These manuals cover the Panzer III, the command vehicle and the StuG simultaneou
 
 | Designation | Original title (DE) | Translation (EN) | Coverage | Date | Status |
 |---|---|---|---|---|---|
-| D 652/50a | Vorläufige Instandsetzungsanleitung für das Laufwerk | Provisional repair instructions for the **running gear** | Pz III E–L · Bef. E–L · StuG A–G | 1 Mar 1943 / repr. Oct 1944 | — |
+| D 652/50a | Vorläufige Instandsetzungsanleitung für das Laufwerk | Provisional repair instructions for the **running gear** | Pz III E–L · Bef. E–L · StuG A–G | 1 Mar 1943 / repr. Oct 1944 | [✓ original](D.652-50a/) |
 | D 652/50b | Vorläufige Instandsetzungsanleitung für das Triebwerk | Provisional repair instructions for the **power train** | Pz III H–L · Bef. H–K · StuG A, B, D, E | 1 Feb 1943 / Oct 1944 | — |
 | D 652/50c | Vorläufige Instandsetzungsanleitung für den Motor | Provisional repair instructions for the **engine** | Pz III E–L · Bef. E–L · StuG A–G | 3 Nov 1943 | [✓ original](D.652-50c/) |
 

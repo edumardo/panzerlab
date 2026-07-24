@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-031",
+  "document_id": "d652-50a",
+  "page": 31,
+  "section": "A08",
+  "type": "figures",
+  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": "(Continued) 8. Removal of the inner races of the road-wheel bearings.", "es-ES": "(Continuación de:) 8. Desmontaje de los anillos interiores de los cojinetes de las ruedas de rodadura."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 17,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-030", "next": "d65250a-page-032"},
+  "paragraphs": [
+    {"id": "d65250a-p031-para01", "text": {"de": {"plain": "Im Notfall kann der hintere Lagerring mit Meißel und Hammer entfernt werden. Der Meißel wird zwischen Abziehring und Zwischenring angesetzt.", "runs": [{"text": "Im Notfall kann der hintere Lagerring mit Meißel und Hammer entfernt werden. Der Meißel wird zwischen Abziehring und Zwischenring angesetzt.", "bold": false}]}, "en-GB": {"plain": "In an emergency, the rear bearing ring can be removed using a chisel and a hammer. The chisel is applied between the puller ring and the intermediate ring.", "runs": [{"text": "In an emergency, the rear bearing ring can be removed using a chisel and a hammer. The chisel is applied between the puller ring and the intermediate ring.", "bold": false}]}, "es-ES": {"plain": "En caso de emergencia, el anillo de cojinete trasero puede retirarse con cincel y martillo. El cincel se aplica entre el anillo extractor y el anillo intermedio.", "runs": [{"text": "En caso de emergencia, el anillo de cojinete trasero puede retirarse con cincel y martillo. El cincel se aplica entre el anillo extractor y el anillo intermedio.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-045", "number": 45, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

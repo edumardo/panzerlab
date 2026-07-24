@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-026",
+  "document_id": "d652-50a",
+  "page": 26,
+  "section": "A07",
+  "type": "text",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 14,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-025", "next": "d65250a-page-027"},
+  "paragraphs": [
+    {"id": "d65250a-p026-para01", "text": {"de": {"plain": "Beachten: Die Abstreifkante des Abdichtringes muß nach außen zeigen. Die Beschriftung des Abdichtringes zeigt dann auch nach außen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Abstreifkante des Abdichtringes muß nach außen zeigen. Die Beschriftung des Abdichtringes zeigt dann auch nach außen.", "bold": false}]}, "en-GB": {"plain": "Note: The wiping edge of the seal ring must face outwards. The lettering on the seal ring will then also face outwards.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The wiping edge of the seal ring must face outwards. The lettering on the seal ring will then also face outwards.", "bold": false}]}, "es-ES": {"plain": "Nota: El borde rascador del retén debe mirar hacia fuera. La inscripción del retén quedará entonces también hacia fuera.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "El borde rascador del retén debe mirar hacia fuera. La inscripción del retén quedará entonces también hacia fuera.", "bold": false}]}}},
+    {"id": "d65250a-p026-para02", "text": {"de": {"plain": "Laufrolle nach Abschnitt 4, S. 15, einbauen.", "runs": [{"text": "Laufrolle nach Abschnitt 4, S. 15, einbauen.", "bold": false}]}, "en-GB": {"plain": "Install the road wheel as described in Section 4, p. 15.", "runs": [{"text": "Install the road wheel as described in Section 4, p. 15.", "bold": false}]}, "es-ES": {"plain": "Montar la rueda de rodadura según el apartado 4, p. 15.", "runs": [{"text": "Montar la rueda de rodadura según el apartado 4, p. 15.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-037", "number": 37, "status": "draft", "captions": {"de": {"plain": "Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.", "runs": []}, "en-GB": {"plain": "Using circlip pliers or needle-nose pliers, compress the circlip and fit it.", "runs": []}, "es-ES": {"plain": "Con alicates para anillos de retención o alicates de punta, comprimir el anillo de retención y montarlo.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-038", "number": 38, "status": "draft", "captions": {"de": {"plain": "Den Abdichtring (Simmerring) mit Gummihammer einschlagen.", "runs": []}, "en-GB": {"plain": "Drive in the seal ring (oil seal) using a rubber mallet.", "runs": []}, "es-ES": {"plain": "Introducir el retén (simmerring) a golpes con un martillo de goma.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

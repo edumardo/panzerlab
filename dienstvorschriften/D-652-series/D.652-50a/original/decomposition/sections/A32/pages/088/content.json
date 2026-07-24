@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-088",
+  "document_id": "d652-50a",
+  "page": 88,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 45,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-087", "next": "d65250a-page-089"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-088-01",
+      "number": 5,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 5. Abziehvorrichtung z. Ausbau der Schwingarm- u. Laufrollenlager. Maßstab 1:2,5. Teile: Klaue, bl. Sechskantmutter M20 DIN 934, Unterlegscheibe für M20 DIN 125, Klaue, Halter kompl., Spindel, Druckscheibe (Schutzkappe), Druckscheibe (Laufringe). Zum Ausbau des hinteren, inneren Laufringes. Zum Ausbau des vorderen, inneren Laufringes. Halter aus zusammengeschweißtem Profilstahl gezeichnet. Unterlegscheibe festschweißen. Schlüsselweite = 32. Bohrung = 2 mm tief.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Drawing 5. Puller for removing the swing-arm and road-wheel bearings. Scale 1:2.5. Parts: claw, bare hexagon nut M20 DIN 934, washer for M20 DIN 125, claw, holder complete, spindle, pressure disc (protective cap), pressure disc (bearing races). For removing the rear inner race. For removing the front inner race. Holder shown made of welded-up section steel. Weld the washer in place. Across flats = 32. Hole = 2 mm deep.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 5. Extractor para el desmontaje de los cojinetes del brazo oscilante y de la rueda de rodadura. Escala 1:2,5. Piezas: garra, tuerca hexagonal sin recubrir M20 DIN 934, arandela para M20 DIN 125, garra, soporte completo, husillo, disco de presión (caperuza protectora), disco de presión (anillos de rodadura). Para el desmontaje del anillo interior trasero. Para el desmontaje del anillo interior delantero. Soporte representado fabricado con perfil de acero soldado. Soldar la arandela en su sitio. Entrecaras = 32. Taladro = 2 mm de profundidad.",
+          "runs": []
+        }
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

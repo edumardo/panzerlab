@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-076",
+  "document_id": "d652-50a",
+  "page": 76,
+  "section": "A30",
+  "type": "text",
+  "titles": {"de": "30. Ausbau des Triebrades", "en-GB": "30. Removal of the drive wheel", "es-ES": "30. Desmontaje de la rueda motriz"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 39,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-075", "next": "d65250a-page-077"},
+  "paragraphs": [
+    {"id": "d65250a-p076-para01", "text": {"de": {"plain": "Die Gleiskette vom Triebrad abnehmen.", "runs": [{"text": "Die Gleiskette vom Triebrad abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the track from the drive wheel.", "runs": [{"text": "Remove the track from the drive wheel.", "bold": false}]}, "es-ES": {"plain": "Retirar la cadena de oruga de la rueda motriz.", "runs": [{"text": "Retirar la cadena de oruga de la rueda motriz.", "bold": false}]}}},
+    {"id": "d65250a-p076-para02", "text": {"de": {"plain": "Den Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und abnehmen.", "runs": [{"text": "Den Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und abnehmen.", "bold": false}]}, "en-GB": {"plain": "Compress the circlip using circlip pliers or needle-nose pliers and remove it.", "runs": [{"text": "Compress the circlip using circlip pliers or needle-nose pliers and remove it.", "bold": false}]}, "es-ES": {"plain": "Comprimir el anillo de retención con alicates para anillos de retención o con alicates de punta, y retirarlo.", "runs": [{"text": "Comprimir el anillo de retención con alicates para anillos de retención o con alicates de punta, y retirarlo.", "bold": false}]}}},
+    {"id": "d65250a-p076-para03", "text": {"de": {"plain": "Die Abdeckscheibe mit Schraubenzieher entfernen.", "runs": [{"text": "Die Abdeckscheibe mit Schraubenzieher entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the cover disc with a screwdriver.", "runs": [{"text": "Remove the cover disc with a screwdriver.", "bold": false}]}, "es-ES": {"plain": "Retirar el disco de cubierta con un destornillador.", "runs": [{"text": "Retirar el disco de cubierta con un destornillador.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-110", "number": 110, "status": "draft", "captions": {"de": {"plain": "Bild 110", "runs": []}, "en-GB": {"plain": "Figure 110", "runs": []}, "es-ES": {"plain": "Figura 110", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-111", "number": 111, "status": "draft", "captions": {"de": {"plain": "Bild 111", "runs": []}, "en-GB": {"plain": "Figure 111", "runs": []}, "es-ES": {"plain": "Figura 111", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

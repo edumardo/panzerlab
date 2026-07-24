@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-004",
+  "document_id": "d652-50a",
+  "page": 4,
+  "section": "A01",
+  "type": "text",
+  "titles": {"de": "1. Ausbau eines Kettengliedes", "en-GB": "1. Removing a track link", "es-ES": "1. Desmontaje de un eslabón de cadena"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 3,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-003", "next": "d65250a-page-005"},
+  "paragraphs": [
+    {"id": "d65250a-p004-para01", "text": {"de": {"plain": "Das auszuwechselnde Kettenglied so nach vorn auf das Triebrad fahren, daß der Kettenbolzen beim Herausschlagen nicht an die Panzerwanne stößt. Schraubkappe und Mutter des Kettenspanners im Heck des Fahrzeuges lösen und Fahrzeug kurz anfahren. Dadurch wird die Leitradkurbel nach vorn gezogen und die Kette entspannt.", "runs": [{"text": "Das auszuwechselnde Kettenglied so nach vorn auf das Triebrad fahren, daß der Kettenbolzen beim Herausschlagen nicht an die Panzerwanne stößt. Schraubkappe und Mutter des Kettenspanners im Heck des Fahrzeuges lösen und Fahrzeug kurz anfahren. Dadurch wird die Leitradkurbel nach vorn gezogen und die Kette entspannt.", "bold": false}]}, "en-GB": {"plain": "Drive the track link to be replaced forward onto the drive wheel so that the track pin does not strike the hull when it is driven out. Loosen the screw cap and nut of the track tensioner at the rear of the vehicle and move the vehicle forward briefly. This pulls the idler crank forward and slackens the track.", "runs": [{"text": "Drive the track link to be replaced forward onto the drive wheel so that the track pin does not strike the hull when it is driven out. Loosen the screw cap and nut of the track tensioner at the rear of the vehicle and move the vehicle forward briefly. This pulls the idler crank forward and slackens the track.", "bold": false}]}, "es-ES": {"plain": "Desplazar hacia delante el eslabón de cadena que se va a sustituir hasta colocarlo sobre la rueda motriz, de modo que el pasador de la cadena no golpee contra el casco al extraerlo. Soltar la caperuza roscada y la tuerca del tensor de cadena en la parte posterior del vehículo y desplazar brevemente el vehículo hacia delante. De este modo se tira de la manivela de la rueda tensora hacia delante y se destensa la cadena.", "runs": [{"text": "Desplazar hacia delante el eslabón de cadena que se va a sustituir hasta colocarlo sobre la rueda motriz, de modo que el pasador de la cadena no golpee contra el casco al extraerlo. Soltar la caperuza roscada y la tuerca del tensor de cadena en la parte posterior del vehículo y desplazar brevemente el vehículo hacia delante. De este modo se tira de la manivela de la rueda tensora hacia delante y se destensa la cadena.", "bold": false}]}}},
+    {"id": "d65250a-p004-para02", "text": {"de": {"plain": "Triebrad durch die Fußbremse feststellen.", "runs": [{"text": "Triebrad durch die Fußbremse feststellen.", "bold": false}]}, "en-GB": {"plain": "Lock the drive wheel using the foot brake.", "runs": [{"text": "Lock the drive wheel using the foot brake.", "bold": false}]}, "es-ES": {"plain": "Bloquear la rueda motriz mediante el freno de pie.", "runs": [{"text": "Bloquear la rueda motriz mediante el freno de pie.", "bold": false}]}}},
+    {"id": "d65250a-p004-para03", "text": {"de": {"plain": "Kettenbolzensicherung mit Hammer und Meißel abschlagen.", "runs": [{"text": "Kettenbolzensicherung mit Hammer und Meißel abschlagen.", "bold": false}]}, "en-GB": {"plain": "Knock off the track-pin lock using a hammer and chisel.", "runs": [{"text": "Knock off the track-pin lock using a hammer and chisel.", "bold": false}]}, "es-ES": {"plain": "Desprender el seguro del pasador de cadena con martillo y cincel.", "runs": [{"text": "Desprender el seguro del pasador de cadena con martillo y cincel.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-001", "number": 1, "status": "draft", "captions": {"de": {"plain": "Bild 1", "runs": []}, "en-GB": {"plain": "Figure 1", "runs": []}, "es-ES": {"plain": "Figura 1", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-019",
+  "document_id": "d652-50a",
+  "page": 19,
+  "section": "A06",
+  "type": "text",
+  "titles": {"de": "6. Ausbau der Laufrollenlager", "en-GB": "6. Removal of the road-wheel bearings", "es-ES": "6. Desmontaje de los cojinetes de la rueda de rodadura"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 11,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-018", "next": "d65250a-page-020"},
+  "paragraphs": [
+    {"id": "d65250a-p019-para01", "text": {"de": {"plain": "Dazu: Rollenlager und Simmerring-Ausziehvorrichtung für Laufrolle, Zeichn. 3, S. 87", "runs": [{"text": "Dazu: Rollenlager und Simmerring-Ausziehvorrichtung für Laufrolle, Zeichn. 3, S. 87", "bold": false}]}, "en-GB": {"plain": "For this: bearing and oil-seal puller for the road wheel, Drawing 3, p. 87", "runs": [{"text": "For this: bearing and oil-seal puller for the road wheel, Drawing 3, p. 87", "bold": false}]}, "es-ES": {"plain": "Para ello: extractor de cojinetes y de retén (simmerring) para la rueda de rodadura, plano 3, p. 87", "runs": [{"text": "Para ello: extractor de cojinetes y de retén (simmerring) para la rueda de rodadura, plano 3, p. 87", "bold": false}]}}},
+    {"id": "d65250a-p019-para02", "text": {"de": {"plain": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "runs": [{"text": "Laufrolle nach Abschnitt 3, S. 10, ausbauen.", "bold": false}]}, "en-GB": {"plain": "Remove the road wheel as described in Section 3, p. 10.", "runs": [{"text": "Remove the road wheel as described in Section 3, p. 10.", "bold": false}]}, "es-ES": {"plain": "Desmontar la rueda de rodadura según el apartado 3, p. 10.", "runs": [{"text": "Desmontar la rueda de rodadura según el apartado 3, p. 10.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-025", "number": 25, "status": "draft", "captions": {"de": {"plain": "Mit Seegerring oder Spitzzange den Seegerring zusammendrücken und durch den Abdichtring (Simmerring) aus der Laufrolle ziehen.", "runs": []}, "en-GB": {"plain": "Using circlip pliers or needle-nose pliers, compress the circlip and pull it out of the road wheel past the seal ring (oil seal).", "runs": []}, "es-ES": {"plain": "Con alicates para anillos de retención o alicates de punta, comprimir el anillo de retención y extraerlo de la rueda de rodadura pasando por el retén (simmerring).", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-026", "number": 26, "status": "draft", "captions": {"de": {"plain": "Die Platte der Ausziehvorrichtung durch den Abdichtring und das Rollenlager in die Laufrolle einführen.", "runs": []}, "en-GB": {"plain": "Insert the plate of the puller through the seal ring and the bearing into the road wheel.", "runs": []}, "es-ES": {"plain": "Introducir la placa del extractor a través del retén y del cojinete en la rueda de rodadura.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

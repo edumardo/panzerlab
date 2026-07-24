@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-039",
+  "document_id": "d652-50a",
+  "page": 39,
+  "section": "A11",
+  "type": "text",
+  "titles": {"de": "Noch: 11. Einbau des Schwingungsdämpfers.", "en-GB": "(continued) 11. Fitting the vibration damper.", "es-ES": "(continuación de:) 11. Montaje del amortiguador de vibraciones."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 21,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-038", "next": "d65250a-page-040"},
+  "paragraphs": [
+    {"id": "d65250a-p039-para01", "text": {"de": {"plain": "Das Sicherungsblech befestigen. Die Befestigungsschrauben werden mit 14 SW Steckschlüssel angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Das Sicherungsblech befestigen. Die Befestigungsschrauben werden mit 14 SW Steckschlüssel angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": {"plain": "Fit the sheet-metal lock. Tighten the fixing screws with a size-14 socket spanner and secure them with sheet-metal locks.", "runs": [{"text": "Fit the sheet-metal lock. Tighten the fixing screws with a size-14 socket spanner and secure them with sheet-metal locks.", "bold": false}]}, "es-ES": {"plain": "Fijar la chapa de seguridad. Los tornillos de fijación se aprietan con una llave de vaso SW 14 y se asegura con chapas de seguridad.", "runs": [{"text": "Fijar la chapa de seguridad. Los tornillos de fijación se aprietan con una llave de vaso SW 14 y se asegura con chapas de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p039-para02", "text": {"de": {"plain": "Den Druckschmierkopf (Schmiernippel) mit 11-SW-Steckschlüssel einschrauben.", "runs": [{"text": "Den Druckschmierkopf (Schmiernippel) mit 11-SW-Steckschlüssel einschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw in the grease nipple (lubrication nipple) using an 11 SW socket spanner.", "runs": [{"text": "Screw in the grease nipple (lubrication nipple) using an 11 SW socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la boquilla de engrase (engrasador) con una llave de vaso SW 11.", "runs": [{"text": "Enroscar la boquilla de engrase (engrasador) con una llave de vaso SW 11.", "bold": false}]}}},
+    {"id": "d65250a-p039-para03", "text": {"de": {"plain": "Beachten: Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "bold": false}]}, "en-GB": {"plain": "Note: To prevent damage to the stub-axle thread, the castle nut must be screwed on.", "runs": [{"text": "Note: ", "bold": true}, {"text": "To prevent damage to the stub-axle thread, the castle nut must be screwed on.", "bold": false}]}, "es-ES": {"plain": "Nota: Para no dañar la rosca del muñón del eje, debe enroscarse la tuerca almenada.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "Para no dañar la rosca del muñón del eje, debe enroscarse la tuerca almenada.", "bold": false}]}}},
+    {"id": "d65250a-p039-para04", "text": {"de": {"plain": "Den oberen Schwingungsdämpferbolzen in gleicher Weise einbauen.", "runs": [{"text": "Den oberen Schwingungsdämpferbolzen in gleicher Weise einbauen.", "bold": false}]}, "en-GB": {"plain": "Fit the upper vibration-damper pin in the same way.", "runs": [{"text": "Fit the upper vibration-damper pin in the same way.", "bold": false}]}, "es-ES": {"plain": "Montar el perno superior del amortiguador de vibraciones de la misma manera.", "runs": [{"text": "Montar el perno superior del amortiguador de vibraciones de la misma manera.", "bold": false}]}}},
+    {"id": "d65250a-p039-para05", "text": {"de": {"plain": "Laufrolle nach Abschn. 4, S. 15, einbauen.", "runs": [{"text": "Laufrolle nach Abschn. 4, S. 15, einbauen.", "bold": false}]}, "en-GB": {"plain": "Fit the road wheel as described in Section 4, p. 15.", "runs": [{"text": "Fit the road wheel as described in Section 4, p. 15.", "bold": false}]}, "es-ES": {"plain": "Montar la rueda de rodadura según el apartado 4, p. 15.", "runs": [{"text": "Montar la rueda de rodadura según el apartado 4, p. 15.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-056", "number": 56, "status": "draft", "captions": {"de": {"plain": "Den Schwingarm mit dem Schwingungsdämpfer mit Winde anheben.", "runs": [{"text": "Den Schwingarm mit dem Schwingungsdämpfer mit Winde anheben.", "bold": false}]}, "en-GB": {"plain": "Raise the swing arm with the vibration damper using a jack.", "runs": [{"text": "Raise the swing arm with the vibration damper using a jack.", "bold": false}]}, "es-ES": {"plain": "Levantar el brazo oscilante con el amortiguador de vibraciones mediante un gato.", "runs": [{"text": "Levantar el brazo oscilante con el amortiguador de vibraciones mediante un gato.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

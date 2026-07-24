@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-036",
+  "document_id": "d652-50a",
+  "page": 36,
+  "section": "A10",
+  "type": "text",
+  "titles": {"de": "Noch: 10. Ausbau des Schwingungsdämpfers.", "en-GB": "(Continued) 10. Removal of the vibration damper.", "es-ES": "(Continuación de:) 10. Desmontaje del amortiguador de vibraciones."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 19,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-035", "next": "d65250a-page-037"},
+  "paragraphs": [
+    {"id": "d65250a-p036-para01", "text": {"de": {"plain": "Schwingungsdämpferbolzen durch Herausdrehen der Spindel herausziehen. Mutter wird mit Schraubenschlüssel SW 30 angezogen.", "runs": [{"text": "Schwingungsdämpferbolzen durch Herausdrehen der Spindel herausziehen. Mutter wird mit Schraubenschlüssel SW 30 angezogen.", "bold": false}]}, "en-GB": {"plain": "Pull out the vibration-damper pin by unscrewing the spindle. The nut is tightened using a SW 30 spanner.", "runs": [{"text": "Pull out the vibration-damper pin by unscrewing the spindle. The nut is tightened using a SW 30 spanner.", "bold": false}]}, "es-ES": {"plain": "Extraer el perno del amortiguador de vibraciones desenroscando el husillo. La tuerca se aprieta con una llave SW 30.", "runs": [{"text": "Extraer el perno del amortiguador de vibraciones desenroscando el husillo. La tuerca se aprieta con una llave SW 30.", "bold": false}]}}},
+    {"id": "d65250a-p036-para02", "text": {"de": {"plain": "Den oberen Schwingungsdämpferbolzen in gleicher Weise ausbauen.", "runs": [{"text": "Den oberen Schwingungsdämpferbolzen in gleicher Weise ausbauen.", "bold": false}]}, "en-GB": {"plain": "Remove the upper vibration-damper pin in the same way.", "runs": [{"text": "Remove the upper vibration-damper pin in the same way.", "bold": false}]}, "es-ES": {"plain": "Desmontar el perno superior del amortiguador de vibraciones de la misma manera.", "runs": [{"text": "Desmontar el perno superior del amortiguador de vibraciones de la misma manera.", "bold": false}]}}},
+    {"id": "d65250a-p036-para03", "text": {"de": {"plain": "Den Schwingarm mit Winde anheben.", "runs": [{"text": "Den Schwingarm mit Winde anheben.", "bold": false}]}, "en-GB": {"plain": "Raise the swing arm using a jack.", "runs": [{"text": "Raise the swing arm using a jack.", "bold": false}]}, "es-ES": {"plain": "Levantar el brazo oscilante con un gato.", "runs": [{"text": "Levantar el brazo oscilante con un gato.", "bold": false}]}}},
+    {"id": "d65250a-p036-para04", "text": {"de": {"plain": "Beachten: Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "runs": [{"text": "Beachten:", "bold": true}, {"text": " Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "bold": false}]}, "en-GB": {"plain": "Note: To avoid damaging the axle-stub thread, the castle nut must be screwed on.", "runs": [{"text": "Note:", "bold": true}, {"text": " To avoid damaging the axle-stub thread, the castle nut must be screwed on.", "bold": false}]}, "es-ES": {"plain": "Nota: Para no dañar la rosca del muñón del eje, debe enroscarse la tuerca almenada.", "runs": [{"text": "Nota:", "bold": true}, {"text": " Para no dañar la rosca del muñón del eje, debe enroscarse la tuerca almenada.", "bold": false}]}}},
+    {"id": "d65250a-p036-para05", "text": {"de": {"plain": "Holzklotz entfernen.", "runs": [{"text": "Holzklotz entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the wooden block.", "runs": [{"text": "Remove the wooden block.", "bold": false}]}, "es-ES": {"plain": "Retirar el taco de madera.", "runs": [{"text": "Retirar el taco de madera.", "bold": false}]}}},
+    {"id": "d65250a-p036-para06", "text": {"de": {"plain": "Schwingarm mit Winde entlasten.", "runs": [{"text": "Schwingarm mit Winde entlasten.", "bold": false}]}, "en-GB": {"plain": "Relieve the swing arm using the jack.", "runs": [{"text": "Relieve the swing arm using the jack.", "bold": false}]}, "es-ES": {"plain": "Descargar el brazo oscilante con el gato.", "runs": [{"text": "Descargar el brazo oscilante con el gato.", "bold": false}]}}},
+    {"id": "d65250a-p036-para07", "text": {"de": {"plain": "Schwingungsdämpfer von Hand entfernen.", "runs": [{"text": "Schwingungsdämpfer von Hand entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the vibration damper by hand.", "runs": [{"text": "Remove the vibration damper by hand.", "bold": false}]}, "es-ES": {"plain": "Retirar el amortiguador de vibraciones a mano.", "runs": [{"text": "Retirar el amortiguador de vibraciones a mano.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-052", "number": 52, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

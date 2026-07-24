@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-086",
+  "document_id": "d652-50a",
+  "page": 86,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 44,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-085", "next": "d65250a-page-087"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-086-01",
+      "number": 3,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 3. Rollenlager- und Simmerring-Ausziehvorricht. f. Laufrolle. Maßstab 1:2, 1:1. Stückz. 5: Scheibe, Werkstoff St 37.12; 4: Einlegblech, Federstahl; 3: Schraube, Mutter nach DIN, St 34.11; 2: Drucksteg, St 37.12; 1: Platte, St 37.12. Teil 3. Mutter nach DIN, Nase einsetzen.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Drawing 3. Bearing and Simmerring puller for the road wheel. Scale 1:2, 1:1. Qty 5: Washer, Material St 37.12; 4: Insert plate, spring steel; 3: Screw, nut to DIN, St 34.11; 2: Pressure bar, St 37.12; 1: Plate, St 37.12. Part 3. Nut to DIN, fit the lug.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 3. Extractor de cojinete y retén (simmerring) para la rueda de rodadura. Escala 1:2, 1:1. Cant. 5: Arandela, Material St 37.12; 4: Chapa de inserción, acero para resortes; 3: Tornillo, tuerca según DIN, St 34.11; 2: Traviesa de presión, St 37.12; 1: Placa, St 37.12. Pieza 3. Tuerca según DIN, colocar la lengüeta.",
+          "runs": []
+        }
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

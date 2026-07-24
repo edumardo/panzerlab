@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-075",
+  "document_id": "d652-50a",
+  "page": 75,
+  "section": "A29",
+  "type": "text",
+  "titles": {"de": "Noch: 29. Einbau des Zahnkranzes am Triebrad.", "en-GB": "(continued) 29. Installation of the sprocket ring on the drive wheel.", "es-ES": "(continuación de:) 29. Montaje de la corona dentada en la rueda motriz."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 39,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-074", "next": "d65250a-page-076"},
+  "paragraphs": [
+    {"id": "d65250a-p075-para01", "text": {"de": {"plain": "Den Zahnkranz auf das Triedrad durch gleichmäßiges Anziehen zweier aufgeschraubter Kronenmuttern mit Schraubenschlüssel SW 22 anziehen.", "runs": [{"text": "Den Zahnkranz auf das Triedrad durch gleichmäßiges Anziehen zweier aufgeschraubter Kronenmuttern mit Schraubenschlüssel SW 22 anziehen.", "bold": false}]}, "en-GB": {"plain": "Tighten the sprocket ring onto the drive wheel by evenly tightening two screwed-on castle nuts using a SW 22 spanner.", "runs": [{"text": "Tighten the sprocket ring onto the drive wheel by evenly tightening two screwed-on castle nuts using a SW 22 spanner.", "bold": false}]}, "es-ES": {"plain": "Apretar la corona dentada sobre la rueda motriz apretando uniformemente dos tuercas almenadas enroscadas con una llave SW 22.", "runs": [{"text": "Apretar la corona dentada sobre la rueda motriz apretando uniformemente dos tuercas almenadas enroscadas con una llave SW 22.", "bold": false}]}}},
+    {"id": "d65250a-p075-para02", "text": {"de": {"plain": "Die übrigen Schraubenbolzen einsetzen.", "runs": [{"text": "Die übrigen Schraubenbolzen einsetzen.", "bold": false}]}, "en-GB": {"plain": "Insert the remaining bolts.", "runs": [{"text": "Insert the remaining bolts.", "bold": false}]}, "es-ES": {"plain": "Colocar los pernos restantes.", "runs": [{"text": "Colocar los pernos restantes.", "bold": false}]}}},
+    {"id": "d65250a-p075-para03", "text": {"de": {"plain": "Die Kronenmuttern mit Schraubenschlüssel SW 22 anziehen.", "runs": [{"text": "Die Kronenmuttern mit Schraubenschlüssel SW 22 anziehen.", "bold": false}]}, "en-GB": {"plain": "Tighten the castle nuts using a SW 22 spanner.", "runs": [{"text": "Tighten the castle nuts using a SW 22 spanner.", "bold": false}]}, "es-ES": {"plain": "Apretar las tuercas almenadas con una llave SW 22.", "runs": [{"text": "Apretar las tuercas almenadas con una llave SW 22.", "bold": false}]}}},
+    {"id": "d65250a-p075-para04", "text": {"de": {"plain": "Die Kronenmuttern durch Splinte sichern.", "runs": [{"text": "Die Kronenmuttern durch Splinte sichern.", "bold": false}]}, "en-GB": {"plain": "Secure the castle nuts with split pins.", "runs": [{"text": "Secure the castle nuts with split pins.", "bold": false}]}, "es-ES": {"plain": "Asegurar las tuercas almenadas con pasadores de aletas.", "runs": [{"text": "Asegurar las tuercas almenadas con pasadores de aletas.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-109", "number": 109, "status": "draft", "captions": {"de": {"plain": "Bild 109", "runs": []}, "en-GB": {"plain": "Figure 109", "runs": []}, "es-ES": {"plain": "Figura 109", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

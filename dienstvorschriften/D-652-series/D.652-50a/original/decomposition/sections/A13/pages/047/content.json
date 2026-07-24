@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-047",
+  "document_id": "d652-50a",
+  "page": 47,
+  "section": "A13",
+  "type": "text",
+  "titles": {"de": "Noch: 13. Einbau der Drehstabfeder.", "en-GB": "(continued) 13. Fitting the torsion-bar spring.", "es-ES": "(continuación de:) 13. Montaje de la barra de torsión."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 25,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-046", "next": "d65250a-page-048"},
+  "paragraphs": [
+    {"id": "d65250a-p047-para01", "text": {"de": {"plain": "Die Paßstifte mit Gummihammer in die Nuß einschlagen.", "runs": [{"text": "Die Paßstifte mit Gummihammer in die Nuß einschlagen.", "bold": false}]}, "en-GB": {"plain": "Drive the dowel pins into the hub using a rubber mallet.", "runs": [{"text": "Drive the dowel pins into the hub using a rubber mallet.", "bold": false}]}, "es-ES": {"plain": "Introducir los pasadores de ajuste en el cubo con un martillo de goma.", "runs": [{"text": "Introducir los pasadores de ajuste en el cubo con un martillo de goma.", "bold": false}]}}},
+    {"id": "d65250a-p047-para02", "text": {"de": {"plain": "Die Deckplatte mit Dichtung an der Unterseite der Panzerwanne anschrauben. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "runs": [{"text": "Die Deckplatte mit Dichtung an der Unterseite der Panzerwanne anschrauben. Die Befestigungsschrauben werden mit Steckschlüssel SW 19 angezogen und durch Blechsicherungen gesichert.", "bold": false}]}, "en-GB": {"plain": "Bolt the cover plate with gasket to the underside of the tank hull. The fixing bolts are tightened with a SW 19 socket spanner and secured with sheet-metal locks.", "runs": [{"text": "Bolt the cover plate with gasket to the underside of the tank hull. The fixing bolts are tightened with a SW 19 socket spanner and secured with sheet-metal locks.", "bold": false}]}, "es-ES": {"plain": "Atornillar la placa de cierre con junta a la parte inferior del casco del carro. Los tornillos de fijación se aprietan con una llave de vaso SW 19 y se aseguran con chapas de seguridad.", "runs": [{"text": "Atornillar la placa de cierre con junta a la parte inferior del casco del carro. Los tornillos de fijación se aprietan con una llave de vaso SW 19 y se aseguran con chapas de seguridad.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-070", "number": 70, "status": "draft", "captions": {"de": {"plain": "Bild 70", "runs": []}, "en-GB": {"plain": "Figure 70", "runs": []}, "es-ES": {"plain": "Figura 70", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

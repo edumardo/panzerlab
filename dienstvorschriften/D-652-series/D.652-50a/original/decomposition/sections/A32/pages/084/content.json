@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-084",
+  "document_id": "d652-50a",
+  "page": 84,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 43,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-083", "next": "d65250a-page-085"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-084-01",
+      "number": 1,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 1. Steckgabel zum Auswechseln einer Laufrolle. Maßstab 1:2,5. Als Verbindung kann auch 65x5,5 U-Profil Stahl verwandt werden. Schnitt A-B. Stückz. 1: Steckgabel, Teil 1, Werkstoff u. Rohm.: St 37.12.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Drawing 1. Insertion fork for replacing a road wheel. Scale 1:2.5. A 65x5.5 U-profile steel section may also be used as the connecting piece. Section A-B. Qty 1: Insertion fork, Part 1, Material and dimensions: St 37.12.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 1. Horquilla de inserción para sustituir una rueda de rodadura. Escala 1:2,5. Como unión también puede emplearse un perfil en U de acero de 65x5,5. Sección A-B. Cant. 1: Horquilla de inserción, Pieza 1, Material y medidas: St 37.12.",
+          "runs": []
+        }
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-085",
+  "document_id": "d652-50a",
+  "page": 85,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 44,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-084", "next": "d65250a-page-086"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-085-01",
+      "number": 2,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 2. Spurlehre zum Ausfluchten der Laufrollen. Maßstab 1:1. Stückz. 2: Spurlehre III DB 130/2, 130/3, Werkstoff St 37.12; Stückz. 1: Spurlehre III DB 130/1, Werkstoff St 37.12. Teil III DB 130, Nr. 2.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Drawing 2. Track gauge for aligning the road wheels. Scale 1:1. Qty 2: Track gauge III DB 130/2, 130/3, Material St 37.12; Qty 1: Track gauge III DB 130/1, Material St 37.12. Part III DB 130, No. 2.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 2. Galga de alineación para las ruedas de rodadura. Escala 1:1. Cant. 2: Galga de alineación III DB 130/2, 130/3, Material St 37.12; Cant. 1: Galga de alineación III DB 130/1, Material St 37.12. Pieza III DB 130, N.º 2.",
+          "runs": []
+        }
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

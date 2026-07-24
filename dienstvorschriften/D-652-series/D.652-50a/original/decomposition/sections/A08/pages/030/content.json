@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-030",
+  "document_id": "d652-50a",
+  "page": 30,
+  "section": "A08",
+  "type": "figures",
+  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": "(Continued) 8. Removal of the inner races of the road-wheel bearings.", "es-ES": "(Continuación de:) 8. Desmontaje de los anillos interiores de los cojinetes de las ruedas de rodadura."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 16,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-029", "next": "d65250a-page-031"},
+  "paragraphs": [
+    {"id": "d65250a-p030-para01", "text": {"de": {"plain": "Die Abziehvorrichtung für den hinteren Lagerring in die Aussparungen des Abziehringes einsetzen.", "runs": [{"text": "Die Abziehvorrichtung für den hinteren Lagerring in die Aussparungen des Abziehringes einsetzen.", "bold": false}]}, "en-GB": {"plain": "Insert the puller for the rear bearing ring into the recesses of the puller ring.", "runs": [{"text": "Insert the puller for the rear bearing ring into the recesses of the puller ring.", "bold": false}]}, "es-ES": {"plain": "Insertar el extractor para el anillo de cojinete trasero en los rebajes del anillo extractor.", "runs": [{"text": "Insertar el extractor para el anillo de cojinete trasero en los rebajes del anillo extractor.", "bold": false}]}}},
+    {"id": "d65250a-p030-para02", "text": {"de": {"plain": "Den hinteren Lagerring vom Achsstummel abziehen. Die Spindel wird mit Schraubenschlüssel SW 32 gedreht.", "runs": [{"text": "Den hinteren Lagerring vom Achsstummel abziehen. Die Spindel wird mit Schraubenschlüssel SW 32 gedreht.", "bold": false}]}, "en-GB": {"plain": "Pull the rear bearing ring off the axle stub. The spindle is turned using a SW 32 spanner.", "runs": [{"text": "Pull the rear bearing ring off the axle stub. The spindle is turned using a SW 32 spanner.", "bold": false}]}, "es-ES": {"plain": "Retirar el anillo de cojinete trasero del muñón del eje. El husillo se gira con una llave SW 32.", "runs": [{"text": "Retirar el anillo de cojinete trasero del muñón del eje. El husillo se gira con una llave SW 32.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-043", "number": 43, "status": "draft", "captions": {"de": {"plain": "Abziehvorrichtung zum Ausbau der hinteren Innenringe der Laufrollenlager, Zeichn. 5a, S. 90.", "runs": [{"text": "Abziehvorrichtung zum Ausbau der hinteren Innenringe der Laufrollenlager, Zeichn. 5a, S. 90.", "bold": false}]}, "en-GB": {"plain": "Puller for removing the rear inner races of the road-wheel bearings, drawing 5a, p. 90.", "runs": [{"text": "Puller for removing the rear inner races of the road-wheel bearings, drawing 5a, p. 90.", "bold": false}]}, "es-ES": {"plain": "Extractor para el desmontaje de los anillos interiores traseros de los cojinetes de las ruedas de rodadura, plano 5a, p. 90.", "runs": [{"text": "Extractor para el desmontaje de los anillos interiores traseros de los cojinetes de las ruedas de rodadura, plano 5a, p. 90.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-044", "number": 44, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

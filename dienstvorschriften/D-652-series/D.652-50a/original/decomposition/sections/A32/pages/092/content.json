@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-092",
+  "document_id": "d652-50a",
+  "page": 92,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 47,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-091", "next": "d65250a-page-093"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-092-01",
+      "number": 8,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 8. Abziehvorrichtung zum Ausbau der Paßstifte. Maßstab 1:1. Teile: 1 Spindel (Werkstoff St 34.11), 2 Druckhülse (Werkstoff St 37.12), 3 Mutter DIN (Werkstoff St 34.11). Zeichnungsnummer III DB 100, Blatt 8.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Drawing 8. Puller for removing the dowel pins. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 100, sheet 8.",
+          "runs": [{"text": "Drawing 8. Puller for removing the dowel pins. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 100, sheet 8.", "bold": false}]
+        },
+        "es-ES": {
+          "plain": "Plano 8. Extractor para el desmontaje de las clavijas de ajuste. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 100, hoja 8.",
+          "runs": [{"text": "Plano 8. Extractor para el desmontaje de las clavijas de ajuste. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 100, hoja 8.", "bold": false}]
+        }
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

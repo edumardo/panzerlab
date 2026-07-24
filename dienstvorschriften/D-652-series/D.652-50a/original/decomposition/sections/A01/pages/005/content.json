@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-005",
+  "document_id": "d652-50a",
+  "page": 5,
+  "section": "A01",
+  "type": "text",
+  "titles": {"de": "Noch: 1. Ausbau eines Kettengliedes.", "en-GB": "(Continued) 1. Removing a track link.", "es-ES": "(Continuación) 1. Desmontaje de un eslabón de cadena."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 4,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-004", "next": "d65250a-page-006"},
+  "paragraphs": [
+    {"id": "d65250a-p005-para01", "text": {"de": {"plain": "Kettenschließer (früher Kettenspanner) einhängen.", "runs": [{"text": "Kettenschließer (früher Kettenspanner) einhängen.", "bold": false}]}, "en-GB": {"plain": "Attach the track closer (formerly track tensioner).", "runs": [{"text": "Attach the track closer (formerly track tensioner).", "bold": false}]}, "es-ES": {"plain": "Colocar el cerrador de cadena (anteriormente tensor de cadena).", "runs": [{"text": "Colocar el cerrador de cadena (anteriormente tensor de cadena).", "bold": false}]}}},
+    {"id": "d65250a-p005-para02", "text": {"de": {"plain": "Mit Brechstange den einen Kettenbolzen entlasten.", "runs": [{"text": "Mit Brechstange den einen Kettenbolzen entlasten.", "bold": false}]}, "en-GB": {"plain": "Use a crowbar to relieve the load on one track pin.", "runs": [{"text": "Use a crowbar to relieve the load on one track pin.", "bold": false}]}, "es-ES": {"plain": "Aliviar la carga de uno de los pasadores de la cadena con una barra de palanca.", "runs": [{"text": "Aliviar la carga de uno de los pasadores de la cadena con una barra de palanca.", "bold": false}]}}},
+    {"id": "d65250a-p005-para03", "text": {"de": {"plain": "Den einen Kettenbolzen mit neuem Kettenbolzen herausschlagen. Bei ausgeschlagenem Kettenbolzen ist es zweckmäßig, vorher den Kettenbolzen um 90° zu drehen.", "runs": [{"text": "Den einen Kettenbolzen mit neuem Kettenbolzen herausschlagen. Bei ausgeschlagenem Kettenbolzen ist es zweckmäßig, vorher den Kettenbolzen um 90° zu drehen.", "bold": false}]}, "en-GB": {"plain": "Drive out one track pin using a new track pin. Where the track pin is worn, it is advisable to turn the track pin through 90° beforehand.", "runs": [{"text": "Drive out one track pin using a new track pin. Where the track pin is worn, it is advisable to turn the track pin through 90° beforehand.", "bold": false}]}, "es-ES": {"plain": "Extraer uno de los pasadores de la cadena golpeando con un pasador nuevo. Si el pasador está desgastado, es conveniente girarlo previamente 90°.", "runs": [{"text": "Extraer uno de los pasadores de la cadena golpeando con un pasador nuevo. Si el pasador está desgastado, es conveniente girarlo previamente 90°.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-002", "number": 2, "status": "draft", "captions": {"de": {"plain": "Bild 2", "runs": []}, "en-GB": {"plain": "Figure 2", "runs": []}, "es-ES": {"plain": "Figura 2", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-003", "number": 3, "status": "draft", "captions": {"de": {"plain": "Bild 3", "runs": []}, "en-GB": {"plain": "Figure 3", "runs": []}, "es-ES": {"plain": "Figura 3", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

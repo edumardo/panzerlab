@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-020",
+  "document_id": "d652-50a",
+  "page": 20,
+  "section": "A06",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 11,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-019", "next": "d65250a-page-021"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-027", "number": 27, "status": "draft", "captions": {"de": {"plain": "Die Schraube der Ausziehvorrichtung von hinten in die Druckplatte einführen. Schraube so weit herumdrehen, bis der Haltestift am Kopf der Schraube in der Nute der Druckplatte sitzt.", "runs": []}, "en-GB": {"plain": "Insert the puller's screw into the pressure plate from behind. Turn the screw until the retaining pin on the screw head sits in the groove of the pressure plate.", "runs": []}, "es-ES": {"plain": "Introducir el tornillo del extractor por detrás en la placa de presión. Girar el tornillo hasta que el pasador de retención de la cabeza del tornillo quede alojado en la ranura de la placa de presión.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-028", "number": 28, "status": "draft", "captions": {"de": {"plain": "Die beiden Einlegbleche in die Ausdrehung unter den Abdichtring legen.", "runs": []}, "en-GB": {"plain": "Place the two insert plates in the recess under the seal ring.", "runs": []}, "es-ES": {"plain": "Colocar las dos chapas de inserción en el rebaje situado debajo del retén.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

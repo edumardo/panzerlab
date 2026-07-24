@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-071",
+  "document_id": "d652-50a",
+  "page": 71,
+  "section": "A25",
+  "type": "figures",
+  "titles": {"de": "Noch: 25. Ausbau der Scherscheibe an dem Kettenspanner älterer Ausführung.", "en-GB": "(continued) 25. Removal of the shear disc on the older-type track tensioner.", "es-ES": "(continuación de:) 25. Desmontaje del disco de cizalla en el tensor de cadena de tipo más antiguo."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 37,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-070", "next": "d65250a-page-072"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-104", "number": 104, "status": "draft", "captions": {"de": {"plain": "Die Buchse 1 und Scherscheibe 2 entfernen. Die Pfanne 3 braucht nicht entfernt werden.", "runs": [{"text": "Die Buchse 1 und Scherscheibe 2 entfernen. Die Pfanne 3 braucht nicht entfernt werden.", "bold": false}]}, "en-GB": {"plain": "Remove the bush 1 and the shear disc 2. The seat 3 does not need to be removed.", "runs": [{"text": "Remove the bush 1 and the shear disc 2. The seat 3 does not need to be removed.", "bold": false}]}, "es-ES": {"plain": "Retirar el buje 1 y el disco de cizalla 2. No es necesario retirar el asiento 3.", "runs": [{"text": "Retirar el buje 1 y el disco de cizalla 2. No es necesario retirar el asiento 3.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

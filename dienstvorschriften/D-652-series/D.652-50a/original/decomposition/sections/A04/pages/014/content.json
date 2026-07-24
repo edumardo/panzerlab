@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-014",
+  "document_id": "d652-50a",
+  "page": 14,
+  "section": "A04",
+  "type": "text",
+  "titles": {"de": "4. Einbau der Laufrolle", "en-GB": "4. Installation of the road wheel", "es-ES": "4. Montaje de la rueda de rodadura"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 8,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-013", "next": "d65250a-page-015"},
+  "paragraphs": [
+    {"id": "d65250a-p014-para01", "text": {"de": {"plain": "Beachten: Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Damit das Achsstummelgewinde nicht zerstört wird, muß die Kronenmutter aufgeschraubt werden.", "bold": false}]}, "en-GB": {"plain": "Note: To prevent damage to the stub-axle thread, the castle nut must be screwed on.", "runs": [{"text": "Note: ", "bold": true}, {"text": "To prevent damage to the stub-axle thread, the castle nut must be screwed on.", "bold": false}]}, "es-ES": {"plain": "Nota: Para no dañar la rosca del muñón del eje, debe enroscarse la tuerca almenada.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "Para no dañar la rosca del muñón del eje, debe enroscarse la tuerca almenada.", "bold": false}]}}},
+    {"id": "d65250a-p014-para02", "text": {"de": {"plain": "Den Schwingarm mit 380 mm hohem Holzklotz abstützen.", "runs": [{"text": "Den Schwingarm mit 380 mm hohem Holzklotz abstützen.", "bold": false}]}, "en-GB": {"plain": "Support the swing arm with a 380 mm high wooden block.", "runs": [{"text": "Support the swing arm with a 380 mm high wooden block.", "bold": false}]}, "es-ES": {"plain": "Apoyar el brazo oscilante sobre un tarugo de madera de 380 mm de altura.", "runs": [{"text": "Apoyar el brazo oscilante sobre un tarugo de madera de 380 mm de altura.", "bold": false}]}}},
+    {"id": "d65250a-p014-para03", "text": {"de": {"plain": "Die Laufrolle vorsichtig unter Drehung auf den Achsstummel aufschieben.", "runs": [{"text": "Die Laufrolle vorsichtig unter Drehung auf den Achsstummel aufschieben.", "bold": false}]}, "en-GB": {"plain": "Carefully slide the road wheel onto the stub axle while turning it.", "runs": [{"text": "Carefully slide the road wheel onto the stub axle while turning it.", "bold": false}]}, "es-ES": {"plain": "Deslizar con cuidado la rueda de rodadura sobre el muñón del eje girándola.", "runs": [{"text": "Deslizar con cuidado la rueda de rodadura sobre el muñón del eje girándola.", "bold": false}]}}},
+    {"id": "d65250a-p014-para04", "text": {"de": {"plain": "Beachten: Die Laufrollennabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Laufrollennabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "bold": false}]}, "en-GB": {"plain": "Note: Under no circumstances must the road-wheel hub be supported on the stub-axle thread during this, as this would otherwise destroy it.", "runs": [{"text": "Note: ", "bold": true}, {"text": "Under no circumstances must the road-wheel hub be supported on the stub-axle thread during this, as this would otherwise destroy it.", "bold": false}]}, "es-ES": {"plain": "Nota: El cubo de la rueda de rodadura no debe apoyarse en ningún caso sobre la rosca del muñón del eje, ya que de lo contrario esta se dañaría.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "El cubo de la rueda de rodadura no debe apoyarse en ningún caso sobre la rosca del muñón del eje, ya que de lo contrario esta se dañaría.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-019", "number": 19, "status": "draft", "captions": {"de": {"plain": "Den Schwingarm mit Winde anheben.", "runs": [{"text": "Den Schwingarm mit Winde anheben.", "bold": false}]}, "en-GB": {"plain": "Raise the swing arm with a jack.", "runs": [{"text": "Raise the swing arm with a jack.", "bold": false}]}, "es-ES": {"plain": "Levantar el brazo oscilante con un gato.", "runs": [{"text": "Levantar el brazo oscilante con un gato.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

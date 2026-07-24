@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-066",
+  "document_id": "d652-50a",
+  "page": 66,
+  "section": "A23",
+  "type": "figures",
+  "titles": {"de": "Noch: 23. Einbau der Leitradkurbel.", "en-GB": "(continued) 23. Installation of the idler crank.", "es-ES": "(continuación de:) 23. Montaje de la manivela de la rueda tensora."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 34,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-065", "next": "d65250a-page-067"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-095", "number": 95, "status": "draft", "captions": {"de": {"plain": "Den Gummiring 4, das Gummiband 3 und den Schlauchbinder 1 über die Kurbelhülse schieben. Die Leitradkurbel in die Lagerhülse einführen. Beachten: Die blanken Stellen der Kurbel müssen vorher eingefettet werden. Den Führungsring 7 und den Deckel 6, Gummiring 4 und Beilaghälften 8 werden zwischengefügt und befestigt.", "runs": [{"text": "Den Gummiring 4, das Gummiband 3 und den Schlauchbinder 1 über die Kurbelhülse schieben. Die Leitradkurbel in die Lagerhülse einführen. ", "bold": false}, {"text": "Beachten: ", "bold": true}, {"text": "Die blanken Stellen der Kurbel müssen vorher eingefettet werden. Den Führungsring 7 und den Deckel 6, Gummiring 4 und Beilaghälften 8 werden zwischengefügt und befestigt.", "bold": false}]}, "en-GB": {"plain": "Slide the rubber ring 4, the rubber band 3 and the hose clamp 1 over the crank sleeve. Insert the idler crank into the bearing sleeve. Note: The bare surfaces of the crank must be greased beforehand. Fit the guide ring 7 and the cover 6, rubber ring 4 and shim halves 8 in between and secure them.", "runs": [{"text": "Slide the rubber ring 4, the rubber band 3 and the hose clamp 1 over the crank sleeve. Insert the idler crank into the bearing sleeve. ", "bold": false}, {"text": "Note: ", "bold": true}, {"text": "The bare surfaces of the crank must be greased beforehand. Fit the guide ring 7 and the cover 6, rubber ring 4 and shim halves 8 in between and secure them.", "bold": false}]}, "es-ES": {"plain": "Deslizar el anillo de goma 4, la banda de goma 3 y la abrazadera de manguera 1 sobre el manguito de la manivela. Introducir la manivela de la rueda tensora en el manguito de cojinete. Nota: Las superficies desnudas de la manivela deben engrasarse previamente. Colocar el anillo guía 7 y la tapa 6, el anillo de goma 4 y las mitades de suplemento 8 intercalándolos y fijarlos.", "runs": [{"text": "Deslizar el anillo de goma 4, la banda de goma 3 y la abrazadera de manguera 1 sobre el manguito de la manivela. Introducir la manivela de la rueda tensora en el manguito de cojinete. ", "bold": false}, {"text": "Nota: ", "bold": true}, {"text": "Las superficies desnudas de la manivela deben engrasarse previamente. Colocar el anillo guía 7 y la tapa 6, el anillo de goma 4 y las mitades de suplemento 8 intercalándolos y fijarlos.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-096", "number": 96, "status": "draft", "captions": {"de": {"plain": "Die Befestigungsschrauben 5 mit Schraubenschlüssel SW 22 einschrauben und mit Draht sichern. Das Gummiband 3 über die Trennfuge zwischen Kurbelarm und Führungsring schieben.", "runs": [{"text": "Die Befestigungsschrauben 5 mit Schraubenschlüssel SW 22 einschrauben und mit Draht sichern. Das Gummiband 3 über die Trennfuge zwischen Kurbelarm und Führungsring schieben.", "bold": false}]}, "en-GB": {"plain": "Screw in the fixing screws 5 with a SW 22 spanner and secure them with wire. Slide the rubber band 3 over the joint between the crank arm and the guide ring.", "runs": [{"text": "Screw in the fixing screws 5 with a SW 22 spanner and secure them with wire. Slide the rubber band 3 over the joint between the crank arm and the guide ring.", "bold": false}]}, "es-ES": {"plain": "Enroscar los tornillos de fijación 5 con una llave SW 22 y asegurarlos con alambre. Deslizar la banda de goma 3 sobre la junta entre el brazo de la manivela y el anillo guía.", "runs": [{"text": "Enroscar los tornillos de fijación 5 con una llave SW 22 y asegurarlos con alambre. Deslizar la banda de goma 3 sobre la junta entre el brazo de la manivela y el anillo guía.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

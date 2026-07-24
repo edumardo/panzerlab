@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-009",
+  "document_id": "d652-50a",
+  "page": 9,
+  "section": "A03",
+  "type": "text",
+  "titles": {"de": "3. Ausbau der Laufrolle", "en-GB": "3. Removing the road wheel", "es-ES": "3. Desmontaje de la rueda de rodadura"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 6,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-008", "next": "d65250a-page-010"},
+  "paragraphs": [
+    {"id": "d65250a-p009-para01", "text": {"de": {"plain": "Die Befestigungsschrauben mit Steckschlüssel SW 17 herausschrauben.", "runs": [{"text": "Die Befestigungsschrauben mit Steckschlüssel SW 17 herausschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the securing bolts using a size SW 17 socket spanner.", "runs": [{"text": "Unscrew the securing bolts using a size SW 17 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar los tornillos de fijación con una llave de vaso SW 17.", "runs": [{"text": "Desenroscar los tornillos de fijación con una llave de vaso SW 17.", "bold": false}]}}},
+    {"id": "d65250a-p009-para02", "text": {"de": {"plain": "Die Schutzkappe mit Dichtung abnehmen. Auf Beilagscheibe zwischen Schutzkappe und Lagerring achten.", "runs": [{"text": "Die Schutzkappe mit Dichtung abnehmen. Auf Beilagscheibe zwischen Schutzkappe und Lagerring achten.", "bold": false}]}, "en-GB": {"plain": "Remove the protective cap together with the gasket. Note the shim washer between the protective cap and the bearing ring.", "runs": [{"text": "Remove the protective cap together with the gasket. Note the shim washer between the protective cap and the bearing ring.", "bold": false}]}, "es-ES": {"plain": "Retirar la tapa protectora junto con la junta. Prestar atención a la arandela de ajuste entre la tapa protectora y el anillo del cojinete.", "runs": [{"text": "Retirar la tapa protectora junto con la junta. Prestar atención a la arandela de ajuste entre la tapa protectora y el anillo del cojinete.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-009", "number": 9, "status": "draft", "captions": {"de": {"plain": "Bild 9 u 10. Die Blechsicherungen an den Befestigungsschrauben der Schutzkappe mit Hammer und Meißel geradebiegen. Beachten: Die Blechsicherungen dürfen nicht abgeschlagen werden, da sonst eine Wiederverwendung unmöglich ist.", "runs": []}, "en-GB": {"plain": "Figures 9 and 10. Straighten the sheet-metal locks on the securing bolts of the protective cap using a hammer and chisel. Note: the sheet-metal locks must not be knocked off, otherwise reuse will be impossible.", "runs": []}, "es-ES": {"plain": "Figuras 9 y 10. Enderezar las chapas de seguridad de los tornillos de fijación de la tapa protectora con martillo y cincel. Nota: las chapas de seguridad no deben desprenderse a golpes, ya que de lo contrario resultaría imposible su reutilización.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-010", "number": 10, "status": "draft", "captions": {"de": {"plain": "Bild 9 u 10. Die Blechsicherungen an den Befestigungsschrauben der Schutzkappe mit Hammer und Meißel geradebiegen. Beachten: Die Blechsicherungen dürfen nicht abgeschlagen werden, da sonst eine Wiederverwendung unmöglich ist.", "runs": []}, "en-GB": {"plain": "Figures 9 and 10. Straighten the sheet-metal locks on the securing bolts of the protective cap using a hammer and chisel. Note: the sheet-metal locks must not be knocked off, otherwise reuse will be impossible.", "runs": []}, "es-ES": {"plain": "Figuras 9 y 10. Enderezar las chapas de seguridad de los tornillos de fijación de la tapa protectora con martillo y cincel. Nota: las chapas de seguridad no deben desprenderse a golpes, ya que de lo contrario resultaría imposible su reutilización.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

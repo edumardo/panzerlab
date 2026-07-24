@@ -1,0 +1,18 @@
+{
+  "id": "A09",
+  "pages": [
+    32,
+    33
+  ],
+  "titles": {
+    "de": "9. Einbau der Innenringe der Laufrollenlager",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

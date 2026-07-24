@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-063",
+  "document_id": "d652-50a",
+  "page": 63,
+  "section": "A22",
+  "type": "text",
+  "titles": {"de": "Noch: 22. Ausbau der Leitradkurbel.", "en-GB": "Continued: 22. Removal of the idler crank.", "es-ES": "Continuación: 22. Desmontaje de la manivela de la rueda tensora."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 33,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-062", "next": "d65250a-page-064"},
+  "paragraphs": [
+    {"id": "d65250a-p063-para01", "text": {"de": {"plain": "Die Drahtsicherung von den Befestigungsschrauben herausziehen.", "runs": [{"text": "Die Drahtsicherung von den Befestigungsschrauben herausziehen.", "bold": false}]}, "en-GB": {"plain": "Pull the wire lock out from the fixing bolts.", "runs": [{"text": "Pull the wire lock out from the fixing bolts.", "bold": false}]}, "es-ES": {"plain": "Extraer el alambre de seguridad de los tornillos de fijación.", "runs": [{"text": "Extraer el alambre de seguridad de los tornillos de fijación.", "bold": false}]}}},
+    {"id": "d65250a-p063-para02", "text": {"de": {"plain": "Die Befestigungsschrauben mit Schraubenschlüssel SW 22 herausschrauben.", "runs": [{"text": "Die Befestigungsschrauben mit Schraubenschlüssel SW 22 herausschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the fixing bolts using a SW 22 spanner.", "runs": [{"text": "Unscrew the fixing bolts using a SW 22 spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar los tornillos de fijación con una llave SW 22.", "runs": [{"text": "Desenroscar los tornillos de fijación con una llave SW 22.", "bold": false}]}}},
+    {"id": "d65250a-p063-para03", "text": {"de": {"plain": "Beide Deckelhälften und die Beilaghälften entfernen, s. auch Bild 94.", "runs": [{"text": "Beide Deckelhälften und die Beilaghälften entfernen, s. auch Bild 94.", "bold": false}]}, "en-GB": {"plain": "Remove both cover halves and the shim halves, see also Figure 94.", "runs": [{"text": "Remove both cover halves and the shim halves, see also Figure 94.", "bold": false}]}, "es-ES": {"plain": "Retirar ambas mitades de la tapa y las mitades de la arandela de ajuste, véase también la Figura 94.", "runs": [{"text": "Retirar ambas mitades de la tapa y las mitades de la arandela de ajuste, véase también la Figura 94.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-090", "number": 90, "status": "draft", "captions": {"de": {"plain": "Bild 90", "runs": []}, "en-GB": {"plain": "Figure 90", "runs": []}, "es-ES": {"plain": "Figura 90", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-091", "number": 91, "status": "draft", "captions": {"de": {"plain": "Bild 91", "runs": []}, "en-GB": {"plain": "Figure 91", "runs": []}, "es-ES": {"plain": "Figura 91", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

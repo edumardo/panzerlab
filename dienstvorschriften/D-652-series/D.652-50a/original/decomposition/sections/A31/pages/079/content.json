@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-079",
+  "document_id": "d652-50a",
+  "page": 79,
+  "section": "A31",
+  "type": "text",
+  "titles": {"de": "31. Einbau des Triebrades", "en-GB": "31. Installation of the drive wheel", "es-ES": "31. Montaje de la rueda motriz"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 41,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-078", "next": "d65250a-page-080"},
+  "paragraphs": [
+    {"id": "d65250a-p079-para01", "text": {"de": {"plain": "Das Triebrad auf die Nabe schieben. Die Befestigungsschrauben müssen den Bohrungen gegenüberstehen. Der Paßstift muß der Paßbohrung ebenfalls genau gegenüberstehen.", "runs": [{"text": "Das Triebrad auf die Nabe schieben. Die Befestigungsschrauben müssen den Bohrungen gegenüberstehen. Der Paßstift muß der Paßbohrung ebenfalls genau gegenüberstehen.", "bold": false}]}, "en-GB": {"plain": "Push the drive wheel onto the hub. The fixing screws must align with the holes. The dowel pin must also align exactly with the dowel hole.", "runs": [{"text": "Push the drive wheel onto the hub. The fixing screws must align with the holes. The dowel pin must also align exactly with the dowel hole.", "bold": false}]}, "es-ES": {"plain": "Empujar la rueda motriz sobre el cubo. Los tornillos de fijación deben quedar enfrentados con los orificios. El pasador de ajuste también debe quedar exactamente enfrentado con el orificio de ajuste.", "runs": [{"text": "Empujar la rueda motriz sobre el cubo. Los tornillos de fijación deben quedar enfrentados con los orificios. El pasador de ajuste también debe quedar exactamente enfrentado con el orificio de ajuste.", "bold": false}]}}},
+    {"id": "d65250a-p079-para02", "text": {"de": {"plain": "Das Triebrad mit Holzklotz und Vorschlaghammer gleichmäßig auf die Nabe auftreiben.", "runs": [{"text": "Das Triebrad mit Holzklotz und Vorschlaghammer gleichmäßig auf die Nabe auftreiben.", "bold": false}]}, "en-GB": {"plain": "Drive the drive wheel evenly onto the hub using a wooden block and a sledgehammer.", "runs": [{"text": "Drive the drive wheel evenly onto the hub using a wooden block and a sledgehammer.", "bold": false}]}, "es-ES": {"plain": "Introducir la rueda motriz uniformemente sobre el cubo golpeando con un taco de madera y un mazo.", "runs": [{"text": "Introducir la rueda motriz uniformemente sobre el cubo golpeando con un taco de madera y un mazo.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-116", "number": 116, "status": "draft", "captions": {"de": {"plain": "Bild 116", "runs": []}, "en-GB": {"plain": "Figure 116", "runs": []}, "es-ES": {"plain": "Figura 116", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-117", "number": 117, "status": "draft", "captions": {"de": {"plain": "Bild 117", "runs": []}, "en-GB": {"plain": "Figure 117", "runs": []}, "es-ES": {"plain": "Figura 117", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

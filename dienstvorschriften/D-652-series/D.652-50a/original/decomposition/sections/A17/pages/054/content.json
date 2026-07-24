@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-054",
+  "document_id": "d652-50a",
+  "page": 54,
+  "section": "A17",
+  "type": "text",
+  "titles": {"de": "17. Einbau der Schwingarmlager", "en-GB": "17. Fitting the swing-arm bearings", "es-ES": "17. Montaje de los cojinetes del brazo oscilante"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 28,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-053", "next": "d65250a-page-055"},
+  "paragraphs": [
+    {"id": "d65250a-p054-para01", "text": {"de": {"plain": "1. Ringmutter\n2. Sicherungsblech\n3. Innenring des Schwingarmlagers\n4. Führungsring\n5. Abstandbuchse\n6. Nadellager\n7. Druckring\n8. Abdichtring (Simmerring)\n9. Schutzkappe\n10. Gummiring.", "runs": [{"text": "1. Ringmutter\n2. Sicherungsblech\n3. Innenring des Schwingarmlagers\n4. Führungsring\n5. Abstandbuchse\n6. Nadellager\n7. Druckring\n8. Abdichtring (Simmerring)\n9. Schutzkappe\n10. Gummiring.", "bold": false}]}, "en-GB": {"plain": "1. Ring nut\n2. Lock plate\n3. Inner race of the swing-arm bearing\n4. Guide ring\n5. Spacer sleeve\n6. Needle bearing\n7. Thrust ring\n8. Sealing ring (Simmerring)\n9. Protective cap\n10. Rubber ring.", "runs": [{"text": "1. Ring nut\n2. Lock plate\n3. Inner race of the swing-arm bearing\n4. Guide ring\n5. Spacer sleeve\n6. Needle bearing\n7. Thrust ring\n8. Sealing ring (Simmerring)\n9. Protective cap\n10. Rubber ring.", "bold": false}]}, "es-ES": {"plain": "1. Tuerca anular\n2. Chapa de seguridad\n3. Anillo interior del cojinete del brazo oscilante\n4. Anillo guía\n5. Manguito distanciador\n6. Cojinete de agujas\n7. Anillo de presión\n8. Anillo obturador (simmerring)\n9. Caperuza protectora\n10. Anillo de goma.", "runs": [{"text": "1. Tuerca anular\n2. Chapa de seguridad\n3. Anillo interior del cojinete del brazo oscilante\n4. Anillo guía\n5. Manguito distanciador\n6. Cojinete de agujas\n7. Anillo de presión\n8. Anillo obturador (simmerring)\n9. Caperuza protectora\n10. Anillo de goma.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-080", "number": 80, "status": "draft", "captions": {"de": {"plain": "Bild 80", "runs": []}, "en-GB": {"plain": "Figure 80", "runs": []}, "es-ES": {"plain": "Figura 80", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

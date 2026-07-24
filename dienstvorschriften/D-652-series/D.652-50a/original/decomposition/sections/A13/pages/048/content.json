@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-048",
+  "document_id": "d652-50a",
+  "page": 48,
+  "section": "A13",
+  "type": "text",
+  "titles": {"de": "Noch: 13. Einbau der Drehstabfeder.", "en-GB": "(continued) 13. Fitting the torsion-bar spring.", "es-ES": "(continuación de:) 13. Montaje de la barra de torsión."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 25,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-047", "next": "d65250a-page-049"},
+  "paragraphs": [
+    {"id": "d65250a-p048-para01", "text": {"de": {"plain": "Die Zwischenbleche und die Druckscheibe aufbringen.", "runs": [{"text": "Die Zwischenbleche und die Druckscheibe aufbringen.", "bold": false}]}, "en-GB": {"plain": "Fit the shims and the thrust washer.", "runs": [{"text": "Fit the shims and the thrust washer.", "bold": false}]}, "es-ES": {"plain": "Colocar las chapas intermedias y la arandela de presión.", "runs": [{"text": "Colocar las chapas intermedias y la arandela de presión.", "bold": false}]}}},
+    {"id": "d65250a-p048-para02", "text": {"de": {"plain": "Die Hauptmutter mit Steckschlüssel SW 50 aufschrauben.", "runs": [{"text": "Die Hauptmutter mit Steckschlüssel SW 50 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the main nut using a SW 50 socket spanner.", "runs": [{"text": "Screw on the main nut using a SW 50 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la tuerca principal con una llave de vaso SW 50.", "runs": [{"text": "Enroscar la tuerca principal con una llave de vaso SW 50.", "bold": false}]}}},
+    {"id": "d65250a-p048-para03", "text": {"de": {"plain": "Durch Abdrücken des Schwingarmes mit einer Brechstange prüfen, ob 0,2 mm Spiel vorhanden ist.", "runs": [{"text": "Durch Abdrücken des Schwingarmes mit einer Brechstange prüfen, ob 0,2 mm Spiel vorhanden ist.", "bold": false}]}, "en-GB": {"plain": "Check, by levering the swing arm off with a crowbar, whether there is 0.2 mm of play.", "runs": [{"text": "Check, by levering the swing arm off with a crowbar, whether there is 0.2 mm of play.", "bold": false}]}, "es-ES": {"plain": "Comprobar, haciendo palanca en el brazo oscilante con una barra, si existe un juego de 0,2 mm.", "runs": [{"text": "Comprobar, haciendo palanca en el brazo oscilante con una barra, si existe un juego de 0,2 mm.", "bold": false}]}}},
+    {"id": "d65250a-p048-para04", "text": {"de": {"plain": "Blechsicherung einlegen.", "runs": [{"text": "Blechsicherung einlegen.", "bold": false}]}, "en-GB": {"plain": "Insert the sheet-metal lock.", "runs": [{"text": "Insert the sheet-metal lock.", "bold": false}]}, "es-ES": {"plain": "Colocar la chapa de seguridad.", "runs": [{"text": "Colocar la chapa de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p048-para05", "text": {"de": {"plain": "Die Gegenmutter mit Steckschlüssel SW 42 aufschrauben.", "runs": [{"text": "Die Gegenmutter mit Steckschlüssel SW 42 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the counter nut using a SW 42 socket spanner.", "runs": [{"text": "Screw on the counter nut using a SW 42 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la contratuerca con una llave de vaso SW 42.", "runs": [{"text": "Enroscar la contratuerca con una llave de vaso SW 42.", "bold": false}]}}},
+    {"id": "d65250a-p048-para06", "text": {"de": {"plain": "Die Blechsicherung zur Gegenmutter umbiegen.", "runs": [{"text": "Die Blechsicherung zur Gegenmutter umbiegen.", "bold": false}]}, "en-GB": {"plain": "Bend the sheet-metal lock over against the counter nut.", "runs": [{"text": "Bend the sheet-metal lock over against the counter nut.", "bold": false}]}, "es-ES": {"plain": "Doblar la chapa de seguridad contra la contratuerca.", "runs": [{"text": "Doblar la chapa de seguridad contra la contratuerca.", "bold": false}]}}},
+    {"id": "d65250a-p048-para07", "text": {"de": {"plain": "Dichtung zur Verschlußkappe einlegen.", "runs": [{"text": "Dichtung zur Verschlußkappe einlegen.", "bold": false}]}, "en-GB": {"plain": "Insert the gasket for the closing cap.", "runs": [{"text": "Insert the gasket for the closing cap.", "bold": false}]}, "es-ES": {"plain": "Colocar la junta de la tapa de cierre.", "runs": [{"text": "Colocar la junta de la tapa de cierre.", "bold": false}]}}},
+    {"id": "d65250a-p048-para08", "text": {"de": {"plain": "Die Verschlußkappe mit Steckschlüssel SW 28 einschrauben.", "runs": [{"text": "Die Verschlußkappe mit Steckschlüssel SW 28 einschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw in the closing cap using a SW 28 socket spanner.", "runs": [{"text": "Screw in the closing cap using a SW 28 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la tapa de cierre con una llave de vaso SW 28.", "runs": [{"text": "Enroscar la tapa de cierre con una llave de vaso SW 28.", "bold": false}]}}},
+    {"id": "d65250a-p048-para09", "text": {"de": {"plain": "Laufrollen nach Abschn. 4, S. 15, einbauen.", "runs": [{"text": "Laufrollen nach Abschn. 4, S. 15, einbauen.", "bold": false}]}, "en-GB": {"plain": "Fit the road wheels as described in Section 4, p. 15.", "runs": [{"text": "Fit the road wheels as described in Section 4, p. 15.", "bold": false}]}, "es-ES": {"plain": "Montar las ruedas de rodadura según el apartado 4, p. 15.", "runs": [{"text": "Montar las ruedas de rodadura según el apartado 4, p. 15.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-071", "number": 71, "status": "draft", "captions": {"de": {"plain": "Bild 71", "runs": []}, "en-GB": {"plain": "Figure 71", "runs": []}, "es-ES": {"plain": "Figura 71", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

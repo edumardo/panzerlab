@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-078",
+  "document_id": "d652-50a",
+  "page": 78,
+  "section": "A30",
+  "type": "text",
+  "titles": {"de": "Noch: 30. Ausbau des Triebrades.", "en-GB": "(continued) 30. Removal of the drive wheel.", "es-ES": "(continuación de:) 30. Desmontaje de la rueda motriz."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 40,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-077", "next": "d65250a-page-079"},
+  "paragraphs": [
+    {"id": "d65250a-p078-para01", "text": {"de": {"plain": "Die vier Abdrückschrauben Nr. III DB 81 über Kreuz einschrauben und gleichmäßig anziehen.", "runs": [{"text": "Die vier Abdrückschrauben Nr. III DB 81 über Kreuz einschrauben und gleichmäßig anziehen.", "bold": false}]}, "en-GB": {"plain": "Screw in the four extractor screws No. III DB 81 diagonally opposite each other and tighten evenly.", "runs": [{"text": "Screw in the four extractor screws No. III DB 81 diagonally opposite each other and tighten evenly.", "bold": false}]}, "es-ES": {"plain": "Enroscar los cuatro tornillos extractores n.º III DB 81 en cruz y apretarlos uniformemente.", "runs": [{"text": "Enroscar los cuatro tornillos extractores n.º III DB 81 en cruz y apretarlos uniformemente.", "bold": false}]}}},
+    {"id": "d65250a-p078-para02", "text": {"de": {"plain": "Beachten: Das Triebrad muß gleichmäßig von der Nabe kommen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Das Triebrad muß gleichmäßig von der Nabe kommen.", "bold": false}]}, "en-GB": {"plain": "Note: The drive wheel must come off the hub evenly.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The drive wheel must come off the hub evenly.", "bold": false}]}, "es-ES": {"plain": "Nota: La rueda motriz debe salir uniformemente del cubo.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "La rueda motriz debe salir uniformemente del cubo.", "bold": false}]}}},
+    {"id": "d65250a-p078-para03", "text": {"de": {"plain": "Das Triebrad von der Nabe ziehen.", "runs": [{"text": "Das Triebrad von der Nabe ziehen.", "bold": false}]}, "en-GB": {"plain": "Pull the drive wheel off the hub.", "runs": [{"text": "Pull the drive wheel off the hub.", "bold": false}]}, "es-ES": {"plain": "Extraer la rueda motriz del cubo.", "runs": [{"text": "Extraer la rueda motriz del cubo.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-114", "number": 114, "status": "draft", "captions": {"de": {"plain": "Bild 114", "runs": []}, "en-GB": {"plain": "Figure 114", "runs": []}, "es-ES": {"plain": "Figura 114", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-115", "number": 115, "status": "draft", "captions": {"de": {"plain": "Bild 115", "runs": []}, "en-GB": {"plain": "Figure 115", "runs": []}, "es-ES": {"plain": "Figura 115", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

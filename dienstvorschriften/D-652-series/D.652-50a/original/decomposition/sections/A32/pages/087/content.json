@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-087",
+  "document_id": "d652-50a",
+  "page": 87,
+  "section": "A32",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 45,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-086", "next": "d65250a-page-088"},
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250a-bild-087-01",
+      "number": 4,
+      "status": "draft",
+      "captions": {
+        "de": {
+          "plain": "Zeichnung 4. Stempel zum Einbau der Laufrollenlager. Maßstab 1:1. Stückz. 1: Griff, Werkstoff St 37.12; Stückz. 1: Stempelplatte, Werkstoff St 37.12. Teil 4.",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Drawing 4. Punch for installing the road-wheel bearings. Scale 1:1. Qty 1: Handle, Material St 37.12; Qty 1: Punch plate, Material St 37.12. Part 4.",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Plano 4. Punzón para el montaje de los cojinetes de las ruedas de rodadura. Escala 1:1. Cant. 1: Mango, Material St 37.12; Cant. 1: Placa del punzón, Material St 37.12. Pieza 4.",
+          "runs": []
+        }
+      },
+      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+    }
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

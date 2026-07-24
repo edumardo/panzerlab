@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-013",
+  "document_id": "d652-50a",
+  "page": 13,
+  "section": "A03",
+  "type": "figures",
+  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": "Continued: 3. Removal of the road wheel.", "es-ES": "Continuación: 3. Desmontaje de la rueda de rodadura."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 8,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-012", "next": "d65250a-page-014"},
+  "paragraphs": [
+    {"id": "d65250a-p013-para01", "text": {"de": {"plain": "Beachten: Zur Schonung des Achsstummelgewindes Mutter auf Gewinde aufschrauben.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Zur Schonung des Achsstummelgewindes Mutter auf Gewinde aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Note: To protect the stub-axle thread, screw the nut onto the thread.", "runs": [{"text": "Note: ", "bold": true}, {"text": "To protect the stub-axle thread, screw the nut onto the thread.", "bold": false}]}, "es-ES": {"plain": "Nota: Para proteger la rosca del muñón del eje, enroscar la tuerca sobre la rosca.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "Para proteger la rosca del muñón del eje, enroscar la tuerca sobre la rosca.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-017", "number": 17, "status": "draft", "captions": {"de": {"plain": "Die Druckscheibe (1), die Beilagscheiben (2) und den Schulterring (3) entfernen.", "runs": [{"text": "Die Druckscheibe (1), die Beilagscheiben (2) und den Schulterring (3) entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the thrust washer (1), the shims (2) and the shoulder ring (3).", "runs": [{"text": "Remove the thrust washer (1), the shims (2) and the shoulder ring (3).", "bold": false}]}, "es-ES": {"plain": "Retirar la arandela de empuje (1), las arandelas de ajuste (2) y el anillo de tope (3).", "runs": [{"text": "Retirar la arandela de empuje (1), las arandelas de ajuste (2) y el anillo de tope (3).", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-018", "number": 18, "status": "draft", "captions": {"de": {"plain": "Die Laufrolle vorsichtig vom Achsenstummel abziehen.", "runs": [{"text": "Die Laufrolle vorsichtig vom Achsenstummel abziehen.", "bold": false}]}, "en-GB": {"plain": "Carefully pull the road wheel off the stub axle.", "runs": [{"text": "Carefully pull the road wheel off the stub axle.", "bold": false}]}, "es-ES": {"plain": "Extraer con cuidado la rueda de rodadura del muñón del eje.", "runs": [{"text": "Extraer con cuidado la rueda de rodadura del muñón del eje.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

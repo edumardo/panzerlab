@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-010",
+  "document_id": "d652-50a",
+  "page": 10,
+  "section": "A03",
+  "type": "figures",
+  "titles": {"de": "Noch: 3. Ausbau der Laufrolle.", "en-GB": "Continued: 3. Removal of the road wheel.", "es-ES": "Continuación: 3. Desmontaje de la rueda de rodadura."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 6,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-009", "next": "d65250a-page-011"},
+  "paragraphs": [
+    {"id": "d65250a-p010-para01", "text": {"de": {"plain": "1) Die endgültige Ausführung dieses Sd-Werkzeuges kann sich noch ändern.", "runs": [{"text": "1) Die endgültige Ausführung dieses Sd-Werkzeuges kann sich noch ändern.", "bold": false}]}, "en-GB": {"plain": "1) The final design of this special tool may still change.", "runs": [{"text": "1) The final design of this special tool may still change.", "bold": false}]}, "es-ES": {"plain": "1) El diseño definitivo de esta herramienta especial puede sufrir todavía modificaciones.", "runs": [{"text": "1) El diseño definitivo de esta herramienta especial puede sufrir todavía modificaciones.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-011", "number": 11, "status": "draft", "captions": {"de": {"plain": "Steckgabel zum Ausbau der Laufrollen, Zeichnung 1, S. 85¹).", "runs": [{"text": "Steckgabel zum Ausbau der Laufrollen, Zeichnung 1, S. 85¹).", "bold": false}]}, "en-GB": {"plain": "Puller fork for removing the road wheels, drawing 1, p. 85¹).", "runs": [{"text": "Puller fork for removing the road wheels, drawing 1, p. 85¹).", "bold": false}]}, "es-ES": {"plain": "Horquilla extractora para el desmontaje de las ruedas de rodadura, plano 1, p. 85¹).", "runs": [{"text": "Horquilla extractora para el desmontaje de las ruedas de rodadura, plano 1, p. 85¹).", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-012", "number": 12, "status": "draft", "captions": {"de": {"plain": "Die Steckgabel waagerecht in die Laufrolle einführen.", "runs": [{"text": "Die Steckgabel waagerecht in die Laufrolle einführen.", "bold": false}]}, "en-GB": {"plain": "Insert the puller fork horizontally into the road wheel.", "runs": [{"text": "Insert the puller fork horizontally into the road wheel.", "bold": false}]}, "es-ES": {"plain": "Introducir la horquilla extractora horizontalmente en la rueda de rodadura.", "runs": [{"text": "Introducir la horquilla extractora horizontalmente en la rueda de rodadura.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-059",
+  "document_id": "d652-50a",
+  "page": 59,
+  "section": "A20",
+  "type": "text",
+  "titles": {"de": "Noch: 20. Ausbau des Leitrades.", "en-GB": "Continued: 20. Removal of the idler wheel.", "es-ES": "Continuación: 20. Desmontaje de la rueda tensora."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 31,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-058", "next": "d65250a-page-060"},
+  "paragraphs": [
+    {"id": "d65250a-p059-para01", "text": {"de": {"plain": "Das Sicherungsblech 1, die Druckscheibe 2 und den Schulterring 3 abnehmen.", "runs": [{"text": "Das Sicherungsblech 1, die Druckscheibe 2 und den Schulterring 3 abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the locking plate 1, the thrust washer 2 and the shoulder ring 3.", "runs": [{"text": "Remove the locking plate 1, the thrust washer 2 and the shoulder ring 3.", "bold": false}]}, "es-ES": {"plain": "Retirar la chapa de seguridad 1, la arandela de presión 2 y el anillo de tope 3.", "runs": [{"text": "Retirar la chapa de seguridad 1, la arandela de presión 2 y el anillo de tope 3.", "bold": false}]}}},
+    {"id": "d65250a-p059-para02", "text": {"de": {"plain": "Das Leitrad vorsichtig vom Achsstummel ziehen.", "runs": [{"text": "Das Leitrad vorsichtig vom Achsstummel ziehen.", "bold": false}]}, "en-GB": {"plain": "Carefully pull the idler wheel off the stub axle.", "runs": [{"text": "Carefully pull the idler wheel off the stub axle.", "bold": false}]}, "es-ES": {"plain": "Extraer con cuidado la rueda tensora del muñón de eje.", "runs": [{"text": "Extraer con cuidado la rueda tensora del muñón de eje.", "bold": false}]}}},
+    {"id": "d65250a-p059-para03", "text": {"de": {"plain": "Beachten: Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "bold": false}]}, "en-GB": {"plain": "Note: The idler-wheel hub must never be supported on the stub-axle thread while doing this, as this would otherwise destroy it.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The idler-wheel hub must never be supported on the stub-axle thread while doing this, as this would otherwise destroy it.", "bold": false}]}, "es-ES": {"plain": "Nota: El cubo de la rueda tensora no debe apoyarse en ningún caso sobre la rosca del muñón de eje, ya que de lo contrario esta se destruiría.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "El cubo de la rueda tensora no debe apoyarse en ningún caso sobre la rosca del muñón de eje, ya que de lo contrario esta se destruiría.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-086", "number": 86, "status": "draft", "captions": {"de": {"plain": "Bild 86", "runs": []}, "en-GB": {"plain": "Figure 86", "runs": []}, "es-ES": {"plain": "Figura 86", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-072",
+  "document_id": "d652-50a",
+  "page": 72,
+  "section": "A26",
+  "type": "text",
+  "titles": {"de": "26. Einbau der Scherscheibe an dem Kettenspanner neuerer Ausführung", "en-GB": "26. Installation of the shear disc on the newer-type track tensioner", "es-ES": "26. Montaje del disco de cizalla en el tensor de cadena de tipo más reciente"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 37,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-071", "next": "d65250a-page-073"},
+  "paragraphs": [
+    {"id": "d65250a-p072-para01", "text": {"de": {"plain": "Die Pfanne und die Scherscheibe einsetzen.", "runs": [{"text": "Die Pfanne und die Scherscheibe einsetzen.", "bold": false}]}, "en-GB": {"plain": "Insert the seat and the shear disc.", "runs": [{"text": "Insert the seat and the shear disc.", "bold": false}]}, "es-ES": {"plain": "Colocar el asiento y el disco de cizalla.", "runs": [{"text": "Colocar el asiento y el disco de cizalla.", "bold": false}]}}},
+    {"id": "d65250a-p072-para02", "text": {"de": {"plain": "Die Spannschraube mit Steckschlüssel SW 60 einschrauben.", "runs": [{"text": "Die Spannschraube mit Steckschlüssel SW 60 einschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw in the tensioning screw with a SW 60 socket spanner.", "runs": [{"text": "Screw in the tensioning screw with a SW 60 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar el tornillo tensor con una llave de vaso SW 60.", "runs": [{"text": "Enroscar el tornillo tensor con una llave de vaso SW 60.", "bold": false}]}}},
+    {"id": "d65250a-p072-para03", "text": {"de": {"plain": "Die Gegenmutter mit Steckschlüssel SW 60 aufschrauben.", "runs": [{"text": "Die Gegenmutter mit Steckschlüssel SW 60 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the counter nut with a SW 60 socket spanner.", "runs": [{"text": "Screw on the counter nut with a SW 60 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la contratuerca con una llave de vaso SW 60.", "runs": [{"text": "Enroscar la contratuerca con una llave de vaso SW 60.", "bold": false}]}}},
+    {"id": "d65250a-p072-para04", "text": {"de": {"plain": "Die Gegenmutter durch Blechsicherung sichern.", "runs": [{"text": "Die Gegenmutter durch Blechsicherung sichern.", "bold": false}]}, "en-GB": {"plain": "Secure the counter nut with a sheet-metal lock.", "runs": [{"text": "Secure the counter nut with a sheet-metal lock.", "bold": false}]}, "es-ES": {"plain": "Asegurar la contratuerca con una chapa de seguridad.", "runs": [{"text": "Asegurar la contratuerca con una chapa de seguridad.", "bold": false}]}}},
+    {"id": "d65250a-p072-para05", "text": {"de": {"plain": "27. Einbau der Scherscheibe an dem Kettenspanner älterer Ausführung", "runs": [{"text": "27. Einbau der Scherscheibe", "bold": true}, {"text": " an dem Kettenspanner älterer Ausführung", "bold": false}]}, "en-GB": {"plain": "27. Installation of the shear disc on the older-type track tensioner", "runs": [{"text": "27. Installation of the shear disc", "bold": true}, {"text": " on the older-type track tensioner", "bold": false}]}, "es-ES": {"plain": "27. Montaje del disco de cizalla en el tensor de cadena de tipo más antiguo", "runs": [{"text": "27. Montaje del disco de cizalla", "bold": true}, {"text": " en el tensor de cadena de tipo más antiguo", "bold": false}]}}},
+    {"id": "d65250a-p072-para06", "text": {"de": {"plain": "Die Scherscheibe und die Buchse einsetzen.", "runs": [{"text": "Die Scherscheibe und die Buchse einsetzen.", "bold": false}]}, "en-GB": {"plain": "Insert the shear disc and the bush.", "runs": [{"text": "Insert the shear disc and the bush.", "bold": false}]}, "es-ES": {"plain": "Colocar el disco de cizalla y el buje.", "runs": [{"text": "Colocar el disco de cizalla y el buje.", "bold": false}]}}},
+    {"id": "d65250a-p072-para07", "text": {"de": {"plain": "Die Spannmutter mit Steckschlüssel SW 60 aufschrauben.", "runs": [{"text": "Die Spannmutter mit Steckschlüssel SW 60 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the tensioning nut with a SW 60 socket spanner.", "runs": [{"text": "Screw on the tensioning nut with a SW 60 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la tuerca tensora con una llave de vaso SW 60.", "runs": [{"text": "Enroscar la tuerca tensora con una llave de vaso SW 60.", "bold": false}]}}},
+    {"id": "d65250a-p072-para08", "text": {"de": {"plain": "Die Gegenmutter mit Steckschlüssel SW 60 aufschrauben.", "runs": [{"text": "Die Gegenmutter mit Steckschlüssel SW 60 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw on the counter nut with a SW 60 socket spanner.", "runs": [{"text": "Screw on the counter nut with a SW 60 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar la contratuerca con una llave de vaso SW 60.", "runs": [{"text": "Enroscar la contratuerca con una llave de vaso SW 60.", "bold": false}]}}},
+    {"id": "d65250a-p072-para09", "text": {"de": {"plain": "Die Gegenmutter durch Blechsicherung sichern.", "runs": [{"text": "Die Gegenmutter durch Blechsicherung sichern.", "bold": false}]}, "en-GB": {"plain": "Secure the counter nut with a sheet-metal lock.", "runs": [{"text": "Secure the counter nut with a sheet-metal lock.", "bold": false}]}, "es-ES": {"plain": "Asegurar la contratuerca con una chapa de seguridad.", "runs": [{"text": "Asegurar la contratuerca con una chapa de seguridad.", "bold": false}]}}}
+  ],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "not_applicable"}
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-037",
+  "document_id": "d652-50a",
+  "page": 37,
+  "section": "A11",
+  "type": "figures",
+  "titles": {"de": "11. Einbau des Schwingungsdämpfers", "en-GB": "11. Fitting the vibration damper", "es-ES": "11. Montaje del amortiguador de vibraciones"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 20,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-036", "next": "d65250a-page-038"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-053", "number": 53, "status": "draft", "captions": {"de": {"plain": "Die Schwingungsdämpfergabel auf das Schwingarmauge aufsetzen.", "runs": [{"text": "Die Schwingungsdämpfergabel auf das Schwingarmauge aufsetzen.", "bold": false}]}, "en-GB": {"plain": "Fit the vibration-damper fork onto the swing-arm eye.", "runs": [{"text": "Fit the vibration-damper fork onto the swing-arm eye.", "bold": false}]}, "es-ES": {"plain": "Colocar la horquilla del amortiguador de vibraciones sobre el ojo del brazo oscilante.", "runs": [{"text": "Colocar la horquilla del amortiguador de vibraciones sobre el ojo del brazo oscilante.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "BackMatter",
+  "pages": [
+    99,
+    100,
+    101
+  ],
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

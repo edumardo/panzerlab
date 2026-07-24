@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-007",
+  "document_id": "d652-50a",
+  "page": 7,
+  "section": "A02",
+  "type": "text",
+  "titles": {"de": "2. Einbau eines Kettengliedes", "en-GB": "2. Fitting a track link", "es-ES": "2. Montaje de un eslabón de cadena"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 5,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-006", "next": "d65250a-page-008"},
+  "paragraphs": [
+    {"id": "d65250a-p007-para01", "text": {"de": {"plain": "Öffnen der Kette nach Abschnitt 1, S. 5.", "runs": [{"text": "Öffnen der Kette nach Abschnitt 1, S. 5.", "bold": false}]}, "en-GB": {"plain": "Open the track as described in Section 1, p. 5.", "runs": [{"text": "Open the track as described in Section 1, p. 5.", "bold": false}]}, "es-ES": {"plain": "Abrir la cadena según el apartado 1, p. 5.", "runs": [{"text": "Abrir la cadena según el apartado 1, p. 5.", "bold": false}]}}},
+    {"id": "d65250a-p007-para02", "text": {"de": {"plain": "Das einzubauende Kettenglied an das auf dem Boden liegende Kettenende legen.", "runs": [{"text": "Das einzubauende Kettenglied an das auf dem Boden liegende Kettenende legen.", "bold": false}]}, "en-GB": {"plain": "Place the track link to be fitted against the end of the track lying on the ground.", "runs": [{"text": "Place the track link to be fitted against the end of the track lying on the ground.", "bold": false}]}, "es-ES": {"plain": "Colocar el eslabón de cadena que se va a montar junto al extremo de la cadena que está en el suelo.", "runs": [{"text": "Colocar el eslabón de cadena que se va a montar junto al extremo de la cadena que está en el suelo.", "bold": false}]}}},
+    {"id": "d65250a-p007-para03", "text": {"de": {"plain": "Den einen Kettenbolzen am Boden einschlagen.", "runs": [{"text": "Den einen Kettenbolzen am Boden einschlagen.", "bold": false}]}, "en-GB": {"plain": "Drive in one track pin at ground level.", "runs": [{"text": "Drive in one track pin at ground level.", "bold": false}]}, "es-ES": {"plain": "Introducir a golpes uno de los pasadores de la cadena en el suelo.", "runs": [{"text": "Introducir a golpes uno de los pasadores de la cadena en el suelo.", "bold": false}]}}},
+    {"id": "d65250a-p007-para04", "text": {"de": {"plain": "Das freie Kettenende gegen das Triebrad legen.", "runs": [{"text": "Das freie Kettenende gegen das Triebrad legen.", "bold": false}]}, "en-GB": {"plain": "Lay the free end of the track against the drive wheel.", "runs": [{"text": "Lay the free end of the track against the drive wheel.", "bold": false}]}, "es-ES": {"plain": "Colocar el extremo libre de la cadena contra la rueda motriz.", "runs": [{"text": "Colocar el extremo libre de la cadena contra la rueda motriz.", "bold": false}]}}},
+    {"id": "d65250a-p007-para05", "text": {"de": {"plain": "Den Kettenschließer ansetzen.", "runs": [{"text": "Den Kettenschließer ansetzen.", "bold": false}]}, "en-GB": {"plain": "Attach the track closer.", "runs": [{"text": "Attach the track closer.", "bold": false}]}, "es-ES": {"plain": "Colocar el cerrador de cadena.", "runs": [{"text": "Colocar el cerrador de cadena.", "bold": false}]}}},
+    {"id": "d65250a-p007-para06", "text": {"de": {"plain": "Das untere Kettenende mit Brechstange anheben.", "runs": [{"text": "Das untere Kettenende mit Brechstange anheben.", "bold": false}]}, "en-GB": {"plain": "Lift the lower end of the track using a crowbar.", "runs": [{"text": "Lift the lower end of the track using a crowbar.", "bold": false}]}, "es-ES": {"plain": "Levantar el extremo inferior de la cadena con una barra de palanca.", "runs": [{"text": "Levantar el extremo inferior de la cadena con una barra de palanca.", "bold": false}]}}},
+    {"id": "d65250a-p007-para07", "text": {"de": {"plain": "Den zweiten Kettenbolzen von innen nach außen einschlagen.", "runs": [{"text": "Den zweiten Kettenbolzen von innen nach außen einschlagen.", "bold": false}]}, "en-GB": {"plain": "Drive in the second track pin from the inside to the outside.", "runs": [{"text": "Drive in the second track pin from the inside to the outside.", "bold": false}]}, "es-ES": {"plain": "Introducir a golpes el segundo pasador de la cadena de dentro hacia fuera.", "runs": [{"text": "Introducir a golpes el segundo pasador de la cadena de dentro hacia fuera.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-005", "number": 5, "status": "draft", "captions": {"de": {"plain": "Bild 5", "runs": []}, "en-GB": {"plain": "Figure 5", "runs": []}, "es-ES": {"plain": "Figura 5", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-006", "number": 6, "status": "draft", "captions": {"de": {"plain": "Bild 6", "runs": []}, "en-GB": {"plain": "Figure 6", "runs": []}, "es-ES": {"plain": "Figura 6", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

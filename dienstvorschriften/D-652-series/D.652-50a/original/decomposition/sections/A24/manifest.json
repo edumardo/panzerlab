@@ -1,0 +1,18 @@
+{
+  "id": "A24",
+  "pages": [
+    68,
+    69
+  ],
+  "titles": {
+    "de": "24. Ausbau der Scherscheibe an dem Kettenspanner neuerer Ausführung",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

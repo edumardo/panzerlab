@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-040",
+  "document_id": "d652-50a",
+  "page": 40,
+  "section": "A12",
+  "type": "figures",
+  "titles": {"de": "12. Ausbau der Drehstabfeder", "en-GB": "12. Removing the torsion-bar spring", "es-ES": "12. Desmontaje de la barra de torsión"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 21,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-039", "next": "d65250a-page-041"},
+  "paragraphs": [
+    {"id": "d65250a-p040-para01", "text": {"de": {"plain": "Die Befestigungsschrauben der Deckplatte an der Unterseite der Panzerwanne mit Steckschlüssel SW 19 herausschrauben.", "runs": [{"text": "Die Befestigungsschrauben der Deckplatte an der Unterseite der Panzerwanne mit Steckschlüssel SW 19 herausschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew the fixing screws of the cover plate on the underside of the tank hull using a size-19 socket spanner.", "runs": [{"text": "Unscrew the fixing screws of the cover plate on the underside of the tank hull using a size-19 socket spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar los tornillos de fijación de la placa de cierre en la parte inferior del casco del carro con una llave de vaso SW 19.", "runs": [{"text": "Desenroscar los tornillos de fijación de la placa de cierre en la parte inferior del casco del carro con una llave de vaso SW 19.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-057", "number": 57, "status": "draft", "captions": {"de": {"plain": "Die Blechsicherungen geradebiegen.", "runs": [{"text": "Die Blechsicherungen geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the sheet-metal locks.", "runs": [{"text": "Straighten the sheet-metal locks.", "bold": false}]}, "es-ES": {"plain": "Enderezar las chapas de seguridad.", "runs": [{"text": "Enderezar las chapas de seguridad.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-058", "number": 58, "status": "draft", "captions": {"de": {"plain": "Deckplatte mit Dichtung abnehmen.", "runs": [{"text": "Deckplatte mit Dichtung abnehmen.", "bold": false}]}, "en-GB": {"plain": "Remove the cover plate together with the gasket.", "runs": [{"text": "Remove the cover plate together with the gasket.", "bold": false}]}, "es-ES": {"plain": "Retirar la placa de cierre junto con la junta.", "runs": [{"text": "Retirar la placa de cierre junto con la junta.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-055",
+  "document_id": "d652-50a",
+  "page": 55,
+  "section": "A17",
+  "type": "text",
+  "titles": {"de": "Noch: 17. Einbau der Schwingarmlager.", "en-GB": "Continued: 17. Installation of the swing-arm bearings.", "es-ES": "Continuación: 17. Montaje de los cojinetes del brazo oscilante."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 29,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-054", "next": "d65250a-page-056"},
+  "paragraphs": [
+    {"id": "d65250a-p055-para01", "text": {"de": {"plain": "Den Gummiring aufschieben.", "runs": [{"text": "Den Gummiring aufschieben.", "bold": false}]}, "en-GB": {"plain": "Slide on the rubber ring.", "runs": [{"text": "Slide on the rubber ring.", "bold": false}]}, "es-ES": {"plain": "Deslizar el anillo de goma.", "runs": [{"text": "Deslizar el anillo de goma.", "bold": false}]}}},
+    {"id": "d65250a-p055-para02", "text": {"de": {"plain": "Die Schutzkappe mit Abdichtring (Simmerring) mit Holzklotz und Hammer aufschlagen. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Die Schutzkappe mit Abdichtring (Simmerring) mit Holzklotz und Hammer aufschlagen. Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": false}]}, "en-GB": {"plain": "Drive on the protective cap with sealing ring (oil seal) using a wooden block and hammer. The seating faces are coated with oil beforehand.", "runs": [{"text": "Drive on the protective cap with sealing ring (oil seal) using a wooden block and hammer. The seating faces are coated with oil beforehand.", "bold": false}]}, "es-ES": {"plain": "Golpear la tapa protectora con el anillo obturador (retén) con un taco de madera y un martillo. Las superficies de asiento se untan previamente con aceite.", "runs": [{"text": "Golpear la tapa protectora con el anillo obturador (retén) con un taco de madera y un martillo. Las superficies de asiento se untan previamente con aceite.", "bold": false}]}}},
+    {"id": "d65250a-p055-para03", "text": {"de": {"plain": "Beachten: Paßstift der Schutzkappe muß an Ausfräsung des Schwingarmes zur Anlage kommen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Paßstift der Schutzkappe muß an Ausfräsung des Schwingarmes zur Anlage kommen.", "bold": false}]}, "en-GB": {"plain": "Note: The dowel pin of the protective cap must seat against the milled recess of the swing arm.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The dowel pin of the protective cap must seat against the milled recess of the swing arm.", "bold": false}]}, "es-ES": {"plain": "Nota: El pasador de ajuste de la tapa protectora debe quedar asentado contra el rebaje fresado del brazo oscilante.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "El pasador de ajuste de la tapa protectora debe quedar asentado contra el rebaje fresado del brazo oscilante.", "bold": false}]}}},
+    {"id": "d65250a-p055-para04", "text": {"de": {"plain": "Den Druckring aufbringen.", "runs": [{"text": "Den Druckring aufbringen.", "bold": false}]}, "en-GB": {"plain": "Fit the thrust ring.", "runs": [{"text": "Fit the thrust ring.", "bold": false}]}, "es-ES": {"plain": "Montar el anillo de presión.", "runs": [{"text": "Montar el anillo de presión.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-081", "number": 81, "status": "draft", "captions": {"de": {"plain": "Bild 81", "runs": []}, "en-GB": {"plain": "Figure 81", "runs": []}, "es-ES": {"plain": "Figura 81", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

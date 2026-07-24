@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-044",
+  "document_id": "d652-50a",
+  "page": 44,
+  "section": "A12",
+  "type": "figures",
+  "titles": {"de": "Noch: 12. Ausbau der Drehstabfeder.", "en-GB": "(continued) 12. Removing the torsion-bar spring.", "es-ES": "(continuación de:) 12. Desmontaje de la barra de torsión."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 23,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-043", "next": "d65250a-page-045"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-064", "number": 64, "status": "draft", "captions": {"de": {"plain": "Die Spindel der Abziehvorrichtung Nr. III DB 101 auf das Gewinde der Drehstabfeder mit Schraubenschlüssel SW 18 aufschrauben.", "runs": [{"text": "Die Spindel der Abziehvorrichtung Nr. III DB 101 auf das Gewinde der Drehstabfeder mit Schraubenschlüssel SW 18 aufschrauben.", "bold": false}]}, "en-GB": {"plain": "Screw the spindle of puller No. III DB 101 onto the thread of the torsion-bar spring using a size-18 spanner.", "runs": [{"text": "Screw the spindle of puller No. III DB 101 onto the thread of the torsion-bar spring using a size-18 spanner.", "bold": false}]}, "es-ES": {"plain": "Enroscar el husillo del extractor n.º III DB 101 sobre la rosca de la barra de torsión con una llave SW 18.", "runs": [{"text": "Enroscar el husillo del extractor n.º III DB 101 sobre la rosca de la barra de torsión con una llave SW 18.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-065", "number": 65, "status": "draft", "captions": {"de": {"plain": "Die gebrochene Drehstabfeder durch Herausdrehen der Spindel etwa 12 bis 15 mm aus dem Schwingarm ziehen. Die Mutter wird mit Schraubenschlüssel SW 32 angezogen.", "runs": [{"text": "Die gebrochene Drehstabfeder durch Herausdrehen der Spindel etwa 12 bis 15 mm aus dem Schwingarm ziehen. Die Mutter wird mit Schraubenschlüssel SW 32 angezogen.", "bold": false}]}, "en-GB": {"plain": "Pull the broken torsion-bar spring about 12 to 15 mm out of the swing arm by unscrewing the spindle. The nut is tightened with a size-32 spanner.", "runs": [{"text": "Pull the broken torsion-bar spring about 12 to 15 mm out of the swing arm by unscrewing the spindle. The nut is tightened with a size-32 spanner.", "bold": false}]}, "es-ES": {"plain": "Extraer la barra de torsión rota unos 12 a 15 mm del brazo oscilante desenroscando el husillo. La tuerca se aprieta con una llave SW 32.", "runs": [{"text": "Extraer la barra de torsión rota unos 12 a 15 mm del brazo oscilante desenroscando el husillo. La tuerca se aprieta con una llave SW 32.", "bold": false}]}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

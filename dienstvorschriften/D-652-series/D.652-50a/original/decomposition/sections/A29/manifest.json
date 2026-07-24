@@ -1,0 +1,18 @@
+{
+  "id": "A29",
+  "pages": [
+    74,
+    75
+  ],
+  "titles": {
+    "de": "29. Einbau des Zahnkranzes am Triebrad",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

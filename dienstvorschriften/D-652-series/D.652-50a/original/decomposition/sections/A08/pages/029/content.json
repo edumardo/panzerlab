@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-029",
+  "document_id": "d652-50a",
+  "page": 29,
+  "section": "A08",
+  "type": "text",
+  "titles": {"de": "Noch: 8. Ausbau der Innenringe der Laufrollenlager.", "en-GB": "(Continued) 8. Removal of the inner races of the road-wheel bearings.", "es-ES": "(Continuación de:) 8. Desmontaje de los anillos interiores de los cojinetes de las ruedas de rodadura."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 16,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-028", "next": "d65250a-page-030"},
+  "paragraphs": [
+    {"id": "d65250a-p029-para01", "text": {"de": {"plain": "Die Blechsicherungen an den Befestigungsschrauben des Gleitringes geradebiegen.", "runs": [{"text": "Die Blechsicherungen an den Befestigungsschrauben des Gleitringes geradebiegen.", "bold": false}]}, "en-GB": {"plain": "Straighten the sheet-metal locks on the mounting screws of the sliding ring.", "runs": [{"text": "Straighten the sheet-metal locks on the mounting screws of the sliding ring.", "bold": false}]}, "es-ES": {"plain": "Enderezar las chapas de seguridad de los tornillos de fijación del anillo deslizante.", "runs": [{"text": "Enderezar las chapas de seguridad de los tornillos de fijación del anillo deslizante.", "bold": false}]}}},
+    {"id": "d65250a-p029-para02", "text": {"de": {"plain": "Beide Befestigungsschrauben des Gleitringes mit Schraubenschlüssel SW 14 herausschrauben.", "runs": [{"text": "Beide Befestigungsschrauben des Gleitringes mit Schraubenschlüssel SW 14 herausschrauben.", "bold": false}]}, "en-GB": {"plain": "Unscrew both mounting screws of the sliding ring using a SW 14 spanner.", "runs": [{"text": "Unscrew both mounting screws of the sliding ring using a SW 14 spanner.", "bold": false}]}, "es-ES": {"plain": "Desenroscar ambos tornillos de fijación del anillo deslizante con una llave SW 14.", "runs": [{"text": "Desenroscar ambos tornillos de fijación del anillo deslizante con una llave SW 14.", "bold": false}]}}},
+    {"id": "d65250a-p029-para03", "text": {"de": {"plain": "Gleitring abziehen.", "runs": [{"text": "Gleitring abziehen.", "bold": false}]}, "en-GB": {"plain": "Pull off the sliding ring.", "runs": [{"text": "Pull off the sliding ring.", "bold": false}]}, "es-ES": {"plain": "Retirar el anillo deslizante.", "runs": [{"text": "Retirar el anillo deslizante.", "bold": false}]}}},
+    {"id": "d65250a-p029-para04", "text": {"de": {"plain": "Abstandbuchse entfernen.", "runs": [{"text": "Abstandbuchse entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the spacer sleeve.", "runs": [{"text": "Remove the spacer sleeve.", "bold": false}]}, "es-ES": {"plain": "Retirar el manguito distanciador.", "runs": [{"text": "Retirar el manguito distanciador.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-042", "number": 42, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

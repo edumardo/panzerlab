@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-099",
+  "document_id": "d652-50a",
+  "page": 99,
+  "section": "BackMatter",
+  "type": "blank",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 51,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-098", "next": "d65250a-page-100"},
+  "paragraphs": [],
+  "figures": [],
+  "status": {"transcription": "draft", "en-GB": "not_applicable", "es-ES": "not_applicable", "figures": "not_applicable"}
+}

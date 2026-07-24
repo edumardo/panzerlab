@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-074",
+  "document_id": "d652-50a",
+  "page": 74,
+  "section": "A29",
+  "type": "text",
+  "titles": {"de": "29. Einbau des Zahnkranzes am Triebrad", "en-GB": "29. Installation of the sprocket ring on the drive wheel", "es-ES": "29. Montaje de la corona dentada en la rueda motriz"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 38,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-073", "next": "d65250a-page-075"},
+  "paragraphs": [
+    {"id": "d65250a-p074-para01", "text": {"de": {"plain": "Den Zahnkranz auf das Triebrad stecken.", "runs": [{"text": "Den Zahnkranz auf das Triebrad stecken.", "bold": false}]}, "en-GB": {"plain": "Fit the sprocket ring onto the drive wheel.", "runs": [{"text": "Fit the sprocket ring onto the drive wheel.", "bold": false}]}, "es-ES": {"plain": "Colocar la corona dentada sobre la rueda motriz.", "runs": [{"text": "Colocar la corona dentada sobre la rueda motriz.", "bold": false}]}}},
+    {"id": "d65250a-p074-para02", "text": {"de": {"plain": "Die Bohrungen des Zahnkranzes und des Triebrades mit zwei eingesetzten Schraubenbolzen in eine Flucht bringen.", "runs": [{"text": "Die Bohrungen des Zahnkranzes und des Triebrades mit zwei eingesetzten Schraubenbolzen in eine Flucht bringen.", "bold": false}]}, "en-GB": {"plain": "Align the holes of the sprocket ring and the drive wheel using two inserted bolts.", "runs": [{"text": "Align the holes of the sprocket ring and the drive wheel using two inserted bolts.", "bold": false}]}, "es-ES": {"plain": "Alinear los orificios de la corona dentada y de la rueda motriz mediante dos pernos insertados.", "runs": [{"text": "Alinear los orificios de la corona dentada y de la rueda motriz mediante dos pernos insertados.", "bold": false}]}}},
+    {"id": "d65250a-p074-para03", "text": {"de": {"plain": "Beachten: Die Zähne beider Zahnkränze müssen einander gegenüberstehen.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Zähne beider Zahnkränze müssen einander gegenüberstehen.", "bold": false}]}, "en-GB": {"plain": "Note: The teeth of both sprocket rings must be aligned opposite each other.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The teeth of both sprocket rings must be aligned opposite each other.", "bold": false}]}, "es-ES": {"plain": "Nota: Los dientes de ambas coronas dentadas deben quedar exactamente enfrentados entre sí.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "Los dientes de ambas coronas dentadas deben quedar exactamente enfrentados entre sí.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-107", "number": 107, "status": "draft", "captions": {"de": {"plain": "Bild 107", "runs": []}, "en-GB": {"plain": "Figure 107", "runs": []}, "es-ES": {"plain": "Figura 107", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-108", "number": 108, "status": "draft", "captions": {"de": {"plain": "Bild 108", "runs": []}, "en-GB": {"plain": "Figure 108", "runs": []}, "es-ES": {"plain": "Figura 108", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-025",
+  "document_id": "d652-50a",
+  "page": 25,
+  "section": "A07",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 14,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-024", "next": "d65250a-page-026"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-035", "number": 35, "status": "draft", "captions": {"de": {"plain": "Stempel zum Einbau der Laufrollenlager, Zeichn. 4, S. 88.", "runs": []}, "en-GB": {"plain": "Punch for installing the road-wheel bearings, Drawing 4, p. 88.", "runs": []}, "es-ES": {"plain": "Punzón para el montaje de los cojinetes de la rueda de rodadura, plano 4, p. 88.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-036", "number": 36, "status": "draft", "captions": {"de": {"plain": "Die Rollenlager mit Stempel und Hammer in die Laufrollennabe einschlagen. Die Sitzflächen sind vorher mit Öl zu bestreichen.", "runs": []}, "en-GB": {"plain": "Drive the bearings into the road-wheel hub using the punch and hammer. The seating surfaces must be coated with oil beforehand.", "runs": []}, "es-ES": {"plain": "Introducir los cojinetes a golpes en el cubo de la rueda de rodadura con el punzón y el martillo. Las superficies de asiento deben untarse previamente con aceite.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

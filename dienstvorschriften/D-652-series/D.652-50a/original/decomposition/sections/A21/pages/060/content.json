@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-060",
+  "document_id": "d652-50a",
+  "page": 60,
+  "section": "A21",
+  "type": "text",
+  "titles": {"de": "21. Einbau des Leitrades", "en-GB": "21. Installation of the idler wheel", "es-ES": "21. Montaje de la rueda tensora"},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 31,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-059", "next": "d65250a-page-061"},
+  "paragraphs": [
+    {"id": "d65250a-p060-para01", "text": {"de": {"plain": "Das Leitrad vorsichtig auf den Achsstummel schieben.", "runs": [{"text": "Das Leitrad vorsichtig auf den Achsstummel schieben.", "bold": false}]}, "en-GB": {"plain": "Carefully slide the idler wheel onto the stub axle.", "runs": [{"text": "Carefully slide the idler wheel onto the stub axle.", "bold": false}]}, "es-ES": {"plain": "Deslizar con cuidado la rueda tensora sobre el muñón de eje.", "runs": [{"text": "Deslizar con cuidado la rueda tensora sobre el muñón de eje.", "bold": false}]}}},
+    {"id": "d65250a-p060-para02", "text": {"de": {"plain": "Beachten: Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "runs": [{"text": "Beachten: ", "bold": true}, {"text": "Die Leitradnabe darf dabei auf keinen Fall auf dem Achsstummelgewinde abgestützt werden, da dieses sonst zerstört wird.", "bold": false}]}, "en-GB": {"plain": "Note: The idler-wheel hub must never be supported on the stub-axle thread while doing this, as this would otherwise destroy it.", "runs": [{"text": "Note: ", "bold": true}, {"text": "The idler-wheel hub must never be supported on the stub-axle thread while doing this, as this would otherwise destroy it.", "bold": false}]}, "es-ES": {"plain": "Nota: El cubo de la rueda tensora no debe apoyarse en ningún caso sobre la rosca del muñón de eje, ya que de lo contrario esta se destruiría.", "runs": [{"text": "Nota: ", "bold": true}, {"text": "El cubo de la rueda tensora no debe apoyarse en ningún caso sobre la rosca del muñón de eje, ya que de lo contrario esta se destruiría.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-087", "number": 87, "status": "draft", "captions": {"de": {"plain": "Bild 87", "runs": []}, "en-GB": {"plain": "Figure 87", "runs": []}, "es-ES": {"plain": "Figura 87", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

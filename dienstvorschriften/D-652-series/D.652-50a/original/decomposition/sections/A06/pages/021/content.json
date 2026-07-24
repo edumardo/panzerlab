@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-021",
+  "document_id": "d652-50a",
+  "page": 21,
+  "section": "A06",
+  "type": "figures",
+  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 12,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-020", "next": "d65250a-page-022"},
+  "paragraphs": [],
+  "figures": [
+    {"id": "d65250a-bild-029", "number": 29, "status": "draft", "captions": {"de": {"plain": "Den Drucksteg über die Zugschraube legen.", "runs": []}, "en-GB": {"plain": "Place the pressure bar over the draw screw.", "runs": []}, "es-ES": {"plain": "Colocar el puente de presión sobre el tornillo tensor.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-030", "number": 30, "status": "draft", "captions": {"de": {"plain": "Scheibe auf Drucksteg legen und Mutter aufschrauben.", "runs": []}, "en-GB": {"plain": "Place the washer on the pressure bar and screw on the nut.", "runs": []}, "es-ES": {"plain": "Colocar la arandela sobre el puente de presión y enroscar la tuerca.", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

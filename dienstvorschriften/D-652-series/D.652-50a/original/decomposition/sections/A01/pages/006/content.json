@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-006",
+  "document_id": "d652-50a",
+  "page": 6,
+  "section": "A01",
+  "type": "text",
+  "titles": {"de": "Noch: 1. Ausbau eines Kettengliedes.", "en-GB": "(Continued) 1. Removing a track link.", "es-ES": "(Continuación) 1. Desmontaje de un eslabón de cadena."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 4,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-005", "next": "d65250a-page-007"},
+  "paragraphs": [
+    {"id": "d65250a-p006-para01", "text": {"de": {"plain": "Das freie Kettenende auf den Boden legen.", "runs": [{"text": "Das freie Kettenende auf den Boden legen.", "bold": false}]}, "en-GB": {"plain": "Lay the free end of the track on the ground.", "runs": [{"text": "Lay the free end of the track on the ground.", "bold": false}]}, "es-ES": {"plain": "Colocar el extremo libre de la cadena en el suelo.", "runs": [{"text": "Colocar el extremo libre de la cadena en el suelo.", "bold": false}]}}},
+    {"id": "d65250a-p006-para02", "text": {"de": {"plain": "Den zweiten Kettenbolzen mit neuem Kettenbolzen herausschlagen. Vorher den Kettenbolzen um 90° drehen.", "runs": [{"text": "Den zweiten Kettenbolzen mit neuem Kettenbolzen herausschlagen. Vorher den Kettenbolzen um 90° drehen.", "bold": false}]}, "en-GB": {"plain": "Drive out the second track pin using a new track pin. Turn the track pin through 90° beforehand.", "runs": [{"text": "Drive out the second track pin using a new track pin. Turn the track pin through 90° beforehand.", "bold": false}]}, "es-ES": {"plain": "Extraer el segundo pasador de la cadena golpeando con un pasador nuevo. Girar previamente el pasador 90°.", "runs": [{"text": "Extraer el segundo pasador de la cadena golpeando con un pasador nuevo. Girar previamente el pasador 90°.", "bold": false}]}}},
+    {"id": "d65250a-p006-para03", "text": {"de": {"plain": "Das Kettenglied entfernen.", "runs": [{"text": "Das Kettenglied entfernen.", "bold": false}]}, "en-GB": {"plain": "Remove the track link.", "runs": [{"text": "Remove the track link.", "bold": false}]}, "es-ES": {"plain": "Retirar el eslabón de cadena.", "runs": [{"text": "Retirar el eslabón de cadena.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-004", "number": 4, "status": "draft", "captions": {"de": {"plain": "Bild 4", "runs": []}, "en-GB": {"plain": "Figure 4", "runs": []}, "es-ES": {"plain": "Figura 4", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}

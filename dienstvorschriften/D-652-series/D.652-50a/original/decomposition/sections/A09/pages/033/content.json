@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "d65250a-page-033",
+  "document_id": "d652-50a",
+  "page": 33,
+  "section": "A09",
+  "type": "text",
+  "titles": {"de": "Noch: 9. Einbau der Innenringe der Laufrollenlager.", "en-GB": "(Continued) 9. Installation of the inner races of the road-wheel bearings.", "es-ES": "(Continuación de:) 9. Montaje de los anillos interiores de los cojinetes de las ruedas de rodadura."},
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 18,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "navigation": {"previous": "d65250a-page-032", "next": "d65250a-page-034"},
+  "paragraphs": [
+    {"id": "d65250a-p033-para01", "text": {"de": {"plain": "Den hinteren Lagerring mit einem von der Truppe selbst beschafften passenden Rohrstück und Hammer auf den Achsstummel auftreiben. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Den hinteren Lagerring mit einem von der Truppe selbst ", "bold": false}, {"text": "beschafften", "bold": true}, {"text": " passenden Rohrstück und Hammer auf den Achsstummel auftreiben. ", "bold": false}, {"text": "Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": true}]}, "en-GB": {"plain": "Drive the rear bearing ring onto the axle stub using a suitable piece of pipe procured by the unit itself and a hammer. The seating surfaces are coated with oil beforehand.", "runs": [{"text": "Drive the rear bearing ring onto the axle stub using a suitable piece of pipe ", "bold": false}, {"text": "procured", "bold": true}, {"text": " by the unit itself and a hammer. ", "bold": false}, {"text": "The seating surfaces are coated with oil beforehand.", "bold": true}]}, "es-ES": {"plain": "Introducir a golpes el anillo de cojinete trasero en el muñón del eje empleando un trozo de tubo adecuado, procurado por la propia tropa, y un martillo. Las superficies de asiento se untan previamente con aceite.", "runs": [{"text": "Introducir a golpes el anillo de cojinete trasero en el muñón del eje empleando un trozo de tubo adecuado, ", "bold": false}, {"text": "procurado", "bold": true}, {"text": " por la propia tropa, y un martillo. ", "bold": false}, {"text": "Las superficies de asiento se untan previamente con aceite.", "bold": true}]}}},
+    {"id": "d65250a-p033-para02", "text": {"de": {"plain": "Die Abstandbuchse auf den Achsstummel aufbringen.", "runs": [{"text": "Die Abstandbuchse auf den Achsstummel aufbringen.", "bold": false}]}, "en-GB": {"plain": "Fit the spacer sleeve onto the axle stub.", "runs": [{"text": "Fit the spacer sleeve onto the axle stub.", "bold": false}]}, "es-ES": {"plain": "Colocar el manguito distanciador sobre el muñón del eje.", "runs": [{"text": "Colocar el manguito distanciador sobre el muñón del eje.", "bold": false}]}}},
+    {"id": "d65250a-p033-para03", "text": {"de": {"plain": "Den vorderen Lagerring mit Rohrstück und Hammer auf den Achsstummel auftreiben. Die Sitzflächen werden vorher mit Öl bestrichen.", "runs": [{"text": "Den vorderen Lagerring mit Rohrstück und Hammer auf den Achsstummel auftreiben. ", "bold": false}, {"text": "Die Sitzflächen werden vorher mit Öl bestrichen.", "bold": true}]}, "en-GB": {"plain": "Drive the front bearing ring onto the axle stub using a piece of pipe and a hammer. The seating surfaces are coated with oil beforehand.", "runs": [{"text": "Drive the front bearing ring onto the axle stub using a piece of pipe and a hammer. ", "bold": false}, {"text": "The seating surfaces are coated with oil beforehand.", "bold": true}]}, "es-ES": {"plain": "Introducir a golpes el anillo de cojinete delantero en el muñón del eje empleando un trozo de tubo y un martillo. Las superficies de asiento se untan previamente con aceite.", "runs": [{"text": "Introducir a golpes el anillo de cojinete delantero en el muñón del eje empleando un trozo de tubo y un martillo. ", "bold": false}, {"text": "Las superficies de asiento se untan previamente con aceite.", "bold": true}]}}},
+    {"id": "d65250a-p033-para04", "text": {"de": {"plain": "Die Laufrolle nach Abschn. 4, S. 15, einbauen.", "runs": [{"text": "Die Laufrolle nach Abschn. 4, S. 15, einbauen.", "bold": false}]}, "en-GB": {"plain": "Fit the road wheel as described in Section 4, p. 15.", "runs": [{"text": "Fit the road wheel as described in Section 4, p. 15.", "bold": false}]}, "es-ES": {"plain": "Montar la rueda de rodadura según el apartado 4, p. 15.", "runs": [{"text": "Montar la rueda de rodadura según el apartado 4, p. 15.", "bold": false}]}}}
+  ],
+  "figures": [
+    {"id": "d65250a-bild-047", "number": 47, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
+    {"id": "d65250a-bild-048", "number": 48, "status": "draft", "captions": {"de": {"plain": "", "runs": []}, "en-GB": {"plain": "", "runs": []}, "es-ES": {"plain": "", "runs": []}}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+  ],
+  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+}
