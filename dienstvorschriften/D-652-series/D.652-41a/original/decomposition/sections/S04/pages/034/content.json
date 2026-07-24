@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-034",
+  "document_id": "d652-41a",
+  "page": 34,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "C. Anweisung für das Schmieren — 18. Schmieren im Betrieb",
+    "en-GB": "C. Lubrication instructions — 18. Lubrication in service",
+    "es-ES": "C. Instrucciones de lubricación — 18. Lubricación en servicio"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 18,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p034-para01",
+      "text": {
+        "de": {
+          "plain": "Bild 21 und 22",
+          "runs": [
+            {
+              "text": "Bild 21 und 22",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Figures 21 and 22",
+          "runs": [
+            {
+              "text": "Figures 21 and 22",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Figuras 21 y 22",
+          "runs": [
+            {
+              "text": "Figuras 21 y 22",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para02",
+      "text": {
+        "de": {
+          "plain": "Richtiges Schmieren bedingt gutes Arbeiten und lange Lebensdauer des Fahrzeuges.",
+          "runs": [
+            {
+              "text": "Richtiges Schmieren bedingt gutes Arbeiten und lange Lebensdauer des Fahrzeuges.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Correct lubrication ensures good running and a long service life of the vehicle.",
+          "runs": [
+            {
+              "text": "Correct lubrication ensures good running and a long service life of the vehicle.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Una lubricación correcta asegura una buena marcha y una larga vida útil del vehículo.",
+          "runs": [
+            {
+              "text": "Una lubricación correcta asegura una buena marcha y una larga vida útil del vehículo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para03",
+      "text": {
+        "de": {
+          "plain": "Die Öl- und Fettmarken sowie die Schmierstellen, Schmierzeiten und Schmierstoffe sind aus der Schmier- und Pflegeanweisung, Bild 22, und dem Schmier- und Pflegeplan, Bild 21, ersichtlich.",
+          "runs": [
+            {
+              "text": "Die Öl- und Fettmarken sowie die Schmierstellen, Schmierzeiten und Schmierstoffe sind aus der Schmier- und Pflegeanweisung, Bild 22, und dem Schmier- und Pflegeplan, Bild 21, ersichtlich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The oil and grease grades, the lubrication points, lubrication intervals and lubricants are given in the lubrication and maintenance instructions (Schmier- und Pflegeanweisung), Figure 22, and the lubrication and maintenance chart (Schmier- und Pflegeplan), Figure 21.",
+          "runs": [
+            {
+              "text": "The oil and grease grades, the lubrication points, lubrication intervals and lubricants are given in the lubrication and maintenance instructions (Schmier- und Pflegeanweisung), Figure 22, and the lubrication and maintenance chart (Schmier- und Pflegeplan), Figure 21.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los grados de aceite y grasa, los puntos de engrase, los intervalos y los lubricantes se indican en las instrucciones de lubricación y mantenimiento (Schmier- und Pflegeanweisung), figura 22, y en el esquema de lubricación y mantenimiento (Schmier- und Pflegeplan), figura 21.",
+          "runs": [
+            {
+              "text": "Los grados de aceite y grasa, los puntos de engrase, los intervalos y los lubricantes se indican en las instrucciones de lubricación y mantenimiento (Schmier- und Pflegeanweisung), figura 22, y en el esquema de lubricación y mantenimiento (Schmier- und Pflegeplan), figura 21.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para04",
+      "text": {
+        "de": {
+          "plain": "Die hier angegebenen Fahrkilometer, nach deren Ablauf nachzuschmieren ist, sind nur Richtwerte.",
+          "runs": [
+            {
+              "text": "Die hier angegebenen Fahrkilometer, nach deren Ablauf nachzuschmieren ist, sind nur Richtwerte.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The running distances given here, after which re-lubrication is due, are only guide values.",
+          "runs": [
+            {
+              "text": "The running distances given here, after which re-lubrication is due, are only guide values.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los recorridos aquí indicados, tras los cuales procede volver a engrasar, son solo valores orientativos.",
+          "runs": [
+            {
+              "text": "Los recorridos aquí indicados, tras los cuales procede volver a engrasar, son solo valores orientativos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para05",
+      "text": {
+        "de": {
+          "plain": "Je nach dem Zustand oder den Betriebsbedingungen des Fahrzeuges (schadhafte Dichtungen, schlammiger Boden, loser Sand, starker Regen) ist entsprechend früher Öl nachzufüllen bzw. die Schmierstellen abzuschmieren.",
+          "runs": [
+            {
+              "text": "Je nach dem Zustand oder den Betriebsbedingungen des Fahrzeuges (schadhafte Dichtungen, schlammiger Boden, loser Sand, starker Regen) ist entsprechend früher Öl nachzufüllen bzw. die Schmierstellen abzuschmieren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Depending on the condition or operating conditions of the vehicle (defective seals, muddy ground, loose sand, heavy rain), oil must be topped up, or the lubrication points greased, correspondingly earlier.",
+          "runs": [
+            {
+              "text": "Depending on the condition or operating conditions of the vehicle (defective seals, muddy ground, loose sand, heavy rain), oil must be topped up, or the lubrication points greased, correspondingly earlier.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Según el estado o las condiciones de servicio del vehículo (retenes defectuosos, terreno embarrado, arena suelta, lluvia intensa), habrá que reponer aceite, o engrasar los puntos de lubricación, con la correspondiente antelación.",
+          "runs": [
+            {
+              "text": "Según el estado o las condiciones de servicio del vehículo (retenes defectuosos, terreno embarrado, arena suelta, lluvia intensa), habrá que reponer aceite, o engrasar los puntos de lubricación, con la correspondiente antelación.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para06",
+      "text": {
+        "de": {
+          "plain": "a) Ölschmierung",
+          "runs": [
+            {
+              "text": "a) Ölschmierung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Oil lubrication",
+          "runs": [
+            {
+              "text": "a) Oil lubrication",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Lubricación por aceite",
+          "runs": [
+            {
+              "text": "a) Lubricación por aceite",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para07",
+      "text": {
+        "de": {
+          "plain": "Motor",
+          "runs": [
+            {
+              "text": "Motor",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Engine",
+          "runs": [
+            {
+              "text": "Engine",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Motor",
+          "runs": [
+            {
+              "text": "Motor",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para08",
+      "text": {
+        "de": {
+          "plain": "Durch den Ölmeßstab, auf dem ein höchst- und niedrigstzulässiger Ölstand angegeben ist, täglich den Ölstand im Ölbehälter prüfen und bei Bedarf ergänzen.",
+          "runs": [
+            {
+              "text": "Durch den Ölmeßstab, auf dem ein höchst- und niedrigstzulässiger Ölstand angegeben ist, täglich den Ölstand im Ölbehälter prüfen und bei Bedarf ergänzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using the dipstick (Ölmeßstab), which shows a maximum and minimum permissible level, check the oil level in the oil tank daily and top up as required.",
+          "runs": [
+            {
+              "text": "Using the dipstick (Ölmeßstab), which shows a maximum and minimum permissible level, check the oil level in the oil tank daily and top up as required.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con la varilla de nivel (Ölmeßstab), que indica un nivel máximo y otro mínimo admisibles, compruebe a diario el nivel de aceite del depósito y repóngalo según haga falta.",
+          "runs": [
+            {
+              "text": "Con la varilla de nivel (Ölmeßstab), que indica un nivel máximo y otro mínimo admisibles, compruebe a diario el nivel de aceite del depósito y repóngalo según haga falta.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para09",
+      "text": {
+        "de": {
+          "plain": "Ein Zuviel an Öl vermeiden, da sonst Störungen eintreten.",
+          "runs": [
+            {
+              "text": "Ein Zuviel an Öl vermeiden, da sonst Störungen eintreten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Avoid too much oil, otherwise malfunctions occur.",
+          "runs": [
+            {
+              "text": "Avoid too much oil, otherwise malfunctions occur.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Evite el exceso de aceite, pues de lo contrario se producen fallos de funcionamiento.",
+          "runs": [
+            {
+              "text": "Evite el exceso de aceite, pues de lo contrario se producen fallos de funcionamiento.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para10",
+      "text": {
+        "de": {
+          "plain": "Bei Ölwechsel das alte Öl bei warmem Motor, nach Entfernen der Bodenklappen an der Wanne, aus den Ablaßöffnungen des Ölbehälters und der Kurbelwanne ablassen; damit das alte Öl auch aus den Leitungen austritt, den Motor kurz anlassen.",
+          "runs": [
+            {
+              "text": "Bei Ölwechsel das alte Öl bei warmem Motor, nach Entfernen der Bodenklappen an der Wanne, aus den Ablaßöffnungen des Ölbehälters und der Kurbelwanne ablassen; damit das alte Öl auch aus den Leitungen austritt, den Motor kurz anlassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At an oil change, drain the old oil with the engine warm — after removing the floor flaps in the hull — from the drain openings of the oil tank and the crankcase; briefly start the engine so that the old oil also runs out of the lines.",
+          "runs": [
+            {
+              "text": "At an oil change, drain the old oil with the engine warm — after removing the floor flaps in the hull — from the drain openings of the oil tank and the crankcase; briefly start the engine so that the old oil also runs out of the lines.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el cambio de aceite, vacíe el aceite usado con el motor caliente —tras retirar las trampillas del piso del casco— por las aberturas de vaciado del depósito de aceite y del cárter; arranque brevemente el motor para que el aceite viejo salga también de las tuberías.",
+          "runs": [
+            {
+              "text": "En el cambio de aceite, vacíe el aceite usado con el motor caliente —tras retirar las trampillas del piso del casco— por las aberturas de vaciado del depósito de aceite y del cárter; arranque brevemente el motor para que el aceite viejo salga también de las tuberías.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para11",
+      "text": {
+        "de": {
+          "plain": "Frisches Öl einfüllen und den Motor nochmals kurz anlassen, damit die leeren Leitungen wieder aufgefüllt werden. Darauf den Ölspiegel durch erneutes Nachfüllen wieder auf den Höchststand bringen.",
+          "runs": [
+            {
+              "text": "Frisches Öl einfüllen und den Motor nochmals kurz anlassen, damit die leeren Leitungen wieder aufgefüllt werden. Darauf den Ölspiegel durch erneutes Nachfüllen wieder auf den Höchststand bringen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fill in fresh oil and briefly run the engine again so that the empty lines are refilled. Then bring the oil level back to maximum by topping up again.",
+          "runs": [
+            {
+              "text": "Fill in fresh oil and briefly run the engine again so that the empty lines are refilled. Then bring the oil level back to maximum by topping up again.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introduzca aceite nuevo y haga girar de nuevo el motor brevemente para que las tuberías vacías vuelvan a llenarse. Después, restablezca el nivel de aceite al máximo reponiendo de nuevo.",
+          "runs": [
+            {
+              "text": "Introduzca aceite nuevo y haga girar de nuevo el motor brevemente para que las tuberías vacías vuelvan a llenarse. Después, restablezca el nivel de aceite al máximo reponiendo de nuevo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para12",
+      "text": {
+        "de": {
+          "plain": "Beim Ölwechsel ist auch gleichzeitig der Ölfilter zu reinigen.",
+          "runs": [
+            {
+              "text": "Beim Ölwechsel ist auch gleichzeitig der Ölfilter zu reinigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the oil change, the oil filter must also be cleaned at the same time.",
+          "runs": [
+            {
+              "text": "At the oil change, the oil filter must also be cleaned at the same time.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el cambio de aceite hay que limpiar también, al mismo tiempo, el filtro de aceite.",
+          "runs": [
+            {
+              "text": "En el cambio de aceite hay que limpiar también, al mismo tiempo, el filtro de aceite.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para13",
+      "text": {
+        "de": {
+          "plain": "Wechsel-, Kegel- und Lenkgetriebe",
+          "runs": [
+            {
+              "text": "Wechsel-, Kegel- und Lenkgetriebe",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Gearbox, bevel drive and steering gears",
+          "runs": [
+            {
+              "text": "Gearbox, bevel drive and steering gears",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Caja de cambios, par cónico y mecanismos de dirección",
+          "runs": [
+            {
+              "text": "Caja de cambios, par cónico y mecanismos de dirección",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p034-para14",
+      "text": {
+        "de": {
+          "plain": "Ablassen des Öles durch die Ablaßverschraubung am Wechselgetriebe und die beiden Verschraubungen unter dem Lenkgetriebe.",
+          "runs": [
+            {
+              "text": "Ablassen des Öles durch die Ablaßverschraubung am Wechselgetriebe und die beiden Verschraubungen unter dem Lenkgetriebe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drain the oil through the drain plug on the gearbox and the two plugs under the steering gears.",
+          "runs": [
+            {
+              "text": "Drain the oil through the drain plug on the gearbox and the two plugs under the steering gears.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Vacíe el aceite por el tapón de vaciado de la caja de cambios y los dos tapones situados bajo los mecanismos de dirección.",
+          "runs": [
+            {
+              "text": "Vacíe el aceite por el tapón de vaciado de la caja de cambios y los dos tapones situados bajo los mecanismos de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-033",
+    "next": "d65241a-page-035"
+  }
+}

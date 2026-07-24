@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-056",
+  "document_id": "d652-41a",
+  "page": 56,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 29,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-056-para01",
+      "text": {
+        "de": {"plain": "Bei der Lenkbremse kann die Abnutzung des Belages aus Sondergußeisen bis zum Brechen der Belagsegmente getrieben werden, wobei aber zu beachten ist, daß abspringende Beläge die Bremse wirkungslos machen und blockieren können. Aus diesem Grunde sind die Trommeln von Zeit zu Zeit abzunehmen und die Stärke der Bremsbeläge, besonders an den erregten Backen, bei der Stützbremse die obere Bremsbacke Nr. 1, bei der Lenkbremse die in Fahrrichtung hinten liegende Bremsbacke Nr. 13, zu prüfen. Dabei gleichzeitig die Bremse reinigen und abschmieren.", "runs": [{"text": "Bei der Lenkbremse kann die Abnutzung des Belages aus Sondergußeisen bis zum Brechen der Belagsegmente getrieben werden, wobei aber zu beachten ist, daß abspringende Beläge die Bremse wirkungslos machen und blockieren können. Aus diesem Grunde sind die Trommeln von Zeit zu Zeit abzunehmen und die Stärke der Bremsbeläge, besonders an den erregten Backen, bei der Stützbremse die obere Bremsbacke Nr. 1, bei der Lenkbremse die in Fahrrichtung hinten liegende Bremsbacke Nr. 13, zu prüfen. Dabei gleichzeitig die Bremse reinigen und abschmieren.", "bold": false}]},
+        "en-GB": {"plain": "On the steering brake, the wear of the special-cast-iron lining may be driven until the lining segments break; but note that flaking linings can render the brake ineffective and cause it to block. For this reason the drums are to be removed from time to time and the thickness of the brake linings checked – especially at the excited shoes: on the support brake the upper brake shoe No. 1, on the steering brake the brake shoe No. 13 lying at the rear in the direction of travel. At the same time, clean and grease the brake.", "runs": [{"text": "On the steering brake, the wear of the special-cast-iron lining may be driven until the lining segments break; but note that flaking linings can render the brake ineffective and cause it to block. For this reason the drums are to be removed from time to time and the thickness of the brake linings checked – especially at the excited shoes: on the support brake the upper brake shoe No. 1, on the steering brake the brake shoe No. 13 lying at the rear in the direction of travel. At the same time, clean and grease the brake.", "bold": false}]},
+        "es-ES": {"plain": "En el freno de dirección, el desgaste del forro de fundición especial puede llevarse hasta que los segmentos del forro se rompan; pero téngase en cuenta que un forro que se descascarilla puede dejar el freno ineficaz y hacer que se bloquee. Por ello, los tambores deben desmontarse de vez en cuando y comprobar el grosor de los forros –sobre todo en las zapatas excitadas: en el freno de apoyo, la zapata superior n.º 1; en el de dirección, la zapata n.º 13 situada detrás en el sentido de la marcha. Al mismo tiempo, limpie y engrase el freno.", "runs": [{"text": "En el freno de dirección, el desgaste del forro de fundición especial puede llevarse hasta que los segmentos del forro se rompan; pero téngase en cuenta que un forro que se descascarilla puede dejar el freno ineficaz y hacer que se bloquee. Por ello, los tambores deben desmontarse de vez en cuando y comprobar el grosor de los forros –sobre todo en las zapatas excitadas: en el freno de apoyo, la zapata superior n.º 1; en el de dirección, la zapata n.º 13 situada detrás en el sentido de la marcha. Al mismo tiempo, limpie y engrase el freno.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para02",
+      "text": {
+        "de": {"plain": "Der Belag der Stützbremsbacken besteht aus einem Asbestgewebe und muß erneuert werden, wenn er soweit abgenutzt ist, daß die Nietköpfe an der Trommel schleifen.", "runs": [{"text": "Der Belag der Stützbremsbacken besteht aus einem Asbestgewebe und muß erneuert werden, wenn er soweit abgenutzt ist, daß die Nietköpfe an der Trommel schleifen.", "bold": false}]},
+        "en-GB": {"plain": "The lining of the support-brake shoes consists of an asbestos fabric and must be renewed when it is so worn that the rivet heads rub on the drum.", "runs": [{"text": "The lining of the support-brake shoes consists of an asbestos fabric and must be renewed when it is so worn that the rivet heads rub on the drum.", "bold": false}]},
+        "es-ES": {"plain": "El forro de las zapatas del freno de apoyo consta de un tejido de amianto y debe renovarse cuando esté tan gastado que las cabezas de los remaches rocen el tambor.", "runs": [{"text": "El forro de las zapatas del freno de apoyo consta de un tejido de amianto y debe renovarse cuando esté tan gastado que las cabezas de los remaches rocen el tambor.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para03",
+      "text": {
+        "de": {"plain": "Bei der Lenkbremse sind die Bremsbacken so einzubauen, daß die Bremsbacke Nr. 12 mit kurzem Bremsbelag, in Fahrtrichtung gesehen, vorn und die Bremsbacke Nr. 13 mit langem Bremsbelag hinten eingesetzt wird.", "runs": [{"text": "Bei der Lenkbremse sind die Bremsbacken so einzubauen, daß die Bremsbacke Nr. 12 mit kurzem Bremsbelag, in Fahrtrichtung gesehen, vorn und die Bremsbacke Nr. 13 mit langem Bremsbelag hinten eingesetzt wird.", "bold": false}]},
+        "en-GB": {"plain": "On the steering brake, fit the brake shoes so that brake shoe No. 12, with the short brake lining, is at the front (as seen in the direction of travel), and brake shoe No. 13, with the long brake lining, at the rear.", "runs": [{"text": "On the steering brake, fit the brake shoes so that brake shoe No. 12, with the short brake lining, is at the front (as seen in the direction of travel), and brake shoe No. 13, with the long brake lining, at the rear.", "bold": false}]},
+        "es-ES": {"plain": "En el freno de dirección, monte las zapatas de modo que la zapata n.º 12, con el forro corto, quede delante (vista en el sentido de la marcha), y la zapata n.º 13, con el forro largo, detrás.", "runs": [{"text": "En el freno de dirección, monte las zapatas de modo que la zapata n.º 12, con el forro corto, quede delante (vista en el sentido de la marcha), y la zapata n.º 13, con el forro largo, detrás.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para04",
+      "text": {
+        "de": {"plain": "26. Kraftübertragung zum Lenken — Mechanische Kraftübertragung, Bild 25", "runs": [{"text": "26. Kraftübertragung zum Lenken — Mechanische Kraftübertragung, Bild 25", "bold": true}]},
+        "en-GB": {"plain": "26. Kraftübertragung zum Lenken – Mechanische Kraftübertragung, Bild 25 – 26. Power transmission for steering – Mechanical power transmission, Figure 25", "runs": [{"text": "26. Kraftübertragung zum Lenken – Mechanische Kraftübertragung, Bild 25 – 26. Power transmission for steering – Mechanical power transmission, Figure 25", "bold": true}]},
+        "es-ES": {"plain": "26. Kraftübertragung zum Lenken – Mechanische Kraftübertragung, Bild 25 – 26. Transmisión de fuerza a la dirección – Transmisión de fuerza mecánica, figura 25", "runs": [{"text": "26. Kraftübertragung zum Lenken – Mechanische Kraftübertragung, Bild 25 – 26. Transmisión de fuerza a la dirección – Transmisión de fuerza mecánica, figura 25", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para05",
+      "text": {
+        "de": {"plain": "Das Gestänge ist von Zeit zu Zeit auf klemmfreien Gang zu überprüfen, und zwar besonders dann, wenn bei ordnungsgemäßer Einstellung der Bremsen die an den Lenkhebeln auszuübenden Kräfte ungebührlich ansteigen.", "runs": [{"text": "Das Gestänge ist von Zeit zu Zeit auf klemmfreien Gang zu überprüfen, und zwar besonders dann, wenn bei ordnungsgemäßer Einstellung der Bremsen die an den Lenkhebeln auszuübenden Kräfte ungebührlich ansteigen.", "bold": false}]},
+        "en-GB": {"plain": "Check the linkage from time to time for free (non-binding) movement, especially when – with the brakes properly adjusted – the forces to be applied at the steering levers rise unduly.", "runs": [{"text": "Check the linkage from time to time for free (non-binding) movement, especially when – with the brakes properly adjusted – the forces to be applied at the steering levers rise unduly.", "bold": false}]},
+        "es-ES": {"plain": "Compruebe de vez en cuando que el varillaje se mueva con libertad (sin agarrotarse), sobre todo cuando –con los frenos bien ajustados– las fuerzas a aplicar en las palancas de dirección aumenten indebidamente.", "runs": [{"text": "Compruebe de vez en cuando que el varillaje se mueva con libertad (sin agarrotarse), sobre todo cuando –con los frenos bien ajustados– las fuerzas a aplicar en las palancas de dirección aumenten indebidamente.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para06",
+      "text": {
+        "de": {"plain": "Die Handhebelkräfte dürfen beim Lösen der Stützbremse, d. h. Rolle vor Buckel „B\" des Kurvenhebels Nr. 3, eine Kraft von etwa 12 kg nicht überschreiten. Beim Beginn des Bremsvorganges in der Lenkbremse, und zwar Rolle kurz hinter Buckel „B\" des Kurvenhebels Nr. 3, darf die Handhebelkraft nicht höher als etwa 16 kg sein.", "runs": [{"text": "Die Handhebelkräfte dürfen beim Lösen der Stützbremse, d. h. Rolle vor Buckel „B\" des Kurvenhebels Nr. 3, eine Kraft von etwa 12 kg nicht überschreiten. Beim Beginn des Bremsvorganges in der Lenkbremse, und zwar Rolle kurz hinter Buckel „B\" des Kurvenhebels Nr. 3, darf die Handhebelkraft nicht höher als etwa 16 kg sein.", "bold": false}]},
+        "en-GB": {"plain": "When releasing the support brake (roller in front of crest \"B\" of cam lever No. 3), the hand-lever force must not exceed about 12 kg. At the start of braking in the steering brake (roller just behind crest \"B\" of cam lever No. 3), the hand-lever force must not be higher than about 16 kg.", "runs": [{"text": "When releasing the support brake (roller in front of crest \"B\" of cam lever No. 3), the hand-lever force must not exceed about 12 kg. At the start of braking in the steering brake (roller just behind crest \"B\" of cam lever No. 3), the hand-lever force must not be higher than about 16 kg.", "bold": false}]},
+        "es-ES": {"plain": "Al soltar el freno de apoyo (rodillo delante de la cresta «B» de la palanca de leva n.º 3), la fuerza en la palanca de mano no debe superar unos 12 kg. Al inicio del frenado del freno de dirección (rodillo justo detrás de la cresta «B» de la palanca de leva n.º 3), la fuerza en la palanca de mano no debe ser mayor de unos 16 kg.", "runs": [{"text": "Al soltar el freno de apoyo (rodillo delante de la cresta «B» de la palanca de leva n.º 3), la fuerza en la palanca de mano no debe superar unos 12 kg. Al inicio del frenado del freno de dirección (rodillo justo detrás de la cresta «B» de la palanca de leva n.º 3), la fuerza en la palanca de mano no debe ser mayor de unos 16 kg.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para07",
+      "text": {
+        "de": {"plain": "Beim Umlegen des Federspannhebels nach unten (hinten) dürfen die Handhebelkräfte beim Lösen der Stützbremse nicht über etwa 20 kg, beim Beginn des Abbremsens der Lenkbremse nicht über 22 kg ansteigen.", "runs": [{"text": "Beim Umlegen des Federspannhebels nach unten (hinten) dürfen die Handhebelkräfte beim Lösen der Stützbremse nicht über etwa 20 kg, beim Beginn des Abbremsens der Lenkbremse nicht über 22 kg ansteigen.", "bold": false}]},
+        "en-GB": {"plain": "When throwing the spring-tensioning lever down (rearward), the hand-lever forces must not rise above about 20 kg when releasing the support brake, nor above 22 kg at the start of braking of the steering brake.", "runs": [{"text": "When throwing the spring-tensioning lever down (rearward), the hand-lever forces must not rise above about 20 kg when releasing the support brake, nor above 22 kg at the start of braking of the steering brake.", "bold": false}]},
+        "es-ES": {"plain": "Al abatir hacia abajo (hacia atrás) la palanca de tensado del muelle, las fuerzas en la palanca de mano no deben subir por encima de unos 20 kg al soltar el freno de apoyo, ni por encima de 22 kg al inicio del frenado del freno de dirección.", "runs": [{"text": "Al abatir hacia abajo (hacia atrás) la palanca de tensado del muelle, las fuerzas en la palanca de mano no deben subir por encima de unos 20 kg al soltar el freno de apoyo, ni por encima de 22 kg al inicio del frenado del freno de dirección.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para08",
+      "text": {
+        "de": {"plain": "27. Seitenvorgelege, Bild 14 und 29", "runs": [{"text": "27. Seitenvorgelege, Bild 14 und 29", "bold": true}]},
+        "en-GB": {"plain": "27. Seitenvorgelege, Bild 14 und 29 – 27. Final drives, Figures 14 and 29", "runs": [{"text": "27. Seitenvorgelege, Bild 14 und 29 – 27. Final drives, Figures 14 and 29", "bold": true}]},
+        "es-ES": {"plain": "27. Seitenvorgelege, Bild 14 und 29 – 27. Reductoras finales, figuras 14 y 29", "runs": [{"text": "27. Seitenvorgelege, Bild 14 und 29 – 27. Reductoras finales, figuras 14 y 29", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-056-para09",
+      "text": {
+        "de": {"plain": "Ausbau und Auseinandernehmen (Sonderwerkzeug III DB 4, 5, 37, 88, 89, 92): Im Fahrgestell an der Lenkbremse Seitenwelle und Nutmutter zur Ritzelwelle abschrauben, Lenkbremstrommel und Flanschnabe ab-", "runs": [{"text": "Ausbau und Auseinandernehmen (Sonderwerkzeug III DB 4, 5, 37, 88, 89, 92): ", "bold": true}, {"text": "Im Fahrgestell an der Lenkbremse Seitenwelle und Nutmutter zur Ritzelwelle abschrauben, Lenkbremstrommel und Flanschnabe ab-", "bold": false}]},
+        "en-GB": {"plain": "Removal and dismantling (special tools III DB 4, 5, 37, 88, 89, 92): In the chassis, at the steering brake, unscrew the side shaft and the slotted nut to the pinion shaft, and pull off the steering-brake drum and flanged hub –", "runs": [{"text": "Removal and dismantling (special tools III DB 4, 5, 37, 88, 89, 92): ", "bold": true}, {"text": "In the chassis, at the steering brake, unscrew the side shaft and the slotted nut to the pinion shaft, and pull off the steering-brake drum and flanged hub –", "bold": false}]},
+        "es-ES": {"plain": "Desmontaje y despiece (herramientas especiales III DB 4, 5, 37, 88, 89, 92): En el chasis, en el freno de dirección, desatornille el semieje y la tuerca ranurada del eje del piñón, y extraiga el tambor del freno de dirección y el cubo embridado –", "runs": [{"text": "Desmontaje y despiece (herramientas especiales III DB 4, 5, 37, 88, 89, 92): ", "bold": true}, {"text": "En el chasis, en el freno de dirección, desatornille el semieje y la tuerca ranurada del eje del piñón, y extraiga el tambor del freno de dirección y el cubo embridado –", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-055",
+    "next": "d65241a-page-057"
+  }
+}

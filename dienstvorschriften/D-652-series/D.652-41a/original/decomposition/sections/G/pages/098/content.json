@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-098",
+  "document_id": "d652-41a",
+  "page": 98,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 28  Lenkgetriebe, Einbau; Lenkbremse, Aus- und Einbau",
+    "en-GB": "Fig. 28  Steering gear, installation; steering brake, removal and installation",
+    "es-ES": "Fig. 28  Mecanismo de dirección, montaje; freno de dirección, desmontaje y montaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 62,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild028",
+      "number": 28,
+      "captions": {
+        "de": {
+          "plain": "Bild 28  Lenkgetriebe, Einbau; Lenkbremse, Aus- und Einbau",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 28  Steering gear, installation; steering brake, removal and installation",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 28  Mecanismo de dirección, montaje; freno de dirección, desmontaje y montaje",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Teilbild 1: DB 95/2, DB 95/3, DB 95/5, Wälzlager 6222\nTeilbild 2: DB 95/2, DB 95/3, DB 95/5, Wälzlager 6222\nTeilbild 3: DB 95/3, DB 95/1, DB 95/4\nTeilbild 4: DB 95/5, DB 95/1, DB 95/4, Wälzlager 6220\nTeilbild 5: DB 95/3, DB 95/2, DB 95/5\nTeilbild 6: DB 95/3, DB 95/1, DB 95/4, Wälzlager 6220\nTeilbild 7: DB 37, Schlüssel DB 117, DB 89/5, DB 118, DB 88/3, DB 88/9\nTeilbild 8: DB 88/5, DB 88/6, DB 88/4",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Sub-figure 1: DB 95/2, DB 95/3, DB 95/5, ball bearing 6222\nSub-figure 2: DB 95/2, DB 95/3, DB 95/5, ball bearing 6222\nSub-figure 3: DB 95/3, DB 95/1, DB 95/4\nSub-figure 4: DB 95/5, DB 95/1, DB 95/4, ball bearing 6220\nSub-figure 5: DB 95/3, DB 95/2, DB 95/5\nSub-figure 6: DB 95/3, DB 95/1, DB 95/4, ball bearing 6220\nSub-figure 7: DB 37, spanner (Schlüssel) DB 117, DB 89/5, DB 118, DB 88/3, DB 88/9\nSub-figure 8: DB 88/5, DB 88/6, DB 88/4",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Figura parcial 1: DB 95/2, DB 95/3, DB 95/5, rodamiento 6222\nFigura parcial 2: DB 95/2, DB 95/3, DB 95/5, rodamiento 6222\nFigura parcial 3: DB 95/3, DB 95/1, DB 95/4\nFigura parcial 4: DB 95/5, DB 95/1, DB 95/4, rodamiento 6220\nFigura parcial 5: DB 95/3, DB 95/2, DB 95/5\nFigura parcial 6: DB 95/3, DB 95/1, DB 95/4, rodamiento 6220\nFigura parcial 7: DB 37, llave (Schlüssel) DB 117, DB 89/5, DB 118, DB 88/3, DB 88/9\nFigura parcial 8: DB 88/5, DB 88/6, DB 88/4",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-097",
+    "next": "d65241a-page-099"
+  }
+}

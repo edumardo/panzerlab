@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-090",
+  "document_id": "d652-41a",
+  "page": 90,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 19  Stoßdämpfer",
+    "en-GB": "Fig. 19  Shock absorber",
+    "es-ES": "Fig. 19  Amortiguador"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 54,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild019",
+      "number": 19,
+      "captions": {
+        "de": {
+          "plain": "Bild 19  Stoßdämpfer",
+          "runs": [
+            { "text": "Bild 19  Stoßdämpfer", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 19  Shock absorber",
+          "runs": [
+            { "text": "Fig. 19  Shock absorber", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 19  Amortiguador",
+          "runs": [
+            { "text": "Fig. 19  Amortiguador", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Dichtungen\nKolbenstange\nMantelraum\nNiederdruckventil\nHochdruckventil\nBodenventil\nLagerbock\nÖleinfüllschraube\nVerschlußdeckel\nMantelraum\nKolben\nBodenventil\nSchwingarm",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "seals (Dichtungen)\npiston rod (Kolbenstange)\njacket (annular) chamber (Mantelraum)\nlow-pressure valve (Niederdruckventil)\nhigh-pressure valve (Hochdruckventil)\nbottom valve (Bodenventil)\nbearing bracket (Lagerbock)\noil filler screw (Öleinfüllschraube)\nclosure cover (Verschlußdeckel)\njacket (annular) chamber (Mantelraum)\npiston (Kolben)\nbottom valve (Bodenventil)\nswing arm (Schwingarm)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "juntas (Dichtungen)\nvástago del pistón (Kolbenstange)\ncámara anular (Mantelraum)\nválvula de baja presión (Niederdruckventil)\nválvula de alta presión (Hochdruckventil)\nválvula de fondo (Bodenventil)\nsoporte de cojinete (Lagerbock)\ntapón de llenado de aceite (Öleinfüllschraube)\ntapa de cierre (Verschlußdeckel)\ncámara anular (Mantelraum)\npistón (Kolben)\nválvula de fondo (Bodenventil)\nbrazo oscilante (Schwingarm)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-089",
+    "next": "d65241a-page-091"
+  }
+}

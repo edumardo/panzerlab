@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-021",
+  "document_id": "d652-41a",
+  "page": 21,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 11,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p021-para01",
+      "text": {
+        "de": {
+          "plain": "Die beiden Lenkgetriebe sind in ihrem Aufbau völlig gleich, so daß der weiteren Betrachtung nur ein Lenkgetriebe, und zwar das in der Fahrtrichtung gesehen linksliegende, zugrunde gelegt wird.",
+          "runs": [
+            {
+              "text": "Die beiden Lenkgetriebe sind in ihrem Aufbau völlig gleich, so daß der weiteren Betrachtung nur ein Lenkgetriebe, und zwar das in der Fahrtrichtung gesehen linksliegende, zugrunde gelegt wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The two steering gears are completely identical in construction, so the description that follows is based on only one — namely the left-hand one as seen in the direction of travel.",
+          "runs": [
+            {
+              "text": "The two steering gears are completely identical in construction, so the description that follows is based on only one — namely the left-hand one as seen in the direction of travel.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los dos mecanismos de dirección son de construcción totalmente idéntica, por lo que la descripción que sigue se basa en uno solo — a saber, el izquierdo visto en el sentido de la marcha.",
+          "runs": [
+            {
+              "text": "Los dos mecanismos de dirección son de construcción totalmente idéntica, por lo que la descripción que sigue se basa en uno solo — a saber, el izquierdo visto en el sentido de la marcha.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para02",
+      "text": {
+        "de": {
+          "plain": "a) Aufbau des Lenkgetriebes, Bild 8",
+          "runs": [
+            {
+              "text": "a) Aufbau des Lenkgetriebes, Bild 8",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Construction of the steering gear (Aufbau des Lenkgetriebes), Figure 8",
+          "runs": [
+            {
+              "text": "a) Construction of the steering gear (Aufbau des Lenkgetriebes), Figure 8",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Constitución del mecanismo de dirección (Aufbau des Lenkgetriebes), figura 8",
+          "runs": [
+            {
+              "text": "a) Constitución del mecanismo de dirección (Aufbau des Lenkgetriebes), figura 8",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para03",
+      "text": {
+        "de": {
+          "plain": "Auf der durch die mittlere Kammer laufenden Kegelradwelle Nr. 1 sitzt, starr mit dieser Welle verbunden, das glockenförmige Mittenhohlrad Nr. 2. In dieses greifen vier Umlaufräder Nr. 3 ein, die in einem Umlaufradträger Nr. 4 gelagert sind. Die vier Umlaufräder stehen im Eingriff mit einem Mittenvollrad Nr. 5, das mit seinem verlängerten Schaft durch den Lagerdeckel des Gehäuses reicht und außen die Stützbremstrommel trägt. In dieser befinden sich die am Lagerdeckel gelagerten Bremsbacken. Ein mit dem Umlaufradträger Nr. 4 fest verkeiltes Zahnrad Nr. 6 steht mit dem Vorgelegezahnrad Nr. 7 im Eingriff. Durch die Seitenwelle steht dieses Vorgelegerad mit der Lenkbremse und dem Seitenvorgelege mit dem Triebrad in Verbindung.",
+          "runs": [
+            {
+              "text": "Auf der durch die mittlere Kammer laufenden Kegelradwelle Nr. 1 sitzt, starr mit dieser Welle verbunden, das glockenförmige Mittenhohlrad Nr. 2. In dieses greifen vier Umlaufräder Nr. 3 ein, die in einem Umlaufradträger Nr. 4 gelagert sind. Die vier Umlaufräder stehen im Eingriff mit einem Mittenvollrad Nr. 5, das mit seinem verlängerten Schaft durch den Lagerdeckel des Gehäuses reicht und außen die Stützbremstrommel trägt. In dieser befinden sich die am Lagerdeckel gelagerten Bremsbacken. Ein mit dem Umlaufradträger Nr. 4 fest verkeiltes Zahnrad Nr. 6 steht mit dem Vorgelegezahnrad Nr. 7 im Eingriff. Durch die Seitenwelle steht dieses Vorgelegerad mit der Lenkbremse und dem Seitenvorgelege mit dem Triebrad in Verbindung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the bevel-gear shaft No. 1 (Kegelradwelle) running through the middle chamber sits the bell-shaped central ring gear No. 2 (Mittenhohlrad), rigidly connected to this shaft. Four planet gears No. 3 (Umlaufräder) mesh with it, carried in a planet carrier No. 4 (Umlaufradträger). The four planet gears mesh with a central sun gear No. 5 (Mittenvollrad), whose extended shaft passes through the bearing cover of the housing and carries the support-brake drum (Stützbremstrommel) on the outside. In this drum are the brake shoes (Bremsbacken) mounted on the bearing cover. A gear No. 6, firmly keyed to the planet carrier No. 4, meshes with the layshaft gear No. 7 (Vorgelegezahnrad). Through the side shaft (Seitenwelle) this layshaft gear is connected to the steering brake (Lenkbremse), and the final drive (Seitenvorgelege) to the drive sprocket (Triebrad).",
+          "runs": [
+            {
+              "text": "On the bevel-gear shaft No. 1 (Kegelradwelle) running through the middle chamber sits the bell-shaped central ring gear No. 2 (Mittenhohlrad), rigidly connected to this shaft. Four planet gears No. 3 (Umlaufräder) mesh with it, carried in a planet carrier No. 4 (Umlaufradträger). The four planet gears mesh with a central sun gear No. 5 (Mittenvollrad), whose extended shaft passes through the bearing cover of the housing and carries the support-brake drum (Stützbremstrommel) on the outside. In this drum are the brake shoes (Bremsbacken) mounted on the bearing cover. A gear No. 6, firmly keyed to the planet carrier No. 4, meshes with the layshaft gear No. 7 (Vorgelegezahnrad). Through the side shaft (Seitenwelle) this layshaft gear is connected to the steering brake (Lenkbremse), and the final drive (Seitenvorgelege) to the drive sprocket (Triebrad).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sobre el eje del piñón cónico n.º 1 (Kegelradwelle) que atraviesa la cámara central va montada, rígidamente unida a este eje, la corona interior central acampanada n.º 2 (Mittenhohlrad). Con ella engranan cuatro satélites n.º 3 (Umlaufräder), alojados en un portasatélites n.º 4 (Umlaufradträger). Los cuatro satélites engranan con un planeta central n.º 5 (Mittenvollrad), cuyo eje prolongado atraviesa la tapa de cojinete de la carcasa y lleva por fuera el tambor del freno de apoyo (Stützbremstrommel). En este tambor van las zapatas (Bremsbacken) montadas en la tapa de cojinete. Un piñón n.º 6, firmemente chavetado al portasatélites n.º 4, engrana con el piñón intermedio n.º 7 (Vorgelegezahnrad). A través del semieje (Seitenwelle), este piñón intermedio se une al freno de dirección (Lenkbremse), y la reductora final (Seitenvorgelege) a la rueda motriz (Triebrad).",
+          "runs": [
+            {
+              "text": "Sobre el eje del piñón cónico n.º 1 (Kegelradwelle) que atraviesa la cámara central va montada, rígidamente unida a este eje, la corona interior central acampanada n.º 2 (Mittenhohlrad). Con ella engranan cuatro satélites n.º 3 (Umlaufräder), alojados en un portasatélites n.º 4 (Umlaufradträger). Los cuatro satélites engranan con un planeta central n.º 5 (Mittenvollrad), cuyo eje prolongado atraviesa la tapa de cojinete de la carcasa y lleva por fuera el tambor del freno de apoyo (Stützbremstrommel). En este tambor van las zapatas (Bremsbacken) montadas en la tapa de cojinete. Un piñón n.º 6, firmemente chavetado al portasatélites n.º 4, engrana con el piñón intermedio n.º 7 (Vorgelegezahnrad). A través del semieje (Seitenwelle), este piñón intermedio se une al freno de dirección (Lenkbremse), y la reductora final (Seitenvorgelege) a la rueda motriz (Triebrad).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para04",
+      "text": {
+        "de": {
+          "plain": "b) Wirkungsweise",
+          "runs": [
+            {
+              "text": "b) Wirkungsweise",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Operation",
+          "runs": [
+            {
+              "text": "b) Operation",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Funcionamiento",
+          "runs": [
+            {
+              "text": "b) Funcionamiento",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para05",
+      "text": {
+        "de": {
+          "plain": "1. bei Geradeausfahrt, Bild 10",
+          "runs": [
+            {
+              "text": "1. bei Geradeausfahrt, Bild 10",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. In straight-ahead driving (bei Geradeausfahrt), Figure 10",
+          "runs": [
+            {
+              "text": "1. In straight-ahead driving (bei Geradeausfahrt), Figure 10",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. En marcha en línea recta (bei Geradeausfahrt), figura 10",
+          "runs": [
+            {
+              "text": "1. En marcha en línea recta (bei Geradeausfahrt), figura 10",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para06",
+      "text": {
+        "de": {
+          "plain": "Die Stützbremse ist abgebremst, die Lenkbremse gelüftet. Damit stehen fest: die Stützbremstrommel und das Mittenvollrad Nr. 5.",
+          "runs": [
+            {
+              "text": "Die Stützbremse ist abgebremst, die Lenkbremse gelüftet. Damit stehen fest: die Stützbremstrommel und das Mittenvollrad Nr. 5.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The support brake (Stützbremse) is applied and the steering brake released. The support-brake drum and the central sun gear No. 5 are thereby held stationary.",
+          "runs": [
+            {
+              "text": "The support brake (Stützbremse) is applied and the steering brake released. The support-brake drum and the central sun gear No. 5 are thereby held stationary.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El freno de apoyo (Stützbremse) está aplicado y el freno de dirección suelto. El tambor del freno de apoyo y el planeta central n.º 5 quedan así inmovilizados.",
+          "runs": [
+            {
+              "text": "El freno de apoyo (Stützbremse) está aplicado y el freno de dirección suelto. El tambor del freno de apoyo y el planeta central n.º 5 quedan así inmovilizados.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para07",
+      "text": {
+        "de": {
+          "plain": "Der Antrieb dreht über den Kegeltrieb das Mittenhohlrad Nr. 2. Die Umlaufräder Nr. 3 wälzen sich auf dem Mittenvollrad Nr. 5 ab und drehen den Umlaufradträger Nr. 4. Dieser treibt über die Zahnradvorgelege das Triebrad an.",
+          "runs": [
+            {
+              "text": "Der Antrieb dreht über den Kegeltrieb das Mittenhohlrad Nr. 2. Die Umlaufräder Nr. 3 wälzen sich auf dem Mittenvollrad Nr. 5 ab und drehen den Umlaufradträger Nr. 4. Dieser treibt über die Zahnradvorgelege das Triebrad an.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The drive turns the central ring gear No. 2 through the bevel drive. The planet gears No. 3 roll on the central sun gear No. 5 and turn the planet carrier No. 4, which drives the drive sprocket through the spur-gear reduction.",
+          "runs": [
+            {
+              "text": "The drive turns the central ring gear No. 2 through the bevel drive. The planet gears No. 3 roll on the central sun gear No. 5 and turn the planet carrier No. 4, which drives the drive sprocket through the spur-gear reduction.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El accionamiento hace girar la corona interior central n.º 2 a través del par cónico. Los satélites n.º 3 ruedan sobre el planeta central n.º 5 y hacen girar el portasatélites n.º 4, que acciona la rueda motriz a través de la reductora de engranajes cilíndricos.",
+          "runs": [
+            {
+              "text": "El accionamiento hace girar la corona interior central n.º 2 a través del par cónico. Los satélites n.º 3 ruedan sobre el planeta central n.º 5 y hacen girar el portasatélites n.º 4, que acciona la rueda motriz a través de la reductora de engranajes cilíndricos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para08",
+      "text": {
+        "de": {
+          "plain": "Die Stützbremse ist so eingestellt, daß sie nach Umlegen des an der Bremsfeder vorgesehenen Nachspannhebels, Bild 23, 25, das Höchstdrehmoment des ersten Ganges des Wechselgetriebes überträgt.",
+          "runs": [
+            {
+              "text": "Die Stützbremse ist so eingestellt, daß sie nach Umlegen des an der Bremsfeder vorgesehenen Nachspannhebels, Bild 23, 25, das Höchstdrehmoment des ersten Ganges des Wechselgetriebes überträgt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The support brake is set so that, after the tensioning lever (Nachspannhebel) on the brake spring is thrown over (Figures 23, 25), it transmits the maximum torque of the gearbox's first gear.",
+          "runs": [
+            {
+              "text": "The support brake is set so that, after the tensioning lever (Nachspannhebel) on the brake spring is thrown over (Figures 23, 25), it transmits the maximum torque of the gearbox's first gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El freno de apoyo se ajusta de modo que, tras abatir la palanca de retensado (Nachspannhebel) del muelle del freno (figuras 23, 25), transmita el par máximo de la primera marcha de la caja de cambios.",
+          "runs": [
+            {
+              "text": "El freno de apoyo se ajusta de modo que, tras abatir la palanca de retensado (Nachspannhebel) del muelle del freno (figuras 23, 25), transmita el par máximo de la primera marcha de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para09",
+      "text": {
+        "de": {
+          "plain": "2. beim Lenken, Bild 11",
+          "runs": [
+            {
+              "text": "2. beim Lenken, Bild 11",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. When steering (beim Lenken), Figure 11",
+          "runs": [
+            {
+              "text": "2. When steering (beim Lenken), Figure 11",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Al dirigir/tomar curva (beim Lenken), figura 11",
+          "runs": [
+            {
+              "text": "2. Al dirigir/tomar curva (beim Lenken), figura 11",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para10",
+      "text": {
+        "de": {
+          "plain": "Die Stützbremse wird gelüftet, die Lenkbremse angezogen. Je kleiner der zu fahrende Bogen sein soll, um so mehr muß die Lenkbremse abgebremst werden. Hier soll der einfacheren Darstellung wegen ein scharfer Winkel gefahren werden, d. h. die linke Kette wird vollständig festgehalten, wobei die Lenkbremse fest angezogen ist. Damit stehen fest: das Triebrad, die Lenkbremstrommel und der Umlaufradträger Nr. 4.",
+          "runs": [
+            {
+              "text": "Die Stützbremse wird gelüftet, die Lenkbremse angezogen. Je kleiner der zu fahrende Bogen sein soll, um so mehr muß die Lenkbremse abgebremst werden. Hier soll der einfacheren Darstellung wegen ein scharfer Winkel gefahren werden, d. h. die linke Kette wird vollständig festgehalten, wobei die Lenkbremse fest angezogen ist. Damit stehen fest: das Triebrad, die Lenkbremstrommel und der Umlaufradträger Nr. 4.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The support brake is released and the steering brake applied. The smaller the curve to be driven, the more the steering brake must be braked. Here, for simplicity, a sharp turn is assumed — i.e. the left track is held completely stationary, with the steering brake firmly applied. The drive sprocket, the steering-brake drum (Lenkbremstrommel) and the planet carrier No. 4 are thereby held stationary.",
+          "runs": [
+            {
+              "text": "The support brake is released and the steering brake applied. The smaller the curve to be driven, the more the steering brake must be braked. Here, for simplicity, a sharp turn is assumed — i.e. the left track is held completely stationary, with the steering brake firmly applied. The drive sprocket, the steering-brake drum (Lenkbremstrommel) and the planet carrier No. 4 are thereby held stationary.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El freno de apoyo está suelto y el freno de dirección aplicado. Cuanto más cerrada sea la curva a describir, más debe frenarse el freno de dirección. Aquí, por simplicidad, se supone un giro cerrado — es decir, la cadena izquierda se mantiene completamente inmóvil, con el freno de dirección firmemente aplicado. La rueda motriz, el tambor del freno de dirección (Lenkbremstrommel) y el portasatélites n.º 4 quedan así inmovilizados.",
+          "runs": [
+            {
+              "text": "El freno de apoyo está suelto y el freno de dirección aplicado. Cuanto más cerrada sea la curva a describir, más debe frenarse el freno de dirección. Aquí, por simplicidad, se supone un giro cerrado — es decir, la cadena izquierda se mantiene completamente inmóvil, con el freno de dirección firmemente aplicado. La rueda motriz, el tambor del freno de dirección (Lenkbremstrommel) y el portasatélites n.º 4 quedan así inmovilizados.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p021-para11",
+      "text": {
+        "de": {
+          "plain": "Der Antrieb über das Mittenhohlrad Nr. 2 dreht weiter, und da der Umlaufradträger Nr. 4 festgehalten wird, drehen sich die Umlaufräder Nr. 3 nur um ihre Achse und verursachen dadurch ein Drehen des Mittenvollrades Nr. 5 mit der Stützbremstrommel in entgegengesetzter Richtung.",
+          "runs": [
+            {
+              "text": "Der Antrieb über das Mittenhohlrad Nr. 2 dreht weiter, und da der Umlaufradträger Nr. 4 festgehalten wird, drehen sich die Umlaufräder Nr. 3 nur um ihre Achse und verursachen dadurch ein Drehen des Mittenvollrades Nr. 5 mit der Stützbremstrommel in entgegengesetzter Richtung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The drive through the central ring gear No. 2 continues to turn; and since the planet carrier No. 4 is held stationary, the planet gears No. 3 turn only about their own axes and thereby cause the central sun gear No. 5, with the support-brake drum, to turn in the opposite direction.",
+          "runs": [
+            {
+              "text": "The drive through the central ring gear No. 2 continues to turn; and since the planet carrier No. 4 is held stationary, the planet gears No. 3 turn only about their own axes and thereby cause the central sun gear No. 5, with the support-brake drum, to turn in the opposite direction.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El accionamiento a través de la corona interior central n.º 2 sigue girando; y como el portasatélites n.º 4 está inmovilizado, los satélites n.º 3 giran solo sobre su propio eje y hacen así girar en sentido contrario el planeta central n.º 5 con el tambor del freno de apoyo.",
+          "runs": [
+            {
+              "text": "El accionamiento a través de la corona interior central n.º 2 sigue girando; y como el portasatélites n.º 4 está inmovilizado, los satélites n.º 3 giran solo sobre su propio eje y hacen así girar en sentido contrario el planeta central n.º 5 con el tambor del freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-020",
+    "next": "d65241a-page-022"
+  }
+}

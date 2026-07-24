@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-095",
+  "document_id": "d652-41a",
+  "page": 95,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 25  Gestänge zur Stütz- und Lenkbremse",
+    "en-GB": "Fig. 25  Linkage to the support and steering brakes",
+    "es-ES": "Fig. 25  Varillaje de los frenos de apoyo y de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 59,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild025",
+      "number": 25,
+      "captions": {
+        "de": {
+          "plain": "Bild 25  Gestänge zur Stütz- und Lenkbremse",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 25  Linkage to the support and steering brakes",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 25  Varillaje de los frenos de apoyo y de dirección",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Fahrtrichtung\nSchutzblech\nNachspannhebel Nr. 5\n\"Vergrößern der Federspannung im 1. u. 2. Gang.\"\nLenkhebel Nr. 1\nZugstange Nr. 16 zur Lenkbremse\nRollenhebel Nr. 2\nBolzen Nr. 17\nBremsfeder Nr. 4\nWinkelhebel Nr. 8\nKurvenhebel Nr. 3\n\"Bremse fest\" / \"Bremse lose\"\nKugelbundmutter Nr. 7\nLenkhebelanschlag zum rechten Lenkhebel\nLenkhebelanschlag zum linken Lenkhebel\nDrehrichtung",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Direction of travel (Fahrtrichtung)\nGuard plate (Schutzblech)\nTensioning lever (Nachspannhebel) No. 5\n\"Increasing the spring tension in 1st and 2nd gear\" (Vergrößern der Federspannung im 1. u. 2. Gang)\nSteering lever (Lenkhebel) No. 1\nPull rod (Zugstange) No. 16 to the steering brake\nRoller lever (Rollenhebel) No. 2\nBolt (Bolzen) No. 17\nBrake spring (Bremsfeder) No. 4\nAngle lever (Winkelhebel) No. 8\nCam lever (Kurvenhebel) No. 3\n\"Brake applied\" (Bremse fest) / \"Brake released\" (Bremse lose)\nSpherical-collar nut (Kugelbundmutter) No. 7\nSteering-lever stop for the right steering lever (Lenkhebelanschlag zum rechten Lenkhebel)\nSteering-lever stop for the left steering lever (Lenkhebelanschlag zum linken Lenkhebel)\nDirection of rotation (Drehrichtung)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Sentido de la marcha (Fahrtrichtung)\nChapa protectora (Schutzblech)\nPalanca tensora (Nachspannhebel) n.º 5\n\"Aumento de la tensión del muelle en 1.ª y 2.ª marcha\" (Vergrößern der Federspannung im 1. u. 2. Gang)\nPalanca de dirección (Lenkhebel) n.º 1\nTirante (Zugstange) n.º 16 al freno de dirección\nPalanca de rodillo (Rollenhebel) n.º 2\nBulón (Bolzen) n.º 17\nMuelle de freno (Bremsfeder) n.º 4\nPalanca angular (Winkelhebel) n.º 8\nPalanca de leva (Kurvenhebel) n.º 3\n\"Freno aplicado\" (Bremse fest) / \"Freno suelto\" (Bremse lose)\nTuerca de collar esférico (Kugelbundmutter) n.º 7\nTope de la palanca de dirección derecha (Lenkhebelanschlag zum rechten Lenkhebel)\nTope de la palanca de dirección izquierda (Lenkhebelanschlag zum linken Lenkhebel)\nSentido de giro (Drehrichtung)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-094",
+    "next": "d65241a-page-096"
+  }
+}

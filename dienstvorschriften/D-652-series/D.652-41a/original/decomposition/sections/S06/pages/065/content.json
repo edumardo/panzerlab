@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-065",
+  "document_id": "d652-41a",
+  "page": 65,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": "E. Sondervorschriften",
+    "en-GB": "E. Special instructions",
+    "es-ES": "E. Instrucciones especiales"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 33,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p065-para01",
+      "text": {
+        "de": {
+          "plain": "29. Abdichtringe",
+          "runs": [
+            {
+              "text": "29. Abdichtringe",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "29. Oil seals (sealing rings)",
+          "runs": [
+            {
+              "text": "29. Oil seals (sealing rings)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "29. Retenes (juntas de estanqueidad)",
+          "runs": [
+            {
+              "text": "29. Retenes (juntas de estanqueidad)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para02",
+      "text": {
+        "de": {
+          "plain": "Die Abdichtringe sind unmittelbar vor dem Einbau einige Minuten in Öl von Raumtemperatur zu legen.",
+          "runs": [
+            {
+              "text": "Die Abdichtringe sind unmittelbar vor dem Einbau einige Minuten in Öl von Raumtemperatur zu legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The oil seals (Abdichtringe) must be laid in oil at room temperature for a few minutes immediately before installation.",
+          "runs": [
+            {
+              "text": "The oil seals (Abdichtringe) must be laid in oil at room temperature for a few minutes immediately before installation.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los retenes (Abdichtringe) deben sumergirse en aceite a temperatura ambiente durante unos minutos inmediatamente antes del montaje.",
+          "runs": [
+            {
+              "text": "Los retenes (Abdichtringe) deben sumergirse en aceite a temperatura ambiente durante unos minutos inmediatamente antes del montaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para03",
+      "text": {
+        "de": {
+          "plain": "Die Wellenkante, über welche der Abdichtring geschoben wird, muß angefaßt und entgratet sein. Falls die Kante nicht angefaßt werden kann, ist der Abdichtring über eine Einbauhülse auf die Welle zu schieben.",
+          "runs": [
+            {
+              "text": "Die Wellenkante, über welche der Abdichtring geschoben wird, muß angefaßt und entgratet sein. Falls die Kante nicht angefaßt werden kann, ist der Abdichtring über eine Einbauhülse auf die Welle zu schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The shaft edge over which the seal is pushed must be chamfered and deburred. If the edge cannot be chamfered, the seal must be slid onto the shaft by means of an installation sleeve (Einbauhülse).",
+          "runs": [
+            {
+              "text": "The shaft edge over which the seal is pushed must be chamfered and deburred. If the edge cannot be chamfered, the seal must be slid onto the shaft by means of an installation sleeve (Einbauhülse).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El canto del eje sobre el que se desliza el retén debe estar achaflanado y desbarbado. Si el canto no puede achaflanarse, el retén debe deslizarse sobre el eje mediante un casquillo de montaje (Einbauhülse).",
+          "runs": [
+            {
+              "text": "El canto del eje sobre el que se desliza el retén debe estar achaflanado y desbarbado. Si el canto no puede achaflanarse, el retén debe deslizarse sobre el eje mediante un casquillo de montaje (Einbauhülse).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para04",
+      "text": {
+        "de": {
+          "plain": "Die angefaßte Kante der Manschette darf beim Zusammenbau nicht umgelegt werden.",
+          "runs": [
+            {
+              "text": "Die angefaßte Kante der Manschette darf beim Zusammenbau nicht umgelegt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The chamfered edge of the sealing lip (Manschette) must not be folded back during assembly.",
+          "runs": [
+            {
+              "text": "The chamfered edge of the sealing lip (Manschette) must not be folded back during assembly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El canto achaflanado del labio de estanqueidad (Manschette) no debe doblarse hacia atrás durante el montaje.",
+          "runs": [
+            {
+              "text": "El canto achaflanado del labio de estanqueidad (Manschette) no debe doblarse hacia atrás durante el montaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para05",
+      "text": {
+        "de": {
+          "plain": "Der Abdichtring wird in das aufnehmende Gehäuse mit Hilfe eines Einziehdornes eingepreßt.",
+          "runs": [
+            {
+              "text": "Der Abdichtring wird in das aufnehmende Gehäuse mit Hilfe eines Einziehdornes eingepreßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The seal is pressed into the receiving housing with the help of a drawing-in mandrel (Einziehdorn).",
+          "runs": [
+            {
+              "text": "The seal is pressed into the receiving housing with the help of a drawing-in mandrel (Einziehdorn).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El retén se introduce a presión en la carcasa receptora con ayuda de un mandril de embutición (Einziehdorn).",
+          "runs": [
+            {
+              "text": "El retén se introduce a presión en la carcasa receptora con ayuda de un mandril de embutición (Einziehdorn).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para06",
+      "text": {
+        "de": {
+          "plain": "Wenn der Abdichtring den Austritt von Öl und Fett aus einem Triebwerk verhindern soll, ist er mit der Schriftseite seines Gehäuses nach innen gerichtet einzusetzen. Wenn er das Eindringen von Staub und Schmutz verhüten soll, muß die Schriftseite nach außen gerichtet sein.",
+          "runs": [
+            {
+              "text": "Wenn der Abdichtring den Austritt von Öl und Fett aus einem Triebwerk verhindern soll, ist er mit der Schriftseite seines Gehäuses nach innen gerichtet einzusetzen. Wenn er das Eindringen von Staub und Schmutz verhüten soll, muß die Schriftseite nach außen gerichtet sein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the seal is intended to prevent oil and grease escaping from a drive unit, it must be fitted with the lettered face of its housing directed inwards. If it is intended to prevent the entry of dust and dirt, the lettered face must be directed outwards.",
+          "runs": [
+            {
+              "text": "If the seal is intended to prevent oil and grease escaping from a drive unit, it must be fitted with the lettered face of its housing directed inwards. If it is intended to prevent the entry of dust and dirt, the lettered face must be directed outwards.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si el retén debe impedir la salida de aceite y grasa de un órgano de transmisión, debe montarse con la cara marcada de su carcasa orientada hacia el interior. Si debe impedir la entrada de polvo y suciedad, la cara marcada debe orientarse hacia el exterior.",
+          "runs": [
+            {
+              "text": "Si el retén debe impedir la salida de aceite y grasa de un órgano de transmisión, debe montarse con la cara marcada de su carcasa orientada hacia el interior. Si debe impedir la entrada de polvo y suciedad, la cara marcada debe orientarse hacia el exterior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para07",
+      "text": {
+        "de": {
+          "plain": "30. Fernthermometer",
+          "runs": [
+            {
+              "text": "30. Fernthermometer",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "30. Remote (distance) thermometer",
+          "runs": [
+            {
+              "text": "30. Remote (distance) thermometer",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "30. Termómetro a distancia",
+          "runs": [
+            {
+              "text": "30. Termómetro a distancia",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para08",
+      "text": {
+        "de": {
+          "plain": "Beim Ein- und Ausbau muß jedes Zerren und Reißen vermieden werden. Dies gilt in besonderem Maße für die Stellen, an denen die dünne Leitung in den Tauchkörper oder das Anzeigegehäuse übergeht, da hier erfahrungsgemäß bei unvorsichtiger Behandlung am leichtesten Bruch entsteht.",
+          "runs": [
+            {
+              "text": "Beim Ein- und Ausbau muß jedes Zerren und Reißen vermieden werden. Dies gilt in besonderem Maße für die Stellen, an denen die dünne Leitung in den Tauchkörper oder das Anzeigegehäuse übergeht, da hier erfahrungsgemäß bei unvorsichtiger Behandlung am leichtesten Bruch entsteht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "During installation and removal, all tugging and yanking must be avoided. This applies especially to the points where the thin line passes into the sensing bulb (Tauchkörper) or the indicator housing, since experience shows that breakage most readily occurs here through careless handling.",
+          "runs": [
+            {
+              "text": "During installation and removal, all tugging and yanking must be avoided. This applies especially to the points where the thin line passes into the sensing bulb (Tauchkörper) or the indicator housing, since experience shows that breakage most readily occurs here through careless handling.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Durante el montaje y el desmontaje debe evitarse todo tirón y estirón. Esto rige especialmente para los puntos en que la fina tubería pasa al bulbo sensor (Tauchkörper) o a la carcasa del indicador, pues la experiencia demuestra que ahí es donde más fácilmente se produce rotura por un manejo descuidado.",
+          "runs": [
+            {
+              "text": "Durante el montaje y el desmontaje debe evitarse todo tirón y estirón. Esto rige especialmente para los puntos en que la fina tubería pasa al bulbo sensor (Tauchkörper) o a la carcasa del indicador, pues la experiencia demuestra que ahí es donde más fácilmente se produce rotura por un manejo descuidado.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p065-para09",
+      "text": {
+        "de": {
+          "plain": "Die aufgerollte Leitung darf unter keinen Umständen auseinandergezogen, sondern muß vorsichtig abgewickelt werden. Anzeigegerät, Fernleitung und Erhitzungsschaft bilden ein einheitliches, unzertrennbares Ganzes. Die Fernleitung ist eine mit Flüssigkeit gefüllte Röhre, die weder zerschnitten noch zusammengequetscht werden darf, da sonst die Verbindung zwischen Tauchkörper und Anzeigegehäuse aufhört.",
+          "runs": [
+            {
+              "text": "Die aufgerollte Leitung darf unter keinen Umständen auseinandergezogen, sondern muß vorsichtig abgewickelt werden. Anzeigegerät, Fernleitung und Erhitzungsschaft bilden ein einheitliches, unzertrennbares Ganzes. Die Fernleitung ist eine mit Flüssigkeit gefüllte Röhre, die weder zerschnitten noch zusammengequetscht werden darf, da sonst die Verbindung zwischen Tauchkörper und Anzeigegehäuse aufhört.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The coiled line must under no circumstances be pulled apart, but must be unwound carefully. The indicator instrument, the remote line (Fernleitung) and the heating shaft form a single, inseparable whole. The remote line is a liquid-filled tube which must neither be cut nor crushed, since otherwise the connection between the sensing bulb and the indicator housing is lost.",
+          "runs": [
+            {
+              "text": "The coiled line must under no circumstances be pulled apart, but must be unwound carefully. The indicator instrument, the remote line (Fernleitung) and the heating shaft form a single, inseparable whole. The remote line is a liquid-filled tube which must neither be cut nor crushed, since otherwise the connection between the sensing bulb and the indicator housing is lost.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La tubería enrollada no debe en ningún caso estirarse, sino desenrollarse con cuidado. El instrumento indicador, la tubería a distancia (Fernleitung) y el vástago calefactor forman un todo único e inseparable. La tubería a distancia es un tubo lleno de líquido que no debe cortarse ni aplastarse, pues de lo contrario se pierde la conexión entre el bulbo sensor y la carcasa del indicador.",
+          "runs": [
+            {
+              "text": "La tubería enrollada no debe en ningún caso estirarse, sino desenrollarse con cuidado. El instrumento indicador, la tubería a distancia (Fernleitung) y el vástago calefactor forman un todo único e inseparable. La tubería a distancia es un tubo lleno de líquido que no debe cortarse ni aplastarse, pues de lo contrario se pierde la conexión entre el bulbo sensor y la carcasa del indicador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-064",
+    "next": "d65241a-page-066"
+  }
+}

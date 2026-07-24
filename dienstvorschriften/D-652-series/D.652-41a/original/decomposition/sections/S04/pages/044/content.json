@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-044",
+  "document_id": "d652-41a",
+  "page": 44,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 23,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p044-para01",
+      "text": {
+        "de": {
+          "plain": "Zusammenbau:",
+          "runs": [
+            {
+              "text": "Zusammenbau:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Reassembly:",
+          "runs": [
+            {
+              "text": "Reassembly:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montaje (armado):",
+          "runs": [
+            {
+              "text": "Montaje (armado):",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para02",
+      "text": {
+        "de": {
+          "plain": "Auf dem Kupplungsdeckel Einstellmutter aufschrauben und Ausrückhebel mit Stützbolzen und Druckstiften einbauen. Kupplungsdruckfeder einlegen und Ausrücklager auf die Druckstifte aufsetzen und durch Schrauben befestigen.",
+          "runs": [
+            {
+              "text": "Auf dem Kupplungsdeckel Einstellmutter aufschrauben und Ausrückhebel mit Stützbolzen und Druckstiften einbauen. Kupplungsdruckfeder einlegen und Ausrücklager auf die Druckstifte aufsetzen und durch Schrauben befestigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the adjusting nut onto the clutch cover and fit the release levers with support pins and thrust pins. Insert the clutch pressure spring and place the release bearing on the thrust pins, securing it with screws.",
+          "runs": [
+            {
+              "text": "Screw the adjusting nut onto the clutch cover and fit the release levers with support pins and thrust pins. Insert the clutch pressure spring and place the release bearing on the thrust pins, securing it with screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enrosque la tuerca de ajuste en la tapa del embrague y monte las palancas de desembrague con sus bulones de apoyo y de empuje. Introduzca el muelle de presión del embrague y coloque el cojinete de desembrague sobre los bulones de empuje, asegurándolo con tornillos.",
+          "runs": [
+            {
+              "text": "Enrosque la tuerca de ajuste en la tapa del embrague y monte las palancas de desembrague con sus bulones de apoyo y de empuje. Introduzca el muelle de presión del embrague y coloque el cojinete de desembrague sobre los bulones de empuje, asegurándolo con tornillos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para03",
+      "text": {
+        "de": {
+          "plain": "Auf die Kupplungswelle den vorderen Lagerring mit dem Ausrücklager aufschieben. Vorsicht! Dichtring nicht beschädigen.",
+          "runs": [
+            {
+              "text": "Auf die Kupplungswelle den vorderen Lagerring mit dem Ausrücklager aufschieben. Vorsicht! Dichtring nicht beschädigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the front bearing ring with the release bearing onto the clutch shaft. Caution — do not damage the sealing ring.",
+          "runs": [
+            {
+              "text": "Slide the front bearing ring with the release bearing onto the clutch shaft. Caution — do not damage the sealing ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslice el anillo de cojinete delantero con el cojinete de desembrague sobre el eje de embrague. Cuidado: no dañe el retén.",
+          "runs": [
+            {
+              "text": "Deslice el anillo de cojinete delantero con el cojinete de desembrague sobre el eje de embrague. Cuidado: no dañe el retén.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para04",
+      "text": {
+        "de": {
+          "plain": "Kupplungswelle von oben in das Kupplungsgehäuse einführen (Vorsicht! Dichtring) und den Lagerdeckel auf dem Kupplungsgehäuse befestigen.",
+          "runs": [
+            {
+              "text": "Kupplungswelle von oben in das Kupplungsgehäuse einführen (Vorsicht! Dichtring) und den Lagerdeckel auf dem Kupplungsgehäuse befestigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the clutch shaft into the clutch housing from above (caution — sealing ring) and secure the bearing cover on the clutch housing.",
+          "runs": [
+            {
+              "text": "Insert the clutch shaft into the clutch housing from above (caution — sealing ring) and secure the bearing cover on the clutch housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introduzca el eje de embrague en la campana desde arriba (cuidado: retén) y asegure la tapa de cojinete sobre la campana.",
+          "runs": [
+            {
+              "text": "Introduzca el eje de embrague en la campana desde arriba (cuidado: retén) y asegure la tapa de cojinete sobre la campana.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para05",
+      "text": {
+        "de": {
+          "plain": "Ausrückgabel in das Kupplungsgehäuse einsetzen und Ausrückwelle seitlich in das Kupplungsgehäuse und Ausrückgabel einführen. Ausrückgabel durch Zylinderstifte auf der Ausrückwelle befestigen.",
+          "runs": [
+            {
+              "text": "Ausrückgabel in das Kupplungsgehäuse einsetzen und Ausrückwelle seitlich in das Kupplungsgehäuse und Ausrückgabel einführen. Ausrückgabel durch Zylinderstifte auf der Ausrückwelle befestigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the release fork into the clutch housing and insert the release shaft sideways into the clutch housing and release fork. Secure the release fork on the release shaft with cylindrical pins.",
+          "runs": [
+            {
+              "text": "Fit the release fork into the clutch housing and insert the release shaft sideways into the clutch housing and release fork. Secure the release fork on the release shaft with cylindrical pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Monte la horquilla de desembrague en la campana e introduzca lateralmente el eje de desembrague en la campana y la horquilla. Asegure la horquilla al eje de desembrague con pasadores cilíndricos.",
+          "runs": [
+            {
+              "text": "Monte la horquilla de desembrague en la campana e introduzca lateralmente el eje de desembrague en la campana y la horquilla. Asegure la horquilla al eje de desembrague con pasadores cilíndricos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para06",
+      "text": {
+        "de": {
+          "plain": "Kupplungsgehäuse über die Kupplung stülpen und gleichzeitig die Kupplungswelle in das Ausrücklager und Kupplungsdruckfeder einführen.",
+          "runs": [
+            {
+              "text": "Kupplungsgehäuse über die Kupplung stülpen und gleichzeitig die Kupplungswelle in das Ausrücklager und Kupplungsdruckfeder einführen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the clutch housing over the clutch and at the same time insert the clutch shaft into the release bearing and clutch pressure spring.",
+          "runs": [
+            {
+              "text": "Place the clutch housing over the clutch and at the same time insert the clutch shaft into the release bearing and clutch pressure spring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Coloque la campana sobre el embrague e introduzca al mismo tiempo el eje de embrague en el cojinete de desembrague y el muelle de presión.",
+          "runs": [
+            {
+              "text": "Coloque la campana sobre el embrague e introduzca al mismo tiempo el eje de embrague en el cojinete de desembrague y el muelle de presión.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para07",
+      "text": {
+        "de": {
+          "plain": "Kupplung waagerecht legen und Ausrückhebel, Kupplungsdruckplatte und Kupplungsscheiben sowie Kupplungtreibscheiben einbauen.",
+          "runs": [
+            {
+              "text": "Kupplung waagerecht legen und Ausrückhebel, Kupplungsdruckplatte und Kupplungsscheiben sowie Kupplungtreibscheiben einbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lay the clutch horizontally and fit the release levers, clutch pressure plate and clutch discs, as well as the clutch driving discs.",
+          "runs": [
+            {
+              "text": "Lay the clutch horizontally and fit the release levers, clutch pressure plate and clutch discs, as well as the clutch driving discs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Coloque el embrague en horizontal y monte las palancas de desembrague, el plato de presión y los discos de embrague, así como los discos de arrastre.",
+          "runs": [
+            {
+              "text": "Coloque el embrague en horizontal y monte las palancas de desembrague, el plato de presión y los discos de embrague, así como los discos de arrastre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para08",
+      "text": {
+        "de": {
+          "plain": "Beim Einbau der Kupplungsscheiben ist darauf zu achten, das sich diese auf der Kupplungswelle leicht verschieben lassen. Ebenso ist auf leichte Verschiebbarkeit der Kupplungtreibscheiben auf den in dem Zwischenring vorgesehenen Mitnehmer zu achten.",
+          "runs": [
+            {
+              "text": "Beim Einbau der Kupplungsscheiben ist darauf zu achten, das sich diese auf der Kupplungswelle leicht verschieben lassen. Ebenso ist auf leichte Verschiebbarkeit der Kupplungtreibscheiben auf den in dem Zwischenring vorgesehenen Mitnehmer zu achten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When fitting the clutch discs, ensure they slide easily on the clutch shaft. Likewise ensure the clutch driving discs slide easily on the dogs in the intermediate ring.",
+          "runs": [
+            {
+              "text": "When fitting the clutch discs, ensure they slide easily on the clutch shaft. Likewise ensure the clutch driving discs slide easily on the dogs in the intermediate ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al montar los discos de embrague, procure que deslicen con facilidad sobre el eje de embrague. Asimismo, procure que los discos de arrastre deslicen con facilidad sobre los arrastradores del anillo intermedio.",
+          "runs": [
+            {
+              "text": "Al montar los discos de embrague, procure que deslicen con facilidad sobre el eje de embrague. Asimismo, procure que los discos de arrastre deslicen con facilidad sobre los arrastradores del anillo intermedio.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para09",
+      "text": {
+        "de": {
+          "plain": "Kupplung mit Schwungrad und Motorgehäuse verschrauben und die Schrauben durch Sicherungsbleche sichern.",
+          "runs": [
+            {
+              "text": "Kupplung mit Schwungrad und Motorgehäuse verschrauben und die Schrauben durch Sicherungsbleche sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the clutch to the flywheel and engine housing and secure the bolts with locking plates.",
+          "runs": [
+            {
+              "text": "Bolt the clutch to the flywheel and engine housing and secure the bolts with locking plates.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornille el embrague al volante y al cárter del motor y asegure los pernos con chapas de bloqueo.",
+          "runs": [
+            {
+              "text": "Atornille el embrague al volante y al cárter del motor y asegure los pernos con chapas de bloqueo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para10",
+      "text": {
+        "de": {
+          "plain": "Einstellen der Hauptkupplung:",
+          "runs": [
+            {
+              "text": "Einstellen der Hauptkupplung:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Adjusting the main clutch:",
+          "runs": [
+            {
+              "text": "Adjusting the main clutch:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Reglaje del embrague principal:",
+          "runs": [
+            {
+              "text": "Reglaje del embrague principal:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para11",
+      "text": {
+        "de": {
+          "plain": "Die Hauptkupplung ist so einzustellen, daß der Ausrückweg etwa 20 mm beträgt. Die Einstellung erfolgt durch Drehen der Einstellmutter mit Hilfe des Zapfenschlüssels III DB 140. Durch eine Rechtsdrehung wird der Abstand verkleinert, durch Linksdrehung vergrößert.",
+          "runs": [
+            {
+              "text": "Die Hauptkupplung ist so einzustellen, daß der Ausrückweg etwa 20 mm beträgt. Die Einstellung erfolgt durch Drehen der Einstellmutter mit Hilfe des Zapfenschlüssels III DB 140. Durch eine Rechtsdrehung wird der Abstand verkleinert, durch Linksdrehung vergrößert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The main clutch is to be set so that the release travel is about 20 mm. Adjust by turning the adjusting nut with the aid of pin spanner III DB 140. A right-hand turn reduces the gap, a left-hand turn increases it.",
+          "runs": [
+            {
+              "text": "The main clutch is to be set so that the release travel is about 20 mm. Adjust by turning the adjusting nut with the aid of pin spanner III DB 140. A right-hand turn reduces the gap, a left-hand turn increases it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El embrague principal debe ajustarse de modo que la carrera de desembrague sea de unos 20 mm. El ajuste se hace girando la tuerca de ajuste con ayuda de la llave de espiga III DB 140. Un giro a derechas reduce la holgura; a izquierdas, la aumenta.",
+          "runs": [
+            {
+              "text": "El embrague principal debe ajustarse de modo que la carrera de desembrague sea de unos 20 mm. El ajuste se hace girando la tuerca de ajuste con ayuda de la llave de espiga III DB 140. Un giro a derechas reduce la holgura; a izquierdas, la aumenta.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para12",
+      "text": {
+        "de": {
+          "plain": "Der Einstellring kann nur bei gleichzeitigem Auskuppeln verdreht werden.",
+          "runs": [
+            {
+              "text": "Der Einstellring kann nur bei gleichzeitigem Auskuppeln verdreht werden.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The adjusting ring can be turned only while simultaneously disengaging the clutch.",
+          "runs": [
+            {
+              "text": "The adjusting ring can be turned only while simultaneously disengaging the clutch.",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El anillo de ajuste solo puede girarse desembragando simultáneamente el embrague.",
+          "runs": [
+            {
+              "text": "El anillo de ajuste solo puede girarse desembragando simultáneamente el embrague.",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para13",
+      "text": {
+        "de": {
+          "plain": "Nach dem Einstellen der Kupplung muß bei Bedarf das Kupplungsgestänge ebenfalls neu eingestellt werden. Dabei ist zu beachten, daß der Totgang am Kupplungsfußhebel mindestens 20 mm beträgt.",
+          "runs": [
+            {
+              "text": "Nach dem Einstellen der Kupplung muß bei Bedarf das Kupplungsgestänge ebenfalls neu eingestellt werden. Dabei ist zu beachten, daß der Totgang am Kupplungsfußhebel mindestens 20 mm beträgt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "After adjusting the clutch, the clutch linkage must also be readjusted if necessary; ensure that the lost motion at the clutch pedal is at least 20 mm.",
+          "runs": [
+            {
+              "text": "After adjusting the clutch, the clutch linkage must also be readjusted if necessary; ensure that the lost motion at the clutch pedal is at least 20 mm.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Tras ajustar el embrague, hay que reajustar también, si es preciso, el varillaje del embrague; asegúrese de que la carrera muerta en el pedal de embrague sea de al menos 20 mm.",
+          "runs": [
+            {
+              "text": "Tras ajustar el embrague, hay que reajustar también, si es preciso, el varillaje del embrague; asegúrese de que la carrera muerta en el pedal de embrague sea de al menos 20 mm.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p044-para14",
+      "text": {
+        "de": {
+          "plain": "Die Kupplungsscheiben müssen erneuert werden, sobald sich die Einstellmutter nicht mehr durch Rechtsdrehen verstellen läßt. Die …",
+          "runs": [
+            {
+              "text": "Die Kupplungsscheiben müssen erneuert werden, sobald sich die Einstellmutter nicht mehr durch Rechtsdrehen verstellen läßt. Die …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The clutch discs must be renewed as soon as the adjusting nut can no longer be adjusted by turning it clockwise. The …",
+          "runs": [
+            {
+              "text": "The clutch discs must be renewed as soon as the adjusting nut can no longer be adjusted by turning it clockwise. The …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los discos de embrague deben renovarse en cuanto la tuerca de ajuste ya no pueda ajustarse girándola a derechas. La …",
+          "runs": [
+            {
+              "text": "Los discos de embrague deben renovarse en cuanto la tuerca de ajuste ya no pueda ajustarse girándola a derechas. La …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-043",
+    "next": "d65241a-page-045"
+  }
+}

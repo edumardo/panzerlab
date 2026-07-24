@@ -1,0 +1,736 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-013",
+  "document_id": "d652-41a",
+  "page": 13,
+  "section": "S01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 7,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p013-para01",
+      "text": {
+        "de": {
+          "plain": "Das Motorgehäuse besteht aus vier Teilen: dem V-förmigen Kurbelgehäuse, dem Kurbelgehäuse-Unterteil und den zwei Zylinderköpfen. Die zwölf Zylinder sind in zwei Reihen versetzt angeordnet. Ihre Bezeichnung zählt in Fahrtrichtung",
+          "runs": [
+            {
+              "text": "Das Motorgehäuse besteht aus vier Teilen: dem V-förmigen Kurbelgehäuse, dem Kurbelgehäuse-Unterteil und den zwei Zylinderköpfen. Die zwölf Zylinder sind in zwei Reihen versetzt angeordnet. Ihre Bezeichnung zählt in Fahrtrichtung",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The engine casing (Motorgehäuse) is in four parts: the V-shaped crankcase (Kurbelgehäuse), the lower crankcase section (Kurbelgehäuse-Unterteil) and the two cylinder heads (Zylinderköpfe). The twelve cylinders are staggered in two banks. Their numbering runs, in the direction of travel:",
+          "runs": [
+            {
+              "text": "The engine casing (Motorgehäuse) is in four parts: the V-shaped crankcase (Kurbelgehäuse), the lower crankcase section (Kurbelgehäuse-Unterteil) and the two cylinder heads (Zylinderköpfe). The twelve cylinders are staggered in two banks. Their numbering runs, in the direction of travel:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El cárter del motor (Motorgehäuse) consta de cuatro piezas: el bloque en V (Kurbelgehäuse), la parte inferior del cárter (Kurbelgehäuse-Unterteil) y las dos culatas (Zylinderköpfe). Los doce cilindros van escalonados en dos bancadas. Su numeración corre, en el sentido de la marcha:",
+          "runs": [
+            {
+              "text": "El cárter del motor (Motorgehäuse) consta de cuatro piezas: el bloque en V (Kurbelgehäuse), la parte inferior del cárter (Kurbelgehäuse-Unterteil) y las dos culatas (Zylinderköpfe). Los doce cilindros van escalonados en dos bancadas. Su numeración corre, en el sentido de la marcha:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para02",
+      "text": {
+        "de": {
+          "plain": "links, hinten nach vorn Zyl. 1—6,",
+          "runs": [
+            {
+              "text": "links, hinten nach vorn Zyl. 1—6,",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "left bank, rear to front: cylinders 1–6;",
+          "runs": [
+            {
+              "text": "left bank, rear to front: cylinders 1–6;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "bancada izquierda, de atrás hacia delante: cilindros 1–6;",
+          "runs": [
+            {
+              "text": "bancada izquierda, de atrás hacia delante: cilindros 1–6;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para03",
+      "text": {
+        "de": {
+          "plain": "rechts, hinten nach vorn Zyl. 7—12,",
+          "runs": [
+            {
+              "text": "rechts, hinten nach vorn Zyl. 7—12,",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "right bank, rear to front: cylinders 7–12;",
+          "runs": [
+            {
+              "text": "right bank, rear to front: cylinders 7–12;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "bancada derecha, de atrás hacia delante: cilindros 7–12;",
+          "runs": [
+            {
+              "text": "bancada derecha, de atrás hacia delante: cilindros 7–12;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para04",
+      "text": {
+        "de": {
+          "plain": "Zündfolge der Zylinder: 1, 12, 5, 8, 3, 10, 6, 7, 2, 11, 4, 9.",
+          "runs": [
+            {
+              "text": "Zündfolge der Zylinder: 1, 12, 5, 8, 3, 10, 6, 7, 2, 11, 4, 9.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "firing order (Zündfolge): 1, 12, 5, 8, 3, 10, 6, 7, 2, 11, 4, 9.",
+          "runs": [
+            {
+              "text": "firing order (Zündfolge): 1, 12, 5, 8, 3, 10, 6, 7, 2, 11, 4, 9.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "orden de encendido (Zündfolge): 1, 12, 5, 8, 3, 10, 6, 7, 2, 11, 4, 9.",
+          "runs": [
+            {
+              "text": "orden de encendido (Zündfolge): 1, 12, 5, 8, 3, 10, 6, 7, 2, 11, 4, 9.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para05",
+      "text": {
+        "de": {
+          "plain": "Zwischen den Gehäuseteilen ist die sechsmal gekröpfte Kurbelwelle in sieben Rollenlagern gelagert. Die Pleuelstangen, die paarweise an der Kurbelwelle angreifen, haben auswechselbare Lagerschalen. Der Kolben ist aus Leichtmetall, der Kolbenbolzen schwimmend gelagert.",
+          "runs": [
+            {
+              "text": "Zwischen den Gehäuseteilen ist die sechsmal gekröpfte Kurbelwelle in sieben Rollenlagern gelagert. Die Pleuelstangen, die paarweise an der Kurbelwelle angreifen, haben auswechselbare Lagerschalen. Der Kolben ist aus Leichtmetall, der Kolbenbolzen schwimmend gelagert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Between the casing parts, the six-throw crankshaft (Kurbelwelle) runs in seven roller bearings (Rollenlager). The connecting rods (Pleuelstangen), acting in pairs on the crankshaft, have replaceable bearing shells (Lagerschalen). The piston (Kolben) is of light alloy; the gudgeon pin (Kolbenbolzen) is fully floating.",
+          "runs": [
+            {
+              "text": "Between the casing parts, the six-throw crankshaft (Kurbelwelle) runs in seven roller bearings (Rollenlager). The connecting rods (Pleuelstangen), acting in pairs on the crankshaft, have replaceable bearing shells (Lagerschalen). The piston (Kolben) is of light alloy; the gudgeon pin (Kolbenbolzen) is fully floating.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Entre las piezas del cárter, el cigüeñal de seis codos (Kurbelwelle) gira sobre siete cojinetes de rodillos (Rollenlager). Las bielas (Pleuelstangen), que actúan por pares sobre el cigüeñal, tienen casquillos de cojinete recambiables (Lagerschalen). El pistón (Kolben) es de aleación ligera; el bulón (Kolbenbolzen) es flotante.",
+          "runs": [
+            {
+              "text": "Entre las piezas del cárter, el cigüeñal de seis codos (Kurbelwelle) gira sobre siete cojinetes de rodillos (Rollenlager). Las bielas (Pleuelstangen), que actúan por pares sobre el cigüeñal, tienen casquillos de cojinete recambiables (Lagerschalen). El pistón (Kolben) es de aleación ligera; el bulón (Kolbenbolzen) es flotante.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para06",
+      "text": {
+        "de": {
+          "plain": "Die schräg hängenden Ventile werden durch Schwinghebel betätigt, die durch die in den zwei Zylinderköpfen siebenfach gelagerten Nockenwellen gesteuert werden.",
+          "runs": [
+            {
+              "text": "Die schräg hängenden Ventile werden durch Schwinghebel betätigt, die durch die in den zwei Zylinderköpfen siebenfach gelagerten Nockenwellen gesteuert werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The inclined overhead valves (schräg hängende Ventile) are worked by rocker arms (Schwinghebel), controlled by the camshafts (Nockenwellen), which are carried at seven points in the two cylinder heads.",
+          "runs": [
+            {
+              "text": "The inclined overhead valves (schräg hängende Ventile) are worked by rocker arms (Schwinghebel), controlled by the camshafts (Nockenwellen), which are carried at seven points in the two cylinder heads.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las válvulas en cabeza inclinadas (schräg hängende Ventile) se accionan mediante balancines (Schwinghebel), gobernados por los árboles de levas (Nockenwellen), que van apoyados en siete puntos en las dos culatas.",
+          "runs": [
+            {
+              "text": "Las válvulas en cabeza inclinadas (schräg hängende Ventile) se accionan mediante balancines (Schwinghebel), gobernados por los árboles de levas (Nockenwellen), que van apoyados en siete puntos en las dos culatas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para07",
+      "text": {
+        "de": {
+          "plain": "Angetrieben werden die Nockenwellen über ein Zwischenrad vom Kurbelwellenrad.",
+          "runs": [
+            {
+              "text": "Angetrieben werden die Nockenwellen über ein Zwischenrad vom Kurbelwellenrad.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The camshafts are driven from the crankshaft gear (Kurbelwellenrad) through an idler gear (Zwischenrad).",
+          "runs": [
+            {
+              "text": "The camshafts are driven from the crankshaft gear (Kurbelwellenrad) through an idler gear (Zwischenrad).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los árboles de levas se accionan desde el piñón del cigüeñal (Kurbelwellenrad) a través de un piñón intermedio (Zwischenrad).",
+          "runs": [
+            {
+              "text": "Los árboles de levas se accionan desde el piñón del cigüeñal (Kurbelwellenrad) a través de un piñón intermedio (Zwischenrad).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para08",
+      "text": {
+        "de": {
+          "plain": "Am Motor sind ein- bzw. angebaut:",
+          "runs": [
+            {
+              "text": "Am Motor sind ein- bzw. angebaut:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Built into or onto the engine are:",
+          "runs": [
+            {
+              "text": "Built into or onto the engine are:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el motor, o sobre él, van montados:",
+          "runs": [
+            {
+              "text": "En el motor, o sobre él, van montados:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para09",
+      "text": {
+        "de": {
+          "plain": "2 Ölabsaugpumpen im Kurbelgehäuse",
+          "runs": [
+            {
+              "text": "2 Ölabsaugpumpen im Kurbelgehäuse",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 oil scavenge pumps (Ölabsaugpumpen) in the crankcase;",
+          "runs": [
+            {
+              "text": "2 oil scavenge pumps (Ölabsaugpumpen) in the crankcase;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 bombas de aspiración de aceite (Ölabsaugpumpen) en el cárter;",
+          "runs": [
+            {
+              "text": "2 bombas de aspiración de aceite (Ölabsaugpumpen) en el cárter;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para10",
+      "text": {
+        "de": {
+          "plain": "1 Ölumlaufpumpe",
+          "runs": [
+            {
+              "text": "1 Ölumlaufpumpe",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 oil circulating pump (Ölumlaufpumpe);",
+          "runs": [
+            {
+              "text": "1 oil circulating pump (Ölumlaufpumpe);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 bomba de circulación de aceite (Ölumlaufpumpe);",
+          "runs": [
+            {
+              "text": "1 bomba de circulación de aceite (Ölumlaufpumpe);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para11",
+      "text": {
+        "de": {
+          "plain": "1 Ölfilter",
+          "runs": [
+            {
+              "text": "1 Ölfilter",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 oil filter (Ölfilter);",
+          "runs": [
+            {
+              "text": "1 oil filter (Ölfilter);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 filtro de aceite (Ölfilter);",
+          "runs": [
+            {
+              "text": "1 filtro de aceite (Ölfilter);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para12",
+      "text": {
+        "de": {
+          "plain": "1 Wasserpumpe, 1 Lichtmaschine, angetrieben von der Kurbelwelle durch gemeinsame Keilriemen",
+          "runs": [
+            {
+              "text": "1 Wasserpumpe, 1 Lichtmaschine, angetrieben von der Kurbelwelle durch gemeinsame Keilriemen",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 water pump (Wasserpumpe) and 1 dynamo (Lichtmaschine), both driven from the crankshaft by common V-belts (Keilriemen);",
+          "runs": [
+            {
+              "text": "1 water pump (Wasserpumpe) and 1 dynamo (Lichtmaschine), both driven from the crankshaft by common V-belts (Keilriemen);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 bomba de agua (Wasserpumpe) y 1 dinamo (Lichtmaschine), ambas accionadas desde el cigüeñal por correas trapezoidales comunes (Keilriemen);",
+          "runs": [
+            {
+              "text": "1 bomba de agua (Wasserpumpe) y 1 dinamo (Lichtmaschine), ambas accionadas desde el cigüeñal por correas trapezoidales comunes (Keilriemen);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para13",
+      "text": {
+        "de": {
+          "plain": "2 Kraftstoffpumpen, angetrieben von der Kurbelwelle über eine Nockenscheibe",
+          "runs": [
+            {
+              "text": "2 Kraftstoffpumpen, angetrieben von der Kurbelwelle über eine Nockenscheibe",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 fuel pumps (Kraftstoffpumpen), driven from the crankshaft via a cam disc (Nockenscheibe);",
+          "runs": [
+            {
+              "text": "2 fuel pumps (Kraftstoffpumpen), driven from the crankshaft via a cam disc (Nockenscheibe);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 bombas de combustible (Kraftstoffpumpen), accionadas desde el cigüeñal mediante un disco de levas (Nockenscheibe);",
+          "runs": [
+            {
+              "text": "2 bombas de combustible (Kraftstoffpumpen), accionadas desde el cigüeñal mediante un disco de levas (Nockenscheibe);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para14",
+      "text": {
+        "de": {
+          "plain": "2 Solex-Zweistufen-Fallstrom-Geländevergaser mit Anlaßvorrichtung",
+          "runs": [
+            {
+              "text": "2 Solex-Zweistufen-Fallstrom-Geländevergaser mit Anlaßvorrichtung",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 Solex two-stage downdraught cross-country carburettors (Solex-Zweistufen-Fallstrom-Geländevergaser) with starting device (Anlaßvorrichtung);",
+          "runs": [
+            {
+              "text": "2 Solex two-stage downdraught cross-country carburettors (Solex-Zweistufen-Fallstrom-Geländevergaser) with starting device (Anlaßvorrichtung);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 carburadores Solex de dos etapas, invertidos, para todoterreno (Solex-Zweistufen-Fallstrom-Geländevergaser) con dispositivo de arranque (Anlaßvorrichtung);",
+          "runs": [
+            {
+              "text": "2 carburadores Solex de dos etapas, invertidos, para todoterreno (Solex-Zweistufen-Fallstrom-Geländevergaser) con dispositivo de arranque (Anlaßvorrichtung);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para15",
+      "text": {
+        "de": {
+          "plain": "1 Schnappermagnetzünder",
+          "runs": [
+            {
+              "text": "1 Schnappermagnetzünder",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 impulse magneto (Schnappermagnetzünder);",
+          "runs": [
+            {
+              "text": "1 impulse magneto (Schnappermagnetzünder);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 magneto de encendido por resorte (Schnappermagnetzünder);",
+          "runs": [
+            {
+              "text": "1 magneto de encendido por resorte (Schnappermagnetzünder);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para16",
+      "text": {
+        "de": {
+          "plain": "1 elektrischer Anlasser",
+          "runs": [
+            {
+              "text": "1 elektrischer Anlasser",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 electric starter (elektrischer Anlasser);",
+          "runs": [
+            {
+              "text": "1 electric starter (elektrischer Anlasser);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 motor de arranque eléctrico (elektrischer Anlasser);",
+          "runs": [
+            {
+              "text": "1 motor de arranque eléctrico (elektrischer Anlasser);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para17",
+      "text": {
+        "de": {
+          "plain": "1 Schwungkraftanlasser.",
+          "runs": [
+            {
+              "text": "1 Schwungkraftanlasser.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 inertia starter (Schwungkraftanlasser).",
+          "runs": [
+            {
+              "text": "1 inertia starter (Schwungkraftanlasser).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 arrancador de inercia (Schwungkraftanlasser).",
+          "runs": [
+            {
+              "text": "1 arrancador de inercia (Schwungkraftanlasser).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para18",
+      "text": {
+        "de": {
+          "plain": "Innerhalb des Motorraumes sind ferner vorgesehen:",
+          "runs": [
+            {
+              "text": "Innerhalb des Motorraumes sind ferner vorgesehen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Also provided within the engine compartment:",
+          "runs": [
+            {
+              "text": "Also provided within the engine compartment:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asimismo, dentro del compartimento del motor se disponen:",
+          "runs": [
+            {
+              "text": "Asimismo, dentro del compartimento del motor se disponen:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para19",
+      "text": {
+        "de": {
+          "plain": "4 Luftfilter",
+          "runs": [
+            {
+              "text": "4 Luftfilter",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4 air filters (Luftfilter);",
+          "runs": [
+            {
+              "text": "4 air filters (Luftfilter);",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4 filtros de aire (Luftfilter);",
+          "runs": [
+            {
+              "text": "4 filtros de aire (Luftfilter);",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para20",
+      "text": {
+        "de": {
+          "plain": "1 elektrische Anlaß-Kraftstoffpumpe.",
+          "runs": [
+            {
+              "text": "1 elektrische Anlaß-Kraftstoffpumpe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 electric priming fuel pump (elektrische Anlaß-Kraftstoffpumpe).",
+          "runs": [
+            {
+              "text": "1 electric priming fuel pump (elektrische Anlaß-Kraftstoffpumpe).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 bomba eléctrica de cebado de combustible (elektrische Anlaß-Kraftstoffpumpe).",
+          "runs": [
+            {
+              "text": "1 bomba eléctrica de cebado de combustible (elektrische Anlaß-Kraftstoffpumpe).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para21",
+      "text": {
+        "de": {
+          "plain": "a) Schmierung und Ölfilter",
+          "runs": [
+            {
+              "text": "a) Schmierung und Ölfilter",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Lubrication and oil filter (Schmierung und Ölfilter)",
+          "runs": [
+            {
+              "text": "a) Lubrication and oil filter (Schmierung und Ölfilter)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Lubricación y filtro de aceite (Schmierung und Ölfilter)",
+          "runs": [
+            {
+              "text": "a) Lubricación y filtro de aceite (Schmierung und Ölfilter)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p013-para22",
+      "text": {
+        "de": {
+          "plain": "Mit Rücksicht auf mögliche Schräglagen des Fahrzeuges ist die Schmieranlage als sogenannte Trockensumpfschmierung ausgebildet. Hierbei wird das ins Kurbelgehäuse fließende Öl von zwei",
+          "runs": [
+            {
+              "text": "Mit Rücksicht auf mögliche Schräglagen des Fahrzeuges ist die Schmieranlage als sogenannte Trockensumpfschmierung ausgebildet. Hierbei wird das ins Kurbelgehäuse fließende Öl von zwei",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In view of the inclined attitudes the vehicle may assume, the lubrication system (Schmieranlage) is designed as a so-called dry-sump system (Trockensumpfschmierung). In it, the oil flowing into the crankcase is drawn off by two",
+          "runs": [
+            {
+              "text": "In view of the inclined attitudes the vehicle may assume, the lubrication system (Schmieranlage) is designed as a so-called dry-sump system (Trockensumpfschmierung). In it, the oil flowing into the crankcase is drawn off by two",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En vista de las posiciones inclinadas que el vehículo puede adoptar, el sistema de lubricación (Schmieranlage) está concebido como el llamado sistema de cárter seco (Trockensumpfschmierung). En él, el aceite que fluye al cárter es aspirado por dos",
+          "runs": [
+            {
+              "text": "En vista de las posiciones inclinadas que el vehículo puede adoptar, el sistema de lubricación (Schmieranlage) está concebido como el llamado sistema de cárter seco (Trockensumpfschmierung). En él, el aceite que fluye al cárter es aspirado por dos",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-012",
+    "next": "d65241a-page-014"
+  }
+}

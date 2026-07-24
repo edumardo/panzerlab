@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-086",
+  "document_id": "d652-41a",
+  "page": 86,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 15  Triebrad",
+    "en-GB": "Fig. 15  Drive sprocket",
+    "es-ES": "Fig. 15  Rueda motriz"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 50,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild015",
+      "number": 15,
+      "captions": {
+        "de": {
+          "plain": "Bild 15  Triebrad",
+          "runs": [
+            { "text": "Bild 15  Triebrad", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 15  Drive sprocket",
+          "runs": [
+            { "text": "Fig. 15  Drive sprocket", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 15  Rueda motriz",
+          "runs": [
+            { "text": "Fig. 15  Rueda motriz", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "(Auf dieser Tafel sind keine benannten Bezugszeichen abgedruckt, nur die Schnittangabe „Schnitt A-B“.)",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "(No named callouts are printed on this plate, only the section marker “Schnitt A-B” / Section A-B.)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "(En esta lámina no se imprime ningún indicador con nombre, solo la referencia de sección «Schnitt A-B» / Sección A-B.)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-085",
+    "next": "d65241a-page-087"
+  }
+}

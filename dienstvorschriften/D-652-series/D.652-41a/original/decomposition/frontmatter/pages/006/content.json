@@ -1,0 +1,928 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-006",
+  "document_id": "d652-41a",
+  "page": 6,
+  "section": "FrontMatter",
+  "type": "index",
+  "titles": {
+    "de": "Inhalt (Fortsetzung)",
+    "en-GB": "Contents (continued)",
+    "es-ES": "Índice (continuación)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 4,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-006-para01",
+      "text": {
+        "de": {
+          "plain": "C. Anweisung für das Schmieren .......... 32",
+          "runs": [
+            {
+              "text": "C. Anweisung für das Schmieren .......... 32",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "C. Lubrication instructions .......... 32",
+          "runs": [
+            {
+              "text": "C. Lubrication instructions .......... 32",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "C. Instrucciones de lubricación .......... 32",
+          "runs": [
+            {
+              "text": "C. Instrucciones de lubricación .......... 32",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para02",
+      "text": {
+        "de": {
+          "plain": "18. Schmieren im Betrieb .......... 32",
+          "runs": [
+            {
+              "text": "18. Schmieren im Betrieb .......... 32",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "18. Lubrication in service .......... 32",
+          "runs": [
+            {
+              "text": "18. Lubrication in service .......... 32",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "18. Lubricación en servicio .......... 32",
+          "runs": [
+            {
+              "text": "18. Lubricación en servicio .......... 32",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para03",
+      "text": {
+        "de": {
+          "plain": "19. Schmieren beim Zusammenbau .......... 34",
+          "runs": [
+            {
+              "text": "19. Schmieren beim Zusammenbau .......... 34",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "19. Lubrication during assembly .......... 34",
+          "runs": [
+            {
+              "text": "19. Lubrication during assembly .......... 34",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "19. Lubricación en el montaje .......... 34",
+          "runs": [
+            {
+              "text": "19. Lubricación en el montaje .......... 34",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para04",
+      "text": {
+        "de": {
+          "plain": "D. Anweisung für Aus- und Einbau und Bedienung .......... 35",
+          "runs": [
+            {
+              "text": "D. Anweisung für Aus- und Einbau und Bedienung .......... 35",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "D. Removal, installation and operation .......... 35",
+          "runs": [
+            {
+              "text": "D. Removal, installation and operation .......... 35",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "D. Instrucciones de desmontaje, montaje y manejo .......... 35",
+          "runs": [
+            {
+              "text": "D. Instrucciones de desmontaje, montaje y manejo .......... 35",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para05",
+      "text": {
+        "de": {
+          "plain": "20. Panzerwanne .......... 35",
+          "runs": [
+            {
+              "text": "20. Panzerwanne .......... 35",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "20. Armoured hull .......... 35",
+          "runs": [
+            {
+              "text": "20. Armoured hull .......... 35",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "20. Casco blindado .......... 35",
+          "runs": [
+            {
+              "text": "20. Casco blindado .......... 35",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para06",
+      "text": {
+        "de": {
+          "plain": "21. Motor .......... 35",
+          "runs": [
+            {
+              "text": "21. Motor .......... 35",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "21. Engine .......... 35",
+          "runs": [
+            {
+              "text": "21. Engine .......... 35",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "21. Motor .......... 35",
+          "runs": [
+            {
+              "text": "21. Motor .......... 35",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para07",
+      "text": {
+        "de": {
+          "plain": "a) Schmierölfilter .......... 37",
+          "runs": [
+            {
+              "text": "a) Schmierölfilter .......... 37",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Lubricating-oil filter .......... 37",
+          "runs": [
+            {
+              "text": "a) Lubricating-oil filter .......... 37",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Filtro de aceite lubricante .......... 37",
+          "runs": [
+            {
+              "text": "a) Filtro de aceite lubricante .......... 37",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para08",
+      "text": {
+        "de": {
+          "plain": "b) Kühlanlage .......... 38",
+          "runs": [
+            {
+              "text": "b) Kühlanlage .......... 38",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Cooling system .......... 38",
+          "runs": [
+            {
+              "text": "b) Cooling system .......... 38",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Sistema de refrigeración .......... 38",
+          "runs": [
+            {
+              "text": "b) Sistema de refrigeración .......... 38",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para09",
+      "text": {
+        "de": {
+          "plain": "c) Luftfilter .......... 40",
+          "runs": [
+            {
+              "text": "c) Luftfilter .......... 40",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Air filter .......... 40",
+          "runs": [
+            {
+              "text": "c) Air filter .......... 40",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Filtro de aire .......... 40",
+          "runs": [
+            {
+              "text": "c) Filtro de aire .......... 40",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para10",
+      "text": {
+        "de": {
+          "plain": "d) Kraftstoffanlage .......... 40",
+          "runs": [
+            {
+              "text": "d) Kraftstoffanlage .......... 40",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Fuel system .......... 40",
+          "runs": [
+            {
+              "text": "d) Fuel system .......... 40",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Sistema de combustible .......... 40",
+          "runs": [
+            {
+              "text": "d) Sistema de combustible .......... 40",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para11",
+      "text": {
+        "de": {
+          "plain": "22. Aus- und Einbau der Gelenkwelle .......... 40",
+          "runs": [
+            {
+              "text": "22. Aus- und Einbau der Gelenkwelle .......... 40",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "22. Removal and installation of the cardan shaft .......... 40",
+          "runs": [
+            {
+              "text": "22. Removal and installation of the cardan shaft .......... 40",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "22. Desmontaje y montaje del árbol de transmisión .......... 40",
+          "runs": [
+            {
+              "text": "22. Desmontaje y montaje del árbol de transmisión .......... 40",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para12",
+      "text": {
+        "de": {
+          "plain": "23. Hauptkupplung und Wechselgetriebe .......... 41",
+          "runs": [
+            {
+              "text": "23. Hauptkupplung und Wechselgetriebe .......... 41",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "23. Main clutch and gearbox .......... 41",
+          "runs": [
+            {
+              "text": "23. Main clutch and gearbox .......... 41",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "23. Embrague principal y caja de cambios .......... 41",
+          "runs": [
+            {
+              "text": "23. Embrague principal y caja de cambios .......... 41",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para13",
+      "text": {
+        "de": {
+          "plain": "24. Kegeltrieb, Lenkgetriebe, Seitenwellen und Lenkbremse .......... 45",
+          "runs": [
+            {
+              "text": "24. Kegeltrieb, Lenkgetriebe, Seitenwellen und Lenkbremse .......... 45",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "24. Bevel drive, steering gear, side shafts and steering brake .......... 45",
+          "runs": [
+            {
+              "text": "24. Bevel drive, steering gear, side shafts and steering brake .......... 45",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "24. Par cónico, mecanismos de dirección, semiejes y freno de dirección .......... 45",
+          "runs": [
+            {
+              "text": "24. Par cónico, mecanismos de dirección, semiejes y freno de dirección .......... 45",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para14",
+      "text": {
+        "de": {
+          "plain": "25. Einstellen und Behandeln der Stütz- und Lenkbremse .......... 51",
+          "runs": [
+            {
+              "text": "25. Einstellen und Behandeln der Stütz- und Lenkbremse .......... 51",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "25. Adjusting and servicing the support and steering brake .......... 51",
+          "runs": [
+            {
+              "text": "25. Adjusting and servicing the support and steering brake .......... 51",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "25. Ajuste y mantenimiento del freno de apoyo y de dirección .......... 51",
+          "runs": [
+            {
+              "text": "25. Ajuste y mantenimiento del freno de apoyo y de dirección .......... 51",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para15",
+      "text": {
+        "de": {
+          "plain": "26. Kraftübertragung zum Lenken .......... 54",
+          "runs": [
+            {
+              "text": "26. Kraftübertragung zum Lenken .......... 54",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "26. Power transmission for steering .......... 54",
+          "runs": [
+            {
+              "text": "26. Power transmission for steering .......... 54",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "26. Transmisión de fuerza a la dirección .......... 54",
+          "runs": [
+            {
+              "text": "26. Transmisión de fuerza a la dirección .......... 54",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para16",
+      "text": {
+        "de": {
+          "plain": "27. Seitenvorgelege .......... 55",
+          "runs": [
+            {
+              "text": "27. Seitenvorgelege .......... 55",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "27. Final drive .......... 55",
+          "runs": [
+            {
+              "text": "27. Final drive .......... 55",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "27. Reductora final .......... 55",
+          "runs": [
+            {
+              "text": "27. Reductora final .......... 55",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para17",
+      "text": {
+        "de": {
+          "plain": "28. Laufwerk .......... 56",
+          "runs": [
+            {
+              "text": "28. Laufwerk .......... 56",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "28. Running gear .......... 56",
+          "runs": [
+            {
+              "text": "28. Running gear .......... 56",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "28. Tren de rodaje .......... 56",
+          "runs": [
+            {
+              "text": "28. Tren de rodaje .......... 56",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para18",
+      "text": {
+        "de": {
+          "plain": "a) Triebrad .......... 56",
+          "runs": [
+            {
+              "text": "a) Triebrad .......... 56",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Drive sprocket .......... 56",
+          "runs": [
+            {
+              "text": "a) Drive sprocket .......... 56",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Rueda motriz .......... 56",
+          "runs": [
+            {
+              "text": "a) Rueda motriz .......... 56",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para19",
+      "text": {
+        "de": {
+          "plain": "b) Leitrad und Leitradachse .......... 57",
+          "runs": [
+            {
+              "text": "b) Leitrad und Leitradachse .......... 57",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Idler wheel and idler axle .......... 57",
+          "runs": [
+            {
+              "text": "b) Idler wheel and idler axle .......... 57",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Rueda tensora y su eje .......... 57",
+          "runs": [
+            {
+              "text": "b) Rueda tensora y su eje .......... 57",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para20",
+      "text": {
+        "de": {
+          "plain": "c) Stützrollen, Laufrollen, Schwingarm, Stabfedern und Stoßdämpfer .......... 57",
+          "runs": [
+            {
+              "text": "c) Stützrollen, Laufrollen, Schwingarm, Stabfedern und Stoßdämpfer .......... 57",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Return rollers, road wheels, swing arm, torsion bars and shock absorbers .......... 57",
+          "runs": [
+            {
+              "text": "c) Return rollers, road wheels, swing arm, torsion bars and shock absorbers .......... 57",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Rodillos de retorno, ruedas de rodadura, brazo oscilante, barras de torsión y amortiguadores .......... 57",
+          "runs": [
+            {
+              "text": "c) Rodillos de retorno, ruedas de rodadura, brazo oscilante, barras de torsión y amortiguadores .......... 57",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para21",
+      "text": {
+        "de": {
+          "plain": "d) Gleiskette .......... 61",
+          "runs": [
+            {
+              "text": "d) Gleiskette .......... 61",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "d) Track .......... 61",
+          "runs": [
+            {
+              "text": "d) Track .......... 61",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "d) Cadena .......... 61",
+          "runs": [
+            {
+              "text": "d) Cadena .......... 61",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para22",
+      "text": {
+        "de": {
+          "plain": "E. Sondervorschriften .......... 63",
+          "runs": [
+            {
+              "text": "E. Sondervorschriften .......... 63",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "E. Special instructions .......... 63",
+          "runs": [
+            {
+              "text": "E. Special instructions .......... 63",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "E. Instrucciones especiales .......... 63",
+          "runs": [
+            {
+              "text": "E. Instrucciones especiales .......... 63",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para23",
+      "text": {
+        "de": {
+          "plain": "29. Dichtungsringe .......... 63",
+          "runs": [
+            {
+              "text": "29. Dichtungsringe .......... 63",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "29. Sealing rings .......... 63",
+          "runs": [
+            {
+              "text": "29. Sealing rings .......... 63",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "29. Retenes (juntas) .......... 63",
+          "runs": [
+            {
+              "text": "29. Retenes (juntas) .......... 63",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para24",
+      "text": {
+        "de": {
+          "plain": "30. Fernthermometer .......... 63",
+          "runs": [
+            {
+              "text": "30. Fernthermometer .......... 63",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "30. Remote thermometer .......... 63",
+          "runs": [
+            {
+              "text": "30. Remote thermometer .......... 63",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "30. Termómetro a distancia .......... 63",
+          "runs": [
+            {
+              "text": "30. Termómetro a distancia .......... 63",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para25",
+      "text": {
+        "de": {
+          "plain": "F. Fahrvorschrift .......... 65",
+          "runs": [
+            {
+              "text": "F. Fahrvorschrift .......... 65",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "F. Driving instructions .......... 65",
+          "runs": [
+            {
+              "text": "F. Driving instructions .......... 65",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "F. Instrucciones de conducción .......... 65",
+          "runs": [
+            {
+              "text": "F. Instrucciones de conducción .......... 65",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para26",
+      "text": {
+        "de": {
+          "plain": "31. Allgemeines .......... 65",
+          "runs": [
+            {
+              "text": "31. Allgemeines .......... 65",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "31. General .......... 65",
+          "runs": [
+            {
+              "text": "31. General .......... 65",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "31. Generalidades .......... 65",
+          "runs": [
+            {
+              "text": "31. Generalidades .......... 65",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para27",
+      "text": {
+        "de": {
+          "plain": "32. Überwinden von Hindernissen .......... 68",
+          "runs": [
+            {
+              "text": "32. Überwinden von Hindernissen .......... 68",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "32. Overcoming obstacles .......... 68",
+          "runs": [
+            {
+              "text": "32. Overcoming obstacles .......... 68",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "32. Superación de obstáculos .......... 68",
+          "runs": [
+            {
+              "text": "32. Superación de obstáculos .......... 68",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-006-para28",
+      "text": {
+        "de": {
+          "plain": "G. Bilder .......... 71",
+          "runs": [
+            {
+              "text": "G. Bilder .......... 71",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "G. Plates (Figures 1-31) .......... 71",
+          "runs": [
+            {
+              "text": "G. Plates (Figures 1-31) .......... 71",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "G. Láminas (figuras 1-31) .......... 71",
+          "runs": [
+            {
+              "text": "G. Láminas (figuras 1-31) .......... 71",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-005",
+    "next": "d65241a-page-007"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-061",
+  "document_id": "d652-41a",
+  "page": 61,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": "Stoßdämpfer, Bild 19",
+    "en-GB": "Shock absorbers, Figure 19",
+    "es-ES": "Amortiguadores, figura 19"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 31,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-061-para01",
+      "text": {
+        "de": {"plain": "Sonderwerkzeug im Werkstattwagen: Einbauvorrichtung für Schwingungsdämpferbolzen III DB 137, Ausziehvorrichtung für Schwingungsdämpferbolzen III DB 138.", "runs": [{"text": "Sonderwerkzeug im Werkstattwagen: ", "bold": true}, {"text": "Einbauvorrichtung für Schwingungsdämpferbolzen III DB 137, Ausziehvorrichtung für Schwingungsdämpferbolzen III DB 138.", "bold": false}]},
+        "en-GB": {"plain": "Special tools in the workshop vehicle: fitting device for shock-absorber bolts III DB 137; extracting device for shock-absorber bolts III DB 138.", "runs": [{"text": "Special tools in the workshop vehicle: ", "bold": true}, {"text": "fitting device for shock-absorber bolts III DB 137; extracting device for shock-absorber bolts III DB 138.", "bold": false}]},
+        "es-ES": {"plain": "Herramientas especiales en el vehículo taller: dispositivo de montaje de los bulones del amortiguador III DB 137; dispositivo de extracción de los bulones del amortiguador III DB 138.", "runs": [{"text": "Herramientas especiales en el vehículo taller: ", "bold": true}, {"text": "dispositivo de montaje de los bulones del amortiguador III DB 137; dispositivo de extracción de los bulones del amortiguador III DB 138.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para02",
+      "text": {
+        "de": {"plain": "Ein gut arbeitender Stoßdämpfer muß bei einer Fahrt über schlechtes Gelände oder längere Schlaglochstrecke etwa 50°, bei einer Fahrt über normale Grasnarbe gut handwarm werden. Bleibt ein Stoßdämpfer kalt, so ist entweder auf Ölmangel oder auf einen Schaden zu schließen.", "runs": [{"text": "Ein gut arbeitender Stoßdämpfer muß bei einer Fahrt über schlechtes Gelände oder längere Schlaglochstrecke etwa 50°, bei einer Fahrt über normale Grasnarbe gut handwarm werden. Bleibt ein Stoßdämpfer kalt, so ist entweder auf Ölmangel oder auf einen Schaden zu schließen.", "bold": false}]},
+        "en-GB": {"plain": "A well-functioning shock absorber must, on a run over poor terrain or a longer stretch of potholes, reach about 50 °C (felt by hand); on a run over normal grass sward it becomes hand-warm. If a shock absorber stays cold, either a lack of oil or a defect is to be inferred.", "runs": [{"text": "A well-functioning shock absorber must, on a run over poor terrain or a longer stretch of potholes, reach about 50 °C (felt by hand); on a run over normal grass sward it becomes hand-warm. If a shock absorber stays cold, either a lack of oil or a defect is to be inferred.", "bold": false}]},
+        "es-ES": {"plain": "Un amortiguador que funcione bien debe, en una marcha por terreno malo o por un tramo largo de baches, alcanzar unos 50 °C (apreciable al tacto); en una marcha por césped normal se pone tibio. Si un amortiguador permanece frío, cabe deducir falta de aceite o una avería.", "runs": [{"text": "Un amortiguador que funcione bien debe, en una marcha por terreno malo o por un tramo largo de baches, alcanzar unos 50 °C (apreciable al tacto); en una marcha por césped normal se pone tibio. Si un amortiguador permanece frío, cabe deducir falta de aceite o una avería.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para03",
+      "text": {
+        "de": {"plain": "Beim Einbau eines neuen Stoßdämpfers ist darauf zu achten, daß die Rille im oberen Gelenkkopf dem Fahrzeug zugekehrt ist.", "runs": [{"text": "Beim Einbau eines neuen Stoßdämpfers ist darauf zu achten, daß die Rille im oberen Gelenkkopf dem Fahrzeug zugekehrt ist.", "bold": false}]},
+        "en-GB": {"plain": "When fitting a new shock absorber, ensure that the groove in the upper joint head faces the vehicle.", "runs": [{"text": "When fitting a new shock absorber, ensure that the groove in the upper joint head faces the vehicle.", "bold": false}]},
+        "es-ES": {"plain": "Al montar un amortiguador nuevo, procure que la ranura de la cabeza de articulación superior quede orientada hacia el vehículo.", "runs": [{"text": "Al montar un amortiguador nuevo, procure que la ranura de la cabeza de articulación superior quede orientada hacia el vehículo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para04",
+      "text": {
+        "de": {"plain": "Nachfüllen der Stoßdämpfer", "runs": [{"text": "Nachfüllen der Stoßdämpfer", "bold": true}]},
+        "en-GB": {"plain": "Nachfüllen der Stoßdämpfer – Topping up the shock absorbers", "runs": [{"text": "Nachfüllen der Stoßdämpfer – Topping up the shock absorbers", "bold": true}]},
+        "es-ES": {"plain": "Nachfüllen der Stoßdämpfer – Reposición de aceite de los amortiguadores", "runs": [{"text": "Nachfüllen der Stoßdämpfer – Reposición de aceite de los amortiguadores", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para05",
+      "text": {
+        "de": {"plain": "Die Überprüfung des Ölstandes muß alle 500 km vorgenommen werden.", "runs": [{"text": "Die Überprüfung des Ölstandes muß alle 500 km vorgenommen werden.", "bold": false}]},
+        "en-GB": {"plain": "The oil level must be checked every 500 km.", "runs": [{"text": "The oil level must be checked every 500 km.", "bold": false}]},
+        "es-ES": {"plain": "El nivel de aceite debe comprobarse cada 500 km.", "runs": [{"text": "El nivel de aceite debe comprobarse cada 500 km.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para06",
+      "text": {
+        "de": {"plain": "Nach Entfernen des Verschlußdeckels am äußeren Schutzrohr wird bei normaler Belastung des Fahrzeuges die durch eine Verschlußschraube verschlossene Einfüllöffnung sichtbar. Durch diese Öffnung kann der Ölstand überprüft und bei Bedarf Öl nachgefüllt werden. Bei normaler Belastung muß das Öl bis Unterkante Einfüllöffnung reichen. Sollte bei einer ungünstigen Stellung des Laufwerkes die Öleinfüllschraube nicht erreichbar sein, so muß das Fahrzeug in Normalstellung gebracht werden.", "runs": [{"text": "Nach Entfernen des Verschlußdeckels am äußeren Schutzrohr wird bei normaler Belastung des Fahrzeuges die durch eine Verschlußschraube verschlossene Einfüllöffnung sichtbar. Durch diese Öffnung kann der Ölstand überprüft und bei Bedarf Öl nachgefüllt werden. Bei normaler Belastung muß das Öl bis Unterkante Einfüllöffnung reichen. Sollte bei einer ungünstigen Stellung des Laufwerkes die Öleinfüllschraube nicht erreichbar sein, so muß das Fahrzeug in Normalstellung gebracht werden.", "bold": false}]},
+        "en-GB": {"plain": "After removing the closing cover on the outer protective tube, the filler opening – closed by a screw – becomes visible with the vehicle under normal load. Through this opening the oil level can be checked and oil topped up as needed. Under normal load the oil must reach the lower edge of the filler opening. If, with an unfavourable position of the running gear, the oil filler screw is not accessible, the vehicle must be brought into the normal position.", "runs": [{"text": "After removing the closing cover on the outer protective tube, the filler opening – closed by a screw – becomes visible with the vehicle under normal load. Through this opening the oil level can be checked and oil topped up as needed. Under normal load the oil must reach the lower edge of the filler opening. If, with an unfavourable position of the running gear, the oil filler screw is not accessible, the vehicle must be brought into the normal position.", "bold": false}]},
+        "es-ES": {"plain": "Tras retirar la tapa de cierre del tubo protector exterior, la boca de llenado –cerrada por un tornillo– queda visible con el vehículo bajo carga normal. Por esta boca puede comprobarse el nivel de aceite y reponer aceite según haga falta. Bajo carga normal, el aceite debe llegar al borde inferior de la boca de llenado. Si, con una posición desfavorable del tren de rodaje, el tornillo de llenado de aceite no queda accesible, hay que llevar el vehículo a la posición normal.", "runs": [{"text": "Tras retirar la tapa de cierre del tubo protector exterior, la boca de llenado –cerrada por un tornillo– queda visible con el vehículo bajo carga normal. Por esta boca puede comprobarse el nivel de aceite y reponer aceite según haga falta. Bajo carga normal, el aceite debe llegar al borde inferior de la boca de llenado. Si, con una posición desfavorable del tren de rodaje, el tornillo de llenado de aceite no queda accesible, hay que llevar el vehículo a la posición normal.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para07",
+      "text": {
+        "de": {"plain": "Schwingarm und Stabfedern — Ausbau, Bild 30 (Sonderwerkzeug III DB 92, 100 bis 103, 121, 129)", "runs": [{"text": "Schwingarm und Stabfedern — Ausbau, Bild 30 (Sonderwerkzeug III DB 92, 100 bis 103, 121, 129)", "bold": true}]},
+        "en-GB": {"plain": "Schwingarm und Stabfedern – Ausbau, Bild 30 (Sonderwerkzeug III DB 92, 100 bis 103, 121, 129) – Swing arm and torsion bars – Removal, Figure 30 (special tools III DB 92, 100 to 103, 121, 129)", "runs": [{"text": "Schwingarm und Stabfedern – Ausbau, Bild 30 (Sonderwerkzeug III DB 92, 100 bis 103, 121, 129) – Swing arm and torsion bars – Removal, Figure 30 (special tools III DB 92, 100 to 103, 121, 129)", "bold": true}]},
+        "es-ES": {"plain": "Schwingarm und Stabfedern – Ausbau, Bild 30 (Sonderwerkzeug III DB 92, 100 bis 103, 121, 129) – Brazo oscilante y barras de torsión – Desmontaje, figura 30 (herramientas especiales III DB 92, 100 a 103, 121, 129)", "runs": [{"text": "Schwingarm und Stabfedern – Ausbau, Bild 30 (Sonderwerkzeug III DB 92, 100 bis 103, 121, 129) – Brazo oscilante y barras de torsión – Desmontaje, figura 30 (herramientas especiales III DB 92, 100 a 103, 121, 129)", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para08",
+      "text": {
+        "de": {"plain": "Bild 30 1 Laufrolle abnehmen. Aus der Lagernuß der Stabfeder des betreffenden Schwingarmes nach Entfernen des Bodendeckels die beiden Haltestifte herausziehen (III DB 100).", "runs": [{"text": "Bild 30 1 Laufrolle abnehmen. Aus der Lagernuß der Stabfeder des betreffenden Schwingarmes nach Entfernen des Bodendeckels die beiden Haltestifte herausziehen (III DB 100).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 30/1 – Take off the road wheel. From the bearing socket (Lagernuß) of the torsion bar of the relevant swing arm, after removing the floor cover, pull out the two retaining pins (III DB 100).", "runs": [{"text": "Fig. 30/1 – Take off the road wheel. From the bearing socket (Lagernuß) of the torsion bar of the relevant swing arm, after removing the floor cover, pull out the two retaining pins (III DB 100).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 30/1 – Retire la rueda de rodadura. Del alojamiento (Lagernuß) de la barra de torsión del brazo oscilante en cuestión, tras retirar la tapa del piso, extraiga los dos pasadores de retención (III DB 100).", "runs": [{"text": "Fig. 30/1 – Retire la rueda de rodadura. Del alojamiento (Lagernuß) de la barra de torsión del brazo oscilante en cuestión, tras retirar la tapa del piso, extraiga los dos pasadores de retención (III DB 100).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para09",
+      "text": {
+        "de": {"plain": "Bild 30 2 Verschlußkappe aus dem Schwingarm herausschrauben (III DB 129) und die Muttern und Unterlegscheiben vom Stabfederzapfen abschrauben. Stabfeder herausziehen (III DB 101) und die Lagernuß nach oben herausdrücken.", "runs": [{"text": "Bild 30 2 Verschlußkappe aus dem Schwingarm herausschrauben (III DB 129) und die Muttern und Unterlegscheiben vom Stabfederzapfen abschrauben. Stabfeder herausziehen (III DB 101) und die Lagernuß nach oben herausdrücken.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 30/2 – Unscrew the closing cap from the swing arm (III DB 129) and unscrew the nuts and washers from the torsion-bar journal. Pull out the torsion bar (III DB 101) and press the bearing socket upward out.", "runs": [{"text": "Fig. 30/2 – Unscrew the closing cap from the swing arm (III DB 129) and unscrew the nuts and washers from the torsion-bar journal. Pull out the torsion bar (III DB 101) and press the bearing socket upward out.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 30/2 – Desenrosque la tapa de cierre del brazo oscilante (III DB 129) y desenrosque las tuercas y arandelas del muñón de la barra de torsión. Extraiga la barra de torsión (III DB 101) y expulse el alojamiento hacia arriba.", "runs": [{"text": "Fig. 30/2 – Desenrosque la tapa de cierre del brazo oscilante (III DB 129) y desenrosque las tuercas y arandelas del muñón de la barra de torsión. Extraiga la barra de torsión (III DB 101) y expulse el alojamiento hacia arriba.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para10",
+      "text": {
+        "de": {"plain": "Bild 30 3 Schwingarm aus dem Lager herausziehen (III DB 92, 102).", "runs": [{"text": "Bild 30 3 Schwingarm aus dem Lager herausziehen (III DB 92, 102).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 30/3 – Pull the swing arm out of the bearing (III DB 92, 102).", "runs": [{"text": "Fig. 30/3 – Pull the swing arm out of the bearing (III DB 92, 102).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 30/3 – Extraiga el brazo oscilante del cojinete (III DB 92, 102).", "runs": [{"text": "Fig. 30/3 – Extraiga el brazo oscilante del cojinete (III DB 92, 102).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-061-para11",
+      "text": {
+        "de": {"plain": "Bild 30 4 Nach Entfernen der hinteren Nutmutter am Schwingarmlagerschenkel, Schwingarmflansch, Nadellager, Beilegscheiben und Abstandhülsen abdrücken (III DB 103).", "runs": [{"text": "Bild 30 4 Nach Entfernen der hinteren Nutmutter am Schwingarmlagerschenkel, Schwingarmflansch, Nadellager, Beilegscheiben und Abstandhülsen abdrücken (III DB 103).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 30/4 – After removing the rear slotted nut on the swing-arm bearing leg, press off the swing-arm flange, needle bearing, shim washers and spacer sleeves (III DB 103).", "runs": [{"text": "Fig. 30/4 – After removing the rear slotted nut on the swing-arm bearing leg, press off the swing-arm flange, needle bearing, shim washers and spacer sleeves (III DB 103).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 30/4 – Tras retirar la tuerca ranurada trasera de la pata de cojinete del brazo oscilante, expulse la brida del brazo, el cojinete de agujas, las arandelas de ajuste y los manguitos separadores (III DB 103).", "runs": [{"text": "Fig. 30/4 – Tras retirar la tuerca ranurada trasera de la pata de cojinete del brazo oscilante, expulse la brida del brazo, el cojinete de agujas, las arandelas de ajuste y los manguitos separadores (III DB 103).", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-060",
+    "next": "d65241a-page-062"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-064",
+  "document_id": "d652-41a",
+  "page": 64,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 33,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-064-para01",
+      "text": {
+        "de": {"plain": "Wanne, den zum Austreiben benutzten Kettenbolzen herausschlagen und den neuen Kettenbolzen durch eine Kettenbolzensicherung sichern. Kette spannen.", "runs": [{"text": "Wanne, den zum Austreiben benutzten Kettenbolzen herausschlagen und den neuen Kettenbolzen durch eine Kettenbolzensicherung sichern. Kette spannen.", "bold": false}]},
+        "en-GB": {"plain": "– the hull, knock out the track pin used for driving out, and secure the new track pin with a track-pin retainer. Tension the track.", "runs": [{"text": "– the hull, knock out the track pin used for driving out, and secure the new track pin with a track-pin retainer. Tension the track.", "bold": false}]},
+        "es-ES": {"plain": "– el casco, expulse el bulón usado para el desmontaje y asegure el bulón nuevo con un seguro de bulón. Tense la cadena.", "runs": [{"text": "– el casco, expulse el bulón usado para el desmontaje y asegure el bulón nuevo con un seguro de bulón. Tense la cadena.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para02",
+      "text": {
+        "de": {"plain": "Beim Ausbau eines stark beschädigten Kettenbolzens empfiehlt es sich, die Vorrichtung III DB 54 zu benutzen und vor dem Ausschlagen den beschädigten Kettenbolzen um etwa 90° zu drehen.", "runs": [{"text": "Beim Ausbau eines stark beschädigten Kettenbolzens empfiehlt es sich, die Vorrichtung III DB 54 zu benutzen und vor dem Ausschlagen den beschädigten Kettenbolzen um etwa 90° zu drehen.", "bold": false}]},
+        "en-GB": {"plain": "When removing a badly damaged track pin, it is advisable to use tool III DB 54 and to turn the damaged pin about 90° before knocking it out.", "runs": [{"text": "When removing a badly damaged track pin, it is advisable to use tool III DB 54 and to turn the damaged pin about 90° before knocking it out.", "bold": false}]},
+        "es-ES": {"plain": "Al retirar un bulón muy dañado, conviene usar la herramienta III DB 54 y girar el bulón dañado unos 90° antes de expulsarlo.", "runs": [{"text": "Al retirar un bulón muy dañado, conviene usar la herramienta III DB 54 y girar el bulón dañado unos 90° antes de expulsarlo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para03",
+      "text": {
+        "de": {"plain": "Abnutzung der Kette", "runs": [{"text": "Abnutzung der Kette", "bold": true}]},
+        "en-GB": {"plain": "Abnutzung der Kette – Track wear", "runs": [{"text": "Abnutzung der Kette – Track wear", "bold": true}]},
+        "es-ES": {"plain": "Abnutzung der Kette – Desgaste de la cadena", "runs": [{"text": "Abnutzung der Kette – Desgaste de la cadena", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para04",
+      "text": {
+        "de": {"plain": "Die durch das Fahren hervorgerufene Abnutzung der Kettenbolzen und Augen an den Kettengliedern verursacht eine Vergrößerung der Kettenteilung. Die Abnutzung kann soweit zugelassen werden, bis beim Vorwärtsfahren die Vorwärtsflanken des Triebrades den Kettenauflauf behindern. In diesem Falle sind die Kettenbolzen zu erneuern und, damit die noch nicht abgenutzten Zahnflanken zum Eingriff mit der Kette kommen, die Zahnkränze eines jeden Triebrades miteinander auszutauschen.", "runs": [{"text": "Die durch das Fahren hervorgerufene Abnutzung der Kettenbolzen und Augen an den Kettengliedern verursacht eine Vergrößerung der Kettenteilung. Die Abnutzung kann soweit zugelassen werden, bis beim Vorwärtsfahren die Vorwärtsflanken des Triebrades den Kettenauflauf behindern. In diesem Falle sind die Kettenbolzen zu erneuern und, damit die noch nicht abgenutzten Zahnflanken zum Eingriff mit der Kette kommen, die Zahnkränze eines jeden Triebrades miteinander auszutauschen.", "bold": false}]},
+        "en-GB": {"plain": "The wear of the track pins and eyes on the track links caused by driving results in an increase of the track pitch. The wear may be allowed until, when driving forward, the forward flanks of the drive sprocket hinder the track from running on. In this case the track pins are to be renewed and, so that the still-unworn tooth flanks come into engagement with the track, the sprocket rings of each drive sprocket are to be interchanged.", "runs": [{"text": "The wear of the track pins and eyes on the track links caused by driving results in an increase of the track pitch. The wear may be allowed until, when driving forward, the forward flanks of the drive sprocket hinder the track from running on. In this case the track pins are to be renewed and, so that the still-unworn tooth flanks come into engagement with the track, the sprocket rings of each drive sprocket are to be interchanged.", "bold": false}]},
+        "es-ES": {"plain": "El desgaste de los bulones y de los ojales de los eslabones causado por la marcha produce un aumento del paso de cadena. El desgaste puede admitirse hasta que, marchando hacia delante, los flancos delanteros de la rueda motriz impidan que la cadena siga entrando. En tal caso hay que renovar los bulones y, para que los flancos de diente aún sin desgastar entren en engrane con la cadena, intercambiar las coronas dentadas de cada rueda motriz.", "runs": [{"text": "El desgaste de los bulones y de los ojales de los eslabones causado por la marcha produce un aumento del paso de cadena. El desgaste puede admitirse hasta que, marchando hacia delante, los flancos delanteros de la rueda motriz impidan que la cadena siga entrando. En tal caso hay que renovar los bulones y, para que los flancos de diente aún sin desgastar entren en engrane con la cadena, intercambiar las coronas dentadas de cada rueda motriz.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para05",
+      "text": {
+        "de": {"plain": "Beim Einbau mehrerer neuer Kettenglieder ist darauf zu achten, daß diese nicht unmittelbar hintereinander eingebaut, sondern gleichmäßig auf die ganze Kette verteilt werden.", "runs": [{"text": "Beim Einbau mehrerer neuer Kettenglieder ist darauf zu achten, daß diese nicht unmittelbar hintereinander eingebaut, sondern gleichmäßig auf die ganze Kette verteilt werden.", "bold": false}]},
+        "en-GB": {"plain": "When fitting several new track links, ensure that they are not fitted directly one behind another but distributed evenly over the whole track.", "runs": [{"text": "When fitting several new track links, ensure that they are not fitted directly one behind another but distributed evenly over the whole track.", "bold": false}]},
+        "es-ES": {"plain": "Al montar varios eslabones nuevos, procure no montarlos directamente uno tras otro, sino repartidos uniformemente por toda la cadena.", "runs": [{"text": "Al montar varios eslabones nuevos, procure no montarlos directamente uno tras otro, sino repartidos uniformemente por toda la cadena.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para06",
+      "text": {
+        "de": {"plain": "Läuft ein Fahrzeug dauernd nach einer Seite ab, so liegt ein einseitiges Dehnen der Kette (z. B. Überbeanspruchung einer Gleiskette) vor. Eine Abhilfe erfolgt dadurch, daß beide Ketten in je 12 bis 15 Teile zerlegt und entsprechende Teile (etwa jedes zweite Teilstück) beider Ketten miteinander vertauscht werden. Hierbei sind dann auch gleichzeitig abgenutzte Kettenbolzen, Kettenglieder und Zahnkränze zu ersetzen.", "runs": [{"text": "Läuft ein Fahrzeug dauernd nach einer Seite ab, so liegt ein einseitiges Dehnen der Kette (z. B. Überbeanspruchung einer Gleiskette) vor. Eine Abhilfe erfolgt dadurch, daß beide Ketten in je 12 bis 15 Teile zerlegt und entsprechende Teile (etwa jedes zweite Teilstück) beider Ketten miteinander vertauscht werden. Hierbei sind dann auch gleichzeitig abgenutzte Kettenbolzen, Kettenglieder und Zahnkränze zu ersetzen.", "bold": false}]},
+        "en-GB": {"plain": "If a vehicle continually runs off to one side, a one-sided stretching of the track is present (e.g. overloading of one track). A remedy is to divide both tracks into 12 to 15 parts and interchange corresponding parts (about every second section) of the two tracks. At the same time, worn track pins, track links and sprocket rings are to be replaced.", "runs": [{"text": "If a vehicle continually runs off to one side, a one-sided stretching of the track is present (e.g. overloading of one track). A remedy is to divide both tracks into 12 to 15 parts and interchange corresponding parts (about every second section) of the two tracks. At the same time, worn track pins, track links and sprocket rings are to be replaced.", "bold": false}]},
+        "es-ES": {"plain": "Si un vehículo se desvía continuamente hacia un lado, hay un estirado unilateral de la cadena (p. ej., sobrecarga de una cadena). El remedio es dividir ambas cadenas en 12 a 15 partes e intercambiar partes correspondientes (aproximadamente cada segundo tramo) de las dos cadenas. Al mismo tiempo, hay que sustituir los bulones, eslabones y coronas dentadas gastados.", "runs": [{"text": "Si un vehículo se desvía continuamente hacia un lado, hay un estirado unilateral de la cadena (p. ej., sobrecarga de una cadena). El remedio es dividir ambas cadenas en 12 a 15 partes e intercambiar partes correspondientes (aproximadamente cada segundo tramo) de las dos cadenas. Al mismo tiempo, hay que sustituir los bulones, eslabones y coronas dentadas gastados.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para07",
+      "text": {
+        "de": {"plain": "Verhalten bei Kettenentgleisung", "runs": [{"text": "Verhalten bei Kettenentgleisung", "bold": true}]},
+        "en-GB": {"plain": "Verhalten bei Kettenentgleisung – Action in the event of track derailment", "runs": [{"text": "Verhalten bei Kettenentgleisung – Action in the event of track derailment", "bold": true}]},
+        "es-ES": {"plain": "Verhalten bei Kettenentgleisung – Actuación en caso de descarrilamiento de la cadena", "runs": [{"text": "Verhalten bei Kettenentgleisung – Actuación en caso de descarrilamiento de la cadena", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para08",
+      "text": {
+        "de": {"plain": "Läuft eine Kette auf das Leitrad nach außen auf, so ist vorwärts zu fahren und die Lenkbremse der nicht entgleisten Fahrzeugseite anzuziehen.", "runs": [{"text": "Läuft eine Kette auf das Leitrad nach außen auf, so ist vorwärts zu fahren und die Lenkbremse der nicht entgleisten Fahrzeugseite anzuziehen.", "bold": false}]},
+        "en-GB": {"plain": "If a track runs off the idler wheel to the outside, drive forward and apply the steering brake of the non-derailed side.", "runs": [{"text": "If a track runs off the idler wheel to the outside, drive forward and apply the steering brake of the non-derailed side.", "bold": false}]},
+        "es-ES": {"plain": "Si una cadena se sale de la rueda tensora hacia fuera, avance y aplique el freno de dirección del lado no descarrilado.", "runs": [{"text": "Si una cadena se sale de la rueda tensora hacia fuera, avance y aplique el freno de dirección del lado no descarrilado.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para09",
+      "text": {
+        "de": {"plain": "Läuft eine Kette auf das Leitrad nach innen auf, so ist vorwärts zu fahren und die Lenkbremse der entgleisten Seite anzuziehen.", "runs": [{"text": "Läuft eine Kette auf das Leitrad nach innen auf, so ist vorwärts zu fahren und die Lenkbremse der entgleisten Seite anzuziehen.", "bold": false}]},
+        "en-GB": {"plain": "If a track runs off the idler wheel to the inside, drive forward and apply the steering brake of the derailed side.", "runs": [{"text": "If a track runs off the idler wheel to the inside, drive forward and apply the steering brake of the derailed side.", "bold": false}]},
+        "es-ES": {"plain": "Si una cadena se sale de la rueda tensora hacia dentro, avance y aplique el freno de dirección del lado descarrilado.", "runs": [{"text": "Si una cadena se sale de la rueda tensora hacia dentro, avance y aplique el freno de dirección del lado descarrilado.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-064-para10",
+      "text": {
+        "de": {"plain": "Bei einer Entgleisung des unteren Teiles der Kette wird zunächst am Leitrad ein Kettenbolzen entfernt. Durch entsprechendes Vor- und Rückwärtsfahren wird das entgleiste untere Kettentrumm in die normale Lage gebracht. Dann wird das Leitrad nach vorn gestellt, der Kettenbolzen eingebaut und schließlich die Kette wieder auf die normale Spannung gebracht.", "runs": [{"text": "Bei einer Entgleisung des unteren Teiles der Kette wird zunächst am Leitrad ein Kettenbolzen entfernt. Durch entsprechendes Vor- und Rückwärtsfahren wird das entgleiste untere Kettentrumm in die normale Lage gebracht. Dann wird das Leitrad nach vorn gestellt, der Kettenbolzen eingebaut und schließlich die Kette wieder auf die normale Spannung gebracht.", "bold": false}]},
+        "en-GB": {"plain": "If the lower part of the track derails, first remove a track pin at the idler wheel. By appropriate forward and reverse driving, the derailed lower track run is brought back into the normal position. Then set the idler wheel forward, fit the track pin and finally bring the track back to normal tension.", "runs": [{"text": "If the lower part of the track derails, first remove a track pin at the idler wheel. By appropriate forward and reverse driving, the derailed lower track run is brought back into the normal position. Then set the idler wheel forward, fit the track pin and finally bring the track back to normal tension.", "bold": false}]},
+        "es-ES": {"plain": "Si descarrila el ramal inferior de la cadena, retire primero un bulón en la rueda tensora. Mediante marcha adelante y atrás adecuada, el ramal inferior descarrilado se devuelve a la posición normal. Adelante después la rueda tensora, monte el bulón y lleve por último la cadena a su tensión normal.", "runs": [{"text": "Si descarrila el ramal inferior de la cadena, retire primero un bulón en la rueda tensora. Mediante marcha adelante y atrás adecuada, el ramal inferior descarrilado se devuelve a la posición normal. Adelante después la rueda tensora, monte el bulón y lleve por último la cadena a su tensión normal.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-063",
+    "next": "d65241a-page-065"
+  }
+}

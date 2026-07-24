@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-025",
+  "document_id": "d652-41a",
+  "page": 25,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 13,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p025-para01",
+      "text": {
+        "de": {
+          "plain": "… tretende Reibungskraft in der Drehrichtung der Bremstrommel etwas mitgenommen und überträgt die Mitnahmekraft durch die Nachstellvorrichtung Nr. 6 auf die andere Bremsbacke, die „Erregte Bremsbacke Nr. 11\". Hierdurch wird diese ebenfalls, aber kräftiger, an die Bremstrommel gepreßt. Während des Bremsvorganges stützt sich die „Erregte Bremsbacke Nr. 11\" gegen den Anschlag Nr. 7 am Gehäuse Nr. 1 ab, der somit die Bremsumfangskraft beider Bremsbacken aufnimmt.",
+          "runs": [
+            {
+              "text": "… tretende Reibungskraft in der Drehrichtung der Bremstrommel etwas mitgenommen und überträgt die Mitnahmekraft durch die Nachstellvorrichtung Nr. 6 auf die andere Bremsbacke, die „Erregte Bremsbacke Nr. 11\". Hierdurch wird diese ebenfalls, aber kräftiger, an die Bremstrommel gepreßt. Während des Bremsvorganges stützt sich die „Erregte Bremsbacke Nr. 11\" gegen den Anschlag Nr. 7 am Gehäuse Nr. 1 ab, der somit die Bremsumfangskraft beider Bremsbacken aufnimmt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… friction force that arises — carried along somewhat in the direction of rotation of the brake drum, and transmits this drag force through the adjusting device No. 6 to the other brake shoe, the “excited shoe No. 11” (Erregte Bremsbacke). This shoe too is thereby pressed against the drum, but more strongly. During braking, the excited shoe No. 11 braces itself against the stop No. 7 (Anschlag) on housing No. 1, which thus takes up the braking circumferential force of both shoes.",
+          "runs": [
+            {
+              "text": "… friction force that arises — carried along somewhat in the direction of rotation of the brake drum, and transmits this drag force through the adjusting device No. 6 to the other brake shoe, the “excited shoe No. 11” (Erregte Bremsbacke). This shoe too is thereby pressed against the drum, but more strongly. During braking, the excited shoe No. 11 braces itself against the stop No. 7 (Anschlag) on housing No. 1, which thus takes up the braking circumferential force of both shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… fuerza de rozamiento que surge —arrastrada algo en el sentido de giro del tambor de freno, y transmite esta fuerza de arrastre a través del dispositivo de reglaje n.º 6 a la otra zapata, la «zapata excitada n.º 11» (Erregte Bremsbacke). Esta zapata queda así también presionada contra el tambor, pero con más fuerza. Durante el frenado, la zapata excitada n.º 11 se apoya contra el tope n.º 7 (Anschlag) de la carcasa n.º 1, que absorbe así la fuerza circunferencial de frenado de ambas zapatas.",
+          "runs": [
+            {
+              "text": "… fuerza de rozamiento que surge —arrastrada algo en el sentido de giro del tambor de freno, y transmite esta fuerza de arrastre a través del dispositivo de reglaje n.º 6 a la otra zapata, la «zapata excitada n.º 11» (Erregte Bremsbacke). Esta zapata queda así también presionada contra el tambor, pero con más fuerza. Durante el frenado, la zapata excitada n.º 11 se apoya contra el tope n.º 7 (Anschlag) de la carcasa n.º 1, que absorbe así la fuerza circunferencial de frenado de ambas zapatas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para02",
+      "text": {
+        "de": {
+          "plain": "Je nach dem Spiel zwischen Bremsbacke und Trommel entfernt sich die „Erregte Bremsbacke Nr. 10\" mehr oder weniger vom Anschlag am Gehäuse; der gelenkig angeordnete Bremskeil stellt sich dabei entsprechend ein.",
+          "runs": [
+            {
+              "text": "Je nach dem Spiel zwischen Bremsbacke und Trommel entfernt sich die „Erregte Bremsbacke Nr. 10\" mehr oder weniger vom Anschlag am Gehäuse; der gelenkig angeordnete Bremskeil stellt sich dabei entsprechend ein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Depending on the clearance between shoe and drum, shoe No. 10 moves more or less away from the stop on the housing; the articulated brake wedge adjusts itself accordingly.",
+          "runs": [
+            {
+              "text": "Depending on the clearance between shoe and drum, shoe No. 10 moves more or less away from the stop on the housing; the articulated brake wedge adjusts itself accordingly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Según la holgura entre zapata y tambor, la zapata n.º 10 se aleja más o menos del tope de la carcasa; la cuña de freno articulada se ajusta en consecuencia.",
+          "runs": [
+            {
+              "text": "Según la holgura entre zapata y tambor, la zapata n.º 10 se aleja más o menos del tope de la carcasa; la cuña de freno articulada se ajusta en consecuencia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para03",
+      "text": {
+        "de": {
+          "plain": "9. Kraftübertragung zum Lenken",
+          "runs": [
+            {
+              "text": "9. Kraftübertragung zum Lenken",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "9. Power transmission for steering (Kraftübertragung zum Lenken)",
+          "runs": [
+            {
+              "text": "9. Power transmission for steering (Kraftübertragung zum Lenken)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "9. Transmisión de fuerza a la dirección (Kraftübertragung zum Lenken)",
+          "runs": [
+            {
+              "text": "9. Transmisión de fuerza a la dirección (Kraftübertragung zum Lenken)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para04",
+      "text": {
+        "de": {
+          "plain": "Mech. Kraftübertragung, Bild 25",
+          "runs": [
+            {
+              "text": "Mech. Kraftübertragung, Bild 25",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Mechanical power transmission (Mech. Kraftübertragung), Figure 25",
+          "runs": [
+            {
+              "text": "Mechanical power transmission (Mech. Kraftübertragung), Figure 25",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Transmisión de fuerza mecánica (Mech. Kraftübertragung), figura 25",
+          "runs": [
+            {
+              "text": "Transmisión de fuerza mecánica (Mech. Kraftübertragung), figura 25",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para05",
+      "text": {
+        "de": {
+          "plain": "Zur Übertragung der an den Lenkhebeln ausgeübten Kräfte auf die Stütz- und Lenkbremse dient ein Lenkgestänge. Dieses besteht im wesentlichen aus den Handhebeln mit Übertragungswellen und einstellbaren Verbindungsstangen.",
+          "runs": [
+            {
+              "text": "Zur Übertragung der an den Lenkhebeln ausgeübten Kräfte auf die Stütz- und Lenkbremse dient ein Lenkgestänge. Dieses besteht im wesentlichen aus den Handhebeln mit Übertragungswellen und einstellbaren Verbindungsstangen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A steering linkage (Lenkgestänge) transmits the forces applied at the steering levers to the support and steering brakes. It consists essentially of the hand levers with transmission shafts (Übertragungswellen) and adjustable connecting rods (Verbindungsstangen).",
+          "runs": [
+            {
+              "text": "A steering linkage (Lenkgestänge) transmits the forces applied at the steering levers to the support and steering brakes. It consists essentially of the hand levers with transmission shafts (Übertragungswellen) and adjustable connecting rods (Verbindungsstangen).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Un varillaje de dirección (Lenkgestänge) transmite las fuerzas aplicadas en las palancas de dirección a los frenos de apoyo y de dirección. Se compone esencialmente de las palancas de mano con ejes de transmisión (Übertragungswellen) y bielas de unión regulables (Verbindungsstangen).",
+          "runs": [
+            {
+              "text": "Un varillaje de dirección (Lenkgestänge) transmite las fuerzas aplicadas en las palancas de dirección a los frenos de apoyo y de dirección. Se compone esencialmente de las palancas de mano con ejes de transmisión (Übertragungswellen) y bielas de unión regulables (Verbindungsstangen).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para06",
+      "text": {
+        "de": {
+          "plain": "Links und rechts des Fahrersitzes ist je ein Lenkhebel vorgesehen, die in besonderen Lagerböcken gelagert sind.",
+          "runs": [
+            {
+              "text": "Links und rechts des Fahrersitzes ist je ein Lenkhebel vorgesehen, die in besonderen Lagerböcken gelagert sind.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A steering lever is provided on each side of the driver's seat, mounted in special bearing brackets (Lagerböcke).",
+          "runs": [
+            {
+              "text": "A steering lever is provided on each side of the driver's seat, mounted in special bearing brackets (Lagerböcke).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A cada lado del asiento del conductor se dispone una palanca de dirección, montada en soportes especiales (Lagerböcke).",
+          "runs": [
+            {
+              "text": "A cada lado del asiento del conductor se dispone una palanca de dirección, montada en soportes especiales (Lagerböcke).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para07",
+      "text": {
+        "de": {
+          "plain": "Die Bewegung eines jeden Lenkhebels wirkt über ein Zwischengestänge auf einen entsprechenden am Lenkgetriebe gelagerten Rollenhebel. Von dort werden sie auf den als Kurvenhebel ausgebildeten Bremshebel der Stützbremse bzw. durch Verbindungsstangen über zwei im Bug gelagerten Zwischenwellen auf die äußeren Bremshebel der Lenkbremse übertragen.",
+          "runs": [
+            {
+              "text": "Die Bewegung eines jeden Lenkhebels wirkt über ein Zwischengestänge auf einen entsprechenden am Lenkgetriebe gelagerten Rollenhebel. Von dort werden sie auf den als Kurvenhebel ausgebildeten Bremshebel der Stützbremse bzw. durch Verbindungsstangen über zwei im Bug gelagerten Zwischenwellen auf die äußeren Bremshebel der Lenkbremse übertragen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The movement of each steering lever acts through an intermediate linkage on a corresponding roller lever (Rollenhebel) mounted on the steering gear. From there it is transmitted to the support brake's brake lever — designed as a cam lever (Kurvenhebel) — and, via connecting rods and two intermediate shafts (Zwischenwellen) mounted in the bow, to the outer brake levers of the steering brake.",
+          "runs": [
+            {
+              "text": "The movement of each steering lever acts through an intermediate linkage on a corresponding roller lever (Rollenhebel) mounted on the steering gear. From there it is transmitted to the support brake's brake lever — designed as a cam lever (Kurvenhebel) — and, via connecting rods and two intermediate shafts (Zwischenwellen) mounted in the bow, to the outer brake levers of the steering brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El movimiento de cada palanca de dirección actúa, a través de un varillaje intermedio, sobre la palanca de rodillo correspondiente (Rollenhebel) montada en el mecanismo de dirección. Desde ahí se transmite a la palanca del freno de apoyo —concebida como palanca de leva (Kurvenhebel)— y, mediante bielas y dos ejes intermedios (Zwischenwellen) montados en la proa, a las palancas de freno exteriores del freno de dirección.",
+          "runs": [
+            {
+              "text": "El movimiento de cada palanca de dirección actúa, a través de un varillaje intermedio, sobre la palanca de rodillo correspondiente (Rollenhebel) montada en el mecanismo de dirección. Desde ahí se transmite a la palanca del freno de apoyo —concebida como palanca de leva (Kurvenhebel)— y, mediante bielas y dos ejes intermedios (Zwischenwellen) montados en la proa, a las palancas de freno exteriores del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para08",
+      "text": {
+        "de": {
+          "plain": "Betätigen der Stützbremse",
+          "runs": [
+            {
+              "text": "Betätigen der Stützbremse",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Operating the support brake (Betätigen der Stützbremse)",
+          "runs": [
+            {
+              "text": "Operating the support brake (Betätigen der Stützbremse)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Accionamiento del freno de apoyo (Betätigen der Stützbremse)",
+          "runs": [
+            {
+              "text": "Accionamiento del freno de apoyo (Betätigen der Stützbremse)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para09",
+      "text": {
+        "de": {
+          "plain": "Beim Anziehen eines Lenkhebels wird über das Verbindungsgestänge der Rollenhebel Nr. 2 so bewegt, daß die Rolle auf der ersten Kurvenbahn des Rollenhebels Nr. 3 bis zum Buckel B abläuft. Hierbei wird der durch die Stützbremsfeder Nr. 4 angezogene Kurvenhebel Nr. 3 um etwa 14 mm nach unten gedrückt und löst dadurch die Stützbremse.",
+          "runs": [
+            {
+              "text": "Beim Anziehen eines Lenkhebels wird über das Verbindungsgestänge der Rollenhebel Nr. 2 so bewegt, daß die Rolle auf der ersten Kurvenbahn des Rollenhebels Nr. 3 bis zum Buckel B abläuft. Hierbei wird der durch die Stützbremsfeder Nr. 4 angezogene Kurvenhebel Nr. 3 um etwa 14 mm nach unten gedrückt und löst dadurch die Stützbremse.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When a steering lever is pulled, the connecting linkage moves roller lever No. 2 so that the roller runs along the first cam track of roller lever No. 3 up to the crest B (Buckel). In doing so, cam lever No. 3 — held applied by the support-brake spring No. 4 (Stützbremsfeder) — is pushed down by about 14 mm, thereby releasing the support brake.",
+          "runs": [
+            {
+              "text": "When a steering lever is pulled, the connecting linkage moves roller lever No. 2 so that the roller runs along the first cam track of roller lever No. 3 up to the crest B (Buckel). In doing so, cam lever No. 3 — held applied by the support-brake spring No. 4 (Stützbremsfeder) — is pushed down by about 14 mm, thereby releasing the support brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al tirar de una palanca de dirección, el varillaje de unión mueve la palanca de rodillo n.º 2 de modo que el rodillo recorre la primera pista de leva de la palanca de rodillo n.º 3 hasta la cresta B (Buckel). Al hacerlo, la palanca de leva n.º 3 —mantenida aplicada por el muelle del freno de apoyo n.º 4 (Stützbremsfeder)— es empujada hacia abajo unos 14 mm, soltándose así el freno de apoyo.",
+          "runs": [
+            {
+              "text": "Al tirar de una palanca de dirección, el varillaje de unión mueve la palanca de rodillo n.º 2 de modo que el rodillo recorre la primera pista de leva de la palanca de rodillo n.º 3 hasta la cresta B (Buckel). Al hacerlo, la palanca de leva n.º 3 —mantenida aplicada por el muelle del freno de apoyo n.º 4 (Stützbremsfeder)— es empujada hacia abajo unos 14 mm, soltándose así el freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para10",
+      "text": {
+        "de": {
+          "plain": "Betätigen der Lenkbremse",
+          "runs": [
+            {
+              "text": "Betätigen der Lenkbremse",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Operating the steering brake (Betätigen der Lenkbremse)",
+          "runs": [
+            {
+              "text": "Operating the steering brake (Betätigen der Lenkbremse)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Accionamiento del freno de dirección (Betätigen der Lenkbremse)",
+          "runs": [
+            {
+              "text": "Accionamiento del freno de dirección (Betätigen der Lenkbremse)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p025-para11",
+      "text": {
+        "de": {
+          "plain": "Bei einem weiteren Anziehen des Lenkhebels Nr. 1 nimmt ein im Rollenhebel Nr. 2 vorgesehener Stift die Zugstange Nr. 16 mit und die Lenkbremse wird über die im Bug gelagerte Zwischenwelle ab-",
+          "runs": [
+            {
+              "text": "Bei einem weiteren Anziehen des Lenkhebels Nr. 1 nimmt ein im Rollenhebel Nr. 2 vorgesehener Stift die Zugstange Nr. 16 mit und die Lenkbremse wird über die im Bug gelagerte Zwischenwelle ab-",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On pulling steering lever No. 1 further, a pin provided in roller lever No. 2 takes the pull rod No. 16 (Zugstange) with it, and the steering brake is applied via the intermediate shaft mounted in the bow …",
+          "runs": [
+            {
+              "text": "On pulling steering lever No. 1 further, a pin provided in roller lever No. 2 takes the pull rod No. 16 (Zugstange) with it, and the steering brake is applied via the intermediate shaft mounted in the bow …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al seguir tirando de la palanca de dirección n.º 1, un pasador dispuesto en la palanca de rodillo n.º 2 arrastra la biela de tracción n.º 16 (Zugstange), y el freno de dirección se aplica a través del eje intermedio montado en la proa …",
+          "runs": [
+            {
+              "text": "Al seguir tirando de la palanca de dirección n.º 1, un pasador dispuesto en la palanca de rodillo n.º 2 arrastra la biela de tracción n.º 16 (Zugstange), y el freno de dirección se aplica a través del eje intermedio montado en la proa …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-024",
+    "next": "d65241a-page-026"
+  }
+}

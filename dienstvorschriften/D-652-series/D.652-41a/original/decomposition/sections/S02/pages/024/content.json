@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-024",
+  "document_id": "d652-41a",
+  "page": 24,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 13,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p024-para01",
+      "text": {
+        "de": {
+          "plain": "b) Lenkbremse, Bild 13",
+          "runs": [
+            {
+              "text": "b) Lenkbremse, Bild 13",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Steering brake (Lenkbremse), Figure 13",
+          "runs": [
+            {
+              "text": "b) Steering brake (Lenkbremse), Figure 13",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Freno de dirección (Lenkbremse), figura 13",
+          "runs": [
+            {
+              "text": "b) Freno de dirección (Lenkbremse), figura 13",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para02",
+      "text": {
+        "de": {
+          "plain": "Aufbau",
+          "runs": [
+            {
+              "text": "Aufbau",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Construction",
+          "runs": [
+            {
+              "text": "Construction",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Constitución",
+          "runs": [
+            {
+              "text": "Constitución",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para03",
+      "text": {
+        "de": {
+          "plain": "Die Lenkbremse ist eine reichlich bemessene Servo-Innenbackenbremse mit zwei Bremsbacken, die an einem mit der Seitenwand der Panzerwanne verschraubten Lagergehäuse Nr. 1 gelagert sind.",
+          "runs": [
+            {
+              "text": "Die Lenkbremse ist eine reichlich bemessene Servo-Innenbackenbremse mit zwei Bremsbacken, die an einem mit der Seitenwand der Panzerwanne verschraubten Lagergehäuse Nr. 1 gelagert sind.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The steering brake is a generously sized servo internal-shoe brake with two brake shoes, mounted on a bearing housing No. 1 (Lagergehäuse) bolted to the side wall of the hull (Panzerwanne).",
+          "runs": [
+            {
+              "text": "The steering brake is a generously sized servo internal-shoe brake with two brake shoes, mounted on a bearing housing No. 1 (Lagergehäuse) bolted to the side wall of the hull (Panzerwanne).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El freno de dirección es un freno servo de zapatas interiores de generosas dimensiones, con dos zapatas, montado sobre una carcasa de cojinete n.º 1 (Lagergehäuse) atornillada a la pared lateral del casco (Panzerwanne).",
+          "runs": [
+            {
+              "text": "El freno de dirección es un freno servo de zapatas interiores de generosas dimensiones, con dos zapatas, montado sobre una carcasa de cojinete n.º 1 (Lagergehäuse) atornillada a la pared lateral del casco (Panzerwanne).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para04",
+      "text": {
+        "de": {
+          "plain": "Durch eine in diesem Gehäuse gelagerte Flanschnabe Nr. 2 steht die Bremstrommel Nr. 3 mit der Ritzelwelle Nr. 4 zum Seitenvorgelege in Verbindung. Solange die Lenkbremse nicht betätigt wird, werden die Backen durch einen Kranz radial angeordneter Zugfedern am Lagergehäuse Nr. 1 zur Anlage gebracht.",
+          "runs": [
+            {
+              "text": "Durch eine in diesem Gehäuse gelagerte Flanschnabe Nr. 2 steht die Bremstrommel Nr. 3 mit der Ritzelwelle Nr. 4 zum Seitenvorgelege in Verbindung. Solange die Lenkbremse nicht betätigt wird, werden die Backen durch einen Kranz radial angeordneter Zugfedern am Lagergehäuse Nr. 1 zur Anlage gebracht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Through a flanged hub No. 2 (Flanschnabe) mounted in this housing, the brake drum No. 3 is connected to the pinion shaft No. 4 (Ritzelwelle) leading to the final drive. As long as the steering brake is not applied, the shoes are held against the bearing housing No. 1 by a ring of radially arranged tension springs.",
+          "runs": [
+            {
+              "text": "Through a flanged hub No. 2 (Flanschnabe) mounted in this housing, the brake drum No. 3 is connected to the pinion shaft No. 4 (Ritzelwelle) leading to the final drive. As long as the steering brake is not applied, the shoes are held against the bearing housing No. 1 by a ring of radially arranged tension springs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A través de un cubo embridado n.º 2 (Flanschnabe) montado en esta carcasa, el tambor de freno n.º 3 se une al eje del piñón n.º 4 (Ritzelwelle) que va a la reductora final. Mientras el freno de dirección no esté aplicado, las zapatas se mantienen contra la carcasa n.º 1 mediante un anillo de muelles de tracción dispuestos radialmente.",
+          "runs": [
+            {
+              "text": "A través de un cubo embridado n.º 2 (Flanschnabe) montado en esta carcasa, el tambor de freno n.º 3 se une al eje del piñón n.º 4 (Ritzelwelle) que va a la reductora final. Mientras el freno de dirección no esté aplicado, las zapatas se mantienen contra la carcasa n.º 1 mediante un anillo de muelles de tracción dispuestos radialmente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para05",
+      "text": {
+        "de": {
+          "plain": "In einer Haltegabel Nr. 5, die durch einen Flansch nachstellbar mit dem Lagergehäuse Nr. 1 verschraubt ist, befindet sich eine durch zwei Druckfedern nachgiebig gelagerte Nachstellvorrichtung Nr. 6, die in Verbindung mit einer Zugfeder die oberen Enden der Bremsbacken gelenkig zusammenhält. Die unteren Enden der Bremsbacken werden durch zwei am Lagergehäuse angelenkte Zugfedern gegen einen Anschlag am Gehäuse gezogen.",
+          "runs": [
+            {
+              "text": "In einer Haltegabel Nr. 5, die durch einen Flansch nachstellbar mit dem Lagergehäuse Nr. 1 verschraubt ist, befindet sich eine durch zwei Druckfedern nachgiebig gelagerte Nachstellvorrichtung Nr. 6, die in Verbindung mit einer Zugfeder die oberen Enden der Bremsbacken gelenkig zusammenhält. Die unteren Enden der Bremsbacken werden durch zwei am Lagergehäuse angelenkte Zugfedern gegen einen Anschlag am Gehäuse gezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In a retaining fork No. 5 (Haltegabel) — bolted to the bearing housing No. 1 via a flange so as to be adjustable — there is an adjusting device No. 6 (Nachstellvorrichtung), resiliently mounted on two compression springs, which, together with a tension spring, holds the upper ends of the brake shoes together in an articulated manner. The lower ends of the shoes are pulled against a stop on the housing by two tension springs hinged to the bearing housing.",
+          "runs": [
+            {
+              "text": "In a retaining fork No. 5 (Haltegabel) — bolted to the bearing housing No. 1 via a flange so as to be adjustable — there is an adjusting device No. 6 (Nachstellvorrichtung), resiliently mounted on two compression springs, which, together with a tension spring, holds the upper ends of the brake shoes together in an articulated manner. The lower ends of the shoes are pulled against a stop on the housing by two tension springs hinged to the bearing housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En una horquilla de retención n.º 5 (Haltegabel) —atornillada de forma regulable a la carcasa n.º 1 mediante una brida— hay un dispositivo de reglaje n.º 6 (Nachstellvorrichtung), montado elásticamente sobre dos muelles de compresión, que, junto con un muelle de tracción, mantiene unidos de forma articulada los extremos superiores de las zapatas. Los extremos inferiores de las zapatas son atraídos contra un tope de la carcasa por dos muelles de tracción articulados a la carcasa de cojinete.",
+          "runs": [
+            {
+              "text": "En una horquilla de retención n.º 5 (Haltegabel) —atornillada de forma regulable a la carcasa n.º 1 mediante una brida— hay un dispositivo de reglaje n.º 6 (Nachstellvorrichtung), montado elásticamente sobre dos muelles de compresión, que, junto con un muelle de tracción, mantiene unidos de forma articulada los extremos superiores de las zapatas. Los extremos inferiores de las zapatas son atraídos contra un tope de la carcasa por dos muelles de tracción articulados a la carcasa de cojinete.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para06",
+      "text": {
+        "de": {
+          "plain": "Das Spiel zwischen Bremsbacken und Bremstrommel wird mit Hilfe der Nachstellvorrichtung eingestellt. (Siehe Abschn. 25.)",
+          "runs": [
+            {
+              "text": "Das Spiel zwischen Bremsbacken und Bremstrommel wird mit Hilfe der Nachstellvorrichtung eingestellt. (Siehe Abschn. 25.)",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The clearance between the brake shoes and the brake drum is set by means of the adjusting device (see Section 25).",
+          "runs": [
+            {
+              "text": "The clearance between the brake shoes and the brake drum is set by means of the adjusting device (see Section 25).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La holgura entre las zapatas y el tambor se ajusta mediante el dispositivo de reglaje (véase el apartado 25).",
+          "runs": [
+            {
+              "text": "La holgura entre las zapatas y el tambor se ajusta mediante el dispositivo de reglaje (véase el apartado 25).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para07",
+      "text": {
+        "de": {
+          "plain": "Betätigt werden die Bremsbacken durch einen mit dem inneren und äußeren Bremshebel in Verbindung stehenden, konischen Bremskeil Nr. 8, der zwischen die auf den Bremsbacken angebrachten Rollen gezogen wird und so die Bremsbacken auseinander spreizt.",
+          "runs": [
+            {
+              "text": "Betätigt werden die Bremsbacken durch einen mit dem inneren und äußeren Bremshebel in Verbindung stehenden, konischen Bremskeil Nr. 8, der zwischen die auf den Bremsbacken angebrachten Rollen gezogen wird und so die Bremsbacken auseinander spreizt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The brake shoes are actuated by a conical brake wedge No. 8 (Bremskeil), connected to the inner and outer brake levers, which is drawn between the rollers fitted on the brake shoes and so spreads the shoes apart.",
+          "runs": [
+            {
+              "text": "The brake shoes are actuated by a conical brake wedge No. 8 (Bremskeil), connected to the inner and outer brake levers, which is drawn between the rollers fitted on the brake shoes and so spreads the shoes apart.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las zapatas son accionadas por una cuña de freno cónica n.º 8 (Bremskeil), unida a las palancas de freno interior y exterior, que es atraída entre los rodillos dispuestos en las zapatas y separa así las zapatas.",
+          "runs": [
+            {
+              "text": "Las zapatas son accionadas por una cuña de freno cónica n.º 8 (Bremskeil), unida a las palancas de freno interior y exterior, que es atraída entre los rodillos dispuestos en las zapatas y separa así las zapatas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para08",
+      "text": {
+        "de": {
+          "plain": "Bei einem Betätigen der Lenkbremse, z. B. beim Fahren enger Kurven, wird ein Teil der Motorleistung vernichtet und dadurch in Wärme umgesetzt. Zur Verhütung einer unzulässigen Temperatursteigerung werden die Bremsbacken mit Luft gekühlt.",
+          "runs": [
+            {
+              "text": "Bei einem Betätigen der Lenkbremse, z. B. beim Fahren enger Kurven, wird ein Teil der Motorleistung vernichtet und dadurch in Wärme umgesetzt. Zur Verhütung einer unzulässigen Temperatursteigerung werden die Bremsbacken mit Luft gekühlt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When the steering brake is applied — e.g. when driving tight curves — part of the engine power is destroyed and thereby converted into heat. To prevent an impermissible rise in temperature, the brake shoes are air-cooled.",
+          "runs": [
+            {
+              "text": "When the steering brake is applied — e.g. when driving tight curves — part of the engine power is destroyed and thereby converted into heat. To prevent an impermissible rise in temperature, the brake shoes are air-cooled.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cuando el freno de dirección se aplica —p. ej., al describir curvas cerradas— parte de la potencia del motor se destruye y se convierte así en calor. Para evitar un aumento inadmisible de temperatura, las zapatas se refrigeran por aire.",
+          "runs": [
+            {
+              "text": "Cuando el freno de dirección se aplica —p. ej., al describir curvas cerradas— parte de la potencia del motor se destruye y se convierte así en calor. Para evitar un aumento inadmisible de temperatura, las zapatas se refrigeran por aire.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para09",
+      "text": {
+        "de": {
+          "plain": "Zu diesem Zweck sind die Bremsbacken hohl ausgeführt und mit einzelnen Belagstücken aus Sondergußeisen belegt, zwischen denen die Kühlluft durch Schlitze in die Bremsbacken gesaugt wird. Durch Asbestschläuche gelangt die Kühlluft in das ebenfalls hohle Lagergehäuse, und durch eine Saugleitung zu dem am Schaltgetriebe angebauten Gebläse.",
+          "runs": [
+            {
+              "text": "Zu diesem Zweck sind die Bremsbacken hohl ausgeführt und mit einzelnen Belagstücken aus Sondergußeisen belegt, zwischen denen die Kühlluft durch Schlitze in die Bremsbacken gesaugt wird. Durch Asbestschläuche gelangt die Kühlluft in das ebenfalls hohle Lagergehäuse, und durch eine Saugleitung zu dem am Schaltgetriebe angebauten Gebläse.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For this purpose the brake shoes are made hollow and faced with individual lining blocks of special cast iron (Sondergußeisen), between which the cooling air is drawn into the shoes through slots. Through asbestos hoses (Asbestschläuche) the cooling air passes into the likewise hollow bearing housing, and via a suction line to the blower (Gebläse) mounted on the gearbox.",
+          "runs": [
+            {
+              "text": "For this purpose the brake shoes are made hollow and faced with individual lining blocks of special cast iron (Sondergußeisen), between which the cooling air is drawn into the shoes through slots. Through asbestos hoses (Asbestschläuche) the cooling air passes into the likewise hollow bearing housing, and via a suction line to the blower (Gebläse) mounted on the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para ello, las zapatas son huecas y van revestidas con bloques de forro individuales de fundición especial (Sondergußeisen), entre los cuales el aire de refrigeración se aspira al interior de las zapatas por ranuras. A través de mangueras de amianto (Asbestschläuche), el aire de refrigeración pasa a la carcasa de cojinete —también hueca— y, por una tubería de aspiración, al soplante (Gebläse) montado en la caja de cambios.",
+          "runs": [
+            {
+              "text": "Para ello, las zapatas son huecas y van revestidas con bloques de forro individuales de fundición especial (Sondergußeisen), entre los cuales el aire de refrigeración se aspira al interior de las zapatas por ranuras. A través de mangueras de amianto (Asbestschläuche), el aire de refrigeración pasa a la carcasa de cojinete —también hueca— y, por una tubería de aspiración, al soplante (Gebläse) montado en la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para10",
+      "text": {
+        "de": {
+          "plain": "Wirkungsweise",
+          "runs": [
+            {
+              "text": "Wirkungsweise",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Operation",
+          "runs": [
+            {
+              "text": "Operation",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Funcionamiento",
+          "runs": [
+            {
+              "text": "Funcionamiento",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p024-para11",
+      "text": {
+        "de": {
+          "plain": "Bei einem Anziehen des Lenkhebels wirkt die ausgeübte Kraft auf den äußeren Bremshebel. Der konische Bremskeil Nr. 8 wird durch den inneren Bremshebel zwischen die Rollen der Bremsbacken gezogen und drückt diese auseinander. Die Bremsbacken werden an die Trommel gedrückt. Dadurch wird die in Fahrtrichtung vordere Bremsbacke, die „Erreger-Bremsbacke Nr. 10\", durch die auf-",
+          "runs": [
+            {
+              "text": "Bei einem Anziehen des Lenkhebels wirkt die ausgeübte Kraft auf den äußeren Bremshebel. Der konische Bremskeil Nr. 8 wird durch den inneren Bremshebel zwischen die Rollen der Bremsbacken gezogen und drückt diese auseinander. Die Bremsbacken werden an die Trommel gedrückt. Dadurch wird die in Fahrtrichtung vordere Bremsbacke, die „Erreger-Bremsbacke Nr. 10\", durch die auf-",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When the steering lever is pulled, the force applied acts on the outer brake lever. The conical brake wedge No. 8 is drawn by the inner brake lever between the rollers of the brake shoes and forces them apart, pressing the shoes against the drum. Thereby the leading brake shoe in the direction of travel, the “exciter shoe No. 10” (Erreger-Bremsbacke), is — by the …",
+          "runs": [
+            {
+              "text": "When the steering lever is pulled, the force applied acts on the outer brake lever. The conical brake wedge No. 8 is drawn by the inner brake lever between the rollers of the brake shoes and forces them apart, pressing the shoes against the drum. Thereby the leading brake shoe in the direction of travel, the “exciter shoe No. 10” (Erreger-Bremsbacke), is — by the …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al tirar de la palanca de dirección, la fuerza aplicada actúa sobre la palanca de freno exterior. La cuña de freno cónica n.º 8 es atraída por la palanca de freno interior entre los rodillos de las zapatas y las separa, presionando las zapatas contra el tambor. Con ello, la zapata delantera en el sentido de la marcha, la «zapata excitadora n.º 10» (Erreger-Bremsbacke), es —por la …",
+          "runs": [
+            {
+              "text": "Al tirar de la palanca de dirección, la fuerza aplicada actúa sobre la palanca de freno exterior. La cuña de freno cónica n.º 8 es atraída por la palanca de freno interior entre los rodillos de las zapatas y las separa, presionando las zapatas contra el tambor. Con ello, la zapata delantera en el sentido de la marcha, la «zapata excitadora n.º 10» (Erreger-Bremsbacke), es —por la …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-023",
+    "next": "d65241a-page-025"
+  }
+}

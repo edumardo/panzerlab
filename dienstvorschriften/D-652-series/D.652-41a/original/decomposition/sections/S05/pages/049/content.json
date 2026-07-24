@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-049",
+  "document_id": "d652-41a",
+  "page": 49,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": "Zusammenbau des Kegeltriebes und Lenkgetriebes",
+    "en-GB": "Reassembly of the bevel drive and steering gear",
+    "es-ES": "Montaje del par cónico y del mecanismo de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 25,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-049-para01",
+      "text": {
+        "de": {"plain": "An Gehäuse und sämtlichen Deckeln usw. Stoßflächen säubern. Bei Anbau Stoßflächen und Deckel mit Dichtungsmasse bestreichen.", "runs": [{"text": "An Gehäuse und sämtlichen Deckeln usw. Stoßflächen säubern. Bei Anbau Stoßflächen und Deckel mit Dichtungsmasse bestreichen.", "bold": false}]},
+        "en-GB": {"plain": "Clean the mating faces on the housing and all covers etc. When fitting, coat the mating faces and covers with jointing compound.", "runs": [{"text": "Clean the mating faces on the housing and all covers etc. When fitting, coat the mating faces and covers with jointing compound.", "bold": false}]},
+        "es-ES": {"plain": "Limpie las superficies de contacto de la carcasa y de todas las tapas, etc. Al montar, unte las superficies de contacto y las tapas con pasta de junta.", "runs": [{"text": "Limpie las superficies de contacto de la carcasa y de todas las tapas, etc. Al montar, unte las superficies de contacto y las tapas con pasta de junta.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para02",
+      "text": {
+        "de": {"plain": "a) Teile im Gehäuse, Bild 27", "runs": [{"text": "a) Teile im Gehäuse, Bild 27", "bold": true}]},
+        "en-GB": {"plain": "a) Teile im Gehäuse, Bild 27 – a) Parts in the housing, Figure 27", "runs": [{"text": "a) Teile im Gehäuse, Bild 27 – a) Parts in the housing, Figure 27", "bold": true}]},
+        "es-ES": {"plain": "a) Teile im Gehäuse, Bild 27 – a) Piezas en la carcasa, figura 27", "runs": [{"text": "a) Teile im Gehäuse, Bild 27 – a) Piezas en la carcasa, figura 27", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para03",
+      "text": {
+        "de": {"plain": "Unten: In Gehäuse rechts Einstellkugellageraußenring einpressen und durch Klemmringe festlegen. Nach Bedarf Ausgleichscheibe zwischen Kugellager und Klemmring einlegen.", "runs": [{"text": "Unten: In Gehäuse rechts Einstellkugellageraußenring einpressen und durch Klemmringe festlegen. Nach Bedarf Ausgleichscheibe zwischen Kugellager und Klemmring einlegen.", "bold": false}]},
+        "en-GB": {"plain": "Below: Press the setting ball-bearing outer ring into the right of the housing and fix it with clamping rings. If necessary insert a shim between the ball bearing and clamping ring.", "runs": [{"text": "Below: Press the setting ball-bearing outer ring into the right of the housing and fix it with clamping rings. If necessary insert a shim between the ball bearing and clamping ring.", "bold": false}]},
+        "es-ES": {"plain": "Abajo: Introduzca a presión el anillo exterior del rodamiento de bolas de reglaje en el lado derecho de la carcasa y fíjelo con anillos de apriete. Si es preciso, intercale una laminilla entre el rodamiento y el anillo de apriete.", "runs": [{"text": "Abajo: Introduzca a presión el anillo exterior del rodamiento de bolas de reglaje en el lado derecho de la carcasa y fíjelo con anillos de apriete. Si es preciso, intercale una laminilla entre el rodamiento y el anillo de apriete.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para04",
+      "text": {
+        "de": {"plain": "Rechts:", "runs": [{"text": "Rechts:", "bold": false}]},
+        "en-GB": {"plain": "Right:", "runs": [{"text": "Right:", "bold": false}]},
+        "es-ES": {"plain": "Derecha:", "runs": [{"text": "Derecha:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para05",
+      "text": {
+        "de": {"plain": "Bild 27 1, 2 Auf rechtes Mittenhohlrad außen Rollenlagerinnenring und innen Kugellagerinnenringhälfte aufziehen (III DB 95/2, 3, 4).", "runs": [{"text": "Bild 27 1, 2 Auf rechtes Mittenhohlrad außen Rollenlagerinnenring und innen Kugellagerinnenringhälfte aufziehen (III DB 95/2, 3, 4).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 27/1, 2 – Fit the roller-bearing inner ring on the outside, and the inner ball-bearing inner-ring half, on the right central ring gear (III DB 95/2, 3, 4).", "runs": [{"text": "Fig. 27/1, 2 – Fit the roller-bearing inner ring on the outside, and the inner ball-bearing inner-ring half, on the right central ring gear (III DB 95/2, 3, 4).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 27/1, 2 – Monte el anillo interior del cojinete de rodillos en el exterior, y la mitad interior del anillo interior del rodamiento de bolas, en la corona interior central derecha (III DB 95/2, 3, 4).", "runs": [{"text": "Fig. 27/1, 2 – Monte el anillo interior del cojinete de rodillos en el exterior, y la mitad interior del anillo interior del rodamiento de bolas, en la corona interior central derecha (III DB 95/2, 3, 4).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para06",
+      "text": {
+        "de": {"plain": "Bild 27 3 Rechtes Mittenhohlrad in Kugellager einführen und die andere Kugellagerinnenringhälfte aufziehen (III DB 95/2, 3, 4). Sicherungsblech aufstecken, Nutmutter aufschrauben (III DB 97) und Sicherungsblech einbiegen.", "runs": [{"text": "Bild 27 3 Rechtes Mittenhohlrad in Kugellager einführen und die andere Kugellagerinnenringhälfte aufziehen (III DB 95/2, 3, 4). Sicherungsblech aufstecken, Nutmutter aufschrauben (III DB 97) und Sicherungsblech einbiegen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 27/3 – Introduce the right central ring gear into the ball bearing and fit the other ball-bearing inner-ring half (III DB 95/2, 3, 4). Fit the locking plate, screw on the slotted nut (III DB 97) and bend over the locking plate.", "runs": [{"text": "Fig. 27/3 – Introduce the right central ring gear into the ball bearing and fit the other ball-bearing inner-ring half (III DB 95/2, 3, 4). Fit the locking plate, screw on the slotted nut (III DB 97) and bend over the locking plate.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 27/3 – Introduzca la corona interior central derecha en el rodamiento de bolas y monte la otra mitad del anillo interior (III DB 95/2, 3, 4). Coloque la chapa de bloqueo, enrosque la tuerca ranurada (III DB 97) y doble la chapa de bloqueo.", "runs": [{"text": "Fig. 27/3 – Introduzca la corona interior central derecha en el rodamiento de bolas y monte la otra mitad del anillo interior (III DB 95/2, 3, 4). Coloque la chapa de bloqueo, enrosque la tuerca ranurada (III DB 97) y doble la chapa de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para07",
+      "text": {
+        "de": {"plain": "Links:", "runs": [{"text": "Links:", "bold": false}]},
+        "en-GB": {"plain": "Left:", "runs": [{"text": "Left:", "bold": false}]},
+        "es-ES": {"plain": "Izquierda:", "runs": [{"text": "Izquierda:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para08",
+      "text": {
+        "de": {"plain": "Bild 27 4, 5 Auf linkes Mittenhohlrad innen Rollenlagerinnenring und auf Kegelrad Kugellager aufziehen (III DB 95/2, 3, 4).", "runs": [{"text": "Bild 27 4, 5 Auf linkes Mittenhohlrad innen Rollenlagerinnenring und auf Kegelrad Kugellager aufziehen (III DB 95/2, 3, 4).", "bold": false}]},
+        "en-GB": {"plain": "Fig. 27/4, 5 – Fit the roller-bearing inner ring on the inside of the left central ring gear, and the ball bearing on the bevel gear (III DB 95/2, 3, 4).", "runs": [{"text": "Fig. 27/4, 5 – Fit the roller-bearing inner ring on the inside of the left central ring gear, and the ball bearing on the bevel gear (III DB 95/2, 3, 4).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 27/4, 5 – Monte el anillo interior del cojinete de rodillos en el interior de la corona interior central izquierda, y el rodamiento de bolas en el piñón cónico (III DB 95/2, 3, 4).", "runs": [{"text": "Fig. 27/4, 5 – Monte el anillo interior del cojinete de rodillos en el interior de la corona interior central izquierda, y el rodamiento de bolas en el piñón cónico (III DB 95/2, 3, 4).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para09",
+      "text": {
+        "de": {"plain": "Kegelradwelle links:", "runs": [{"text": "Kegelradwelle links:", "bold": true}]},
+        "en-GB": {"plain": "Kegelradwelle links – Bevel-gear shaft, left", "runs": [{"text": "Kegelradwelle links – Bevel-gear shaft, left", "bold": true}]},
+        "es-ES": {"plain": "Kegelradwelle links – Eje del piñón cónico, izquierdo", "runs": [{"text": "Kegelradwelle links – Eje del piñón cónico, izquierdo", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para10",
+      "text": {
+        "de": {"plain": "Bild 27 6, 7 Führungsbuchse und Kordelmutter (III DB 94/4, 5) aufbringen, Kegelrad und Mittenhohlrad nacheinander aufziehen (III DB 94/1, 2, 3), Führungsring und Kordelmutter entfernen.", "runs": [{"text": "Bild 27 6, 7 Führungsbuchse und Kordelmutter (III DB 94/4, 5) aufbringen, Kegelrad und Mittenhohlrad nacheinander aufziehen (III DB 94/1, 2, 3), Führungsring und Kordelmutter entfernen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 27/6, 7 – Fit the guide bush and knurled nut (III DB 94/4, 5), draw on the bevel gear and central ring gear one after another (III DB 94/1, 2, 3), then remove the guide ring and knurled nut.", "runs": [{"text": "Fig. 27/6, 7 – Fit the guide bush and knurled nut (III DB 94/4, 5), draw on the bevel gear and central ring gear one after another (III DB 94/1, 2, 3), then remove the guide ring and knurled nut.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 27/6, 7 – Monte el casquillo guía y la tuerca moleteada (III DB 94/4, 5), cale uno tras otro el piñón cónico y la corona interior central (III DB 94/1, 2, 3), y retire después el anillo guía y la tuerca moleteada.", "runs": [{"text": "Fig. 27/6, 7 – Monte el casquillo guía y la tuerca moleteada (III DB 94/4, 5), cale uno tras otro el piñón cónico y la corona interior central (III DB 94/1, 2, 3), y retire después el anillo guía y la tuerca moleteada.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para11",
+      "text": {
+        "de": {"plain": "Auf die Kegelradwelle Abstandscheibe aufbringen, Rollenlagerring aufziehen, Sicherungsblech aufstecken und Nutmutter aufschrauben (III DB 96). Sicherungsblech einbiegen.", "runs": [{"text": "Auf die Kegelradwelle Abstandscheibe aufbringen, Rollenlagerring aufziehen, Sicherungsblech aufstecken und Nutmutter aufschrauben (III DB 96). Sicherungsblech einbiegen.", "bold": false}]},
+        "en-GB": {"plain": "Fit the spacer washer on the bevel-gear shaft, draw on the roller-bearing ring, fit the locking plate and screw on the slotted nut (III DB 96). Bend over the locking plate.", "runs": [{"text": "Fit the spacer washer on the bevel-gear shaft, draw on the roller-bearing ring, fit the locking plate and screw on the slotted nut (III DB 96). Bend over the locking plate.", "bold": false}]},
+        "es-ES": {"plain": "Monte la arandela separadora en el eje del piñón cónico, cale el anillo del cojinete de rodillos, coloque la chapa de bloqueo y enrosque la tuerca ranurada (III DB 96). Doble la chapa de bloqueo.", "runs": [{"text": "Monte la arandela separadora en el eje del piñón cónico, cale el anillo del cojinete de rodillos, coloque la chapa de bloqueo y enrosque la tuerca ranurada (III DB 96). Doble la chapa de bloqueo.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para12",
+      "text": {
+        "de": {"plain": "Kegelradwelle rechts", "runs": [{"text": "Kegelradwelle rechts", "bold": true}]},
+        "en-GB": {"plain": "Kegelradwelle rechts – Bevel-gear shaft, right", "runs": [{"text": "Kegelradwelle rechts – Bevel-gear shaft, right", "bold": true}]},
+        "es-ES": {"plain": "Kegelradwelle rechts – Eje del piñón cónico, derecho", "runs": [{"text": "Kegelradwelle rechts – Eje del piñón cónico, derecho", "bold": true}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para13",
+      "text": {
+        "de": {"plain": "Schraubenrad mit Paßfeder aufziehen, Sicherungsblech aufstecken und in erste Nutmutter einbiegen, zweite Nutmutter aufschrauben bis nahe gegen die erste Nutmutter. Sicherungsblech aufstecken. Führungsbuchse und Kordelmutter (III DB 94/4, 5) aufbringen.", "runs": [{"text": "Schraubenrad mit Paßfeder aufziehen, Sicherungsblech aufstecken und in erste Nutmutter einbiegen, zweite Nutmutter aufschrauben bis nahe gegen die erste Nutmutter. Sicherungsblech aufstecken. Führungsbuchse und Kordelmutter (III DB 94/4, 5) aufbringen.", "bold": false}]},
+        "en-GB": {"plain": "Fit the helical gear with its key, fit the locking plate and bend it into the first slotted nut, then screw on the second slotted nut until close against the first. Fit the locking plate. Fit the guide bush and knurled nut (III DB 94/4, 5).", "runs": [{"text": "Fit the helical gear with its key, fit the locking plate and bend it into the first slotted nut, then screw on the second slotted nut until close against the first. Fit the locking plate. Fit the guide bush and knurled nut (III DB 94/4, 5).", "bold": false}]},
+        "es-ES": {"plain": "Monte la rueda helicoidal con su chaveta, coloque la chapa de bloqueo y dóblela en la primera tuerca ranurada; enrosque después la segunda tuerca ranurada hasta apoyarla contra la primera. Coloque la chapa de bloqueo. Monte el casquillo guía y la tuerca moleteada (III DB 94/4, 5).", "runs": [{"text": "Monte la rueda helicoidal con su chaveta, coloque la chapa de bloqueo y dóblela en la primera tuerca ranurada; enrosque después la segunda tuerca ranurada hasta apoyarla contra la primera. Coloque la chapa de bloqueo. Monte el casquillo guía y la tuerca moleteada (III DB 94/4, 5).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-049-para14",
+      "text": {
+        "de": {"plain": "Bild 27 8 Von links Kegelradwelle mit Teilen in Gehäuse und in rechtes Mittenhohlrad einziehen (III DB 94/1, 2, 3). Führungsring und Kordelmutter entfernen.", "runs": [{"text": "Bild 27 8 Von links Kegelradwelle mit Teilen in Gehäuse und in rechtes Mittenhohlrad einziehen (III DB 94/1, 2, 3). Führungsring und Kordelmutter entfernen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 27/8 – Draw the bevel-gear shaft with its parts into the housing and into the right central ring gear from the left (III DB 94/1, 2, 3). Remove the guide ring and knurled nut.", "runs": [{"text": "Fig. 27/8 – Draw the bevel-gear shaft with its parts into the housing and into the right central ring gear from the left (III DB 94/1, 2, 3). Remove the guide ring and knurled nut.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 27/8 – Cale el eje del piñón cónico con sus piezas en la carcasa y en la corona interior central derecha desde la izquierda (III DB 94/1, 2, 3). Retire el anillo guía y la tuerca moleteada.", "runs": [{"text": "Fig. 27/8 – Cale el eje del piñón cónico con sus piezas en la carcasa y en la corona interior central derecha desde la izquierda (III DB 94/1, 2, 3). Retire el anillo guía y la tuerca moleteada.", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-048",
+    "next": "d65241a-page-050"
+  }
+}

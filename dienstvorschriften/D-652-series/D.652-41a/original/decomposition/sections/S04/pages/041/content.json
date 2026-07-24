@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-041",
+  "document_id": "d652-41a",
+  "page": 41,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 21,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p041-para01",
+      "text": {
+        "de": {
+          "plain": "Reinigen von außen:",
+          "runs": [
+            {
+              "text": "Reinigen von außen:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Cleaning from outside:",
+          "runs": [
+            {
+              "text": "Cleaning from outside:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpieza por fuera:",
+          "runs": [
+            {
+              "text": "Limpieza por fuera:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para02",
+      "text": {
+        "de": {
+          "plain": "Bei Staubverschmutzung von beiden Seiten mit Preßluft abblasen. Bei Öl- und Staubverschmutzung ist die Kruste durch Bürsten oder Abpinseln mit Henkel P3-Lösung zu entfernen und anschließend mit Preßluft abzublasen.",
+          "runs": [
+            {
+              "text": "Bei Staubverschmutzung von beiden Seiten mit Preßluft abblasen. Bei Öl- und Staubverschmutzung ist die Kruste durch Bürsten oder Abpinseln mit Henkel P3-Lösung zu entfernen und anschließend mit Preßluft abzublasen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In case of dust fouling, blow off from both sides with compressed air. In case of oil and dust fouling, remove the crust by brushing or dabbing with Henkel P3 solution and then blow off with compressed air.",
+          "runs": [
+            {
+              "text": "In case of dust fouling, blow off from both sides with compressed air. In case of oil and dust fouling, remove the crust by brushing or dabbing with Henkel P3 solution and then blow off with compressed air.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En caso de suciedad por polvo, sople por ambos lados con aire comprimido. En caso de suciedad de aceite y polvo, elimine la costra cepillando o aplicando con toques solución Henkel P3 y sople después con aire comprimido.",
+          "runs": [
+            {
+              "text": "En caso de suciedad por polvo, sople por ambos lados con aire comprimido. En caso de suciedad de aceite y polvo, elimine la costra cepillando o aplicando con toques solución Henkel P3 y sople después con aire comprimido.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para03",
+      "text": {
+        "de": {
+          "plain": "Reinigen von innen:",
+          "runs": [
+            {
+              "text": "Reinigen von innen:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Cleaning from inside:",
+          "runs": [
+            {
+              "text": "Cleaning from inside:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpieza por dentro:",
+          "runs": [
+            {
+              "text": "Limpieza por dentro:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para04",
+      "text": {
+        "de": {
+          "plain": "Etwa alle 4 Wochen sind die Kühler mit einer Henkel P3-Lösung auszuspülen. Hierzu muß das Kühlwasser abgelassen, 5—6 Eßlöffel P3 in einem Eimer voll Wasser gelöst, in die Kühler gefüllt und solange Frischwasser nachgefüllt werden, bis die Kühler gefüllt sind. Nach einigen Tagen wird dann die P3-Lösung abgelassen und die Kühler werden wieder mit reinem Wasser aufgefüllt.",
+          "runs": [
+            {
+              "text": "Etwa alle 4 Wochen sind die Kühler mit einer Henkel P3-Lösung auszuspülen. Hierzu muß das Kühlwasser abgelassen, 5—6 Eßlöffel P3 in einem Eimer voll Wasser gelöst, in die Kühler gefüllt und solange Frischwasser nachgefüllt werden, bis die Kühler gefüllt sind. Nach einigen Tagen wird dann die P3-Lösung abgelassen und die Kühler werden wieder mit reinem Wasser aufgefüllt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "About every 4 weeks, flush the radiators with a Henkel P3 solution. To do this, drain the cooling water, dissolve 5 to 6 tablespoons of P3 in a full bucket of water, pour it into the radiators and keep topping up with fresh water until the radiators are full. After a few days, drain the P3 solution and refill the radiators with clean water.",
+          "runs": [
+            {
+              "text": "About every 4 weeks, flush the radiators with a Henkel P3 solution. To do this, drain the cooling water, dissolve 5 to 6 tablespoons of P3 in a full bucket of water, pour it into the radiators and keep topping up with fresh water until the radiators are full. After a few days, drain the P3 solution and refill the radiators with clean water.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aproximadamente cada 4 semanas, enjuague los radiadores con una solución Henkel P3. Para ello, vacíe el agua de refrigeración, disuelva de 5 a 6 cucharadas de P3 en un cubo lleno de agua, viértalo en los radiadores y siga reponiendo agua limpia hasta que los radiadores estén llenos. Al cabo de unos días, vacíe la solución P3 y vuelva a llenar los radiadores con agua limpia.",
+          "runs": [
+            {
+              "text": "Aproximadamente cada 4 semanas, enjuague los radiadores con una solución Henkel P3. Para ello, vacíe el agua de refrigeración, disuelva de 5 a 6 cucharadas de P3 en un cubo lleno de agua, viértalo en los radiadores y siga reponiendo agua limpia hasta que los radiadores estén llenos. Al cabo de unos días, vacíe la solución P3 y vuelva a llenar los radiadores con agua limpia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para05",
+      "text": {
+        "de": {
+          "plain": "Kocht das Kühlwasser sehr leicht, so ist am Morgen ¼ kg P3 nach vorheriger Auflösung in die leeren Kühler zu füllen. Nachdem das Fahrzeug den Tag über gefahren wurde, ist das heiße Wasser abzulassen, die Kühler sind gut durchzuspülen und mit frischem Wasser neu aufzufüllen.",
+          "runs": [
+            {
+              "text": "Kocht das Kühlwasser sehr leicht, so ist am Morgen ¼ kg P3 nach vorheriger Auflösung in die leeren Kühler zu füllen. Nachdem das Fahrzeug den Tag über gefahren wurde, ist das heiße Wasser abzulassen, die Kühler sind gut durchzuspülen und mit frischem Wasser neu aufzufüllen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the coolant water boils very readily, in the morning pour ¼ kg of P3 — previously dissolved — into the empty radiators. After the vehicle has been driven during the day, drain the hot water, flush the radiators well and refill with fresh water.",
+          "runs": [
+            {
+              "text": "If the coolant water boils very readily, in the morning pour ¼ kg of P3 — previously dissolved — into the empty radiators. After the vehicle has been driven during the day, drain the hot water, flush the radiators well and refill with fresh water.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si el agua de refrigeración hierve con mucha facilidad, por la mañana vierta ¼ kg de P3 —previamente disuelto— en los radiadores vacíos. Tras haber circulado el vehículo durante el día, vacíe el agua caliente, enjuague bien los radiadores y vuelva a llenarlos con agua limpia.",
+          "runs": [
+            {
+              "text": "Si el agua de refrigeración hierve con mucha facilidad, por la mañana vierta ¼ kg de P3 —previamente disuelto— en los radiadores vacíos. Tras haber circulado el vehículo durante el día, vacíe el agua caliente, enjuague bien los radiadores y vuelva a llenarlos con agua limpia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para06",
+      "text": {
+        "de": {
+          "plain": "2. Lüfter",
+          "runs": [
+            {
+              "text": "2. Lüfter",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. Fans",
+          "runs": [
+            {
+              "text": "2. Fans",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Ventiladores",
+          "runs": [
+            {
+              "text": "2. Ventiladores",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para07",
+      "text": {
+        "de": {
+          "plain": "Die Antriebriemen der Lüfter sollen mit einer geringen Vorspannung laufen und sind im Betrieb regelmäßig nachzuspannen. Dieses Spannen geschieht durch Verstellen der Hauptantriebsscheibe im Heck des Fahrzeuges. Nach dem Verstellen sind die Muttern der Nachstellschraube wieder fest anzuziehen und zu sichern.",
+          "runs": [
+            {
+              "text": "Die Antriebriemen der Lüfter sollen mit einer geringen Vorspannung laufen und sind im Betrieb regelmäßig nachzuspannen. Dieses Spannen geschieht durch Verstellen der Hauptantriebsscheibe im Heck des Fahrzeuges. Nach dem Verstellen sind die Muttern der Nachstellschraube wieder fest anzuziehen und zu sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The drive belts of the fans should run with a slight pre-tension and are to be re-tensioned regularly in service. This tensioning is done by adjusting the main drive pulley at the rear of the vehicle. After adjustment, retighten and lock the nuts of the adjusting screw.",
+          "runs": [
+            {
+              "text": "The drive belts of the fans should run with a slight pre-tension and are to be re-tensioned regularly in service. This tensioning is done by adjusting the main drive pulley at the rear of the vehicle. After adjustment, retighten and lock the nuts of the adjusting screw.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las correas de accionamiento de los ventiladores deben girar con una ligera pretensión y hay que reapretarlas regularmente en servicio. Este tensado se realiza ajustando la polea principal de accionamiento en la popa del vehículo. Tras el ajuste, reapriete y asegure las tuercas del tornillo de ajuste.",
+          "runs": [
+            {
+              "text": "Las correas de accionamiento de los ventiladores deben girar con una ligera pretensión y hay que reapretarlas regularmente en servicio. Este tensado se realiza ajustando la polea principal de accionamiento en la popa del vehículo. Tras el ajuste, reapriete y asegure las tuercas del tornillo de ajuste.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para08",
+      "text": {
+        "de": {
+          "plain": "Die Scheibenkupplungen der Lüfter sind im Herstellerwerk eingestellt. Ein Nachspannen der Druckfedern darf nicht vorgenommen werden.",
+          "runs": [
+            {
+              "text": "Die Scheibenkupplungen der Lüfter sind im Herstellerwerk eingestellt. Ein Nachspannen der Druckfedern darf nicht vorgenommen werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The disc clutches (Scheibenkupplungen) of the fans are set at the factory. The compression springs must not be re-tensioned.",
+          "runs": [
+            {
+              "text": "The disc clutches (Scheibenkupplungen) of the fans are set at the factory. The compression springs must not be re-tensioned.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los embragues de disco (Scheibenkupplungen) de los ventiladores vienen ajustados de fábrica. Los muelles de compresión no deben retensarse.",
+          "runs": [
+            {
+              "text": "Los embragues de disco (Scheibenkupplungen) de los ventiladores vienen ajustados de fábrica. Los muelles de compresión no deben retensarse.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para09",
+      "text": {
+        "de": {
+          "plain": "Die Antriebriemen und Scheibenkupplungen sind von Öl und Fett freizuhalten.",
+          "runs": [
+            {
+              "text": "Die Antriebriemen und Scheibenkupplungen sind von Öl und Fett freizuhalten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Keep the drive belts and disc clutches free of oil and grease.",
+          "runs": [
+            {
+              "text": "Keep the drive belts and disc clutches free of oil and grease.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Mantenga las correas de accionamiento y los embragues de disco libres de aceite y grasa.",
+          "runs": [
+            {
+              "text": "Mantenga las correas de accionamiento y los embragues de disco libres de aceite y grasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para10",
+      "text": {
+        "de": {
+          "plain": "3. Aus- und Einbau der Lüfter und Kühler",
+          "runs": [
+            {
+              "text": "3. Aus- und Einbau der Lüfter und Kühler",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. Removal and installation of fans and radiators",
+          "runs": [
+            {
+              "text": "3. Removal and installation of fans and radiators",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. Desmontaje y montaje de ventiladores y radiadores",
+          "runs": [
+            {
+              "text": "3. Desmontaje y montaje de ventiladores y radiadores",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para11",
+      "text": {
+        "de": {
+          "plain": "Ausbau der Lüfter.",
+          "runs": [
+            {
+              "text": "Ausbau der Lüfter.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Removal of the fans:",
+          "runs": [
+            {
+              "text": "Removal of the fans:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontaje de los ventiladores:",
+          "runs": [
+            {
+              "text": "Desmontaje de los ventiladores:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para12",
+      "text": {
+        "de": {
+          "plain": "Abbau der Antriebsscheibe und des Lüfters. Ursprüngliche Einstellung der Federn zur Rutschkupplung anzeichnen. Nunmehr Befestigungsschrauben der Lüfterdüse lösen.",
+          "runs": [
+            {
+              "text": "Abbau der Antriebsscheibe und des Lüfters. Ursprüngliche Einstellung der Federn zur Rutschkupplung anzeichnen. Nunmehr Befestigungsschrauben der Lüfterdüse lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the drive pulley and the fan. Mark the original setting of the springs of the slip clutch. Then undo the fastening bolts of the fan nozzle (Lüfterdüse).",
+          "runs": [
+            {
+              "text": "Remove the drive pulley and the fan. Mark the original setting of the springs of the slip clutch. Then undo the fastening bolts of the fan nozzle (Lüfterdüse).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retire la polea de accionamiento y el ventilador. Marque el reglaje original de los muelles del embrague de fricción. Afloje después los pernos de fijación de la tobera del ventilador (Lüfterdüse).",
+          "runs": [
+            {
+              "text": "Retire la polea de accionamiento y el ventilador. Marque el reglaje original de los muelles del embrague de fricción. Afloje después los pernos de fijación de la tobera del ventilador (Lüfterdüse).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para13",
+      "text": {
+        "de": {
+          "plain": "Ausbau der Kühler.",
+          "runs": [
+            {
+              "text": "Ausbau der Kühler.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Removal of the radiators:",
+          "runs": [
+            {
+              "text": "Removal of the radiators:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontaje de los radiadores:",
+          "runs": [
+            {
+              "text": "Desmontaje de los radiadores:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para14",
+      "text": {
+        "de": {
+          "plain": "Zum Ausbau des rechten Kühlers ist zuvor der Lüfter zu entfernen.",
+          "runs": [
+            {
+              "text": "Zum Ausbau des rechten Kühlers ist zuvor der Lüfter zu entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To remove the right radiator, the fan must first be taken out.",
+          "runs": [
+            {
+              "text": "To remove the right radiator, the fan must first be taken out.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para desmontar el radiador derecho hay que sacar primero el ventilador.",
+          "runs": [
+            {
+              "text": "Para desmontar el radiador derecho hay que sacar primero el ventilador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para15",
+      "text": {
+        "de": {
+          "plain": "Einbau der Lüfter.",
+          "runs": [
+            {
+              "text": "Einbau der Lüfter.",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Installation of the fans:",
+          "runs": [
+            {
+              "text": "Installation of the fans:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montaje de los ventiladores:",
+          "runs": [
+            {
+              "text": "Montaje de los ventiladores:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p041-para16",
+      "text": {
+        "de": {
+          "plain": "Beim Einbau der Lüfter ist darauf zu achten, daß die starke, runde Kante des Lüfterflügels dem Leitapparat zugekehrt ist.",
+          "runs": [
+            {
+              "text": "Beim Einbau der Lüfter ist darauf zu achten, daß die starke, runde Kante des Lüfterflügels dem Leitapparat zugekehrt ist.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When installing the fans, ensure that the strong, rounded edge of the fan blade faces the guide apparatus (Leitapparat).",
+          "runs": [
+            {
+              "text": "When installing the fans, ensure that the strong, rounded edge of the fan blade faces the guide apparatus (Leitapparat).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al montar los ventiladores, procure que el borde grueso y redondeado del álabe quede orientado hacia el aparato de guía (Leitapparat).",
+          "runs": [
+            {
+              "text": "Al montar los ventiladores, procure que el borde grueso y redondeado del álabe quede orientado hacia el aparato de guía (Leitapparat).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-040",
+    "next": "d65241a-page-042"
+  }
+}

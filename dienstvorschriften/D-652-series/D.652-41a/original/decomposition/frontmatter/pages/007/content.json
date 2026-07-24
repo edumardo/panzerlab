@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-007",
+  "document_id": "d652-41a",
+  "page": 7,
+  "section": "FrontMatter",
+  "type": "text",
+  "titles": {
+    "de": "Vorbemerkungen",
+    "en-GB": "Preliminary remarks",
+    "es-ES": "Observaciones preliminares"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 4,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-007-para01",
+      "text": {
+        "de": {
+          "plain": "Diese Vorschrift gilt für das Fahrgestell des 7,5 cm Sturmgeschütz 40, Ausführung F/8 und G, und der 10,5 cm Sturmhaubitze 42, Ausführung G. Das Fahrgestell F/8 und G stimmt in allen wichtigen Bauteilen mit dem Fahrgestell des Pz Kpfw III, Ausführung J, überein.",
+          "runs": [
+            {
+              "text": "Diese Vorschrift gilt für das Fahrgestell des 7,5 cm Sturmgeschütz 40, Ausführung F/8 und G, und der 10,5 cm Sturmhaubitze 42, Ausführung G. Das Fahrgestell F/8 und G stimmt in allen wichtigen Bauteilen mit dem Fahrgestell des Pz Kpfw III, Ausführung J, überein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "This manual applies to the chassis of the 7.5 cm Sturmgeschütz 40, models F/8 and G, and of the 10.5 cm Sturmhaubitze 42, model G. The F/8 and G chassis agrees in all important components with the chassis of the Panzerkampfwagen III (Pz.Kpfw. III), model J.",
+          "runs": [
+            {
+              "text": "This manual applies to the chassis of the 7.5 cm Sturmgeschütz 40, models F/8 and G, and of the 10.5 cm Sturmhaubitze 42, model G. The F/8 and G chassis agrees in all important components with the chassis of the Panzerkampfwagen III (Pz.Kpfw. III), model J.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Esta instrucción se aplica al chasis del cañón de asalto de 7,5 cm 40, modelos F/8 y G, y del obús de asalto de 10,5 cm 42, modelo G. El chasis F/8 y G coincide en todos los componentes importantes con el chasis del carro de combate Panzerkampfwagen III (Pz.Kpfw. III), modelo J.",
+          "runs": [
+            {
+              "text": "Esta instrucción se aplica al chasis del cañón de asalto de 7,5 cm 40, modelos F/8 y G, y del obús de asalto de 10,5 cm 42, modelo G. El chasis F/8 y G coincide en todos los componentes importantes con el chasis del carro de combate Panzerkampfwagen III (Pz.Kpfw. III), modelo J.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para02",
+      "text": {
+        "de": {
+          "plain": "Dazugehörige Vorschriften:",
+          "runs": [
+            {
+              "text": "Dazugehörige Vorschriften:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Associated manuals (Dazugehörige Vorschriften):",
+          "runs": [
+            {
+              "text": "Associated manuals (Dazugehörige Vorschriften):",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Instrucciones relacionadas (Dazugehörige Vorschriften):",
+          "runs": [
+            {
+              "text": "Instrucciones relacionadas (Dazugehörige Vorschriften):",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para03",
+      "text": {
+        "de": {
+          "plain": "1. D 652/43 b 7,5 cm Sturmgeschütz 40, Ausf. F, F/8 und G, und 10,5 cm Sturmhaubitze 42, Ausführung G — Gerätbeschreibung und Behandlungsvorschrift für den Aufbau.",
+          "runs": [
+            {
+              "text": "1. D 652/43 b 7,5 cm Sturmgeschütz 40, Ausf. F, F/8 und G, und 10,5 cm Sturmhaubitze 42, Ausführung G — Gerätbeschreibung und Behandlungsvorschrift für den Aufbau.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. D 652/43b - 7.5 cm Sturmgeschütz 40 (models F, F/8 and G) and 10.5 cm Sturmhaubitze 42 (model G): equipment description and handling instructions for the superstructure (Aufbau).",
+          "runs": [
+            {
+              "text": "1. D 652/43b - 7.5 cm Sturmgeschütz 40 (models F, F/8 and G) and 10.5 cm Sturmhaubitze 42 (model G): equipment description and handling instructions for the superstructure (Aufbau).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. D 652/43b - Cañón de asalto de 7,5 cm 40 (modelos F, F/8 y G) y obús de asalto de 10,5 cm 42 (modelo G): descripción del material e instrucciones de manejo de la superestructura (Aufbau).",
+          "runs": [
+            {
+              "text": "1. D 652/43b - Cañón de asalto de 7,5 cm 40 (modelos F, F/8 y G) y obús de asalto de 10,5 cm 42 (modelo G): descripción del material e instrucciones de manejo de la superestructura (Aufbau).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para04",
+      "text": {
+        "de": {
+          "plain": "2. D 652/44 Fristenheft für Schmieren und Pflegearbeiten.",
+          "runs": [
+            {
+              "text": "2. D 652/44 Fristenheft für Schmieren und Pflegearbeiten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. D 652/44 - schedule booklet (Fristenheft) for lubrication and maintenance work.",
+          "runs": [
+            {
+              "text": "2. D 652/44 - schedule booklet (Fristenheft) for lubrication and maintenance work.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. D 652/44 - cuaderno de plazos (Fristenheft) para trabajos de lubricación y mantenimiento.",
+          "runs": [
+            {
+              "text": "2. D 652/44 - cuaderno de plazos (Fristenheft) para trabajos de lubricación y mantenimiento.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para05",
+      "text": {
+        "de": {
+          "plain": "3. D 652/47 Pflegeheft.",
+          "runs": [
+            {
+              "text": "3. D 652/47 Pflegeheft.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. D 652/47 - maintenance booklet (Pflegeheft).",
+          "runs": [
+            {
+              "text": "3. D 652/47 - maintenance booklet (Pflegeheft).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. D 652/47 - cuaderno de mantenimiento (Pflegeheft).",
+          "runs": [
+            {
+              "text": "3. D 652/47 - cuaderno de mantenimiento (Pflegeheft).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para06",
+      "text": {
+        "de": {
+          "plain": "Ferner wahlweise:",
+          "runs": [
+            {
+              "text": "Ferner wahlweise:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Additionally, as an alternative (Ferner wahlweise):",
+          "runs": [
+            {
+              "text": "Additionally, as an alternative (Ferner wahlweise):",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Además, con carácter alternativo (Ferner wahlweise):",
+          "runs": [
+            {
+              "text": "Además, con carácter alternativo (Ferner wahlweise):",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para07",
+      "text": {
+        "de": {
+          "plain": "4. D 218 Die 7,5 cm Sturmkanone 40, Beschreibung oder",
+          "runs": [
+            {
+              "text": "4. D 218 Die 7,5 cm Sturmkanone 40, Beschreibung oder",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4. D 218 - The 7.5 cm assault gun (Sturmkanone) 40, description; or",
+          "runs": [
+            {
+              "text": "4. D 218 - The 7.5 cm assault gun (Sturmkanone) 40, description; or",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4. D 218 - El cañón de asalto de 7,5 cm 40, descripción; o",
+          "runs": [
+            {
+              "text": "4. D 218 - El cañón de asalto de 7,5 cm 40, descripción; o",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-007-para08",
+      "text": {
+        "de": {
+          "plain": "5. D 2002 Die 10,5 cm Sturmhaubitze 42, Beschreibung.",
+          "runs": [
+            {
+              "text": "5. D 2002 Die 10,5 cm Sturmhaubitze 42, Beschreibung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5. D 2002 - The 10.5 cm Sturmhaubitze 42, description.",
+          "runs": [
+            {
+              "text": "5. D 2002 - The 10.5 cm Sturmhaubitze 42, description.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5. D 2002 - El obús de asalto de 10,5 cm 42, descripción.",
+          "runs": [
+            {
+              "text": "5. D 2002 - El obús de asalto de 10,5 cm 42, descripción.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-006",
+    "next": "d65241a-page-008"
+  }
+}

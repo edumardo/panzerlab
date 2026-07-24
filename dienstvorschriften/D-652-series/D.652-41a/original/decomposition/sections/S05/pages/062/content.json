@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-062",
+  "document_id": "d652-41a",
+  "page": 62,
+  "section": "S05",
+  "type": "text",
+  "titles": {
+    "de": "Einbau, Bild 31",
+    "en-GB": "Installation, Figure 31",
+    "es-ES": "Montaje, figura 31"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 32,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-062-para01",
+      "text": {
+        "de": {"plain": "Bild 31 4 und 1 Lagernuß einbauen (III DB 112). Schwingarmflansch, Nadellager, Beilegscheiben und Abstandhülsen auf dem Schwingarm aufziehen.", "runs": [{"text": "Bild 31 4 und 1 Lagernuß einbauen (III DB 112). Schwingarmflansch, Nadellager, Beilegscheiben und Abstandhülsen auf dem Schwingarm aufziehen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 31/4 and 1 – Fit the bearing socket (III DB 112). Draw the swing-arm flange, needle bearing, shim washers and spacer sleeves onto the swing arm.", "runs": [{"text": "Fig. 31/4 and 1 – Fit the bearing socket (III DB 112). Draw the swing-arm flange, needle bearing, shim washers and spacer sleeves onto the swing arm.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 31/4 y 1 – Monte el alojamiento (III DB 112). Cale sobre el brazo oscilante la brida del brazo, el cojinete de agujas, las arandelas de ajuste y los manguitos separadores.", "runs": [{"text": "Fig. 31/4 y 1 – Monte el alojamiento (III DB 112). Cale sobre el brazo oscilante la brida del brazo, el cojinete de agujas, las arandelas de ajuste y los manguitos separadores.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para02",
+      "text": {
+        "de": {"plain": "Bild 31 2 Schwingarmlagerbuchse aus Novotext nachprüfen, wenn erforderlich, ausbauen, neue Buchse einpressen und mit Reibahle (III DB 113) aufreiben.", "runs": [{"text": "Bild 31 2 Schwingarmlagerbuchse aus Novotext nachprüfen, wenn erforderlich, ausbauen, neue Buchse einpressen und mit Reibahle (III DB 113) aufreiben.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 31/2 – Check the swing-arm bearing bush (of Novotext); if necessary remove it, press in a new bush and ream with reamer (III DB 113).", "runs": [{"text": "Fig. 31/2 – Check the swing-arm bearing bush (of Novotext); if necessary remove it, press in a new bush and ream with reamer (III DB 113).", "bold": false}]},
+        "es-ES": {"plain": "Fig. 31/2 – Compruebe el casquillo de cojinete del brazo oscilante (de Novotext); si es preciso, retírelo, introduzca a presión un casquillo nuevo y escaríelo con el escariador (III DB 113).", "runs": [{"text": "Fig. 31/2 – Compruebe el casquillo de cojinete del brazo oscilante (de Novotext); si es preciso, retírelo, introduzca a presión un casquillo nuevo y escaríelo con el escariador (III DB 113).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para03",
+      "text": {
+        "de": {"plain": "Bild 31 3 Schwingarm in Lager einbauen und, damit der Dichtring nicht verletzt wird, Vorrichtung (III DB 103) benutzen. Schwingarm mit Hilfe der Einstellehre (III DB 121) in die richtige Neigung zum Wannenboden bringen und Stabfeder einführen.", "runs": [{"text": "Bild 31 3 Schwingarm in Lager einbauen und, damit der Dichtring nicht verletzt wird, Vorrichtung (III DB 103) benutzen. Schwingarm mit Hilfe der Einstellehre (III DB 121) in die richtige Neigung zum Wannenboden bringen und Stabfeder einführen.", "bold": false}]},
+        "en-GB": {"plain": "Fig. 31/3 – Fit the swing arm in the bearing and, so that the sealing ring is not damaged, use tool (III DB 103). Bring the swing arm to the correct inclination relative to the hull floor with the setting gauge (Einstellehre) (III DB 121) and insert the torsion bar.", "runs": [{"text": "Fig. 31/3 – Fit the swing arm in the bearing and, so that the sealing ring is not damaged, use tool (III DB 103). Bring the swing arm to the correct inclination relative to the hull floor with the setting gauge (Einstellehre) (III DB 121) and insert the torsion bar.", "bold": false}]},
+        "es-ES": {"plain": "Fig. 31/3 – Monte el brazo oscilante en el cojinete y, para no dañar el retén, use la herramienta (III DB 103). Lleve el brazo oscilante a la inclinación correcta respecto al piso del casco con el calibre de reglaje (Einstellehre) (III DB 121) e introduzca la barra de torsión.", "runs": [{"text": "Fig. 31/3 – Monte el brazo oscilante en el cojinete y, para no dañar el retén, use la herramienta (III DB 103). Lleve el brazo oscilante a la inclinación correcta respecto al piso del casco con el calibre de reglaje (Einstellehre) (III DB 121) e introduzca la barra de torsión.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para04",
+      "text": {
+        "de": {"plain": "Diese Einstellehre befindet sich im Sonderwerkzeugsatz der Instandsetzungswerkstätte.", "runs": [{"text": "Diese Einstellehre befindet sich im Sonderwerkzeugsatz der Instandsetzungswerkstätte.", "bold": false}]},
+        "en-GB": {"plain": "This setting gauge is in the special-tool set of the repair workshop.", "runs": [{"text": "This setting gauge is in the special-tool set of the repair workshop.", "bold": false}]},
+        "es-ES": {"plain": "Este calibre de reglaje está en el juego de herramientas especiales del taller de reparación.", "runs": [{"text": "Este calibre de reglaje está en el juego de herramientas especiales del taller de reparación.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para05",
+      "text": {
+        "de": {"plain": "Sollte diese Einstellehre jedoch einmal nicht zur Hand sein, so kann die richtige Neigung der Schwingarme zum Wannenboden wie folgt eingestellt werden:", "runs": [{"text": "Sollte diese Einstellehre jedoch einmal nicht zur Hand sein, so kann die richtige Neigung der Schwingarme zum Wannenboden wie folgt eingestellt werden:", "bold": false}]},
+        "en-GB": {"plain": "Should the setting gauge, however, not be at hand, the correct inclination of the swing arms relative to the hull floor can be set as follows:", "runs": [{"text": "Should the setting gauge, however, not be at hand, the correct inclination of the swing arms relative to the hull floor can be set as follows:", "bold": false}]},
+        "es-ES": {"plain": "Si el calibre de reglaje, no obstante, no estuviera a mano, la inclinación correcta de los brazos oscilantes respecto al piso del casco puede ajustarse como sigue:", "runs": [{"text": "Si el calibre de reglaje, no obstante, no estuviera a mano, la inclinación correcta de los brazos oscilantes respecto al piso del casco puede ajustarse como sigue:", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para06",
+      "text": {
+        "de": {"plain": "Der in das Lager eingeführte Schwingarm wird soweit angehoben, bis sich die Mitte des Laufradzapfens in einem Abstand von 145 mm vom Wannenboden nach unten gemessen befindet. In dieser Stellung ist dann die Stabfeder einzubauen.", "runs": [{"text": "Der in das Lager eingeführte Schwingarm wird soweit angehoben, bis sich die Mitte des Laufradzapfens in einem Abstand von 145 mm vom Wannenboden nach unten gemessen befindet. In dieser Stellung ist dann die Stabfeder einzubauen.", "bold": false}]},
+        "en-GB": {"plain": "The swing arm inserted in the bearing is raised until the centre of the road-wheel journal is 145 mm, measured downward, from the hull floor. In this position the torsion bar is then to be fitted.", "runs": [{"text": "The swing arm inserted in the bearing is raised until the centre of the road-wheel journal is 145 mm, measured downward, from the hull floor. In this position the torsion bar is then to be fitted.", "bold": false}]},
+        "es-ES": {"plain": "El brazo oscilante introducido en el cojinete se levanta hasta que el centro del muñón de la rueda de rodadura quede a 145 mm, medidos hacia abajo, del piso del casco. En esta posición se monta entonces la barra de torsión.", "runs": [{"text": "El brazo oscilante introducido en el cojinete se levanta hasta que el centro del muñón de la rueda de rodadura quede a 145 mm, medidos hacia abajo, del piso del casco. En esta posición se monta entonces la barra de torsión.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para07",
+      "text": {
+        "de": {"plain": "Mit Rücksicht auf ein möglichst genaues Einhalten des erwähnten Maßes empfiehlt es sich, unter dem Wannenboden eine gerade Leiste so anzulegen, daß diese seitlich etwas hervorsteht. Das erforderliche Maß von 145 mm (Oberkante Meßleiste bis Mitte Laufradzapfen) kann dann genau beobachtet werden.", "runs": [{"text": "Mit Rücksicht auf ein möglichst genaues Einhalten des erwähnten Maßes empfiehlt es sich, unter dem Wannenboden eine gerade Leiste so anzulegen, daß diese seitlich etwas hervorsteht. Das erforderliche Maß von 145 mm (Oberkante Meßleiste bis Mitte Laufradzapfen) kann dann genau beobachtet werden.", "bold": false}]},
+        "en-GB": {"plain": "To keep to this dimension as exactly as possible, it is advisable to lay a straight strip under the hull floor so that it projects a little at the side. The required dimension of 145 mm (upper edge of measuring strip to centre of road-wheel journal) can then be observed exactly.", "runs": [{"text": "To keep to this dimension as exactly as possible, it is advisable to lay a straight strip under the hull floor so that it projects a little at the side. The required dimension of 145 mm (upper edge of measuring strip to centre of road-wheel journal) can then be observed exactly.", "bold": false}]},
+        "es-ES": {"plain": "Para respetar esta medida con la mayor exactitud posible, conviene colocar un listón recto bajo el piso del casco de modo que sobresalga un poco por el lateral. Así puede observarse con exactitud la medida requerida de 145 mm (canto superior del listón de medida al centro del muñón de la rueda).", "runs": [{"text": "Para respetar esta medida con la mayor exactitud posible, conviene colocar un listón recto bajo el piso del casco de modo que sobresalga un poco por el lateral. Así puede observarse con exactitud la medida requerida de 145 mm (canto superior del listón de medida al centro del muñón de la rueda).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para08",
+      "text": {
+        "de": {"plain": "Haltestifte in die Lagernuß soweit eindrücken, daß das Gewindeende, mit Rücksicht auf ein späteres Herausziehen beim Ausbau der Stabfedern, noch etwa 6 mm hervorsteht; Bodendeckel anschrauben.", "runs": [{"text": "Haltestifte in die Lagernuß soweit eindrücken, daß das Gewindeende, mit Rücksicht auf ein späteres Herausziehen beim Ausbau der Stabfedern, noch etwa 6 mm hervorsteht; Bodendeckel anschrauben.", "bold": false}]},
+        "en-GB": {"plain": "Press the retaining pins into the bearing socket so far that the thread end – allowing for later pulling-out when removing the torsion bars – still projects about 6 mm; bolt on the floor cover.", "runs": [{"text": "Press the retaining pins into the bearing socket so far that the thread end – allowing for later pulling-out when removing the torsion bars – still projects about 6 mm; bolt on the floor cover.", "bold": false}]},
+        "es-ES": {"plain": "Introduzca a presión los pasadores de retención en el alojamiento hasta que el extremo roscado –para permitir su posterior extracción al desmontar las barras de torsión– aún sobresalga unos 6 mm; atornille la tapa del piso.", "runs": [{"text": "Introduzca a presión los pasadores de retención en el alojamiento hasta que el extremo roscado –para permitir su posterior extracción al desmontar las barras de torsión– aún sobresalga unos 6 mm; atornille la tapa del piso.", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para09",
+      "text": {
+        "de": {"plain": "Beim Einbau neuer Drehstabfedern dürfen nur soviel Beilagscheiben auf den Drehstabfederzapfen aufgeschoben werden, daß zwischen der Druckscheibe und ihrer Auflagefläche im Schwingarm ein Spiel von 0,2 bis 0,5 mm verbleibt. Muttern auf dem Stabfederzapfen aufstecken und Verschlußkappe in den Schwingarm einschrauben (III DB 121).", "runs": [{"text": "Beim Einbau neuer Drehstabfedern dürfen nur soviel Beilagscheiben auf den Drehstabfederzapfen aufgeschoben werden, daß zwischen der Druckscheibe und ihrer Auflagefläche im Schwingarm ein Spiel von 0,2 bis 0,5 mm verbleibt. Muttern auf dem Stabfederzapfen aufstecken und Verschlußkappe in den Schwingarm einschrauben (III DB 121).", "bold": false}]},
+        "en-GB": {"plain": "When fitting new torsion bars, only as many shim washers may be pushed onto the torsion-bar journal as leaves a play of 0.2 to 0.5 mm between the thrust washer and its bearing face in the swing arm. Fit the nuts on the torsion-bar journal and screw the closing cap into the swing arm (III DB 121).", "runs": [{"text": "When fitting new torsion bars, only as many shim washers may be pushed onto the torsion-bar journal as leaves a play of 0.2 to 0.5 mm between the thrust washer and its bearing face in the swing arm. Fit the nuts on the torsion-bar journal and screw the closing cap into the swing arm (III DB 121).", "bold": false}]},
+        "es-ES": {"plain": "Al montar barras de torsión nuevas, solo pueden colocarse en el muñón de la barra tantas arandelas de ajuste como dejen un juego de 0,2 a 0,5 mm entre la arandela de empuje y su superficie de apoyo en el brazo oscilante. Monte las tuercas en el muñón de la barra de torsión y enrosque la tapa de cierre en el brazo oscilante (III DB 121).", "runs": [{"text": "Al montar barras de torsión nuevas, solo pueden colocarse en el muñón de la barra tantas arandelas de ajuste como dejen un juego de 0,2 a 0,5 mm entre la arandela de empuje y su superficie de apoyo en el brazo oscilante. Monte las tuercas en el muñón de la barra de torsión y enrosque la tapa de cierre en el brazo oscilante (III DB 121).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para10",
+      "text": {
+        "de": {"plain": "Nach erfolgtem Zusammenbau sind die Stütz- und Laufrollen auf genaues Fluchten zu überprüfen (III DB 130).", "runs": [{"text": "Nach erfolgtem Zusammenbau sind die Stütz- und Laufrollen auf genaues Fluchten zu überprüfen (III DB 130).", "bold": false}]},
+        "en-GB": {"plain": "After assembly, check the return rollers and road wheels for exact alignment (III DB 130).", "runs": [{"text": "After assembly, check the return rollers and road wheels for exact alignment (III DB 130).", "bold": false}]},
+        "es-ES": {"plain": "Tras el montaje, compruebe la alineación exacta de los rodillos de retorno y las ruedas de rodadura (III DB 130).", "runs": [{"text": "Tras el montaje, compruebe la alineación exacta de los rodillos de retorno y las ruedas de rodadura (III DB 130).", "bold": false}]}
+      }
+    },
+    {
+      "id": "d65241a-page-062-para11",
+      "text": {
+        "de": {"plain": "Vorrichtung (III DB 130/1) wird zwischen die oberen Zähne des Triebrades, Vorrichtung (III DB 130/2) zwischen die Spurkränze des", "runs": [{"text": "Vorrichtung (III DB 130/1) wird zwischen die oberen Zähne des Triebrades, Vorrichtung (III DB 130/2) zwischen die Spurkränze des", "bold": false}]},
+        "en-GB": {"plain": "Tool (III DB 130/1) is clamped between the upper teeth of the drive sprocket, tool (III DB 130/2) between the flange rings of the –", "runs": [{"text": "Tool (III DB 130/1) is clamped between the upper teeth of the drive sprocket, tool (III DB 130/2) between the flange rings of the –", "bold": false}]},
+        "es-ES": {"plain": "La herramienta (III DB 130/1) se sujeta entre los dientes superiores de la rueda motriz; la herramienta (III DB 130/2) entre los aros de brida de la –", "runs": [{"text": "La herramienta (III DB 130/1) se sujeta entre los dientes superiores de la rueda motriz; la herramienta (III DB 130/2) entre los aros de brida de la –", "bold": false}]}
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-061",
+    "next": "d65241a-page-063"
+  }
+}

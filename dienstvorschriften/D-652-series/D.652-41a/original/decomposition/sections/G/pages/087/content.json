@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-087",
+  "document_id": "d652-41a",
+  "page": 87,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 16  Leitrad mit Kettenspanner",
+    "en-GB": "Fig. 16  Idler wheel with track tensioner",
+    "es-ES": "Fig. 16  Rueda tensora con tensor de cadena"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 51,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild016",
+      "number": 16,
+      "captions": {
+        "de": {
+          "plain": "Bild 16  Leitrad mit Kettenspanner",
+          "runs": [
+            { "text": "Bild 16  Leitrad mit Kettenspanner", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 16  Idler wheel with track tensioner",
+          "runs": [
+            { "text": "Fig. 16  Idler wheel with track tensioner", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 16  Rueda tensora con tensor de cadena",
+          "runs": [
+            { "text": "Fig. 16  Rueda tensora con tensor de cadena", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Anhängegabel\nKurbelachse\nLagerhülse\nKurbelachse\nLeitrad\nSchraubhülse\nLedermanschette\nLagerpfanne\nAnhängegabel\nScherscheibe\nSpannschraube\nKugelstück\nVerschlußkappe\nLeitrad",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "towing-fork bracket (Anhängegabel)\ncrank axle (Kurbelachse)\nbearing sleeve (Lagerhülse)\ncrank axle (Kurbelachse)\nidler wheel (Leitrad)\nscrewed sleeve (Schraubhülse)\nleather sleeve (Ledermanschette)\nbearing cup (Lagerpfanne)\ntowing-fork bracket (Anhängegabel)\nshear disc (Scherscheibe)\ntensioning screw (Spannschraube)\nball piece (Kugelstück)\nclosure cap (Verschlußkappe)\nidler wheel (Leitrad)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "horquilla de enganche (Anhängegabel)\neje de manivela (Kurbelachse)\ncasquillo de cojinete (Lagerhülse)\neje de manivela (Kurbelachse)\nrueda tensora (Leitrad)\ncasquillo roscado (Schraubhülse)\nmanguito de cuero (Ledermanschette)\ncopa de cojinete (Lagerpfanne)\nhorquilla de enganche (Anhängegabel)\ndisco de rotura (Scherscheibe)\ntornillo tensor (Spannschraube)\npieza esférica (Kugelstück)\ntapa de cierre (Verschlußkappe)\nrueda tensora (Leitrad)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-086",
+    "next": "d65241a-page-088"
+  }
+}

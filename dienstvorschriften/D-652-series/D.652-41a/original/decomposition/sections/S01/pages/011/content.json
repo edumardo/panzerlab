@@ -1,0 +1,448 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-011",
+  "document_id": "d652-41a",
+  "page": 11,
+  "section": "S01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 6,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p011-para01",
+      "text": {
+        "de": {
+          "plain": "Die Panzerwanne ist als Träger des Fahrgestells ausgebildet. In ihr ist die Motor- und Getriebeanlage gelagert.",
+          "runs": [
+            {
+              "text": "Die Panzerwanne ist als Träger des Fahrgestells ausgebildet. In ihr ist die Motor- und Getriebeanlage gelagert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The armoured hull (Panzerwanne) is built as the load-bearing member (Träger) of the chassis; the engine and transmission assembly (Motor- und Getriebeanlage) is mounted in it.",
+          "runs": [
+            {
+              "text": "The armoured hull (Panzerwanne) is built as the load-bearing member (Träger) of the chassis; the engine and transmission assembly (Motor- und Getriebeanlage) is mounted in it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El casco blindado (Panzerwanne) está concebido como elemento portante (Träger) del chasis; en él se aloja el conjunto de motor y transmisión (Motor- und Getriebeanlage).",
+          "runs": [
+            {
+              "text": "El casco blindado (Panzerwanne) está concebido como elemento portante (Träger) del chasis; en él se aloja el conjunto de motor y transmisión (Motor- und Getriebeanlage).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para02",
+      "text": {
+        "de": {
+          "plain": "Der Motor mit angeflanschter Hauptkupplung ist im Heckraum der Panzerwanne untergebracht. Zu beiden Seiten des Motors sind die Kühler mit den Lüftern und auf der rechten Fahrzeugseite, rechts vom Motor durch eine Wand gegen die Motorwärme geschützt, ein Kraftstoffbehälter angeordnet.",
+          "runs": [
+            {
+              "text": "Der Motor mit angeflanschter Hauptkupplung ist im Heckraum der Panzerwanne untergebracht. Zu beiden Seiten des Motors sind die Kühler mit den Lüftern und auf der rechten Fahrzeugseite, rechts vom Motor durch eine Wand gegen die Motorwärme geschützt, ein Kraftstoffbehälter angeordnet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The engine, with the main clutch (Hauptkupplung) flanged to it, is housed in the rear compartment (Heckraum) of the hull. On both sides of the engine are the radiators (Kühler) with the fans (Lüfter); and on the right-hand side of the vehicle, to the right of the engine and shielded from the engine heat by a wall, a fuel tank (Kraftstoffbehälter) is arranged.",
+          "runs": [
+            {
+              "text": "The engine, with the main clutch (Hauptkupplung) flanged to it, is housed in the rear compartment (Heckraum) of the hull. On both sides of the engine are the radiators (Kühler) with the fans (Lüfter); and on the right-hand side of the vehicle, to the right of the engine and shielded from the engine heat by a wall, a fuel tank (Kraftstoffbehälter) is arranged.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor, con el embrague principal (Hauptkupplung) embridado a él, va alojado en el compartimento trasero (Heckraum) del casco. A ambos lados del motor se hallan los radiadores (Kühler) con los ventiladores (Lüfter); y en el costado derecho del vehículo, a la derecha del motor y protegido del calor del motor por un tabique, se dispone un depósito de combustible (Kraftstoffbehälter).",
+          "runs": [
+            {
+              "text": "El motor, con el embrague principal (Hauptkupplung) embridado a él, va alojado en el compartimento trasero (Heckraum) del casco. A ambos lados del motor se hallan los radiadores (Kühler) con los ventiladores (Lüfter); y en el costado derecho del vehículo, a la derecha del motor y protegido del calor del motor por un tabique, se dispone un depósito de combustible (Kraftstoffbehälter).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para03",
+      "text": {
+        "de": {
+          "plain": "Eine Trennwand, die mit Öffnungen für die Kraftübertragung, Gestänge und elektrischen Leitungen versehen ist, trennt den Motor vom Kampfraum.",
+          "runs": [
+            {
+              "text": "Eine Trennwand, die mit Öffnungen für die Kraftübertragung, Gestänge und elektrischen Leitungen versehen ist, trennt den Motor vom Kampfraum.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A partition wall (Trennwand), provided with openings for the power transmission, the linkages (Gestänge) and the electrical leads, separates the engine from the fighting compartment (Kampfraum).",
+          "runs": [
+            {
+              "text": "A partition wall (Trennwand), provided with openings for the power transmission, the linkages (Gestänge) and the electrical leads, separates the engine from the fighting compartment (Kampfraum).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Un mamparo de separación (Trennwand), provisto de aberturas para la transmisión de fuerza, los varillajes (Gestänge) y los cables eléctricos, separa el motor del compartimento de combate (Kampfraum).",
+          "runs": [
+            {
+              "text": "Un mamparo de separación (Trennwand), provisto de aberturas para la transmisión de fuerza, los varillajes (Gestänge) y los cables eléctricos, separa el motor del compartimento de combate (Kampfraum).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para04",
+      "text": {
+        "de": {
+          "plain": "Die Gelenkwelle führt von der am Motor angeflanschten Hauptkupplung in einem Tunnel durch den Mannschaftsraum, in den Bugraum zum Wechselgetriebe. An das Wechselgetriebe sind vorn der Kegeltrieb mit den Lenkgetrieben angeflanscht.",
+          "runs": [
+            {
+              "text": "Die Gelenkwelle führt von der am Motor angeflanschten Hauptkupplung in einem Tunnel durch den Mannschaftsraum, in den Bugraum zum Wechselgetriebe. An das Wechselgetriebe sind vorn der Kegeltrieb mit den Lenkgetrieben angeflanscht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The cardan shaft (Gelenkwelle) runs from the main clutch flanged to the engine, through a tunnel through the crew compartment (Mannschaftsraum) and into the front compartment (Bugraum) to the gearbox (Wechselgetriebe). At the front, the bevel drive (Kegeltrieb) with the steering gears (Lenkgetriebe) is flanged to the gearbox.",
+          "runs": [
+            {
+              "text": "The cardan shaft (Gelenkwelle) runs from the main clutch flanged to the engine, through a tunnel through the crew compartment (Mannschaftsraum) and into the front compartment (Bugraum) to the gearbox (Wechselgetriebe). At the front, the bevel drive (Kegeltrieb) with the steering gears (Lenkgetriebe) is flanged to the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El árbol de transmisión (Gelenkwelle) va desde el embrague principal embridado al motor, por un túnel a través del compartimento de la tripulación (Mannschaftsraum), hasta el compartimento delantero (Bugraum), a la caja de cambios (Wechselgetriebe). En la parte delantera, el par cónico (Kegeltrieb) con los mecanismos de dirección (Lenkgetriebe) va embridado a la caja de cambios.",
+          "runs": [
+            {
+              "text": "El árbol de transmisión (Gelenkwelle) va desde el embrague principal embridado al motor, por un túnel a través del compartimento de la tripulación (Mannschaftsraum), hasta el compartimento delantero (Bugraum), a la caja de cambios (Wechselgetriebe). En la parte delantera, el par cónico (Kegeltrieb) con los mecanismos de dirección (Lenkgetriebe) va embridado a la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para05",
+      "text": {
+        "de": {
+          "plain": "Von den Lenkgetrieben führen links und rechts zwei Seitenwellen zu den beiden Lenkbremsen und den beiden Seitenvorgelegen. Die Halter der Lenkbremsen sind innen, die Seitenvorgelege, die die Triebräder tragen, außen an die Seitenwände der Wanne angeflanscht.",
+          "runs": [
+            {
+              "text": "Von den Lenkgetrieben führen links und rechts zwei Seitenwellen zu den beiden Lenkbremsen und den beiden Seitenvorgelegen. Die Halter der Lenkbremsen sind innen, die Seitenvorgelege, die die Triebräder tragen, außen an die Seitenwände der Wanne angeflanscht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "From the steering gears, a side shaft (Seitenwelle) runs left and right to the two steering brakes (Lenkbremsen) and the two final drives (Seitenvorgelege). The steering-brake mountings are flanged to the inside of the hull side walls, the final drives — which carry the drive sprockets (Triebräder) — to the outside.",
+          "runs": [
+            {
+              "text": "From the steering gears, a side shaft (Seitenwelle) runs left and right to the two steering brakes (Lenkbremsen) and the two final drives (Seitenvorgelege). The steering-brake mountings are flanged to the inside of the hull side walls, the final drives — which carry the drive sprockets (Triebräder) — to the outside.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desde los mecanismos de dirección, un semieje (Seitenwelle) va a izquierda y derecha hasta los dos frenos de dirección (Lenkbremsen) y las dos reductoras finales (Seitenvorgelege). Los soportes de los frenos de dirección van embridados por dentro a las paredes laterales del casco; las reductoras finales —que soportan las ruedas motrices (Triebräder)— por fuera.",
+          "runs": [
+            {
+              "text": "Desde los mecanismos de dirección, un semieje (Seitenwelle) va a izquierda y derecha hasta los dos frenos de dirección (Lenkbremsen) y las dos reductoras finales (Seitenvorgelege). Los soportes de los frenos de dirección van embridados por dentro a las paredes laterales del casco; las reductoras finales —que soportan las ruedas motrices (Triebräder)— por fuera.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para06",
+      "text": {
+        "de": {
+          "plain": "Neben dem Wechselgetriebe befindet sich links der Fahrersitz. Vor dem Fahrersitz befinden sich die Fahr-, Brems- und Kupplungsfußhebel, zu beiden Seiten des Sitzes die Lenkhebel.",
+          "runs": [
+            {
+              "text": "Neben dem Wechselgetriebe befindet sich links der Fahrersitz. Vor dem Fahrersitz befinden sich die Fahr-, Brems- und Kupplungsfußhebel, zu beiden Seiten des Sitzes die Lenkhebel.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To the left, next to the gearbox, is the driver's seat (Fahrersitz). In front of it are the accelerator, brake and clutch pedals (Fahr-, Brems- und Kupplungsfußhebel); on either side of the seat are the steering levers (Lenkhebel).",
+          "runs": [
+            {
+              "text": "To the left, next to the gearbox, is the driver's seat (Fahrersitz). In front of it are the accelerator, brake and clutch pedals (Fahr-, Brems- und Kupplungsfußhebel); on either side of the seat are the steering levers (Lenkhebel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A la izquierda, junto a la caja de cambios, está el asiento del conductor (Fahrersitz). Delante de él se hallan los pedales de acelerador, freno y embrague (Fahr-, Brems- und Kupplungsfußhebel); a ambos lados del asiento, las palancas de dirección (Lenkhebel).",
+          "runs": [
+            {
+              "text": "A la izquierda, junto a la caja de cambios, está el asiento del conductor (Fahrersitz). Delante de él se hallan los pedales de acelerador, freno y embrague (Fahr-, Brems- und Kupplungsfußhebel); a ambos lados del asiento, las palancas de dirección (Lenkhebel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para07",
+      "text": {
+        "de": {
+          "plain": "Am Heck sind auf verstellbaren Kurbelachsen die Leiträder gelagert. Zwischen Trieb- und Leitrad befinden sich auf jeder Fahrzeugseite sechs durch Stabfedern abgefederte Laufrollen. Oberhalb der Laufrollen sind auf jeder Seite drei Stützrollen vorgesehen.",
+          "runs": [
+            {
+              "text": "Am Heck sind auf verstellbaren Kurbelachsen die Leiträder gelagert. Zwischen Trieb- und Leitrad befinden sich auf jeder Fahrzeugseite sechs durch Stabfedern abgefederte Laufrollen. Oberhalb der Laufrollen sind auf jeder Seite drei Stützrollen vorgesehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the rear, the idler wheels (Leiträder) are carried on adjustable crank axles (Kurbelachsen). Between the drive sprocket and the idler wheel, each side of the vehicle has six road wheels (Laufrollen) sprung by torsion bars (Stabfedern). Above the road wheels, three return rollers (Stützrollen) are provided on each side.",
+          "runs": [
+            {
+              "text": "At the rear, the idler wheels (Leiträder) are carried on adjustable crank axles (Kurbelachsen). Between the drive sprocket and the idler wheel, each side of the vehicle has six road wheels (Laufrollen) sprung by torsion bars (Stabfedern). Above the road wheels, three return rollers (Stützrollen) are provided on each side.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En la popa, las ruedas tensoras (Leiträder) van montadas sobre ejes de manivela regulables (Kurbelachsen). Entre la rueda motriz y la tensora, cada costado del vehículo lleva seis ruedas de rodadura (Laufrollen) suspendidas por barras de torsión (Stabfedern). Por encima de las ruedas de rodadura se disponen tres rodillos de retorno (Stützrollen) en cada costado.",
+          "runs": [
+            {
+              "text": "En la popa, las ruedas tensoras (Leiträder) van montadas sobre ejes de manivela regulables (Kurbelachsen). Entre la rueda motriz y la tensora, cada costado del vehículo lleva seis ruedas de rodadura (Laufrollen) suspendidas por barras de torsión (Stabfedern). Por encima de las ruedas de rodadura se disponen tres rodillos de retorno (Stützrollen) en cada costado.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para08",
+      "text": {
+        "de": {
+          "plain": "Über alle Räder sind die Gleisketten gespannt, die von den Triebrädern angetrieben werden.",
+          "runs": [
+            {
+              "text": "Über alle Räder sind die Gleisketten gespannt, die von den Triebrädern angetrieben werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The tracks (Gleisketten) are tensioned over all the wheels and are driven by the drive sprockets (Triebräder).",
+          "runs": [
+            {
+              "text": "The tracks (Gleisketten) are tensioned over all the wheels and are driven by the drive sprockets (Triebräder).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las cadenas (Gleisketten) van tensadas sobre todas las ruedas y son accionadas por las ruedas motrices (Triebräder).",
+          "runs": [
+            {
+              "text": "Las cadenas (Gleisketten) van tensadas sobre todas las ruedas y son accionadas por las ruedas motrices (Triebräder).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para09",
+      "text": {
+        "de": {
+          "plain": "3. Panzerwanne",
+          "runs": [
+            {
+              "text": "3. Panzerwanne",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. Armoured hull (Panzerwanne)",
+          "runs": [
+            {
+              "text": "3. Armoured hull (Panzerwanne)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. Casco blindado (Panzerwanne)",
+          "runs": [
+            {
+              "text": "3. Casco blindado (Panzerwanne)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para10",
+      "text": {
+        "de": {
+          "plain": "Die Panzerwanne besteht aus dem geschlossenen Bugpanzer, dem offenen Wannenmittelteil und dem offenen Heckraum, die aus mehreren, miteinander verschweißten Panzerblechen verschiedener Stärke gebildet werden.",
+          "runs": [
+            {
+              "text": "Die Panzerwanne besteht aus dem geschlossenen Bugpanzer, dem offenen Wannenmittelteil und dem offenen Heckraum, die aus mehreren, miteinander verschweißten Panzerblechen verschiedener Stärke gebildet werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The hull consists of the closed bow armour (Bugpanzer), the open centre section (Wannenmittelteil) and the open rear compartment (Heckraum), formed from several welded-together armour plates (Panzerbleche) of various thicknesses.",
+          "runs": [
+            {
+              "text": "The hull consists of the closed bow armour (Bugpanzer), the open centre section (Wannenmittelteil) and the open rear compartment (Heckraum), formed from several welded-together armour plates (Panzerbleche) of various thicknesses.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El casco se compone del blindaje de proa cerrado (Bugpanzer), la parte central abierta del casco (Wannenmittelteil) y el compartimento trasero abierto (Heckraum), formados por varias planchas de blindaje (Panzerbleche) de distinto grosor soldadas entre sí.",
+          "runs": [
+            {
+              "text": "El casco se compone del blindaje de proa cerrado (Bugpanzer), la parte central abierta del casco (Wannenmittelteil) y el compartimento trasero abierto (Heckraum), formados por varias planchas de blindaje (Panzerbleche) de distinto grosor soldadas entre sí.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para11",
+      "text": {
+        "de": {
+          "plain": "Die Seitenwände sind gegeneinander in der Mitte durch eine Querwand versteift. Ebenso ist die Heckwand zur Lagerung der Leitradachsen mit Versteifungen versehen.",
+          "runs": [
+            {
+              "text": "Die Seitenwände sind gegeneinander in der Mitte durch eine Querwand versteift. Ebenso ist die Heckwand zur Lagerung der Leitradachsen mit Versteifungen versehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The side walls are braced against each other in the middle by a transverse wall (Querwand). The rear wall (Heckwand) is likewise reinforced to carry the idler-wheel axles (Leitradachsen).",
+          "runs": [
+            {
+              "text": "The side walls are braced against each other in the middle by a transverse wall (Querwand). The rear wall (Heckwand) is likewise reinforced to carry the idler-wheel axles (Leitradachsen).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las paredes laterales se arriostran entre sí en el centro mediante un tabique transversal (Querwand). Asimismo, la pared de popa (Heckwand) va reforzada para alojar los ejes de las ruedas tensoras (Leitradachsen).",
+          "runs": [
+            {
+              "text": "Las paredes laterales se arriostran entre sí en el centro mediante un tabique transversal (Querwand). Asimismo, la pared de popa (Heckwand) va reforzada para alojar los ejes de las ruedas tensoras (Leitradachsen).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para12",
+      "text": {
+        "de": {
+          "plain": "Am oberen Rand befindet sich ein Flansch, auf den der Panzeraufbau aufgeschraubt wird.",
+          "runs": [
+            {
+              "text": "Am oberen Rand befindet sich ein Flansch, auf den der Panzeraufbau aufgeschraubt wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the top edge there is a flange (Flansch) onto which the armoured superstructure (Panzeraufbau) is bolted.",
+          "runs": [
+            {
+              "text": "At the top edge there is a flange (Flansch) onto which the armoured superstructure (Panzeraufbau) is bolted.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el borde superior hay una brida (Flansch) sobre la que se atornilla la superestructura blindada (Panzeraufbau).",
+          "runs": [
+            {
+              "text": "En el borde superior hay una brida (Flansch) sobre la que se atornilla la superestructura blindada (Panzeraufbau).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p011-para13",
+      "text": {
+        "de": {
+          "plain": "Der Boden ist in der Quer- und Längsrichtung durch Träger versteift, die gleichzeitig zur Befestigung der Antriebsteile dienen.",
+          "runs": [
+            {
+              "text": "Der Boden ist in der Quer- und Längsrichtung durch Träger versteift, die gleichzeitig zur Befestigung der Antriebsteile dienen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The floor (Boden) is stiffened transversely and longitudinally by bearers (Träger), which at the same time serve to secure the drive components (Antriebsteile).",
+          "runs": [
+            {
+              "text": "The floor (Boden) is stiffened transversely and longitudinally by bearers (Träger), which at the same time serve to secure the drive components (Antriebsteile).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El piso (Boden) va rigidizado en sentido transversal y longitudinal mediante largueros (Träger), que sirven al mismo tiempo para fijar los órganos de transmisión (Antriebsteile).",
+          "runs": [
+            {
+              "text": "El piso (Boden) va rigidizado en sentido transversal y longitudinal mediante largueros (Träger), que sirven al mismo tiempo para fijar los órganos de transmisión (Antriebsteile).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-010",
+    "next": "d65241a-page-012"
+  }
+}

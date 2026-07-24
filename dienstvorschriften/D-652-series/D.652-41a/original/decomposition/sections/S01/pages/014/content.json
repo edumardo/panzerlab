@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-014",
+  "document_id": "d652-41a",
+  "page": 14,
+  "section": "S01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 8,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p014-para01",
+      "text": {
+        "de": {
+          "plain": "Pumpen abgesaugt und in den Vorratsbehälter gedrückt, aus dem es durch eine Zahnradpumpe über einen Ölkühler und einen Ölfilter zu den Schmierstellen des Motors gefördert wird.",
+          "runs": [
+            {
+              "text": "Pumpen abgesaugt und in den Vorratsbehälter gedrückt, aus dem es durch eine Zahnradpumpe über einen Ölkühler und einen Ölfilter zu den Schmierstellen des Motors gefördert wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "— pumps and forced into the reservoir (Vorratsbehälter), from which a gear pump (Zahnradpumpe) delivers it, via an oil cooler (Ölkühler) and an oil filter, to the engine's lubrication points (Schmierstellen).",
+          "runs": [
+            {
+              "text": "— pumps and forced into the reservoir (Vorratsbehälter), from which a gear pump (Zahnradpumpe) delivers it, via an oil cooler (Ölkühler) and an oil filter, to the engine's lubrication points (Schmierstellen).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "— bombas e impulsado al depósito de reserva (Vorratsbehälter), desde el cual una bomba de engranajes (Zahnradpumpe) lo envía, a través de un radiador de aceite (Ölkühler) y un filtro de aceite, a los puntos de lubricación del motor (Schmierstellen).",
+          "runs": [
+            {
+              "text": "— bombas e impulsado al depósito de reserva (Vorratsbehälter), desde el cual una bomba de engranajes (Zahnradpumpe) lo envía, a través de un radiador de aceite (Ölkühler) y un filtro de aceite, a los puntos de lubricación del motor (Schmierstellen).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para02",
+      "text": {
+        "de": {
+          "plain": "Das Ölfilter ist als Spaltfilter ausgebildet. Es enthält ein Paket von dünnen Metallplättchen, die auf einer drehbaren Spindel so aufgereiht sind, daß sie einen kleinen Spalt zwischen sich freilassen.",
+          "runs": [
+            {
+              "text": "Das Ölfilter ist als Spaltfilter ausgebildet. Es enthält ein Paket von dünnen Metallplättchen, die auf einer drehbaren Spindel so aufgereiht sind, daß sie einen kleinen Spalt zwischen sich freilassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The oil filter is designed as a gap (edge-type) filter (Spaltfilter). It holds a pack of thin metal discs (Metallplättchen) strung on a rotatable spindle (Spindel) so that they leave a narrow gap between them.",
+          "runs": [
+            {
+              "text": "The oil filter is designed as a gap (edge-type) filter (Spaltfilter). It holds a pack of thin metal discs (Metallplättchen) strung on a rotatable spindle (Spindel) so that they leave a narrow gap between them.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El filtro de aceite está concebido como filtro de ranura (de borde) (Spaltfilter). Aloja un paquete de finas láminas metálicas (Metallplättchen) ensartadas en un husillo giratorio (Spindel), de modo que dejan entre sí una ranura estrecha.",
+          "runs": [
+            {
+              "text": "El filtro de aceite está concebido como filtro de ranura (de borde) (Spaltfilter). Aloja un paquete de finas láminas metálicas (Metallplättchen) ensartadas en un husillo giratorio (Spindel), de modo que dejan entre sí una ranura estrecha.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para03",
+      "text": {
+        "de": {
+          "plain": "Das Öl durchfließt das Plattenpaket von außen nach innen, so daß sich der mitgeführte Schmutz vor den Spalten absetzt. Schmale Metallzungen lassen sich mit der Spindel durch die Spalten der Metallplättchen drehen. Hierbei wird der Schmutz abgestreift und sammelt sich unten in einer abnehmbaren Glocke an. Betätigt wird die Spindel durch ein mit dem Kupplungsfußhebel in Verbindung stehendes Gestänge.",
+          "runs": [
+            {
+              "text": "Das Öl durchfließt das Plattenpaket von außen nach innen, so daß sich der mitgeführte Schmutz vor den Spalten absetzt. Schmale Metallzungen lassen sich mit der Spindel durch die Spalten der Metallplättchen drehen. Hierbei wird der Schmutz abgestreift und sammelt sich unten in einer abnehmbaren Glocke an. Betätigt wird die Spindel durch ein mit dem Kupplungsfußhebel in Verbindung stehendes Gestänge.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The oil flows through the disc pack from outside to inside, so the entrained dirt is deposited in front of the gaps. Narrow metal tongues (Metallzungen) can be turned with the spindle through the gaps between the discs; this scrapes off the dirt, which collects below in a removable bowl (Glocke). The spindle is worked by a linkage (Gestänge) connected to the clutch pedal (Kupplungsfußhebel).",
+          "runs": [
+            {
+              "text": "The oil flows through the disc pack from outside to inside, so the entrained dirt is deposited in front of the gaps. Narrow metal tongues (Metallzungen) can be turned with the spindle through the gaps between the discs; this scrapes off the dirt, which collects below in a removable bowl (Glocke). The spindle is worked by a linkage (Gestänge) connected to the clutch pedal (Kupplungsfußhebel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El aceite atraviesa el paquete de láminas de fuera hacia dentro, de forma que la suciedad arrastrada se deposita delante de las ranuras. Unas estrechas lengüetas metálicas (Metallzungen) pueden girarse con el husillo por las ranuras entre las láminas; así se raspa la suciedad, que se recoge abajo en un vaso desmontable (Glocke). El husillo se acciona mediante un varillaje (Gestänge) unido al pedal de embrague (Kupplungsfußhebel).",
+          "runs": [
+            {
+              "text": "El aceite atraviesa el paquete de láminas de fuera hacia dentro, de forma que la suciedad arrastrada se deposita delante de las ranuras. Unas estrechas lengüetas metálicas (Metallzungen) pueden girarse con el husillo por las ranuras entre las láminas; así se raspa la suciedad, que se recoge abajo en un vaso desmontable (Glocke). El husillo se acciona mediante un varillaje (Gestänge) unido al pedal de embrague (Kupplungsfußhebel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para04",
+      "text": {
+        "de": {
+          "plain": "b) Kühlanlage, Bild 3",
+          "runs": [
+            {
+              "text": "b) Kühlanlage, Bild 3",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Cooling system (Kühlanlage), Figure 3",
+          "runs": [
+            {
+              "text": "b) Cooling system (Kühlanlage), Figure 3",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Sistema de refrigeración (Kühlanlage), figura 3",
+          "runs": [
+            {
+              "text": "b) Sistema de refrigeración (Kühlanlage), figura 3",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para05",
+      "text": {
+        "de": {
+          "plain": "Zum Umlauf des Kühlwassers dient eine Wasserpumpe. Sie ist oben auf das Kurbelgehäuse aufgesetzt und wird von der Kurbelwelle durch zwei Keilriemen gleichzeitig mit der Lichtmaschine angetrieben.",
+          "runs": [
+            {
+              "text": "Zum Umlauf des Kühlwassers dient eine Wasserpumpe. Sie ist oben auf das Kurbelgehäuse aufgesetzt und wird von der Kurbelwelle durch zwei Keilriemen gleichzeitig mit der Lichtmaschine angetrieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A water pump (Wasserpumpe) circulates the cooling water. It sits on top of the crankcase and is driven from the crankshaft by two V-belts, together with the dynamo.",
+          "runs": [
+            {
+              "text": "A water pump (Wasserpumpe) circulates the cooling water. It sits on top of the crankcase and is driven from the crankshaft by two V-belts, together with the dynamo.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Una bomba de agua (Wasserpumpe) hace circular el agua de refrigeración. Va situada sobre el cárter y es accionada desde el cigüeñal por dos correas trapezoidales, junto con la dinamo.",
+          "runs": [
+            {
+              "text": "Una bomba de agua (Wasserpumpe) hace circular el agua de refrigeración. Va situada sobre el cárter y es accionada desde el cigüeñal por dos correas trapezoidales, junto con la dinamo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para06",
+      "text": {
+        "de": {
+          "plain": "Zu beiden Seiten des Motors befinden sich zwei Wasserkühler, deren obere Wasserkästen durch ein Ausgleichrohr miteinander verbunden sind. Hierdurch wird erreicht, daß bei allen auftretenden Schräglagen des Fahrzeuges Motor und Kühler stets mit Wasser gefüllt bleiben.",
+          "runs": [
+            {
+              "text": "Zu beiden Seiten des Motors befinden sich zwei Wasserkühler, deren obere Wasserkästen durch ein Ausgleichrohr miteinander verbunden sind. Hierdurch wird erreicht, daß bei allen auftretenden Schräglagen des Fahrzeuges Motor und Kühler stets mit Wasser gefüllt bleiben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On each side of the engine there are two water radiators (Wasserkühler) whose upper header tanks (Wasserkästen) are joined by a balance pipe (Ausgleichrohr). This ensures that, in every inclined attitude of the vehicle, the engine and radiators always remain filled with water.",
+          "runs": [
+            {
+              "text": "On each side of the engine there are two water radiators (Wasserkühler) whose upper header tanks (Wasserkästen) are joined by a balance pipe (Ausgleichrohr). This ensures that, in every inclined attitude of the vehicle, the engine and radiators always remain filled with water.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A cada lado del motor hay dos radiadores de agua (Wasserkühler) cuyos depósitos superiores (Wasserkästen) están unidos por un tubo de compensación (Ausgleichrohr). Con ello se garantiza que, en cualquier posición inclinada del vehículo, el motor y los radiadores permanezcan siempre llenos de agua.",
+          "runs": [
+            {
+              "text": "A cada lado del motor hay dos radiadores de agua (Wasserkühler) cuyos depósitos superiores (Wasserkästen) están unidos por un tubo de compensación (Ausgleichrohr). Con ello se garantiza que, en cualquier posición inclinada del vehículo, el motor y los radiadores permanezcan siempre llenos de agua.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para07",
+      "text": {
+        "de": {
+          "plain": "Die Kühlanlage ist so bemessen, daß sie bei einer Außentemperatur von 30° zur Kühlung ausreicht. Die Fahrzeuge der Tropenausführung sind mit einer reichlicher bemessenen Kühlanlage ausgerüstet. Diese Kühlanlage gewährleistet eine ausreichende Kühlung bis zu 42° Außentemperatur. Ein federbelastetes Überdruckventil auf dem Wasserkasten des linken Kühlers ist so eingestellt, daß es bei einer Spitzenbelastung des Motors in der Kühlanlage eine Temperatur von 105° (entsprechend einem Überdruck von etwa 0,3 kg/cm²) zulassen kann. Aus diesem Ventil abblasender Dampf wird durch eine Rohrleitung aus der Panzerwanne herausgeführt.",
+          "runs": [
+            {
+              "text": "Die Kühlanlage ist so bemessen, daß sie bei einer Außentemperatur von 30° zur Kühlung ausreicht. Die Fahrzeuge der Tropenausführung sind mit einer reichlicher bemessenen Kühlanlage ausgerüstet. Diese Kühlanlage gewährleistet eine ausreichende Kühlung bis zu 42° Außentemperatur. Ein federbelastetes Überdruckventil auf dem Wasserkasten des linken Kühlers ist so eingestellt, daß es bei einer Spitzenbelastung des Motors in der Kühlanlage eine Temperatur von 105° (entsprechend einem Überdruck von etwa 0,3 kg/cm²) zulassen kann. Aus diesem Ventil abblasender Dampf wird durch eine Rohrleitung aus der Panzerwanne herausgeführt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The cooling system is sized to be sufficient at an outside temperature of 30 °C. Vehicles of the tropical version (Tropenausführung) have a more generously sized system, giving adequate cooling up to an outside temperature of 42 °C. A spring-loaded relief valve (Überdruckventil) on the header tank of the left radiator is set so that, at peak engine load, it can allow a temperature of 105 °C in the cooling system (corresponding to an overpressure of about 0.3 kg/cm²). Steam blowing off this valve is led out of the hull through a pipe.",
+          "runs": [
+            {
+              "text": "The cooling system is sized to be sufficient at an outside temperature of 30 °C. Vehicles of the tropical version (Tropenausführung) have a more generously sized system, giving adequate cooling up to an outside temperature of 42 °C. A spring-loaded relief valve (Überdruckventil) on the header tank of the left radiator is set so that, at peak engine load, it can allow a temperature of 105 °C in the cooling system (corresponding to an overpressure of about 0.3 kg/cm²). Steam blowing off this valve is led out of the hull through a pipe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El sistema de refrigeración está dimensionado para ser suficiente a una temperatura exterior de 30 °C. Los vehículos de la versión tropical (Tropenausführung) llevan un sistema de mayores dimensiones, que proporciona refrigeración suficiente hasta una temperatura exterior de 42 °C. Una válvula de alivio con muelle (Überdruckventil) situada en el depósito del radiador izquierdo está tarada de modo que, a plena carga del motor, admite una temperatura de 105 °C en el sistema (correspondiente a una sobrepresión de unos 0,3 kg/cm²). El vapor que expulsa esta válvula se conduce fuera del casco por un tubo.",
+          "runs": [
+            {
+              "text": "El sistema de refrigeración está dimensionado para ser suficiente a una temperatura exterior de 30 °C. Los vehículos de la versión tropical (Tropenausführung) llevan un sistema de mayores dimensiones, que proporciona refrigeración suficiente hasta una temperatura exterior de 42 °C. Una válvula de alivio con muelle (Überdruckventil) situada en el depósito del radiador izquierdo está tarada de modo que, a plena carga del motor, admite una temperatura de 105 °C en el sistema (correspondiente a una sobrepresión de unos 0,3 kg/cm²). El vapor que expulsa esta válvula se conduce fuera del casco por un tubo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p014-para08",
+      "text": {
+        "de": {
+          "plain": "Hinter jedem Kühler befindet sich ein Lüfter, der die zur Kühlung notwendige Luftmenge fördert. Die Luft wird durch die seitlichen Öffnungen des Heckpanzers eingesaugt, durchströmt die Kühler und wird durch die hinteren Öffnungen des Heckpanzers herausgedrückt. Hinter den Kühllufteintrittsöffnungen im Heckpanzer sind besondere Luftklappen vorgesehen. Entsprechend der Außentemperatur können diese vom Kampfraum aus durch einen Handhebel mehr oder weniger geöffnet werden.",
+          "runs": [
+            {
+              "text": "Hinter jedem Kühler befindet sich ein Lüfter, der die zur Kühlung notwendige Luftmenge fördert. Die Luft wird durch die seitlichen Öffnungen des Heckpanzers eingesaugt, durchströmt die Kühler und wird durch die hinteren Öffnungen des Heckpanzers herausgedrückt. Hinter den Kühllufteintrittsöffnungen im Heckpanzer sind besondere Luftklappen vorgesehen. Entsprechend der Außentemperatur können diese vom Kampfraum aus durch einen Handhebel mehr oder weniger geöffnet werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Behind each radiator is a fan (Lüfter) delivering the air needed for cooling. Air is drawn in through the side openings of the rear armour (Heckpanzer), passes through the radiators and is forced out through the rear openings. Special air flaps (Luftklappen) are fitted behind the cooling-air inlets; depending on the outside temperature they can be opened more or less from the fighting compartment by a hand lever.",
+          "runs": [
+            {
+              "text": "Behind each radiator is a fan (Lüfter) delivering the air needed for cooling. Air is drawn in through the side openings of the rear armour (Heckpanzer), passes through the radiators and is forced out through the rear openings. Special air flaps (Luftklappen) are fitted behind the cooling-air inlets; depending on the outside temperature they can be opened more or less from the fighting compartment by a hand lever.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Detrás de cada radiador hay un ventilador (Lüfter) que suministra el aire necesario para la refrigeración. El aire se aspira por las aberturas laterales del blindaje trasero (Heckpanzer), atraviesa los radiadores y es expulsado por las aberturas traseras. Detrás de las entradas de aire de refrigeración se disponen unas compuertas de aire especiales (Luftklappen); según la temperatura exterior, pueden abrirse más o menos desde el compartimento de combate mediante una palanca de mano.",
+          "runs": [
+            {
+              "text": "Detrás de cada radiador hay un ventilador (Lüfter) que suministra el aire necesario para la refrigeración. El aire se aspira por las aberturas laterales del blindaje trasero (Heckpanzer), atraviesa los radiadores y es expulsado por las aberturas traseras. Detrás de las entradas de aire de refrigeración se disponen unas compuertas de aire especiales (Luftklappen); según la temperatura exterior, pueden abrirse más o menos desde el compartimento de combate mediante una palanca de mano.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-013",
+    "next": "d65241a-page-015"
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-035",
+  "document_id": "d652-41a",
+  "page": 35,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 18,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p035-para01",
+      "text": {
+        "de": {
+          "plain": "Die Verschraubung für das Wechselgetriebe ist nach Abnahme des Deckels am Wannenboden zugänglich.",
+          "runs": [
+            {
+              "text": "Die Verschraubung für das Wechselgetriebe ist nach Abnahme des Deckels am Wannenboden zugänglich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The plug for the gearbox is accessible after removing the cover in the hull floor.",
+          "runs": [
+            {
+              "text": "The plug for the gearbox is accessible after removing the cover in the hull floor.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El tapón de la caja de cambios queda accesible tras retirar la tapa del piso del casco.",
+          "runs": [
+            {
+              "text": "El tapón de la caja de cambios queda accesible tras retirar la tapa del piso del casco.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para02",
+      "text": {
+        "de": {
+          "plain": "Einfüllen des Öles durch die seitliche Einfüllöffnung. Die Höhe des Ölstandes ist durch den Überlauf der seitlichen Einfüllöffnung begrenzt.",
+          "runs": [
+            {
+              "text": "Einfüllen des Öles durch die seitliche Einfüllöffnung. Die Höhe des Ölstandes ist durch den Überlauf der seitlichen Einfüllöffnung begrenzt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fill oil through the side filler opening. The oil level is limited by the overflow of the side filler opening.",
+          "runs": [
+            {
+              "text": "Fill oil through the side filler opening. The oil level is limited by the overflow of the side filler opening.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introduzca aceite por la boca de llenado lateral. El nivel de aceite queda limitado por el rebosadero de la boca de llenado lateral.",
+          "runs": [
+            {
+              "text": "Introduzca aceite por la boca de llenado lateral. El nivel de aceite queda limitado por el rebosadero de la boca de llenado lateral.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para03",
+      "text": {
+        "de": {
+          "plain": "Beim Ölwechsel sind gleichzeitig das Ölfilter und die Entlüfter am Wechsel- und Lenkgetriebe zu reinigen.",
+          "runs": [
+            {
+              "text": "Beim Ölwechsel sind gleichzeitig das Ölfilter und die Entlüfter am Wechsel- und Lenkgetriebe zu reinigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At the oil change, clean the oil filter and the breathers (Entlüfter) on the gearbox and steering gears at the same time.",
+          "runs": [
+            {
+              "text": "At the oil change, clean the oil filter and the breathers (Entlüfter) on the gearbox and steering gears at the same time.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el cambio de aceite, limpie al mismo tiempo el filtro de aceite y los respiraderos (Entlüfter) de la caja de cambios y de los mecanismos de dirección.",
+          "runs": [
+            {
+              "text": "En el cambio de aceite, limpie al mismo tiempo el filtro de aceite y los respiraderos (Entlüfter) de la caja de cambios y de los mecanismos de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para04",
+      "text": {
+        "de": {
+          "plain": "Lenkbremse, Bild 13",
+          "runs": [
+            {
+              "text": "Lenkbremse, Bild 13",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Steering brake, Figure 13",
+          "runs": [
+            {
+              "text": "Steering brake, Figure 13",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Freno de dirección, figura 13",
+          "runs": [
+            {
+              "text": "Freno de dirección, figura 13",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para05",
+      "text": {
+        "de": {
+          "plain": "Das Lagergehäuse der Lenkbremstrommel hat keinen besonderen Ölablaß. Das Öl muß daher mit einer Spritze abgesogen werden.",
+          "runs": [
+            {
+              "text": "Das Lagergehäuse der Lenkbremstrommel hat keinen besonderen Ölablaß. Das Öl muß daher mit einer Spritze abgesogen werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The bearing housing of the steering-brake drum has no special oil drain; the oil must therefore be sucked out with a syringe.",
+          "runs": [
+            {
+              "text": "The bearing housing of the steering-brake drum has no special oil drain; the oil must therefore be sucked out with a syringe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La carcasa de cojinete del tambor del freno de dirección no tiene vaciado de aceite propio; el aceite debe, por tanto, extraerse con una jeringa.",
+          "runs": [
+            {
+              "text": "La carcasa de cojinete del tambor del freno de dirección no tiene vaciado de aceite propio; el aceite debe, por tanto, extraerse con una jeringa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para06",
+      "text": {
+        "de": {
+          "plain": "Neues Öl in die Einfüllöffnung am Lagerhals bis zum Rand der Öffnung einfüllen.",
+          "runs": [
+            {
+              "text": "Neues Öl in die Einfüllöffnung am Lagerhals bis zum Rand der Öffnung einfüllen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fill fresh oil into the filler opening on the bearing neck up to the edge of the opening.",
+          "runs": [
+            {
+              "text": "Fill fresh oil into the filler opening on the bearing neck up to the edge of the opening.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introduzca aceite nuevo por la boca de llenado del cuello del cojinete hasta el borde de la abertura.",
+          "runs": [
+            {
+              "text": "Introduzca aceite nuevo por la boca de llenado del cuello del cojinete hasta el borde de la abertura.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para07",
+      "text": {
+        "de": {
+          "plain": "Gleichzeitig Entlüfter reinigen.",
+          "runs": [
+            {
+              "text": "Gleichzeitig Entlüfter reinigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clean the breather at the same time.",
+          "runs": [
+            {
+              "text": "Clean the breather at the same time.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpie al mismo tiempo el respiradero.",
+          "runs": [
+            {
+              "text": "Limpie al mismo tiempo el respiradero.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para08",
+      "text": {
+        "de": {
+          "plain": "Ölwechsel bei jedem Auswechseln des Bremsbelages.",
+          "runs": [
+            {
+              "text": "Ölwechsel bei jedem Auswechseln des Bremsbelages.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Change the oil each time the brake lining is replaced.",
+          "runs": [
+            {
+              "text": "Change the oil each time the brake lining is replaced.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cambie el aceite cada vez que se sustituya el forro del freno.",
+          "runs": [
+            {
+              "text": "Cambie el aceite cada vez que se sustituya el forro del freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para09",
+      "text": {
+        "de": {
+          "plain": "Achtung!",
+          "runs": [
+            {
+              "text": "Achtung!",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Attention!",
+          "runs": [
+            {
+              "text": "Attention!",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¡Atención!",
+          "runs": [
+            {
+              "text": "¡Atención!",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para10",
+      "text": {
+        "de": {
+          "plain": "Auf die Bremsbeläge und Bremstrommelinnenseite darf kein Öl gelangen!",
+          "runs": [
+            {
+              "text": "Auf die Bremsbeläge und Bremstrommelinnenseite darf kein Öl gelangen!",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "No oil must reach the brake linings or the inner surface of the brake drum!",
+          "runs": [
+            {
+              "text": "No oil must reach the brake linings or the inner surface of the brake drum!",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "No debe llegar aceite a los forros del freno ni a la superficie interior del tambor de freno.",
+          "runs": [
+            {
+              "text": "No debe llegar aceite a los forros del freno ni a la superficie interior del tambor de freno.",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para11",
+      "text": {
+        "de": {
+          "plain": "Seitenvorgelege",
+          "runs": [
+            {
+              "text": "Seitenvorgelege",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Final drives",
+          "runs": [
+            {
+              "text": "Final drives",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Reductoras finales",
+          "runs": [
+            {
+              "text": "Reductoras finales",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para12",
+      "text": {
+        "de": {
+          "plain": "Das alte Öl aus dem unteren Stutzen ablassen und in das Gehäuse durch die vordere Einfüllöffnung bis zu ihrem Rand frisches Öl einfüllen.",
+          "runs": [
+            {
+              "text": "Das alte Öl aus dem unteren Stutzen ablassen und in das Gehäuse durch die vordere Einfüllöffnung bis zu ihrem Rand frisches Öl einfüllen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drain the old oil from the lower stub and fill fresh oil into the housing through the front filler opening up to its edge.",
+          "runs": [
+            {
+              "text": "Drain the old oil from the lower stub and fill fresh oil into the housing through the front filler opening up to its edge.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Vacíe el aceite viejo por la tubuladura inferior e introduzca aceite nuevo en la carcasa por la boca de llenado delantera hasta su borde.",
+          "runs": [
+            {
+              "text": "Vacíe el aceite viejo por la tubuladura inferior e introduzca aceite nuevo en la carcasa por la boca de llenado delantera hasta su borde.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para13",
+      "text": {
+        "de": {
+          "plain": "Hauptantriebsscheibe für die Lüfter",
+          "runs": [
+            {
+              "text": "Hauptantriebsscheibe für die Lüfter",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Main drive pulley for the fans",
+          "runs": [
+            {
+              "text": "Main drive pulley for the fans",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Polea principal de accionamiento de los ventiladores",
+          "runs": [
+            {
+              "text": "Polea principal de accionamiento de los ventiladores",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para14",
+      "text": {
+        "de": {
+          "plain": "Zur Hälfte mit Öl auffüllen.",
+          "runs": [
+            {
+              "text": "Zur Hälfte mit Öl auffüllen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fill half full with oil.",
+          "runs": [
+            {
+              "text": "Fill half full with oil.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Llénela de aceite hasta la mitad.",
+          "runs": [
+            {
+              "text": "Llénela de aceite hasta la mitad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para15",
+      "text": {
+        "de": {
+          "plain": "Hierbei ist die Antriebsscheibe so zu drehen, daß sich die Verschraubungen waagerecht gegenüberstehen.",
+          "runs": [
+            {
+              "text": "Hierbei ist die Antriebsscheibe so zu drehen, daß sich die Verschraubungen waagerecht gegenüberstehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the drive pulley so that the plugs face each other horizontally.",
+          "runs": [
+            {
+              "text": "Turn the drive pulley so that the plugs face each other horizontally.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Gire la polea de accionamiento de modo que los tapones queden enfrentados horizontalmente.",
+          "runs": [
+            {
+              "text": "Gire la polea de accionamiento de modo que los tapones queden enfrentados horizontalmente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para16",
+      "text": {
+        "de": {
+          "plain": "Gelenkwellen",
+          "runs": [
+            {
+              "text": "Gelenkwellen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Cardan shafts",
+          "runs": [
+            {
+              "text": "Cardan shafts",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Árboles de transmisión (cardán)",
+          "runs": [
+            {
+              "text": "Árboles de transmisión (cardán)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para17",
+      "text": {
+        "de": {
+          "plain": "Die Gelenkwellen zwischen Hauptkupplung und Wechselgetriebe und die Seitenwellen zwischen Lenkgetriebe und Lenkbremse mit Schmierrohr III DB 70 abschmieren.",
+          "runs": [
+            {
+              "text": "Die Gelenkwellen zwischen Hauptkupplung und Wechselgetriebe und die Seitenwellen zwischen Lenkgetriebe und Lenkbremse mit Schmierrohr III DB 70 abschmieren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Grease the cardan shafts between the main clutch and gearbox, and the side shafts between the steering gear and steering brake, with grease gun III DB 70 (Schmierrohr III DB 70).",
+          "runs": [
+            {
+              "text": "Grease the cardan shafts between the main clutch and gearbox, and the side shafts between the steering gear and steering brake, with grease gun III DB 70 (Schmierrohr III DB 70).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Engrase los árboles de transmisión entre el embrague principal y la caja de cambios, y los semiejes entre el mecanismo de dirección y el freno de dirección, con la bomba de engrase III DB 70 (Schmierrohr III DB 70).",
+          "runs": [
+            {
+              "text": "Engrase los árboles de transmisión entre el embrague principal y la caja de cambios, y los semiejes entre el mecanismo de dirección y el freno de dirección, con la bomba de engrase III DB 70 (Schmierrohr III DB 70).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para18",
+      "text": {
+        "de": {
+          "plain": "Bei gelegentlicher Abnahme des Heckpanzers auch die Gelenkwelle zum Lüfterantrieb abschmieren.",
+          "runs": [
+            {
+              "text": "Bei gelegentlicher Abnahme des Heckpanzers auch die Gelenkwelle zum Lüfterantrieb abschmieren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When the rear armour is occasionally removed, also grease the cardan shaft to the fan drive.",
+          "runs": [
+            {
+              "text": "When the rear armour is occasionally removed, also grease the cardan shaft to the fan drive.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cuando ocasionalmente se retire el blindaje trasero, engrase también el árbol de transmisión del accionamiento del ventilador.",
+          "runs": [
+            {
+              "text": "Cuando ocasionalmente se retire el blindaje trasero, engrase también el árbol de transmisión del accionamiento del ventilador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para19",
+      "text": {
+        "de": {
+          "plain": "b) Fettschmierung",
+          "runs": [
+            {
+              "text": "b) Fettschmierung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Grease lubrication",
+          "runs": [
+            {
+              "text": "b) Grease lubrication",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Lubricación por grasa",
+          "runs": [
+            {
+              "text": "b) Lubricación por grasa",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p035-para20",
+      "text": {
+        "de": {
+          "plain": "Bei den Schmierstellen, die mit einer Schmierpresse geschmiert werden, das neue Fett so lange nachpressen, bis das verbrauchte …",
+          "runs": [
+            {
+              "text": "Bei den Schmierstellen, die mit einer Schmierpresse geschmiert werden, das neue Fett so lange nachpressen, bis das verbrauchte …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "At lubrication points greased with a grease gun (Schmierpresse), keep pressing in fresh grease until the used grease …",
+          "runs": [
+            {
+              "text": "At lubrication points greased with a grease gun (Schmierpresse), keep pressing in fresh grease until the used grease …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En los puntos engrasados con bomba de engrase (Schmierpresse), siga introduciendo grasa nueva hasta que la grasa usada …",
+          "runs": [
+            {
+              "text": "En los puntos engrasados con bomba de engrase (Schmierpresse), siga introduciendo grasa nueva hasta que la grasa usada …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-034",
+    "next": "d65241a-page-036"
+  }
+}

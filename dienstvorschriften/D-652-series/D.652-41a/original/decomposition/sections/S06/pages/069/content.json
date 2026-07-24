@@ -1,0 +1,672 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-069",
+  "document_id": "d652-41a",
+  "page": 69,
+  "section": "S06",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 35,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p069-para01",
+      "text": {
+        "de": {
+          "plain": "... in einen niedrigen Gang schalten und mit geringer Geschwindigkeit fahren.",
+          "runs": [
+            {
+              "text": "... in einen niedrigen Gang schalten und mit geringer Geschwindigkeit fahren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "... change into a low gear and drive at low speed.",
+          "runs": [
+            {
+              "text": "... change into a low gear and drive at low speed.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… meta una marcha baja y circule a poca velocidad.",
+          "runs": [
+            {
+              "text": "… meta una marcha baja y circule a poca velocidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para02",
+      "text": {
+        "de": {
+          "plain": "Fahren im Gelände",
+          "runs": [
+            {
+              "text": "Fahren im Gelände",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Driving off-road (in terrain)",
+          "runs": [
+            {
+              "text": "Driving off-road (in terrain)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Conducción campo a través (en terreno)",
+          "runs": [
+            {
+              "text": "Conducción campo a través (en terreno)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para03",
+      "text": {
+        "de": {
+          "plain": "Zum Schonen des Fahrzeuges und zum Sparen von Kraftstoff muß das Gelände mit äußerster Sorgfalt für Lenkbewegungen ausgesucht werden. Möglichst an Stellen geringsten Widerstandes (kleine Bodenwellen, fester Boden) lenken. In feuchtem Ackerboden, Sumpf, tiefem Sand wenig lenken. Kurven nicht überziehen. Stets vorausschauend fahren.",
+          "runs": [
+            {
+              "text": "Zum Schonen des Fahrzeuges und zum Sparen von Kraftstoff muß das Gelände mit äußerster Sorgfalt für Lenkbewegungen ausgesucht werden. Möglichst an Stellen geringsten Widerstandes (kleine Bodenwellen, fester Boden) lenken. In feuchtem Ackerboden, Sumpf, tiefem Sand wenig lenken. Kurven nicht überziehen. Stets vorausschauend fahren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To spare the vehicle and to save fuel, the ground must be selected with the utmost care with regard to steering movements. Steer where possible at points of least resistance (small undulations, firm ground). On damp ploughed soil, swamp or deep sand, steer sparingly. Do not over-steer curves. Always drive with foresight.",
+          "runs": [
+            {
+              "text": "To spare the vehicle and to save fuel, the ground must be selected with the utmost care with regard to steering movements. Steer where possible at points of least resistance (small undulations, firm ground). On damp ploughed soil, swamp or deep sand, steer sparingly. Do not over-steer curves. Always drive with foresight.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para cuidar el vehículo y ahorrar combustible, el terreno debe elegirse con el máximo cuidado en lo relativo a los movimientos de dirección. Dirija, en lo posible, por los puntos de menor resistencia (pequeñas ondulaciones, suelo firme). En tierra de labor húmeda, ciénaga o arena profunda, dirija con parquedad. No sobredirija las curvas. Conduzca siempre con previsión.",
+          "runs": [
+            {
+              "text": "Para cuidar el vehículo y ahorrar combustible, el terreno debe elegirse con el máximo cuidado en lo relativo a los movimientos de dirección. Dirija, en lo posible, por los puntos de menor resistencia (pequeñas ondulaciones, suelo firme). En tierra de labor húmeda, ciénaga o arena profunda, dirija con parquedad. No sobredirija las curvas. Conduzca siempre con previsión.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para04",
+      "text": {
+        "de": {
+          "plain": "Gute Fahrweise verringert Kosten und Abnutzung (Beschädigungen) dieses Gerätes in fühlbarem Maße.",
+          "runs": [
+            {
+              "text": "Gute Fahrweise verringert Kosten und Abnutzung (Beschädigungen) dieses Gerätes in fühlbarem Maße.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Good driving technique reduces the running costs and the wear (damage) of this equipment to a noticeable degree.",
+          "runs": [
+            {
+              "text": "Good driving technique reduces the running costs and the wear (damage) of this equipment to a noticeable degree.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Una buena forma de conducir reduce de manera apreciable los costes y el desgaste (daños) de este material.",
+          "runs": [
+            {
+              "text": "Una buena forma de conducir reduce de manera apreciable los costes y el desgaste (daños) de este material.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para05",
+      "text": {
+        "de": {
+          "plain": "Befahren von Steilhängen",
+          "runs": [
+            {
+              "text": "Befahren von Steilhängen",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Negotiating steep slopes",
+          "runs": [
+            {
+              "text": "Negotiating steep slopes",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Superación de pendientes pronunciadas",
+          "runs": [
+            {
+              "text": "Superación de pendientes pronunciadas",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para06",
+      "text": {
+        "de": {
+          "plain": "a) Aufwärtsfahren",
+          "runs": [
+            {
+              "text": "a) Aufwärtsfahren",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Driving uphill (Aufwärtsfahren)",
+          "runs": [
+            {
+              "text": "a) Driving uphill (Aufwärtsfahren)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Subida (Aufwärtsfahren)",
+          "runs": [
+            {
+              "text": "a) Subida (Aufwärtsfahren)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para07",
+      "text": {
+        "de": {
+          "plain": "1.) Fahrzeug senkrecht ansetzen.",
+          "runs": [
+            {
+              "text": "1.) Fahrzeug senkrecht ansetzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Set the vehicle to the slope square-on (at a right angle).",
+          "runs": [
+            {
+              "text": "1) Set the vehicle to the slope square-on (at a right angle).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Aborde la pendiente con el vehículo perpendicular (en ángulo recto).",
+          "runs": [
+            {
+              "text": "1) Aborde la pendiente con el vehículo perpendicular (en ángulo recto).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para08",
+      "text": {
+        "de": {
+          "plain": "2.) Möglichst nicht lenken.",
+          "runs": [
+            {
+              "text": "2.) Möglichst nicht lenken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) Steer as little as possible.",
+          "runs": [
+            {
+              "text": "2) Steer as little as possible.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Dirija lo menos posible.",
+          "runs": [
+            {
+              "text": "2) Dirija lo menos posible.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para09",
+      "text": {
+        "de": {
+          "plain": "3.) Motor nicht überdrehen.",
+          "runs": [
+            {
+              "text": "3.) Motor nicht überdrehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3) Do not over-rev the engine.",
+          "runs": [
+            {
+              "text": "3) Do not over-rev the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3) No sobrerrevolucione el motor.",
+          "runs": [
+            {
+              "text": "3) No sobrerrevolucione el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para10",
+      "text": {
+        "de": {
+          "plain": "4.) Rutschen die Ketten, dann nur soviel Gas geben, daß der Motor gerade noch durchzieht (etwa 1600 bis 1800 U/min).",
+          "runs": [
+            {
+              "text": "4.) Rutschen die Ketten, dann nur soviel Gas geben, daß der Motor gerade noch durchzieht (etwa 1600 bis 1800 U/min).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4) If the tracks slip, give only enough throttle that the engine just pulls through (about 1600 to 1800 rpm).",
+          "runs": [
+            {
+              "text": "4) If the tracks slip, give only enough throttle that the engine just pulls through (about 1600 to 1800 rpm).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4) Si las cadenas patinan, dé solo el gas justo para que el motor apenas tire (unas 1600 a 1800 rpm).",
+          "runs": [
+            {
+              "text": "4) Si las cadenas patinan, dé solo el gas justo para que el motor apenas tire (unas 1600 a 1800 rpm).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para11",
+      "text": {
+        "de": {
+          "plain": "b) Abwärtsfahren",
+          "runs": [
+            {
+              "text": "b) Abwärtsfahren",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Driving downhill (Abwärtsfahren)",
+          "runs": [
+            {
+              "text": "b) Driving downhill (Abwärtsfahren)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Bajada (Abwärtsfahren)",
+          "runs": [
+            {
+              "text": "b) Bajada (Abwärtsfahren)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para12",
+      "text": {
+        "de": {
+          "plain": "1.) Senkrecht zum oberen Hangrand anfahren.",
+          "runs": [
+            {
+              "text": "1.) Senkrecht zum oberen Hangrand anfahren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Approach at a right angle to the top edge of the slope.",
+          "runs": [
+            {
+              "text": "1) Approach at a right angle to the top edge of the slope.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Aborde perpendicularmente al borde superior de la pendiente.",
+          "runs": [
+            {
+              "text": "1) Aborde perpendicularmente al borde superior de la pendiente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para13",
+      "text": {
+        "de": {
+          "plain": "2.) Den Gang einschalten, mit dem man den gleichen Hang aufwärts gefahren wäre.",
+          "runs": [
+            {
+              "text": "2.) Den Gang einschalten, mit dem man den gleichen Hang aufwärts gefahren wäre.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) Engage the gear in which you would have driven up the same slope.",
+          "runs": [
+            {
+              "text": "2) Engage the gear in which you would have driven up the same slope.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Meta la marcha con la que habría subido esa misma pendiente.",
+          "runs": [
+            {
+              "text": "2) Meta la marcha con la que habría subido esa misma pendiente.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para14",
+      "text": {
+        "de": {
+          "plain": "3.) Bei Kippbeginn Fuß weg von Kupplungs- und Fahrfußhebel. Nicht lenken, erst nach Aufsetzen auf den Boden Gas geben.",
+          "runs": [
+            {
+              "text": "3.) Bei Kippbeginn Fuß weg von Kupplungs- und Fahrfußhebel. Nicht lenken, erst nach Aufsetzen auf den Boden Gas geben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3) At the moment of tipping over the edge, take the foot off the clutch and accelerator pedals. Do not steer; give throttle only after the vehicle has settled onto the ground.",
+          "runs": [
+            {
+              "text": "3) At the moment of tipping over the edge, take the foot off the clutch and accelerator pedals. Do not steer; give throttle only after the vehicle has settled onto the ground.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3) En el momento de bascular sobre el borde, retire el pie de los pedales de embrague y acelerador. No dirija; dé gas solo tras posarse el vehículo sobre el suelo.",
+          "runs": [
+            {
+              "text": "3) En el momento de bascular sobre el borde, retire el pie de los pedales de embrague y acelerador. No dirija; dé gas solo tras posarse el vehículo sobre el suelo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para15",
+      "text": {
+        "de": {
+          "plain": "4.) Nur mit Fußbremse und Motor bremsen.",
+          "runs": [
+            {
+              "text": "4.) Nur mit Fußbremse und Motor bremsen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4) Brake only with the foot brake and the engine.",
+          "runs": [
+            {
+              "text": "4) Brake only with the foot brake and the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4) Frene solo con el freno de pie y el motor.",
+          "runs": [
+            {
+              "text": "4) Frene solo con el freno de pie y el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para16",
+      "text": {
+        "de": {
+          "plain": "5.) Lenken bis auf kleinere Einschläge möglichst vermeiden. Wird hierbei nur durch Lösen der Stützbremse gelenkt, so ist darauf zu achten, daß bei Linkskurve der rechte Lenkhebel und bei Rechtskurve der linke Lenkhebel gezogen wird, weil hierbei der Motor die Ketten verzögert (Lenkwechsel).",
+          "runs": [
+            {
+              "text": "5.) Lenken bis auf kleinere Einschläge möglichst vermeiden. Wird hierbei nur durch Lösen der Stützbremse gelenkt, so ist darauf zu achten, daß bei Linkskurve der rechte Lenkhebel und bei Rechtskurve der linke Lenkhebel gezogen wird, weil hierbei der Motor die Ketten verzögert (Lenkwechsel).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5) Avoid steering as far as possible, apart from small corrections. If steering here is done only by releasing the support brake, take care that in a left turn the RIGHT steering lever, and in a right turn the LEFT steering lever, is pulled, because here the engine is decelerating the tracks (steering reversal).",
+          "runs": [
+            {
+              "text": "5) Avoid steering as far as possible, apart from small corrections. If steering here is done only by releasing the support brake, take care that in a left turn the RIGHT steering lever, and in a right turn the LEFT steering lever, is pulled, because here the engine is decelerating the tracks (steering reversal).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5) Evite dirigir en lo posible, salvo pequeñas correcciones. Si aquí se dirige solo soltando el freno de apoyo, cuide que en una curva a la izquierda se tire de la palanca DERECHA, y en una curva a la derecha de la palanca IZQUIERDA, porque aquí el motor frena las cadenas (inversión de la dirección).",
+          "runs": [
+            {
+              "text": "5) Evite dirigir en lo posible, salvo pequeñas correcciones. Si aquí se dirige solo soltando el freno de apoyo, cuide que en una curva a la izquierda se tire de la palanca DERECHA, y en una curva a la derecha de la palanca IZQUIERDA, porque aquí el motor frena las cadenas (inversión de la dirección).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para17",
+      "text": {
+        "de": {
+          "plain": "c) Anhalten und Festhalten des Fahrzeuges in der Steigung: aufwärts",
+          "runs": [
+            {
+              "text": "c) Anhalten und Festhalten des Fahrzeuges in der Steigung: aufwärts",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Stopping and holding the vehicle on a gradient: facing uphill",
+          "runs": [
+            {
+              "text": "c) Stopping and holding the vehicle on a gradient: facing uphill",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Detención y retención del vehículo en pendiente: de cara hacia arriba",
+          "runs": [
+            {
+              "text": "c) Detención y retención del vehículo en pendiente: de cara hacia arriba",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para18",
+      "text": {
+        "de": {
+          "plain": "1.) Anziehen beider Lenkhebel, Hauptkupplung auskuppeln.",
+          "runs": [
+            {
+              "text": "1.) Anziehen beider Lenkhebel, Hauptkupplung auskuppeln.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Pull both steering levers, disengage the main clutch.",
+          "runs": [
+            {
+              "text": "1) Pull both steering levers, disengage the main clutch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) Tire de ambas palancas de dirección, desembrague el embrague principal.",
+          "runs": [
+            {
+              "text": "1) Tire de ambas palancas de dirección, desembrague el embrague principal.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para19",
+      "text": {
+        "de": {
+          "plain": "2.) Fußbremshebel durchtreten und feststellen.",
+          "runs": [
+            {
+              "text": "2.) Fußbremshebel durchtreten und feststellen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2) Depress the foot-brake pedal fully and lock it.",
+          "runs": [
+            {
+              "text": "2) Depress the foot-brake pedal fully and lock it.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2) Pise a fondo el pedal del freno de pie y bloquéelo.",
+          "runs": [
+            {
+              "text": "2) Pise a fondo el pedal del freno de pie y bloquéelo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p069-para20",
+      "text": {
+        "de": {
+          "plain": "3.) Einschalten des ersten Ganges.",
+          "runs": [
+            {
+              "text": "3.) Einschalten des ersten Ganges.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3) Engage first gear.",
+          "runs": [
+            {
+              "text": "3) Engage first gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3) Meta la primera marcha.",
+          "runs": [
+            {
+              "text": "3) Meta la primera marcha.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-068",
+    "next": "d65241a-page-070"
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-018",
+  "document_id": "d652-41a",
+  "page": 18,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 10,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p018-para01",
+      "text": {
+        "de": {
+          "plain": "Eingerückt wird die Hauptkupplung durch die Kupplungsdruckfeder, die über das Ausrücklager mit den Ausrückhebeln auf die Kupplungsdruckplatte wirkt und die Kupplungstreibscheiben sowie die beiderseits mit Kupplungsbelägen versehenen Kupplungsscheiben zusammenpreßt. Hierdurch wird das Drehmoment des Motors über das Schwungrad, den Zwischenring und den Kupplungsdeckel, über die beiden durch Mitnehmer mitgenommenen Kupplungstreibscheiben und die drei Kupplungsscheiben auf die Kupplungswelle übertragen.",
+          "runs": [
+            {
+              "text": "Eingerückt wird die Hauptkupplung durch die Kupplungsdruckfeder, die über das Ausrücklager mit den Ausrückhebeln auf die Kupplungsdruckplatte wirkt und die Kupplungstreibscheiben sowie die beiderseits mit Kupplungsbelägen versehenen Kupplungsscheiben zusammenpreßt. Hierdurch wird das Drehmoment des Motors über das Schwungrad, den Zwischenring und den Kupplungsdeckel, über die beiden durch Mitnehmer mitgenommenen Kupplungstreibscheiben und die drei Kupplungsscheiben auf die Kupplungswelle übertragen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The main clutch is engaged by the clutch pressure spring (Kupplungsdruckfeder), which acts through the release bearing and the release levers on the clutch pressure plate, pressing together the clutch driving discs and the clutch discs (which are lined on both sides with clutch facings, Kupplungsbeläge). In this way the engine torque (Drehmoment) is transmitted — via the flywheel, the intermediate ring (Zwischenring) and the clutch cover, then via the two clutch driving discs (driven by dogs, Mitnehmer) and the three clutch discs — to the clutch shaft (Kupplungswelle).",
+          "runs": [
+            {
+              "text": "The main clutch is engaged by the clutch pressure spring (Kupplungsdruckfeder), which acts through the release bearing and the release levers on the clutch pressure plate, pressing together the clutch driving discs and the clutch discs (which are lined on both sides with clutch facings, Kupplungsbeläge). In this way the engine torque (Drehmoment) is transmitted — via the flywheel, the intermediate ring (Zwischenring) and the clutch cover, then via the two clutch driving discs (driven by dogs, Mitnehmer) and the three clutch discs — to the clutch shaft (Kupplungswelle).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El embrague principal se acopla mediante el muelle de presión del embrague (Kupplungsdruckfeder), que actúa a través del cojinete de desembrague y las palancas de desembrague sobre el plato de presión, apretando entre sí los discos de arrastre y los discos de embrague (revestidos por ambas caras con forros de embrague, Kupplungsbeläge). De este modo, el par motor (Drehmoment) se transmite —a través del volante, el anillo intermedio (Zwischenring) y la tapa del embrague, luego por los dos discos de arrastre (accionados por arrastradores, Mitnehmer) y los tres discos de embrague— al eje de embrague (Kupplungswelle).",
+          "runs": [
+            {
+              "text": "El embrague principal se acopla mediante el muelle de presión del embrague (Kupplungsdruckfeder), que actúa a través del cojinete de desembrague y las palancas de desembrague sobre el plato de presión, apretando entre sí los discos de arrastre y los discos de embrague (revestidos por ambas caras con forros de embrague, Kupplungsbeläge). De este modo, el par motor (Drehmoment) se transmite —a través del volante, el anillo intermedio (Zwischenring) y la tapa del embrague, luego por los dos discos de arrastre (accionados por arrastradores, Mitnehmer) y los tres discos de embrague— al eje de embrague (Kupplungswelle).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para02",
+      "text": {
+        "de": {
+          "plain": "Ausgerückt wird die Hauptkupplung durch das Ausrücklager, das beim Niedertreten des Kupplungsfußhebels durch die Ausrückwelle mit der Ausrückgabel verschoben wird und dabei die Ausrückhebel von der Kupplungsdruckplatte abheben, die dann keinen Druck mehr auf die Kupplungsscheiben und Kupplungstreibriemen ausübt.",
+          "runs": [
+            {
+              "text": "Ausgerückt wird die Hauptkupplung durch das Ausrücklager, das beim Niedertreten des Kupplungsfußhebels durch die Ausrückwelle mit der Ausrückgabel verschoben wird und dabei die Ausrückhebel von der Kupplungsdruckplatte abheben, die dann keinen Druck mehr auf die Kupplungsscheiben und Kupplungstreibriemen ausübt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The main clutch is disengaged by the release bearing which, when the clutch pedal (Kupplungsfußhebel) is depressed, is moved by the release shaft and release fork. This lifts the release levers off the clutch pressure plate, which then exerts no further pressure on the clutch discs and driving discs.",
+          "runs": [
+            {
+              "text": "The main clutch is disengaged by the release bearing which, when the clutch pedal (Kupplungsfußhebel) is depressed, is moved by the release shaft and release fork. This lifts the release levers off the clutch pressure plate, which then exerts no further pressure on the clutch discs and driving discs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El embrague principal se desacopla mediante el cojinete de desembrague que, al pisar el pedal de embrague (Kupplungsfußhebel), es desplazado por el eje y la horquilla de desembrague. Esto separa las palancas de desembrague del plato de presión, que deja entonces de ejercer presión sobre los discos de embrague y de arrastre.",
+          "runs": [
+            {
+              "text": "El embrague principal se desacopla mediante el cojinete de desembrague que, al pisar el pedal de embrague (Kupplungsfußhebel), es desplazado por el eje y la horquilla de desembrague. Esto separa las palancas de desembrague del plato de presión, que deja entonces de ejercer presión sobre los discos de embrague y de arrastre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para03",
+      "text": {
+        "de": {
+          "plain": "b) Gelenkwelle",
+          "runs": [
+            {
+              "text": "b) Gelenkwelle",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Cardan shaft (Gelenkwelle)",
+          "runs": [
+            {
+              "text": "b) Cardan shaft (Gelenkwelle)",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Árbol de transmisión (Gelenkwelle)",
+          "runs": [
+            {
+              "text": "b) Árbol de transmisión (Gelenkwelle)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para04",
+      "text": {
+        "de": {
+          "plain": "Die ausgewuchtete Gelenkwelle überträgt das Drehmoment des Motors von der Hauptkupplung auf das Wechselgetriebe. Die Zapfen der Kreuzgelenke bewegen sich in Nadellagern.",
+          "runs": [
+            {
+              "text": "Die ausgewuchtete Gelenkwelle überträgt das Drehmoment des Motors von der Hauptkupplung auf das Wechselgetriebe. Die Zapfen der Kreuzgelenke bewegen sich in Nadellagern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The balanced cardan shaft (Gelenkwelle) transmits the engine torque from the main clutch to the gearbox. The journals of the universal joints (Kreuzgelenke) run in needle bearings (Nadellager).",
+          "runs": [
+            {
+              "text": "The balanced cardan shaft (Gelenkwelle) transmits the engine torque from the main clutch to the gearbox. The journals of the universal joints (Kreuzgelenke) run in needle bearings (Nadellager).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El árbol de transmisión equilibrado (Gelenkwelle) transmite el par motor desde el embrague principal a la caja de cambios. Los muñones de las crucetas (Kreuzgelenke) giran sobre cojinetes de agujas (Nadellager).",
+          "runs": [
+            {
+              "text": "El árbol de transmisión equilibrado (Gelenkwelle) transmite el par motor desde el embrague principal a la caja de cambios. Los muñones de las crucetas (Kreuzgelenke) giran sobre cojinetes de agujas (Nadellager).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para05",
+      "text": {
+        "de": {
+          "plain": "Auf der Kupplungsseite ist die Gelenkwelle durch einen festen Zwischenflansch mit der Kupplungswelle, auf der Getriebeseite mit einem Flanschzapfen verschraubt. Dieser Flanschzapfen greift mit Hilfe einer Zwischenbuchse im ersten unteren Getrieberad ein und ist in der Längsrichtung verschiebbar.",
+          "runs": [
+            {
+              "text": "Auf der Kupplungsseite ist die Gelenkwelle durch einen festen Zwischenflansch mit der Kupplungswelle, auf der Getriebeseite mit einem Flanschzapfen verschraubt. Dieser Flanschzapfen greift mit Hilfe einer Zwischenbuchse im ersten unteren Getrieberad ein und ist in der Längsrichtung verschiebbar.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the clutch side the cardan shaft is bolted to the clutch shaft by a fixed intermediate flange (Zwischenflansch); on the gearbox side, to a flanged journal (Flanschzapfen). By means of an intermediate bush (Zwischenbuchse) this flanged journal engages in the first lower gearbox gear and can slide in the axial (longitudinal) direction.",
+          "runs": [
+            {
+              "text": "On the clutch side the cardan shaft is bolted to the clutch shaft by a fixed intermediate flange (Zwischenflansch); on the gearbox side, to a flanged journal (Flanschzapfen). By means of an intermediate bush (Zwischenbuchse) this flanged journal engages in the first lower gearbox gear and can slide in the axial (longitudinal) direction.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Por el lado del embrague, el árbol de transmisión va atornillado al eje de embrague mediante una brida intermedia fija (Zwischenflansch); por el lado de la caja de cambios, a un muñón embridado (Flanschzapfen). Mediante un casquillo intermedio (Zwischenbuchse), este muñón embridado engrana en el primer piñón inferior de la caja y puede deslizar en sentido axial (longitudinal).",
+          "runs": [
+            {
+              "text": "Por el lado del embrague, el árbol de transmisión va atornillado al eje de embrague mediante una brida intermedia fija (Zwischenflansch); por el lado de la caja de cambios, a un muñón embridado (Flanschzapfen). Mediante un casquillo intermedio (Zwischenbuchse), este muñón embridado engrana en el primer piñón inferior de la caja y puede deslizar en sentido axial (longitudinal).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para06",
+      "text": {
+        "de": {
+          "plain": "6. Wechselgetriebe, Bild 7",
+          "runs": [
+            {
+              "text": "6. Wechselgetriebe, Bild 7",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6. Change-speed gearbox (Wechselgetriebe), Figure 7",
+          "runs": [
+            {
+              "text": "6. Change-speed gearbox (Wechselgetriebe), Figure 7",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6. Caja de cambios (Wechselgetriebe), figura 7",
+          "runs": [
+            {
+              "text": "6. Caja de cambios (Wechselgetriebe), figura 7",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para07",
+      "text": {
+        "de": {
+          "plain": "Das Wechselgetriebe ist ein Sechs-Gang-Aphon-Getriebe mit Gleichlaufeinrichtung. Es hat sechs Vorwärtsgänge und einen Rückwärtsgang.",
+          "runs": [
+            {
+              "text": "Das Wechselgetriebe ist ein Sechs-Gang-Aphon-Getriebe mit Gleichlaufeinrichtung. Es hat sechs Vorwärtsgänge und einen Rückwärtsgang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gearbox is a six-speed Aphon gearbox (Sechs-Gang-Aphon-Getriebe) with synchromesh (Gleichlaufeinrichtung). It has six forward gears and one reverse gear.",
+          "runs": [
+            {
+              "text": "The gearbox is a six-speed Aphon gearbox (Sechs-Gang-Aphon-Getriebe) with synchromesh (Gleichlaufeinrichtung). It has six forward gears and one reverse gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La caja de cambios es una caja Aphon de seis marchas (Sechs-Gang-Aphon-Getriebe) con dispositivo de sincronización (Gleichlaufeinrichtung). Tiene seis marchas hacia delante y una marcha atrás.",
+          "runs": [
+            {
+              "text": "La caja de cambios es una caja Aphon de seis marchas (Sechs-Gang-Aphon-Getriebe) con dispositivo de sincronización (Gleichlaufeinrichtung). Tiene seis marchas hacia delante y una marcha atrás.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para08",
+      "text": {
+        "de": {
+          "plain": "Alle Gänge mit Ausnahme des ersten und des Rückwärtsganges haben die Gleichlaufeinrichtung.",
+          "runs": [
+            {
+              "text": "Alle Gänge mit Ausnahme des ersten und des Rückwärtsganges haben die Gleichlaufeinrichtung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "All gears except first and reverse have synchromesh.",
+          "runs": [
+            {
+              "text": "All gears except first and reverse have synchromesh.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Todas las marchas, salvo la primera y la marcha atrás, disponen de sincronización.",
+          "runs": [
+            {
+              "text": "Todas las marchas, salvo la primera y la marcha atrás, disponen de sincronización.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para09",
+      "text": {
+        "de": {
+          "plain": "Die Wellen sind übereinander angeordnet, die Rücklaufwelle liegt oben. Die Kraftzuleitung erfolgt von der unteren Welle aus, die Kraftableitung durch die in derselben Achse liegende Hauptwelle. Diese trägt am freien Ende das Kegelritzel.",
+          "runs": [
+            {
+              "text": "Die Wellen sind übereinander angeordnet, die Rücklaufwelle liegt oben. Die Kraftzuleitung erfolgt von der unteren Welle aus, die Kraftableitung durch die in derselben Achse liegende Hauptwelle. Diese trägt am freien Ende das Kegelritzel.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The shafts are arranged one above the other; the reverse shaft (Rücklaufwelle) is on top. Power is fed in from the lower shaft and taken off through the main shaft (Hauptwelle), which lies on the same axis; at its free end the main shaft carries the bevel pinion (Kegelritzel).",
+          "runs": [
+            {
+              "text": "The shafts are arranged one above the other; the reverse shaft (Rücklaufwelle) is on top. Power is fed in from the lower shaft and taken off through the main shaft (Hauptwelle), which lies on the same axis; at its free end the main shaft carries the bevel pinion (Kegelritzel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los ejes van dispuestos uno sobre otro; el eje de marcha atrás (Rücklaufwelle) queda arriba. La fuerza entra por el eje inferior y se toma por el eje principal (Hauptwelle), situado en el mismo eje; en su extremo libre, el eje principal lleva el piñón cónico (Kegelritzel).",
+          "runs": [
+            {
+              "text": "Los ejes van dispuestos uno sobre otro; el eje de marcha atrás (Rücklaufwelle) queda arriba. La fuerza entra por el eje inferior y se toma por el eje principal (Hauptwelle), situado en el mismo eje; en su extremo libre, el eje principal lleva el piñón cónico (Kegelritzel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para10",
+      "text": {
+        "de": {
+          "plain": "Der Kräfteverlauf der einzelnen Gänge sowie die Übersetzungsverhältnisse und der Schaltplan sind aus der Aufstellung auf Bild 9 zu ersehen.",
+          "runs": [
+            {
+              "text": "Der Kräfteverlauf der einzelnen Gänge sowie die Übersetzungsverhältnisse und der Schaltplan sind aus der Aufstellung auf Bild 9 zu ersehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The power path of the individual gears, the gear ratios (Übersetzungsverhältnisse) and the shift diagram (Schaltplan) can be seen from the table on Figure 9.",
+          "runs": [
+            {
+              "text": "The power path of the individual gears, the gear ratios (Übersetzungsverhältnisse) and the shift diagram (Schaltplan) can be seen from the table on Figure 9.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La trayectoria de fuerza de cada marcha, las relaciones de transmisión (Übersetzungsverhältnisse) y el esquema de cambios (Schaltplan) pueden verse en la tabla de la figura 9.",
+          "runs": [
+            {
+              "text": "La trayectoria de fuerza de cada marcha, las relaciones de transmisión (Übersetzungsverhältnisse) y el esquema de cambios (Schaltplan) pueden verse en la tabla de la figura 9.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para11",
+      "text": {
+        "de": {
+          "plain": "Eingerückt werden die Gänge durch den links seitlich am Wechselgetriebe angebrachten Schalthebel.",
+          "runs": [
+            {
+              "text": "Eingerückt werden die Gänge durch den links seitlich am Wechselgetriebe angebrachten Schalthebel.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The gears are engaged by the gear lever (Schalthebel) fitted on the left-hand side of the gearbox.",
+          "runs": [
+            {
+              "text": "The gears are engaged by the gear lever (Schalthebel) fitted on the left-hand side of the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las marchas se meten con la palanca de cambios (Schalthebel) situada en el costado izquierdo de la caja.",
+          "runs": [
+            {
+              "text": "Las marchas se meten con la palanca de cambios (Schalthebel) situada en el costado izquierdo de la caja.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p018-para12",
+      "text": {
+        "de": {
+          "plain": "Ein Anschlag in der Schaltführung zwischen dem vierten und fünften Gang verhütet unbeabsichtigtes Schalten in den fünften …",
+          "runs": [
+            {
+              "text": "Ein Anschlag in der Schaltführung zwischen dem vierten und fünften Gang verhütet unbeabsichtigtes Schalten in den fünften …",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A stop in the shift gate (Schaltführung) between fourth and fifth gear prevents unintentional shifting into fifth …",
+          "runs": [
+            {
+              "text": "A stop in the shift gate (Schaltführung) between fourth and fifth gear prevents unintentional shifting into fifth …",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Un tope en la guía de cambios (Schaltführung) entre cuarta y quinta impide meter involuntariamente la quinta …",
+          "runs": [
+            {
+              "text": "Un tope en la guía de cambios (Schaltführung) entre cuarta y quinta impide meter involuntariamente la quinta …",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-017",
+    "next": "d65241a-page-019"
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-028",
+  "document_id": "d652-41a",
+  "page": 28,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "d) Gleiskette, Bild 1",
+    "en-GB": "d) Track, Figure 1",
+    "es-ES": "d) Cadena, figura 1"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 15,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-028-para01",
+      "text": {
+        "de": {
+          "plain": "Da beim Zusammenschieben des Schwingungsdämpfers der vom Kolben verdrängte Raum größer ist als der, der auf der Seite der Kolbenstange freigegeben wird, ist zur Aufnahme der überschüssigen Ölmenge bzw. beim Auseinanderziehen des Schwingungsdämpfers als Vorratsraum für das nunmehr fehlende Öl ein mantelförmiger Vorratsbehälter vorgesehen.",
+          "runs": [
+            {
+              "text": "Da beim Zusammenschieben des Schwingungsdämpfers der vom Kolben verdrängte Raum größer ist als der, der auf der Seite der Kolbenstange freigegeben wird, ist zur Aufnahme der überschüssigen Ölmenge bzw. beim Auseinanderziehen des Schwingungsdämpfers als Vorratsraum für das nunmehr fehlende Öl ein mantelförmiger Vorratsbehälter vorgesehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Since, on compression of the damper, the volume displaced by the piston is greater than that released on the piston-rod side, a jacket-shaped reservoir (mantelförmiger Vorratsbehälter) is provided to take up the surplus oil — and, on extension of the damper, to serve as a reservoir for the now-missing oil.",
+          "runs": [
+            {
+              "text": "Since, on compression of the damper, the volume displaced by the piston is greater than that released on the piston-rod side, a jacket-shaped reservoir (mantelförmiger Vorratsbehälter) is provided to take up the surplus oil — and, on extension of the damper, to serve as a reservoir for the now-missing oil.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Como, al comprimirse el amortiguador, el volumen desplazado por el pistón es mayor que el liberado en el lado del vástago, se dispone un depósito de reserva en forma de camisa (mantelförmiger Vorratsbehälter) para recoger el aceite sobrante — y, al extenderse el amortiguador, para servir de reserva del aceite que entonces falta.",
+          "runs": [
+            {
+              "text": "Como, al comprimirse el amortiguador, el volumen desplazado por el pistón es mayor que el liberado en el lado del vástago, se dispone un depósito de reserva en forma de camisa (mantelförmiger Vorratsbehälter) para recoger el aceite sobrante — y, al extenderse el amortiguador, para servir de reserva del aceite que entonces falta.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para02",
+      "text": {
+        "de": {
+          "plain": "Dieser Vorratsbehälter steht mit dem Zylinder durch ein Saug- und ein Druckventil im Zylinderboden in Verbindung.",
+          "runs": [
+            {
+              "text": "Dieser Vorratsbehälter steht mit dem Zylinder durch ein Saug- und ein Druckventil im Zylinderboden in Verbindung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "This reservoir communicates with the cylinder through a suction valve and a delivery valve in the cylinder base.",
+          "runs": [
+            {
+              "text": "This reservoir communicates with the cylinder through a suction valve and a delivery valve in the cylinder base.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Este depósito comunica con el cilindro a través de una válvula de aspiración y una válvula de impulsión situadas en el fondo del cilindro.",
+          "runs": [
+            {
+              "text": "Este depósito comunica con el cilindro a través de una válvula de aspiración y una válvula de impulsión situadas en el fondo del cilindro.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para03",
+      "text": {
+        "de": {
+          "plain": "Die Gleisketten bestehen aus einzelnen ineinander greifenden Kettengliedern, die durch Kettenbolzen miteinander verbunden sind. Die Kettenteilung beträgt 120 mm. Die Kettenbolzen werden auf der inneren Seite durch einen Kopf, auf der äußeren Seite durch eine Kettenbolzensicherung gehalten.",
+          "runs": [
+            {
+              "text": "Die Gleisketten bestehen aus einzelnen ineinander greifenden Kettengliedern, die durch Kettenbolzen miteinander verbunden sind. Die Kettenteilung beträgt 120 mm. Die Kettenbolzen werden auf der inneren Seite durch einen Kopf, auf der äußeren Seite durch eine Kettenbolzensicherung gehalten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The tracks consist of individual interlocking track links (Kettenglieder) joined to one another by track pins (Kettenbolzen). The track pitch (Kettenteilung) is 120 mm. The track pins are held on the inner side by a head and on the outer side by a track-pin retainer (Kettenbolzensicherung).",
+          "runs": [
+            {
+              "text": "The tracks consist of individual interlocking track links (Kettenglieder) joined to one another by track pins (Kettenbolzen). The track pitch (Kettenteilung) is 120 mm. The track pins are held on the inner side by a head and on the outer side by a track-pin retainer (Kettenbolzensicherung).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las cadenas se componen de eslabones individuales entrelazados (Kettenglieder) unidos entre sí por bulones (Kettenbolzen). El paso de cadena (Kettenteilung) es de 120 mm. Los bulones van retenidos por el lado interior mediante una cabeza y por el exterior mediante un seguro de bulón (Kettenbolzensicherung).",
+          "runs": [
+            {
+              "text": "Las cadenas se componen de eslabones individuales entrelazados (Kettenglieder) unidos entre sí por bulones (Kettenbolzen). El paso de cadena (Kettenteilung) es de 120 mm. Los bulones van retenidos por el lado interior mediante una cabeza y por el exterior mediante un seguro de bulón (Kettenbolzensicherung).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para04",
+      "text": {
+        "de": {
+          "plain": "Die Kette ist ungeschmiert.",
+          "runs": [
+            {
+              "text": "Die Kette ist ungeschmiert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The track is unlubricated.",
+          "runs": [
+            {
+              "text": "The track is unlubricated.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La cadena funciona sin lubricación.",
+          "runs": [
+            {
+              "text": "La cadena funciona sin lubricación.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para05",
+      "text": {
+        "de": {
+          "plain": "Um eine möglichst große Griffigkeit zu erreichen, haben die Kettenglieder Greiferleisten und sind zur Selbstreinigung durchbrochen ausgeführt. In die seitlichen Lücken der Kettenglieder greifen die Zähne der Triebräder ein. In der Mitte der Kettenglieder ist ein Zahn zur seitlichen Führung der Kette angegossen.",
+          "runs": [
+            {
+              "text": "Um eine möglichst große Griffigkeit zu erreichen, haben die Kettenglieder Greiferleisten und sind zur Selbstreinigung durchbrochen ausgeführt. In die seitlichen Lücken der Kettenglieder greifen die Zähne der Triebräder ein. In der Mitte der Kettenglieder ist ein Zahn zur seitlichen Führung der Kette angegossen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To achieve the greatest possible grip, the track links have grouser bars (Greiferleisten) and are made open-worked (durchbrochen) for self-cleaning. The teeth of the drive sprockets engage in the side gaps of the track links. In the centre of the track links a guide tooth is cast on for the lateral guidance of the track.",
+          "runs": [
+            {
+              "text": "To achieve the greatest possible grip, the track links have grouser bars (Greiferleisten) and are made open-worked (durchbrochen) for self-cleaning. The teeth of the drive sprockets engage in the side gaps of the track links. In the centre of the track links a guide tooth is cast on for the lateral guidance of the track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para lograr la mayor adherencia posible, los eslabones llevan nervios de garra (Greiferleisten) y son de estructura calada (durchbrochen) para autolimpiarse. Los dientes de las ruedas motrices engranan en los huecos laterales de los eslabones. En el centro de los eslabones va fundido un diente guía para la guía lateral de la cadena.",
+          "runs": [
+            {
+              "text": "Para lograr la mayor adherencia posible, los eslabones llevan nervios de garra (Greiferleisten) y son de estructura calada (durchbrochen) para autolimpiarse. Los dientes de las ruedas motrices engranan en los huecos laterales de los eslabones. En el centro de los eslabones va fundido un diente guía para la guía lateral de la cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para06",
+      "text": {
+        "de": {
+          "plain": "12. Gestänge",
+          "runs": [
+            {
+              "text": "12. Gestänge",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "12. Linkages",
+          "runs": [
+            {
+              "text": "12. Linkages",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "12. Varillajes (timonería)",
+          "runs": [
+            {
+              "text": "12. Varillajes (timonería)",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para07",
+      "text": {
+        "de": {
+          "plain": "Das Gestänge besteht aus den Hand- bzw. Fußhebelteilen mit den dazugehörigen Wellen und einstellbaren Verbindungsstangen.",
+          "runs": [
+            {
+              "text": "Das Gestänge besteht aus den Hand- bzw. Fußhebelteilen mit den dazugehörigen Wellen und einstellbaren Verbindungsstangen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The linkage consists of the hand- and foot-lever parts with their associated shafts and adjustable connecting rods.",
+          "runs": [
+            {
+              "text": "The linkage consists of the hand- and foot-lever parts with their associated shafts and adjustable connecting rods.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El varillaje se compone de las piezas de las palancas de mano y de pie con sus ejes correspondientes y bielas de unión regulables.",
+          "runs": [
+            {
+              "text": "El varillaje se compone de las piezas de las palancas de mano y de pie con sus ejes correspondientes y bielas de unión regulables.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para08",
+      "text": {
+        "de": {
+          "plain": "a) Anlaßvorrichtung",
+          "runs": [
+            {
+              "text": "a) Anlaßvorrichtung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Starting device",
+          "runs": [
+            {
+              "text": "a) Starting device",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Dispositivo de arranque",
+          "runs": [
+            {
+              "text": "a) Dispositivo de arranque",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para09",
+      "text": {
+        "de": {
+          "plain": "Die Anlaßvorrichtung wird durch einen rechts neben dem Fahrer gelagerten Handhebel betätigt.",
+          "runs": [
+            {
+              "text": "Die Anlaßvorrichtung wird durch einen rechts neben dem Fahrer gelagerten Handhebel betätigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The starting device is operated by a hand lever mounted to the right of the driver.",
+          "runs": [
+            {
+              "text": "The starting device is operated by a hand lever mounted to the right of the driver.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El dispositivo de arranque se acciona mediante una palanca de mano montada a la derecha del conductor.",
+          "runs": [
+            {
+              "text": "El dispositivo de arranque se acciona mediante una palanca de mano montada a la derecha del conductor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para10",
+      "text": {
+        "de": {
+          "plain": "b) Schwungkraftanlasser",
+          "runs": [
+            {
+              "text": "b) Schwungkraftanlasser",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "b) Inertia starter",
+          "runs": [
+            {
+              "text": "b) Inertia starter",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "b) Arrancador de inercia",
+          "runs": [
+            {
+              "text": "b) Arrancador de inercia",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para11",
+      "text": {
+        "de": {
+          "plain": "Das Einrückgestänge des Schwungkraftanlassers besteht aus einem Handgriff mit Rückzugfeder und einer an dem Einrückhebel des Anlassers befestigten Stange. Der umklappbare Handgriff ist im Andrehgehäuse an der Heckwand gelagert.",
+          "runs": [
+            {
+              "text": "Das Einrückgestänge des Schwungkraftanlassers besteht aus einem Handgriff mit Rückzugfeder und einer an dem Einrückhebel des Anlassers befestigten Stange. Der umklappbare Handgriff ist im Andrehgehäuse an der Heckwand gelagert.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The engagement linkage of the inertia starter consists of a handle with a return spring (Rückzugfeder) and a rod attached to the starter's engagement lever (Einrückhebel). The folding handle is mounted in the cranking housing (Andrehgehäuse) on the rear wall.",
+          "runs": [
+            {
+              "text": "The engagement linkage of the inertia starter consists of a handle with a return spring (Rückzugfeder) and a rod attached to the starter's engagement lever (Einrückhebel). The folding handle is mounted in the cranking housing (Andrehgehäuse) on the rear wall.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El varillaje de engrane del arrancador de inercia se compone de una empuñadura con muelle de retorno (Rückzugfeder) y una varilla unida a la palanca de engrane (Einrückhebel) del arrancador. La empuñadura abatible va montada en la caja de arranque (Andrehgehäuse) de la pared de popa.",
+          "runs": [
+            {
+              "text": "El varillaje de engrane del arrancador de inercia se compone de una empuñadura con muelle de retorno (Rückzugfeder) y una varilla unida a la palanca de engrane (Einrückhebel) del arrancador. La empuñadura abatible va montada en la caja de arranque (Andrehgehäuse) de la pared de popa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para12",
+      "text": {
+        "de": {
+          "plain": "c) Ölfilter zum Motor",
+          "runs": [
+            {
+              "text": "c) Ölfilter zum Motor",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Engine oil filter",
+          "runs": [
+            {
+              "text": "c) Engine oil filter",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Filtro de aceite del motor",
+          "runs": [
+            {
+              "text": "c) Filtro de aceite del motor",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-028-para13",
+      "text": {
+        "de": {
+          "plain": "Die Ratsche zur Reinigungsvorrichtung des Ölfilters wird durch ein mit dem Kupplungsfußhebel in Verbindung stehendes Gestänge betätigt.",
+          "runs": [
+            {
+              "text": "Die Ratsche zur Reinigungsvorrichtung des Ölfilters wird durch ein mit dem Kupplungsfußhebel in Verbindung stehendes Gestänge betätigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The ratchet (Ratsche) of the oil-filter cleaning device is operated by a linkage connected to the clutch pedal (Kupplungsfußhebel).",
+          "runs": [
+            {
+              "text": "The ratchet (Ratsche) of the oil-filter cleaning device is operated by a linkage connected to the clutch pedal (Kupplungsfußhebel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El trinquete (Ratsche) del dispositivo de limpieza del filtro de aceite se acciona mediante un varillaje unido al pedal de embrague (Kupplungsfußhebel).",
+          "runs": [
+            {
+              "text": "El trinquete (Ratsche) del dispositivo de limpieza del filtro de aceite se acciona mediante un varillaje unido al pedal de embrague (Kupplungsfußhebel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-027",
+    "next": "d65241a-page-029"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-015",
+  "document_id": "d652-41a",
+  "page": 15,
+  "section": "S01",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 8,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p015-para01",
+      "text": {
+        "de": {
+          "plain": "Der Lüfterantrieb erfolgt von der Kurbelwelle des Motors über eine Gelenkwelle auf eine Riemenscheibe und über Keilriemen. Die im Heck liegende Riemenscheibe ist auf einen Zapfen gelagert, der in seiner Höhenlage durch einen Doppelexzenter verstellbar ist, um ein Spannen der Keilriemen zu ermöglichen. Das Nachstellen des Exzenters erfolgt durch einen an der Rückwand vorgesehenen abschraubbaren Deckel.",
+          "runs": [
+            {
+              "text": "Der Lüfterantrieb erfolgt von der Kurbelwelle des Motors über eine Gelenkwelle auf eine Riemenscheibe und über Keilriemen. Die im Heck liegende Riemenscheibe ist auf einen Zapfen gelagert, der in seiner Höhenlage durch einen Doppelexzenter verstellbar ist, um ein Spannen der Keilriemen zu ermöglichen. Das Nachstellen des Exzenters erfolgt durch einen an der Rückwand vorgesehenen abschraubbaren Deckel.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The fan drive (Lüfterantrieb) is taken from the engine crankshaft via a cardan shaft (Gelenkwelle) to a belt pulley (Riemenscheibe) and thence by V-belts. The rear pulley is carried on a journal (Zapfen) whose height is adjustable by a double eccentric (Doppelexzenter) so that the V-belts can be tensioned. The eccentric is adjusted through an unscrewable cover in the rear wall.",
+          "runs": [
+            {
+              "text": "The fan drive (Lüfterantrieb) is taken from the engine crankshaft via a cardan shaft (Gelenkwelle) to a belt pulley (Riemenscheibe) and thence by V-belts. The rear pulley is carried on a journal (Zapfen) whose height is adjustable by a double eccentric (Doppelexzenter) so that the V-belts can be tensioned. The eccentric is adjusted through an unscrewable cover in the rear wall.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El accionamiento del ventilador (Lüfterantrieb) se toma del cigüeñal del motor a través de un árbol de transmisión (Gelenkwelle) hasta una polea de correa (Riemenscheibe) y de ahí por correas trapezoidales. La polea trasera va montada sobre un muñón (Zapfen) cuya altura es regulable mediante una doble excéntrica (Doppelexzenter), de modo que puedan tensarse las correas. La excéntrica se ajusta a través de una tapa desenroscable en la pared de popa.",
+          "runs": [
+            {
+              "text": "El accionamiento del ventilador (Lüfterantrieb) se toma del cigüeñal del motor a través de un árbol de transmisión (Gelenkwelle) hasta una polea de correa (Riemenscheibe) y de ahí por correas trapezoidales. La polea trasera va montada sobre un muñón (Zapfen) cuya altura es regulable mediante una doble excéntrica (Doppelexzenter), de modo que puedan tensarse las correas. La excéntrica se ajusta a través de una tapa desenroscable en la pared de popa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para02",
+      "text": {
+        "de": {
+          "plain": "Zum Schutz gegen Überbelastung der Riemen ist zwischen Lüfterantriebsscheibe und Lüfterwelle eine Rutschkupplung eingebaut.",
+          "runs": [
+            {
+              "text": "Zum Schutz gegen Überbelastung der Riemen ist zwischen Lüfterantriebsscheibe und Lüfterwelle eine Rutschkupplung eingebaut.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "To protect the belts against overload, a slip clutch (Rutschkupplung) is fitted between the fan-drive pulley (Lüfterantriebsscheibe) and the fan shaft (Lüfterwelle).",
+          "runs": [
+            {
+              "text": "To protect the belts against overload, a slip clutch (Rutschkupplung) is fitted between the fan-drive pulley (Lüfterantriebsscheibe) and the fan shaft (Lüfterwelle).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para proteger las correas contra sobrecargas, entre la polea de accionamiento del ventilador (Lüfterantriebsscheibe) y el eje del ventilador (Lüfterwelle) se intercala un embrague de fricción (Rutschkupplung).",
+          "runs": [
+            {
+              "text": "Para proteger las correas contra sobrecargas, entre la polea de accionamiento del ventilador (Lüfterantriebsscheibe) y el eje del ventilador (Lüfterwelle) se intercala un embrague de fricción (Rutschkupplung).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para03",
+      "text": {
+        "de": {
+          "plain": "c) Vergaser und Luftfilter, Bild 4",
+          "runs": [
+            {
+              "text": "c) Vergaser und Luftfilter, Bild 4",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "c) Carburettors and air filter (Vergaser und Luftfilter), Figure 4",
+          "runs": [
+            {
+              "text": "c) Carburettors and air filter (Vergaser und Luftfilter), Figure 4",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "c) Carburadores y filtro de aire (Vergaser und Luftfilter), figura 4",
+          "runs": [
+            {
+              "text": "c) Carburadores y filtro de aire (Vergaser und Luftfilter), figura 4",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para04",
+      "text": {
+        "de": {
+          "plain": "Auf dem Motor sind zwei Solex-Zweistufen-Fallstrom-Geländevergaser vorgesehen, die auf die Ansaugleitungen von je sechs Zylindern arbeiten.",
+          "runs": [
+            {
+              "text": "Auf dem Motor sind zwei Solex-Zweistufen-Fallstrom-Geländevergaser vorgesehen, die auf die Ansaugleitungen von je sechs Zylindern arbeiten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Two Solex two-stage downdraught cross-country carburettors (Geländevergaser) are fitted on the engine, each serving the intake manifold (Ansaugleitung) of six cylinders.",
+          "runs": [
+            {
+              "text": "Two Solex two-stage downdraught cross-country carburettors (Geländevergaser) are fitted on the engine, each serving the intake manifold (Ansaugleitung) of six cylinders.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el motor van montados dos carburadores Solex de dos etapas, invertidos, para todoterreno (Geländevergaser), cada uno de los cuales alimenta el colector de admisión (Ansaugleitung) de seis cilindros.",
+          "runs": [
+            {
+              "text": "En el motor van montados dos carburadores Solex de dos etapas, invertidos, para todoterreno (Geländevergaser), cada uno de los cuales alimenta el colector de admisión (Ansaugleitung) de seis cilindros.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para05",
+      "text": {
+        "de": {
+          "plain": "Jeder Geländevergaser besteht aus zwei einzelnen Vergasern, von denen der zweite erst bei weit durchgetretenem Gasfußhebel wirksam wird.",
+          "runs": [
+            {
+              "text": "Jeder Geländevergaser besteht aus zwei einzelnen Vergasern, von denen der zweite erst bei weit durchgetretenem Gasfußhebel wirksam wird.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Each cross-country carburettor is made up of two individual carburettors, the second of which only comes into action when the accelerator pedal (Gasfußhebel) is pressed well down.",
+          "runs": [
+            {
+              "text": "Each cross-country carburettor is made up of two individual carburettors, the second of which only comes into action when the accelerator pedal (Gasfußhebel) is pressed well down.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cada carburador de todoterreno se compone de dos carburadores individuales, el segundo de los cuales solo entra en acción cuando el pedal del acelerador (Gasfußhebel) se pisa a fondo.",
+          "runs": [
+            {
+              "text": "Cada carburador de todoterreno se compone de dos carburadores individuales, el segundo de los cuales solo entra en acción cuando el pedal del acelerador (Gasfußhebel) se pisa a fondo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para06",
+      "text": {
+        "de": {
+          "plain": "Damit der Motor bei allen vorkommenden Schräglagen das richtige Gemisch erhält, ist jeder einzelne Vergaser mit zwei Schwimmern ausgerüstet, die auf eine zentral angeordnete Düse wirken. Diese Betätigung erfolgt von einer gemeinsamen Welle, die bei Horizontalfahrt von beiden Schwimmern gedreht wird. Bei seitlichen Schräglagen des Fahrzeuges bewegt nur der tiefer liegende Schwimmer die Welle und hält den richtigen Kraftstoffstand in der Düse.",
+          "runs": [
+            {
+              "text": "Damit der Motor bei allen vorkommenden Schräglagen das richtige Gemisch erhält, ist jeder einzelne Vergaser mit zwei Schwimmern ausgerüstet, die auf eine zentral angeordnete Düse wirken. Diese Betätigung erfolgt von einer gemeinsamen Welle, die bei Horizontalfahrt von beiden Schwimmern gedreht wird. Bei seitlichen Schräglagen des Fahrzeuges bewegt nur der tiefer liegende Schwimmer die Welle und hält den richtigen Kraftstoffstand in der Düse.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "So that the engine gets the correct mixture in all inclined attitudes, each individual carburettor has two floats (Schwimmer) acting on a centrally arranged jet (Düse). They act through a common shaft which, on the level, is turned by both floats; when the vehicle tilts sideways, only the lower float moves the shaft and keeps the correct fuel level at the jet.",
+          "runs": [
+            {
+              "text": "So that the engine gets the correct mixture in all inclined attitudes, each individual carburettor has two floats (Schwimmer) acting on a centrally arranged jet (Düse). They act through a common shaft which, on the level, is turned by both floats; when the vehicle tilts sideways, only the lower float moves the shaft and keeps the correct fuel level at the jet.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para que el motor reciba la mezcla correcta en todas las posiciones inclinadas, cada carburador individual tiene dos flotadores (Schwimmer) que actúan sobre un surtidor dispuesto en el centro (Düse). Actúan a través de un eje común que, en llano, giran ambos flotadores; cuando el vehículo se inclina lateralmente, solo el flotador inferior mueve el eje y mantiene el nivel de combustible correcto en el surtidor.",
+          "runs": [
+            {
+              "text": "Para que el motor reciba la mezcla correcta en todas las posiciones inclinadas, cada carburador individual tiene dos flotadores (Schwimmer) que actúan sobre un surtidor dispuesto en el centro (Düse). Actúan a través de un eje común que, en llano, giran ambos flotadores; cuando el vehículo se inclina lateralmente, solo el flotador inferior mueve el eje y mantiene el nivel de combustible correcto en el surtidor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para07",
+      "text": {
+        "de": {
+          "plain": "Die mit dem Hauptvergaser in einem Gehäuse angeordnete Anlaßvorrichtung ermöglicht ein gutes Anspringen des Motors auch im kalten Zustand. Betätigt wird diese Anlaßvorrichtung über ein Gestänge durch einen links neben dem Wechselgetriebe vorgesehenen Anlaßhebel. Hierbei ist jedoch zu beachten, daß die Drosselklappe des Hauptvergasers geschlossen bleibt, d. h. der Fahrfußhebel darf hierbei nicht betätigt werden.",
+          "runs": [
+            {
+              "text": "Die mit dem Hauptvergaser in einem Gehäuse angeordnete Anlaßvorrichtung ermöglicht ein gutes Anspringen des Motors auch im kalten Zustand. Betätigt wird diese Anlaßvorrichtung über ein Gestänge durch einen links neben dem Wechselgetriebe vorgesehenen Anlaßhebel. Hierbei ist jedoch zu beachten, daß die Drosselklappe des Hauptvergasers geschlossen bleibt, d. h. der Fahrfußhebel darf hierbei nicht betätigt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The starting device (Anlaßvorrichtung), housed together with the main carburettor (Hauptvergaser), lets the engine start well even when cold. It is worked via a linkage by a starting lever (Anlaßhebel) to the left of the gearbox. Note that the throttle butterfly (Drosselklappe) of the main carburettor must stay closed — i.e. the accelerator pedal (Fahrfußhebel) must not be pressed while doing this.",
+          "runs": [
+            {
+              "text": "The starting device (Anlaßvorrichtung), housed together with the main carburettor (Hauptvergaser), lets the engine start well even when cold. It is worked via a linkage by a starting lever (Anlaßhebel) to the left of the gearbox. Note that the throttle butterfly (Drosselklappe) of the main carburettor must stay closed — i.e. the accelerator pedal (Fahrfußhebel) must not be pressed while doing this.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El dispositivo de arranque (Anlaßvorrichtung), alojado junto con el carburador principal (Hauptvergaser), permite que el motor arranque bien incluso en frío. Se acciona por un varillaje mediante una palanca de arranque (Anlaßhebel) situada a la izquierda de la caja de cambios. Téngase en cuenta que la mariposa (Drosselklappe) del carburador principal debe permanecer cerrada — es decir, no debe pisarse el pedal del acelerador (Fahrfußhebel) al hacerlo.",
+          "runs": [
+            {
+              "text": "El dispositivo de arranque (Anlaßvorrichtung), alojado junto con el carburador principal (Hauptvergaser), permite que el motor arranque bien incluso en frío. Se acciona por un varillaje mediante una palanca de arranque (Anlaßhebel) situada a la izquierda de la caja de cambios. Téngase en cuenta que la mariposa (Drosselklappe) del carburador principal debe permanecer cerrada — es decir, no debe pisarse el pedal del acelerador (Fahrfußhebel) al hacerlo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para08",
+      "text": {
+        "de": {
+          "plain": "In vier Luftfiltern wird die für den Motor erforderliche Verbrennungsluft gereinigt.",
+          "runs": [
+            {
+              "text": "In vier Luftfiltern wird die für den Motor erforderliche Verbrennungsluft gereinigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The combustion air the engine needs is cleaned in four air filters (Luftfilter).",
+          "runs": [
+            {
+              "text": "The combustion air the engine needs is cleaned in four air filters (Luftfilter).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El aire de combustión que necesita el motor se depura en cuatro filtros de aire (Luftfilter).",
+          "runs": [
+            {
+              "text": "El aire de combustión que necesita el motor se depura en cuatro filtros de aire (Luftfilter).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para09",
+      "text": {
+        "de": {
+          "plain": "Die Luftfilter, Mahle Wirbelölfilter, befinden sich im Motorraum über dem Motor und stehen durch ein Gabelrohr mit dem Vergaser in Verbindung.",
+          "runs": [
+            {
+              "text": "Die Luftfilter, Mahle Wirbelölfilter, befinden sich im Motorraum über dem Motor und stehen durch ein Gabelrohr mit dem Vergaser in Verbindung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The air filters — Mahle oil-bath vortex filters (Mahle Wirbelölfilter) — sit in the engine compartment above the engine and connect to the carburettor through a forked pipe (Gabelrohr).",
+          "runs": [
+            {
+              "text": "The air filters — Mahle oil-bath vortex filters (Mahle Wirbelölfilter) — sit in the engine compartment above the engine and connect to the carburettor through a forked pipe (Gabelrohr).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Los filtros de aire —filtros de baño de aceite tipo ciclón Mahle (Mahle Wirbelölfilter)— van en el compartimento del motor, por encima de este, y se conectan al carburador mediante un tubo bifurcado (Gabelrohr).",
+          "runs": [
+            {
+              "text": "Los filtros de aire —filtros de baño de aceite tipo ciclón Mahle (Mahle Wirbelölfilter)— van en el compartimento del motor, por encima de este, y se conectan al carburador mediante un tubo bifurcado (Gabelrohr).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p015-para10",
+      "text": {
+        "de": {
+          "plain": "Durch einen tangential am Filtergehäuse angebrachten Ansaugkrümmer wird die Luft vom Motor angesaugt und setzt dadurch ein im Filtergehäuse vorgesehenes Ölbad in kreisende Bewegung. Hierbei werden die in der Ansaugluft enthaltenen Staubteilchen an die Außenwand des Filtergehäuses geschleudert und durch das Öl in den unteren Schlammraum des Filters gespült. Die auf diese Art",
+          "runs": [
+            {
+              "text": "Durch einen tangential am Filtergehäuse angebrachten Ansaugkrümmer wird die Luft vom Motor angesaugt und setzt dadurch ein im Filtergehäuse vorgesehenes Ölbad in kreisende Bewegung. Hierbei werden die in der Ansaugluft enthaltenen Staubteilchen an die Außenwand des Filtergehäuses geschleudert und durch das Öl in den unteren Schlammraum des Filters gespült. Die auf diese Art",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Through an intake elbow (Ansaugkrümmer) fitted tangentially to the filter housing, the engine draws in the air and sets the oil bath (Ölbad) in the housing into a swirling motion. The dust in the intake air is flung against the outer wall of the housing and washed by the oil into the lower sludge chamber (Schlammraum). The air pre-cleaned in this way",
+          "runs": [
+            {
+              "text": "Through an intake elbow (Ansaugkrümmer) fitted tangentially to the filter housing, the engine draws in the air and sets the oil bath (Ölbad) in the housing into a swirling motion. The dust in the intake air is flung against the outer wall of the housing and washed by the oil into the lower sludge chamber (Schlammraum). The air pre-cleaned in this way",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "A través de un codo de admisión (Ansaugkrümmer) dispuesto tangencialmente a la carcasa del filtro, el motor aspira el aire y pone en movimiento de remolino el baño de aceite (Ölbad) de la carcasa. El polvo del aire de admisión es proyectado contra la pared exterior de la carcasa y arrastrado por el aceite a la cámara de lodos inferior (Schlammraum). El aire así predepurado",
+          "runs": [
+            {
+              "text": "A través de un codo de admisión (Ansaugkrümmer) dispuesto tangencialmente a la carcasa del filtro, el motor aspira el aire y pone en movimiento de remolino el baño de aceite (Ölbad) de la carcasa. El polvo del aire de admisión es proyectado contra la pared exterior de la carcasa y arrastrado por el aceite a la cámara de lodos inferior (Schlammraum). El aire así predepurado",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-014",
+    "next": "d65241a-page-016"
+  }
+}

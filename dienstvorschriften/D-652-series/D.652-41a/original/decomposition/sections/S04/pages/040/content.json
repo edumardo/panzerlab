@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-040",
+  "document_id": "d652-41a",
+  "page": 40,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "Kühlanlage, Bild 3",
+    "en-GB": "Cooling system, Figure 3",
+    "es-ES": "Sistema de refrigeración, figura 3"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 21,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p040-para01",
+      "text": {
+        "de": {
+          "plain": "wobei darauf zu achten ist, daß sie nicht in das Innere des Filters gedrückt werden, da sie sonst in den Ölkreislauf gelangen.",
+          "runs": [
+            {
+              "text": "wobei darauf zu achten ist, daß sie nicht in das Innere des Filters gedrückt werden, da sie sonst in den Ölkreislauf gelangen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… taking care not to push them into the interior of the filter, otherwise they get into the oil circuit.",
+          "runs": [
+            {
+              "text": "… taking care not to push them into the interior of the filter, otherwise they get into the oil circuit.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… procurando no empujarlas al interior del filtro, pues de lo contrario pasan al circuito de aceite.",
+          "runs": [
+            {
+              "text": "… procurando no empujarlas al interior del filtro, pues de lo contrario pasan al circuito de aceite.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para02",
+      "text": {
+        "de": {
+          "plain": "1. Kühler",
+          "runs": [
+            {
+              "text": "1. Kühler",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. Radiators",
+          "runs": [
+            {
+              "text": "1. Radiators",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. Radiadores",
+          "runs": [
+            {
+              "text": "1. Radiadores",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para03",
+      "text": {
+        "de": {
+          "plain": "Die Kühler sind durch das Sieb in der Einfüllöffnung des rechten Kühlers mit reinem Wasser bis zum Überlauf aufzufüllen. Der Einfüllstutzen ist so eingerichtet, daß ein erforderlicher Ausdehnungsraum erhalten bleibt.",
+          "runs": [
+            {
+              "text": "Die Kühler sind durch das Sieb in der Einfüllöffnung des rechten Kühlers mit reinem Wasser bis zum Überlauf aufzufüllen. Der Einfüllstutzen ist so eingerichtet, daß ein erforderlicher Ausdehnungsraum erhalten bleibt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fill the radiators with clean water through the strainer in the filler opening of the right radiator, up to the overflow. The filler neck is designed so that the necessary expansion space is retained.",
+          "runs": [
+            {
+              "text": "Fill the radiators with clean water through the strainer in the filler opening of the right radiator, up to the overflow. The filler neck is designed so that the necessary expansion space is retained.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Llene los radiadores con agua limpia a través del colador de la boca de llenado del radiador derecho, hasta el rebosadero. El cuello de llenado está diseñado de modo que se conserve el espacio de dilatación necesario.",
+          "runs": [
+            {
+              "text": "Llene los radiadores con agua limpia a través del colador de la boca de llenado del radiador derecho, hasta el rebosadero. El cuello de llenado está diseñado de modo que se conserve el espacio de dilatación necesario.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para04",
+      "text": {
+        "de": {
+          "plain": "Im Winter ist dem Kühlwasser ein Frostschutzmittel zuzusetzen, jedoch muß diese Lösung nach Schluß der Frostperiode abgelassen und durch frisches Wasser ersetzt werden.",
+          "runs": [
+            {
+              "text": "Im Winter ist dem Kühlwasser ein Frostschutzmittel zuzusetzen, jedoch muß diese Lösung nach Schluß der Frostperiode abgelassen und durch frisches Wasser ersetzt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In winter, add antifreeze (Frostschutzmittel) to the cooling water; this solution must, however, be drained after the end of the frost period and replaced with fresh water.",
+          "runs": [
+            {
+              "text": "In winter, add antifreeze (Frostschutzmittel) to the cooling water; this solution must, however, be drained after the end of the frost period and replaced with fresh water.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En invierno, añada anticongelante (Frostschutzmittel) al agua de refrigeración; esta solución debe, no obstante, vaciarse tras el fin del período de heladas y sustituirse por agua limpia.",
+          "runs": [
+            {
+              "text": "En invierno, añada anticongelante (Frostschutzmittel) al agua de refrigeración; esta solución debe, no obstante, vaciarse tras el fin del período de heladas y sustituirse por agua limpia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para05",
+      "text": {
+        "de": {
+          "plain": "Wird kein Frostschutzmittel verwendet, so ist das Kühlwasser nach beendeter Fahrt nach Abnahme des Bodendeckels sofort durch die Ablaßverschraubung im Heck der Wanne abzulassen.",
+          "runs": [
+            {
+              "text": "Wird kein Frostschutzmittel verwendet, so ist das Kühlwasser nach beendeter Fahrt nach Abnahme des Bodendeckels sofort durch die Ablaßverschraubung im Heck der Wanne abzulassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If no antifreeze is used, drain the cooling water immediately after the run — after removing the bottom cover — through the drain plug at the rear of the hull.",
+          "runs": [
+            {
+              "text": "If no antifreeze is used, drain the cooling water immediately after the run — after removing the bottom cover — through the drain plug at the rear of the hull.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si no se emplea anticongelante, vacíe el agua de refrigeración inmediatamente después de la marcha —tras retirar la tapa inferior— por el tapón de vaciado de la popa del casco.",
+          "runs": [
+            {
+              "text": "Si no se emplea anticongelante, vacíe el agua de refrigeración inmediatamente después de la marcha —tras retirar la tapa inferior— por el tapón de vaciado de la popa del casco.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para06",
+      "text": {
+        "de": {
+          "plain": "Das auf dem linken Kühler befindliche Überdruckventil ist sauber zu halten. An der vom Herstellerwerk vorgenommenen Einstellung darf nichts geändert werden.",
+          "runs": [
+            {
+              "text": "Das auf dem linken Kühler befindliche Überdruckventil ist sauber zu halten. An der vom Herstellerwerk vorgenommenen Einstellung darf nichts geändert werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Keep the relief valve (Überdruckventil) on the left radiator clean. Do not alter the setting made by the manufacturer.",
+          "runs": [
+            {
+              "text": "Keep the relief valve (Überdruckventil) on the left radiator clean. Do not alter the setting made by the manufacturer.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Mantenga limpia la válvula de alivio (Überdruckventil) del radiador izquierdo. No altere el reglaje realizado por el fabricante.",
+          "runs": [
+            {
+              "text": "Mantenga limpia la válvula de alivio (Überdruckventil) del radiador izquierdo. No altere el reglaje realizado por el fabricante.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para07",
+      "text": {
+        "de": {
+          "plain": "Bei Wasserverlust sind sämtliche Schlauchverbindungen sowie die Stopfbüchse der Wasserpumpe nachzuziehen. Nach längerer Betriebszeit und häufigem Nachziehen der Stopfbüchsenmutter am Motor muß eine neue Dichtung eingelegt werden. Der Motor muß dann langsam einlaufen, und die Überwurfmutter an der Stopfbüchsenpackung darf zuerst nur leicht angezogen werden, da sonst infolge zu großer Wärmeentwicklung die Packung zerstört wird. Einige Tropfen Motorenöl, vor oder nach jeder Fahrt auf die Packung der Stopfbüchse gegeben, verlängert die Lebensdauer beträchtlich.",
+          "runs": [
+            {
+              "text": "Bei Wasserverlust sind sämtliche Schlauchverbindungen sowie die Stopfbüchse der Wasserpumpe nachzuziehen. Nach längerer Betriebszeit und häufigem Nachziehen der Stopfbüchsenmutter am Motor muß eine neue Dichtung eingelegt werden. Der Motor muß dann langsam einlaufen, und die Überwurfmutter an der Stopfbüchsenpackung darf zuerst nur leicht angezogen werden, da sonst infolge zu großer Wärmeentwicklung die Packung zerstört wird. Einige Tropfen Motorenöl, vor oder nach jeder Fahrt auf die Packung der Stopfbüchse gegeben, verlängert die Lebensdauer beträchtlich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In case of water loss, retighten all hose connections and the gland (Stopfbüchse) of the water pump. After long service and frequent retightening of the gland nut, a new seal must be fitted at the engine. The engine must then run in slowly, and the union nut on the gland packing must at first be tightened only lightly, otherwise the packing is destroyed by excessive heat. A few drops of engine oil on the gland packing, before or after each run, lengthen its life considerably.",
+          "runs": [
+            {
+              "text": "In case of water loss, retighten all hose connections and the gland (Stopfbüchse) of the water pump. After long service and frequent retightening of the gland nut, a new seal must be fitted at the engine. The engine must then run in slowly, and the union nut on the gland packing must at first be tightened only lightly, otherwise the packing is destroyed by excessive heat. A few drops of engine oil on the gland packing, before or after each run, lengthen its life considerably.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En caso de pérdida de agua, reapriete todas las uniones de manguera y el prensaestopas (Stopfbüchse) de la bomba de agua. Tras un servicio prolongado y frecuentes reaprietes de la tuerca del prensaestopas, hay que montar una junta nueva en el motor. El motor debe entonces rodar despacio, y la tuerca de unión sobre la empaquetadura del prensaestopas debe apretarse al principio solo ligeramente, pues de lo contrario la empaquetadura se destruye por exceso de calor. Unas gotas de aceite de motor sobre la empaquetadura, antes o después de cada marcha, alargan considerablemente su vida.",
+          "runs": [
+            {
+              "text": "En caso de pérdida de agua, reapriete todas las uniones de manguera y el prensaestopas (Stopfbüchse) de la bomba de agua. Tras un servicio prolongado y frecuentes reaprietes de la tuerca del prensaestopas, hay que montar una junta nueva en el motor. El motor debe entonces rodar despacio, y la tuerca de unión sobre la empaquetadura del prensaestopas debe apretarse al principio solo ligeramente, pues de lo contrario la empaquetadura se destruye por exceso de calor. Unas gotas de aceite de motor sobre la empaquetadura, antes o después de cada marcha, alargan considerablemente su vida.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para08",
+      "text": {
+        "de": {
+          "plain": "Steigt die Temperatur des Kühlwassers über 100—105°, so ist in folgender Reihenfolge zu prüfen:",
+          "runs": [
+            {
+              "text": "Steigt die Temperatur des Kühlwassers über 100—105°, so ist in folgender Reihenfolge zu prüfen:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the coolant temperature rises above 100–105 °C, check in the following order:",
+          "runs": [
+            {
+              "text": "If the coolant temperature rises above 100–105 °C, check in the following order:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si la temperatura del refrigerante sube por encima de 100–105 °C, compruebe en el orden siguiente:",
+          "runs": [
+            {
+              "text": "Si la temperatura del refrigerante sube por encima de 100–105 °C, compruebe en el orden siguiente:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para09",
+      "text": {
+        "de": {
+          "plain": "1.) Kühlwassermenge in den Kühlern.",
+          "runs": [
+            {
+              "text": "1.) Kühlwassermenge in den Kühlern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1.) amount of cooling water in the radiators;",
+          "runs": [
+            {
+              "text": "1.) amount of cooling water in the radiators;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1.º) cantidad de agua de refrigeración en los radiadores;",
+          "runs": [
+            {
+              "text": "1.º) cantidad de agua de refrigeración en los radiadores;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para10",
+      "text": {
+        "de": {
+          "plain": "2.) Spannung der Keilriemen zum Lüfterantrieb.",
+          "runs": [
+            {
+              "text": "2.) Spannung der Keilriemen zum Lüfterantrieb.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2.) tension of the V-belts of the fan drive;",
+          "runs": [
+            {
+              "text": "2.) tension of the V-belts of the fan drive;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2.º) tensión de las correas trapezoidales del accionamiento del ventilador;",
+          "runs": [
+            {
+              "text": "2.º) tensión de las correas trapezoidales del accionamiento del ventilador;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para11",
+      "text": {
+        "de": {
+          "plain": "3.) Verschmutzen der Kühler von außen.",
+          "runs": [
+            {
+              "text": "3.) Verschmutzen der Kühler von außen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3.) fouling of the radiators from outside;",
+          "runs": [
+            {
+              "text": "3.) fouling of the radiators from outside;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3.º) suciedad de los radiadores por fuera;",
+          "runs": [
+            {
+              "text": "3.º) suciedad de los radiadores por fuera;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para12",
+      "text": {
+        "de": {
+          "plain": "4.) Verschmutzen der Kühler von innen.",
+          "runs": [
+            {
+              "text": "4.) Verschmutzen der Kühler von innen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4.) fouling of the radiators from inside;",
+          "runs": [
+            {
+              "text": "4.) fouling of the radiators from inside;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4.º) suciedad de los radiadores por dentro;",
+          "runs": [
+            {
+              "text": "4.º) suciedad de los radiadores por dentro;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para13",
+      "text": {
+        "de": {
+          "plain": "5.) Verstopfung der Überdruckleitung am Heck.",
+          "runs": [
+            {
+              "text": "5.) Verstopfung der Überdruckleitung am Heck.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5.) blockage of the relief line at the rear;",
+          "runs": [
+            {
+              "text": "5.) blockage of the relief line at the rear;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5.º) obstrucción de la tubería de alivio en la popa;",
+          "runs": [
+            {
+              "text": "5.º) obstrucción de la tubería de alivio en la popa;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para14",
+      "text": {
+        "de": {
+          "plain": "6.) Vergasereinstellung.",
+          "runs": [
+            {
+              "text": "6.) Vergasereinstellung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6.) carburettor setting;",
+          "runs": [
+            {
+              "text": "6.) carburettor setting;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6.º) reglaje del carburador;",
+          "runs": [
+            {
+              "text": "6.º) reglaje del carburador;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para15",
+      "text": {
+        "de": {
+          "plain": "7.) Zündeinstellung.",
+          "runs": [
+            {
+              "text": "7.) Zündeinstellung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7.) ignition setting.",
+          "runs": [
+            {
+              "text": "7.) ignition setting.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7.º) reglaje del encendido.",
+          "runs": [
+            {
+              "text": "7.º) reglaje del encendido.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p040-para16",
+      "text": {
+        "de": {
+          "plain": "Die Kühler sind in gewissen Zeitabständen von außen und innen zu reinigen, besonders dann, wenn das Kühlwasser zum Kochen neigt und aus diesem Grunde häufig Wasser nachgefüllt wurde.",
+          "runs": [
+            {
+              "text": "Die Kühler sind in gewissen Zeitabständen von außen und innen zu reinigen, besonders dann, wenn das Kühlwasser zum Kochen neigt und aus diesem Grunde häufig Wasser nachgefüllt wurde.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clean the radiators from outside and inside at certain intervals, especially when the cooling water tends to boil and water has therefore been topped up frequently.",
+          "runs": [
+            {
+              "text": "Clean the radiators from outside and inside at certain intervals, especially when the cooling water tends to boil and water has therefore been topped up frequently.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpie los radiadores por fuera y por dentro a ciertos intervalos, sobre todo cuando el agua de refrigeración tienda a hervir y por ello se haya repuesto agua con frecuencia.",
+          "runs": [
+            {
+              "text": "Limpie los radiadores por fuera y por dentro a ciertos intervalos, sobre todo cuando el agua de refrigeración tienda a hervir y por ello se haya repuesto agua con frecuencia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-039",
+    "next": "d65241a-page-041"
+  }
+}

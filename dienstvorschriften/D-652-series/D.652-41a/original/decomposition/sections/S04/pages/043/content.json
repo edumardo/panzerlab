@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-043",
+  "document_id": "d652-41a",
+  "page": 43,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "23. Hauptkupplung und Wechselgetriebe — a) Hauptkupplung, Bild 6",
+    "en-GB": "23. Main clutch and gearbox — a) Main clutch, Figure 6",
+    "es-ES": "23. Embrague principal y caja de cambios — a) Embrague principal, figura 6"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 22,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p043-para01",
+      "text": {
+        "de": {
+          "plain": "Einbau:",
+          "runs": [
+            {
+              "text": "Einbau:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Installation:",
+          "runs": [
+            {
+              "text": "Installation:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montaje:",
+          "runs": [
+            {
+              "text": "Montaje:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para02",
+      "text": {
+        "de": {
+          "plain": "In das Wechselgetriebe die Flanschwelle leicht eingefettet einführen. Lüfter über die Gelenkwelle hängen und die Gelenkwelle von oben in das Fahrzeug einlegen. Die Gelenkwelle mit der Flanschwelle und der Kupplungswelle mit Hilfe des Steckschlüssels III DB 20 gut verschrauben und die Kronenmuttern sorgfältig versplinten. Lüfter in das Lüftergehäuse einführen und mit der Flanschwelle gut verschrauben. Schrauben durch einen Draht gegen Lösen sichern. Wellentunnel einbauen.",
+          "runs": [
+            {
+              "text": "In das Wechselgetriebe die Flanschwelle leicht eingefettet einführen. Lüfter über die Gelenkwelle hängen und die Gelenkwelle von oben in das Fahrzeug einlegen. Die Gelenkwelle mit der Flanschwelle und der Kupplungswelle mit Hilfe des Steckschlüssels III DB 20 gut verschrauben und die Kronenmuttern sorgfältig versplinten. Lüfter in das Lüftergehäuse einführen und mit der Flanschwelle gut verschrauben. Schrauben durch einen Draht gegen Lösen sichern. Wellentunnel einbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the flanged shaft, lightly greased, into the gearbox. Hang the fan over the cardan shaft and lay the cardan shaft into the vehicle from above. Bolt the cardan shaft firmly to the flanged shaft, and the clutch shaft, with the aid of socket spanner III DB 20, and split-pin the castellated nuts carefully. Insert the fan into the fan housing and bolt it firmly to the flanged shaft. Secure the bolts against loosening with wire. Refit the shaft tunnel.",
+          "runs": [
+            {
+              "text": "Insert the flanged shaft, lightly greased, into the gearbox. Hang the fan over the cardan shaft and lay the cardan shaft into the vehicle from above. Bolt the cardan shaft firmly to the flanged shaft, and the clutch shaft, with the aid of socket spanner III DB 20, and split-pin the castellated nuts carefully. Insert the fan into the fan housing and bolt it firmly to the flanged shaft. Secure the bolts against loosening with wire. Refit the shaft tunnel.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introduzca el eje embridado, ligeramente engrasado, en la caja de cambios. Cuelgue el ventilador sobre el árbol de transmisión y deposite el árbol en el vehículo desde arriba. Atornille firmemente el árbol de transmisión al eje embridado, y al eje de embrague, con ayuda de la llave de vaso III DB 20, y coloque cuidadosamente los pasadores de aletas en las tuercas almenadas. Introduzca el ventilador en su carcasa y atorníllelo firmemente al eje embridado. Asegure los pernos contra el aflojamiento con alambre. Vuelva a montar el túnel del árbol.",
+          "runs": [
+            {
+              "text": "Introduzca el eje embridado, ligeramente engrasado, en la caja de cambios. Cuelgue el ventilador sobre el árbol de transmisión y deposite el árbol en el vehículo desde arriba. Atornille firmemente el árbol de transmisión al eje embridado, y al eje de embrague, con ayuda de la llave de vaso III DB 20, y coloque cuidadosamente los pasadores de aletas en las tuercas almenadas. Introduzca el ventilador en su carcasa y atorníllelo firmemente al eje embridado. Asegure los pernos contra el aflojamiento con alambre. Vuelva a montar el túnel del árbol.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para03",
+      "text": {
+        "de": {
+          "plain": "Beim Aus- und Einbau der Gelenkwelle Zentrierungen vorsichtig behandeln.",
+          "runs": [
+            {
+              "text": "Beim Aus- und Einbau der Gelenkwelle Zentrierungen vorsichtig behandeln.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When removing and installing the cardan shaft, treat the centrings (Zentrierungen) carefully.",
+          "runs": [
+            {
+              "text": "When removing and installing the cardan shaft, treat the centrings (Zentrierungen) carefully.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al desmontar y montar el árbol de transmisión, trate con cuidado los centrados (Zentrierungen).",
+          "runs": [
+            {
+              "text": "Al desmontar y montar el árbol de transmisión, trate con cuidado los centrados (Zentrierungen).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para04",
+      "text": {
+        "de": {
+          "plain": "Ausbau:",
+          "runs": [
+            {
+              "text": "Ausbau:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Removal:",
+          "runs": [
+            {
+              "text": "Removal:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontaje:",
+          "runs": [
+            {
+              "text": "Desmontaje:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para05",
+      "text": {
+        "de": {
+          "plain": "Wellentunnel und Gelenkwelle ausbauen.",
+          "runs": [
+            {
+              "text": "Wellentunnel und Gelenkwelle ausbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the shaft tunnel and cardan shaft.",
+          "runs": [
+            {
+              "text": "Remove the shaft tunnel and cardan shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retire el túnel del árbol y el árbol de transmisión.",
+          "runs": [
+            {
+              "text": "Retire el túnel del árbol y el árbol de transmisión.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para06",
+      "text": {
+        "de": {
+          "plain": "Kupplungsgehäuse vom Motor und Kupplungsdeckel vom Schwungrad lösen und vollständige Kupplung herausnehmen.",
+          "runs": [
+            {
+              "text": "Kupplungsgehäuse vom Motor und Kupplungsdeckel vom Schwungrad lösen und vollständige Kupplung herausnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Undo the clutch housing from the engine and the clutch cover from the flywheel, and take out the complete clutch.",
+          "runs": [
+            {
+              "text": "Undo the clutch housing from the engine and the clutch cover from the flywheel, and take out the complete clutch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Suelte la campana del embrague del motor y la tapa del embrague del volante, y extraiga el embrague completo.",
+          "runs": [
+            {
+              "text": "Suelte la campana del embrague del motor y la tapa del embrague del volante, y extraiga el embrague completo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para07",
+      "text": {
+        "de": {
+          "plain": "Auseinandernehmen:",
+          "runs": [
+            {
+              "text": "Auseinandernehmen:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Dismantling:",
+          "runs": [
+            {
+              "text": "Dismantling:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Despiece:",
+          "runs": [
+            {
+              "text": "Despiece:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para08",
+      "text": {
+        "de": {
+          "plain": "Beim Auseinandernehmen der Kupplung sind sämtliche Teile zum Einbau an der gleichen Stelle durch Körnerschlag oder Reißnadel zu zeichnen.",
+          "runs": [
+            {
+              "text": "Beim Auseinandernehmen der Kupplung sind sämtliche Teile zum Einbau an der gleichen Stelle durch Körnerschlag oder Reißnadel zu zeichnen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When dismantling the clutch, mark all parts by centre-punch or scriber for reassembly in the same place.",
+          "runs": [
+            {
+              "text": "When dismantling the clutch, mark all parts by centre-punch or scriber for reassembly in the same place.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al despiezar el embrague, marque todas las piezas con granete o punta de trazar para volver a montarlas en el mismo sitio.",
+          "runs": [
+            {
+              "text": "Al despiezar el embrague, marque todas las piezas con granete o punta de trazar para volver a montarlas en el mismo sitio.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para09",
+      "text": {
+        "de": {
+          "plain": "Kupplung waagerecht legen und Kupplungsscheiben von der Kupplungswelle sowie Kupplungtreibscheiben herausnehmen.",
+          "runs": [
+            {
+              "text": "Kupplung waagerecht legen und Kupplungsscheiben von der Kupplungswelle sowie Kupplungtreibscheiben herausnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lay the clutch horizontally and remove the clutch discs from the clutch shaft, and the clutch driving discs.",
+          "runs": [
+            {
+              "text": "Lay the clutch horizontally and remove the clutch discs from the clutch shaft, and the clutch driving discs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Coloque el embrague en horizontal y retire del eje de embrague los discos de embrague y los discos de arrastre.",
+          "runs": [
+            {
+              "text": "Coloque el embrague en horizontal y retire del eje de embrague los discos de embrague y los discos de arrastre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para10",
+      "text": {
+        "de": {
+          "plain": "Kupplung aufrecht stellen und Kupplungsgehäuse mit Kupplungswelle nach oben abheben.",
+          "runs": [
+            {
+              "text": "Kupplung aufrecht stellen und Kupplungsgehäuse mit Kupplungswelle nach oben abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Stand the clutch upright and lift off the clutch housing with the clutch shaft upward.",
+          "runs": [
+            {
+              "text": "Stand the clutch upright and lift off the clutch housing with the clutch shaft upward.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ponga el embrague en vertical y levante la campana con el eje de embrague hacia arriba.",
+          "runs": [
+            {
+              "text": "Ponga el embrague en vertical y levante la campana con el eje de embrague hacia arriba.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para11",
+      "text": {
+        "de": {
+          "plain": "Abschlußdeckel vom Kupplungsgehäuse lösen und Kupplungswelle herausziehen.",
+          "runs": [
+            {
+              "text": "Abschlußdeckel vom Kupplungsgehäuse lösen und Kupplungswelle herausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Undo the end cover from the clutch housing and pull out the clutch shaft.",
+          "runs": [
+            {
+              "text": "Undo the end cover from the clutch housing and pull out the clutch shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Suelte la tapa de extremo de la campana y extraiga el eje de embrague.",
+          "runs": [
+            {
+              "text": "Suelte la tapa de extremo de la campana y extraiga el eje de embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para12",
+      "text": {
+        "de": {
+          "plain": "Zylinderstifte aus Ausrückgabel herausdrücken und Ausrückwelle seitlich aus dem Kupplungsgehäuse herausziehen.",
+          "runs": [
+            {
+              "text": "Zylinderstifte aus Ausrückgabel herausdrücken und Ausrückwelle seitlich aus dem Kupplungsgehäuse herausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the cylindrical pins out of the release fork and pull the release shaft out sideways from the clutch housing.",
+          "runs": [
+            {
+              "text": "Push the cylindrical pins out of the release fork and pull the release shaft out sideways from the clutch housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Expulse los pasadores cilíndricos de la horquilla de desembrague y saque lateralmente el eje de desembrague de la campana.",
+          "runs": [
+            {
+              "text": "Expulse los pasadores cilíndricos de la horquilla de desembrague y saque lateralmente el eje de desembrague de la campana.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para13",
+      "text": {
+        "de": {
+          "plain": "Ausrücklager, Kupplungsdruckfeder, Ausrückhebel mit Einstellmutter und Druckstiften sowie vordere Druckscheibe mit Haltefedern ausbauen.",
+          "runs": [
+            {
+              "text": "Ausrücklager, Kupplungsdruckfeder, Ausrückhebel mit Einstellmutter und Druckstiften sowie vordere Druckscheibe mit Haltefedern ausbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the release bearing, clutch pressure spring, release levers with adjusting nut and thrust pins, and the front thrust washer with retaining springs.",
+          "runs": [
+            {
+              "text": "Remove the release bearing, clutch pressure spring, release levers with adjusting nut and thrust pins, and the front thrust washer with retaining springs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retire el cojinete de desembrague, el muelle de presión del embrague, las palancas de desembrague con su tuerca de ajuste y bulones de empuje, y el disco de empuje delantero con sus muelles de retención.",
+          "runs": [
+            {
+              "text": "Retire el cojinete de desembrague, el muelle de presión del embrague, las palancas de desembrague con su tuerca de ajuste y bulones de empuje, y el disco de empuje delantero con sus muelles de retención.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p043-para14",
+      "text": {
+        "de": {
+          "plain": "Die Mitnehmer in dem Zwischenring so ausrichten, daß diese beim Zusammenbau ein einwandfreies Verschieben der Kupplungstreibscheiben gewährleisten.",
+          "runs": [
+            {
+              "text": "Die Mitnehmer in dem Zwischenring so ausrichten, daß diese beim Zusammenbau ein einwandfreies Verschieben der Kupplungstreibscheiben gewährleisten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Align the dogs (Mitnehmer) in the intermediate ring so that, at reassembly, they ensure smooth sliding of the clutch driving discs.",
+          "runs": [
+            {
+              "text": "Align the dogs (Mitnehmer) in the intermediate ring so that, at reassembly, they ensure smooth sliding of the clutch driving discs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Alinee los arrastradores (Mitnehmer) del anillo intermedio de modo que, en el remontaje, aseguren un deslizamiento suave de los discos de arrastre.",
+          "runs": [
+            {
+              "text": "Alinee los arrastradores (Mitnehmer) del anillo intermedio de modo que, en el remontaje, aseguren un deslizamiento suave de los discos de arrastre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-042",
+    "next": "d65241a-page-044"
+  }
+}

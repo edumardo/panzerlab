@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-088",
+  "document_id": "d652-41a",
+  "page": 88,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 17  Laufwerk",
+    "en-GB": "Fig. 17  Running gear",
+    "es-ES": "Fig. 17  Tren de rodaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 52,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild017",
+      "number": 17,
+      "captions": {
+        "de": {
+          "plain": "Bild 17  Laufwerk",
+          "runs": [
+            { "text": "Bild 17  Laufwerk", "bold": false }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 17  Running gear",
+          "runs": [
+            { "text": "Fig. 17  Running gear", "bold": false }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 17  Tren de rodaje",
+          "runs": [
+            { "text": "Fig. 17  Tren de rodaje", "bold": false }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Triebrad\nSchwingarmlagerung\nLaufrad\nStoßdämpfer\nStabfeder für rechtes Laufrad\nStabfeder für linkes Laufrad\nSchwingarmführung mit Anschlag\nSchwingarm\nAnschlag\nLeitrad\nDreh-Stabfedereinbau\nSchwingarmlagerung\nSpiel 0,2-0,5 m/m\nDruckscheibe\nBeilegscheiben\nSchwingarm\nDreh-Stabfeder für rechtes Laufrad\nDreh-Stabfeder für linkes Laufrad",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "drive sprocket (Triebrad)\nswing-arm bearing (Schwingarmlagerung)\nroad wheel (Laufrad)\nshock absorber (Stoßdämpfer)\ntorsion bar for the right road wheel (Stabfeder für rechtes Laufrad)\ntorsion bar for the left road wheel (Stabfeder für linkes Laufrad)\nswing-arm guide with stop (Schwingarmführung mit Anschlag)\nswing arm (Schwingarm)\nstop (Anschlag)\nidler wheel (Leitrad)\ntorsion-bar installation (Dreh-Stabfedereinbau)\nswing-arm bearing (Schwingarmlagerung)\nclearance (play) 0.2-0.5 mm (Spiel 0,2-0,5 m/m)\nthrust washer (Druckscheibe)\nshims (Beilegscheiben)\nswing arm (Schwingarm)\ntorsion bar for the right road wheel (Dreh-Stabfeder für rechtes Laufrad)\ntorsion bar for the left road wheel (Dreh-Stabfeder für linkes Laufrad)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "rueda motriz (Triebrad)\ncojinete del brazo oscilante (Schwingarmlagerung)\nrueda de rodadura (Laufrad)\namortiguador (Stoßdämpfer)\nbarra de torsión de la rueda derecha (Stabfeder für rechtes Laufrad)\nbarra de torsión de la rueda izquierda (Stabfeder für linkes Laufrad)\nguía del brazo oscilante con tope (Schwingarmführung mit Anschlag)\nbrazo oscilante (Schwingarm)\ntope (Anschlag)\nrueda tensora (Leitrad)\nmontaje de la barra de torsión (Dreh-Stabfedereinbau)\ncojinete del brazo oscilante (Schwingarmlagerung)\njuego 0,2-0,5 mm (Spiel 0,2-0,5 m/m)\narandela de empuje (Druckscheibe)\narandelas de ajuste (Beilegscheiben)\nbrazo oscilante (Schwingarm)\nbarra de torsión de la rueda derecha (Dreh-Stabfeder für rechtes Laufrad)\nbarra de torsión de la rueda izquierda (Dreh-Stabfeder für linkes Laufrad)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-087",
+    "next": "d65241a-page-089"
+  }
+}

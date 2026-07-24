@@ -188,6 +188,13 @@ Never infer order from filesystem enumeration. Store it explicitly.
   title and figure captions (see §9 and
   `original/decomposition/scripts/export_facsimile_pdf.py`). Adopt this value
   when a section drops per-figure crops in favour of full-page facsimiles.
+- `A4_landscape_facsimile_then_translation`: the same facsimile-then-
+  translation export, but for a source page that is itself a landscape sheet
+  crossing the gutter (a wide plate/drawing spanning two book pages) and must
+  therefore never be split into left/right halves. Introduced for D.652-41a's
+  plate section (`G`), where one sheet can carry one or two `Bild` numbers;
+  the translation page lists captions and label keys for every `Bild` on
+  that sheet.
 
 ### 3.5 Page manifest
 

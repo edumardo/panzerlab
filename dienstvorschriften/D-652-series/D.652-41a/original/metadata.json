@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-41a",
+  "designation": "D 652/41a",
+  "file": "D.652-41a_de.pdf",
+  "original_file_name": "100.-StuG-StuH-652-42a_compressed_bushmakow.pdf",
+  "language": "de-DE",
+  "media_type": "application/pdf",
+  "size_bytes": 19941627,
+  "sha256": "a3fdf76181fce8f4d2917b0a5ddaab76ff085705383c4723bec69b58b71ca277",
+  "pdf_pages": 65,
+  "page_layout": "photographed spreads (A4 landscape, two printed pages per sheet; plate sheets 38-65 cross the gutter as one full plate)",
+  "decomposition": "decomposition/document.json",
+  "source": {
+    "description": "User-provided copy attributed to the Bushmakow restoration archive",
+    "url": "https://bushmakow.com/library/"
+  }
+}

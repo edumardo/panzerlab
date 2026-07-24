@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-082",
+  "document_id": "d652-41a",
+  "page": 82,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 10-11  Lenkgetriebe Geradeausfahrt / Lenken",
+    "en-GB": "Fig. 10-11  Steering gear, straight-ahead driving / steering",
+    "es-ES": "Fig. 10-11  Mecanismo de dirección, marcha recta / dirección (giro)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 46,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild010",
+      "number": 10,
+      "captions": {
+        "de": {
+          "plain": "Bild 10  Lenkgetriebe, Geradeausfahrt",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 10  Steering gear, straight-ahead driving",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 10  Mecanismo de dirección, marcha recta",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Mittenhohlrad Nr. 2\nUmlaufradträger Nr. 4\nKegeltrieb\nVorgelege\nUmlaufrad Nr. 3\nMittenvollrad Nr. 5\nSeitenwelle\nLenkbremse gelöst\nStützbremse abgebremst\nSeitenvorgelege\nTriebrad",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "central ring gear No. 2 (Mittenhohlrad Nr. 2)\nplanet carrier No. 4 (Umlaufradträger Nr. 4)\nbevel drive (Kegeltrieb)\nlayshaft (Vorgelege)\nplanet gear No. 3 (Umlaufrad Nr. 3)\ncentral sun gear No. 5 (Mittenvollrad Nr. 5)\nside (final-drive) shaft (Seitenwelle)\nsteering brake released (Lenkbremse gelöst)\nsupport brake applied/braking (Stützbremse abgebremst)\nfinal drive (Seitenvorgelege)\ndrive (sprocket) wheel (Triebrad)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "corona central n.º 2 (Mittenhohlrad Nr. 2)\nportaplanetas n.º 4 (Umlaufradträger Nr. 4)\npar cónico (Kegeltrieb)\nreductora (Vorgelege)\nengranaje planetario n.º 3 (Umlaufrad Nr. 3)\nplaneta central n.º 5 (Mittenvollrad Nr. 5)\nsemieje (Seitenwelle)\nfreno de dirección suelto (Lenkbremse gelöst)\nfreno de apoyo aplicado/frenando (Stützbremse abgebremst)\nreductora final (Seitenvorgelege)\nrueda tractora (Triebrad)",
+          "runs": []
+        }
+      }
+    },
+    {
+      "id": "d65241a-bild011",
+      "number": 11,
+      "captions": {
+        "de": {
+          "plain": "Bild 11  Lenkgetriebe, Lenken",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 11  Steering gear, steering",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 11  Mecanismo de dirección, dirección (giro)",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Mittenhohlrad Nr. 2\nUmlaufradträger Nr. 4\nKegeltrieb\nVorgelege\nUmlaufrad Nr. 3\nMittenvollrad Nr. 5\nSeitenwelle\nLenkbremse abgebremst\nStützbremse gelöst\nSeitenvorgelege\nTriebrad",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "central ring gear No. 2 (Mittenhohlrad Nr. 2)\nplanet carrier No. 4 (Umlaufradträger Nr. 4)\nbevel drive (Kegeltrieb)\nlayshaft (Vorgelege)\nplanet gear No. 3 (Umlaufrad Nr. 3)\ncentral sun gear No. 5 (Mittenvollrad Nr. 5)\nside (final-drive) shaft (Seitenwelle)\nsteering brake applied/braking (Lenkbremse abgebremst)\nsupport brake released (Stützbremse gelöst)\nfinal drive (Seitenvorgelege)\ndrive (sprocket) wheel (Triebrad)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "corona central n.º 2 (Mittenhohlrad Nr. 2)\nportaplanetas n.º 4 (Umlaufradträger Nr. 4)\npar cónico (Kegeltrieb)\nreductora (Vorgelege)\nengranaje planetario n.º 3 (Umlaufrad Nr. 3)\nplaneta central n.º 5 (Mittenvollrad Nr. 5)\nsemieje (Seitenwelle)\nfreno de dirección aplicado/frenando (Lenkbremse abgebremst)\nfreno de apoyo suelto (Stützbremse gelöst)\nreductora final (Seitenvorgelege)\nrueda tractora (Triebrad)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-081",
+    "next": "d65241a-page-083"
+  }
+}

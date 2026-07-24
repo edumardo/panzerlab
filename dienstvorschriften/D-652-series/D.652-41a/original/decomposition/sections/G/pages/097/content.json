@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-097",
+  "document_id": "d652-41a",
+  "page": 97,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 27  Lenkgetriebe mit Stützbremse, Einbau",
+    "en-GB": "Fig. 27  Steering gear with support brake, installation",
+    "es-ES": "Fig. 27  Mecanismo de dirección con freno de apoyo, montaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 61,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild027",
+      "number": 27,
+      "captions": {
+        "de": {
+          "plain": "Bild 27  Lenkgetriebe mit Stützbremse, Einbau",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 27  Steering gear with support brake, installation",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 27  Mecanismo de dirección con freno de apoyo, montaje",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Teilbild 1: DB 95/1, DB 95/4, DB 95/3\nTeilbild 2: DB 95/2, DB 95/4, DB 95/3\nTeilbild 3: DB 95/2, DB 95/4, DB 95/3\nTeilbild 4: DB 95/3, DB 95/4, DB 95/2\nTeilbild 5: DB 95/3, DB 95/4, DB 95/2\nTeilbild 6: DB 94/2, DB 94/5, DB 94/4, DB 94/1, DB 94/3\nTeilbild 7: DB 94/2, DB 94/5, DB 94/4, DB 94/1\nTeilbild 8: Schlüssel DB 96, Schlüssel DB 99, Schlüssel DB 97, DB 94/3, DB 94/1, DB 94/4, DB 94/5, DB 94/2",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Sub-figure 1: DB 95/1, DB 95/4, DB 95/3\nSub-figure 2: DB 95/2, DB 95/4, DB 95/3\nSub-figure 3: DB 95/2, DB 95/4, DB 95/3\nSub-figure 4: DB 95/3, DB 95/4, DB 95/2\nSub-figure 5: DB 95/3, DB 95/4, DB 95/2\nSub-figure 6: DB 94/2, DB 94/5, DB 94/4, DB 94/1, DB 94/3\nSub-figure 7: DB 94/2, DB 94/5, DB 94/4, DB 94/1\nSub-figure 8: spanner (Schlüssel) DB 96, spanner (Schlüssel) DB 99, spanner (Schlüssel) DB 97, DB 94/3, DB 94/1, DB 94/4, DB 94/5, DB 94/2",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Figura parcial 1: DB 95/1, DB 95/4, DB 95/3\nFigura parcial 2: DB 95/2, DB 95/4, DB 95/3\nFigura parcial 3: DB 95/2, DB 95/4, DB 95/3\nFigura parcial 4: DB 95/3, DB 95/4, DB 95/2\nFigura parcial 5: DB 95/3, DB 95/4, DB 95/2\nFigura parcial 6: DB 94/2, DB 94/5, DB 94/4, DB 94/1, DB 94/3\nFigura parcial 7: DB 94/2, DB 94/5, DB 94/4, DB 94/1\nFigura parcial 8: llave (Schlüssel) DB 96, llave (Schlüssel) DB 99, llave (Schlüssel) DB 97, DB 94/3, DB 94/1, DB 94/4, DB 94/5, DB 94/2",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-096",
+    "next": "d65241a-page-098"
+  }
+}

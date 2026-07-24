@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-004",
+  "document_id": "d652-41a",
+  "page": 4,
+  "section": "FrontMatter",
+  "type": "blank",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 3,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [],
+  "status": {
+    "transcription": "not_applicable",
+    "en-GB": "not_applicable",
+    "es-ES": "not_applicable",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-003",
+    "next": "d65241a-page-005"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-079",
+  "document_id": "d652-41a",
+  "page": 79,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 7  Wechselgetriebe",
+    "en-GB": "Fig. 7  Gearbox",
+    "es-ES": "Fig. 7  Caja de cambios"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 43,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild007",
+      "number": 7,
+      "captions": {
+        "de": {
+          "plain": "Bild 7  Wechselgetriebe",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 7  Gearbox",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 7  Caja de cambios",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Fahrtrichtung\nKräfteverlauf (1. Gang bis R. Gang)\nZahnräder mit Zähnezahlen: z = 79, 35, 68, 39, 40, 9, 57, 46, 27, 56, 15, 60, 17, 55 (wie im Original gedruckt, nicht einzeln übersetzt)\nGleichlaufeinrichtung (Teile 1-10, im Original nur beziffert, ohne Wortbeschriftung)\nSchaltplan (Gänge 6-4-2 / 5-3-1-R)\nÜbersetzungen: 1. Gang 1:9,02 / 2. Gang 1:4,68 / 3. Gang 1:2,76 / 4. Gang 1:1,82 / 5. Gang 1:1,29 / 6. Gang 1:1 / R. Gang 1:7,3",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "direction of travel (Fahrtrichtung)\nforce flow / torque path, 1st gear to reverse gear (Kräfteverlauf)\ngears with tooth counts: z = 79, 35, 68, 39, 40, 9, 57, 46, 27, 56, 15, 60, 17, 55 — given as printed, not individually translated\nsynchromesh device (Gleichlaufeinrichtung) — parts 1-10 numbered only, without word labels in the original\nshift pattern (Schaltplan) (gears 6-4-2 / 5-3-1-R)\ngear ratios (Übersetzungen): 1st gear 1:9.02 / 2nd gear 1:4.68 / 3rd gear 1:2.76 / 4th gear 1:1.82 / 5th gear 1:1.29 / 6th gear 1:1 / reverse gear 1:7.3 — note: gear ratios (Übersetzungen) and tooth counts (z = ...) are given as printed, not individually translated, per editorial decision for this plate",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "sentido de la marcha (Fahrtrichtung)\nflujo de fuerzas, de 1.ª marcha a marcha atrás (Kräfteverlauf)\nengranajes con número de dientes: z = 79, 35, 68, 39, 40, 9, 57, 46, 27, 56, 15, 60, 17, 55 — dados tal como se imprimen, sin traducción individual\ndispositivo de sincronización (Gleichlaufeinrichtung) — piezas 1-10, numeradas únicamente, sin rótulo en el original\nesquema de cambios (Schaltplan) (marchas 6-4-2 / 5-3-1-R)\nrelaciones de transmisión (Übersetzungen): 1.ª marcha 1:9,02 / 2.ª marcha 1:4,68 / 3.ª marcha 1:2,76 / 4.ª marcha 1:1,82 / 5.ª marcha 1:1,29 / 6.ª marcha 1:1 / marcha atrás 1:7,3 — nota: las relaciones de transmisión (Übersetzungen) y el número de dientes (z = ...) se dan tal como se imprimen, sin traducción individual, por decisión editorial para esta lámina",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-078",
+    "next": "d65241a-page-080"
+  }
+}

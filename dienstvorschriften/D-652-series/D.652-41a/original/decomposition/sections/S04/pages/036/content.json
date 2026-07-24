@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-036",
+  "document_id": "d652-41a",
+  "page": 36,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "19. Schmieren beim Zusammenbau",
+    "en-GB": "19. Lubrication during assembly",
+    "es-ES": "19. Lubricación en el montaje"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 19,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p036-para01",
+      "text": {
+        "de": {
+          "plain": "… vollständig herausquillt und ein Fettkragen stehenbleibt. Auf diese Art gelangt sauberes Fett an die Lagerstellen und Schmutz kann nicht eindringen.",
+          "runs": [
+            {
+              "text": "… vollständig herausquillt und ein Fettkragen stehenbleibt. Auf diese Art gelangt sauberes Fett an die Lagerstellen und Schmutz kann nicht eindringen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "… completely oozes out and a collar of grease remains. In this way clean grease reaches the bearing points and dirt cannot enter.",
+          "runs": [
+            {
+              "text": "… completely oozes out and a collar of grease remains. In this way clean grease reaches the bearing points and dirt cannot enter.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "… rebose por completo y quede un collarín de grasa. Así, grasa limpia llega a los puntos de apoyo y la suciedad no puede entrar.",
+          "runs": [
+            {
+              "text": "… rebose por completo y quede un collarín de grasa. Así, grasa limpia llega a los puntos de apoyo y la suciedad no puede entrar.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p036-para02",
+      "text": {
+        "de": {
+          "plain": "Bereits beim Zusammenbau ist zu beachten, daß sämtliche Lagergelenke, Schiebekeilwellen und Gleitstellen der Dichtungsringe mit Fett leicht einzuschmieren sind und feste Keilwellen, Bremsknebelwellen, Zapfen usw. mit Kollag-Graphitfett eingefettet werden.",
+          "runs": [
+            {
+              "text": "Bereits beim Zusammenbau ist zu beachten, daß sämtliche Lagergelenke, Schiebekeilwellen und Gleitstellen der Dichtungsringe mit Fett leicht einzuschmieren sind und feste Keilwellen, Bremsknebelwellen, Zapfen usw. mit Kollag-Graphitfett eingefettet werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Already during assembly, note that all bearing joints (Lagergelenke), sliding-key shafts (Schiebekeilwellen) and the sliding faces of the sealing rings are to be lightly greased, and that fixed splined shafts (Keilwellen), brake-toggle shafts (Bremsknebelwellen), journals etc. are to be greased with Kollag graphite grease (Kollag-Graphitfett).",
+          "runs": [
+            {
+              "text": "Already during assembly, note that all bearing joints (Lagergelenke), sliding-key shafts (Schiebekeilwellen) and the sliding faces of the sealing rings are to be lightly greased, and that fixed splined shafts (Keilwellen), brake-toggle shafts (Bremsknebelwellen), journals etc. are to be greased with Kollag graphite grease (Kollag-Graphitfett).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ya durante el montaje, téngase en cuenta que todas las articulaciones de apoyo (Lagergelenke), los ejes de chaveta deslizante (Schiebekeilwellen) y las superficies de deslizamiento de los retenes deben engrasarse ligeramente, y que los ejes estriados fijos (Keilwellen), los ejes de leva de freno (Bremsknebelwellen), muñones, etc., deben engrasarse con grasa grafitada Kollag (Kollag-Graphitfett).",
+          "runs": [
+            {
+              "text": "Ya durante el montaje, téngase en cuenta que todas las articulaciones de apoyo (Lagergelenke), los ejes de chaveta deslizante (Schiebekeilwellen) y las superficies de deslizamiento de los retenes deben engrasarse ligeramente, y que los ejes estriados fijos (Keilwellen), los ejes de leva de freno (Bremsknebelwellen), muñones, etc., deben engrasarse con grasa grafitada Kollag (Kollag-Graphitfett).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-035",
+    "next": "d65241a-page-037"
+  }
+}

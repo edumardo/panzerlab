@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-075",
+  "document_id": "d652-41a",
+  "page": 75,
+  "section": "G",
+  "type": "figures",
+  "titles": {
+    "de": "Bild 2  Antriebsplan",
+    "en-GB": "Fig. 2  Drive-train diagram",
+    "es-ES": "Fig. 2  Esquema de la transmisión"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 39,
+    "side": "whole",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65241a-bild002",
+      "number": 2,
+      "captions": {
+        "de": {
+          "plain": "Bild 2  Antriebsplan",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "Fig. 2  Drive-train diagram",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "Fig. 2  Esquema de la transmisión",
+          "runs": []
+        }
+      },
+      "label_keys": {
+        "de": {
+          "plain": "Wechselgetriebe\nLuftkanal\nGelenkwelle\nHauptkupplung\nMotor\nTriebrad\nSeitenvorgelege\nLenkbremse\nSeitenwelle\nStützbremse\nVorgelege\nUmlaufgetriebe\nKegeltrieb\nWechselgetriebe\nGelenkwelle\nLuftkanal\nHauptkupplung\nMotor",
+          "runs": []
+        },
+        "en-GB": {
+          "plain": "gearbox (Wechselgetriebe)\nair duct (Luftkanal)\ncardan shaft (Gelenkwelle)\nmain clutch (Hauptkupplung)\nengine (Motor)\ndrive (sprocket) wheel (Triebrad)\nfinal drive (Seitenvorgelege)\nsteering brake (Lenkbremse)\nside (final-drive) shaft (Seitenwelle)\nsupport brake (Stützbremse)\nlayshaft (Vorgelege)\nepicyclic (planetary) gear unit (Umlaufgetriebe)\nbevel drive (Kegeltrieb)\ngearbox (Wechselgetriebe)\ncardan shaft (Gelenkwelle)\nair duct (Luftkanal)\nmain clutch (Hauptkupplung)\nengine (Motor)",
+          "runs": []
+        },
+        "es-ES": {
+          "plain": "caja de cambios (Wechselgetriebe)\nconducto de aire (Luftkanal)\nárbol de transmisión (Gelenkwelle)\nembrague principal (Hauptkupplung)\nmotor (Motor)\nrueda tractora (Triebrad)\nreductora final (Seitenvorgelege)\nfreno de dirección (Lenkbremse)\nsemieje (Seitenwelle)\nfreno de apoyo (Stützbremse)\nreductora (Vorgelege)\ngrupo de engranajes planetarios (Umlaufgetriebe)\npar cónico (Kegeltrieb)\ncaja de cambios (Wechselgetriebe)\nárbol de transmisión (Gelenkwelle)\nconducto de aire (Luftkanal)\nembrague principal (Hauptkupplung)\nmotor (Motor)",
+          "runs": []
+        }
+      }
+    }
+  ],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  },
+  "navigation": {
+    "previous": "d65241a-page-074",
+    "next": "d65241a-page-076"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-073",
+  "document_id": "d652-41a",
+  "page": 73,
+  "section": "G",
+  "type": "index",
+  "titles": {
+    "de": "G. Bilder",
+    "en-GB": "G. Plates",
+    "es-ES": "G. Láminas"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 37,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "de": "Bild 1  Ansicht des Fahrgestells",
+      "en-GB": "Fig. 1  View of the chassis",
+      "es-ES": "Fig. 1  Vista del chasis"
+    },
+    {
+      "de": "Bild 2  Antriebsplan",
+      "en-GB": "Fig. 2  Drive-train diagram",
+      "es-ES": "Fig. 2  Esquema de la transmisión"
+    },
+    {
+      "de": "Bild 3  Kühlanlage",
+      "en-GB": "Fig. 3  Cooling system",
+      "es-ES": "Fig. 3  Sistema de refrigeración"
+    },
+    {
+      "de": "Bild 4  Luftfilter",
+      "en-GB": "Fig. 4  Air filter",
+      "es-ES": "Fig. 4  Filtro de aire"
+    },
+    {
+      "de": "Bild 5  Kraftstofflagerung und -förderung",
+      "en-GB": "Fig. 5  Fuel storage and delivery",
+      "es-ES": "Fig. 5  Almacenamiento y alimentación de combustible"
+    },
+    {
+      "de": "Bild 6  Hauptkupplung",
+      "en-GB": "Fig. 6  Main clutch",
+      "es-ES": "Fig. 6  Embrague principal"
+    },
+    {
+      "de": "Bild 7  Wechselgetriebe",
+      "en-GB": "Fig. 7  Gearbox",
+      "es-ES": "Fig. 7  Caja de cambios"
+    },
+    {
+      "de": "Bild 8  Lenkgetriebe",
+      "en-GB": "Fig. 8  Steering gear",
+      "es-ES": "Fig. 8  Mecanismo de dirección"
+    },
+    {
+      "de": "Bild 9  Schnitt durch Kegeltrieb",
+      "en-GB": "Fig. 9  Section through the bevel drive",
+      "es-ES": "Fig. 9  Sección del par cónico"
+    },
+    {
+      "de": "Bild 10  Lenkgetriebe, Geradeausfahrt",
+      "en-GB": "Fig. 10  Steering gear, straight-ahead driving",
+      "es-ES": "Fig. 10  Mecanismo de dirección, marcha recta"
+    },
+    {
+      "de": "Bild 11  Lenkgetriebe, Lenken",
+      "en-GB": "Fig. 11  Steering gear, steering",
+      "es-ES": "Fig. 11  Mecanismo de dirección, dirección (giro)"
+    },
+    {
+      "de": "Bild 12  Stützbremse",
+      "en-GB": "Fig. 12  Support brake",
+      "es-ES": "Fig. 12  Freno de apoyo"
+    },
+    {
+      "de": "Bild 13  Lenkbremse",
+      "en-GB": "Fig. 13  Steering brake",
+      "es-ES": "Fig. 13  Freno de dirección"
+    },
+    {
+      "de": "Bild 14  Seitenvorgelege",
+      "en-GB": "Fig. 14  Final drive",
+      "es-ES": "Fig. 14  Reductora final"
+    },
+    {
+      "de": "Bild 15  Triebrad",
+      "en-GB": "Fig. 15  Drive (sprocket) wheel",
+      "es-ES": "Fig. 15  Rueda tractora"
+    },
+    {
+      "de": "Bild 16  Leitrad mit Kettenspanner",
+      "en-GB": "Fig. 16  Idler wheel with track tensioner",
+      "es-ES": "Fig. 16  Rueda tensora con tensor de cadena"
+    },
+    {
+      "de": "Bild 17  Laufwerk",
+      "en-GB": "Fig. 17  Running gear",
+      "es-ES": "Fig. 17  Tren de rodaje"
+    },
+    {
+      "de": "Bild 18  Laufwerk",
+      "en-GB": "Fig. 18  Running gear",
+      "es-ES": "Fig. 18  Tren de rodaje"
+    },
+    {
+      "de": "Bild 19  Stoßdämpfer",
+      "en-GB": "Fig. 19  Shock absorber",
+      "es-ES": "Fig. 19  Amortiguador"
+    },
+    {
+      "de": "Bild 20  Schaltplan",
+      "en-GB": "Fig. 20  Wiring diagram",
+      "es-ES": "Fig. 20  Esquema eléctrico"
+    },
+    {
+      "de": "Bild 21  Schmier- und Pflegeplan",
+      "en-GB": "Fig. 21  Lubrication and care chart",
+      "es-ES": "Fig. 21  Plan de lubricación y cuidado"
+    },
+    {
+      "de": "Bild 22  Schmier- und Pflegeanweisung",
+      "en-GB": "Fig. 22  Lubrication and care instructions",
+      "es-ES": "Fig. 22  Instrucciones de lubricación y cuidado"
+    },
+    {
+      "de": "Bild 23  Einstellbild der Stützbremse",
+      "en-GB": "Fig. 23  Adjustment diagram of the support brake",
+      "es-ES": "Fig. 23  Esquema de ajuste del freno de apoyo"
+    },
+    {
+      "de": "Bild 24  Einstellbild der Lenkbremse",
+      "en-GB": "Fig. 24  Adjustment diagram of the steering brake",
+      "es-ES": "Fig. 24  Esquema de ajuste del freno de dirección"
+    },
+    {
+      "de": "Bild 25  Gestänge zur Stütz- und Lenkbremse",
+      "en-GB": "Fig. 25  Linkage to the support and steering brake",
+      "es-ES": "Fig. 25  Varillaje del freno de apoyo y de dirección"
+    },
+    {
+      "de": "Bild 26  Lenkgetriebe mit Stützbremse, Ausbau",
+      "en-GB": "Fig. 26  Steering gear with support brake, removal",
+      "es-ES": "Fig. 26  Mecanismo de dirección con freno de apoyo, desmontaje"
+    },
+    {
+      "de": "Bild 27  Lenkgetriebe mit Stützbremse, Einbau",
+      "en-GB": "Fig. 27  Steering gear with support brake, installation",
+      "es-ES": "Fig. 27  Mecanismo de dirección con freno de apoyo, montaje"
+    },
+    {
+      "de": "Bild 28  Lenkgetriebe, Einbau; Lenkbremse, Aus- und Einbau",
+      "en-GB": "Fig. 28  Steering gear, installation; steering brake, removal and installation",
+      "es-ES": "Fig. 28  Mecanismo de dirección, montaje; freno de dirección, desmontaje y montaje"
+    },
+    {
+      "de": "Bild 29  Seitenvorgelege, Aus- und Einbau",
+      "en-GB": "Fig. 29  Final drive, removal and installation",
+      "es-ES": "Fig. 29  Reductora final, desmontaje y montaje"
+    },
+    {
+      "de": "Bild 30  Laufwerk, Ausbau",
+      "en-GB": "Fig. 30  Running gear, removal",
+      "es-ES": "Fig. 30  Tren de rodaje, desmontaje"
+    },
+    {
+      "de": "Bild 31  Laufwerk, Einbau",
+      "en-GB": "Fig. 31  Running gear, installation",
+      "es-ES": "Fig. 31  Tren de rodaje, montaje"
+    },
+    {
+      "de": "Berlin, den 1. 5. 43",
+      "en-GB": "Berlin, 1 May 1943",
+      "es-ES": "Berlín, 1 de mayo de 1943"
+    },
+    {
+      "de": "Oberkommando des Heeres",
+      "en-GB": "Army High Command",
+      "es-ES": "Alto Mando del Ejército"
+    },
+    {
+      "de": "Heereswaffenamt",
+      "en-GB": "Army Ordnance Office",
+      "es-ES": "Oficina de Armamento del Ejército"
+    },
+    {
+      "de": "Amtsgruppe für Entwicklung und Prüfung",
+      "en-GB": "Development and Testing Branch",
+      "es-ES": "Grupo de Desarrollo y Ensayos"
+    },
+    {
+      "de": "im Auftrag Holzhäuer",
+      "en-GB": "by order, Holzhäuer",
+      "es-ES": "por orden, Holzhäuer"
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-072",
+    "next": "d65241a-page-074"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-017",
+  "document_id": "d652-41a",
+  "page": 17,
+  "section": "S02",
+  "type": "text",
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 9,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p017-para01",
+      "text": {
+        "de": {
+          "plain": "gebracht und werden von der Kurbelwelle über eine Nockenscheibe angetrieben. Sie arbeiten als Membranpumpen mit Ein- und Auslaßventil. Der Saughub der Membrane erfolgt zwangsläufig durch den Nocken, der Druckhub durch eine Druckfeder.",
+          "runs": [
+            {
+              "text": "gebracht und werden von der Kurbelwelle über eine Nockenscheibe angetrieben. Sie arbeiten als Membranpumpen mit Ein- und Auslaßventil. Der Saughub der Membrane erfolgt zwangsläufig durch den Nocken, der Druckhub durch eine Druckfeder.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "and are driven from the crankshaft via a cam disc (Nockenscheibe). They work as diaphragm pumps (Membranpumpen) with an inlet and an outlet valve. The suction stroke of the diaphragm is produced positively by the cam, the delivery stroke by a pressure spring (Druckfeder).",
+          "runs": [
+            {
+              "text": "and are driven from the crankshaft via a cam disc (Nockenscheibe). They work as diaphragm pumps (Membranpumpen) with an inlet and an outlet valve. The suction stroke of the diaphragm is produced positively by the cam, the delivery stroke by a pressure spring (Druckfeder).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "y son accionadas desde el cigüeñal mediante un disco de levas (Nockenscheibe). Funcionan como bombas de membrana (Membranpumpen) con una válvula de entrada y otra de salida. La carrera de aspiración de la membrana la produce de forma positiva la leva; la de impulsión, un muelle de presión (Druckfeder).",
+          "runs": [
+            {
+              "text": "y son accionadas desde el cigüeñal mediante un disco de levas (Nockenscheibe). Funcionan como bombas de membrana (Membranpumpen) con una válvula de entrada y otra de salida. La carrera de aspiración de la membrana la produce de forma positiva la leva; la de impulsión, un muelle de presión (Druckfeder).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para02",
+      "text": {
+        "de": {
+          "plain": "Bei geschlossenem Schwimmernadelventil des Vergasers kann die Druckfeder die Membrane, bedingt durch den Rückdruck in der Kraftstoffleitung, nicht zurückdrücken; die Pumpe befindet sich dann im Leerlauf. Auf diese Art regelt sich die Förderung der Kraftstoffpumpen selbsttätig entsprechend dem Kraftstoffbedarf im Vergaser.",
+          "runs": [
+            {
+              "text": "Bei geschlossenem Schwimmernadelventil des Vergasers kann die Druckfeder die Membrane, bedingt durch den Rückdruck in der Kraftstoffleitung, nicht zurückdrücken; die Pumpe befindet sich dann im Leerlauf. Auf diese Art regelt sich die Förderung der Kraftstoffpumpen selbsttätig entsprechend dem Kraftstoffbedarf im Vergaser.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When the carburettor's float-needle valve (Schwimmernadelventil) is closed, the back-pressure in the fuel line prevents the pressure spring from pushing the diaphragm back, and the pump then idles. In this way the delivery of the fuel pumps regulates itself automatically according to the fuel demand at the carburettor.",
+          "runs": [
+            {
+              "text": "When the carburettor's float-needle valve (Schwimmernadelventil) is closed, the back-pressure in the fuel line prevents the pressure spring from pushing the diaphragm back, and the pump then idles. In this way the delivery of the fuel pumps regulates itself automatically according to the fuel demand at the carburettor.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cuando la válvula de aguja del flotador del carburador (Schwimmernadelventil) está cerrada, la contrapresión en la tubería de combustible impide que el muelle de presión empuje la membrana hacia atrás, y la bomba queda entonces en vacío. De este modo, el caudal de las bombas de combustible se regula por sí solo según la demanda de combustible en el carburador.",
+          "runs": [
+            {
+              "text": "Cuando la válvula de aguja del flotador del carburador (Schwimmernadelventil) está cerrada, la contrapresión en la tubería de combustible impide que el muelle de presión empuje la membrana hacia atrás, y la bomba queda entonces en vacío. De este modo, el caudal de las bombas de combustible se regula por sí solo según la demanda de combustible en el carburador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para03",
+      "text": {
+        "de": {
+          "plain": "Für das Anlassen ist eine elektrische Anlaßkraftstoffpumpe vorgesehen, die aber nur dazu dient, bei leeren Leitungen den Kraftstoff aus dem Behälter zum Vergaser zu fördern. Sie wird elektrisch angetrieben und arbeitet ebenfalls als Membranpumpe mit Ein- und Auslaßventil. Der Saughub erfolgt hier durch einen Elektromagneten, der Druckhub durch eine Druckfeder. Bei geschlossenem Schwimmernadelventil des Anlaßvergasers fördert auch diese Pumpe durch den Rückdruck in der Leitung keinen Kraftstoff.",
+          "runs": [
+            {
+              "text": "Für das Anlassen ist eine elektrische Anlaßkraftstoffpumpe vorgesehen, die aber nur dazu dient, bei leeren Leitungen den Kraftstoff aus dem Behälter zum Vergaser zu fördern. Sie wird elektrisch angetrieben und arbeitet ebenfalls als Membranpumpe mit Ein- und Auslaßventil. Der Saughub erfolgt hier durch einen Elektromagneten, der Druckhub durch eine Druckfeder. Bei geschlossenem Schwimmernadelventil des Anlaßvergasers fördert auch diese Pumpe durch den Rückdruck in der Leitung keinen Kraftstoff.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For starting, an electric priming fuel pump (elektrische Anlaßkraftstoffpumpe) is provided; it serves only to deliver fuel from the tank to the carburettor when the lines are empty. It is electrically driven and likewise works as a diaphragm pump with inlet and outlet valves. Here the suction stroke is produced by an electromagnet (Elektromagnet) and the delivery stroke by a pressure spring. When the float-needle valve of the starting carburettor (Anlaßvergaser) is closed, this pump too delivers no fuel, owing to the back-pressure in the line.",
+          "runs": [
+            {
+              "text": "For starting, an electric priming fuel pump (elektrische Anlaßkraftstoffpumpe) is provided; it serves only to deliver fuel from the tank to the carburettor when the lines are empty. It is electrically driven and likewise works as a diaphragm pump with inlet and outlet valves. Here the suction stroke is produced by an electromagnet (Elektromagnet) and the delivery stroke by a pressure spring. When the float-needle valve of the starting carburettor (Anlaßvergaser) is closed, this pump too delivers no fuel, owing to the back-pressure in the line.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para el arranque se dispone de una bomba eléctrica de cebado de combustible (elektrische Anlaßkraftstoffpumpe); solo sirve para llevar combustible del depósito al carburador cuando las tuberías están vacías. Es de accionamiento eléctrico y funciona asimismo como bomba de membrana con válvulas de entrada y salida. Aquí la carrera de aspiración la produce un electroimán (Elektromagnet) y la de impulsión un muelle de presión. Cuando la válvula de aguja del flotador del carburador de arranque (Anlaßvergaser) está cerrada, esta bomba tampoco envía combustible, debido a la contrapresión en la tubería.",
+          "runs": [
+            {
+              "text": "Para el arranque se dispone de una bomba eléctrica de cebado de combustible (elektrische Anlaßkraftstoffpumpe); solo sirve para llevar combustible del depósito al carburador cuando las tuberías están vacías. Es de accionamiento eléctrico y funciona asimismo como bomba de membrana con válvulas de entrada y salida. Aquí la carrera de aspiración la produce un electroimán (Elektromagnet) y la de impulsión un muelle de presión. Cuando la válvula de aguja del flotador del carburador de arranque (Anlaßvergaser) está cerrada, esta bomba tampoco envía combustible, debido a la contrapresión en la tubería.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para04",
+      "text": {
+        "de": {
+          "plain": "Die elektrische Anlaßpumpe wird durch Betätigen eines auf dem Schaltbrett befindlichen Druckknopfes bei Beginn der Fahrt eingeschaltet. Ihre Betätigung darf jedoch nur durch die kurze Zeit vor und während des Anlassens erfolgen. Die Anlaßpumpe ist erst nach dem Einstecken des Schaltschlüssels an die elektrische Leitung angeschlossen, d. h. sie kann erst dann durch den Druckknopf in Gang gesetzt werden. Nach dem Anspringen des Motors wird die Kraftstofförderung von den mechanischen Pumpen übernommen.",
+          "runs": [
+            {
+              "text": "Die elektrische Anlaßpumpe wird durch Betätigen eines auf dem Schaltbrett befindlichen Druckknopfes bei Beginn der Fahrt eingeschaltet. Ihre Betätigung darf jedoch nur durch die kurze Zeit vor und während des Anlassens erfolgen. Die Anlaßpumpe ist erst nach dem Einstecken des Schaltschlüssels an die elektrische Leitung angeschlossen, d. h. sie kann erst dann durch den Druckknopf in Gang gesetzt werden. Nach dem Anspringen des Motors wird die Kraftstofförderung von den mechanischen Pumpen übernommen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electric priming pump is switched on by a push-button on the instrument panel (Schaltbrett) at the start of a run. It must, however, only be operated for the short time before and during starting. The priming pump is connected to the electrical circuit only after the master switch key (Schaltschlüssel) has been inserted — i.e. it can only be set going by the push-button after that. Once the engine has fired, fuel delivery is taken over by the mechanical pumps.",
+          "runs": [
+            {
+              "text": "The electric priming pump is switched on by a push-button on the instrument panel (Schaltbrett) at the start of a run. It must, however, only be operated for the short time before and during starting. The priming pump is connected to the electrical circuit only after the master switch key (Schaltschlüssel) has been inserted — i.e. it can only be set going by the push-button after that. Once the engine has fired, fuel delivery is taken over by the mechanical pumps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La bomba eléctrica de cebado se conecta con un pulsador del cuadro de mandos (Schaltbrett) al inicio de la marcha. No obstante, solo debe accionarse durante el breve tiempo previo al arranque y durante este. La bomba de cebado solo queda conectada al circuito eléctrico después de introducir la llave de contacto (Schaltschlüssel) — es decir, solo entonces puede ponerse en marcha con el pulsador. Una vez que el motor ha arrancado, la alimentación de combustible pasa a las bombas mecánicas.",
+          "runs": [
+            {
+              "text": "La bomba eléctrica de cebado se conecta con un pulsador del cuadro de mandos (Schaltbrett) al inicio de la marcha. No obstante, solo debe accionarse durante el breve tiempo previo al arranque y durante este. La bomba de cebado solo queda conectada al circuito eléctrico después de introducir la llave de contacto (Schaltschlüssel) — es decir, solo entonces puede ponerse en marcha con el pulsador. Una vez que el motor ha arrancado, la alimentación de combustible pasa a las bombas mecánicas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para05",
+      "text": {
+        "de": {
+          "plain": "5. Hauptkupplung und Gelenkwelle, Bild 2 und 6",
+          "runs": [
+            {
+              "text": "5. Hauptkupplung und Gelenkwelle, Bild 2 und 6",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5. Main clutch and cardan shaft (Hauptkupplung und Gelenkwelle), Figures 2 and 6",
+          "runs": [
+            {
+              "text": "5. Main clutch and cardan shaft (Hauptkupplung und Gelenkwelle), Figures 2 and 6",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5. Embrague principal y árbol de transmisión (Hauptkupplung und Gelenkwelle), figuras 2 y 6",
+          "runs": [
+            {
+              "text": "5. Embrague principal y árbol de transmisión (Hauptkupplung und Gelenkwelle), figuras 2 y 6",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para06",
+      "text": {
+        "de": {
+          "plain": "a) Hauptkupplung, Bild 6",
+          "runs": [
+            {
+              "text": "a) Hauptkupplung, Bild 6",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "a) Main clutch (Hauptkupplung), Figure 6",
+          "runs": [
+            {
+              "text": "a) Main clutch (Hauptkupplung), Figure 6",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a) Embrague principal (Hauptkupplung), figura 6",
+          "runs": [
+            {
+              "text": "a) Embrague principal (Hauptkupplung), figura 6",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para07",
+      "text": {
+        "de": {
+          "plain": "Zum Unterbrechen des Kraftflusses vor dem Wechselgetriebe dient eine Hauptkupplung.",
+          "runs": [
+            {
+              "text": "Zum Unterbrechen des Kraftflusses vor dem Wechselgetriebe dient eine Hauptkupplung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A main clutch (Hauptkupplung) serves to interrupt the power flow (Kraftfluß) ahead of the gearbox.",
+          "runs": [
+            {
+              "text": "A main clutch (Hauptkupplung) serves to interrupt the power flow (Kraftfluß) ahead of the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Un embrague principal (Hauptkupplung) sirve para interrumpir el flujo de fuerza (Kraftfluß) antes de la caja de cambios.",
+          "runs": [
+            {
+              "text": "Un embrague principal (Hauptkupplung) sirve para interrumpir el flujo de fuerza (Kraftfluß) antes de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p017-para08",
+      "text": {
+        "de": {
+          "plain": "Diese Hauptkupplung besteht aus einem am Zylinderkurbelgehäuse befestigten Kupplungsgehäuse, in dem sich die einzelnen Kupplungsteile befinden. Diese Kupplungsteile bestehen aus einem mit dem Motorschwungrad verschraubten Zwischenstück mit dem Kupplungsdeckel, einer Kupplungswelle, einer im Kupplungsgehäuse gelagerten Ausrückwelle mit Ausrückgabel und Ausrücklager, einer Kupplungsdruckfeder, drei Ausrückhebeln, einer Kupplungsdruckplatte, zwei Kupplungstreibscheiben und drei auf das Keilwellenprofil aufgeschobenen Kupplungsscheiben.",
+          "runs": [
+            {
+              "text": "Diese Hauptkupplung besteht aus einem am Zylinderkurbelgehäuse befestigten Kupplungsgehäuse, in dem sich die einzelnen Kupplungsteile befinden. Diese Kupplungsteile bestehen aus einem mit dem Motorschwungrad verschraubten Zwischenstück mit dem Kupplungsdeckel, einer Kupplungswelle, einer im Kupplungsgehäuse gelagerten Ausrückwelle mit Ausrückgabel und Ausrücklager, einer Kupplungsdruckfeder, drei Ausrückhebeln, einer Kupplungsdruckplatte, zwei Kupplungstreibscheiben und drei auf das Keilwellenprofil aufgeschobenen Kupplungsscheiben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "This main clutch consists of a clutch housing (Kupplungsgehäuse) attached to the cylinder crankcase, containing the individual clutch parts. These are: an intermediate piece (Zwischenstück) bolted to the engine flywheel, together with the clutch cover (Kupplungsdeckel); a clutch shaft (Kupplungswelle); a release shaft (Ausrückwelle) mounted in the clutch housing, with release fork (Ausrückgabel) and release bearing (Ausrücklager); a clutch pressure spring (Kupplungsdruckfeder); three release levers (Ausrückhebel); a clutch pressure plate (Kupplungsdruckplatte); two clutch driving discs (Kupplungstreibscheiben); and three clutch discs (Kupplungsscheiben) slid onto the splined-shaft profile (Keilwellenprofil).",
+          "runs": [
+            {
+              "text": "This main clutch consists of a clutch housing (Kupplungsgehäuse) attached to the cylinder crankcase, containing the individual clutch parts. These are: an intermediate piece (Zwischenstück) bolted to the engine flywheel, together with the clutch cover (Kupplungsdeckel); a clutch shaft (Kupplungswelle); a release shaft (Ausrückwelle) mounted in the clutch housing, with release fork (Ausrückgabel) and release bearing (Ausrücklager); a clutch pressure spring (Kupplungsdruckfeder); three release levers (Ausrückhebel); a clutch pressure plate (Kupplungsdruckplatte); two clutch driving discs (Kupplungstreibscheiben); and three clutch discs (Kupplungsscheiben) slid onto the splined-shaft profile (Keilwellenprofil).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Este embrague principal se compone de una campana de embrague (Kupplungsgehäuse) fijada al bloque de cilindros, que contiene las piezas individuales del embrague. Estas son: una pieza intermedia (Zwischenstück) atornillada al volante del motor junto con la tapa del embrague (Kupplungsdeckel); un eje de embrague (Kupplungswelle); un eje de desembrague (Ausrückwelle) montado en la campana, con horquilla de desembrague (Ausrückgabel) y cojinete de desembrague (Ausrücklager); un muelle de presión del embrague (Kupplungsdruckfeder); tres palancas de desembrague (Ausrückhebel); un plato de presión (Kupplungsdruckplatte); dos discos de arrastre (Kupplungstreibscheiben); y tres discos de embrague (Kupplungsscheiben) montados sobre el perfil estriado del eje (Keilwellenprofil).",
+          "runs": [
+            {
+              "text": "Este embrague principal se compone de una campana de embrague (Kupplungsgehäuse) fijada al bloque de cilindros, que contiene las piezas individuales del embrague. Estas son: una pieza intermedia (Zwischenstück) atornillada al volante del motor junto con la tapa del embrague (Kupplungsdeckel); un eje de embrague (Kupplungswelle); un eje de desembrague (Ausrückwelle) montado en la campana, con horquilla de desembrague (Ausrückgabel) y cojinete de desembrague (Ausrücklager); un muelle de presión del embrague (Kupplungsdruckfeder); tres palancas de desembrague (Ausrückhebel); un plato de presión (Kupplungsdruckplatte); dos discos de arrastre (Kupplungstreibscheiben); y tres discos de embrague (Kupplungsscheiben) montados sobre el perfil estriado del eje (Keilwellenprofil).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-016",
+    "next": "d65241a-page-018"
+  }
+}

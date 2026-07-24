@@ -1,0 +1,13 @@
+{
+  "page": 6,
+  "section": "FrontMatter",
+  "pdf_page": 4,
+  "side": "left",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "draft",
+  "translation_en_status": "draft",
+  "translation_es_status": "draft",
+  "figures": []
+}

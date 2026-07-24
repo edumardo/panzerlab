@@ -1,0 +1,22 @@
+{
+  "page": 77,
+  "section": "G",
+  "pdf_page": 41,
+  "side": "whole",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "draft",
+  "translation_en_status": "draft",
+  "translation_es_status": "draft",
+  "figures": [
+    {
+      "number": 4,
+      "status": "draft"
+    },
+    {
+      "number": 5,
+      "status": "draft"
+    }
+  ]
+}

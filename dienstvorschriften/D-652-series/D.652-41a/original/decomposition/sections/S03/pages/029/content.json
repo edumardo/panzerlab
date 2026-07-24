@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-029",
+  "document_id": "d652-41a",
+  "page": 29,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "d) Kraftstoffabsperrhahn",
+    "en-GB": "d) Fuel shut-off cock",
+    "es-ES": "d) Grifo de cierre de combustible"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 15,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-029-para01",
+      "text": {
+        "de": {
+          "plain": "Der Kraftstoffabsperrhahn wird vom Kampfraum an der Trennwand durch einen Hebel mit Welle und Gestänge geschlossen bzw. geöffnet.",
+          "runs": [
+            {
+              "text": "Der Kraftstoffabsperrhahn wird vom Kampfraum an der Trennwand durch einen Hebel mit Welle und Gestänge geschlossen bzw. geöffnet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The fuel shut-off cock is closed or opened from the fighting compartment, at the partition wall, by a lever with shaft and linkage.",
+          "runs": [
+            {
+              "text": "The fuel shut-off cock is closed or opened from the fighting compartment, at the partition wall, by a lever with shaft and linkage.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El grifo de cierre de combustible se cierra o abre desde el compartimento de combate, en el mamparo, mediante una palanca con eje y varillaje.",
+          "runs": [
+            {
+              "text": "El grifo de cierre de combustible se cierra o abre desde el compartimento de combate, en el mamparo, mediante una palanca con eje y varillaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para02",
+      "text": {
+        "de": {
+          "plain": "e) Bodenventil unter dem Kraftstoffbehälter",
+          "runs": [
+            {
+              "text": "e) Bodenventil unter dem Kraftstoffbehälter",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "e) Bottom valve under the fuel tank",
+          "runs": [
+            {
+              "text": "e) Bottom valve under the fuel tank",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "e) Válvula de fondo bajo el depósito de combustible",
+          "runs": [
+            {
+              "text": "e) Válvula de fondo bajo el depósito de combustible",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para03",
+      "text": {
+        "de": {
+          "plain": "Das Bodenventil wird durch einen Hebel an der Zwischenwand über Welle und Gestänge betätigt.",
+          "runs": [
+            {
+              "text": "Das Bodenventil wird durch einen Hebel an der Zwischenwand über Welle und Gestänge betätigt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The bottom valve is operated by a lever on the bulkhead (Zwischenwand) via shaft and linkage.",
+          "runs": [
+            {
+              "text": "The bottom valve is operated by a lever on the bulkhead (Zwischenwand) via shaft and linkage.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La válvula de fondo se acciona mediante una palanca en el mamparo (Zwischenwand) a través de eje y varillaje.",
+          "runs": [
+            {
+              "text": "La válvula de fondo se acciona mediante una palanca en el mamparo (Zwischenwand) a través de eje y varillaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para04",
+      "text": {
+        "de": {
+          "plain": "f) Kühlerklappenverstellung",
+          "runs": [
+            {
+              "text": "f) Kühlerklappenverstellung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "f) Radiator-flap adjustment",
+          "runs": [
+            {
+              "text": "f) Radiator-flap adjustment",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "f) Regulación de las compuertas del radiador",
+          "runs": [
+            {
+              "text": "f) Regulación de las compuertas del radiador",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para05",
+      "text": {
+        "de": {
+          "plain": "Verstellt werden die Kühlerklappen durch einen Handhebel an der Trennwand über ein Gestänge.",
+          "runs": [
+            {
+              "text": "Verstellt werden die Kühlerklappen durch einen Handhebel an der Trennwand über ein Gestänge.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The radiator flaps (Kühlerklappen) are adjusted by a hand lever on the partition wall via a linkage.",
+          "runs": [
+            {
+              "text": "The radiator flaps (Kühlerklappen) are adjusted by a hand lever on the partition wall via a linkage.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las compuertas del radiador (Kühlerklappen) se regulan mediante una palanca de mano en el mamparo, a través de un varillaje.",
+          "runs": [
+            {
+              "text": "Las compuertas del radiador (Kühlerklappen) se regulan mediante una palanca de mano en el mamparo, a través de un varillaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para06",
+      "text": {
+        "de": {
+          "plain": "g) Fußbremse",
+          "runs": [
+            {
+              "text": "g) Fußbremse",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "g) Foot brake",
+          "runs": [
+            {
+              "text": "g) Foot brake",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "g) Freno de pie",
+          "runs": [
+            {
+              "text": "g) Freno de pie",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para07",
+      "text": {
+        "de": {
+          "plain": "Der Bremsfußhebel sitzt auf einer im Bug gelagerten Welle und wirkt über ein Gestänge auf beide Lenkbremsen.",
+          "runs": [
+            {
+              "text": "Der Bremsfußhebel sitzt auf einer im Bug gelagerten Welle und wirkt über ein Gestänge auf beide Lenkbremsen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The brake pedal (Bremsfußhebel) sits on a shaft mounted in the bow and acts through a linkage on both steering brakes.",
+          "runs": [
+            {
+              "text": "The brake pedal (Bremsfußhebel) sits on a shaft mounted in the bow and acts through a linkage on both steering brakes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El pedal de freno (Bremsfußhebel) va montado sobre un eje alojado en la proa y actúa mediante un varillaje sobre ambos frenos de dirección.",
+          "runs": [
+            {
+              "text": "El pedal de freno (Bremsfußhebel) va montado sobre un eje alojado en la proa y actúa mediante un varillaje sobre ambos frenos de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para08",
+      "text": {
+        "de": {
+          "plain": "h) Hauptkupplung",
+          "runs": [
+            {
+              "text": "h) Hauptkupplung",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "h) Main clutch",
+          "runs": [
+            {
+              "text": "h) Main clutch",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "h) Embrague principal",
+          "runs": [
+            {
+              "text": "h) Embrague principal",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para09",
+      "text": {
+        "de": {
+          "plain": "Der Kupplungsfußhebel betätigt über ein Gestänge mit den dazugehörenden Hebeln und Wellen das Ausrücklager der Hauptkupplung.",
+          "runs": [
+            {
+              "text": "Der Kupplungsfußhebel betätigt über ein Gestänge mit den dazugehörenden Hebeln und Wellen das Ausrücklager der Hauptkupplung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The clutch pedal operates, through a linkage with its associated levers and shafts, the release bearing of the main clutch.",
+          "runs": [
+            {
+              "text": "The clutch pedal operates, through a linkage with its associated levers and shafts, the release bearing of the main clutch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El pedal de embrague acciona, mediante un varillaje con sus palancas y ejes correspondientes, el cojinete de desembrague del embrague principal.",
+          "runs": [
+            {
+              "text": "El pedal de embrague acciona, mediante un varillaje con sus palancas y ejes correspondientes, el cojinete de desembrague del embrague principal.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para10",
+      "text": {
+        "de": {
+          "plain": "i) Vergaser",
+          "runs": [
+            {
+              "text": "i) Vergaser",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "i) Carburettor",
+          "runs": [
+            {
+              "text": "i) Carburettor",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "i) Carburador",
+          "runs": [
+            {
+              "text": "i) Carburador",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para11",
+      "text": {
+        "de": {
+          "plain": "Der Fahrfußhebel sitzt ebenfalls auf einer Welle vor den Steuerböcken und betätigt durch ein Gestänge die Drosselklappe am Vergaser.",
+          "runs": [
+            {
+              "text": "Der Fahrfußhebel sitzt ebenfalls auf einer Welle vor den Steuerböcken und betätigt durch ein Gestänge die Drosselklappe am Vergaser.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The accelerator pedal (Fahrfußhebel) likewise sits on a shaft in front of the control brackets (Steuerböcke) and operates the throttle butterfly (Drosselklappe) at the carburettor through a linkage.",
+          "runs": [
+            {
+              "text": "The accelerator pedal (Fahrfußhebel) likewise sits on a shaft in front of the control brackets (Steuerböcke) and operates the throttle butterfly (Drosselklappe) at the carburettor through a linkage.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El pedal del acelerador (Fahrfußhebel) va montado asimismo sobre un eje delante de los soportes de mando (Steuerböcke) y acciona la mariposa (Drosselklappe) del carburador a través de un varillaje.",
+          "runs": [
+            {
+              "text": "El pedal del acelerador (Fahrfußhebel) va montado asimismo sobre un eje delante de los soportes de mando (Steuerböcke) y acciona la mariposa (Drosselklappe) del carburador a través de un varillaje.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para12",
+      "text": {
+        "de": {
+          "plain": "Die vom Bug nach dem Heckraum führenden Verbindungsstangen und Züge sind im Wellentunnel untergebracht.",
+          "runs": [
+            {
+              "text": "Die vom Bug nach dem Heckraum führenden Verbindungsstangen und Züge sind im Wellentunnel untergebracht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The connecting rods and control cables (Züge) running from the bow to the rear compartment are housed in the shaft tunnel (Wellentunnel).",
+          "runs": [
+            {
+              "text": "The connecting rods and control cables (Züge) running from the bow to the rear compartment are housed in the shaft tunnel (Wellentunnel).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Las bielas y los cables de mando (Züge) que van de la proa al compartimento trasero se alojan en el túnel del árbol (Wellentunnel).",
+          "runs": [
+            {
+              "text": "Las bielas y los cables de mando (Züge) que van de la proa al compartimento trasero se alojan en el túnel del árbol (Wellentunnel).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para13",
+      "text": {
+        "de": {
+          "plain": "13. Elektrische Ausrüstung, Bild 20",
+          "runs": [
+            {
+              "text": "13. Elektrische Ausrüstung, Bild 20",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "13. Electrical equipment, Figure 20",
+          "runs": [
+            {
+              "text": "13. Electrical equipment, Figure 20",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "13. Equipo eléctrico, figura 20",
+          "runs": [
+            {
+              "text": "13. Equipo eléctrico, figura 20",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para14",
+      "text": {
+        "de": {
+          "plain": "Das Fahrgestell ist mit einer 12 V Bosch-Licht- und Anlasseranlage ausgerüstet.",
+          "runs": [
+            {
+              "text": "Das Fahrgestell ist mit einer 12 V Bosch-Licht- und Anlasseranlage ausgerüstet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The chassis is equipped with a 12 V Bosch lighting and starting system.",
+          "runs": [
+            {
+              "text": "The chassis is equipped with a 12 V Bosch lighting and starting system.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El chasis está dotado de una instalación Bosch de alumbrado y arranque de 12 V.",
+          "runs": [
+            {
+              "text": "El chasis está dotado de una instalación Bosch de alumbrado y arranque de 12 V.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para15",
+      "text": {
+        "de": {
+          "plain": "Eine 12 V Bosch-Lichtmaschine mit einer Höchstleistung von 600 W versorgt die Verbrauchsstellen und lädt die beiden Varta-Sammler von je 12 V, 105 A/h auf. Zum selbsttätigen Regeln der Spannung der Lichtmaschine ist ein Reglerschalter eingebaut. Bei Stillstand des Motors werden die elektrischen Geräte durch die Sammler gespeist.",
+          "runs": [
+            {
+              "text": "Eine 12 V Bosch-Lichtmaschine mit einer Höchstleistung von 600 W versorgt die Verbrauchsstellen und lädt die beiden Varta-Sammler von je 12 V, 105 A/h auf. Zum selbsttätigen Regeln der Spannung der Lichtmaschine ist ein Reglerschalter eingebaut. Bei Stillstand des Motors werden die elektrischen Geräte durch die Sammler gespeist.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "A 12 V Bosch dynamo (Lichtmaschine) of 600 W maximum output supplies the consumers and charges the two Varta batteries (Sammler) of 12 V, 105 Ah each. A regulator switch (Reglerschalter) is fitted to regulate the dynamo voltage automatically. When the engine is stopped, the electrical equipment is fed by the batteries.",
+          "runs": [
+            {
+              "text": "A 12 V Bosch dynamo (Lichtmaschine) of 600 W maximum output supplies the consumers and charges the two Varta batteries (Sammler) of 12 V, 105 Ah each. A regulator switch (Reglerschalter) is fitted to regulate the dynamo voltage automatically. When the engine is stopped, the electrical equipment is fed by the batteries.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Una dinamo Bosch de 12 V y 600 W de potencia máxima (Lichtmaschine) alimenta los consumidores y carga los dos acumuladores Varta (Sammler) de 12 V y 105 Ah cada uno. Para regular automáticamente la tensión de la dinamo se dispone un regulador conmutador (Reglerschalter). Con el motor parado, el equipo eléctrico se alimenta de los acumuladores.",
+          "runs": [
+            {
+              "text": "Una dinamo Bosch de 12 V y 600 W de potencia máxima (Lichtmaschine) alimenta los consumidores y carga los dos acumuladores Varta (Sammler) de 12 V y 105 Ah cada uno. Para regular automáticamente la tensión de la dinamo se dispone un regulador conmutador (Reglerschalter). Con el motor parado, el equipo eléctrico se alimenta de los acumuladores.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-029-para16",
+      "text": {
+        "de": {
+          "plain": "Der elektrische Bosch-Anlasser benötigt eine Spannung von 24 V. Um diese Spannung zu erreichen, werden durch den Druckknopf auf der Schalttafel die beiden Sammler hintereinander geschaltet.",
+          "runs": [
+            {
+              "text": "Der elektrische Bosch-Anlasser benötigt eine Spannung von 24 V. Um diese Spannung zu erreichen, werden durch den Druckknopf auf der Schalttafel die beiden Sammler hintereinander geschaltet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The electric Bosch starter requires 24 V. To reach this voltage, the push-button on the instrument panel (Schalttafel) connects the two batteries in series.",
+          "runs": [
+            {
+              "text": "The electric Bosch starter requires 24 V. To reach this voltage, the push-button on the instrument panel (Schalttafel) connects the two batteries in series.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El motor de arranque eléctrico Bosch requiere 24 V. Para alcanzar esta tensión, el pulsador del cuadro de mandos (Schalttafel) conecta en serie los dos acumuladores.",
+          "runs": [
+            {
+              "text": "El motor de arranque eléctrico Bosch requiere 24 V. Para alcanzar esta tensión, el pulsador del cuadro de mandos (Schalttafel) conecta en serie los dos acumuladores.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-028",
+    "next": "d65241a-page-030"
+  }
+}

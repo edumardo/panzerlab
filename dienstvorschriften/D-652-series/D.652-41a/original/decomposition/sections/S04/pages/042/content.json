@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-042",
+  "document_id": "d652-41a",
+  "page": 42,
+  "section": "S04",
+  "type": "text",
+  "titles": {
+    "de": "c) Luftfilter, Bild 4 — d) Kraftstoffanlage, Bild 5 — 22. Aus- und Einbau der Gelenkwelle (Sonderwerkzeug III DB 20)",
+    "en-GB": "c) Air filter, Figure 4 — d) Fuel system, Figure 5 — 22. Removal and installation of the cardan shaft (special tool III DB 20)",
+    "es-ES": "c) Filtro de aire, figura 4 — d) Sistema de combustible, figura 5 — 22. Desmontaje y montaje del árbol de transmisión (herramienta especial III DB 20)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 22,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-p042-para01",
+      "text": {
+        "de": {
+          "plain": "Die Luftfilter sind nach 250 km zu reinigen, bei besonders starkem Staubanfall nach jeder Fahrt.",
+          "runs": [
+            {
+              "text": "Die Luftfilter sind nach 250 km zu reinigen, bei besonders starkem Staubanfall nach jeder Fahrt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clean the air filters after 250 km, and after every run in especially heavy dust.",
+          "runs": [
+            {
+              "text": "Clean the air filters after 250 km, and after every run in especially heavy dust.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpie los filtros de aire cada 250 km, y tras cada marcha en polvo especialmente intenso.",
+          "runs": [
+            {
+              "text": "Limpie los filtros de aire cada 250 km, y tras cada marcha en polvo especialmente intenso.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para02",
+      "text": {
+        "de": {
+          "plain": "Reinigen der Luftfilter",
+          "runs": [
+            {
+              "text": "Reinigen der Luftfilter",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Cleaning the air filters",
+          "runs": [
+            {
+              "text": "Cleaning the air filters",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Limpieza de los filtros de aire",
+          "runs": [
+            {
+              "text": "Limpieza de los filtros de aire",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para03",
+      "text": {
+        "de": {
+          "plain": "Nach Abnahme des Filterbehälters vom Gußkopf des Saugrohres Filtereinsatz herausnehmen. Einsatz und Gehäuse mit Reinigungsflüssigkeit gründlich auswaschen und Filter wieder zusammenbauen, dann bis zur Ölstandmarke mit Motorenöl füllen.",
+          "runs": [
+            {
+              "text": "Nach Abnahme des Filterbehälters vom Gußkopf des Saugrohres Filtereinsatz herausnehmen. Einsatz und Gehäuse mit Reinigungsflüssigkeit gründlich auswaschen und Filter wieder zusammenbauen, dann bis zur Ölstandmarke mit Motorenöl füllen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "After removing the filter container from the cast head of the intake pipe, take out the filter element. Wash the element and housing thoroughly with cleaning fluid and reassemble the filter, then fill with engine oil up to the oil-level mark.",
+          "runs": [
+            {
+              "text": "After removing the filter container from the cast head of the intake pipe, take out the filter element. Wash the element and housing thoroughly with cleaning fluid and reassemble the filter, then fill with engine oil up to the oil-level mark.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Tras retirar el recipiente del filtro del cabezal fundido del tubo de admisión, extraiga el elemento filtrante. Lave a fondo el elemento y la carcasa con líquido de limpieza y vuelva a montar el filtro; llénelo después con aceite de motor hasta la marca de nivel.",
+          "runs": [
+            {
+              "text": "Tras retirar el recipiente del filtro del cabezal fundido del tubo de admisión, extraiga el elemento filtrante. Lave a fondo el elemento y la carcasa con líquido de limpieza y vuelva a montar el filtro; llénelo después con aceite de motor hasta la marca de nivel.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para04",
+      "text": {
+        "de": {
+          "plain": "Beim Zusammenbau des Filters ist besonders darauf zu achten, daß die ringförmige Dichtung zwischen Filterbehälter und Krümmerkopf unbeschädigt und sauber ist.",
+          "runs": [
+            {
+              "text": "Beim Zusammenbau des Filters ist besonders darauf zu achten, daß die ringförmige Dichtung zwischen Filterbehälter und Krümmerkopf unbeschädigt und sauber ist.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When reassembling the filter, take particular care that the ring seal between the filter container and the elbow head is undamaged and clean.",
+          "runs": [
+            {
+              "text": "When reassembling the filter, take particular care that the ring seal between the filter container and the elbow head is undamaged and clean.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al volver a montar el filtro, cuide especialmente que la junta anular entre el recipiente del filtro y el cabezal del codo esté sin daños y limpia.",
+          "runs": [
+            {
+              "text": "Al volver a montar el filtro, cuide especialmente que la junta anular entre el recipiente del filtro y el cabezal del codo esté sin daños y limpia.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para05",
+      "text": {
+        "de": {
+          "plain": "Beim Auffüllen des Kraftstoffbehälters ist darauf zu achten, daß im Einfüllstutzen das engmaschige Sieb vorhanden und unbeschädigt ist. Beschädigte Siebe sofort ersetzen. Nach dem Einfüllen muß die Verschraubung des Einfüllstutzens sowie der Deckel im Heckpanzer geschlossen werden.",
+          "runs": [
+            {
+              "text": "Beim Auffüllen des Kraftstoffbehälters ist darauf zu achten, daß im Einfüllstutzen das engmaschige Sieb vorhanden und unbeschädigt ist. Beschädigte Siebe sofort ersetzen. Nach dem Einfüllen muß die Verschraubung des Einfüllstutzens sowie der Deckel im Heckpanzer geschlossen werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When filling the fuel tank, ensure that the fine-mesh strainer is present and undamaged in the filler neck. Replace damaged strainers at once. After filling, the filler-neck cap and the cover in the rear armour must be closed.",
+          "runs": [
+            {
+              "text": "When filling the fuel tank, ensure that the fine-mesh strainer is present and undamaged in the filler neck. Replace damaged strainers at once. After filling, the filler-neck cap and the cover in the rear armour must be closed.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al llenar el depósito de combustible, asegúrese de que el colador de malla fina esté presente y sin daños en el cuello de llenado. Sustituya de inmediato los coladores dañados. Tras el llenado, hay que cerrar el tapón del cuello de llenado y la tapa del blindaje trasero.",
+          "runs": [
+            {
+              "text": "Al llenar el depósito de combustible, asegúrese de que el colador de malla fina esté presente y sin daños en el cuello de llenado. Sustituya de inmediato los coladores dañados. Tras el llenado, hay que cerrar el tapón del cuello de llenado y la tapa del blindaje trasero.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para06",
+      "text": {
+        "de": {
+          "plain": "Wurde der Kraftstoffbehälter ausgebaut, so sind nach Zusammenbau die Leitungen sowie der Kraftstoffbehälter auf Dichtheit zu prüfen. Hierbei wird die Anlage unter einen Druck von 0,3 atü gesetzt, die Rohrverbindungen werden mit Seifenwasser bestrichen.",
+          "runs": [
+            {
+              "text": "Wurde der Kraftstoffbehälter ausgebaut, so sind nach Zusammenbau die Leitungen sowie der Kraftstoffbehälter auf Dichtheit zu prüfen. Hierbei wird die Anlage unter einen Druck von 0,3 atü gesetzt, die Rohrverbindungen werden mit Seifenwasser bestrichen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If the fuel tank has been removed, check the lines and the fuel tank for leaks after reassembly. For this, put the system under a pressure of 0.3 atmospheres gauge (atü) and coat the pipe joints with soapy water.",
+          "runs": [
+            {
+              "text": "If the fuel tank has been removed, check the lines and the fuel tank for leaks after reassembly. For this, put the system under a pressure of 0.3 atmospheres gauge (atü) and coat the pipe joints with soapy water.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si se ha desmontado el depósito de combustible, compruebe la estanqueidad de las tuberías y del depósito tras el montaje. Para ello, someta el sistema a una presión de 0,3 atmósferas (atü) y unte las uniones de tubería con agua jabonosa.",
+          "runs": [
+            {
+              "text": "Si se ha desmontado el depósito de combustible, compruebe la estanqueidad de las tuberías y del depósito tras el montaje. Para ello, someta el sistema a una presión de 0,3 atmósferas (atü) y unte las uniones de tubería con agua jabonosa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para07",
+      "text": {
+        "de": {
+          "plain": "Alle 500 km ist an den mechanischen Kraftstoffpumpen das angesammelte Wasser durch Lösen der Schlitzschraube unter dem Eintrittsstutzen abzulassen und das Filtersieb zu säubern. An der elektrischen Kraftstoffpumpe ist die Glasglocke und das Sieb zu reinigen.",
+          "runs": [
+            {
+              "text": "Alle 500 km ist an den mechanischen Kraftstoffpumpen das angesammelte Wasser durch Lösen der Schlitzschraube unter dem Eintrittsstutzen abzulassen und das Filtersieb zu säubern. An der elektrischen Kraftstoffpumpe ist die Glasglocke und das Sieb zu reinigen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Every 500 km, drain the accumulated water at the mechanical fuel pumps by undoing the slotted screw under the inlet stub, and clean the filter strainer. On the electric fuel pump, clean the glass bowl (Glasglocke) and the strainer.",
+          "runs": [
+            {
+              "text": "Every 500 km, drain the accumulated water at the mechanical fuel pumps by undoing the slotted screw under the inlet stub, and clean the filter strainer. On the electric fuel pump, clean the glass bowl (Glasglocke) and the strainer.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Cada 500 km, vacíe el agua acumulada en las bombas mecánicas de combustible aflojando el tornillo ranurado bajo la tubuladura de entrada, y limpie el colador del filtro. En la bomba eléctrica de combustible, limpie el vaso de vidrio (Glasglocke) y el colador.",
+          "runs": [
+            {
+              "text": "Cada 500 km, vacíe el agua acumulada en las bombas mecánicas de combustible aflojando el tornillo ranurado bajo la tubuladura de entrada, y limpie el colador del filtro. En la bomba eléctrica de combustible, limpie el vaso de vidrio (Glasglocke) y el colador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para08",
+      "text": {
+        "de": {
+          "plain": "Ausbau:",
+          "runs": [
+            {
+              "text": "Ausbau:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Removal:",
+          "runs": [
+            {
+              "text": "Removal:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontaje:",
+          "runs": [
+            {
+              "text": "Desmontaje:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para09",
+      "text": {
+        "de": {
+          "plain": "Wellentunnel abnehmen. Lüfter im Wechselgetriebe von der Flanschwelle lösen und aus dem Lüftergehäuse nach hinten herausziehen. Flanschwelle sowie mit der Kupplungswelle mit Hilfe des Stellschlüssels III DB 20 lösen.",
+          "runs": [
+            {
+              "text": "Wellentunnel abnehmen. Lüfter im Wechselgetriebe von der Flanschwelle lösen und aus dem Lüftergehäuse nach hinten herausziehen. Flanschwelle sowie mit der Kupplungswelle mit Hilfe des Stellschlüssels III DB 20 lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the shaft tunnel (Wellentunnel). Undo the fan in the gearbox from the flanged shaft and pull it out of the fan housing to the rear. Undo the flanged shaft, and the clutch shaft, with the aid of setting spanner III DB 20.",
+          "runs": [
+            {
+              "text": "Remove the shaft tunnel (Wellentunnel). Undo the fan in the gearbox from the flanged shaft and pull it out of the fan housing to the rear. Undo the flanged shaft, and the clutch shaft, with the aid of setting spanner III DB 20.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retire el túnel del árbol (Wellentunnel). Suelte del eje embridado el ventilador situado en la caja de cambios y sáquelo hacia atrás de la carcasa del ventilador. Suelte el eje embridado, y el eje de embrague, con ayuda de la llave de reglaje III DB 20.",
+          "runs": [
+            {
+              "text": "Retire el túnel del árbol (Wellentunnel). Suelte del eje embridado el ventilador situado en la caja de cambios y sáquelo hacia atrás de la carcasa del ventilador. Suelte el eje embridado, y el eje de embrague, con ayuda de la llave de reglaje III DB 20.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-p042-para10",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle nach oben aus dem Fahrzeug herausheben. Flanschwelle aus dem Getriebeblock herausziehen.",
+          "runs": [
+            {
+              "text": "Gelenkwelle nach oben aus dem Fahrzeug herausheben. Flanschwelle aus dem Getriebeblock herausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the cardan shaft up out of the vehicle. Pull the flanged shaft out of the gear block.",
+          "runs": [
+            {
+              "text": "Lift the cardan shaft up out of the vehicle. Pull the flanged shaft out of the gear block.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ice el árbol de transmisión hacia arriba fuera del vehículo. Extraiga el eje embridado del bloque de engranajes.",
+          "runs": [
+            {
+              "text": "Ice el árbol de transmisión hacia arriba fuera del vehículo. Extraiga el eje embridado del bloque de engranajes.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-041",
+    "next": "d65241a-page-043"
+  }
+}

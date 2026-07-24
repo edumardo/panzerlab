@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "id": "d65241a-page-032",
+  "document_id": "d652-41a",
+  "page": 32,
+  "section": "S03",
+  "type": "text",
+  "titles": {
+    "de": "15. Werkzeug",
+    "en-GB": "15. Tools",
+    "es-ES": "15. Herramienta"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_page": 17,
+    "side": "left",
+    "status": "extracted_clean"
+  },
+  "paragraphs": [
+    {
+      "id": "d65241a-page-032-para01",
+      "text": {
+        "de": {
+          "plain": "1 Kraftstoffvorratszeiger mit Zugknopf für die zugehörige Luftpumpe;",
+          "runs": [
+            {
+              "text": "1 Kraftstoffvorratszeiger mit Zugknopf für die zugehörige Luftpumpe;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 fuel-contents gauge (Kraftstoffvorratszeiger) with a pull-knob for its air pump;",
+          "runs": [
+            {
+              "text": "1 fuel-contents gauge (Kraftstoffvorratszeiger) with a pull-knob for its air pump;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 indicador de nivel de combustible (Kraftstoffvorratszeiger) con un tirador para su bomba de aire;",
+          "runs": [
+            {
+              "text": "1 indicador de nivel de combustible (Kraftstoffvorratszeiger) con un tirador para su bomba de aire;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para02",
+      "text": {
+        "de": {
+          "plain": "1 Hebel zum Betätigen des Kraftstoffabsperrhahnes;",
+          "runs": [
+            {
+              "text": "1 Hebel zum Betätigen des Kraftstoffabsperrhahnes;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 lever for operating the fuel shut-off cock;",
+          "runs": [
+            {
+              "text": "1 lever for operating the fuel shut-off cock;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 palanca para accionar el grifo de cierre de combustible;",
+          "runs": [
+            {
+              "text": "1 palanca para accionar el grifo de cierre de combustible;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para03",
+      "text": {
+        "de": {
+          "plain": "1 Hebel zum Betätigen des Bodenventils unter dem Kraftstoffbehälter;",
+          "runs": [
+            {
+              "text": "1 Hebel zum Betätigen des Bodenventils unter dem Kraftstoffbehälter;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 lever for operating the bottom valve under the fuel tank;",
+          "runs": [
+            {
+              "text": "1 lever for operating the bottom valve under the fuel tank;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 palanca para accionar la válvula de fondo bajo el depósito de combustible;",
+          "runs": [
+            {
+              "text": "1 palanca para accionar la válvula de fondo bajo el depósito de combustible;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para04",
+      "text": {
+        "de": {
+          "plain": "1 Handgriff zum Verstellen der Klappen vor den Lufteintrittsöffnungen im Heckpanzer.",
+          "runs": [
+            {
+              "text": "1 Handgriff zum Verstellen der Klappen vor den Lufteintrittsöffnungen im Heckpanzer.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 handle for adjusting the flaps in front of the air-inlet openings in the rear armour.",
+          "runs": [
+            {
+              "text": "1 handle for adjusting the flaps in front of the air-inlet openings in the rear armour.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 tirador para regular las compuertas delante de las aberturas de entrada de aire del blindaje trasero.",
+          "runs": [
+            {
+              "text": "1 tirador para regular las compuertas delante de las aberturas de entrada de aire del blindaje trasero.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para05",
+      "text": {
+        "de": {
+          "plain": "im Motorraum: an der linken Wannenseite:",
+          "runs": [
+            {
+              "text": "im Motorraum: an der linken Wannenseite:",
+              "bold": true
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "in the engine compartment (Motorraum), on the left side of the hull:",
+          "runs": [
+            {
+              "text": "in the engine compartment (Motorraum), on the left side of the hull:",
+              "bold": true
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "en la cámara del motor (Motorraum), en el costado izquierdo del casco:",
+          "runs": [
+            {
+              "text": "en la cámara del motor (Motorraum), en el costado izquierdo del casco:",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para06",
+      "text": {
+        "de": {
+          "plain": "2 Entstörer für Lichtmaschine;",
+          "runs": [
+            {
+              "text": "2 Entstörer für Lichtmaschine;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2 interference suppressors (Entstörer) for the dynamo;",
+          "runs": [
+            {
+              "text": "2 interference suppressors (Entstörer) for the dynamo;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2 antiparásitos (Entstörer) para la dinamo;",
+          "runs": [
+            {
+              "text": "2 antiparásitos (Entstörer) para la dinamo;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para07",
+      "text": {
+        "de": {
+          "plain": "1 elektrische Anlaßkraftstoffpumpe.",
+          "runs": [
+            {
+              "text": "1 elektrische Anlaßkraftstoffpumpe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1 electric priming fuel pump.",
+          "runs": [
+            {
+              "text": "1 electric priming fuel pump.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1 bomba eléctrica de cebado de combustible.",
+          "runs": [
+            {
+              "text": "1 bomba eléctrica de cebado de combustible.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para08",
+      "text": {
+        "de": {
+          "plain": "Für kleinere Instandsetzungsarbeiten werden Werkzeuge und Ersatzteile im Innern bzw. am Fahrzeug in zwei Kästen mitgeführt.",
+          "runs": [
+            {
+              "text": "Für kleinere Instandsetzungsarbeiten werden Werkzeuge und Ersatzteile im Innern bzw. am Fahrzeug in zwei Kästen mitgeführt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "For minor repair work, tools and spare parts are carried inside or on the vehicle in two boxes.",
+          "runs": [
+            {
+              "text": "For minor repair work, tools and spare parts are carried inside or on the vehicle in two boxes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Para pequeños trabajos de reparación se llevan herramientas y piezas de repuesto dentro del vehículo o sobre él, en dos cajas.",
+          "runs": [
+            {
+              "text": "Para pequeños trabajos de reparación se llevan herramientas y piezas de repuesto dentro del vehículo o sobre él, en dos cajas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para09",
+      "text": {
+        "de": {
+          "plain": "Kasten 1 (im Fahrgestellboden links) enthält das für das Ausbessern der Gleiskette erforderliche Werkzeug und Ersatzteile.",
+          "runs": [
+            {
+              "text": "Kasten 1 (im Fahrgestellboden links) enthält das für das Ausbessern der Gleiskette erforderliche Werkzeug und Ersatzteile.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Box 1 (in the chassis floor, left) contains the tools and spare parts needed for repairing the track.",
+          "runs": [
+            {
+              "text": "Box 1 (in the chassis floor, left) contains the tools and spare parts needed for repairing the track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La caja 1 (en el piso del chasis, a la izquierda) contiene las herramientas y repuestos necesarios para reparar la cadena.",
+          "runs": [
+            {
+              "text": "La caja 1 (en el piso del chasis, a la izquierda) contiene las herramientas y repuestos necesarios para reparar la cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para10",
+      "text": {
+        "de": {
+          "plain": "Kasten 2 (auf der Motorabdeckung) enthält Werkzeuge und einige Ersatzteile für das Fahrzeug und den Motor.",
+          "runs": [
+            {
+              "text": "Kasten 2 (auf der Motorabdeckung) enthält Werkzeuge und einige Ersatzteile für das Fahrzeug und den Motor.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Box 2 (on the engine deck) contains tools and some spare parts for the vehicle and the engine.",
+          "runs": [
+            {
+              "text": "Box 2 (on the engine deck) contains tools and some spare parts for the vehicle and the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "La caja 2 (sobre la plataforma del motor) contiene herramientas y algunos repuestos para el vehículo y el motor.",
+          "runs": [
+            {
+              "text": "La caja 2 (sobre la plataforma del motor) contiene herramientas y algunos repuestos para el vehículo y el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para11",
+      "text": {
+        "de": {
+          "plain": "Außerdem werden außer einigem Kleinzubehör noch mitgeführt:",
+          "runs": [
+            {
+              "text": "Außerdem werden außer einigem Kleinzubehör noch mitgeführt:",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "In addition, besides some small accessories, the following are carried:",
+          "runs": [
+            {
+              "text": "In addition, besides some small accessories, the following are carried:",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Además, junto con algunos pequeños accesorios, se llevan:",
+          "runs": [
+            {
+              "text": "Además, junto con algunos pequeños accesorios, se llevan:",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para12",
+      "text": {
+        "de": {
+          "plain": "im Innern des Fahrgestells, links neben dem Fahrersitz: 4 Steckschlüssel zum Einstellen der Bremsen;",
+          "runs": [
+            {
+              "text": "im Innern des Fahrgestells, links neben dem Fahrersitz: 4 Steckschlüssel zum Einstellen der Bremsen;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "inside the chassis, to the left of the driver's seat: 4 socket spanners (Steckschlüssel) for adjusting the brakes;",
+          "runs": [
+            {
+              "text": "inside the chassis, to the left of the driver's seat: 4 socket spanners (Steckschlüssel) for adjusting the brakes;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "dentro del chasis, a la izquierda del asiento del conductor: 4 llaves de vaso (Steckschlüssel) para ajustar los frenos;",
+          "runs": [
+            {
+              "text": "dentro del chasis, a la izquierda del asiento del conductor: 4 llaves de vaso (Steckschlüssel) para ajustar los frenos;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para13",
+      "text": {
+        "de": {
+          "plain": "auf Kupplungskasten: 2 Schlüssel für den Riemenspanner zum Lüfterantrieb;",
+          "runs": [
+            {
+              "text": "auf Kupplungskasten: 2 Schlüssel für den Riemenspanner zum Lüfterantrieb;",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "on the clutch box: 2 spanners for the belt tensioner of the fan drive;",
+          "runs": [
+            {
+              "text": "on the clutch box: 2 spanners for the belt tensioner of the fan drive;",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "sobre la campana del embrague: 2 llaves para el tensor de correa del accionamiento del ventilador;",
+          "runs": [
+            {
+              "text": "sobre la campana del embrague: 2 llaves para el tensor de correa del accionamiento del ventilador;",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65241a-page-032-para14",
+      "text": {
+        "de": {
+          "plain": "rechts neben dem Fahrersitz: 2 Schlüssel für Kettenschließer.",
+          "runs": [
+            {
+              "text": "rechts neben dem Fahrersitz: 2 Schlüssel für Kettenschließer.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "to the right of the driver's seat: 2 spanners for the track connector (Kettenschließer).",
+          "runs": [
+            {
+              "text": "to the right of the driver's seat: 2 spanners for the track connector (Kettenschließer).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "a la derecha del asiento del conductor: 2 llaves para el cierre de cadena (Kettenschließer).",
+          "runs": [
+            {
+              "text": "a la derecha del asiento del conductor: 2 llaves para el cierre de cadena (Kettenschließer).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "not_applicable"
+  },
+  "navigation": {
+    "previous": "d65241a-page-031",
+    "next": "d65241a-page-033"
+  }
+}
