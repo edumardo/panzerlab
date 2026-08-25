@@ -5,14 +5,21 @@
   "page": 93,
   "section": "A32",
   "type": "figures",
-  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
   "source": {
     "image": "source.jpg",
     "pdf_page": 48,
     "side": "left",
     "status": "extracted_clean"
   },
-  "navigation": {"previous": "d65250a-page-092", "next": "d65250a-page-094"},
+  "navigation": {
+    "previous": "d65250a-page-092",
+    "next": "d65250a-page-094"
+  },
   "paragraphs": [],
   "figures": [
     {
@@ -26,15 +33,35 @@
         },
         "en-GB": {
           "plain": "Drawing 9. Puller for removing the torsion-bar spring. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 101, sheet 9.",
-          "runs": [{"text": "Drawing 9. Puller for removing the torsion-bar spring. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 101, sheet 9.", "bold": false}]
+          "runs": [
+            {
+              "text": "Drawing 9. Puller for removing the torsion-bar spring. Scale 1:1. Parts: 1 spindle (material St 34.11), 2 thrust sleeve (material St 37.12), 3 DIN nut (material St 34.11). Drawing number III DB 101, sheet 9.",
+              "bold": false
+            }
+          ]
         },
         "es-ES": {
           "plain": "Plano 9. Extractor para el desmontaje de la barra de torsión. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 101, hoja 9.",
-          "runs": [{"text": "Plano 9. Extractor para el desmontaje de la barra de torsión. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 101, hoja 9.", "bold": false}]
+          "runs": [
+            {
+              "text": "Plano 9. Extractor para el desmontaje de la barra de torsión. Escala 1:1. Piezas: 1 husillo (material St 34.11), 2 casquillo de presión (material St 37.12), 3 tuerca DIN (material St 34.11). Número de plano III DB 101, hoja 9.",
+              "bold": false
+            }
+          ]
         }
       },
-      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "kind": "zeichnung"
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  }
 }

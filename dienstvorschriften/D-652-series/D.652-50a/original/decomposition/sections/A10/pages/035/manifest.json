@@ -1,0 +1,24 @@
+{
+  "page": 35,
+  "section": "A10",
+  "pdf_page": 19,
+  "side": "left",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "draft",
+  "translation_en_status": "draft",
+  "translation_es_status": "draft",
+  "figures": [
+    {
+      "number": 50,
+      "status": "draft",
+      "kind": "bild"
+    },
+    {
+      "number": 51,
+      "status": "draft",
+      "kind": "bild"
+    }
+  ]
+}

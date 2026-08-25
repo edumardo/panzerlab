@@ -33,6 +33,23 @@ Per `docs/PDF_TO_CANONICAL_JSON.md` §13:
       `paragraphs`.
 - [ ] Phase 5 — Consumers: web viewer, DOCX/PDF exporters, search index.
 
+`python scripts/validate_archive.py dienstvorschriften/D-652-series/D.652-50a`
+passes (101/101 pages) as of this commit. That check covers structure only
+(paths exist, IDs unique, workflow states well-formed, global/per-page
+manifests agree) — it is not a substitute for the human review still needed
+before promoting any page past `"draft"`.
+
+### Two independent figure-numbering series
+
+Figures carry a `"kind"` field: `"bild"` for the ~117 in-text photographs
+(numbered 1..117 across the whole document) and `"zeichnung"` for the 11
+special-tool drawing plates in §32 (numbered 1..10, with "5a" as a lettered
+second sheet of drawing 5). Both series restart independently, so the same
+small integer legitimately appears under each `kind` — `validate_archive.py`
+was extended to check duplicate/gap figure numbering per `(kind, number)`
+instead of one flat namespace, and to tolerate a lettered figure number like
+`"5a"` instead of crashing on it.
+
 ## PDF-to-book-page map (§5 Step 3)
 
 `pdf_page` 1 (the front cover, scanned flat) is not part of the paginated
@@ -90,9 +107,6 @@ archive pages 100–101 are blank trailing leaves before the back cover.
 
 ## Entry points (still pending)
 
-- `layout.json`: a document-level (not per-section) output-independent
-  layout profile, if one is needed beyond each section's own
-  `manifest.json.layout`.
 - Human review promoting `status.transcription`/`status.en-GB`/
   `status.es-ES` from `"draft"` to `"validated"` page by page.
 - Review of the 16 running-gear terms just added to the series-shared

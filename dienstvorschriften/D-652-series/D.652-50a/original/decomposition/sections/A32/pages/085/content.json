@@ -5,14 +5,21 @@
   "page": 85,
   "section": "A32",
   "type": "figures",
-  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
   "source": {
     "image": "source.jpg",
     "pdf_page": 44,
     "side": "left",
     "status": "extracted_clean"
   },
-  "navigation": {"previous": "d65250a-page-084", "next": "d65250a-page-086"},
+  "navigation": {
+    "previous": "d65250a-page-084",
+    "next": "d65250a-page-086"
+  },
   "paragraphs": [],
   "figures": [
     {
@@ -33,8 +40,18 @@
           "runs": []
         }
       },
-      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "kind": "zeichnung"
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  }
 }

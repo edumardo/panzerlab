@@ -20,9 +20,10 @@
         "type": "object",
         "required": ["number"],
         "properties": {
-          "number": {"type": ["integer", "null"]},
+          "number": {"type": ["integer", "string", "null"]},
+          "kind": {"enum": ["bild", "zeichnung"]},
           "path": {"type": "string"},
-          "status": {"enum": ["candidate_crop", "draft", "validated"]}
+          "status": {"enum": ["pending", "draft", "reviewed", "validated", "candidate_crop", "not_applicable"]}
         }
       }
     }

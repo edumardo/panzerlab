@@ -199,7 +199,12 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report, c
                 else:
                     seen_figure_ids[figure_id] = f"page {page} ({section})"
             if figure.get("number") is not None:
-                all_figure_numbers.append(figure["number"])
+                # Group by (kind, number): some manuals run independent numbering
+                # series for different figure kinds (e.g. photographic "Bild" vs.
+                # drawing-plate "Zeichnung"), where the same small integer is
+                # legitimately reused across series. kind defaults to "figure" so
+                # documents that don't set it behave exactly as before (one series).
+                all_figure_numbers.append((figure.get("kind", "figure"), figure["number"]))
             check_status_value(figure.get("status"), f"page {page} figure {figure_id or figure.get('number')}.status", report)
             for image_field in ("image", "path"):
                 if image_field in figure:
@@ -218,12 +223,21 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report, c
 
     duplicate_figure_numbers = {n for n in all_figure_numbers if all_figure_numbers.count(n) > 1}
     if duplicate_figure_numbers:
-        report.error(f"Duplicate figure numbers: {sorted(duplicate_figure_numbers)}")
-    if all_figure_numbers:
-        expected = set(range(min(all_figure_numbers), max(all_figure_numbers) + 1))
-        missing_numbers = expected - set(all_figure_numbers)
+        report.error(f"Duplicate figure numbers: {sorted(duplicate_figure_numbers, key=lambda kn: (kn[0], str(kn[1])))}")
+    # Figure numbers are usually consecutive integers within their kind, but some
+    # manuals use a lettered-suffix continuation (e.g. "5a" following "5") for a
+    # second sheet of the same drawing. Check the numeric gap per kind, and
+    # restrict it to the plain-integer subset so a legitimate lettered figure
+    # doesn't crash comparison against ints.
+    numbers_by_kind: dict[str, list[int]] = {}
+    for kind, number in all_figure_numbers:
+        if isinstance(number, int):
+            numbers_by_kind.setdefault(kind, []).append(number)
+    for kind, numbers in numbers_by_kind.items():
+        expected = set(range(min(numbers), max(numbers) + 1))
+        missing_numbers = expected - set(numbers)
         if missing_numbers:
-            report.warn(f"Figure numbering has gaps (confirm documented): {sorted(missing_numbers)}")
+            report.warn(f"Figure numbering has gaps for kind '{kind}' (confirm documented): {sorted(missing_numbers)}")
 
 
 def validate_glossary(

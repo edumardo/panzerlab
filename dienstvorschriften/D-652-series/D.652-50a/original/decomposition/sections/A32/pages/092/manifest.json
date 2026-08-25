@@ -1,0 +1,19 @@
+{
+  "page": 92,
+  "section": "A32",
+  "pdf_page": 47,
+  "side": "right",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "draft",
+  "translation_en_status": "draft",
+  "translation_es_status": "draft",
+  "figures": [
+    {
+      "number": 8,
+      "status": "draft",
+      "kind": "zeichnung"
+    }
+  ]
+}

@@ -5,14 +5,21 @@
   "page": 91,
   "section": "A32",
   "type": "figures",
-  "titles": {"de": null, "en-GB": null, "es-ES": null},
+  "titles": {
+    "de": null,
+    "en-GB": null,
+    "es-ES": null
+  },
   "source": {
     "image": "source.jpg",
     "pdf_page": 47,
     "side": "left",
     "status": "extracted_clean"
   },
-  "navigation": {"previous": "d65250a-page-090", "next": "d65250a-page-092"},
+  "navigation": {
+    "previous": "d65250a-page-090",
+    "next": "d65250a-page-092"
+  },
   "paragraphs": [],
   "figures": [
     {
@@ -26,15 +33,35 @@
         },
         "en-GB": {
           "plain": "Drawing 7. Puller for removing the vibration-damper bolts. Scale 1:1. Parts: 1 spindle, 2 thrust sleeve, 3 threaded piece, 4 DIN nut; material and blank: St 34.11. Drawing number III DB 138, sheet 7.",
-          "runs": [{"text": "Drawing 7. Puller for removing the vibration-damper bolts. Scale 1:1. Parts: 1 spindle, 2 thrust sleeve, 3 threaded piece, 4 DIN nut; material and blank: St 34.11. Drawing number III DB 138, sheet 7.", "bold": false}]
+          "runs": [
+            {
+              "text": "Drawing 7. Puller for removing the vibration-damper bolts. Scale 1:1. Parts: 1 spindle, 2 thrust sleeve, 3 threaded piece, 4 DIN nut; material and blank: St 34.11. Drawing number III DB 138, sheet 7.",
+              "bold": false
+            }
+          ]
         },
         "es-ES": {
           "plain": "Plano 7. Extractor para el desmontaje de los pernos del amortiguador de vibraciones. Escala 1:1. Piezas: 1 husillo, 2 casquillo de presión, 3 pieza roscada, 4 tuerca DIN; material y bruto: St 34.11. Número de plano III DB 138, hoja 7.",
-          "runs": [{"text": "Plano 7. Extractor para el desmontaje de los pernos del amortiguador de vibraciones. Escala 1:1. Piezas: 1 husillo, 2 casquillo de presión, 3 pieza roscada, 4 tuerca DIN; material y bruto: St 34.11. Número de plano III DB 138, hoja 7.", "bold": false}]
+          "runs": [
+            {
+              "text": "Plano 7. Extractor para el desmontaje de los pernos del amortiguador de vibraciones. Escala 1:1. Piezas: 1 husillo, 2 casquillo de presión, 3 pieza roscada, 4 tuerca DIN; material y bruto: St 34.11. Número de plano III DB 138, hoja 7.",
+              "bold": false
+            }
+          ]
         }
       },
-      "label_keys": {"de": null, "en-GB": null, "es-ES": null}
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      },
+      "kind": "zeichnung"
     }
   ],
-  "status": {"transcription": "draft", "en-GB": "draft", "es-ES": "draft", "figures": "draft"}
+  "status": {
+    "transcription": "draft",
+    "en-GB": "draft",
+    "es-ES": "draft",
+    "figures": "draft"
+  }
 }

@@ -150,12 +150,12 @@
       "section": "FrontMatter",
       "pdf_page": 2,
       "side": "left",
-      "source_scan": "assets/spreads/spread_002.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "not_applicable",
+      "translation_es_status": "not_applicable",
       "figures": []
     },
     {
@@ -163,12 +163,12 @@
       "section": "FrontMatter",
       "pdf_page": 2,
       "side": "right",
-      "source_scan": "assets/spreads/spread_002.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -176,12 +176,12 @@
       "section": "FrontMatter",
       "pdf_page": 3,
       "side": "left",
-      "source_scan": "assets/spreads/spread_003.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -189,155 +189,261 @@
       "section": "A01",
       "pdf_page": 3,
       "side": "right",
-      "source_scan": "assets/spreads/spread_003.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 1,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 5,
       "section": "A01",
       "pdf_page": 4,
       "side": "left",
-      "source_scan": "assets/spreads/spread_004.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 2,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 3,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 6,
       "section": "A01",
       "pdf_page": 4,
       "side": "right",
-      "source_scan": "assets/spreads/spread_004.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 4,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 7,
       "section": "A02",
       "pdf_page": 5,
       "side": "left",
-      "source_scan": "assets/spreads/spread_005.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 5,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 6,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 8,
       "section": "A02",
       "pdf_page": 5,
       "side": "right",
-      "source_scan": "assets/spreads/spread_005.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 7,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 8,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 9,
       "section": "A03",
       "pdf_page": 6,
       "side": "left",
-      "source_scan": "assets/spreads/spread_006.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 9,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 10,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 10,
       "section": "A03",
       "pdf_page": 6,
       "side": "right",
-      "source_scan": "assets/spreads/spread_006.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 11,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 12,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 11,
       "section": "A03",
       "pdf_page": 7,
       "side": "left",
-      "source_scan": "assets/spreads/spread_007.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 13,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 14,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 12,
       "section": "A03",
       "pdf_page": 7,
       "side": "right",
-      "source_scan": "assets/spreads/spread_007.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 15,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 16,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 13,
       "section": "A03",
       "pdf_page": 8,
       "side": "left",
-      "source_scan": "assets/spreads/spread_008.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 17,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 18,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 14,
       "section": "A04",
       "pdf_page": 8,
       "side": "right",
-      "source_scan": "assets/spreads/spread_008.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 19,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 15,
       "section": "A04",
       "pdf_page": 9,
       "side": "left",
-      "source_scan": "assets/spreads/spread_009.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -345,597 +451,982 @@
       "section": "A05",
       "pdf_page": 9,
       "side": "right",
-      "source_scan": "assets/spreads/spread_009.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 20,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 21,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 17,
       "section": "A05",
       "pdf_page": 10,
       "side": "left",
-      "source_scan": "assets/spreads/spread_010.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 22,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 23,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 18,
       "section": "A05",
       "pdf_page": 10,
       "side": "right",
-      "source_scan": "assets/spreads/spread_010.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 24,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 19,
       "section": "A06",
       "pdf_page": 11,
       "side": "left",
-      "source_scan": "assets/spreads/spread_011.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 25,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 26,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 20,
       "section": "A06",
       "pdf_page": 11,
       "side": "right",
-      "source_scan": "assets/spreads/spread_011.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 27,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 28,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 21,
       "section": "A06",
       "pdf_page": 12,
       "side": "left",
-      "source_scan": "assets/spreads/spread_012.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 29,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 30,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 22,
       "section": "A06",
       "pdf_page": 12,
       "side": "right",
-      "source_scan": "assets/spreads/spread_012.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 31,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 32,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 23,
       "section": "A06",
       "pdf_page": 13,
       "side": "left",
-      "source_scan": "assets/spreads/spread_013.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 33,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 24,
       "section": "A07",
       "pdf_page": 13,
       "side": "right",
-      "source_scan": "assets/spreads/spread_013.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 34,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 25,
       "section": "A07",
       "pdf_page": 14,
       "side": "left",
-      "source_scan": "assets/spreads/spread_014.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 35,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 36,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 26,
       "section": "A07",
       "pdf_page": 14,
       "side": "right",
-      "source_scan": "assets/spreads/spread_014.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 37,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 38,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 27,
       "section": "A08",
       "pdf_page": 15,
       "side": "left",
-      "source_scan": "assets/spreads/spread_015.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 39,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 40,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 28,
       "section": "A08",
       "pdf_page": 15,
       "side": "right",
-      "source_scan": "assets/spreads/spread_015.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 41,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 29,
       "section": "A08",
       "pdf_page": 16,
       "side": "left",
-      "source_scan": "assets/spreads/spread_016.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 42,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 30,
       "section": "A08",
       "pdf_page": 16,
       "side": "right",
-      "source_scan": "assets/spreads/spread_016.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 43,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 44,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 31,
       "section": "A08",
       "pdf_page": 17,
       "side": "left",
-      "source_scan": "assets/spreads/spread_017.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 45,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 32,
       "section": "A09",
       "pdf_page": 17,
       "side": "right",
-      "source_scan": "assets/spreads/spread_017.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 46,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 33,
       "section": "A09",
       "pdf_page": 18,
       "side": "left",
-      "source_scan": "assets/spreads/spread_018.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 47,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 48,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 34,
       "section": "A10",
       "pdf_page": 18,
       "side": "right",
-      "source_scan": "assets/spreads/spread_018.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 49,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 35,
       "section": "A10",
       "pdf_page": 19,
       "side": "left",
-      "source_scan": "assets/spreads/spread_019.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 50,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 51,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 36,
       "section": "A10",
       "pdf_page": 19,
       "side": "right",
-      "source_scan": "assets/spreads/spread_019.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 52,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 37,
       "section": "A11",
       "pdf_page": 20,
       "side": "left",
-      "source_scan": "assets/spreads/spread_020.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 53,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 38,
       "section": "A11",
       "pdf_page": 20,
       "side": "right",
-      "source_scan": "assets/spreads/spread_020.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 54,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 55,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 39,
       "section": "A11",
       "pdf_page": 21,
       "side": "left",
-      "source_scan": "assets/spreads/spread_021.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 56,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 40,
       "section": "A12",
       "pdf_page": 21,
       "side": "right",
-      "source_scan": "assets/spreads/spread_021.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 57,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 58,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 41,
       "section": "A12",
       "pdf_page": 22,
       "side": "left",
-      "source_scan": "assets/spreads/spread_022.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 59,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 60,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 42,
       "section": "A12",
       "pdf_page": 22,
       "side": "right",
-      "source_scan": "assets/spreads/spread_022.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 61,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 43,
       "section": "A12",
       "pdf_page": 23,
       "side": "left",
-      "source_scan": "assets/spreads/spread_023.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 62,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 63,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 44,
       "section": "A12",
       "pdf_page": 23,
       "side": "right",
-      "source_scan": "assets/spreads/spread_023.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 64,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 65,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 45,
       "section": "A12",
       "pdf_page": 24,
       "side": "left",
-      "source_scan": "assets/spreads/spread_024.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 66,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 67,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 46,
       "section": "A13",
       "pdf_page": 24,
       "side": "right",
-      "source_scan": "assets/spreads/spread_024.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 68,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 69,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 47,
       "section": "A13",
       "pdf_page": 25,
       "side": "left",
-      "source_scan": "assets/spreads/spread_025.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 70,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 48,
       "section": "A13",
       "pdf_page": 25,
       "side": "right",
-      "source_scan": "assets/spreads/spread_025.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 71,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 49,
       "section": "A14",
       "pdf_page": 26,
       "side": "left",
-      "source_scan": "assets/spreads/spread_026.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 72,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 50,
       "section": "A15",
       "pdf_page": 26,
       "side": "right",
-      "source_scan": "assets/spreads/spread_026.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 73,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 51,
       "section": "A16",
       "pdf_page": 27,
       "side": "left",
-      "source_scan": "assets/spreads/spread_027.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 74,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 75,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 52,
       "section": "A16",
       "pdf_page": 27,
       "side": "right",
-      "source_scan": "assets/spreads/spread_027.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 76,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 77,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 53,
       "section": "A16",
       "pdf_page": 28,
       "side": "left",
-      "source_scan": "assets/spreads/spread_028.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 78,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 79,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 54,
       "section": "A17",
       "pdf_page": 28,
       "side": "right",
-      "source_scan": "assets/spreads/spread_028.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 80,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 55,
       "section": "A17",
       "pdf_page": 29,
       "side": "left",
-      "source_scan": "assets/spreads/spread_029.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 81,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 56,
       "section": "A17",
       "pdf_page": 29,
       "side": "right",
-      "source_scan": "assets/spreads/spread_029.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 82,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 57,
       "section": "A18",
       "pdf_page": 30,
       "side": "left",
-      "source_scan": "assets/spreads/spread_030.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 83,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 58,
       "section": "A20",
       "pdf_page": 30,
       "side": "right",
-      "source_scan": "assets/spreads/spread_030.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 84,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 85,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 59,
       "section": "A20",
       "pdf_page": 31,
       "side": "left",
-      "source_scan": "assets/spreads/spread_031.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 86,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 60,
       "section": "A21",
       "pdf_page": 31,
       "side": "right",
-      "source_scan": "assets/spreads/spread_031.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 87,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 61,
       "section": "A21",
       "pdf_page": 32,
       "side": "left",
-      "source_scan": "assets/spreads/spread_032.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -943,142 +1434,237 @@
       "section": "A22",
       "pdf_page": 32,
       "side": "right",
-      "source_scan": "assets/spreads/spread_032.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 88,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 89,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 63,
       "section": "A22",
       "pdf_page": 33,
       "side": "left",
-      "source_scan": "assets/spreads/spread_033.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 90,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 91,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 64,
       "section": "A22",
       "pdf_page": 33,
       "side": "right",
-      "source_scan": "assets/spreads/spread_033.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 92,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 93,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 65,
       "section": "A23",
       "pdf_page": 34,
       "side": "left",
-      "source_scan": "assets/spreads/spread_034.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 94,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 66,
       "section": "A23",
       "pdf_page": 34,
       "side": "right",
-      "source_scan": "assets/spreads/spread_034.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 95,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 96,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 67,
       "section": "A23",
       "pdf_page": 35,
       "side": "left",
-      "source_scan": "assets/spreads/spread_035.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 97,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 98,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 68,
       "section": "A24",
       "pdf_page": 35,
       "side": "right",
-      "source_scan": "assets/spreads/spread_035.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 99,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 100,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 69,
       "section": "A24",
       "pdf_page": 36,
       "side": "left",
-      "source_scan": "assets/spreads/spread_036.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 101,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 70,
       "section": "A25",
       "pdf_page": 36,
       "side": "right",
-      "source_scan": "assets/spreads/spread_036.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 102,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 103,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 71,
       "section": "A25",
       "pdf_page": 37,
       "side": "left",
-      "source_scan": "assets/spreads/spread_037.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 104,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 72,
       "section": "A26",
       "pdf_page": 37,
       "side": "right",
-      "source_scan": "assets/spreads/spread_037.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -1086,103 +1672,175 @@
       "section": "A28",
       "pdf_page": 38,
       "side": "left",
-      "source_scan": "assets/spreads/spread_038.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 105,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 106,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 74,
       "section": "A29",
       "pdf_page": 38,
       "side": "right",
-      "source_scan": "assets/spreads/spread_038.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 107,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 108,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 75,
       "section": "A29",
       "pdf_page": 39,
       "side": "left",
-      "source_scan": "assets/spreads/spread_039.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 109,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 76,
       "section": "A30",
       "pdf_page": 39,
       "side": "right",
-      "source_scan": "assets/spreads/spread_039.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 110,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 111,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 77,
       "section": "A30",
       "pdf_page": 40,
       "side": "left",
-      "source_scan": "assets/spreads/spread_040.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 112,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 113,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 78,
       "section": "A30",
       "pdf_page": 40,
       "side": "right",
-      "source_scan": "assets/spreads/spread_040.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 114,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 115,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 79,
       "section": "A31",
       "pdf_page": 41,
       "side": "left",
-      "source_scan": "assets/spreads/spread_041.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 116,
+          "status": "draft",
+          "kind": "bild"
+        },
+        {
+          "number": 117,
+          "status": "draft",
+          "kind": "bild"
+        }
+      ]
     },
     {
       "page": 80,
       "section": "A31",
       "pdf_page": 41,
       "side": "right",
-      "source_scan": "assets/spreads/spread_041.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -1190,12 +1848,12 @@
       "section": "A31",
       "pdf_page": 42,
       "side": "left",
-      "source_scan": "assets/spreads/spread_042.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "not_applicable",
+      "translation_es_status": "not_applicable",
       "figures": []
     },
     {
@@ -1203,12 +1861,12 @@
       "section": "A32",
       "pdf_page": 42,
       "side": "right",
-      "source_scan": "assets/spreads/spread_042.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -1216,12 +1874,12 @@
       "section": "A32",
       "pdf_page": 43,
       "side": "left",
-      "source_scan": "assets/spreads/spread_043.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "not_applicable",
+      "translation_es_status": "not_applicable",
       "figures": []
     },
     {
@@ -1229,155 +1887,221 @@
       "section": "A32",
       "pdf_page": 43,
       "side": "right",
-      "source_scan": "assets/spreads/spread_043.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 1,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 85,
       "section": "A32",
       "pdf_page": 44,
       "side": "left",
-      "source_scan": "assets/spreads/spread_044.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 2,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 86,
       "section": "A32",
       "pdf_page": 44,
       "side": "right",
-      "source_scan": "assets/spreads/spread_044.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 3,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 87,
       "section": "A32",
       "pdf_page": 45,
       "side": "left",
-      "source_scan": "assets/spreads/spread_045.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 4,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 88,
       "section": "A32",
       "pdf_page": 45,
       "side": "right",
-      "source_scan": "assets/spreads/spread_045.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 5,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 89,
       "section": "A32",
       "pdf_page": 46,
       "side": "left",
-      "source_scan": "assets/spreads/spread_046.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": "5a",
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 90,
       "section": "A32",
       "pdf_page": 46,
       "side": "right",
-      "source_scan": "assets/spreads/spread_046.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 6,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 91,
       "section": "A32",
       "pdf_page": 47,
       "side": "left",
-      "source_scan": "assets/spreads/spread_047.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 7,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 92,
       "section": "A32",
       "pdf_page": 47,
       "side": "right",
-      "source_scan": "assets/spreads/spread_047.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 8,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 93,
       "section": "A32",
       "pdf_page": 48,
       "side": "left",
-      "source_scan": "assets/spreads/spread_048.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 9,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 94,
       "section": "A32",
       "pdf_page": 48,
       "side": "right",
-      "source_scan": "assets/spreads/spread_048.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
-      "figures": []
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
+      "figures": [
+        {
+          "number": 10,
+          "status": "draft",
+          "kind": "zeichnung"
+        }
+      ]
     },
     {
       "page": 95,
       "section": "A32",
       "pdf_page": 49,
       "side": "left",
-      "source_scan": "assets/spreads/spread_049.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "not_applicable",
+      "translation_es_status": "not_applicable",
       "figures": []
     },
     {
@@ -1385,12 +2109,12 @@
       "section": "A33",
       "pdf_page": 49,
       "side": "right",
-      "source_scan": "assets/spreads/spread_049.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -1398,12 +2122,12 @@
       "section": "A33",
       "pdf_page": 50,
       "side": "left",
-      "source_scan": "assets/spreads/spread_050.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -1411,12 +2135,12 @@
       "section": "A33",
       "pdf_page": 50,
       "side": "right",
-      "source_scan": "assets/spreads/spread_050.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     },
     {
@@ -1424,12 +2148,12 @@
       "section": "BackMatter",
       "pdf_page": 51,
       "side": "left",
-      "source_scan": "assets/spreads/spread_051.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "not_applicable",
+      "translation_es_status": "not_applicable",
       "figures": []
     },
     {
@@ -1437,12 +2161,12 @@
       "section": "BackMatter",
       "pdf_page": 51,
       "side": "right",
-      "source_scan": "assets/spreads/spread_051.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "not_applicable",
+      "translation_es_status": "not_applicable",
       "figures": []
     },
     {
@@ -1450,12 +2174,12 @@
       "section": "BackMatter",
       "pdf_page": 52,
       "side": "single",
-      "source_scan": "assets/spreads/spread_052.jpg",
+      "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "pending",
-      "translation_en_status": "pending",
-      "translation_es_status": "pending",
+      "transcription_status": "draft",
+      "translation_en_status": "draft",
+      "translation_es_status": "draft",
       "figures": []
     }
   ]
