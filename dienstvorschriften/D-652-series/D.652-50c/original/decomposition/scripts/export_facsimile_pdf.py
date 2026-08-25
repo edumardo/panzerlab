@@ -73,7 +73,7 @@ def draw_wrapped(pdf, text, x, y, width, font, size, leading, colour=HexColor("#
     return y
 
 
-def draw_header(pdf, title, page_number, regular, bold, label):
+def draw_header(pdf, title, page_number, regular, bold, label, subtitle=None):
     page_label_text = f"{label} {page_number}"
     label_width = pdfmetrics.stringWidth(page_label_text, regular, 9)
     title_size = 13.0
@@ -86,9 +86,21 @@ def draw_header(pdf, title, page_number, regular, bold, label):
     pdf.setFont(regular, 9)
     pdf.setFillColor(HexColor("#52606D"))
     pdf.drawRightString(PAGE_W - RIGHT, TOP_MARGIN, page_label_text)
+
+    rule_y = TOP_MARGIN - 5 * mm
+    if subtitle:
+        subtitle_size = 10.5
+        while subtitle_size > 8 and pdfmetrics.stringWidth(subtitle, regular, subtitle_size) > PAGE_W - LEFT - RIGHT:
+            subtitle_size -= 0.5
+        pdf.setFont(regular, subtitle_size)
+        pdf.setFillColor(HexColor("#334E68"))
+        pdf.drawString(LEFT, TOP_MARGIN - 6 * mm, subtitle)
+        rule_y = TOP_MARGIN - 10 * mm
+
     pdf.setStrokeColor(HexColor("#BCCCDC"))
     pdf.setLineWidth(0.5)
-    pdf.line(LEFT, TOP_MARGIN - 5 * mm, PAGE_W - RIGHT, TOP_MARGIN - 5 * mm)
+    pdf.line(LEFT, rule_y, PAGE_W - RIGHT, rule_y)
+    return rule_y
 
 
 def render_facsimile_page(pdf, page_dir, content, regular, bold):
@@ -118,9 +130,13 @@ def render_facsimile_page(pdf, page_dir, content, regular, bold):
 
 def render_translation_page(pdf, content, regular, bold, italic):
     width = PAGE_W - LEFT - RIGHT
-    draw_header(pdf, content["titles"][LANGUAGES[0]], content["page"], regular, bold, "Translation of page")
+    es_title = content["titles"].get(LANGUAGES[1])
+    rule_y = draw_header(
+        pdf, content["titles"][LANGUAGES[0]], content["page"], regular, bold,
+        "Translation of page", subtitle=es_title,
+    )
 
-    y = TOP_MARGIN - 14 * mm
+    y = rule_y - 9 * mm
 
     for lang in LANGUAGES:
         for para in content["paragraphs"]:
