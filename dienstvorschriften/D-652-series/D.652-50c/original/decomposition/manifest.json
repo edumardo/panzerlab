@@ -491,9 +491,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [],
       "display_scan": "source_display.jpg",
       "display_scan_crop_box_px": [
@@ -511,9 +511,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 21
@@ -538,9 +538,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 23
@@ -565,9 +565,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 25
@@ -592,9 +592,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 27
@@ -619,9 +619,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [],
       "display_scan": "source_display.jpg",
       "display_scan_crop_box_px": [
@@ -639,9 +639,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 29
@@ -663,9 +663,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 30
@@ -687,9 +687,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [],
       "display_scan": "source_display.jpg",
       "display_scan_crop_box_px": [
@@ -707,9 +707,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 31
@@ -734,9 +734,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 33
@@ -761,9 +761,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 35
@@ -788,9 +788,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 37
@@ -815,9 +815,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [],
       "display_scan": "source_display.jpg",
       "display_scan_crop_box_px": [
@@ -835,9 +835,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 39
@@ -862,9 +862,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 41
@@ -889,9 +889,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 43
@@ -916,9 +916,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 45
@@ -943,9 +943,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 47
@@ -970,9 +970,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 49
@@ -997,9 +997,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 51
@@ -1024,9 +1024,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 53
@@ -1051,9 +1051,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 55
@@ -1078,9 +1078,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 57
@@ -1105,9 +1105,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 59
@@ -1132,9 +1132,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 61
@@ -1159,9 +1159,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 63
@@ -1186,9 +1186,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 65
@@ -1213,9 +1213,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 67
@@ -1240,9 +1240,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 69
@@ -1267,9 +1267,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 71
@@ -1294,9 +1294,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 73
@@ -1321,9 +1321,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 75
@@ -1348,9 +1348,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 77
@@ -1375,9 +1375,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 79
@@ -1402,9 +1402,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 81
@@ -1429,9 +1429,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 83
@@ -1456,9 +1456,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 85
@@ -1483,9 +1483,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 87
@@ -1510,9 +1510,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 89
@@ -1537,9 +1537,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 91
@@ -1564,9 +1564,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 93
@@ -1591,9 +1591,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 95
@@ -1618,9 +1618,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 97
@@ -1645,9 +1645,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 99
@@ -1672,9 +1672,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 101
@@ -1699,9 +1699,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 103
@@ -1726,9 +1726,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 105
@@ -1753,9 +1753,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 107
@@ -1780,9 +1780,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 109
@@ -1807,9 +1807,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 111
@@ -1834,9 +1834,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 113
@@ -1861,9 +1861,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 115
@@ -1888,9 +1888,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 117
@@ -1915,9 +1915,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 119
@@ -1942,9 +1942,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 121
@@ -1969,9 +1969,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 123
@@ -1996,9 +1996,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 125
@@ -2023,9 +2023,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 127
@@ -2050,9 +2050,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 129
@@ -2077,9 +2077,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 131
@@ -2104,9 +2104,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 133
@@ -2131,9 +2131,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 135
@@ -2158,9 +2158,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 137
@@ -2185,9 +2185,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 139
@@ -2212,9 +2212,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 141
@@ -2239,9 +2239,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 143
@@ -2266,9 +2266,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 145
@@ -2293,9 +2293,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 147
@@ -2320,9 +2320,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 149
@@ -2347,9 +2347,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 151
@@ -2374,9 +2374,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 153
@@ -2398,9 +2398,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 154
@@ -2425,9 +2425,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 156
@@ -2452,9 +2452,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 158
@@ -2479,9 +2479,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 160
@@ -2506,9 +2506,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 162
@@ -2533,9 +2533,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 164
@@ -2560,9 +2560,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 166
@@ -2587,9 +2587,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 168
@@ -2614,9 +2614,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 170
@@ -2641,9 +2641,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 172
@@ -2668,9 +2668,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 174
@@ -2695,9 +2695,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 176
@@ -2722,9 +2722,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 178
@@ -2749,9 +2749,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 180
@@ -2776,9 +2776,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 182
@@ -2803,9 +2803,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 184
@@ -2830,9 +2830,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 186
@@ -2857,9 +2857,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 188
@@ -2884,9 +2884,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 190
@@ -2911,9 +2911,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 192
@@ -2938,9 +2938,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 194
@@ -2962,9 +2962,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 195
@@ -2989,9 +2989,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 197
@@ -3013,9 +3013,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 198
@@ -3040,9 +3040,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 200
@@ -3064,9 +3064,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 201
@@ -3091,9 +3091,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 203
@@ -3118,9 +3118,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 205
@@ -3145,9 +3145,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 207
@@ -3172,9 +3172,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 209
@@ -3199,9 +3199,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 211
@@ -3226,9 +3226,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 213
@@ -3253,9 +3253,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 215
@@ -3280,9 +3280,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 217
@@ -3307,9 +3307,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 219
@@ -3334,9 +3334,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 221
@@ -3361,9 +3361,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 223
@@ -3388,9 +3388,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 225
@@ -3415,9 +3415,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 227
@@ -3442,9 +3442,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 229
@@ -3469,9 +3469,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 231
@@ -3496,9 +3496,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 233
@@ -3523,9 +3523,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 235
@@ -3550,9 +3550,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 237
@@ -3574,9 +3574,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 238
@@ -3601,9 +3601,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 240
@@ -3628,9 +3628,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 242
@@ -3652,9 +3652,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 243
@@ -3679,9 +3679,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 245
@@ -3706,9 +3706,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 247
@@ -3733,9 +3733,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 249
@@ -3760,9 +3760,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 251
@@ -3787,9 +3787,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 253
@@ -3814,9 +3814,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 255
@@ -3841,9 +3841,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [],
       "display_scan": "source_display.jpg",
       "display_scan_crop_box_px": [
@@ -3861,9 +3861,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [],
       "display_scan": "source_display.jpg",
       "display_scan_crop_box_px": [
