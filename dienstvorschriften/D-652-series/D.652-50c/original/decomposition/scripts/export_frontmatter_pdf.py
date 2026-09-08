@@ -6,10 +6,12 @@ rendering from export_facsimile_pdf.py. A blank source page (type == "blank",
 no title/paragraphs/figures) has nothing to translate, so only its facsimile
 page is emitted.
 
-When frontmatter/manifest.json has output.cover = true and a frontmatter/
-cover.jpg asset is present, a dedicated cover page (the clean cover scan,
-full-bleed, no header chrome) is emitted first -- this is the manuscript's
-cover, distinct from the archival page-1 facsimile that follows.
+The very first page is the compiled-edition title page (series-wide format,
+see D-652-series/scripts/title_page.py), followed -- when frontmatter/
+manifest.json has output.cover = true and a frontmatter/cover.jpg asset is
+present -- by a dedicated cover page (the clean cover scan, full-bleed, no
+header chrome): the manuscript's own cover, distinct from the archival
+page-1 facsimile that follows.
 
 Requires validated status for transcription, en-GB and es-ES on every page.
 """
@@ -18,6 +20,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 from pathlib import Path
 
 from PIL import Image as PILImage
@@ -33,7 +36,10 @@ from export_facsimile_pdf import (
     render_facsimile_page,
     render_translation_page,
 )
-from title_page import TITLE_PAGE_SPEC, render_title_page
+from title_page_spec import TITLE_PAGE_SPEC
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "scripts"))
+from title_page import render_title_page  # noqa: E402
 
 
 def render_cover_page(pdf, image_path):

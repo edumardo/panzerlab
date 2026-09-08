@@ -33,6 +33,8 @@ translations, and document-processing utilities.
         ├── index.md
         ├── glossary/
         │   └── terminology.json
+        ├── scripts/
+        │   └── title_page.py
         └── D.652-50c/
             ├── metadata.md
             ├── original/
@@ -141,6 +143,27 @@ creating or changing a decomposition.
 - `source_display.jpg` (when present next to a page's `source.jpg`) is a
   derived, regenerable crop that trims scan background/edges for display. It
   never replaces `source.jpg`, which stays as the untouched archival scan.
+
+## Series-shared compiled-edition title page
+
+Every compiled bilingual export in the series opens with a title page in the
+shared style rendered by `<series>/scripts/title_page.py`
+(`render_title_page`), confirmed 2026-09-08 against D.652-50c. The page
+shows, in order: designation, model/variant lines, an EN-then-ES-then-DE
+subtitle block, an EN-then-ES edition line, an org/date line, a credit block,
+and a version line. Colours, sizes, and spacing come from D.652-41a's
+compiled docx (`D.652-41a/en/D.652-41a_en_v1.0.docx`), extracted via
+python-docx introspection rather than eyeballed.
+
+A document's own export script imports `render_title_page` from the series
+script and supplies a local `title_page_spec.py` (see
+`D.652-50c/original/decomposition/scripts/title_page_spec.py`) with the
+document's own designation, titles, and variants. Keep `credit_line`
+identical, word for word, across every document in the series; `source_line`
+must cite that specific document's own source URL (`metadata.md` /
+`metadata.json`), not another document's. Page orientation follows whatever
+the rest of that document's export already uses (A4 portrait for D.652-50c's
+facsimile pages) rather than forcing D.652-41a's landscape.
 
 ## Series-shared glossary
 
