@@ -33,6 +33,7 @@ from export_facsimile_pdf import (
     render_facsimile_page,
     render_translation_page,
 )
+from title_page import TITLE_PAGE_SPEC, render_title_page
 
 
 def render_cover_page(pdf, image_path):
@@ -88,6 +89,8 @@ def main():
     pdf.setTitle("D. 652/50c - FrontMatter - facsimile + bilingual translation")
     pdf.setAuthor("PanzerLab")
     pdf.setSubject("Facsimile export generated from the canonical JSON decomposition")
+
+    render_title_page(pdf, TITLE_PAGE_SPEC, regular, bold, italic, PAGE_W, PAGE_H)
 
     cover_path = frontmatter_dir / "cover.jpg"
     has_cover = bool(manifest.get("output", {}).get("cover")) and cover_path.is_file()
