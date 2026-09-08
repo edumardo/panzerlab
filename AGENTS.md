@@ -51,10 +51,13 @@ translations, and document-processing utilities.
             │       ├── schema/
             │       ├── sections/
             │       └── scripts/
-            ├── en/
-            ├── es/
             └── bilingual/
 ```
+
+D.652-50c has no `en/` / `es/` directories: it uses the facsimile+translation
+`bilingual/` export exclusively (see the layout and bilingual-exports notes
+below), unlike documents translated as separate single-language exports
+(such as D.652-41a), which do keep per-language `en/` / `es/` directories.
 
 `viewer/` is a generic, document-agnostic static viewer for validating any
 decomposition built per `docs/PDF_TO_CANONICAL_JSON.md`; `viewer/documents.json`
