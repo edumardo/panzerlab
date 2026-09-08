@@ -138,8 +138,8 @@ def render_translation_page(pdf, content, regular, bold, italic):
 
     y = rule_y - 9 * mm
 
-    for para in content["paragraphs"]:
-        for lang in LANGUAGES:
+    for lang in LANGUAGES:
+        for para in content["paragraphs"]:
             text = para["text"][lang]["plain"] if para["text"].get(lang) else ""
             if not text:
                 continue
@@ -151,7 +151,6 @@ def render_translation_page(pdf, content, regular, bold, italic):
                 y = TOP_MARGIN - 10 * mm
             y = draw_wrapped(pdf, tagged, LEFT, y, width, regular, 10.5, 13)
             y -= 6
-        y -= 3
 
     for figure in content["figures"]:
         label = f"Fig. {figure['number']}"
