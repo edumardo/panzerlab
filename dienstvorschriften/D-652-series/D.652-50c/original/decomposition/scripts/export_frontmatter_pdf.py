@@ -7,11 +7,9 @@ no title/paragraphs/figures) has nothing to translate, so only its facsimile
 page is emitted.
 
 The very first page is the compiled-edition title page (series-wide format,
-see D-652-series/scripts/title_page.py), followed -- when frontmatter/
-manifest.json has output.cover = true and a frontmatter/cover.jpg asset is
-present -- by a dedicated cover page (the clean cover scan, full-bleed, no
-header chrome): the manuscript's own cover, distinct from the archival
-page-1 facsimile that follows.
+see D-652-series/scripts/title_page.py), which already carries designation,
+title, version, and authorship metadata. The archival page-1 facsimile
+(with its scan watermark) follows immediately after, like every other page.
 
 Requires validated status for transcription, en-GB and es-ES on every page.
 """
@@ -23,10 +21,7 @@ import json
 import sys
 from pathlib import Path
 
-from PIL import Image as PILImage
-from reportlab.lib.colors import HexColor
 from reportlab.lib.pagesizes import A4
-from reportlab.lib.units import mm
 from reportlab.pdfgen import canvas as canvas_module
 
 from export_facsimile_pdf import (
@@ -40,25 +35,6 @@ from title_page_spec import TITLE_PAGE_SPEC
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "scripts"))
 from title_page import render_title_page  # noqa: E402
-
-
-def render_cover_page(pdf, image_path):
-    with PILImage.open(image_path) as image:
-        image_width, image_height = image.size
-
-    margin = 10 * mm
-    available_w = PAGE_W - 2 * margin
-    available_h = PAGE_H - 2 * margin
-    scale = min(available_w / image_width, available_h / image_height)
-    draw_width, draw_height = image_width * scale, image_height * scale
-    image_x = (PAGE_W - draw_width) / 2
-    image_y = (PAGE_H - draw_height) / 2
-    pdf.drawImage(str(image_path), image_x, image_y, draw_width, draw_height,
-                  preserveAspectRatio=True, mask="auto")
-    pdf.setStrokeColor(HexColor("#DCE4EC"))
-    pdf.setLineWidth(0.5)
-    pdf.rect(image_x, image_y, draw_width, draw_height)
-    pdf.showPage()
 
 
 def main():
@@ -98,11 +74,6 @@ def main():
 
     render_title_page(pdf, TITLE_PAGE_SPEC, regular, bold, italic, PAGE_W, PAGE_H)
 
-    cover_path = frontmatter_dir / "cover.jpg"
-    has_cover = bool(manifest.get("output", {}).get("cover")) and cover_path.is_file()
-    if has_cover:
-        render_cover_page(pdf, cover_path)
-
     translation_pages = 0
     for page_dir, content in entries:
         render_facsimile_page(pdf, page_dir, content, regular, bold)
@@ -113,8 +84,7 @@ def main():
 
     pdf.save()
     draft_note = " (contains draft/unvalidated pages)" if has_draft else ""
-    cover_note = " + cover page" if has_cover else ""
-    print(f"Created {args.output} ({len(entries)} source pages, {translation_pages} translation pages{cover_note}){draft_note}.")
+    print(f"Created {args.output} ({len(entries)} source pages, {translation_pages} translation pages){draft_note}.")
 
 
 if __name__ == "__main__":
