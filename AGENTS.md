@@ -75,8 +75,11 @@ production reader — see `viewer/README.md`.
 - **Bilingual exports**: a `bilingual/` directory holds exports that show more
   than one target language side by side on the same page (for example a
   facsimile-then-translation export listing EN and ES together), so they are
-  not misfiled under a single-language directory. Name files
-  `<document-designation>_bilingual_<section>_v<version>.pdf`.
+  not misfiled under a single-language directory. Keep a single compiled PDF
+  for the whole document, named `<document-designation>_bilingual_full_v<version>.pdf`;
+  do not commit a separate PDF per section (an exporter may still write
+  per-section files to a scratch location as an intermediate step, but only
+  the merged full-document PDF is canonical output).
 
 ## Document metadata
 
