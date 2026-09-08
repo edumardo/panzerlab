@@ -262,3 +262,20 @@ DOCX and PDF outputs require render-to-image visual review before delivery.
   `Co-Authored-By` trailers for any AI tool; commits must show only the human
   author.
 
+## Releases
+
+`.github/workflows/publish-releases.yml` runs `.github/scripts/publish_releases.py`
+on every push to `master`. It diffs the files changed in that push and looks
+for a document's compiled export gaining a new version:
+
+- a bilingual export, `<series>/<doc>/bilingual/<doc>_bilingual_full_v<version>.pdf`;
+- or a single-language export, `<series>/<doc>/(en|es)/<doc>_(en|es)_v<version>.pdf`.
+
+For each `(series, doc, version)` found, it creates a GitHub Release tagged
+`<doc>-v<version>` (unless that tag already exists, making the workflow a
+no-op on repeat pushes) with a title and body built from that document's
+`metadata.md`, attaching the original German PDF plus whatever `bilingual/`,
+`en/`, and `es/` PDFs currently exist. Bumping a document's compiled-export
+version and pushing to `master` is therefore enough to publish it; no manual
+`gh release create` step is needed.
+
