@@ -33,6 +33,8 @@ translations, and document-processing utilities.
         ├── index.md
         ├── glossary/
         │   └── terminology.json
+        ├── scripts/
+        │   └── title_page.py
         └── D.652-50c/
             ├── metadata.md
             ├── original/
@@ -49,10 +51,13 @@ translations, and document-processing utilities.
             │       ├── schema/
             │       ├── sections/
             │       └── scripts/
-            ├── en/
-            ├── es/
             └── bilingual/
 ```
+
+D.652-50c has no `en/` / `es/` directories: it uses the facsimile+translation
+`bilingual/` export exclusively (see the layout and bilingual-exports notes
+below), unlike documents translated as separate single-language exports
+(such as D.652-41a), which do keep per-language `en/` / `es/` directories.
 
 `viewer/` is a generic, document-agnostic static viewer for validating any
 decomposition built per `docs/PDF_TO_CANONICAL_JSON.md`; `viewer/documents.json`
@@ -73,8 +78,11 @@ production reader — see `viewer/README.md`.
 - **Bilingual exports**: a `bilingual/` directory holds exports that show more
   than one target language side by side on the same page (for example a
   facsimile-then-translation export listing EN and ES together), so they are
-  not misfiled under a single-language directory. Name files
-  `<document-designation>_bilingual_<section>_v<version>.pdf`.
+  not misfiled under a single-language directory. Keep a single compiled PDF
+  for the whole document, named `<document-designation>_bilingual_full_v<version>.pdf`;
+  do not commit a separate PDF per section (an exporter may still write
+  per-section files to a scratch location as an intermediate step, but only
+  the merged full-document PDF is canonical output).
 
 ## Document metadata
 
@@ -141,6 +149,27 @@ creating or changing a decomposition.
 - `source_display.jpg` (when present next to a page's `source.jpg`) is a
   derived, regenerable crop that trims scan background/edges for display. It
   never replaces `source.jpg`, which stays as the untouched archival scan.
+
+## Series-shared compiled-edition title page
+
+Every compiled bilingual export in the series opens with a title page in the
+shared style rendered by `<series>/scripts/title_page.py`
+(`render_title_page`), confirmed 2026-09-08 against D.652-50c. The page
+shows, in order: designation, model/variant lines, an EN-then-ES-then-DE
+subtitle block, an EN-then-ES edition line, an org/date line, a credit block,
+and a version line. Colours, sizes, and spacing come from D.652-41a's
+compiled docx (`D.652-41a/en/D.652-41a_en_v1.0.docx`), extracted via
+python-docx introspection rather than eyeballed.
+
+A document's own export script imports `render_title_page` from the series
+script and supplies a local `title_page_spec.py` (see
+`D.652-50c/original/decomposition/scripts/title_page_spec.py`) with the
+document's own designation, titles, and variants. Keep `credit_line`
+identical, word for word, across every document in the series; `source_line`
+must cite that specific document's own source URL (`metadata.md` /
+`metadata.json`), not another document's. Page orientation follows whatever
+the rest of that document's export already uses (A4 portrait for D.652-50c's
+facsimile pages) rather than forcing D.652-41a's landscape.
 
 ## Series-shared glossary
 
@@ -232,4 +261,21 @@ DOCX and PDF outputs require render-to-image visual review before delivery.
 - Never add AI authorship or co-authorship to commits. Do not add
   `Co-Authored-By` trailers for any AI tool; commits must show only the human
   author.
+
+## Releases
+
+`.github/workflows/publish-releases.yml` runs `.github/scripts/publish_releases.py`
+on every push to `master`. It diffs the files changed in that push and looks
+for a document's compiled export gaining a new version:
+
+- a bilingual export, `<series>/<doc>/bilingual/<doc>_bilingual_full_v<version>.pdf`;
+- or a single-language export, `<series>/<doc>/(en|es)/<doc>_(en|es)_v<version>.pdf`.
+
+For each `(series, doc, version)` found, it creates a GitHub Release tagged
+`<doc>-v<version>` (unless that tag already exists, making the workflow a
+no-op on repeat pushes) with a title and body built from that document's
+`metadata.md`, attaching the original German PDF plus whatever `bilingual/`,
+`en/`, and `es/` PDFs currently exist. Bumping a document's compiled-export
+version and pushing to `master` is therefore enough to publish it; no manual
+`gh release create` step is needed.
 
