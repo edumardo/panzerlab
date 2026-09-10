@@ -1,0 +1,19 @@
+{
+  "id": "A33",
+  "pages": [
+    96,
+    97,
+    98
+  ],
+  "titles": {
+    "de": "33. Arbeitszeiten",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

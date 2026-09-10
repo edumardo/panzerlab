@@ -1,0 +1,19 @@
+{
+  "id": "A10",
+  "pages": [
+    34,
+    35,
+    36
+  ],
+  "titles": {
+    "de": "10. Ausbau des Schwingungsdämpfers",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

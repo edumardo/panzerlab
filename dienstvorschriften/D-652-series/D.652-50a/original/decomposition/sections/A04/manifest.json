@@ -1,0 +1,18 @@
+{
+  "id": "A04",
+  "pages": [
+    14,
+    15
+  ],
+  "titles": {
+    "de": "4. Einbau der Laufrolle",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

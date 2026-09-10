@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50a",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "front_matter": {
+    "titles": {
+      "de": "Vorbemerkungen",
+      "en-GB": "Preliminary Remarks",
+      "es-ES": "Observaciones preliminares"
+    },
+    "page": 3,
+    "status": "validated"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "titles": {
+        "de": "Ausbau eines Kettengliedes",
+        "en-GB": "Removing a track link",
+        "es-ES": "Desmontaje de un eslabón de cadena"
+      },
+      "page": 4,
+      "section": "A01",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 2,
+      "titles": {
+        "de": "Einbau eines Kettengliedes",
+        "en-GB": "Fitting a track link",
+        "es-ES": "Montaje de un eslabón de cadena"
+      },
+      "page": 7,
+      "section": "A02",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 3,
+      "titles": {
+        "de": "Ausbau der Laufrolle",
+        "en-GB": "Removing the road wheel",
+        "es-ES": "Desmontaje de la rueda de rodadura"
+      },
+      "page": 9,
+      "section": "A03",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 4,
+      "titles": {
+        "de": "Einbau der Laufrolle",
+        "en-GB": "Installation of the road wheel",
+        "es-ES": "Montaje de la rueda de rodadura"
+      },
+      "page": 14,
+      "section": "A04",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 5,
+      "titles": {
+        "de": "Ausfluchten des Laufwerkes",
+        "en-GB": "Aligning the running gear",
+        "es-ES": "Alineación del tren de rodaje"
+      },
+      "page": 16,
+      "section": "A05",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 6,
+      "titles": {
+        "de": "Ausbau der Laufrollenlager",
+        "en-GB": "Removal of the road-wheel bearings",
+        "es-ES": "Desmontaje de los cojinetes de la rueda de rodadura"
+      },
+      "page": 19,
+      "section": "A06",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 7,
+      "titles": {
+        "de": "Einbau der Laufrollenlager",
+        "en-GB": "Installation of the road-wheel bearings",
+        "es-ES": "Montaje de los cojinetes de la rueda de rodadura"
+      },
+      "page": 24,
+      "section": "A07",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 8,
+      "titles": {
+        "de": "Ausbau der Innenringe der Laufrollenlager",
+        "en-GB": "Removal of the inner races of the road-wheel bearings",
+        "es-ES": "Desmontaje de los anillos interiores de los cojinetes de la rueda de rodadura"
+      },
+      "page": 27,
+      "section": "A08",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 9,
+      "titles": {
+        "de": "Einbau der Innenringe der Laufrollenlager",
+        "en-GB": "Installation of the inner races of the road-wheel bearings",
+        "es-ES": "Montaje de los anillos interiores de los cojinetes de las ruedas de rodadura"
+      },
+      "page": 32,
+      "section": "A09",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 10,
+      "titles": {
+        "de": "Ausbau des Schwingungsdämpfers",
+        "en-GB": "Removal of the vibration damper",
+        "es-ES": "Desmontaje del amortiguador de vibraciones"
+      },
+      "page": 34,
+      "section": "A10",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 11,
+      "titles": {
+        "de": "Einbau des Schwingungsdämpfers",
+        "en-GB": "Fitting the vibration damper",
+        "es-ES": "Montaje del amortiguador de vibraciones"
+      },
+      "page": 37,
+      "section": "A11",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 12,
+      "titles": {
+        "de": "Ausbau der Drehstabfeder",
+        "en-GB": "Removing the torsion-bar spring",
+        "es-ES": "Desmontaje de la barra de torsión"
+      },
+      "page": 40,
+      "section": "A12",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 13,
+      "titles": {
+        "de": "Einbau der Drehstabfeder",
+        "en-GB": "Fitting the torsion-bar spring",
+        "es-ES": "Montaje de la barra de torsión"
+      },
+      "page": 46,
+      "section": "A13",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 14,
+      "titles": {
+        "de": "Ausbau des Schwingarmes",
+        "en-GB": "Removing the swing arm",
+        "es-ES": "Desmontaje del brazo oscilante"
+      },
+      "page": 49,
+      "section": "A14",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 15,
+      "titles": {
+        "de": "Einbau des Schwingarmes",
+        "en-GB": "Fitting the swing arm",
+        "es-ES": "Montaje del brazo oscilante"
+      },
+      "page": 50,
+      "section": "A15",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 16,
+      "titles": {
+        "de": "Ausbau der Schwingarmlager",
+        "en-GB": "Removing the swing-arm bearings",
+        "es-ES": "Desmontaje de los cojinetes del brazo oscilante"
+      },
+      "page": 51,
+      "section": "A16",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 17,
+      "titles": {
+        "de": "Einbau der Schwingarmlager",
+        "en-GB": "Fitting the swing-arm bearings",
+        "es-ES": "Montaje de los cojinetes del brazo oscilante"
+      },
+      "page": 54,
+      "section": "A17",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 18,
+      "titles": {
+        "de": "Abbau der Stützrolle",
+        "en-GB": "Removal of the support roller",
+        "es-ES": "Desmontaje del rodillo de apoyo"
+      },
+      "page": 57,
+      "section": "A18",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 19,
+      "titles": {
+        "de": "Anbau der Stützrolle",
+        "en-GB": "Fitting of the support roller",
+        "es-ES": "Montaje del rodillo de apoyo"
+      },
+      "page": 57,
+      "section": "A18",
+      "status": "validated",
+      "note": "Heading is mid-page (after chapter 18's text), sharing archive page 57 with chapter 18; no separate A19 section directory exists."
+    },
+    {
+      "number": 20,
+      "titles": {
+        "de": "Ausbau des Leitrades",
+        "en-GB": "Removal of the idler wheel",
+        "es-ES": "Desmontaje de la rueda tensora"
+      },
+      "page": 58,
+      "section": "A20",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 21,
+      "titles": {
+        "de": "Einbau des Leitrades",
+        "en-GB": "Installation of the idler wheel",
+        "es-ES": "Montaje de la rueda tensora"
+      },
+      "page": 60,
+      "section": "A21",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 22,
+      "titles": {
+        "de": "Ausbau der Leitradkurbel",
+        "en-GB": "Removal of the idler crank",
+        "es-ES": "Desmontaje de la manivela de la rueda tensora"
+      },
+      "page": 62,
+      "section": "A22",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 23,
+      "titles": {
+        "de": "Einbau der Leitradkurbel",
+        "en-GB": "Installation of the idler crank",
+        "es-ES": "Montaje de la manivela de la rueda tensora"
+      },
+      "page": 65,
+      "section": "A23",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 24,
+      "titles": {
+        "de": "Ausbau der Scherscheibe an dem Kettenspanner neuerer Ausführung",
+        "en-GB": "Removal of the shear disc on the newer-type track tensioner",
+        "es-ES": "Desmontaje del disco de cizalla en el tensor de cadena de tipo más reciente"
+      },
+      "page": 68,
+      "section": "A24",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 25,
+      "titles": {
+        "de": "Ausbau der Scherscheibe an dem Kettenspanner älterer Ausführung",
+        "en-GB": "Removal of the shear disc on the older-type track tensioner",
+        "es-ES": "Desmontaje del disco de cizalla en el tensor de cadena de tipo más antiguo"
+      },
+      "page": 70,
+      "section": "A25",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 26,
+      "titles": {
+        "de": "Einbau der Scherscheibe an dem Kettenspanner neuerer Ausführung",
+        "en-GB": "Installation of the shear disc on the newer-type track tensioner",
+        "es-ES": "Montaje del disco de cizalla en el tensor de cadena de tipo más reciente"
+      },
+      "page": 72,
+      "section": "A26",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 27,
+      "titles": {
+        "de": "Einbau der Scherscheibe an dem Kettenspanner älterer Ausführung",
+        "en-GB": "Installation of the shear disc on the older-type track tensioner",
+        "es-ES": "Montaje del disco de cizalla en el tensor de cadena de tipo más antiguo"
+      },
+      "page": 72,
+      "section": "A26",
+      "status": "validated",
+      "note": "Heading is mid-page (after chapter 26's text), sharing archive page 72 with chapter 26; no separate A27 section directory exists."
+    },
+    {
+      "number": 28,
+      "titles": {
+        "de": "Ausbau des Zahnkranzes am Triebrad",
+        "en-GB": "Removal of the sprocket ring on the drive wheel",
+        "es-ES": "Desmontaje de la corona dentada de la rueda motriz"
+      },
+      "page": 73,
+      "section": "A28",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 29,
+      "titles": {
+        "de": "Einbau des Zahnkranzes am Triebrad",
+        "en-GB": "Installation of the sprocket ring on the drive wheel",
+        "es-ES": "Montaje de la corona dentada en la rueda motriz"
+      },
+      "page": 74,
+      "section": "A29",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 30,
+      "titles": {
+        "de": "Ausbau des Triebrades",
+        "en-GB": "Removal of the drive wheel",
+        "es-ES": "Desmontaje de la rueda motriz"
+      },
+      "page": 76,
+      "section": "A30",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 31,
+      "titles": {
+        "de": "Einbau des Triebrades",
+        "en-GB": "Installation of the drive wheel",
+        "es-ES": "Montaje de la rueda motriz"
+      },
+      "page": 79,
+      "section": "A31",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 32,
+      "titles": {
+        "de": "Sonderwerkzeuge mit ihren Zeichnungen",
+        "en-GB": "Special tools with their drawings",
+        "es-ES": "Herramientas especiales con sus planos"
+      },
+      "page": 82,
+      "section": "A32",
+      "status": "validated",
+      "note": null
+    },
+    {
+      "number": 33,
+      "titles": {
+        "de": "Arbeitszeiten",
+        "en-GB": "Working Times",
+        "es-ES": "Tiempos de trabajo"
+      },
+      "page": 96,
+      "section": "A33",
+      "status": "validated",
+      "note": null
+    }
+  ]
+}

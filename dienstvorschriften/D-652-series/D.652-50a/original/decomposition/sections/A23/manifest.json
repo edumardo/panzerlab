@@ -1,0 +1,19 @@
+{
+  "id": "A23",
+  "pages": [
+    65,
+    66,
+    67
+  ],
+  "titles": {
+    "de": "23. Einbau der Leitradkurbel",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

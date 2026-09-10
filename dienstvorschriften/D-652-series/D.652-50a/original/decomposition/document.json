@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "d652-50a",
+  "code": "D 652/50a",
+  "titles": {
+    "de": "Vorläufige Instandsetzungsanleitung für das Laufwerk",
+    "en-GB": "Provisional repair instructions for the running gear",
+    "es-ES": "Instrucciones provisionales de reparación del tren de rodaje"
+  },
+  "original_date": "1943-03-01",
+  "source_language": "de-DE",
+  "target_languages": [
+    "en-GB",
+    "es-ES"
+  ],
+  "source_pdf": "../D.652-50a_de.pdf",
+  "index": "index/contents.json",
+  "glossary": "glossary/terminology.json",
+  "manifest": "manifest.json",
+  "layout": "layout.json"
+}

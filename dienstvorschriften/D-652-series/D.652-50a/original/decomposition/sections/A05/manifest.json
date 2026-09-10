@@ -1,0 +1,19 @@
+{
+  "id": "A05",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "titles": {
+    "de": "5. Ausfluchten des Laufwerkes",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}
