@@ -143,19 +143,24 @@ def render_translation_page(pdf, content, regular, bold, italic):
 
     y = rule_y - 9 * mm
 
-    for lang in LANGUAGES:
-        for para in content["paragraphs"]:
+    for para in content["paragraphs"]:
+        per_lang_lines = {}
+        block_lines = 0
+        for lang in LANGUAGES:
             text = para["text"][lang]["plain"] if para["text"].get(lang) else ""
-            if not text:
-                continue
-            tagged = f"[{LANG_LABEL[lang]}] {text}"
-            lines = wrap_text(tagged, regular, 10.5, width)
-            needed = len(lines) * 13 + 6
-            if y - needed < BOTTOM_MARGIN:
-                pdf.showPage()
-                y = TOP_MARGIN - 10 * mm
-            y = draw_wrapped(pdf, tagged, LEFT, y, width, regular, 10.5, 13)
-            y -= 6
+            lines = wrap_text(f"[{LANG_LABEL[lang]}] {text}", regular, 10.5, width) if text else []
+            per_lang_lines[lang] = lines
+            block_lines += len(lines)
+        if block_lines == 0:
+            continue
+        needed = block_lines * 13 + 6
+        if y - needed < BOTTOM_MARGIN:
+            pdf.showPage()
+            y = TOP_MARGIN - 10 * mm
+        for lang in LANGUAGES:
+            for line in per_lang_lines[lang]:
+                y = draw_wrapped(pdf, line, LEFT, y, width, regular, 10.5, 13)
+        y -= 6
 
     for figure in content["figures"]:
         label = f"Fig. {figure['number']}"
