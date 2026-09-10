@@ -139,10 +139,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Lafeta autopropulsada blindada, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
+          "plain": "Cureña autopropulsada blindada, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
           "runs": [
             {
-              "text": "Lafeta autopropulsada blindada, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
+              "text": "Cureña autopropulsada blindada, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
               "bold": false
             }
           ]
@@ -162,19 +162,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Provisional repair manual for the power train",
+          "plain": "Provisional repair manual for the drivetrain",
           "runs": [
             {
-              "text": "Provisional repair manual for the power train",
+              "text": "Provisional repair manual for the drivetrain",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Manual provisional de reparación del tren de potencia",
+          "plain": "Manual provisional de reparación del tren de transmisión",
           "runs": [
             {
-              "text": "Manual provisional de reparación del tren de potencia",
+              "text": "Manual provisional de reparación del tren de transmisión",
               "bold": false
             }
           ]

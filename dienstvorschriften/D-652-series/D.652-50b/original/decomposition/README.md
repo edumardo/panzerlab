@@ -18,7 +18,7 @@ canonical content source; DOCX, PDF, HTML and Markdown are derived outputs.
   no figure has been cropped (methodology §5 steps 4/6/7 done; step 5 —
   figure cropping — and the visual-review pass are still pending).
 - `index/contents.json`: trilingual table of contents, one group (`A`,
-  "power train repair") with 22 sections (`A01`–`A22`).
+  "drivetrain repair") with 22 sections (`A01`–`A22`).
 - `glossary/terminology.json`: German → en-GB → es-ES terminology specific to
   this document (30 terms), extending the series-shared glossary.
 - `layout.json`: output-independent layout profile.

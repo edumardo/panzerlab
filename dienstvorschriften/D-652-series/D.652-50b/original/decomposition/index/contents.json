@@ -5,8 +5,8 @@
       "id": "A",
       "titles": {
         "de": "Instandsetzung des Triebwerks",
-        "en-GB": "Power train repair",
-        "es-ES": "Reparación del tren de potencia"
+        "en-GB": "Drivetrain repair",
+        "es-ES": "Reparación del tren de transmisión"
       },
       "sections": [
         {
@@ -236,7 +236,7 @@
           "titles": {
             "de": "Ausbau des Geschützes der gp Sfl",
             "en-GB": "Removing the gun of the armoured self-propelled carriage",
-            "es-ES": "Desmontaje del cañón de la lafeta autopropulsada blindada"
+            "es-ES": "Desmontaje del cañón de la cureña autopropulsada blindada"
           },
           "manifest": "../sections/A21/manifest.json"
         },

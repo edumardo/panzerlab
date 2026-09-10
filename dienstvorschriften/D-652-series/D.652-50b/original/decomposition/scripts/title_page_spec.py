@@ -12,8 +12,8 @@ TITLE_PAGE_SPEC = {
         "Panzerkampfwagen III (Ausf. H–L) · Panzerbefehlswagen (Ausf. H–K)",
         "Gepanzerte Selbstfahrlafette / StuG (Ausf. A, B, D, E)",
     ],
-    "subtitle_en": "Preliminary repair instructions for the power train",
-    "subtitle_es": "Instrucciones provisionales de reparación del tren de potencia",
+    "subtitle_en": "Preliminary repair instructions for the drivetrain",
+    "subtitle_es": "Instrucciones provisionales de reparación del tren de transmisión",
     "subtitle_de": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
     "edition_line": (
         "Complete bilingual edition — full facsimile of the original German "

@@ -11,8 +11,8 @@
     {
       "id": "term-001",
       "de": "Triebwerk",
-      "en-GB": "power train",
-      "es-ES": "tren de potencia",
+      "en-GB": "drivetrain",
+      "es-ES": "tren de transmisión",
       "status": "validated"
     },
     {
@@ -145,7 +145,7 @@
       "id": "term-020",
       "de": "gp Sfl (gepanzerte Selbstfahrlafette)",
       "en-GB": "armoured self-propelled carriage",
-      "es-ES": "lafeta autopropulsada blindada",
+      "es-ES": "cureña autopropulsada blindada",
       "status": "validated"
     },
     {
