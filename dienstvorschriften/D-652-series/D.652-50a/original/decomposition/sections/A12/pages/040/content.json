@@ -58,7 +58,7 @@
     {
       "id": "d65250a-bild-057",
       "number": 57,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Blechsicherungen geradebiegen.",
@@ -98,7 +98,7 @@
     {
       "id": "d65250a-bild-058",
       "number": 58,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Deckplatte mit Dichtung abnehmen.",
@@ -137,9 +137,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

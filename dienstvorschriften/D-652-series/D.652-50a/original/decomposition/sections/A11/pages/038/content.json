@@ -70,7 +70,7 @@
     {
       "id": "d65250a-bild-054",
       "number": 54,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Schwingungsdämpfergabel und das Schwingarmauge mit Hilfe des Richtdorns Nr. III DB 128 in eine Flucht bringen.",
@@ -110,7 +110,7 @@
     {
       "id": "d65250a-bild-055",
       "number": 55,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Schwingungsdämpferbolzen mit Hammer und Holzklotz einschlagen. Der Schwingungsdämpferbolzen wird vorher mit Öl bestrichen.",
@@ -149,9 +149,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

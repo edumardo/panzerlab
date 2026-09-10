@@ -134,7 +134,7 @@
     {
       "id": "d65250a-bild-086",
       "number": 86,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 86",
@@ -158,9 +158,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

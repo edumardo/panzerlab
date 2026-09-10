@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-029",
       "number": 29,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Drucksteg über die Zugschraube legen.",
@@ -50,7 +50,7 @@
     {
       "id": "d65250a-bild-030",
       "number": 30,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Scheibe auf Drucksteg legen und Mutter aufschrauben.",
@@ -74,9 +74,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

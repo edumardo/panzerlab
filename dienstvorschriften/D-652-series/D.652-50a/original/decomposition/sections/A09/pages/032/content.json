@@ -90,7 +90,7 @@
     {
       "id": "d65250a-bild-046",
       "number": 46,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "1. Gleitring 2. Beilagscheiben 3. Abziehring 4. Zwischenring 5. Innenring des hinteren Laufrollenlagers 6. Abstandbuchse 7. Innenring des vorderen Laufrollenlagers 8. Schulterring 9. Beilagscheiben",
@@ -129,9 +129,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

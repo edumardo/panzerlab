@@ -171,13 +171,27 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report, c
         for key, value in status.items():
             check_status_value(value, f"page {page} content.status.{key}", report)
 
-        # Validated-but-empty: a page can't be validated with no titles and no paragraphs.
+        # Validated-but-empty: a page can't be validated with no titles, no
+        # paragraphs, and no figure captions. A page whose only content is a
+        # captioned drawing plate or photo (title/paragraphs both null) still
+        # carries real, checkable text in figures[].captions -- that counts.
         titles = content.get("titles") or {}
         has_any_title = any(v for v in titles.values())
         has_paragraphs = bool(content.get("paragraphs"))
+        has_figure_text = any(
+            (figure.get("captions") or {}).get(lang, {}).get("plain")
+            for figure in content.get("figures", [])
+            for lang in ["de", *target_languages]
+        )
         transcription_validated = status.get("transcription") == "validated" or entry.get("transcription_status") == "validated"
-        if transcription_validated and not has_any_title and not has_paragraphs and content.get("type") != "blank":
-            report.error(f"Page {page} ({section}) marked validated but has no titles and no paragraphs")
+        if (
+            transcription_validated
+            and not has_any_title
+            and not has_paragraphs
+            and not has_figure_text
+            and content.get("type") != "blank"
+        ):
+            report.error(f"Page {page} ({section}) marked validated but has no titles, paragraphs, or figure captions")
 
         # Paragraph translation alignment: every paragraph's text dict should carry
         # a key for the source language and each target language (value may be null).

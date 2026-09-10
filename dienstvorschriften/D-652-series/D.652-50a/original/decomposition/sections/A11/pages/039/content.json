@@ -198,7 +198,7 @@
     {
       "id": "d65250a-bild-056",
       "number": 56,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Schwingarm mit dem Schwingungsdämpfer mit Winde anheben.",
@@ -237,9 +237,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

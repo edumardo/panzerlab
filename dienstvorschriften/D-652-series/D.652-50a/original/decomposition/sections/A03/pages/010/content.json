@@ -58,7 +58,7 @@
     {
       "id": "d65250a-bild-011",
       "number": 11,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Steckgabel zum Ausbau der Laufrollen, Zeichnung 1, S. 85¹).",
@@ -98,7 +98,7 @@
     {
       "id": "d65250a-bild-012",
       "number": 12,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Steckgabel waagerecht in die Laufrolle einführen.",
@@ -137,9 +137,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

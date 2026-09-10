@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-099",
       "number": 99,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Blechsicherung geradebiegen. Die Gegenmutter mit Steckschlüssel SW 60 abschrauben.",
@@ -65,7 +65,7 @@
     {
       "id": "d65250a-bild-100",
       "number": 100,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Spannschraube mit Steckschlüssel SW 60 lösen.",
@@ -104,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

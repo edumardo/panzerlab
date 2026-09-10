@@ -30,5 +30,5 @@ TITLE_PAGE_SPEC = {
         "Museo Histórico Militar de Cartagena (AAMMILCAR, aammilcar@gmail.com)"
     ),
     "source_line": "Original file: https://bushmakow.com/library/",
-    "version_line": "Version 1.0 (draft — pending human review)",
+    "version_line": "Version 1.0",
 }

@@ -90,7 +90,7 @@
     {
       "id": "d65250a-bild-043",
       "number": 43,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Abziehvorrichtung zum Ausbau der hinteren Innenringe der Laufrollenlager, Zeichn. 5a, S. 90.",
@@ -130,7 +130,7 @@
     {
       "id": "d65250a-bild-044",
       "number": 44,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "",
@@ -154,9 +154,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

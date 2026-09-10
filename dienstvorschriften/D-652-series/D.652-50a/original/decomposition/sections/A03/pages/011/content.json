@@ -70,7 +70,7 @@
     {
       "id": "d65250a-bild-013",
       "number": 13,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Laufrolle mit Winde anheben.",
@@ -110,7 +110,7 @@
     {
       "id": "d65250a-bild-014",
       "number": 14,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Schwingarm mit einem 380 mm hohen Holzklotz abstützen. Anschließend Winde und Steckgabel entfernen.",
@@ -149,9 +149,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

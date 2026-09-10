@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-024",
       "number": 24,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Beachten: Steht die Laufrolle außer der Spur zu dicht an der Wanne, so sind zusätzlich Beilagscheiben Nr. 2 beizulegen. Steht die Laufrolle außer der Spur zu weit von der Wanne, so sind Beilagscheiben Nr. 2 zu entfernen und Beilagscheiben Nr. 9 beizulegen. Durch Beilagscheiben Nr. 9 zwischen Schutzkappe und Rollenlageraußenring ist axiales Spiel zu entfernen.",
@@ -76,9 +76,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

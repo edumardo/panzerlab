@@ -122,7 +122,7 @@
     {
       "id": "d65250a-bild-110",
       "number": 110,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 110",
@@ -147,7 +147,7 @@
     {
       "id": "d65250a-bild-111",
       "number": 111,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 111",
@@ -171,9 +171,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

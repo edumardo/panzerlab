@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-027",
       "number": 27,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Schraube der Ausziehvorrichtung von hinten in die Druckplatte einführen. Schraube so weit herumdrehen, bis der Haltestift am Kopf der Schraube in der Nute der Druckplatte sitzt.",
@@ -50,7 +50,7 @@
     {
       "id": "d65250a-bild-028",
       "number": 28,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die beiden Einlegbleche in die Ausdrehung unter den Abdichtring legen.",
@@ -74,9 +74,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

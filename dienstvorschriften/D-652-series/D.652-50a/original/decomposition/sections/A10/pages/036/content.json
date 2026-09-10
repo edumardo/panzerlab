@@ -262,7 +262,7 @@
     {
       "id": "d65250a-bild-052",
       "number": 52,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "",
@@ -286,9 +286,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

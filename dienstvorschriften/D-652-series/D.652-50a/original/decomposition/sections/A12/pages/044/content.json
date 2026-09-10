@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-064",
       "number": 64,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Spindel der Abziehvorrichtung Nr. III DB 101 auf das Gewinde der Drehstabfeder mit Schraubenschlüssel SW 18 aufschrauben.",
@@ -65,7 +65,7 @@
     {
       "id": "d65250a-bild-065",
       "number": 65,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die gebrochene Drehstabfeder durch Herausdrehen der Spindel etwa 12 bis 15 mm aus dem Schwingarm ziehen. Die Mutter wird mit Schraubenschlüssel SW 32 angezogen.",
@@ -104,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

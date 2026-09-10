@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-088-01",
       "number": 5,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Zeichnung 5. Abziehvorrichtung z. Ausbau der Schwingarm- u. Laufrollenlager. Maßstab 1:2,5. Teile: Klaue, bl. Sechskantmutter M20 DIN 934, Unterlegscheibe für M20 DIN 125, Klaue, Halter kompl., Spindel, Druckscheibe (Schutzkappe), Druckscheibe (Laufringe). Zum Ausbau des hinteren, inneren Laufringes. Zum Ausbau des vorderen, inneren Laufringes. Halter aus zusammengeschweißtem Profilstahl gezeichnet. Unterlegscheibe festschweißen. Schlüsselweite = 32. Bohrung = 2 mm tief.",
@@ -49,9 +49,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

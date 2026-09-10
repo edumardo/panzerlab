@@ -90,7 +90,7 @@
     {
       "id": "d65250a-bild-009",
       "number": 9,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 9 u 10. Die Blechsicherungen an den Befestigungsschrauben der Schutzkappe mit Hammer und Meißel geradebiegen. Beachten: Die Blechsicherungen dürfen nicht abgeschlagen werden, da sonst eine Wiederverwendung unmöglich ist.",
@@ -115,7 +115,7 @@
     {
       "id": "d65250a-bild-010",
       "number": 10,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 9 u 10. Die Blechsicherungen an den Befestigungsschrauben der Schutzkappe mit Hammer und Meißel geradebiegen. Beachten: Die Blechsicherungen dürfen nicht abgeschlagen werden, da sonst eine Wiederverwendung unmöglich ist.",
@@ -139,9 +139,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

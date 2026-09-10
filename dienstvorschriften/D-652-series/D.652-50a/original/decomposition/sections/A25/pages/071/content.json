@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-104",
       "number": 104,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Buchse 1 und Scherscheibe 2 entfernen. Die Pfanne 3 braucht nicht entfernt werden.",
@@ -64,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

@@ -178,7 +178,7 @@
     {
       "id": "d65250a-bild-019",
       "number": 19,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Schwingarm mit Winde anheben.",
@@ -217,9 +217,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

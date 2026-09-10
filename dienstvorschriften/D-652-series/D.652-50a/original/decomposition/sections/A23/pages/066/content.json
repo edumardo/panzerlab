@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-095",
       "number": 95,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Gummiring 4, das Gummiband 3 und den Schlauchbinder 1 über die Kurbelhülse schieben. Die Leitradkurbel in die Lagerhülse einführen. Beachten: Die blanken Stellen der Kurbel müssen vorher eingefettet werden. Den Führungsring 7 und den Deckel 6, Gummiring 4 und Beilaghälften 8 werden zwischengefügt und befestigt.",
@@ -89,7 +89,7 @@
     {
       "id": "d65250a-bild-096",
       "number": 96,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Befestigungsschrauben 5 mit Schraubenschlüssel SW 22 einschrauben und mit Draht sichern. Das Gummiband 3 über die Trennfuge zwischen Kurbelarm und Führungsring schieben.",
@@ -128,9 +128,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

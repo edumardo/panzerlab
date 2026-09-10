@@ -90,7 +90,7 @@
     {
       "id": "d65250a-bild-025",
       "number": 25,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Mit Seegerring oder Spitzzange den Seegerring zusammendrücken und durch den Abdichtring (Simmerring) aus der Laufrolle ziehen.",
@@ -115,7 +115,7 @@
     {
       "id": "d65250a-bild-026",
       "number": 26,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Platte der Ausziehvorrichtung durch den Abdichtring und das Rollenlager in die Laufrolle einführen.",
@@ -139,9 +139,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

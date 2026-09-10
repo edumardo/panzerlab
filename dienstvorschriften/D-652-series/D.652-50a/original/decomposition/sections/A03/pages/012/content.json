@@ -58,7 +58,7 @@
     {
       "id": "d65250a-bild-015",
       "number": 15,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Splint der Kronenmutter mit Hammer und Meißel geradebiegen.",
@@ -98,7 +98,7 @@
     {
       "id": "d65250a-bild-016",
       "number": 16,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Splint mit Dorn und Hammer entfernen.",
@@ -137,9 +137,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

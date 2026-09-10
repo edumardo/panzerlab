@@ -153,7 +153,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
+      "transcription_status": "validated",
       "translation_en_status": "not_applicable",
       "translation_es_status": "not_applicable",
       "figures": []
@@ -166,9 +166,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -179,9 +179,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -192,13 +192,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 1,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -211,18 +211,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 2,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 3,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -235,13 +235,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 4,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -254,18 +254,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 5,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 6,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -278,18 +278,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 7,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 8,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -302,18 +302,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 9,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 10,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -326,18 +326,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 11,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 12,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -350,18 +350,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 13,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 14,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -374,18 +374,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 15,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 16,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -398,18 +398,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 17,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 18,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -422,13 +422,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 19,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -441,9 +441,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -454,18 +454,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 20,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 21,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -478,18 +478,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 22,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 23,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -502,13 +502,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 24,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -521,18 +521,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 25,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 26,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -545,18 +545,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 27,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 28,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -569,18 +569,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 29,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 30,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -593,18 +593,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 31,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 32,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -617,13 +617,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 33,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -636,13 +636,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 34,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -655,18 +655,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 35,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 36,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -679,18 +679,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 37,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 38,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -703,18 +703,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 39,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 40,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -727,13 +727,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 41,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -746,13 +746,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 42,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -765,18 +765,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 43,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 44,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -789,13 +789,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 45,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -808,13 +808,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 46,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -827,18 +827,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 47,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 48,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -851,13 +851,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 49,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -870,18 +870,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 50,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 51,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -894,13 +894,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 52,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -913,13 +913,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 53,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -932,18 +932,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 54,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 55,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -956,13 +956,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 56,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -975,18 +975,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 57,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 58,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -999,18 +999,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 59,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 60,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1023,13 +1023,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 61,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1042,18 +1042,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 62,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 63,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1066,18 +1066,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 64,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 65,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1090,18 +1090,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 66,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 67,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1114,18 +1114,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 68,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 69,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1138,13 +1138,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 70,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1157,13 +1157,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 71,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1176,13 +1176,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 72,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1195,13 +1195,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 73,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1214,18 +1214,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 74,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 75,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1238,18 +1238,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 76,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 77,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1262,18 +1262,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 78,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 79,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1286,13 +1286,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 80,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1305,13 +1305,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 81,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1324,13 +1324,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 82,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1343,13 +1343,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 83,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1362,18 +1362,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 84,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 85,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1386,13 +1386,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 86,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1405,13 +1405,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 87,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1424,9 +1424,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -1437,18 +1437,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 88,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 89,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1461,18 +1461,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 90,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 91,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1485,18 +1485,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 92,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 93,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1509,13 +1509,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 94,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1528,18 +1528,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 95,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 96,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1552,18 +1552,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 97,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 98,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1576,18 +1576,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 99,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 100,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1600,13 +1600,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 101,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1619,18 +1619,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 102,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 103,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1643,13 +1643,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 104,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1662,9 +1662,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -1675,18 +1675,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 105,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 106,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1699,18 +1699,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 107,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 108,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1723,13 +1723,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 109,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1742,18 +1742,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 110,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 111,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1766,18 +1766,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 112,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 113,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1790,18 +1790,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 114,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 115,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1814,18 +1814,18 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 116,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         },
         {
           "number": 117,
-          "status": "draft",
+          "status": "validated",
           "kind": "bild"
         }
       ]
@@ -1838,9 +1838,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -1851,7 +1851,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
+      "transcription_status": "validated",
       "translation_en_status": "not_applicable",
       "translation_es_status": "not_applicable",
       "figures": []
@@ -1864,9 +1864,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -1877,7 +1877,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
+      "transcription_status": "validated",
       "translation_en_status": "not_applicable",
       "translation_es_status": "not_applicable",
       "figures": []
@@ -1890,13 +1890,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 1,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -1909,13 +1909,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 2,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -1928,13 +1928,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 3,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -1947,13 +1947,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 4,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -1966,13 +1966,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 5,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -1985,13 +1985,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": "5a",
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -2004,13 +2004,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 6,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -2023,13 +2023,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 7,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -2042,13 +2042,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 8,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -2061,13 +2061,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 9,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -2080,13 +2080,13 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": [
         {
           "number": 10,
-          "status": "draft",
+          "status": "validated",
           "kind": "zeichnung"
         }
       ]
@@ -2099,7 +2099,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
+      "transcription_status": "validated",
       "translation_en_status": "not_applicable",
       "translation_es_status": "not_applicable",
       "figures": []
@@ -2112,9 +2112,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -2125,9 +2125,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -2138,9 +2138,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     },
     {
@@ -2151,7 +2151,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
+      "transcription_status": "validated",
       "translation_en_status": "not_applicable",
       "translation_es_status": "not_applicable",
       "figures": []
@@ -2164,7 +2164,7 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
+      "transcription_status": "validated",
       "translation_en_status": "not_applicable",
       "translation_es_status": "not_applicable",
       "figures": []
@@ -2177,9 +2177,9 @@
       "source_scan": "source.jpg",
       "content": "content.json",
       "source_scan_status": "extracted_clean",
-      "transcription_status": "draft",
-      "translation_en_status": "draft",
-      "translation_es_status": "draft",
+      "transcription_status": "validated",
+      "translation_en_status": "validated",
+      "translation_es_status": "validated",
       "figures": []
     }
   ]

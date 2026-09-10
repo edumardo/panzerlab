@@ -6,13 +6,13 @@
   "source_scan": "source.jpg",
   "content": "content.json",
   "source_scan_status": "extracted_clean",
-  "transcription_status": "draft",
-  "translation_en_status": "draft",
-  "translation_es_status": "draft",
+  "transcription_status": "validated",
+  "translation_en_status": "validated",
+  "translation_es_status": "validated",
   "figures": [
     {
       "number": 2,
-      "status": "draft",
+      "status": "validated",
       "kind": "zeichnung"
     }
   ]

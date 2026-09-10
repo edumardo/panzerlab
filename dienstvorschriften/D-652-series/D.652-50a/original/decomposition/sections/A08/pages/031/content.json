@@ -58,7 +58,7 @@
     {
       "id": "d65250a-bild-045",
       "number": 45,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "",
@@ -82,9 +82,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

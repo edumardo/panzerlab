@@ -294,7 +294,7 @@
     {
       "id": "d65250a-bild-007",
       "number": 7,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 7",
@@ -319,7 +319,7 @@
     {
       "id": "d65250a-bild-008",
       "number": 8,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Bild 8",
@@ -343,9 +343,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

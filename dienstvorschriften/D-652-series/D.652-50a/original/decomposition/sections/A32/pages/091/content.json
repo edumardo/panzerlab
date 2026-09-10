@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-091-01",
       "number": 7,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Zeichnung 7. Abziehvorrichtung zum Ausbau der Schwingungsdämpferbolzen. Maßstab 1:1. Teile: 1 Spindel, 2 Druckhülse, 3 Gewindestück, 4 Mutter DIN; Werkstoff u. Rohm.: St 34.11. Zeichnungsnummer III DB 138, Blatt 7.",
@@ -59,9 +59,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

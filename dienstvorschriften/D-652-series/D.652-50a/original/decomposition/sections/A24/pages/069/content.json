@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-101",
       "number": 101,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Pfanne (3) und die Scherscheibe (2) durch Herausdrehen der Spannschraube mit Buchse (1) entfernen.",
@@ -64,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

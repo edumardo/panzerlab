@@ -213,7 +213,9 @@ def main():
         page_dir = section_dir / "pages" / f"{page_number:03d}"
         content = json.loads((page_dir / "content.json").read_text(encoding="utf-8"))
         for key in ("transcription", "en-GB", "es-ES"):
-            if content["status"][key] != "validated":
+            # "not_applicable" is a legitimate final state for a blank page
+            # (nothing to transcribe/translate), not an unreviewed draft.
+            if content["status"][key] not in ("validated", "not_applicable"):
                 has_draft = True
                 if not args.allow_draft:
                     raise SystemExit(f"Page {page_number}: {key} is not validated")

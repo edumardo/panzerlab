@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-053",
       "number": 53,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Schwingungsdämpfergabel auf das Schwingarmauge aufsetzen.",
@@ -64,9 +64,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

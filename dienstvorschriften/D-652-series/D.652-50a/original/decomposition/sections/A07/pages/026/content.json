@@ -102,7 +102,7 @@
     {
       "id": "d65250a-bild-037",
       "number": 37,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Seegerring mit Seegerringzange oder Spitzzange zusammendrücken und einsetzen.",
@@ -127,7 +127,7 @@
     {
       "id": "d65250a-bild-038",
       "number": 38,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Abdichtring (Simmerring) mit Gummihammer einschlagen.",
@@ -151,9 +151,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

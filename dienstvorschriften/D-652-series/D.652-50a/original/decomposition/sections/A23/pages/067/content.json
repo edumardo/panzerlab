@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-097",
       "number": 97,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Das Stahlband mit Schlauchbinder befestigen.",
@@ -65,7 +65,7 @@
     {
       "id": "d65250a-bild-098",
       "number": 98,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Den Kettenspanner mit Seegerring sichern. Leitrad nach Abschn. 21, S. 61, einbauen.",
@@ -104,9 +104,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

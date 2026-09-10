@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-035",
       "number": 35,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Stempel zum Einbau der Laufrollenlager, Zeichn. 4, S. 88.",
@@ -50,7 +50,7 @@
     {
       "id": "d65250a-bild-036",
       "number": 36,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Rollenlager mit Stempel und Hammer in die Laufrollennabe einschlagen. Die Sitzflächen sind vorher mit Öl zu bestreichen.",
@@ -74,9 +74,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

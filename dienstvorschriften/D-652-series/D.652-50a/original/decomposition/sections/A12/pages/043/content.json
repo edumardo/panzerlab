@@ -90,7 +90,7 @@
     {
       "id": "d65250a-bild-062",
       "number": 62,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Blechsicherung 2 geradebiegen.",
@@ -130,7 +130,7 @@
     {
       "id": "d65250a-bild-063",
       "number": 63,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Druckscheibe 4 und die Zwischenbleche 5 mit Schraubenzieher herausnehmen.",
@@ -169,9 +169,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

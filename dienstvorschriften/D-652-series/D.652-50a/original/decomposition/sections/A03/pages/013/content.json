@@ -70,7 +70,7 @@
     {
       "id": "d65250a-bild-017",
       "number": 17,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Druckscheibe (1), die Beilagscheiben (2) und den Schulterring (3) entfernen.",
@@ -110,7 +110,7 @@
     {
       "id": "d65250a-bild-018",
       "number": 18,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Die Laufrolle vorsichtig vom Achsenstummel abziehen.",
@@ -149,9 +149,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }

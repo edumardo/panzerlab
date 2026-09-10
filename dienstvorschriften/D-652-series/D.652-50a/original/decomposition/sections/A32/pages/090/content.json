@@ -25,7 +25,7 @@
     {
       "id": "d65250a-bild-090-01",
       "number": 6,
-      "status": "draft",
+      "status": "validated",
       "captions": {
         "de": {
           "plain": "Zeichnung 6. Richtdorn zum Einbau des Schwingungsdämpfers. Maßstab 1:1. Stückz. 1: Griff, Werkstoff St 34.11; Stückz. 2: Dorn, Werkstoff St 34.11. Bezeichnung III DB 128, Teil 6.",
@@ -49,9 +49,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   }
 }
