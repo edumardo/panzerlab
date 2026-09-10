@@ -1,0 +1,23 @@
+{
+  "id": "A11",
+  "pages": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "titles": {
+    "de": "Zerlegen des Seitenvorgeleges",
+    "en": "Disassembling the final drive unit",
+    "es": "Despiece del engranaje lateral final"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

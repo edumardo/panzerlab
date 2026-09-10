@@ -1,0 +1,22 @@
+{
+  "id": "A16",
+  "pages": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75
+  ],
+  "titles": {
+    "de": "Auswechseln des Ausrücklagers der Hauptkupplung",
+    "en": "Replacing the release bearing of the main clutch",
+    "es": "Sustitución del rodamiento de desembrague del embrague principal"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

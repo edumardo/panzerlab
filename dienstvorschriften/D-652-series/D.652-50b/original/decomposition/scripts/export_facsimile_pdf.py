@@ -1,0 +1,257 @@
+"""Export a section as facsimile+translation page pairs (bilingual EN/ES).
+
+For each source page: page N is the full original scan (source_display.jpg if
+present, else source.jpg), page N+1 is the translated title and every figure
+caption on that page, shown side by side in English and Spanish. This replaces
+the per-figure crop export for sections that adopt the
+"A4_portrait_facsimile_then_translation" section layout: the reader always sees
+the untouched original page, so individual figure crops are no longer required.
+
+Requires validated status for transcription, en-GB and es-ES on every page.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+from pathlib import Path
+
+from PIL import Image as PILImage
+from reportlab.lib.colors import HexColor
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.units import mm
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.pdfgen import canvas
+
+TOP_MARGIN = 281 * mm
+BOTTOM_MARGIN = 18 * mm
+LEFT = 18 * mm
+RIGHT = 18 * mm
+PAGE_W, PAGE_H = A4
+LANG_LABEL = {"en-GB": "EN", "es-ES": "ES"}
+LANGUAGES = ["en-GB", "es-ES"]
+
+
+def register_fonts():
+    font_dir = Path("C:/Windows/Fonts")
+    candidates = {
+        "regular": font_dir / "arial.ttf",
+        "bold": font_dir / "arialbd.ttf",
+        "italic": font_dir / "ariali.ttf",
+    }
+    if all(path.is_file() for path in candidates.values()):
+        pdfmetrics.registerFont(TTFont("FacsimileSans", str(candidates["regular"])))
+        pdfmetrics.registerFont(TTFont("FacsimileSans-Bold", str(candidates["bold"])))
+        pdfmetrics.registerFont(TTFont("FacsimileSans-Italic", str(candidates["italic"])))
+        return "FacsimileSans", "FacsimileSans-Bold", "FacsimileSans-Italic"
+    return "Helvetica", "Helvetica-Bold", "Helvetica-Oblique"
+
+
+def wrap_text(text, font, size, width):
+    words = text.split()
+    lines = []
+    current = ""
+    for word in words:
+        candidate = f"{current} {word}".strip()
+        if not current or pdfmetrics.stringWidth(candidate, font, size) <= width:
+            current = candidate
+        else:
+            lines.append(current)
+            current = word
+    if current:
+        lines.append(current)
+    return lines
+
+
+def draw_wrapped(pdf, text, x, y, width, font, size, leading, colour=HexColor("#262626")):
+    pdf.setFillColor(colour)
+    pdf.setFont(font, size)
+    for line in wrap_text(text, font, size, width):
+        pdf.drawString(x, y, line)
+        y -= leading
+    return y
+
+
+def draw_header(pdf, title, page_number, regular, bold, label, subtitle=None):
+    page_label_text = f"{label} {page_number}"
+    label_width = pdfmetrics.stringWidth(page_label_text, regular, 9)
+    title_size = 13.0
+    title_width_limit = PAGE_W - LEFT - RIGHT - label_width - 6 * mm
+    while title_size > 9.5 and pdfmetrics.stringWidth(title, bold, title_size) > title_width_limit:
+        title_size -= 0.5
+
+    pdf.setFont(regular, 9)
+    pdf.setFillColor(HexColor("#52606D"))
+    pdf.drawRightString(PAGE_W - RIGHT, TOP_MARGIN, page_label_text)
+
+    pdf.setFillColor(HexColor("#102A43"))
+    pdf.setFont(bold, title_size)
+    title_bottom = TOP_MARGIN
+    if pdfmetrics.stringWidth(title, bold, title_size) > title_width_limit:
+        # Even at minimum size the title collides with the page label on one
+        # line: wrap it, keeping the first line clear of the label and
+        # letting subsequent lines use the full width.
+        first_line = wrap_text(title, bold, title_size, title_width_limit)[0]
+        remainder = title[len(first_line):].strip()
+        lines = [first_line] + (wrap_text(remainder, bold, title_size, PAGE_W - LEFT - RIGHT) if remainder else [])
+        leading = title_size * 1.2
+        y = TOP_MARGIN
+        for line in lines:
+            pdf.drawString(LEFT, y, line)
+            y -= leading
+        title_bottom = y + leading
+    else:
+        pdf.drawString(LEFT, TOP_MARGIN, title)
+
+    rule_y = title_bottom - 5 * mm
+    if subtitle:
+        subtitle_size = 10.5
+        while subtitle_size > 8 and pdfmetrics.stringWidth(subtitle, regular, subtitle_size) > PAGE_W - LEFT - RIGHT:
+            subtitle_size -= 0.5
+        pdf.setFont(regular, subtitle_size)
+        pdf.setFillColor(HexColor("#334E68"))
+        pdf.drawString(LEFT, title_bottom - 6 * mm, subtitle)
+        rule_y = title_bottom - 10 * mm
+
+    pdf.setStrokeColor(HexColor("#BCCCDC"))
+    pdf.setLineWidth(0.5)
+    pdf.line(LEFT, rule_y, PAGE_W - RIGHT, rule_y)
+    return rule_y
+
+
+def render_facsimile_page(pdf, page_dir, content, regular, bold):
+    draw_header(pdf, "Original (facsimile)", content["page"], regular, bold, "Page")
+
+    source = content["source"]
+    image_name = source.get("display_image", source["image"])
+    image_path = page_dir / image_name
+    with PILImage.open(image_path) as image:
+        image_width, image_height = image.size
+
+    box_top = TOP_MARGIN - 8 * mm
+    box_bottom = BOTTOM_MARGIN
+    available_w = PAGE_W - LEFT - RIGHT
+    available_h = box_top - box_bottom
+    scale = min(available_w / image_width, available_h / image_height)
+    draw_width, draw_height = image_width * scale, image_height * scale
+    image_x = (PAGE_W - draw_width) / 2
+    image_y = box_bottom + (available_h - draw_height) / 2
+    pdf.drawImage(str(image_path), image_x, image_y, draw_width, draw_height,
+                  preserveAspectRatio=True, mask="auto")
+    pdf.setStrokeColor(HexColor("#DCE4EC"))
+    pdf.setLineWidth(0.5)
+    pdf.rect(image_x, image_y, draw_width, draw_height)
+    pdf.showPage()
+
+
+def render_translation_page(pdf, content, regular, bold, italic):
+    width = PAGE_W - LEFT - RIGHT
+    es_title = content["titles"].get(LANGUAGES[1])
+    rule_y = draw_header(
+        pdf, content["titles"][LANGUAGES[0]], content["page"], regular, bold,
+        "Translation of page", subtitle=es_title,
+    )
+
+    y = rule_y - 9 * mm
+
+    for lang in LANGUAGES:
+        for para in content["paragraphs"]:
+            text = para["text"][lang]["plain"] if para["text"].get(lang) else ""
+            if not text:
+                continue
+            tagged = f"[{LANG_LABEL[lang]}] {text}"
+            lines = wrap_text(tagged, regular, 10.5, width)
+            needed = len(lines) * 13 + 6
+            if y - needed < BOTTOM_MARGIN:
+                pdf.showPage()
+                y = TOP_MARGIN - 10 * mm
+            y = draw_wrapped(pdf, tagged, LEFT, y, width, regular, 10.5, 13)
+            y -= 6
+
+    for figure in content["figures"]:
+        label = f"Fig. {figure['number']}"
+        # In this document the figure's own text lives in the page's
+        # paragraphs (referenced inline as "Bild N"/"Fig. N"); the caption
+        # itself is only ever the bare label ("Bild N"/"Fig. N"), unlike
+        # D.652-50c where captions carry the full instruction. Printing
+        # "[EN] Fig. N" / "[ES] Fig. N" under the already-shown bold label
+        # is pure noise with no translated content, so skip it here.
+        per_lang_lines = {}
+        block_lines = 1
+        for lang in LANGUAGES:
+            caption = figure["captions"][lang]["plain"] if figure["captions"].get(lang) else ""
+            if caption.strip() == label:
+                caption = ""
+            lines = wrap_text(f"[{LANG_LABEL[lang]}] {caption}", regular, 9.5, width) if caption else []
+            per_lang_lines[lang] = lines
+            block_lines += len(lines)
+        if not any(per_lang_lines.values()):
+            continue
+        needed = block_lines * 12 + 8
+        if y - needed < BOTTOM_MARGIN:
+            pdf.showPage()
+            y = TOP_MARGIN - 10 * mm
+        pdf.setFillColor(HexColor("#102A43"))
+        pdf.setFont(bold, 10.5)
+        pdf.drawString(LEFT, y, label)
+        y -= 13
+        for lang in LANGUAGES:
+            for line in per_lang_lines[lang]:
+                pdf.setFillColor(HexColor("#262626"))
+                pdf.setFont(regular, 9.5)
+                pdf.drawString(LEFT, y, line)
+                y -= 12
+            y -= 3
+        y -= 6
+
+    pdf.showPage()
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
+    parser.add_argument("--section", required=True)
+    parser.add_argument("--output", type=Path, required=True)
+    parser.add_argument(
+        "--allow-draft",
+        action="store_true",
+        help="Export pages even if transcription/en-GB/es-ES are not yet validated.",
+    )
+    args = parser.parse_args()
+
+    root = args.root.resolve()
+    section_dir = root / "sections" / args.section
+    section_manifest = json.loads((section_dir / "manifest.json").read_text(encoding="utf-8"))
+
+    entries = []
+    has_draft = False
+    for page_number in section_manifest["pages"]:
+        page_dir = section_dir / "pages" / f"{page_number:03d}"
+        content = json.loads((page_dir / "content.json").read_text(encoding="utf-8"))
+        for key in ("transcription", "en-GB", "es-ES"):
+            if content["status"][key] != "validated":
+                has_draft = True
+                if not args.allow_draft:
+                    raise SystemExit(f"Page {page_number}: {key} is not validated")
+        entries.append((page_dir, content))
+    entries.sort(key=lambda e: e[1]["page"])
+
+    regular, bold, italic = register_fonts()
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    pdf = canvas.Canvas(str(args.output), pagesize=A4, pageCompression=1)
+    pdf.setTitle(f"D. 652/50b - {args.section} - facsimile + bilingual translation")
+    pdf.setAuthor("PanzerLab")
+    pdf.setSubject("Facsimile export generated from the canonical JSON decomposition")
+
+    for page_dir, content in entries:
+        render_facsimile_page(pdf, page_dir, content, regular, bold)
+        render_translation_page(pdf, content, regular, bold, italic)
+
+    pdf.save()
+    draft_note = " (contains draft/unvalidated pages)" if has_draft else ""
+    print(f"Created {args.output} ({len(entries)} source pages x2){draft_note}.")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-075",
+  "document_id": "d652-50b",
+  "page": 75,
+  "section": "A16",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 39,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-074",
+    "next": "d65250b-page-076"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild120",
+      "number": 120,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
+          "runs": [
+            {
+              "text": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the three securing screws of the release bearing with wire.",
+          "runs": [
+            {
+              "text": "Secure the three securing screws of the release bearing with wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar con alambre los tres tornillos de fijación del rodamiento de desembrague.",
+          "runs": [
+            {
+              "text": "Asegurar con alambre los tres tornillos de fijación del rodamiento de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild121",
+      "number": 121,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Kupplungsdruckplatte vor den Kupplungsdeckel halten. Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
+          "runs": [
+            {
+              "text": "Kupplungsdruckplatte vor den Kupplungsdeckel halten. Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hold the clutch pressure plate up against the clutch cover. Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
+          "runs": [
+            {
+              "text": "Hold the clutch pressure plate up against the clutch cover. Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar la placa de presión del embrague contra la tapa del embrague. Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
+          "runs": [
+            {
+              "text": "Sujetar la placa de presión del embrague contra la tapa del embrague. Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

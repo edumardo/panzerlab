@@ -1,0 +1,20 @@
+{
+  "page": 47,
+  "section": "A11",
+  "pdf_spread": 25,
+  "side": "right",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "validated",
+  "translation_en_status": "validated",
+  "translation_es_status": "validated",
+  "figures": [],
+  "display_scan": "source_display.jpg",
+  "display_scan_crop_box_px": [
+    0,
+    54,
+    1420,
+    1955
+  ]
+}

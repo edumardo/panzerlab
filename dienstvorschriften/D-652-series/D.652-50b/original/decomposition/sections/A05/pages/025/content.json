@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-025",
+  "document_id": "d652-50b",
+  "page": 25,
+  "section": "A05",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
+    "en-GB": "Continued: 5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 14,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-024",
+    "next": "d65250b-page-026"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild033",
+      "number": 33,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Zange die Splinte aus den Bolzen der Bremsbackenhaltefedern ziehen und Federteller mit Feder ausbauen.",
+          "runs": [
+            {
+              "text": "Mit Zange die Splinte aus den Bolzen der Bremsbackenhaltefedern ziehen und Federteller mit Feder ausbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using pliers, pull the split pins out of the pins of the brake-shoe retaining springs and remove the spring cap together with the spring.",
+          "runs": [
+            {
+              "text": "Using pliers, pull the split pins out of the pins of the brake-shoe retaining springs and remove the spring cap together with the spring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con unos alicates, extraer los pasadores de aletas de los pernos de los resortes de retención de las zapatas de freno y desmontar el platillo del resorte junto con el resorte.",
+          "runs": [
+            {
+              "text": "Con unos alicates, extraer los pasadores de aletas de los pernos de los resortes de retención de las zapatas de freno y desmontar el platillo del resorte junto con el resorte.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild034",
+      "number": 34,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Beide Zugfedern mit Federzange oder Schraubenzieher aushängen.",
+          "runs": [
+            {
+              "text": "Beide Zugfedern mit Federzange oder Schraubenzieher aushängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unhook both tension springs using spring clamps or a screwdriver.",
+          "runs": [
+            {
+              "text": "Unhook both tension springs using spring clamps or a screwdriver.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenganchar ambos resortes de tracción con unas pinzas para muelles o un destornillador.",
+          "runs": [
+            {
+              "text": "Desenganchar ambos resortes de tracción con unas pinzas para muelles o un destornillador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

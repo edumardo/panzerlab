@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-043",
+  "document_id": "d652-50b",
+  "page": 43,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 23,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-042",
+    "next": "d65250b-page-044"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild063",
+      "number": 63,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Drahtsicherung aus den Schrauben des Lagerdeckels entfernen. Mit 14-SW-Steckschlüssel die entsicherten Schrauben ausschrauben.",
+          "runs": [
+            {
+              "text": "Drahtsicherung aus den Schrauben des Lagerdeckels entfernen. Mit 14-SW-Steckschlüssel die entsicherten Schrauben ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the wire lock from the screws of the bearing cover. Unscrew the unlocked screws with a 14 mm across-flats socket spanner.",
+          "runs": [
+            {
+              "text": "Remove the wire lock from the screws of the bearing cover. Unscrew the unlocked screws with a 14 mm across-flats socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el alambre de seguridad de los tornillos de la tapa de cojinete. Desenroscar los tornillos ya liberados de seguro con una llave de vaso de 14 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Retirar el alambre de seguridad de los tornillos de la tapa de cojinete. Desenroscar los tornillos ya liberados de seguro con una llave de vaso de 14 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild064",
+      "number": 64,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Vier Befestigungsschrauben des Lagerdeckels in die Gewindelöcher des Deckels einschrauben. Den Lagerdeckel durch gleichmäßiges Anziehen der Schrauben abdrücken.",
+          "runs": [
+            {
+              "text": "Vier Befestigungsschrauben des Lagerdeckels in die Gewindelöcher des Deckels einschrauben. Den Lagerdeckel durch gleichmäßiges Anziehen der Schrauben abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw four fixing screws of the bearing cover into the threaded holes of the cover. Press off the bearing cover by tightening the screws evenly.",
+          "runs": [
+            {
+              "text": "Screw four fixing screws of the bearing cover into the threaded holes of the cover. Press off the bearing cover by tightening the screws evenly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar cuatro tornillos de fijación de la tapa de cojinete en los orificios roscados de la tapa. Separar la tapa de cojinete apretando los tornillos de manera uniforme.",
+          "runs": [
+            {
+              "text": "Enroscar cuatro tornillos de fijación de la tapa de cojinete en los orificios roscados de la tapa. Separar la tapa de cojinete apretando los tornillos de manera uniforme.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

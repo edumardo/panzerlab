@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-054",
+  "document_id": "d652-50b",
+  "page": 54,
+  "section": "A12",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 29,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-053",
+    "next": "d65250b-page-055"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild083",
+      "number": 83,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Zugspindel DB 92/6 in das Gewinde der Triebradwelle einschrauben.",
+          "runs": [
+            {
+              "text": "Zugspindel DB 92/6 in das Gewinde der Triebradwelle einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the draw spindle DB 92/6 into the thread of the drive-wheel shaft.",
+          "runs": [
+            {
+              "text": "Screw the draw spindle DB 92/6 into the thread of the drive-wheel shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar el husillo tensor DB 92/6 en la rosca del eje de la rueda motriz.",
+          "runs": [
+            {
+              "text": "Enroscar el husillo tensor DB 92/6 en la rosca del eje de la rueda motriz.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild084",
+      "number": 84,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen. Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.",
+          "runs": [
+            {
+              "text": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen. Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the pressure bridge DB 92/2 onto the studs. Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.",
+          "runs": [
+            {
+              "text": "Place the pressure bridge DB 92/2 onto the studs. Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros. Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha.",
+          "runs": [
+            {
+              "text": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros. Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

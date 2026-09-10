@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-099",
+  "document_id": "d652-50b",
+  "page": 99,
+  "section": "A21",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la cureña autopropulsada blindada"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 51,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-098",
+    "next": "d65250b-page-100"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild157",
+      "number": 157,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Schrauben der Geschützbefestigung entsichern und mit 41-SW-Maul- oder -Steckschlüssel herausschrauben.",
+          "runs": [
+            {
+              "text": "Die Schrauben der Geschützbefestigung entsichern und mit 41-SW-Maul- oder -Steckschlüssel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unlock the bolts of the gun mounting and unscrew them using a 41 mm open-end or socket wrench.",
+          "runs": [
+            {
+              "text": "Unlock the bolts of the gun mounting and unscrew them using a 41 mm open-end or socket wrench.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desasegurar los tornillos de fijación del cañón y desenroscarlos con una llave de boca o de tubo de 41 mm.",
+          "runs": [
+            {
+              "text": "Desasegurar los tornillos de fijación del cañón y desenroscarlos con una llave de boca o de tubo de 41 mm.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild158",
+      "number": 158,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Geschütz mit Seil und Hebevorrichtung herausheben.",
+          "runs": [
+            {
+              "text": "Geschütz mit Seil und Hebevorrichtung herausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the gun out using a rope and lifting gear.",
+          "runs": [
+            {
+              "text": "Lift the gun out using a rope and lifting gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el cañón con cuerda y dispositivo de elevación.",
+          "runs": [
+            {
+              "text": "Extraer el cañón con cuerda y dispositivo de elevación.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-091",
+  "document_id": "d652-50b",
+  "page": 91,
+  "section": "A19",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 47,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-090",
+    "next": "d65250b-page-092"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild145",
+      "number": 145,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "An der rechten und linken Getriebeseite die Gelenkwellenschutzbleche entfernen. Die Gelenkwellen ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8. Mit 17-SW-Steckschlüssel an der vorderen rechten und linken Getriebeseite die Befestigungsschrauben der Getriebeaufhängung herausschrauben.",
+          "runs": [
+            {
+              "text": "An der rechten und linken Getriebeseite die Gelenkwellenschutzbleche entfernen. Die Gelenkwellen ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8. Mit 17-SW-Steckschlüssel an der vorderen rechten und linken Getriebeseite die Befestigungsschrauben der Getriebeaufhängung herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the cardan shaft guard plates on the right- and left-hand side of the gearbox. Remove the cardan shafts, marginal no. 1, Removing the cardan shaft between the steering gear and the steering brake, Fig. 1 to 8. Using a 17 mm socket wrench, unscrew the mounting bolts of the gearbox suspension on the front right- and left-hand side of the gearbox.",
+          "runs": [
+            {
+              "text": "Remove the cardan shaft guard plates on the right- and left-hand side of the gearbox. Remove the cardan shafts, marginal no. 1, Removing the cardan shaft between the steering gear and the steering brake, Fig. 1 to 8. Using a 17 mm socket wrench, unscrew the mounting bolts of the gearbox suspension on the front right- and left-hand side of the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las chapas protectoras del árbol de transmisión en los lados derecho e izquierdo de la caja de cambios. Desmontar los árboles de transmisión, número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 1 a 8. Con una llave de tubo de 17 mm, desenroscar los tornillos de fijación de la suspensión de la caja de cambios en los lados delantero derecho e izquierdo de la caja de cambios.",
+          "runs": [
+            {
+              "text": "Retirar las chapas protectoras del árbol de transmisión en los lados derecho e izquierdo de la caja de cambios. Desmontar los árboles de transmisión, número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 1 a 8. Con una llave de tubo de 17 mm, desenroscar los tornillos de fijación de la suspensión de la caja de cambios en los lados delantero derecho e izquierdo de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild146",
+      "number": 146,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Drahtsicherung herausziehen und mit 24-SW-Maulschlüssel die Schrauben der hydraulischen Rohrleitung abschrauben.",
+          "runs": [
+            {
+              "text": "Drahtsicherung herausziehen und mit 24-SW-Maulschlüssel die Schrauben der hydraulischen Rohrleitung abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the wire lock and, using a 24 mm open-end spanner, unscrew the bolts of the hydraulic pipeline.",
+          "runs": [
+            {
+              "text": "Pull out the wire lock and, using a 24 mm open-end spanner, unscrew the bolts of the hydraulic pipeline.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el fiador de alambre y, con una llave de boca de 24 mm, desenroscar los tornillos de la tubería hidráulica.",
+          "runs": [
+            {
+              "text": "Extraer el fiador de alambre y, con una llave de boca de 24 mm, desenroscar los tornillos de la tubería hidráulica.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-047",
+  "document_id": "d652-50b",
+  "page": 47,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 25,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-046",
+    "next": "d65250b-page-048"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p047-para01",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild071",
+      "number": 71,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
+          "runs": [
+            {
+              "text": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the thrust plate to the hub with the four screws and spacer tubes (drawing 4)¹).",
+          "runs": [
+            {
+              "text": "Bolt the thrust plate to the hub with the four screws and spacer tubes (drawing 4)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (plano 4)¹).",
+          "runs": [
+            {
+              "text": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (plano 4)¹).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild072",
+      "number": 72,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Zugspindel (1) in die Ritzelwelle schrauben. Zwischenring (3) unter den Bund der Mutter (2) legen. Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
+          "runs": [
+            {
+              "text": "Zugspindel (1) in die Ritzelwelle schrauben. Zwischenring (3) unter den Bund der Mutter (2) legen. Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the draw spindle (1) into the pinion shaft. Place the intermediate ring (3) under the collar of the nut (2). Note: If the pinion shaft has been turned down, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+          "runs": [
+            {
+              "text": "Screw the draw spindle (1) into the pinion shaft. Place the intermediate ring (3) under the collar of the nut (2). Note: If the pinion shaft has been turned down, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar el husillo de tracción (1) en el eje del piñón. Colocar el anillo intermedio (3) bajo el collar de la tuerca (2). Atención: si el eje del piñón se ha torneado, se suelda eléctricamente al piñón un perno roscado de longitud apropiada y con él se extrae el piñón.",
+          "runs": [
+            {
+              "text": "Enroscar el husillo de tracción (1) en el eje del piñón. Colocar el anillo intermedio (3) bajo el collar de la tuerca (2). Atención: si el eje del piñón se ha torneado, se suelda eléctricamente al piñón un perno roscado de longitud apropiada y con él se extrae el piñón.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

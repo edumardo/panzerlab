@@ -1,0 +1,22 @@
+{
+  "id": "A03",
+  "pages": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "titles": {
+    "de": "Ausbau der Bremstrommel und Bremsbacken der Lenkbremse",
+    "en": "Removing the brake drum and brake shoes of the steering brake",
+    "es": "Desmontaje del tambor de freno y las zapatas de freno del freno de dirección"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

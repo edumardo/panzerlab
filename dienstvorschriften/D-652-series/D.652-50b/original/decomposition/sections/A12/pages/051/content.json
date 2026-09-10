@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-051",
+  "document_id": "d652-50b",
+  "page": 51,
+  "section": "A12",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 27,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-050",
+    "next": "d65250b-page-052"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p051-para01",
+      "text": {
+        "de": {
+          "plain": "Die Ritzelwelle mit dem Rollenlager kann auch in das Gehäuse eingeschlagen werden.",
+          "runs": [
+            {
+              "text": "Die Ritzelwelle mit dem Rollenlager kann auch in das Gehäuse eingeschlagen werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "The pinion shaft with the roller bearing can also be driven into the housing.",
+          "runs": [
+            {
+              "text": "The pinion shaft with the roller bearing can also be driven into the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "El eje del piñón con el cojinete de rodillos también puede introducirse a golpes en la carcasa.",
+          "runs": [
+            {
+              "text": "El eje del piñón con el cojinete de rodillos también puede introducirse a golpes en la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild078",
+      "number": 78,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Kappe über die Ritzelwelle führen und diese mit der dafür vorgesehenen Schraube an die Ritzelwelle festschrauben.",
+          "runs": [
+            {
+              "text": "Die Kappe über die Ritzelwelle führen und diese mit der dafür vorgesehenen Schraube an die Ritzelwelle festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the cap over the pinion shaft and secure it to the pinion shaft with the screw provided for this purpose.",
+          "runs": [
+            {
+              "text": "Slide the cap over the pinion shaft and secure it to the pinion shaft with the screw provided for this purpose.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar la tapa sobre el eje del piñón y fijarla a este mediante el tornillo previsto para ello.",
+          "runs": [
+            {
+              "text": "Deslizar la tapa sobre el eje del piñón y fijarla a este mediante el tornillo previsto para ello.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild079",
+      "number": 79,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73. Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.",
+          "runs": [
+            {
+              "text": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73. Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73. Using a hammer and a wooden block, drive the pinion shaft into the bearing.",
+          "runs": [
+            {
+              "text": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73. Using a hammer and a wooden block, drive the pinion shaft into the bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73. Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete.",
+          "runs": [
+            {
+              "text": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73. Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

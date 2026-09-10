@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-097",
+  "document_id": "d652-50b",
+  "page": 97,
+  "section": "A21",
+  "type": "text",
+  "titles": {
+    "de": "21. Ausbau des Geschützes der gp Sfl",
+    "en-GB": "21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "21. Desmontaje del cañón de la cureña autopropulsada blindada"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 50,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-096",
+    "next": "d65250b-page-098"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild153",
+      "number": 153,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver, unscrew the bolts of the upper front superstructure armour deck marked in the illustration.",
+          "runs": [
+            {
+              "text": "Using a screwdriver, unscrew the bolts of the upper front superstructure armour deck marked in the illustration.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con destornillador, desenroscar los tornillos de la cubierta superior de la superestructura frontal blindada señalados en la figura.",
+          "runs": [
+            {
+              "text": "Con destornillador, desenroscar los tornillos de la cubierta superior de la superestructura frontal blindada señalados en la figura.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild154",
+      "number": 154,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
+          "runs": [
+            {
+              "text": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the cable connector for the ceiling lighting and, using a 14 mm open-end spanner, unscrew the bolts of the cable clamps.",
+          "runs": [
+            {
+              "text": "Pull out the cable connector for the ceiling lighting and, using a 14 mm open-end spanner, unscrew the bolts of the cable clamps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable.",
+          "runs": [
+            {
+              "text": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

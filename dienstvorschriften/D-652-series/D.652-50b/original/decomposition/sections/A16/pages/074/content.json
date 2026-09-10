@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-074",
+  "document_id": "d652-50b",
+  "page": 74,
+  "section": "A16",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 39,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-073",
+    "next": "d65250b-page-075"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild118",
+      "number": 118,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Kupplungsdruckfeder, Ausrücklager und Druckplatte (1) über die Zugschraube (3) führen. Kupplungsdruckfeder mit der Vorrichtung so weit zusammenziehen, bis sich das Kugellagergehäuse mit den Ausrückbolzen verschrauben läßt.",
+          "runs": [
+            {
+              "text": "Kupplungsdruckfeder, Ausrücklager und Druckplatte (1) über die Zugschraube (3) führen. Kupplungsdruckfeder mit der Vorrichtung so weit zusammenziehen, bis sich das Kugellagergehäuse mit den Ausrückbolzen verschrauben läßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the clutch pressure spring, release bearing, and pressure plate (1) over the draw bolt (3). Compress the clutch pressure spring with the device until the ball-bearing housing can be bolted to the release bolts.",
+          "runs": [
+            {
+              "text": "Slide the clutch pressure spring, release bearing, and pressure plate (1) over the draw bolt (3). Compress the clutch pressure spring with the device until the ball-bearing housing can be bolted to the release bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar el muelle de presión del embrague, el rodamiento de desembrague y la placa de presión (1) sobre el tornillo tensor (3). Comprimir el muelle de presión del embrague con el dispositivo hasta que la carcasa del rodamiento de bolas pueda atornillarse a los pernos de desembrague.",
+          "runs": [
+            {
+              "text": "Deslizar el muelle de presión del embrague, el rodamiento de desembrague y la placa de presión (1) sobre el tornillo tensor (3). Comprimir el muelle de presión del embrague con el dispositivo hasta que la carcasa del rodamiento de bolas pueda atornillarse a los pernos de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild119",
+      "number": 119,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 14-SW-Maulschlüssel die drei Befestigungsschrauben des Ausrücklagergehäuses einschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Maulschlüssel die drei Befestigungsschrauben des Ausrücklagergehäuses einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm (A/F) open-ended spanner, screw in the three securing screws of the release-bearing housing.",
+          "runs": [
+            {
+              "text": "Using a 14 mm (A/F) open-ended spanner, screw in the three securing screws of the release-bearing housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm (entrecaras), enroscar los tres tornillos de fijación de la carcasa del rodamiento de desembrague.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm (entrecaras), enroscar los tres tornillos de fijación de la carcasa del rodamiento de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

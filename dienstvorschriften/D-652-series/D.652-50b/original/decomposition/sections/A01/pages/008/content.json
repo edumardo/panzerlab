@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-008",
+  "document_id": "d652-50b",
+  "page": 8,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 6,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-007",
+    "next": "d65250b-page-009"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild006",
+      "number": 6,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen. Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
+          "runs": [
+            {
+              "text": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen. Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Straighten the sheet-metal lock of the three screws shown in the illustration. Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
+          "runs": [
+            {
+              "text": "Straighten the sheet-metal lock of the three screws shown in the illustration. Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura. Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura. Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild007",
+      "number": 7,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken. Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
+          "runs": [
+            {
+              "text": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken. Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the flange shaft towards the steering gear using a crowbar. Note: Push the shaft fully across until it seats.",
+          "runs": [
+            {
+              "text": "Push the flange shaft towards the steering gear using a crowbar. Note: Push the shaft fully across until it seats.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca. Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
+          "runs": [
+            {
+              "text": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca. Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

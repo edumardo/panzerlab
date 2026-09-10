@@ -1,0 +1,21 @@
+{
+  "id": "A04",
+  "pages": [
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "titles": {
+    "de": "Einbau der Bremstrommel und Bremsbacken der Lenkbremse",
+    "en": "Installing the brake drum and brake shoes of the steering brake",
+    "es": "Montaje del tambor de freno y las zapatas de freno del freno de dirección"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

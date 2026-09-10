@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-102",
+  "document_id": "d652-50b",
+  "page": 102,
+  "section": "A22",
+  "type": "text",
+  "titles": {
+    "de": "22. Verzeichnis der Zeichnungen",
+    "en-GB": "22. List of drawings",
+    "es-ES": "22. Índice de planos"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 53,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-101",
+    "next": "d65250b-page-103"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p102-para01",
+      "text": {
+        "de": {
+          "plain": "1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges.",
+          "runs": [
+            {
+              "text": "1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft.",
+          "runs": [
+            {
+              "text": "1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final.",
+          "runs": [
+            {
+              "text": "1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para02",
+      "text": {
+        "de": {
+          "plain": "2. Zughaken für Haltefeder zur Lenkbremse.",
+          "runs": [
+            {
+              "text": "2. Zughaken für Haltefeder zur Lenkbremse.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. Pull hook for the retaining spring of the steering brake.",
+          "runs": [
+            {
+              "text": "2. Pull hook for the retaining spring of the steering brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Gancho de tiro para el resorte de retención del freno de dirección.",
+          "runs": [
+            {
+              "text": "2. Gancho de tiro para el resorte de retención del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para03",
+      "text": {
+        "de": {
+          "plain": "3. Bügel zum Einhängen der kleinen Federn, Stützbremse.",
+          "runs": [
+            {
+              "text": "3. Bügel zum Einhängen der kleinen Federn, Stützbremse.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. Bracket for hooking in the small springs, support brake.",
+          "runs": [
+            {
+              "text": "3. Bracket for hooking in the small springs, support brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. Estribo para enganchar los muelles pequeños, freno de apoyo.",
+          "runs": [
+            {
+              "text": "3. Estribo para enganchar los muelles pequeños, freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para04",
+      "text": {
+        "de": {
+          "plain": "4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges.",
+          "runs": [
+            {
+              "text": "4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4. Extracting and inserting device for the pinion shaft of the final-drive unit.",
+          "runs": [
+            {
+              "text": "4. Extracting and inserting device for the pinion shaft of the final-drive unit.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4. Dispositivo de extracción y montaje para el eje piñón del engranaje lateral final.",
+          "runs": [
+            {
+              "text": "4. Dispositivo de extracción y montaje para el eje piñón del engranaje lateral final.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para05",
+      "text": {
+        "de": {
+          "plain": "5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe.",
+          "runs": [
+            {
+              "text": "5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub.",
+          "runs": [
+            {
+              "text": "5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección.",
+          "runs": [
+            {
+              "text": "5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para06",
+      "text": {
+        "de": {
+          "plain": "6. Aus- und Einbauvorrichtung für Getriebeblock.",
+          "runs": [
+            {
+              "text": "6. Aus- und Einbauvorrichtung für Getriebeblock.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6. Removal and installation device for the gearbox unit.",
+          "runs": [
+            {
+              "text": "6. Removal and installation device for the gearbox unit.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios.",
+          "runs": [
+            {
+              "text": "6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para07",
+      "text": {
+        "de": {
+          "plain": "7. Aus- und Einbauvorrichtung für Getriebeblock.",
+          "runs": [
+            {
+              "text": "7. Aus- und Einbauvorrichtung für Getriebeblock.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7. Removal and installation device for the gearbox unit.",
+          "runs": [
+            {
+              "text": "7. Removal and installation device for the gearbox unit.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios.",
+          "runs": [
+            {
+              "text": "7. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para08",
+      "text": {
+        "de": {
+          "plain": "8. Federzange.",
+          "runs": [
+            {
+              "text": "8. Federzange.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "8. Spring clamp.",
+          "runs": [
+            {
+              "text": "8. Spring clamp.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "8. Pinza para muelles.",
+          "runs": [
+            {
+              "text": "8. Pinza para muelles.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para09",
+      "text": {
+        "de": {
+          "plain": "9. Federzange für Federn an Lenkbremsbacken.",
+          "runs": [
+            {
+              "text": "9. Federzange für Federn an Lenkbremsbacken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "9. Spring clamp for the springs on the steering-brake shoes.",
+          "runs": [
+            {
+              "text": "9. Spring clamp for the springs on the steering-brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "9. Pinza para los muelles de las zapatas del freno de dirección.",
+          "runs": [
+            {
+              "text": "9. Pinza para los muelles de las zapatas del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para10",
+      "text": {
+        "de": {
+          "plain": "10. Federzange für Federn an Lenkbremsbacken.",
+          "runs": [
+            {
+              "text": "10. Federzange für Federn an Lenkbremsbacken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "10. Spring clamp for the springs on the steering-brake shoes.",
+          "runs": [
+            {
+              "text": "10. Spring clamp for the springs on the steering-brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "10. Pinza para los muelles de las zapatas del freno de dirección.",
+          "runs": [
+            {
+              "text": "10. Pinza para los muelles de las zapatas del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para11",
+      "text": {
+        "de": {
+          "plain": "Berlin, den 1. 2. 43.",
+          "runs": [
+            {
+              "text": "Berlin, den 1. 2. 43.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Berlin, 1 February 1943.",
+          "runs": [
+            {
+              "text": "Berlin, 1 February 1943.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Berlín, 1 de febrero de 1943.",
+          "runs": [
+            {
+              "text": "Berlín, 1 de febrero de 1943.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para12",
+      "text": {
+        "de": {
+          "plain": "Oberkommando des Heeres",
+          "runs": [
+            {
+              "text": "Oberkommando des Heeres",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Army High Command (Oberkommando des Heeres)",
+          "runs": [
+            {
+              "text": "Army High Command (Oberkommando des Heeres)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Alto Mando del Ejército (Oberkommando des Heeres)",
+          "runs": [
+            {
+              "text": "Alto Mando del Ejército (Oberkommando des Heeres)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para13",
+      "text": {
+        "de": {
+          "plain": "Heereswaffenamt",
+          "runs": [
+            {
+              "text": "Heereswaffenamt",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Army Ordnance Office (Heereswaffenamt)",
+          "runs": [
+            {
+              "text": "Army Ordnance Office (Heereswaffenamt)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Oficina de Artillería del Ejército (Heereswaffenamt)",
+          "runs": [
+            {
+              "text": "Oficina de Artillería del Ejército (Heereswaffenamt)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para14",
+      "text": {
+        "de": {
+          "plain": "Amtsgruppe für Entwicklung und Prüfung",
+          "runs": [
+            {
+              "text": "Amtsgruppe für Entwicklung und Prüfung",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Development and Testing Group (Amtsgruppe für Entwicklung und Prüfung)",
+          "runs": [
+            {
+              "text": "Development and Testing Group (Amtsgruppe für Entwicklung und Prüfung)",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Grupo de Desarrollo y Ensayo (Amtsgruppe für Entwicklung und Prüfung)",
+          "runs": [
+            {
+              "text": "Grupo de Desarrollo y Ensayo (Amtsgruppe für Entwicklung und Prüfung)",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para15",
+      "text": {
+        "de": {
+          "plain": "Koch",
+          "runs": [
+            {
+              "text": "Koch",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Koch",
+          "runs": [
+            {
+              "text": "Koch",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Koch",
+          "runs": [
+            {
+              "text": "Koch",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para16",
+      "text": {
+        "de": {
+          "plain": "S",
+          "runs": [
+            {
+              "text": "S",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "S",
+          "runs": [
+            {
+              "text": "S",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "S",
+          "runs": [
+            {
+              "text": "S",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p102-para17",
+      "text": {
+        "de": {
+          "plain": "C/1550",
+          "runs": [
+            {
+              "text": "C/1550",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "C/1550",
+          "runs": [
+            {
+              "text": "C/1550",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "C/1550",
+          "runs": [
+            {
+              "text": "C/1550",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

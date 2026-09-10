@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-044",
+  "document_id": "d652-50b",
+  "page": 44,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 24,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-043",
+    "next": "d65250b-page-045"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild065",
+      "number": 65,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Lagerdeckel und Abstandsring abheben.",
+          "runs": [
+            {
+              "text": "Lagerdeckel und Abstandsring abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift off the bearing cover and the spacer ring.",
+          "runs": [
+            {
+              "text": "Lift off the bearing cover and the spacer ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar la tapa de cojinete y el anillo distanciador.",
+          "runs": [
+            {
+              "text": "Levantar la tapa de cojinete y el anillo distanciador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild066",
+      "number": 66,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Durch Geradebiegen des Sicherungsbleches die Verschlußschraube entsichern. Mit 46-SW-Steckschlüssel die Verschlußschraube aus der Triebradwelle schrauben. Sicherungsblech und Spannplatte abheben.",
+          "runs": [
+            {
+              "text": "Durch Geradebiegen des Sicherungsbleches die Verschlußschraube entsichern. Mit 46-SW-Steckschlüssel die Verschlußschraube aus der Triebradwelle schrauben. Sicherungsblech und Spannplatte abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the locking of the closing screw by straightening out the locking plate. Unscrew the closing screw from the drive-sprocket shaft with a 46 mm across-flats socket spanner. Lift off the locking plate and the clamping plate.",
+          "runs": [
+            {
+              "text": "Release the locking of the closing screw by straightening out the locking plate. Unscrew the closing screw from the drive-sprocket shaft with a 46 mm across-flats socket spanner. Lift off the locking plate and the clamping plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Liberar el seguro del tornillo de cierre enderezando la chapa de seguridad. Desenroscar el tornillo de cierre del eje de la rueda motriz con una llave de vaso de 46 mm de entrecaras. Levantar la chapa de seguridad y la placa de sujeción.",
+          "runs": [
+            {
+              "text": "Liberar el seguro del tornillo de cierre enderezando la chapa de seguridad. Desenroscar el tornillo de cierre del eje de la rueda motriz con una llave de vaso de 46 mm de entrecaras. Levantar la chapa de seguridad y la placa de sujeción.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

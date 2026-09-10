@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-093",
+  "document_id": "d652-50b",
+  "page": 93,
+  "section": "A19",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 48,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-092",
+    "next": "d65250b-page-094"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild149",
+      "number": 149,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Splinte herausziehen und mit zwei 17-SW-Maulschlüsseln die beiden hinteren Getriebebefestigungsschrauben abschrauben.",
+          "runs": [
+            {
+              "text": "Splinte herausziehen und mit zwei 17-SW-Maulschlüsseln die beiden hinteren Getriebebefestigungsschrauben abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the split pins and, using two 17 mm open-end spanners, unscrew the two rear gearbox mounting bolts.",
+          "runs": [
+            {
+              "text": "Pull out the split pins and, using two 17 mm open-end spanners, unscrew the two rear gearbox mounting bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas y, con dos llaves de boca de 17 mm, desenroscar los dos tornillos traseros de fijación de la caja de cambios.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas y, con dos llaves de boca de 17 mm, desenroscar los dos tornillos traseros de fijación de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild150",
+      "number": 150,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben. Schaltbrett vorne auf den Panzer legen.",
+          "runs": [
+            {
+              "text": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben. Schaltbrett vorne auf den Panzer legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts. Lay the instrument panel down at the front on the tank.",
+          "runs": [
+            {
+              "text": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts. Lay the instrument panel down at the front on the tank.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones. Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate.",
+          "runs": [
+            {
+              "text": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones. Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}
