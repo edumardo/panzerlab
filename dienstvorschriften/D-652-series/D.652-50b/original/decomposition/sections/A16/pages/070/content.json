@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-070",
+  "document_id": "d652-50b",
+  "page": 70,
+  "section": "A16",
+  "type": "text",
+  "titles": {
+    "de": "16. Auswechseln des Ausrücklagers der Hauptkupplung",
+    "en-GB": "16. Replacing the release bearing of the main clutch",
+    "es-ES": "16. Sustitución del rodamiento de desembrague del embrague principal"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 37,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-069",
+    "next": "d65250b-page-071"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild110",
+      "number": 110,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a hammer and drift, drive the ball bearing together with the hub out through the three holes in the housing.",
+          "runs": [
+            {
+              "text": "Using a hammer and drift, drive the ball bearing together with the hub out through the three holes in the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con martillo y botador, expulsar el rodamiento de bolas junto con el buje a través de los tres orificios de la carcasa.",
+          "runs": [
+            {
+              "text": "Con martillo y botador, expulsar el rodamiento de bolas junto con el buje a través de los tres orificios de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild111",
+      "number": 111,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a hammer and drift, drive the ball bearing off the hub through the three holes in the flange.",
+          "runs": [
+            {
+              "text": "Using a hammer and drift, drive the ball bearing off the hub through the three holes in the flange.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida.",
+          "runs": [
+            {
+              "text": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

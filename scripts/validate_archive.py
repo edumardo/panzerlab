@@ -202,7 +202,7 @@ def validate_pages(root: Path, manifest: dict, document: dict, report: Report, c
                 all_figure_numbers.append(figure["number"])
             check_status_value(figure.get("status"), f"page {page} figure {figure_id or figure.get('number')}.status", report)
             for image_field in ("image", "path"):
-                if image_field in figure:
+                if figure.get(image_field):
                     target = base / figure[image_field]
                     if not target.is_file() or target.stat().st_size == 0:
                         report.error(f"Missing figure file on page {page}: {figure[image_field]}")

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-055",
+  "document_id": "d652-50b",
+  "page": 55,
+  "section": "A12",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 29,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-054",
+    "next": "d65250b-page-056"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild085",
+      "number": 85,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Vorrichtung abnehmen und mit Hammer und Holzklotz den oberen Rollenlagerring aufschlagen.",
+          "runs": [
+            {
+              "text": "Die Vorrichtung abnehmen und mit Hammer und Holzklotz den oberen Rollenlagerring aufschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the fixture and, using a hammer and a wooden block, drive on the upper roller-bearing ring.",
+          "runs": [
+            {
+              "text": "Remove the fixture and, using a hammer and a wooden block, drive on the upper roller-bearing ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el dispositivo y, con un martillo y un taco de madera, montar a golpes el anillo superior del cojinete de rodillos.",
+          "runs": [
+            {
+              "text": "Retirar el dispositivo y, con un martillo y un taco de madera, montar a golpes el anillo superior del cojinete de rodillos.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild086",
+      "number": 86,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Spannplatte und Sicherungsblech auf den Rollenlagerring legen und die Verschlußschraube mit 46-SW-Maulschlüssel einschrauben. Verschlußschraube durch Umbiegen des Sicherungsbleches sichern.",
+          "runs": [
+            {
+              "text": "Spannplatte und Sicherungsblech auf den Rollenlagerring legen und die Verschlußschraube mit 46-SW-Maulschlüssel einschrauben. Verschlußschraube durch Umbiegen des Sicherungsbleches sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the clamping plate and locking plate onto the roller-bearing ring and screw in the locking screw with a 46 mm (across flats) open-ended spanner. Secure the locking screw by bending over the locking plate.",
+          "runs": [
+            {
+              "text": "Place the clamping plate and locking plate onto the roller-bearing ring and screw in the locking screw with a 46 mm (across flats) open-ended spanner. Secure the locking screw by bending over the locking plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la placa tensora y la chapa de seguridad sobre el anillo del cojinete de rodillos y enroscar el tornillo de cierre con una llave fija de 46 mm (entrecaras). Asegurar el tornillo de cierre doblando la chapa de seguridad.",
+          "runs": [
+            {
+              "text": "Colocar la placa tensora y la chapa de seguridad sobre el anillo del cojinete de rodillos y enroscar el tornillo de cierre con una llave fija de 46 mm (entrecaras). Asegurar el tornillo de cierre doblando la chapa de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-106",
+  "document_id": "d652-50b",
+  "page": 106,
+  "section": "A22",
+  "type": "figures",
+  "titles": {
+    "de": "Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges",
+    "en-GB": "Extracting and inserting device for the pinion shaft of the final-drive unit",
+    "es-ES": "Dispositivo de extracción y montaje para el eje piñón del engranaje lateral final"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 55,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-105",
+    "next": "d65250b-page-107"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p106-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges. Maßstab 1:2.",
+          "runs": [
+            {
+              "text": "Zeichnung 4. Aus- und Einziehvorrichtung für Ritzelwelle des Seitenvorgeleges. Maßstab 1:2.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 4. Extracting and inserting device for the pinion shaft of the final-drive unit. Scale 1:2.",
+          "runs": [
+            {
+              "text": "Drawing 4. Extracting and inserting device for the pinion shaft of the final-drive unit. Scale 1:2.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 4. Dispositivo de extracción y montaje para el eje piñón del engranaje lateral final. Escala 1:2.",
+          "runs": [
+            {
+              "text": "Plano 4. Dispositivo de extracción y montaje para el eje piñón del engranaje lateral final. Escala 1:2.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

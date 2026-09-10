@@ -1,0 +1,18 @@
+{
+  "id": "A02",
+  "pages": [
+    10,
+    11
+  ],
+  "titles": {
+    "de": "Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
+    "en": "Installing the cardan shaft between the steering gear and the steering brake",
+    "es": "Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

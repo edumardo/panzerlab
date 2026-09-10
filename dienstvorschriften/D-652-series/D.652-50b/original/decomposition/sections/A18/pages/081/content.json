@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-081",
+  "document_id": "d652-50b",
+  "page": 81,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 42,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-080",
+    "next": "d65250b-page-082"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild130",
+      "number": 130,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen. Die Gleitflächen leicht einfetten.",
+          "runs": [
+            {
+              "text": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen. Die Gleitflächen leicht einfetten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check that the clutch driving discs slide easily onto the driving pins. Lightly grease the sliding surfaces.",
+          "runs": [
+            {
+              "text": "Check that the clutch driving discs slide easily onto the driving pins. Lightly grease the sliding surfaces.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre. Engrasar ligeramente las superficies de deslizamiento.",
+          "runs": [
+            {
+              "text": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre. Engrasar ligeramente las superficies de deslizamiento.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild131",
+      "number": 131,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
+          "runs": [
+            {
+              "text": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert a clutch disc, with the long hub side facing outwards, and a clutch driving disc alternately into the clutch ring (two clutch driving discs and three clutch discs).",
+          "runs": [
+            {
+              "text": "Insert a clutch disc, with the long hub side facing outwards, and a clutch driving disc alternately into the clutch ring (two clutch driving discs and three clutch discs).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir alternativamente en el anillo de embrague un disco de embrague, con el lado largo del cubo hacia afuera, y un disco motriz del embrague (dos discos motrices y tres discos de embrague).",
+          "runs": [
+            {
+              "text": "Introducir alternativamente en el anillo de embrague un disco de embrague, con el lado largo del cubo hacia afuera, y un disco motriz del embrague (dos discos motrices y tres discos de embrague).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

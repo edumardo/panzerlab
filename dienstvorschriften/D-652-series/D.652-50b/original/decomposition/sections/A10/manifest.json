@@ -1,0 +1,18 @@
+{
+  "id": "A10",
+  "pages": [
+    40,
+    41
+  ],
+  "titles": {
+    "de": "Ausbau des Seitenvorgeleges ohne Hebevorrichtung",
+    "en": "Removing the final drive unit without a lifting device",
+    "es": "Desmontaje del engranaje lateral final sin dispositivo elevador"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

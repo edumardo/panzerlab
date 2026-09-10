@@ -1,0 +1,17 @@
+{
+  "id": "A15",
+  "pages": [
+    69
+  ],
+  "titles": {
+    "de": "Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes",
+    "en": "Replacing the clutch plate and the starter ring gear",
+    "es": "Sustitución del disco de embrague y de la corona dentada de arranque"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

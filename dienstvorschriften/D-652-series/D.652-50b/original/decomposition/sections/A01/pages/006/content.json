@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-006",
+  "document_id": "d652-50b",
+  "page": 6,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-005",
+    "next": "d65250b-page-007"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild002",
+      "number": 2,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
+          "runs": [
+            {
+              "text": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Loosen the fitted bolts by striking the castle nut with a hammer, then remove the nut and bolt by hand.",
+          "runs": [
+            {
+              "text": "Loosen the fitted bolts by striking the castle nut with a hammer, then remove the nut and bolt by hand.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar los tornillos ajustados golpeando con un martillo la tuerca almenada, después retirar la tuerca y el tornillo a mano.",
+          "runs": [
+            {
+              "text": "Aflojar los tornillos ajustados golpeando con un martillo la tuerca almenada, después retirar la tuerca y el tornillo a mano.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild003",
+      "number": 3,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet. Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
+          "runs": [
+            {
+              "text": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet. Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When removing the fitted bolts on the brake-drum side, turn the brake drum round until the fitted bolt to be removed is at the milled-out point (♦) of the hub. Note: The fitted bolts may only be slackened and removed at the milled-out point.",
+          "runs": [
+            {
+              "text": "When removing the fitted bolts on the brake-drum side, turn the brake drum round until the fitted bolt to be removed is at the milled-out point (♦) of the hub. Note: The fitted bolts may only be slackened and removed at the milled-out point.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al retirar los tornillos ajustados en el lado del tambor de freno, girar el tambor de freno hasta que el tornillo ajustado que se vaya a retirar quede situado en el rebaje fresado (♦) del cubo. Atención: Los tornillos ajustados solo pueden aflojarse y retirarse en el rebaje fresado.",
+          "runs": [
+            {
+              "text": "Al retirar los tornillos ajustados en el lado del tambor de freno, girar el tambor de freno hasta que el tornillo ajustado que se vaya a retirar quede situado en el rebaje fresado (♦) del cubo. Atención: Los tornillos ajustados solo pueden aflojarse y retirarse en el rebaje fresado.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

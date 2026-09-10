@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-041",
+  "document_id": "d652-50b",
+  "page": 41,
+  "section": "A10",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 10. Ausbau eines Seitenvorgeleges ohne Hebevorrichtung.",
+    "en-GB": "Continued: 10. Removing the final drive unit without a lifting device.",
+    "es-ES": "Continuación: 10. Desmontaje del engranaje lateral final sin dispositivo elevador."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 22,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-040",
+    "next": "d65250b-page-042"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild060",
+      "number": 60,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
+          "runs": [
+            {
+              "text": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the final drive unit together with the drive sprocket from the armoured hull by levering evenly with two crowbars.",
+          "runs": [
+            {
+              "text": "Remove the final drive unit together with the drive sprocket from the armoured hull by levering evenly with two crowbars.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas.",
+          "runs": [
+            {
+              "text": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-098",
+  "document_id": "d652-50b",
+  "page": 98,
+  "section": "A21",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la cureña autopropulsada blindada"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 51,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-097",
+    "next": "d65250b-page-099"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild155",
+      "number": 155,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Seil und Hebevorrichtung die Bugpanzerdecke abheben.",
+          "runs": [
+            {
+              "text": "Mit Seil und Hebevorrichtung die Bugpanzerdecke abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a rope and lifting gear, lift off the front superstructure armour deck.",
+          "runs": [
+            {
+              "text": "Using a rope and lifting gear, lift off the front superstructure armour deck.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con cuerda y dispositivo de elevación, levantar la cubierta de la superestructura frontal blindada.",
+          "runs": [
+            {
+              "text": "Con cuerda y dispositivo de elevación, levantar la cubierta de la superestructura frontal blindada.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild156",
+      "number": 156,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben. Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
+          "runs": [
+            {
+              "text": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben. Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the bolts with a hammer and lift out the intermediate piece.",
+          "runs": [
+            {
+              "text": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the bolts with a hammer and lift out the intermediate piece.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer los pernos a golpes de martillo y sacar la pieza intermedia.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer los pernos a golpes de martillo y sacar la pieza intermedia.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-057",
+  "document_id": "d652-50b",
+  "page": 57,
+  "section": "A13",
+  "type": "text",
+  "titles": {
+    "de": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung",
+    "en-GB": "13. Installing the final drive unit with a lifting device",
+    "es-ES": "13. Montaje del engranaje lateral final con dispositivo elevador"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 30,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-056",
+    "next": "d65250b-page-058"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p057-para01",
+      "text": {
+        "de": {
+          "plain": "Seitenvorgelege ohne Triebrad mit Seil an Hebevorrichtung hängen, Bild 55.",
+          "runs": [
+            {
+              "text": "Seitenvorgelege ohne Triebrad mit Seil an Hebevorrichtung hängen, Bild 55.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hang the final drive unit without the drive sprocket on the lifting device using a rope, Fig. 55.",
+          "runs": [
+            {
+              "text": "Hang the final drive unit without the drive sprocket on the lifting device using a rope, Fig. 55.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colgar el engranaje lateral final sin la rueda motriz del dispositivo elevador con una cuerda, Fig. 55.",
+          "runs": [
+            {
+              "text": "Colgar el engranaje lateral final sin la rueda motriz del dispositivo elevador con una cuerda, Fig. 55.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p057-para02",
+      "text": {
+        "de": {
+          "plain": "Seitenvorgelege an die Panzerwanne heranführen.",
+          "runs": [
+            {
+              "text": "Seitenvorgelege an die Panzerwanne heranführen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bring the final drive unit up to the hull.",
+          "runs": [
+            {
+              "text": "Bring the final drive unit up to the hull.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Acercar el engranaje lateral final al casco blindado.",
+          "runs": [
+            {
+              "text": "Acercar el engranaje lateral final al casco blindado.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild088",
+      "number": 88,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Beim Einbauen des Seitenvorgeleges ohne Hebevorrichtung Triebrad anbauen, Einbau des Triebrades D 652/50 a Seite 80. Seitenvorgelege auf den Holzunterbau heben, Bild 59. Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
+          "runs": [
+            {
+              "text": "Beim Einbauen des Seitenvorgeleges ohne Hebevorrichtung Triebrad anbauen, Einbau des Triebrades D 652/50 a Seite 80. Seitenvorgelege auf den Holzunterbau heben, Bild 59. Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When installing the final drive unit without a lifting device, fit the drive sprocket; for fitting the drive sprocket see D 652/50 a, page 80. Lift the final drive unit onto the wooden support, Fig. 59. Press the final drive unit against the hull using crowbars.",
+          "runs": [
+            {
+              "text": "When installing the final drive unit without a lifting device, fit the drive sprocket; for fitting the drive sprocket see D 652/50 a, page 80. Lift the final drive unit onto the wooden support, Fig. 59. Press the final drive unit against the hull using crowbars.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al montar el engranaje lateral final sin dispositivo elevador, montar la rueda motriz; para el montaje de la rueda motriz véase D 652/50 a, página 80. Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59. Empujar el engranaje lateral final contra el casco blindado con palancas.",
+          "runs": [
+            {
+              "text": "Al montar el engranaje lateral final sin dispositivo elevador, montar la rueda motriz; para el montaje de la rueda motriz véase D 652/50 a, página 80. Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59. Empujar el engranaje lateral final contra el casco blindado con palancas.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

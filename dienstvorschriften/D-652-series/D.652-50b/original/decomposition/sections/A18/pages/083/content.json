@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-083",
+  "document_id": "d652-50b",
+  "page": 83,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 43,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-082",
+    "next": "d65250b-page-084"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild134",
+      "number": 134,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die beiden Halteschrauben des Kupplungsdeckels nachziehen. Kupplungswelle ausziehen. Mit Kettenbolzen die Kupplungstreibscheiben auf Mitte richten. Prüfen, ob sich Kupplungswelle bis zum hinteren Kugellager einführen läßt.",
+          "runs": [
+            {
+              "text": "Die beiden Halteschrauben des Kupplungsdeckels nachziehen. Kupplungswelle ausziehen. Mit Kettenbolzen die Kupplungstreibscheiben auf Mitte richten. Prüfen, ob sich Kupplungswelle bis zum hinteren Kugellager einführen läßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Retighten the two retaining screws of the clutch cover. Withdraw the clutch shaft. Centre the clutch driving discs using a chain bolt. Check that the clutch shaft can be inserted as far as the rear ball bearing.",
+          "runs": [
+            {
+              "text": "Retighten the two retaining screws of the clutch cover. Withdraw the clutch shaft. Centre the clutch driving discs using a chain bolt. Check that the clutch shaft can be inserted as far as the rear ball bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Reapretar los dos tornillos de sujeción de la tapa de embrague. Extraer el eje de embrague. Centrar los discos motrices del embrague con un perno de cadena. Comprobar que el eje de embrague pueda introducirse hasta el rodamiento de bolas trasero.",
+          "runs": [
+            {
+              "text": "Reapretar los dos tornillos de sujeción de la tapa de embrague. Extraer el eje de embrague. Centrar los discos motrices del embrague con un perno de cadena. Comprobar que el eje de embrague pueda introducirse hasta el rodamiento de bolas trasero.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-040",
+  "document_id": "d652-50b",
+  "page": 40,
+  "section": "A10",
+  "type": "text",
+  "titles": {
+    "de": "10. Ausbau des Seitenvorgeleges ohne Hebevorrichtung",
+    "en-GB": "10. Removing the final drive unit without a lifting device",
+    "es-ES": "10. Desmontaje del engranaje lateral final sin dispositivo elevador"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 22,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-039",
+    "next": "d65250b-page-041"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p040-para01",
+      "text": {
+        "de": {
+          "plain": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen, Bild 55.",
+          "runs": [
+            {
+              "text": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen, Bild 55.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Straighten out the sheet-metal locks on the fixing bolts of the final drive unit, Fig. 55.",
+          "runs": [
+            {
+              "text": "Straighten out the sheet-metal locks on the fixing bolts of the final drive unit, Fig. 55.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final, Fig. 55.",
+          "runs": [
+            {
+              "text": "Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final, Fig. 55.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p040-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
+          "runs": [
+            {
+              "text": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the unlocked nuts with a 22 mm across-flats ring spanner.",
+          "runs": [
+            {
+              "text": "Unscrew the unlocked nuts with a 22 mm across-flats ring spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p040-para03",
+      "text": {
+        "de": {
+          "plain": "Beachten: Die auf Bild 55 bezeichneten drei Muttern nicht entfernen.",
+          "runs": [
+            {
+              "text": "Beachten: Die auf Bild 55 bezeichneten drei Muttern nicht entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: Do not remove the three nuts marked in Fig. 55.",
+          "runs": [
+            {
+              "text": "Note: Do not remove the three nuts marked in Fig. 55.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: no retirar las tres tuercas señaladas en la Fig. 55.",
+          "runs": [
+            {
+              "text": "Atención: no retirar las tres tuercas señaladas en la Fig. 55.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p040-para04",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+          "runs": [
+            {
+              "text": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the cardan shaft, see marginal number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+          "runs": [
+            {
+              "text": "Remove the cardan shaft, see marginal number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontar el árbol de transmisión, véase número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 1 a 8.",
+          "runs": [
+            {
+              "text": "Desmontar el árbol de transmisión, véase número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 1 a 8.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild059",
+      "number": 59,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Triebrad mit Holz unterbauen. Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
+          "runs": [
+            {
+              "text": "Das Triebrad mit Holz unterbauen. Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Support the drive sprocket with wood blocks. Raise the armoured hull with a jack until the drive sprocket rests lightly on the wood support.",
+          "runs": [
+            {
+              "text": "Support the drive sprocket with wood blocks. Raise the armoured hull with a jack until the drive sprocket rests lightly on the wood support.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Calzar la rueda motriz con tacos de madera. Levantar el casco blindado con un gato de modo que la rueda motriz repose ligeramente sobre el calzo de madera.",
+          "runs": [
+            {
+              "text": "Calzar la rueda motriz con tacos de madera. Levantar el casco blindado con un gato de modo que la rueda motriz repose ligeramente sobre el calzo de madera.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

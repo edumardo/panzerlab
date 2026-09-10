@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-026",
+  "document_id": "d652-50b",
+  "page": 26,
+  "section": "A05",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
+    "en-GB": "Continued: 5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 15,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-025",
+    "next": "d65250b-page-027"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild035",
+      "number": 35,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die hintere Zugfeder der unteren Bremsbacke aushängen.",
+          "runs": [
+            {
+              "text": "Die hintere Zugfeder der unteren Bremsbacke aushängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unhook the rear tension spring of the lower brake shoe.",
+          "runs": [
+            {
+              "text": "Unhook the rear tension spring of the lower brake shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenganchar el resorte de tracción trasero de la zapata de freno inferior.",
+          "runs": [
+            {
+              "text": "Desenganchar el resorte de tracción trasero de la zapata de freno inferior.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild036",
+      "number": 36,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bremsbackenpaar mit Nachstellschloß ausheben.",
+          "runs": [
+            {
+              "text": "Bremsbackenpaar mit Nachstellschloß ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift out the pair of brake shoes together with the adjusting lock.",
+          "runs": [
+            {
+              "text": "Lift out the pair of brake shoes together with the adjusting lock.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste.",
+          "runs": [
+            {
+              "text": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

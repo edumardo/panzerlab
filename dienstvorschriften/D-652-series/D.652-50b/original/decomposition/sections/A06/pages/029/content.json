@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-029",
+  "document_id": "d652-50b",
+  "page": 29,
+  "section": "A06",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung.",
+    "en-GB": "Continued: 6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation.",
+    "es-ES": "Continuación: 6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 16,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-028",
+    "next": "d65250b-page-030"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild041",
+      "number": 41,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen. Hintere Zugfeder der unteren Bremsbacke einhängen.",
+          "runs": [
+            {
+              "text": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen. Hintere Zugfeder der unteren Bremsbacke einhängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the brake shoes together with the adjusting lock to the bearing cover. Hook in the rear tension spring of the lower brake shoe.",
+          "runs": [
+            {
+              "text": "Fit the brake shoes together with the adjusting lock to the bearing cover. Hook in the rear tension spring of the lower brake shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar las zapatas de freno junto con el cerrojo de reajuste en la tapa de cojinete. Enganchar el resorte de tracción trasero de la zapata de freno inferior.",
+          "runs": [
+            {
+              "text": "Montar las zapatas de freno junto con el cerrojo de reajuste en la tapa de cojinete. Enganchar el resorte de tracción trasero de la zapata de freno inferior.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild042",
+      "number": 42,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.",
+          "runs": [
+            {
+              "text": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using spring clamps or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
+          "runs": [
+            {
+              "text": "Using spring clamps or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con pinzas para muelles o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
+          "runs": [
+            {
+              "text": "Con pinzas para muelles o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

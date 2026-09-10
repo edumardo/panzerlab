@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-079",
+  "document_id": "d652-50b",
+  "page": 79,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 41,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-078",
+    "next": "d65250b-page-080"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild126",
+      "number": 126,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit den acht Innensechskantschrauben die Kupplungsplatte an das Schwungrad schrauben. Die Innensechskantschrauben durch Verbohren und Verstiften in den Sechskanten sichern.",
+          "runs": [
+            {
+              "text": "Mit den acht Innensechskantschrauben die Kupplungsplatte an das Schwungrad schrauben. Die Innensechskantschrauben durch Verbohren und Verstiften in den Sechskanten sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the clutch plate to the flywheel with the eight hexagon socket screws. Secure the hexagon socket screws by drilling and pinning them through the hexagon heads.",
+          "runs": [
+            {
+              "text": "Bolt the clutch plate to the flywheel with the eight hexagon socket screws. Secure the hexagon socket screws by drilling and pinning them through the hexagon heads.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el plato de embrague al volante con los ocho tornillos de hexágono interior. Asegurar los tornillos de hexágono interior taladrando y colocando pasadores a través de los hexágonos.",
+          "runs": [
+            {
+              "text": "Atornillar el plato de embrague al volante con los ocho tornillos de hexágono interior. Asegurar los tornillos de hexágono interior taladrando y colocando pasadores a través de los hexágonos.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild127",
+      "number": 127,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten. Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
+          "runs": [
+            {
+              "text": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten. Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting. Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
+          "runs": [
+            {
+              "text": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting. Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje. Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje. Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

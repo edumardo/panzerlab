@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-084",
+  "document_id": "d652-50b",
+  "page": 84,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 44,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-083",
+    "next": "d65250b-page-085"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild135",
+      "number": 135,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben. Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
+          "runs": [
+            {
+              "text": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben. Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner. Secure the screws by bending over the locking plates.",
+          "runs": [
+            {
+              "text": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner. Secure the screws by bending over the locking plates.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras. Asegurar los tornillos doblando las chapas de seguridad.",
+          "runs": [
+            {
+              "text": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras. Asegurar los tornillos doblando las chapas de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild136",
+      "number": 136,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Kupplungsgehäuse über die Kupplung schieben. Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
+          "runs": [
+            {
+              "text": "Das Kupplungsgehäuse über die Kupplung schieben. Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the clutch housing over the clutch. Note: The sliding faces of the release yoke must face towards the release bearing.",
+          "runs": [
+            {
+              "text": "Slide the clutch housing over the clutch. Note: The sliding faces of the release yoke must face towards the release bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el rodamiento de desembrague.",
+          "runs": [
+            {
+              "text": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el rodamiento de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

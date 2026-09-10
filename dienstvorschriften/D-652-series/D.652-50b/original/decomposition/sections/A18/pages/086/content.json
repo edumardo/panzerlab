@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-086",
+  "document_id": "d652-50b",
+  "page": 86,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 45,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-085",
+    "next": "d65250b-page-087"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild139",
+      "number": 139,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Kupplungswelle ganz in die Kupplung einschieben. Mit Verstellschlüssel die Kupplung leicht auslösen. Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen. Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben. Die Muttern durch Umbiegen der Blechsicherungen sichern.",
+          "runs": [
+            {
+              "text": "Die Kupplungswelle ganz in die Kupplung einschieben. Mit Verstellschlüssel die Kupplung leicht auslösen. Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen. Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben. Die Muttern durch Umbiegen der Blechsicherungen sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the clutch shaft fully into the clutch. Release the clutch slightly using the adjusting spanner. Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre. Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner. Secure the nuts by bending over the sheet-metal locks.",
+          "runs": [
+            {
+              "text": "Push the clutch shaft fully into the clutch. Release the clutch slightly using the adjusting spanner. Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre. Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner. Secure the nuts by bending over the sheet-metal locks.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el eje de embrague por completo en el embrague. Desembragar ligeramente con la llave de ajuste. Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado. Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras. Asegurar las tuercas doblando las chapas de seguridad.",
+          "runs": [
+            {
+              "text": "Introducir el eje de embrague por completo en el embrague. Desembragar ligeramente con la llave de ajuste. Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado. Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras. Asegurar las tuercas doblando las chapas de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

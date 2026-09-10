@@ -1,0 +1,800 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-003",
+  "document_id": "d652-50b",
+  "page": 3,
+  "section": "FrontMatter",
+  "type": "index",
+  "titles": {
+    "de": "Inhalt",
+    "en-GB": "Contents",
+    "es-ES": "Índice"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 3,
+    "side": "right",
+    "status": "extracted_clean"
+  },
+  "navigation": {
+    "previous": "d65250b-page-002",
+    "next": "d65250b-page-004"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p003-para01",
+      "text": {
+        "de": {
+          "plain": "Vorbemerkungen 4",
+          "runs": [
+            {
+              "text": "Vorbemerkungen 4",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Preliminary remarks 4",
+          "runs": [
+            {
+              "text": "Preliminary remarks 4",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Observaciones preliminares 4",
+          "runs": [
+            {
+              "text": "Observaciones preliminares 4",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para02",
+      "text": {
+        "de": {
+          "plain": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 5–9",
+          "runs": [
+            {
+              "text": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 5–9",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1. Removing the cardan shaft between the steering gear and the steering brake 5–9",
+          "runs": [
+            {
+              "text": "1. Removing the cardan shaft between the steering gear and the steering brake 5–9",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección 5–9",
+          "runs": [
+            {
+              "text": "1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección 5–9",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para03",
+      "text": {
+        "de": {
+          "plain": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 10–11",
+          "runs": [
+            {
+              "text": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse 10–11",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "2. Installing the cardan shaft between the steering gear and the steering brake 10–11",
+          "runs": [
+            {
+              "text": "2. Installing the cardan shaft between the steering gear and the steering brake 10–11",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección 10–11",
+          "runs": [
+            {
+              "text": "2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección 10–11",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para04",
+      "text": {
+        "de": {
+          "plain": "3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse 12–17",
+          "runs": [
+            {
+              "text": "3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse 12–17",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "3. Removing the brake drum and brake shoes of the steering brake 12–17",
+          "runs": [
+            {
+              "text": "3. Removing the brake drum and brake shoes of the steering brake 12–17",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección 12–17",
+          "runs": [
+            {
+              "text": "3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección 12–17",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para05",
+      "text": {
+        "de": {
+          "plain": "4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse 18–22",
+          "runs": [
+            {
+              "text": "4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse 18–22",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "4. Installing the brake drum and brake shoes of the steering brake 18–22",
+          "runs": [
+            {
+              "text": "4. Installing the brake drum and brake shoes of the steering brake 18–22",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "4. Montaje del tambor de freno y las zapatas de freno del freno de dirección 18–22",
+          "runs": [
+            {
+              "text": "4. Montaje del tambor de freno y las zapatas de freno del freno de dirección 18–22",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para06",
+      "text": {
+        "de": {
+          "plain": "5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 23–27",
+          "runs": [
+            {
+              "text": "5. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 23–27",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation 23–27",
+          "runs": [
+            {
+              "text": "5. Removing the brake drum and brake shoes of the support brake with hydraulic steering actuation 23–27",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento hidráulico de la dirección 23–27",
+          "runs": [
+            {
+              "text": "5. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento hidráulico de la dirección 23–27",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para07",
+      "text": {
+        "de": {
+          "plain": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 28–31",
+          "runs": [
+            {
+              "text": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung 28–31",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation 28–31",
+          "runs": [
+            {
+              "text": "6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation 28–31",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento hidráulico de la dirección 28–31",
+          "runs": [
+            {
+              "text": "6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento hidráulico de la dirección 28–31",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para08",
+      "text": {
+        "de": {
+          "plain": "7. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 32–33",
+          "runs": [
+            {
+              "text": "7. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 32–33",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "7. Removing the brake drum and brake shoes of the support brake with mechanical steering actuation 32–33",
+          "runs": [
+            {
+              "text": "7. Removing the brake drum and brake shoes of the support brake with mechanical steering actuation 32–33",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "7. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento mecánico de la dirección 32–33",
+          "runs": [
+            {
+              "text": "7. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento mecánico de la dirección 32–33",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para09",
+      "text": {
+        "de": {
+          "plain": "8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 34–35",
+          "runs": [
+            {
+              "text": "8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung 34–35",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "8. Installing the brake drum and brake shoes of the support brake with mechanical steering actuation 34–35",
+          "runs": [
+            {
+              "text": "8. Installing the brake drum and brake shoes of the support brake with mechanical steering actuation 34–35",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "8. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento mecánico de la dirección 34–35",
+          "runs": [
+            {
+              "text": "8. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento mecánico de la dirección 34–35",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para10",
+      "text": {
+        "de": {
+          "plain": "9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung 36–39",
+          "runs": [
+            {
+              "text": "9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung 36–39",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "9. Removing a final drive unit using a lifting device 36–39",
+          "runs": [
+            {
+              "text": "9. Removing a final drive unit using a lifting device 36–39",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador 36–39",
+          "runs": [
+            {
+              "text": "9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador 36–39",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para11",
+      "text": {
+        "de": {
+          "plain": "10. Ausbau des Seitenvorgeleges ohne Hebevorrichtung 40–41",
+          "runs": [
+            {
+              "text": "10. Ausbau des Seitenvorgeleges ohne Hebevorrichtung 40–41",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "10. Removing the final drive unit without a lifting device 40–41",
+          "runs": [
+            {
+              "text": "10. Removing the final drive unit without a lifting device 40–41",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "10. Desmontaje del engranaje lateral final sin dispositivo elevador 40–41",
+          "runs": [
+            {
+              "text": "10. Desmontaje del engranaje lateral final sin dispositivo elevador 40–41",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para12",
+      "text": {
+        "de": {
+          "plain": "11. Zerlegen des Seitenvorgeleges 42–48",
+          "runs": [
+            {
+              "text": "11. Zerlegen des Seitenvorgeleges 42–48",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "11. Disassembling the final drive unit 42–48",
+          "runs": [
+            {
+              "text": "11. Disassembling the final drive unit 42–48",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "11. Despiece del engranaje lateral final 42–48",
+          "runs": [
+            {
+              "text": "11. Despiece del engranaje lateral final 42–48",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para13",
+      "text": {
+        "de": {
+          "plain": "12. Zusammenbau des Seitenvorgeleges 49–56",
+          "runs": [
+            {
+              "text": "12. Zusammenbau des Seitenvorgeleges 49–56",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "12. Reassembling the final drive unit 49–56",
+          "runs": [
+            {
+              "text": "12. Reassembling the final drive unit 49–56",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "12. Montaje del engranaje lateral final 49–56",
+          "runs": [
+            {
+              "text": "12. Montaje del engranaje lateral final 49–56",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para14",
+      "text": {
+        "de": {
+          "plain": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung 57–60",
+          "runs": [
+            {
+              "text": "13. Einbau des Seitenvorgeleges mit Hebevorrichtung 57–60",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "13. Installing the final drive unit with a lifting device 57–60",
+          "runs": [
+            {
+              "text": "13. Installing the final drive unit with a lifting device 57–60",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "13. Montaje del engranaje lateral final con dispositivo elevador 57–60",
+          "runs": [
+            {
+              "text": "13. Montaje del engranaje lateral final con dispositivo elevador 57–60",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para15",
+      "text": {
+        "de": {
+          "plain": "14. Ausbau der Hauptkupplung 61–68",
+          "runs": [
+            {
+              "text": "14. Ausbau der Hauptkupplung 61–68",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "14. Removing the main clutch 61–68",
+          "runs": [
+            {
+              "text": "14. Removing the main clutch 61–68",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "14. Desmontaje del embrague principal 61–68",
+          "runs": [
+            {
+              "text": "14. Desmontaje del embrague principal 61–68",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para16",
+      "text": {
+        "de": {
+          "plain": "15. Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes 69",
+          "runs": [
+            {
+              "text": "15. Auswechseln der Kupplungsplatte und des Anlaßzahnkranzes 69",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "15. Replacing the clutch plate and the starter ring gear 69",
+          "runs": [
+            {
+              "text": "15. Replacing the clutch plate and the starter ring gear 69",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "15. Sustitución del disco de embrague y de la corona dentada de arranque 69",
+          "runs": [
+            {
+              "text": "15. Sustitución del disco de embrague y de la corona dentada de arranque 69",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para17",
+      "text": {
+        "de": {
+          "plain": "16. Auswechseln des Ausrücklagers der Hauptkupplung 70–75",
+          "runs": [
+            {
+              "text": "16. Auswechseln des Ausrücklagers der Hauptkupplung 70–75",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "16. Replacing the release bearing of the main clutch 70–75",
+          "runs": [
+            {
+              "text": "16. Replacing the release bearing of the main clutch 70–75",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "16. Sustitución del rodamiento de desembrague del embrague principal 70–75",
+          "runs": [
+            {
+              "text": "16. Sustitución del rodamiento de desembrague del embrague principal 70–75",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para18",
+      "text": {
+        "de": {
+          "plain": "17. Auswechseln der Kupplungsbeläge 76–77",
+          "runs": [
+            {
+              "text": "17. Auswechseln der Kupplungsbeläge 76–77",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "17. Replacing the clutch linings 76–77",
+          "runs": [
+            {
+              "text": "17. Replacing the clutch linings 76–77",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "17. Sustitución de los forros de embrague 76–77",
+          "runs": [
+            {
+              "text": "17. Sustitución de los forros de embrague 76–77",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para19",
+      "text": {
+        "de": {
+          "plain": "18. Zusammenbau der Hauptkupplung 78–88",
+          "runs": [
+            {
+              "text": "18. Zusammenbau der Hauptkupplung 78–88",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "18. Reassembling the main clutch 78–88",
+          "runs": [
+            {
+              "text": "18. Reassembling the main clutch 78–88",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "18. Montaje del embrague principal 78–88",
+          "runs": [
+            {
+              "text": "18. Montaje del embrague principal 78–88",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para20",
+      "text": {
+        "de": {
+          "plain": "19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 89–95",
+          "runs": [
+            {
+              "text": "19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 89–95",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "19. Removing the cardan shaft and the gearbox with the steering gear 89–95",
+          "runs": [
+            {
+              "text": "19. Removing the cardan shaft and the gearbox with the steering gear 89–95",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección 89–95",
+          "runs": [
+            {
+              "text": "19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección 89–95",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para21",
+      "text": {
+        "de": {
+          "plain": "20. Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 96",
+          "runs": [
+            {
+              "text": "20. Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe 96",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "20. Installing the cardan shaft and the gearbox with the steering gear 96",
+          "runs": [
+            {
+              "text": "20. Installing the cardan shaft and the gearbox with the steering gear 96",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "20. Montaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección 96",
+          "runs": [
+            {
+              "text": "20. Montaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección 96",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para22",
+      "text": {
+        "de": {
+          "plain": "21. Ausbau des Geschützes der gp Sfl 97–101",
+          "runs": [
+            {
+              "text": "21. Ausbau des Geschützes der gp Sfl 97–101",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "21. Removing the gun of the armoured self-propelled carriage 97–101",
+          "runs": [
+            {
+              "text": "21. Removing the gun of the armoured self-propelled carriage 97–101",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "21. Desmontaje del cañón de la cureña autopropulsada blindada 97–101",
+          "runs": [
+            {
+              "text": "21. Desmontaje del cañón de la cureña autopropulsada blindada 97–101",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para23",
+      "text": {
+        "de": {
+          "plain": "22. Verzeichnis der Zeichnungen 102",
+          "runs": [
+            {
+              "text": "22. Verzeichnis der Zeichnungen 102",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "22. List of drawings 102",
+          "runs": [
+            {
+              "text": "22. List of drawings 102",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "22. Índice de planos 102",
+          "runs": [
+            {
+              "text": "22. Índice de planos 102",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p003-para24",
+      "text": {
+        "de": {
+          "plain": "Zeichnungen 103–112",
+          "runs": [
+            {
+              "text": "Zeichnungen 103–112",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawings 103–112",
+          "runs": [
+            {
+              "text": "Drawings 103–112",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Planos 103–112",
+          "runs": [
+            {
+              "text": "Planos 103–112",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

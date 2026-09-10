@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-033",
+  "document_id": "d652-50b",
+  "page": 33,
+  "section": "A07",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 7: Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung.",
+    "en-GB": "Continued: 7. Removing the brake drum and brake shoes of the support brake with mechanical steering actuation.",
+    "es-ES": "Continuación: 7. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 18,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-032",
+    "next": "d65250b-page-034"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild049",
+      "number": 49,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Federzange oder spitzem Dorn die beiden Zugfedern aushängen.",
+          "runs": [
+            {
+              "text": "Mit Federzange oder spitzem Dorn die beiden Zugfedern aushängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using spring clamps or a pointed drift, unhook both tension springs.",
+          "runs": [
+            {
+              "text": "Using spring clamps or a pointed drift, unhook both tension springs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con pinzas para muelles o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
+          "runs": [
+            {
+              "text": "Con pinzas para muelles o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild050",
+      "number": 50,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 14-SW-Maulschlüssel das Nachstellschloß abschrauben und Bremsbacken mit Schloß ausheben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Maulschlüssel das Nachstellschloß abschrauben und Bremsbacken mit Schloß ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, unscrew the adjusting lock and lift out the brake shoes together with the lock.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, unscrew the adjusting lock and lift out the brake shoes together with the lock.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, desenroscar el cerrojo de reajuste y extraer las zapatas de freno junto con el cerrojo.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, desenroscar el cerrojo de reajuste y extraer las zapatas de freno junto con el cerrojo.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

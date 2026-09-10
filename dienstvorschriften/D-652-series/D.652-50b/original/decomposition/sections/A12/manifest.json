@@ -1,0 +1,24 @@
+{
+  "id": "A12",
+  "pages": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+  ],
+  "titles": {
+    "de": "Zusammenbau des Seitenvorgeleges",
+    "en": "Reassembling the final drive unit",
+    "es": "Montaje del engranaje lateral final"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

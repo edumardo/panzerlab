@@ -1,0 +1,18 @@
+{
+  "id": "A17",
+  "pages": [
+    76,
+    77
+  ],
+  "titles": {
+    "de": "Auswechseln der Kupplungsbeläge",
+    "en": "Replacing the clutch linings",
+    "es": "Sustitución de los forros de embrague"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

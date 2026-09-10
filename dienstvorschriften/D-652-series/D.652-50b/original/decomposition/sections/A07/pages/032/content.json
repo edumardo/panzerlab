@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-032",
+  "document_id": "d652-50b",
+  "page": 32,
+  "section": "A07",
+  "type": "text",
+  "titles": {
+    "de": "7. Ausbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung",
+    "en-GB": "7. Removing the brake drum and brake shoes of the support brake with mechanical steering actuation",
+    "es-ES": "7. Desmontaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 18,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-031",
+    "next": "d65250b-page-033"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild047",
+      "number": 47,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Sicherungsdraht, Schrauben und den Sicherungsring aus der Stützbremstrommel entfernen, Bild 30. Lenkhebel anziehen und die Stützbremstrommel mit zwei Schrauben abdrücken.",
+          "runs": [
+            {
+              "text": "Sicherungsdraht, Schrauben und den Sicherungsring aus der Stützbremstrommel entfernen, Bild 30. Lenkhebel anziehen und die Stützbremstrommel mit zwei Schrauben abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the locking wire, screws and the locking ring from the support brake drum, Fig. 30. Pull the steering lever and press off the support brake drum using two screws.",
+          "runs": [
+            {
+              "text": "Remove the locking wire, screws and the locking ring from the support brake drum, Fig. 30. Pull the steering lever and press off the support brake drum using two screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el alambre de seguridad, los tornillos y el anillo de seguridad del tambor del freno de apoyo, fig. 30. Tirar de la palanca de dirección y desprender el tambor del freno de apoyo con dos tornillos.",
+          "runs": [
+            {
+              "text": "Retirar el alambre de seguridad, los tornillos y el anillo de seguridad del tambor del freno de apoyo, fig. 30. Tirar de la palanca de dirección y desprender el tambor del freno de apoyo con dos tornillos.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild048",
+      "number": 48,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die seitlichen Haltefedern der Stützbremsbacken abnehmen.",
+          "runs": [
+            {
+              "text": "Die seitlichen Haltefedern der Stützbremsbacken abnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the side retaining springs of the support brake shoes.",
+          "runs": [
+            {
+              "text": "Remove the side retaining springs of the support brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los resortes de retención laterales de las zapatas del freno de apoyo.",
+          "runs": [
+            {
+              "text": "Retirar los resortes de retención laterales de las zapatas del freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

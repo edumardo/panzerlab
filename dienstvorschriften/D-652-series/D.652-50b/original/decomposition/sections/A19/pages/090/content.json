@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-090",
+  "document_id": "d652-50b",
+  "page": 90,
+  "section": "A19",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 47,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-089",
+    "next": "d65250b-page-091"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild143",
+      "number": 143,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 17-SW-Maulschlüssel die drei Schrauben aus dem Lüftergehäuse schrauben. Vergasergestänge aus den Kugelgelenken drücken und das Lüftergehäuse abheben.",
+          "runs": [
+            {
+              "text": "Mit 17-SW-Maulschlüssel die drei Schrauben aus dem Lüftergehäuse schrauben. Vergasergestänge aus den Kugelgelenken drücken und das Lüftergehäuse abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm open-end spanner, unscrew the three bolts from the fan housing. Press the carburettor linkage out of the ball joints and lift off the fan housing.",
+          "runs": [
+            {
+              "text": "Using a 17 mm open-end spanner, unscrew the three bolts from the fan housing. Press the carburettor linkage out of the ball joints and lift off the fan housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de boca de 17 mm, desenroscar los tres tornillos de la carcasa del ventilador. Presionar el varillaje del carburador para separarlo de las rótulas y levantar la carcasa del ventilador.",
+          "runs": [
+            {
+              "text": "Con una llave de boca de 17 mm, desenroscar los tres tornillos de la carcasa del ventilador. Presionar el varillaje del carburador para separarlo de las rótulas y levantar la carcasa del ventilador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild144",
+      "number": 144,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Gelenkwelle mit Lüfter aus dem Getriebe ziehen.",
+          "runs": [
+            {
+              "text": "Gelenkwelle mit Lüfter aus dem Getriebe ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the cardan shaft together with the fan out of the gearbox.",
+          "runs": [
+            {
+              "text": "Pull the cardan shaft together with the fan out of the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el árbol de transmisión con el ventilador de la caja de cambios.",
+          "runs": [
+            {
+              "text": "Extraer el árbol de transmisión con el ventilador de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}
