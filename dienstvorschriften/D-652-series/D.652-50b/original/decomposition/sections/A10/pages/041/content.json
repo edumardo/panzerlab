@@ -22,22 +22,72 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
-      "en-GB": "Remove the final drive unit together with the drive sprocket from the armoured hull by levering evenly with two crowbars.",
-      "es-ES": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas."
+      "id": "d65250b-p041-para01",
+      "text": {
+        "de": {
+          "plain": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
+          "runs": [
+            {
+              "text": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the final drive unit together with the drive sprocket from the armoured hull by levering evenly with two crowbars.",
+          "runs": [
+            {
+              "text": "Remove the final drive unit together with the drive sprocket from the armoured hull by levering evenly with two crowbars.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas.",
+          "runs": [
+            {
+              "text": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-060",
+      "id": "d65250b-bild060",
       "number": 60,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 60",
-        "en-GB": "Fig. 60",
-        "es-ES": "Fig. 60"
+        "de": {
+          "plain": "Bild 60",
+          "runs": [
+            {
+              "text": "Bild 60",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 60",
+          "runs": [
+            {
+              "text": "Fig. 60",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 60",
+          "runs": [
+            {
+              "text": "Fig. 60",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

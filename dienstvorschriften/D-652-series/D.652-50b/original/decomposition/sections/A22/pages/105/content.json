@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 3. Bügel zum Einhängen der kleinen Federn, Stützbremse. Maßstab 1:1.",
-      "en-GB": "Drawing 3. Bracket for hooking in the small springs, support brake. Scale 1:1.",
-      "es-ES": "Plano 3. Estribo para enganchar los muelles pequeños, freno de apoyo. Escala 1:1."
+      "id": "d65250b-p105-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 3. Bügel zum Einhängen der kleinen Federn, Stützbremse. Maßstab 1:1.",
+          "runs": [
+            {
+              "text": "Zeichnung 3. Bügel zum Einhängen der kleinen Federn, Stützbremse. Maßstab 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 3. Bracket for hooking in the small springs, support brake. Scale 1:1.",
+          "runs": [
+            {
+              "text": "Drawing 3. Bracket for hooking in the small springs, support brake. Scale 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 3. Estribo para enganchar los muelles pequeños, freno de apoyo. Escala 1:1.",
+          "runs": [
+            {
+              "text": "Plano 3. Estribo para enganchar los muelles pequeños, freno de apoyo. Escala 1:1.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

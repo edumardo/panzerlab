@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die 2 Kupplungstreibscheiben und 3 Kupplungsscheiben aus Kupplungszwischenring herausnehmen.",
-      "en-GB": "Take the 2 clutch drive discs and 3 clutch discs out of the clutch intermediate ring.",
-      "es-ES": "Extraer los 2 discos motrices del embrague y los 3 discos de embrague del anillo intermedio del embrague."
+      "id": "d65250b-p067-para01",
+      "text": {
+        "de": {
+          "plain": "Die 2 Kupplungstreibscheiben und 3 Kupplungsscheiben aus Kupplungszwischenring herausnehmen.",
+          "runs": [
+            {
+              "text": "Die 2 Kupplungstreibscheiben und 3 Kupplungsscheiben aus Kupplungszwischenring herausnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Take the 2 clutch drive discs and 3 clutch discs out of the clutch intermediate ring.",
+          "runs": [
+            {
+              "text": "Take the 2 clutch drive discs and 3 clutch discs out of the clutch intermediate ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los 2 discos motrices del embrague y los 3 discos de embrague del anillo intermedio del embrague.",
+          "runs": [
+            {
+              "text": "Extraer los 2 discos motrices del embrague y los 3 discos de embrague del anillo intermedio del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Den Abstandsring vor dem hinteren Kugellager ausziehen.",
-      "en-GB": "Pull out the spacer ring in front of the rear ball bearing.",
-      "es-ES": "Extraer el anillo distanciador situado delante del cojinete de bolas trasero."
+      "id": "d65250b-p067-para02",
+      "text": {
+        "de": {
+          "plain": "Den Abstandsring vor dem hinteren Kugellager ausziehen.",
+          "runs": [
+            {
+              "text": "Den Abstandsring vor dem hinteren Kugellager ausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the spacer ring in front of the rear ball bearing.",
+          "runs": [
+            {
+              "text": "Pull out the spacer ring in front of the rear ball bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el anillo distanciador situado delante del cojinete de bolas trasero.",
+          "runs": [
+            {
+              "text": "Extraer el anillo distanciador situado delante del cojinete de bolas trasero.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-105",
+      "id": "d65250b-bild105",
       "number": 105,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 105",
-        "en-GB": "Fig. 105",
-        "es-ES": "Fig. 105"
+        "de": {
+          "plain": "Bild 105",
+          "runs": [
+            {
+              "text": "Bild 105",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 105",
+          "runs": [
+            {
+              "text": "Fig. 105",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 105",
+          "runs": [
+            {
+              "text": "Fig. 105",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-106",
+      "id": "d65250b-bild106",
       "number": 106,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 106",
-        "en-GB": "Fig. 106",
-        "es-ES": "Fig. 106"
+        "de": {
+          "plain": "Bild 106",
+          "runs": [
+            {
+              "text": "Bild 106",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 106",
+          "runs": [
+            {
+              "text": "Fig. 106",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 106",
+          "runs": [
+            {
+              "text": "Fig. 106",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

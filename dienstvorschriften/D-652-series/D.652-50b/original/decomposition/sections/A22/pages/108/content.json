@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 6. Aus- und Einbauvorrichtung für Getriebeblock.",
-      "en-GB": "Drawing 6. Removal and installation device for the gearbox unit.",
-      "es-ES": "Plano 6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios."
+      "id": "d65250b-p108-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 6. Aus- und Einbauvorrichtung für Getriebeblock.",
+          "runs": [
+            {
+              "text": "Zeichnung 6. Aus- und Einbauvorrichtung für Getriebeblock.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 6. Removal and installation device for the gearbox unit.",
+          "runs": [
+            {
+              "text": "Drawing 6. Removal and installation device for the gearbox unit.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios.",
+          "runs": [
+            {
+              "text": "Plano 6. Dispositivo de desmontaje y montaje para el bloque de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

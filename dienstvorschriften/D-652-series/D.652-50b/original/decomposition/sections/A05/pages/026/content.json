@@ -21,12 +21,152 @@
     "next": "d65250b-page-027"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die hintere Zugfeder der unteren Bremsbacke aushängen.", "en-GB": "Unhook the rear tension spring of the lower brake shoe.", "es-ES": "Desenganchar el resorte de tracción trasero de la zapata de freno inferior."},
-    {"id": "p2", "de": "Bremsbackenpaar mit Nachstellschloß ausheben.", "en-GB": "Lift out the pair of brake shoes together with the adjusting lock.", "es-ES": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste."}
+    {
+      "id": "d65250b-p026-para01",
+      "text": {
+        "de": {
+          "plain": "Die hintere Zugfeder der unteren Bremsbacke aushängen.",
+          "runs": [
+            {
+              "text": "Die hintere Zugfeder der unteren Bremsbacke aushängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unhook the rear tension spring of the lower brake shoe.",
+          "runs": [
+            {
+              "text": "Unhook the rear tension spring of the lower brake shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenganchar el resorte de tracción trasero de la zapata de freno inferior.",
+          "runs": [
+            {
+              "text": "Desenganchar el resorte de tracción trasero de la zapata de freno inferior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p026-para02",
+      "text": {
+        "de": {
+          "plain": "Bremsbackenpaar mit Nachstellschloß ausheben.",
+          "runs": [
+            {
+              "text": "Bremsbackenpaar mit Nachstellschloß ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift out the pair of brake shoes together with the adjusting lock.",
+          "runs": [
+            {
+              "text": "Lift out the pair of brake shoes together with the adjusting lock.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste.",
+          "runs": [
+            {
+              "text": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-035", "number": 35, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 35", "en-GB": "Fig. 35", "es-ES": "Fig. 35"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-036", "number": 36, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 36", "en-GB": "Fig. 36", "es-ES": "Fig. 36"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild035",
+      "number": 35,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 35",
+          "runs": [
+            {
+              "text": "Bild 35",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 35",
+          "runs": [
+            {
+              "text": "Fig. 35",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 35",
+          "runs": [
+            {
+              "text": "Fig. 35",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild036",
+      "number": 36,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 36",
+          "runs": [
+            {
+              "text": "Bild 36",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 36",
+          "runs": [
+            {
+              "text": "Fig. 36",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 36",
+          "runs": [
+            {
+              "text": "Fig. 36",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

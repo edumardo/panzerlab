@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
-      "en-GB": "Using a 6 mm drill bit, drill out the countersunk head of the rivets.",
-      "es-ES": "Con una broca de 6 mm, taladrar la cabeza avellanada de los remaches."
+      "id": "d65250b-p076-para01",
+      "text": {
+        "de": {
+          "plain": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
+          "runs": [
+            {
+              "text": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 6 mm drill bit, drill out the countersunk head of the rivets.",
+          "runs": [
+            {
+              "text": "Using a 6 mm drill bit, drill out the countersunk head of the rivets.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una broca de 6 mm, taladrar la cabeza avellanada de los remaches.",
+          "runs": [
+            {
+              "text": "Con una broca de 6 mm, taladrar la cabeza avellanada de los remaches.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Kupplungsscheibe mit dem Niet auf eine Mutter legen.",
-      "en-GB": "Place the clutch disc, rivet down, onto a nut.",
-      "es-ES": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca."
+      "id": "d65250b-p076-para02",
+      "text": {
+        "de": {
+          "plain": "Kupplungsscheibe mit dem Niet auf eine Mutter legen.",
+          "runs": [
+            {
+              "text": "Kupplungsscheibe mit dem Niet auf eine Mutter legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the clutch disc, rivet down, onto a nut.",
+          "runs": [
+            {
+              "text": "Place the clutch disc, rivet down, onto a nut.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca.",
+          "runs": [
+            {
+              "text": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Mit Hammer und Dorn die Nieten ausschlagen.",
-      "en-GB": "Drive out the rivets using a hammer and drift.",
-      "es-ES": "Extraer los remaches golpeando con martillo y botador."
+      "id": "d65250b-p076-para03",
+      "text": {
+        "de": {
+          "plain": "Mit Hammer und Dorn die Nieten ausschlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn die Nieten ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drive out the rivets using a hammer and drift.",
+          "runs": [
+            {
+              "text": "Drive out the rivets using a hammer and drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los remaches golpeando con martillo y botador.",
+          "runs": [
+            {
+              "text": "Extraer los remaches golpeando con martillo y botador.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-122",
+      "id": "d65250b-bild122",
       "number": 122,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 122",
-        "en-GB": "Fig. 122",
-        "es-ES": "Fig. 122"
+        "de": {
+          "plain": "Bild 122",
+          "runs": [
+            {
+              "text": "Bild 122",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 122",
+          "runs": [
+            {
+              "text": "Fig. 122",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 122",
+          "runs": [
+            {
+              "text": "Fig. 122",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-123",
+      "id": "d65250b-bild123",
       "number": 123,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 123",
-        "en-GB": "Fig. 123",
-        "es-ES": "Fig. 123"
+        "de": {
+          "plain": "Bild 123",
+          "runs": [
+            {
+              "text": "Bild 123",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 123",
+          "runs": [
+            {
+              "text": "Fig. 123",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 123",
+          "runs": [
+            {
+              "text": "Fig. 123",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

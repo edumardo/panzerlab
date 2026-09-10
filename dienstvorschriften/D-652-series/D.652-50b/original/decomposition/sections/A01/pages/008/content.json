@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen.",
-      "en-GB": "Straighten the sheet-metal lock of the three screws shown in the illustration.",
-      "es-ES": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura."
+      "id": "d65250b-p008-para01",
+      "text": {
+        "de": {
+          "plain": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen.",
+          "runs": [
+            {
+              "text": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Straighten the sheet-metal lock of the three screws shown in the illustration.",
+          "runs": [
+            {
+              "text": "Straighten the sheet-metal lock of the three screws shown in the illustration.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura.",
+          "runs": [
+            {
+              "text": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
-      "en-GB": "Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
-      "es-ES": "Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras."
+      "id": "d65250b-p008-para02",
+      "text": {
+        "de": {
+          "plain": "Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
+          "runs": [
+            {
+              "text": "Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
+          "runs": [
+            {
+              "text": "Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken.",
-      "en-GB": "Push the flange shaft towards the steering gear using a crowbar.",
-      "es-ES": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca."
+      "id": "d65250b-p008-para03",
+      "text": {
+        "de": {
+          "plain": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken.",
+          "runs": [
+            {
+              "text": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the flange shaft towards the steering gear using a crowbar.",
+          "runs": [
+            {
+              "text": "Push the flange shaft towards the steering gear using a crowbar.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca.",
+          "runs": [
+            {
+              "text": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
-      "en-GB": "Note: Push the shaft fully across until it seats.",
-      "es-ES": "Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado."
+      "id": "d65250b-p008-para04",
+      "text": {
+        "de": {
+          "plain": "Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
+          "runs": [
+            {
+              "text": "Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: Push the shaft fully across until it seats.",
+          "runs": [
+            {
+              "text": "Note: Push the shaft fully across until it seats.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
+          "runs": [
+            {
+              "text": "Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-006",
+      "id": "d65250b-bild006",
       "number": 6,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 6",
-        "en-GB": "Fig. 6",
-        "es-ES": "Fig. 6"
+        "de": {
+          "plain": "Bild 6",
+          "runs": [
+            {
+              "text": "Bild 6",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 6",
+          "runs": [
+            {
+              "text": "Fig. 6",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 6",
+          "runs": [
+            {
+              "text": "Fig. 6",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -64,14 +192,38 @@
       }
     },
     {
-      "id": "fig-007",
+      "id": "d65250b-bild007",
       "number": 7,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 7",
-        "en-GB": "Fig. 7",
-        "es-ES": "Fig. 7"
+        "de": {
+          "plain": "Bild 7",
+          "runs": [
+            {
+              "text": "Bild 7",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 7",
+          "runs": [
+            {
+              "text": "Fig. 7",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 7",
+          "runs": [
+            {
+              "text": "Fig. 7",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

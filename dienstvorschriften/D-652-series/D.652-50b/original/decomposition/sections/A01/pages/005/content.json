@@ -22,46 +22,200 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
-      "en-GB": "Remove the guard plates on the cardan shaft and brake drum.",
-      "es-ES": "Retirar las chapas protectoras del árbol de transmisión y del tambor de freno."
+      "id": "d65250b-p005-para01",
+      "text": {
+        "de": {
+          "plain": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
+          "runs": [
+            {
+              "text": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the guard plates on the cardan shaft and brake drum.",
+          "runs": [
+            {
+              "text": "Remove the guard plates on the cardan shaft and brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las chapas protectoras del árbol de transmisión y del tambor de freno.",
+          "runs": [
+            {
+              "text": "Retirar las chapas protectoras del árbol de transmisión y del tambor de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Gleiskette vom Triebrad abnehmen.",
-      "en-GB": "Remove the track from the drive sprocket.",
-      "es-ES": "Retirar la cadena de la rueda motriz."
+      "id": "d65250b-p005-para02",
+      "text": {
+        "de": {
+          "plain": "Gleiskette vom Triebrad abnehmen.",
+          "runs": [
+            {
+              "text": "Gleiskette vom Triebrad abnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the track from the drive sprocket.",
+          "runs": [
+            {
+              "text": "Remove the track from the drive sprocket.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar la cadena de la rueda motriz.",
+          "runs": [
+            {
+              "text": "Retirar la cadena de la rueda motriz.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Splinte aus den Paßschrauben der Gelenkwelle ziehen.",
-      "en-GB": "Pull the split pins out of the fitted bolts of the cardan shaft.",
-      "es-ES": "Extraer los pasadores de los tornillos ajustados del árbol de transmisión."
+      "id": "d65250b-p005-para03",
+      "text": {
+        "de": {
+          "plain": "Splinte aus den Paßschrauben der Gelenkwelle ziehen.",
+          "runs": [
+            {
+              "text": "Splinte aus den Paßschrauben der Gelenkwelle ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the split pins out of the fitted bolts of the cardan shaft.",
+          "runs": [
+            {
+              "text": "Pull the split pins out of the fitted bolts of the cardan shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de los tornillos ajustados del árbol de transmisión.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de los tornillos ajustados del árbol de transmisión.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
-      "en-GB": "On the steering-gear side, using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, slacken the castle nuts 4–5 turns off the fitted bolts.",
-      "es-ES": "En el lado del mecanismo de dirección, con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, aflojar las tuercas almenadas 4–5 vueltas de los tornillos ajustados."
+      "id": "d65250b-p005-para04",
+      "text": {
+        "de": {
+          "plain": "An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
+          "runs": [
+            {
+              "text": "An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the steering-gear side, using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, slacken the castle nuts 4–5 turns off the fitted bolts.",
+          "runs": [
+            {
+              "text": "On the steering-gear side, using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, slacken the castle nuts 4–5 turns off the fitted bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el lado del mecanismo de dirección, con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, aflojar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+          "runs": [
+            {
+              "text": "En el lado del mecanismo de dirección, con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, aflojar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p5",
-      "de": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
-      "en-GB": "1) Removal of the right- and left-hand cardan shaft is identical.",
-      "es-ES": "1) El desmontaje del árbol de transmisión derecho e izquierdo es igual."
+      "id": "d65250b-p005-para05",
+      "text": {
+        "de": {
+          "plain": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
+          "runs": [
+            {
+              "text": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Removal of the right- and left-hand cardan shaft is identical.",
+          "runs": [
+            {
+              "text": "1) Removal of the right- and left-hand cardan shaft is identical.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) El desmontaje del árbol de transmisión derecho e izquierdo es igual.",
+          "runs": [
+            {
+              "text": "1) El desmontaje del árbol de transmisión derecho e izquierdo es igual.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-001",
+      "id": "d65250b-bild001",
       "number": 1,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 1",
-        "en-GB": "Fig. 1",
-        "es-ES": "Fig. 1"
+        "de": {
+          "plain": "Bild 1",
+          "runs": [
+            {
+              "text": "Bild 1",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 1",
+          "runs": [
+            {
+              "text": "Fig. 1",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 1",
+          "runs": [
+            {
+              "text": "Fig. 1",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

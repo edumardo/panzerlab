@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die beiden Halteschrauben des Kupplungsdeckels nachziehen.",
-      "en-GB": "Retighten the two retaining screws of the clutch cover.",
-      "es-ES": "Reapretar los dos tornillos de sujeción de la tapa de embrague."
+      "id": "d65250b-p083-para01",
+      "text": {
+        "de": {
+          "plain": "Die beiden Halteschrauben des Kupplungsdeckels nachziehen.",
+          "runs": [
+            {
+              "text": "Die beiden Halteschrauben des Kupplungsdeckels nachziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Retighten the two retaining screws of the clutch cover.",
+          "runs": [
+            {
+              "text": "Retighten the two retaining screws of the clutch cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Reapretar los dos tornillos de sujeción de la tapa de embrague.",
+          "runs": [
+            {
+              "text": "Reapretar los dos tornillos de sujeción de la tapa de embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Kupplungswelle ausziehen.",
-      "en-GB": "Withdraw the clutch shaft.",
-      "es-ES": "Extraer el eje de embrague."
+      "id": "d65250b-p083-para02",
+      "text": {
+        "de": {
+          "plain": "Kupplungswelle ausziehen.",
+          "runs": [
+            {
+              "text": "Kupplungswelle ausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Withdraw the clutch shaft.",
+          "runs": [
+            {
+              "text": "Withdraw the clutch shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el eje de embrague.",
+          "runs": [
+            {
+              "text": "Extraer el eje de embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Mit Kettenbolzen die Kupplungstreibscheiben auf Mitte richten.",
-      "en-GB": "Centre the clutch driving discs using a chain bolt.",
-      "es-ES": "Centrar los discos motrices del embrague con un perno de cadena."
+      "id": "d65250b-p083-para03",
+      "text": {
+        "de": {
+          "plain": "Mit Kettenbolzen die Kupplungstreibscheiben auf Mitte richten.",
+          "runs": [
+            {
+              "text": "Mit Kettenbolzen die Kupplungstreibscheiben auf Mitte richten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Centre the clutch driving discs using a chain bolt.",
+          "runs": [
+            {
+              "text": "Centre the clutch driving discs using a chain bolt.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Centrar los discos motrices del embrague con un perno de cadena.",
+          "runs": [
+            {
+              "text": "Centrar los discos motrices del embrague con un perno de cadena.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Prüfen, ob sich Kupplungswelle bis zum hinteren Kugellager einführen läßt.",
-      "en-GB": "Check that the clutch shaft can be inserted as far as the rear ball bearing.",
-      "es-ES": "Comprobar que el eje de embrague pueda introducirse hasta el rodamiento de bolas trasero."
+      "id": "d65250b-p083-para04",
+      "text": {
+        "de": {
+          "plain": "Prüfen, ob sich Kupplungswelle bis zum hinteren Kugellager einführen läßt.",
+          "runs": [
+            {
+              "text": "Prüfen, ob sich Kupplungswelle bis zum hinteren Kugellager einführen läßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check that the clutch shaft can be inserted as far as the rear ball bearing.",
+          "runs": [
+            {
+              "text": "Check that the clutch shaft can be inserted as far as the rear ball bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar que el eje de embrague pueda introducirse hasta el rodamiento de bolas trasero.",
+          "runs": [
+            {
+              "text": "Comprobar que el eje de embrague pueda introducirse hasta el rodamiento de bolas trasero.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-134",
+      "id": "d65250b-bild134",
       "number": 134,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 134",
-        "en-GB": "Fig. 134",
-        "es-ES": "Fig. 134"
+        "de": {
+          "plain": "Bild 134",
+          "runs": [
+            {
+              "text": "Bild 134",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 134",
+          "runs": [
+            {
+              "text": "Fig. 134",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 134",
+          "runs": [
+            {
+              "text": "Fig. 134",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

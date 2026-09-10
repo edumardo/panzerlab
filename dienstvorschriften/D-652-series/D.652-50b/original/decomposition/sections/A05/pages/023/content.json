@@ -21,13 +21,176 @@
     "next": "d65250b-page-024"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Mit Zange den Sicherungsdraht aus den Befestigungsschrauben und aus dem Bundstopfen der Stützbremstrommel ziehen.", "en-GB": "Using pliers, pull the locking wire out of the fixing screws and out of the collared plug of the support brake drum.", "es-ES": "Con unos alicates, extraer el alambre de seguridad de los tornillos de fijación y del tapón con collarín del tambor del freno de apoyo."},
-    {"id": "p2", "de": "Mit 17-SW-Ringschlüssel die entsicherten Befestigungsschrauben der Stützbremstrommel herausschrauben.", "en-GB": "Using a 17 mm ring spanner, unscrew the unlocked fixing screws of the support brake drum.", "es-ES": "Con una llave de estrella de 17 mm, desenroscar los tornillos de fijación del tambor del freno de apoyo, ya liberados de seguro."},
-    {"id": "p3", "de": "Den Sicherungsring bis zum runden Loch zurückdrehen.", "en-GB": "Turn the locking ring back as far as the round hole.", "es-ES": "Girar el anillo de seguridad hacia atrás hasta el orificio redondo."},
-    {"id": "p4", "de": "Sicherungsring über Zylinderstifte abheben.", "en-GB": "Lift the locking ring off over the dowel pins.", "es-ES": "Levantar el anillo de seguridad por encima de las clavijas cilíndricas."}
+    {
+      "id": "d65250b-p023-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Zange den Sicherungsdraht aus den Befestigungsschrauben und aus dem Bundstopfen der Stützbremstrommel ziehen.",
+          "runs": [
+            {
+              "text": "Mit Zange den Sicherungsdraht aus den Befestigungsschrauben und aus dem Bundstopfen der Stützbremstrommel ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using pliers, pull the locking wire out of the fixing screws and out of the collared plug of the support brake drum.",
+          "runs": [
+            {
+              "text": "Using pliers, pull the locking wire out of the fixing screws and out of the collared plug of the support brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con unos alicates, extraer el alambre de seguridad de los tornillos de fijación y del tapón con collarín del tambor del freno de apoyo.",
+          "runs": [
+            {
+              "text": "Con unos alicates, extraer el alambre de seguridad de los tornillos de fijación y del tapón con collarín del tambor del freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p023-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 17-SW-Ringschlüssel die entsicherten Befestigungsschrauben der Stützbremstrommel herausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 17-SW-Ringschlüssel die entsicherten Befestigungsschrauben der Stützbremstrommel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm ring spanner, unscrew the unlocked fixing screws of the support brake drum.",
+          "runs": [
+            {
+              "text": "Using a 17 mm ring spanner, unscrew the unlocked fixing screws of the support brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de estrella de 17 mm, desenroscar los tornillos de fijación del tambor del freno de apoyo, ya liberados de seguro.",
+          "runs": [
+            {
+              "text": "Con una llave de estrella de 17 mm, desenroscar los tornillos de fijación del tambor del freno de apoyo, ya liberados de seguro.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p023-para03",
+      "text": {
+        "de": {
+          "plain": "Den Sicherungsring bis zum runden Loch zurückdrehen.",
+          "runs": [
+            {
+              "text": "Den Sicherungsring bis zum runden Loch zurückdrehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the locking ring back as far as the round hole.",
+          "runs": [
+            {
+              "text": "Turn the locking ring back as far as the round hole.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el anillo de seguridad hacia atrás hasta el orificio redondo.",
+          "runs": [
+            {
+              "text": "Girar el anillo de seguridad hacia atrás hasta el orificio redondo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p023-para04",
+      "text": {
+        "de": {
+          "plain": "Sicherungsring über Zylinderstifte abheben.",
+          "runs": [
+            {
+              "text": "Sicherungsring über Zylinderstifte abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the locking ring off over the dowel pins.",
+          "runs": [
+            {
+              "text": "Lift the locking ring off over the dowel pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar el anillo de seguridad por encima de las clavijas cilíndricas.",
+          "runs": [
+            {
+              "text": "Levantar el anillo de seguridad por encima de las clavijas cilíndricas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-030", "number": 30, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 30", "en-GB": "Fig. 30", "es-ES": "Fig. 30"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild030",
+      "number": 30,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 30",
+          "runs": [
+            {
+              "text": "Bild 30",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 30",
+          "runs": [
+            {
+              "text": "Fig. 30",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 30",
+          "runs": [
+            {
+              "text": "Fig. 30",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

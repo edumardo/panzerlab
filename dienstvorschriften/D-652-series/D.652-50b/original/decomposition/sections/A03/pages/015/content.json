@@ -21,14 +21,216 @@
     "next": "d65250b-page-016"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).", "en-GB": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).", "es-ES": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹)."},
-    {"id": "p2", "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.", "en-GB": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.", "es-ES": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador."},
-    {"id": "p3", "de": "¹) Siehe im Anhang.", "en-GB": "¹) See appendix.", "es-ES": "¹) Véase el anexo."},
-    {"id": "p4", "de": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.", "en-GB": "Carefully detach the asbestos hoses from the stubs of the brake shoes, Fig. 19.", "es-ES": "Soltar con cuidado las mangueras de amianto de los racores de las zapatas de freno, fig. 19."}
+    {
+      "id": "d65250b-p015-para01",
+      "text": {
+        "de": {
+          "plain": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).",
+          "runs": [
+            {
+              "text": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).",
+          "runs": [
+            {
+              "text": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹).",
+          "runs": [
+            {
+              "text": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p015-para02",
+      "text": {
+        "de": {
+          "plain": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.",
+          "runs": [
+            {
+              "text": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.",
+          "runs": [
+            {
+              "text": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador.",
+          "runs": [
+            {
+              "text": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p015-para03",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p015-para04",
+      "text": {
+        "de": {
+          "plain": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.",
+          "runs": [
+            {
+              "text": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Carefully detach the asbestos hoses from the stubs of the brake shoes, Fig. 19.",
+          "runs": [
+            {
+              "text": "Carefully detach the asbestos hoses from the stubs of the brake shoes, Fig. 19.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Soltar con cuidado las mangueras de amianto de los racores de las zapatas de freno, fig. 19.",
+          "runs": [
+            {
+              "text": "Soltar con cuidado las mangueras de amianto de los racores de las zapatas de freno, fig. 19.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-016", "number": 16, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 16", "en-GB": "Fig. 16", "es-ES": "Fig. 16"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-017", "number": 17, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 17", "en-GB": "Fig. 17", "es-ES": "Fig. 17"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild016",
+      "number": 16,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 16",
+          "runs": [
+            {
+              "text": "Bild 16",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 16",
+          "runs": [
+            {
+              "text": "Fig. 16",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 16",
+          "runs": [
+            {
+              "text": "Fig. 16",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild017",
+      "number": 17,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 17",
+          "runs": [
+            {
+              "text": "Bild 17",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 17",
+          "runs": [
+            {
+              "text": "Fig. 17",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 17",
+          "runs": [
+            {
+              "text": "Fig. 17",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

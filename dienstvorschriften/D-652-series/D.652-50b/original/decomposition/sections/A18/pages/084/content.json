@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
-      "en-GB": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner.",
-      "es-ES": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras."
+      "id": "d65250b-p084-para01",
+      "text": {
+        "de": {
+          "plain": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
+          "runs": [
+            {
+              "text": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner.",
+          "runs": [
+            {
+              "text": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
-      "en-GB": "Secure the screws by bending over the locking plates.",
-      "es-ES": "Asegurar los tornillos doblando las chapas de seguridad."
+      "id": "d65250b-p084-para02",
+      "text": {
+        "de": {
+          "plain": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
+          "runs": [
+            {
+              "text": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the screws by bending over the locking plates.",
+          "runs": [
+            {
+              "text": "Secure the screws by bending over the locking plates.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar los tornillos doblando las chapas de seguridad.",
+          "runs": [
+            {
+              "text": "Asegurar los tornillos doblando las chapas de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Das Kupplungsgehäuse über die Kupplung schieben.",
-      "en-GB": "Slide the clutch housing over the clutch.",
-      "es-ES": "Deslizar la carcasa del embrague sobre el embrague."
+      "id": "d65250b-p084-para03",
+      "text": {
+        "de": {
+          "plain": "Das Kupplungsgehäuse über die Kupplung schieben.",
+          "runs": [
+            {
+              "text": "Das Kupplungsgehäuse über die Kupplung schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the clutch housing over the clutch.",
+          "runs": [
+            {
+              "text": "Slide the clutch housing over the clutch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar la carcasa del embrague sobre el embrague.",
+          "runs": [
+            {
+              "text": "Deslizar la carcasa del embrague sobre el embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
-      "en-GB": "Note: The sliding faces of the release yoke must face towards the release bearing.",
-      "es-ES": "Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague."
+      "id": "d65250b-p084-para04",
+      "text": {
+        "de": {
+          "plain": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
+          "runs": [
+            {
+              "text": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: The sliding faces of the release yoke must face towards the release bearing.",
+          "runs": [
+            {
+              "text": "Note: The sliding faces of the release yoke must face towards the release bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
+          "runs": [
+            {
+              "text": "Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-135",
+      "id": "d65250b-bild135",
       "number": 135,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 135",
-        "en-GB": "Fig. 135",
-        "es-ES": "Fig. 135"
+        "de": {
+          "plain": "Bild 135",
+          "runs": [
+            {
+              "text": "Bild 135",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 135",
+          "runs": [
+            {
+              "text": "Fig. 135",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 135",
+          "runs": [
+            {
+              "text": "Fig. 135",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -64,14 +192,38 @@
       }
     },
     {
-      "id": "fig-136",
+      "id": "d65250b-bild136",
       "number": 136,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 136",
-        "en-GB": "Fig. 136",
-        "es-ES": "Fig. 136"
+        "de": {
+          "plain": "Bild 136",
+          "runs": [
+            {
+              "text": "Bild 136",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 136",
+          "runs": [
+            {
+              "text": "Fig. 136",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 136",
+          "runs": [
+            {
+              "text": "Fig. 136",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

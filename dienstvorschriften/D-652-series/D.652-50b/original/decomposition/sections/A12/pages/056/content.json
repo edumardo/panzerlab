@@ -21,11 +21,112 @@
     "next": "d65250b-page-057"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.", "en-GB": "Coat the sealing faces of the housing and cover with jointing compound.", "es-ES": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas."},
-    {"id": "p2", "de": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.", "en-GB": "Bolt the cover and housing together with the three countersunk screws.", "es-ES": "Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados."}
+    {
+      "id": "d65250b-p056-para01",
+      "text": {
+        "de": {
+          "plain": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.",
+          "runs": [
+            {
+              "text": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Coat the sealing faces of the housing and cover with jointing compound.",
+          "runs": [
+            {
+              "text": "Coat the sealing faces of the housing and cover with jointing compound.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas.",
+          "runs": [
+            {
+              "text": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p056-para02",
+      "text": {
+        "de": {
+          "plain": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
+          "runs": [
+            {
+              "text": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the cover and housing together with the three countersunk screws.",
+          "runs": [
+            {
+              "text": "Bolt the cover and housing together with the three countersunk screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
+          "runs": [
+            {
+              "text": "Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-087", "number": 87, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 87", "en-GB": "Fig. 87", "es-ES": "Fig. 87"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild087",
+      "number": 87,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 87",
+          "runs": [
+            {
+              "text": "Bild 87",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 87",
+          "runs": [
+            {
+              "text": "Fig. 87",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 87",
+          "runs": [
+            {
+              "text": "Fig. 87",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

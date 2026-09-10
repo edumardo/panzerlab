@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe. Maßstab 1:1.",
-      "en-GB": "Drawing 5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub. Scale 1:1.",
-      "es-ES": "Plano 5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección. Escala 1:1."
+      "id": "d65250b-p107-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe. Maßstab 1:1.",
+          "runs": [
+            {
+              "text": "Zeichnung 5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe. Maßstab 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub. Scale 1:1.",
+          "runs": [
+            {
+              "text": "Drawing 5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub. Scale 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección. Escala 1:1.",
+          "runs": [
+            {
+              "text": "Plano 5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección. Escala 1:1.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

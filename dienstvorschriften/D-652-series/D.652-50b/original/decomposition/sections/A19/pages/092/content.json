@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit 22-SW-Maulschlüssel die Anschlußschrauben der hydraulischen Rohrleitungen an dem linken Lenkstock abschrauben.",
-      "en-GB": "Using a 22 mm open-end spanner, unscrew the connecting bolts of the hydraulic pipelines on the left-hand steering column.",
-      "es-ES": "Con una llave de boca de 22 mm, desenroscar los tornillos de conexión de las tuberías hidráulicas en la columna de dirección izquierda."
+      "id": "d65250b-p092-para01",
+      "text": {
+        "de": {
+          "plain": "Mit 22-SW-Maulschlüssel die Anschlußschrauben der hydraulischen Rohrleitungen an dem linken Lenkstock abschrauben.",
+          "runs": [
+            {
+              "text": "Mit 22-SW-Maulschlüssel die Anschlußschrauben der hydraulischen Rohrleitungen an dem linken Lenkstock abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 22 mm open-end spanner, unscrew the connecting bolts of the hydraulic pipelines on the left-hand steering column.",
+          "runs": [
+            {
+              "text": "Using a 22 mm open-end spanner, unscrew the connecting bolts of the hydraulic pipelines on the left-hand steering column.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de boca de 22 mm, desenroscar los tornillos de conexión de las tuberías hidráulicas en la columna de dirección izquierda.",
+          "runs": [
+            {
+              "text": "Con una llave de boca de 22 mm, desenroscar los tornillos de conexión de las tuberías hidráulicas en la columna de dirección izquierda.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
-      "en-GB": "Pull the split pins out of the castellated nuts of the steering column mounting bolts.",
-      "es-ES": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección."
+      "id": "d65250b-p092-para02",
+      "text": {
+        "de": {
+          "plain": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
+          "runs": [
+            {
+              "text": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the split pins out of the castellated nuts of the steering column mounting bolts.",
+          "runs": [
+            {
+              "text": "Pull the split pins out of the castellated nuts of the steering column mounting bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
-      "en-GB": "Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column.",
-      "es-ES": "Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección."
+      "id": "d65250b-p092-para03",
+      "text": {
+        "de": {
+          "plain": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
+          "runs": [
+            {
+              "text": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column.",
+          "runs": [
+            {
+              "text": "Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección.",
+          "runs": [
+            {
+              "text": "Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
-      "en-GB": "On the mechanical steering actuation, remove only the linkage to the support brake.",
-      "es-ES": "En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo."
+      "id": "d65250b-p092-para04",
+      "text": {
+        "de": {
+          "plain": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
+          "runs": [
+            {
+              "text": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the mechanical steering actuation, remove only the linkage to the support brake.",
+          "runs": [
+            {
+              "text": "On the mechanical steering actuation, remove only the linkage to the support brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo.",
+          "runs": [
+            {
+              "text": "En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-147",
+      "id": "d65250b-bild147",
       "number": 147,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 147",
-        "en-GB": "Fig. 147",
-        "es-ES": "Fig. 147"
+        "de": {
+          "plain": "Bild 147",
+          "runs": [
+            {
+              "text": "Bild 147",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 147",
+          "runs": [
+            {
+              "text": "Fig. 147",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 147",
+          "runs": [
+            {
+              "text": "Fig. 147",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -64,14 +192,38 @@
       }
     },
     {
-      "id": "fig-148",
+      "id": "d65250b-bild148",
       "number": 148,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 148",
-        "en-GB": "Fig. 148",
-        "es-ES": "Fig. 148"
+        "de": {
+          "plain": "Bild 148",
+          "runs": [
+            {
+              "text": "Bild 148",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 148",
+          "runs": [
+            {
+              "text": "Fig. 148",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 148",
+          "runs": [
+            {
+              "text": "Fig. 148",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

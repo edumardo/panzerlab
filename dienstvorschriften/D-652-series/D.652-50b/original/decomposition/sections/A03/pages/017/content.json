@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
-      "en-GB": "Drive out the connecting bolt using a hammer and drift.",
-      "es-ES": "Extraer el perno de unión golpeando con martillo y botador."
+      "id": "d65250b-p017-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drive out the connecting bolt using a hammer and drift.",
+          "runs": [
+            {
+              "text": "Drive out the connecting bolt using a hammer and drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el perno de unión golpeando con martillo y botador.",
+          "runs": [
+            {
+              "text": "Extraer el perno de unión golpeando con martillo y botador.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die Bremsbacken durch die Klappe ausheben.",
-      "en-GB": "Lift the brake shoes out through the hatch.",
-      "es-ES": "Levantar las zapatas de freno a través de la trampilla."
+      "id": "d65250b-p017-para02",
+      "text": {
+        "de": {
+          "plain": "Die Bremsbacken durch die Klappe ausheben.",
+          "runs": [
+            {
+              "text": "Die Bremsbacken durch die Klappe ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the brake shoes out through the hatch.",
+          "runs": [
+            {
+              "text": "Lift the brake shoes out through the hatch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar las zapatas de freno a través de la trampilla.",
+          "runs": [
+            {
+              "text": "Levantar las zapatas de freno a través de la trampilla.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-020",
+      "id": "d65250b-bild020",
       "number": 20,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 20",
-        "en-GB": "Fig. 20",
-        "es-ES": "Fig. 20"
+        "de": {
+          "plain": "Bild 20",
+          "runs": [
+            {
+              "text": "Bild 20",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 20",
+          "runs": [
+            {
+              "text": "Fig. 20",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 20",
+          "runs": [
+            {
+              "text": "Fig. 20",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-021",
+      "id": "d65250b-bild021",
       "number": 21,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 21",
-        "en-GB": "Fig. 21",
-        "es-ES": "Fig. 21"
+        "de": {
+          "plain": "Bild 21",
+          "runs": [
+            {
+              "text": "Bild 21",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 21",
+          "runs": [
+            {
+              "text": "Fig. 21",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 21",
+          "runs": [
+            {
+              "text": "Fig. 21",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

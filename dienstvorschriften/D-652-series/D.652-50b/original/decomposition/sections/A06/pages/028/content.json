@@ -21,13 +21,184 @@
     "next": "d65250b-page-029"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen.", "en-GB": "Insert one pin with the split-pin hole and the other with the groove facing outwards into the brake shoes.", "es-ES": "Insertar un perno con el orificio para el pasador y el otro con la ranura hacia fuera en las zapatas de freno."},
-    {"id": "p2", "de": "Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.", "en-GB": "Using a square key, screw in the threaded spindles to an equal depth.", "es-ES": "Con una llave cuadrada, enroscar los husillos roscados a la misma profundidad."},
-    {"id": "p3", "de": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.", "en-GB": "Push the locking spring of the adjusting lock into the groove of one pin. Press the spring against the collar of the other pin and insert the split pin in front of the spring. Bend the split pin open.", "es-ES": "Introducir el resorte de seguridad del cerrojo de reajuste en la ranura de un perno. Presionar el resorte contra el collarín del otro perno e introducir el pasador delante del resorte. Abrir las aletas del pasador."}
+    {
+      "id": "d65250b-p028-para01",
+      "text": {
+        "de": {
+          "plain": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen.",
+          "runs": [
+            {
+              "text": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert one pin with the split-pin hole and the other with the groove facing outwards into the brake shoes.",
+          "runs": [
+            {
+              "text": "Insert one pin with the split-pin hole and the other with the groove facing outwards into the brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Insertar un perno con el orificio para el pasador y el otro con la ranura hacia fuera en las zapatas de freno.",
+          "runs": [
+            {
+              "text": "Insertar un perno con el orificio para el pasador y el otro con la ranura hacia fuera en las zapatas de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p028-para02",
+      "text": {
+        "de": {
+          "plain": "Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.",
+          "runs": [
+            {
+              "text": "Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a square key, screw in the threaded spindles to an equal depth.",
+          "runs": [
+            {
+              "text": "Using a square key, screw in the threaded spindles to an equal depth.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave cuadrada, enroscar los husillos roscados a la misma profundidad.",
+          "runs": [
+            {
+              "text": "Con una llave cuadrada, enroscar los husillos roscados a la misma profundidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p028-para03",
+      "text": {
+        "de": {
+          "plain": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.",
+          "runs": [
+            {
+              "text": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the locking spring of the adjusting lock into the groove of one pin. Press the spring against the collar of the other pin and insert the split pin in front of the spring. Bend the split pin open.",
+          "runs": [
+            {
+              "text": "Push the locking spring of the adjusting lock into the groove of one pin. Press the spring against the collar of the other pin and insert the split pin in front of the spring. Bend the split pin open.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el resorte de seguridad del cerrojo de reajuste en la ranura de un perno. Presionar el resorte contra el collarín del otro perno e introducir el pasador delante del resorte. Abrir las aletas del pasador.",
+          "runs": [
+            {
+              "text": "Introducir el resorte de seguridad del cerrojo de reajuste en la ranura de un perno. Presionar el resorte contra el collarín del otro perno e introducir el pasador delante del resorte. Abrir las aletas del pasador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-039", "number": 39, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 39", "en-GB": "Fig. 39", "es-ES": "Fig. 39"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-040", "number": 40, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 40", "en-GB": "Fig. 40", "es-ES": "Fig. 40"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild039",
+      "number": 39,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 39",
+          "runs": [
+            {
+              "text": "Bild 39",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 39",
+          "runs": [
+            {
+              "text": "Fig. 39",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 39",
+          "runs": [
+            {
+              "text": "Fig. 39",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild040",
+      "number": 40,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 40",
+          "runs": [
+            {
+              "text": "Bild 40",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 40",
+          "runs": [
+            {
+              "text": "Fig. 40",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 40",
+          "runs": [
+            {
+              "text": "Fig. 40",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

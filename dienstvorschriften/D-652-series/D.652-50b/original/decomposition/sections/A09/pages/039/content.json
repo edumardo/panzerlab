@@ -22,22 +22,72 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Durch gleichmäßiges Abdrücken mit zwei Brechstangen das Seitenvorgelege von der Panzerwanne abdrücken.",
-      "en-GB": "Press the final drive unit off the armoured hull by levering evenly with two crowbars.",
-      "es-ES": "Separar el engranaje lateral final del casco blindado haciendo palanca de manera uniforme con dos palancas."
+      "id": "d65250b-p039-para01",
+      "text": {
+        "de": {
+          "plain": "Durch gleichmäßiges Abdrücken mit zwei Brechstangen das Seitenvorgelege von der Panzerwanne abdrücken.",
+          "runs": [
+            {
+              "text": "Durch gleichmäßiges Abdrücken mit zwei Brechstangen das Seitenvorgelege von der Panzerwanne abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the final drive unit off the armoured hull by levering evenly with two crowbars.",
+          "runs": [
+            {
+              "text": "Press the final drive unit off the armoured hull by levering evenly with two crowbars.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar el engranaje lateral final del casco blindado haciendo palanca de manera uniforme con dos palancas.",
+          "runs": [
+            {
+              "text": "Separar el engranaje lateral final del casco blindado haciendo palanca de manera uniforme con dos palancas.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-058",
+      "id": "d65250b-bild058",
       "number": 58,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 58",
-        "en-GB": "Fig. 58",
-        "es-ES": "Fig. 58"
+        "de": {
+          "plain": "Bild 58",
+          "runs": [
+            {
+              "text": "Bild 58",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 58",
+          "runs": [
+            {
+              "text": "Fig. 58",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 58",
+          "runs": [
+            {
+              "text": "Fig. 58",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

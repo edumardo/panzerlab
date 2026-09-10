@@ -22,52 +22,232 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
-      "en-GB": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum.",
-      "es-ES": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno."
+      "id": "d65250b-p010-para01",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
+          "runs": [
+            {
+              "text": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum.",
+          "runs": [
+            {
+              "text": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno.",
+          "runs": [
+            {
+              "text": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
-      "en-GB": "Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3.",
-      "es-ES": "Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3."
+      "id": "d65250b-p010-para02",
+      "text": {
+        "de": {
+          "plain": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
+          "runs": [
+            {
+              "text": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3.",
+          "runs": [
+            {
+              "text": "Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3.",
+          "runs": [
+            {
+              "text": "Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
-      "en-GB": "Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum.",
-      "es-ES": "Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este."
+      "id": "d65250b-p010-para03",
+      "text": {
+        "de": {
+          "plain": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+          "runs": [
+            {
+              "text": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum.",
+          "runs": [
+            {
+              "text": "Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este.",
+          "runs": [
+            {
+              "text": "Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
-      "en-GB": "Bolt the cardan shaft on the steering-gear side.",
-      "es-ES": "Atornillar el árbol de transmisión en el lado del mecanismo de dirección."
+      "id": "d65250b-p010-para04",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
+          "runs": [
+            {
+              "text": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the cardan shaft on the steering-gear side.",
+          "runs": [
+            {
+              "text": "Bolt the cardan shaft on the steering-gear side.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el árbol de transmisión en el lado del mecanismo de dirección.",
+          "runs": [
+            {
+              "text": "Atornillar el árbol de transmisión en el lado del mecanismo de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p5",
-      "de": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
-      "en-GB": "Secure the castle nuts of the fitted bolts with split pins.",
-      "es-ES": "Asegurar las tuercas almenadas de los tornillos ajustados con pasadores."
+      "id": "d65250b-p010-para05",
+      "text": {
+        "de": {
+          "plain": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
+          "runs": [
+            {
+              "text": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the castle nuts of the fitted bolts with split pins.",
+          "runs": [
+            {
+              "text": "Secure the castle nuts of the fitted bolts with split pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
+          "runs": [
+            {
+              "text": "Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p6",
-      "de": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
-      "en-GB": "1) Installation of the right- and left-hand cardan shaft is identical.",
-      "es-ES": "1) El montaje del árbol de transmisión derecho e izquierdo es igual."
+      "id": "d65250b-p010-para06",
+      "text": {
+        "de": {
+          "plain": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
+          "runs": [
+            {
+              "text": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Installation of the right- and left-hand cardan shaft is identical.",
+          "runs": [
+            {
+              "text": "1) Installation of the right- and left-hand cardan shaft is identical.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) El montaje del árbol de transmisión derecho e izquierdo es igual.",
+          "runs": [
+            {
+              "text": "1) El montaje del árbol de transmisión derecho e izquierdo es igual.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-009",
+      "id": "d65250b-bild009",
       "number": 9,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 9",
-        "en-GB": "Fig. 9",
-        "es-ES": "Fig. 9"
+        "de": {
+          "plain": "Bild 9",
+          "runs": [
+            {
+              "text": "Bild 9",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 9",
+          "runs": [
+            {
+              "text": "Fig. 9",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 9",
+          "runs": [
+            {
+              "text": "Fig. 9",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

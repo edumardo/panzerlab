@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.",
-      "en-GB": "Using socket wrench III DB 109, unscrew the two retaining screws of the adjusting device.",
-      "es-ES": "Con la llave de vaso III DB 109, desenroscar los dos tornillos de retención del dispositivo de reajuste."
+      "id": "d65250b-p016-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.",
+          "runs": [
+            {
+              "text": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using socket wrench III DB 109, unscrew the two retaining screws of the adjusting device.",
+          "runs": [
+            {
+              "text": "Using socket wrench III DB 109, unscrew the two retaining screws of the adjusting device.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con la llave de vaso III DB 109, desenroscar los dos tornillos de retención del dispositivo de reajuste.",
+          "runs": [
+            {
+              "text": "Con la llave de vaso III DB 109, desenroscar los dos tornillos de retención del dispositivo de reajuste.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.",
-      "en-GB": "Lift the brake shoes off the steering-brake hub together with the adjusting device. Remove the split pin and washer from one shoe.",
-      "es-ES": "Levantar las zapatas de freno junto con el dispositivo de reajuste del cubo del freno de dirección. Retirar el pasador de aletas y la arandela de una zapata."
+      "id": "d65250b-p016-para02",
+      "text": {
+        "de": {
+          "plain": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.",
+          "runs": [
+            {
+              "text": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the brake shoes off the steering-brake hub together with the adjusting device. Remove the split pin and washer from one shoe.",
+          "runs": [
+            {
+              "text": "Lift the brake shoes off the steering-brake hub together with the adjusting device. Remove the split pin and washer from one shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar las zapatas de freno junto con el dispositivo de reajuste del cubo del freno de dirección. Retirar el pasador de aletas y la arandela de una zapata.",
+          "runs": [
+            {
+              "text": "Levantar las zapatas de freno junto con el dispositivo de reajuste del cubo del freno de dirección. Retirar el pasador de aletas y la arandela de una zapata.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-018",
+      "id": "d65250b-bild018",
       "number": 18,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 18",
-        "en-GB": "Fig. 18",
-        "es-ES": "Fig. 18"
+        "de": {
+          "plain": "Bild 18",
+          "runs": [
+            {
+              "text": "Bild 18",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 18",
+          "runs": [
+            {
+              "text": "Fig. 18",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 18",
+          "runs": [
+            {
+              "text": "Fig. 18",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-019",
+      "id": "d65250b-bild019",
       "number": 19,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 19",
-        "en-GB": "Fig. 19",
-        "es-ES": "Fig. 19"
+        "de": {
+          "plain": "Bild 19",
+          "runs": [
+            {
+              "text": "Bild 19",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 19",
+          "runs": [
+            {
+              "text": "Fig. 19",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 19",
+          "runs": [
+            {
+              "text": "Fig. 19",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

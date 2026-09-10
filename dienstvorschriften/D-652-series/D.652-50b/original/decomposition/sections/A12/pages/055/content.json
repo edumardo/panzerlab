@@ -21,13 +21,184 @@
     "next": "d65250b-page-056"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die Vorrichtung abnehmen und mit Hammer und Holzklotz den oberen Rollenlagerring aufschlagen.", "en-GB": "Remove the fixture and, using a hammer and a wooden block, drive on the upper roller-bearing ring.", "es-ES": "Retirar el dispositivo y, con un martillo y un taco de madera, montar a golpes el anillo superior del cojinete de rodillos."},
-    {"id": "p2", "de": "Spannplatte und Sicherungsblech auf den Rollenlagerring legen und die Verschlußschraube mit 46-SW-Maulschlüssel einschrauben.", "en-GB": "Place the clamping plate and locking plate onto the roller-bearing ring and screw in the locking screw with a 46 mm (across flats) open-ended spanner.", "es-ES": "Colocar la placa tensora y la chapa de seguridad sobre el anillo del cojinete de rodillos y enroscar el tornillo de cierre con una llave fija de 46 mm (entrecaras)."},
-    {"id": "p3", "de": "Verschlußschraube durch Umbiegen des Sicherungsbleches sichern.", "en-GB": "Secure the locking screw by bending over the locking plate.", "es-ES": "Asegurar el tornillo de cierre doblando la chapa de seguridad."}
+    {
+      "id": "d65250b-p055-para01",
+      "text": {
+        "de": {
+          "plain": "Die Vorrichtung abnehmen und mit Hammer und Holzklotz den oberen Rollenlagerring aufschlagen.",
+          "runs": [
+            {
+              "text": "Die Vorrichtung abnehmen und mit Hammer und Holzklotz den oberen Rollenlagerring aufschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the fixture and, using a hammer and a wooden block, drive on the upper roller-bearing ring.",
+          "runs": [
+            {
+              "text": "Remove the fixture and, using a hammer and a wooden block, drive on the upper roller-bearing ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el dispositivo y, con un martillo y un taco de madera, montar a golpes el anillo superior del cojinete de rodillos.",
+          "runs": [
+            {
+              "text": "Retirar el dispositivo y, con un martillo y un taco de madera, montar a golpes el anillo superior del cojinete de rodillos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p055-para02",
+      "text": {
+        "de": {
+          "plain": "Spannplatte und Sicherungsblech auf den Rollenlagerring legen und die Verschlußschraube mit 46-SW-Maulschlüssel einschrauben.",
+          "runs": [
+            {
+              "text": "Spannplatte und Sicherungsblech auf den Rollenlagerring legen und die Verschlußschraube mit 46-SW-Maulschlüssel einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the clamping plate and locking plate onto the roller-bearing ring and screw in the locking screw with a 46 mm (across flats) open-ended spanner.",
+          "runs": [
+            {
+              "text": "Place the clamping plate and locking plate onto the roller-bearing ring and screw in the locking screw with a 46 mm (across flats) open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la placa tensora y la chapa de seguridad sobre el anillo del cojinete de rodillos y enroscar el tornillo de cierre con una llave fija de 46 mm (entrecaras).",
+          "runs": [
+            {
+              "text": "Colocar la placa tensora y la chapa de seguridad sobre el anillo del cojinete de rodillos y enroscar el tornillo de cierre con una llave fija de 46 mm (entrecaras).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p055-para03",
+      "text": {
+        "de": {
+          "plain": "Verschlußschraube durch Umbiegen des Sicherungsbleches sichern.",
+          "runs": [
+            {
+              "text": "Verschlußschraube durch Umbiegen des Sicherungsbleches sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the locking screw by bending over the locking plate.",
+          "runs": [
+            {
+              "text": "Secure the locking screw by bending over the locking plate.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar el tornillo de cierre doblando la chapa de seguridad.",
+          "runs": [
+            {
+              "text": "Asegurar el tornillo de cierre doblando la chapa de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-085", "number": 85, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 85", "en-GB": "Fig. 85", "es-ES": "Fig. 85"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-086", "number": 86, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 86", "en-GB": "Fig. 86", "es-ES": "Fig. 86"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild085",
+      "number": 85,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 85",
+          "runs": [
+            {
+              "text": "Bild 85",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 85",
+          "runs": [
+            {
+              "text": "Fig. 85",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 85",
+          "runs": [
+            {
+              "text": "Fig. 85",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild086",
+      "number": 86,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 86",
+          "runs": [
+            {
+              "text": "Bild 86",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 86",
+          "runs": [
+            {
+              "text": "Fig. 86",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 86",
+          "runs": [
+            {
+              "text": "Fig. 86",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

@@ -21,17 +21,312 @@
     "next": "d65250b-page-050"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Kappe (4) über die Ritzelwelle führen.", "en-GB": "Slide the cap (4) over the pinion shaft.", "es-ES": "Deslizar la tapa (4) sobre el eje del piñón."},
-    {"id": "p2", "de": "Die Mutter (2) auf die Spindel (1) schrauben.", "en-GB": "Screw the nut (2) onto the spindle (1).", "es-ES": "Enroscar la tuerca (2) en el husillo (1)."},
-    {"id": "p3", "de": "Zwischenring (3) auf den Bund der Mutter legen.", "en-GB": "Place the spacer ring (3) on the collar of the nut.", "es-ES": "Colocar el anillo intermedio (3) sobre el collarín de la tuerca."},
-    {"id": "p4", "de": "Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).", "en-GB": "Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).", "es-ES": "Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹)."},
-    {"id": "p5", "de": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen.", "en-GB": "Insert the pinion shaft into the housing of the final drive unit.", "es-ES": "Introducir el eje del piñón en la carcasa del engranaje lateral final."},
-    {"id": "p6", "de": "Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.", "en-GB": "Fit the pressure plate and bolt it together with the spacer tubes and bolts.", "es-ES": "Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos."},
-    {"id": "p7", "de": "¹) Siehe im Anhang.", "en-GB": "¹) See appendix.", "es-ES": "¹) Véase el anexo."}
+    {
+      "id": "d65250b-p049-para01",
+      "text": {
+        "de": {
+          "plain": "Kappe (4) über die Ritzelwelle führen.",
+          "runs": [
+            {
+              "text": "Kappe (4) über die Ritzelwelle führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the cap (4) over the pinion shaft.",
+          "runs": [
+            {
+              "text": "Slide the cap (4) over the pinion shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar la tapa (4) sobre el eje del piñón.",
+          "runs": [
+            {
+              "text": "Deslizar la tapa (4) sobre el eje del piñón.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p049-para02",
+      "text": {
+        "de": {
+          "plain": "Die Mutter (2) auf die Spindel (1) schrauben.",
+          "runs": [
+            {
+              "text": "Die Mutter (2) auf die Spindel (1) schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the nut (2) onto the spindle (1).",
+          "runs": [
+            {
+              "text": "Screw the nut (2) onto the spindle (1).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar la tuerca (2) en el husillo (1).",
+          "runs": [
+            {
+              "text": "Enroscar la tuerca (2) en el husillo (1).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p049-para03",
+      "text": {
+        "de": {
+          "plain": "Zwischenring (3) auf den Bund der Mutter legen.",
+          "runs": [
+            {
+              "text": "Zwischenring (3) auf den Bund der Mutter legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the spacer ring (3) on the collar of the nut.",
+          "runs": [
+            {
+              "text": "Place the spacer ring (3) on the collar of the nut.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo intermedio (3) sobre el collarín de la tuerca.",
+          "runs": [
+            {
+              "text": "Colocar el anillo intermedio (3) sobre el collarín de la tuerca.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p049-para04",
+      "text": {
+        "de": {
+          "plain": "Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).",
+          "runs": [
+            {
+              "text": "Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).",
+          "runs": [
+            {
+              "text": "Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
+          "runs": [
+            {
+              "text": "Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p049-para05",
+      "text": {
+        "de": {
+          "plain": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen.",
+          "runs": [
+            {
+              "text": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert the pinion shaft into the housing of the final drive unit.",
+          "runs": [
+            {
+              "text": "Insert the pinion shaft into the housing of the final drive unit.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el eje del piñón en la carcasa del engranaje lateral final.",
+          "runs": [
+            {
+              "text": "Introducir el eje del piñón en la carcasa del engranaje lateral final.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p049-para06",
+      "text": {
+        "de": {
+          "plain": "Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.",
+          "runs": [
+            {
+              "text": "Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the pressure plate and bolt it together with the spacer tubes and bolts.",
+          "runs": [
+            {
+              "text": "Fit the pressure plate and bolt it together with the spacer tubes and bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos.",
+          "runs": [
+            {
+              "text": "Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p049-para07",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-074", "number": 74, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 74", "en-GB": "Fig. 74", "es-ES": "Fig. 74"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-075", "number": 75, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 75", "en-GB": "Fig. 75", "es-ES": "Fig. 75"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild074",
+      "number": 74,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 74",
+          "runs": [
+            {
+              "text": "Bild 74",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 74",
+          "runs": [
+            {
+              "text": "Fig. 74",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 74",
+          "runs": [
+            {
+              "text": "Fig. 74",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild075",
+      "number": 75,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 75",
+          "runs": [
+            {
+              "text": "Bild 75",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 75",
+          "runs": [
+            {
+              "text": "Fig. 75",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 75",
+          "runs": [
+            {
+              "text": "Fig. 75",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

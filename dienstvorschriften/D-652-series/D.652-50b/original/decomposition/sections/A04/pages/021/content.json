@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Haltefedern der Bremsbacken mit Zughaken einhängen.",
-      "en-GB": "Hook the retaining springs of the brake shoes in place using a pull hook.",
-      "es-ES": "Enganchar los muelles de retención de las zapatas de freno con un gancho de tracción."
+      "id": "d65250b-p021-para01",
+      "text": {
+        "de": {
+          "plain": "Haltefedern der Bremsbacken mit Zughaken einhängen.",
+          "runs": [
+            {
+              "text": "Haltefedern der Bremsbacken mit Zughaken einhängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hook the retaining springs of the brake shoes in place using a pull hook.",
+          "runs": [
+            {
+              "text": "Hook the retaining springs of the brake shoes in place using a pull hook.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enganchar los muelles de retención de las zapatas de freno con un gancho de tracción.",
+          "runs": [
+            {
+              "text": "Enganchar los muelles de retención de las zapatas de freno con un gancho de tracción.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn eingehängt werden.",
-      "en-GB": "If no pull hook is available, the retaining springs of the brake shoes can be hooked in using a wire pull and a drift.",
-      "es-ES": "Si no se dispone de gancho de tracción, los muelles de retención de las zapatas de freno pueden engancharse con un tirador de alambre y un botador."
+      "id": "d65250b-p021-para02",
+      "text": {
+        "de": {
+          "plain": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn eingehängt werden.",
+          "runs": [
+            {
+              "text": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn eingehängt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "If no pull hook is available, the retaining springs of the brake shoes can be hooked in using a wire pull and a drift.",
+          "runs": [
+            {
+              "text": "If no pull hook is available, the retaining springs of the brake shoes can be hooked in using a wire pull and a drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Si no se dispone de gancho de tracción, los muelles de retención de las zapatas de freno pueden engancharse con un tirador de alambre y un botador.",
+          "runs": [
+            {
+              "text": "Si no se dispone de gancho de tracción, los muelles de retención de las zapatas de freno pueden engancharse con un tirador de alambre y un botador.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-027",
+      "id": "d65250b-bild027",
       "number": 27,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 27",
-        "en-GB": "Fig. 27",
-        "es-ES": "Fig. 27"
+        "de": {
+          "plain": "Bild 27",
+          "runs": [
+            {
+              "text": "Bild 27",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 27",
+          "runs": [
+            {
+              "text": "Fig. 27",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 27",
+          "runs": [
+            {
+              "text": "Fig. 27",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-028",
+      "id": "d65250b-bild028",
       "number": 28,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 28",
-        "en-GB": "Fig. 28",
-        "es-ES": "Fig. 28"
+        "de": {
+          "plain": "Bild 28",
+          "runs": [
+            {
+              "text": "Bild 28",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 28",
+          "runs": [
+            {
+              "text": "Fig. 28",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 28",
+          "runs": [
+            {
+              "text": "Fig. 28",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

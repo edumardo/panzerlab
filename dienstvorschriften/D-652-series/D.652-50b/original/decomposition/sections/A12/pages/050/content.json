@@ -21,12 +21,152 @@
     "next": "d65250b-page-051"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Führungsgabel des Rollenlagers zwischen Ritzel und Rollenlager schieben.", "en-GB": "Slide the guide fork of the roller bearing between the pinion and the roller bearing.", "es-ES": "Deslizar la horquilla guía del cojinete de rodillos entre el piñón y el cojinete de rodillos."},
-    {"id": "p2", "de": "Ritzellagerung durch Linksdrehen der Mutter mit 41-SW-Maulschlüssel einziehen.", "en-GB": "Draw in the pinion bearing by turning the nut anticlockwise with a 41 mm (across flats) open-ended spanner.", "es-ES": "Introducir el cojinete del piñón girando la tuerca hacia la izquierda con una llave fija de 41 mm (entrecaras)."}
+    {
+      "id": "d65250b-p050-para01",
+      "text": {
+        "de": {
+          "plain": "Führungsgabel des Rollenlagers zwischen Ritzel und Rollenlager schieben.",
+          "runs": [
+            {
+              "text": "Führungsgabel des Rollenlagers zwischen Ritzel und Rollenlager schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the guide fork of the roller bearing between the pinion and the roller bearing.",
+          "runs": [
+            {
+              "text": "Slide the guide fork of the roller bearing between the pinion and the roller bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar la horquilla guía del cojinete de rodillos entre el piñón y el cojinete de rodillos.",
+          "runs": [
+            {
+              "text": "Deslizar la horquilla guía del cojinete de rodillos entre el piñón y el cojinete de rodillos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p050-para02",
+      "text": {
+        "de": {
+          "plain": "Ritzellagerung durch Linksdrehen der Mutter mit 41-SW-Maulschlüssel einziehen.",
+          "runs": [
+            {
+              "text": "Ritzellagerung durch Linksdrehen der Mutter mit 41-SW-Maulschlüssel einziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Draw in the pinion bearing by turning the nut anticlockwise with a 41 mm (across flats) open-ended spanner.",
+          "runs": [
+            {
+              "text": "Draw in the pinion bearing by turning the nut anticlockwise with a 41 mm (across flats) open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el cojinete del piñón girando la tuerca hacia la izquierda con una llave fija de 41 mm (entrecaras).",
+          "runs": [
+            {
+              "text": "Introducir el cojinete del piñón girando la tuerca hacia la izquierda con una llave fija de 41 mm (entrecaras).",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-076", "number": 76, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 76", "en-GB": "Fig. 76", "es-ES": "Fig. 76"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-077", "number": 77, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 77", "en-GB": "Fig. 77", "es-ES": "Fig. 77"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild076",
+      "number": 76,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 76",
+          "runs": [
+            {
+              "text": "Bild 76",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 76",
+          "runs": [
+            {
+              "text": "Fig. 76",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 76",
+          "runs": [
+            {
+              "text": "Fig. 76",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild077",
+      "number": 77,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 77",
+          "runs": [
+            {
+              "text": "Bild 77",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 77",
+          "runs": [
+            {
+              "text": "Fig. 77",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 77",
+          "runs": [
+            {
+              "text": "Fig. 77",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

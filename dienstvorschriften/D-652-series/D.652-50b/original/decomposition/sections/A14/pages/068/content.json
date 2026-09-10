@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
-      "en-GB": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring.",
-      "es-ES": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague."
+      "id": "d65250b-p068-para01",
+      "text": {
+        "de": {
+          "plain": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring.",
+          "runs": [
+            {
+              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague.",
+          "runs": [
+            {
+              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Den Kupplungszwischenring abheben.",
-      "en-GB": "Lift off the clutch intermediate ring.",
-      "es-ES": "Levantar el anillo intermedio del embrague."
+      "id": "d65250b-p068-para02",
+      "text": {
+        "de": {
+          "plain": "Den Kupplungszwischenring abheben.",
+          "runs": [
+            {
+              "text": "Den Kupplungszwischenring abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift off the clutch intermediate ring.",
+          "runs": [
+            {
+              "text": "Lift off the clutch intermediate ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar el anillo intermedio del embrague.",
+          "runs": [
+            {
+              "text": "Levantar el anillo intermedio del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
-      "en-GB": "Remove the wire locks from the square-head screws of the flywheel fixing.",
-      "es-ES": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante."
+      "id": "d65250b-p068-para03",
+      "text": {
+        "de": {
+          "plain": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
+          "runs": [
+            {
+              "text": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the wire locks from the square-head screws of the flywheel fixing.",
+          "runs": [
+            {
+              "text": "Remove the wire locks from the square-head screws of the flywheel fixing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante.",
+          "runs": [
+            {
+              "text": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
-      "en-GB": "Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
-      "es-ES": "Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas."
+      "id": "d65250b-p068-para04",
+      "text": {
+        "de": {
+          "plain": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
+          "runs": [
+            {
+              "text": "Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
+          "runs": [
+            {
+              "text": "Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-107",
+      "id": "d65250b-bild107",
       "number": 107,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 107",
-        "en-GB": "Fig. 107",
-        "es-ES": "Fig. 107"
+        "de": {
+          "plain": "Bild 107",
+          "runs": [
+            {
+              "text": "Bild 107",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 107",
+          "runs": [
+            {
+              "text": "Fig. 107",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 107",
+          "runs": [
+            {
+              "text": "Fig. 107",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -64,14 +192,38 @@
       }
     },
     {
-      "id": "fig-108",
+      "id": "d65250b-bild108",
       "number": 108,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 108",
-        "en-GB": "Fig. 108",
-        "es-ES": "Fig. 108"
+        "de": {
+          "plain": "Bild 108",
+          "runs": [
+            {
+              "text": "Bild 108",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 108",
+          "runs": [
+            {
+              "text": "Fig. 108",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 108",
+          "runs": [
+            {
+              "text": "Fig. 108",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

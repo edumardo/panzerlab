@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
-      "en-GB": "Using a hammer and drift, drive the ball bearing together with the hub out through the three holes in the housing.",
-      "es-ES": "Con martillo y botador, expulsar el rodamiento de bolas junto con el buje a través de los tres orificios de la carcasa."
+      "id": "d65250b-p070-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a hammer and drift, drive the ball bearing together with the hub out through the three holes in the housing.",
+          "runs": [
+            {
+              "text": "Using a hammer and drift, drive the ball bearing together with the hub out through the three holes in the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con martillo y botador, expulsar el rodamiento de bolas junto con el buje a través de los tres orificios de la carcasa.",
+          "runs": [
+            {
+              "text": "Con martillo y botador, expulsar el rodamiento de bolas junto con el buje a través de los tres orificios de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
-      "en-GB": "Using a hammer and drift, drive the ball bearing off the hub through the three holes in the flange.",
-      "es-ES": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida."
+      "id": "d65250b-p070-para02",
+      "text": {
+        "de": {
+          "plain": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a hammer and drift, drive the ball bearing off the hub through the three holes in the flange.",
+          "runs": [
+            {
+              "text": "Using a hammer and drift, drive the ball bearing off the hub through the three holes in the flange.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida.",
+          "runs": [
+            {
+              "text": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-110",
+      "id": "d65250b-bild110",
       "number": 110,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 110",
-        "en-GB": "Fig. 110",
-        "es-ES": "Fig. 110"
+        "de": {
+          "plain": "Bild 110",
+          "runs": [
+            {
+              "text": "Bild 110",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 110",
+          "runs": [
+            {
+              "text": "Fig. 110",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 110",
+          "runs": [
+            {
+              "text": "Fig. 110",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-111",
+      "id": "d65250b-bild111",
       "number": 111,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 111",
-        "en-GB": "Fig. 111",
-        "es-ES": "Fig. 111"
+        "de": {
+          "plain": "Bild 111",
+          "runs": [
+            {
+              "text": "Bild 111",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 111",
+          "runs": [
+            {
+              "text": "Fig. 111",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 111",
+          "runs": [
+            {
+              "text": "Fig. 111",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

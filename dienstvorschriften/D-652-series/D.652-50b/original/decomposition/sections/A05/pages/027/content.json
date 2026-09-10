@@ -21,12 +21,152 @@
     "next": "d65250b-page-028"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.", "en-GB": "Clamp the brake shoe in the vice. Using a hammer and chisel, knock off the rivet heads inside the brake shoe. Using a hammer and a drift punch, drive out the rivets.", "es-ES": "Sujetar la zapata de freno en el tornillo de banco. Con martillo y cincel, cortar las cabezas de los remaches en el interior de la zapata de freno. Con martillo y botador, expulsar los remaches."},
-    {"id": "p2", "de": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.", "en-GB": "Clamp a drift punch with the diameter of a rivet head in the vice. Lay on the new brake lining and rivet it in place, starting from the centre and working outwards. Let the rivet head rest on the clamped drift punch and rivet the rivet using a second drift punch.", "es-ES": "Sujetar en el tornillo de banco un botador con el diámetro de una cabeza de remache. Colocar el nuevo forro de freno y remacharlo comenzando desde el centro hacia fuera. Dejar que la cabeza del remache repose sobre el botador sujeto y remachar el remache con un segundo botador."}
+    {
+      "id": "d65250b-p027-para01",
+      "text": {
+        "de": {
+          "plain": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.",
+          "runs": [
+            {
+              "text": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clamp the brake shoe in the vice. Using a hammer and chisel, knock off the rivet heads inside the brake shoe. Using a hammer and a drift punch, drive out the rivets.",
+          "runs": [
+            {
+              "text": "Clamp the brake shoe in the vice. Using a hammer and chisel, knock off the rivet heads inside the brake shoe. Using a hammer and a drift punch, drive out the rivets.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar la zapata de freno en el tornillo de banco. Con martillo y cincel, cortar las cabezas de los remaches en el interior de la zapata de freno. Con martillo y botador, expulsar los remaches.",
+          "runs": [
+            {
+              "text": "Sujetar la zapata de freno en el tornillo de banco. Con martillo y cincel, cortar las cabezas de los remaches en el interior de la zapata de freno. Con martillo y botador, expulsar los remaches.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p027-para02",
+      "text": {
+        "de": {
+          "plain": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.",
+          "runs": [
+            {
+              "text": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clamp a drift punch with the diameter of a rivet head in the vice. Lay on the new brake lining and rivet it in place, starting from the centre and working outwards. Let the rivet head rest on the clamped drift punch and rivet the rivet using a second drift punch.",
+          "runs": [
+            {
+              "text": "Clamp a drift punch with the diameter of a rivet head in the vice. Lay on the new brake lining and rivet it in place, starting from the centre and working outwards. Let the rivet head rest on the clamped drift punch and rivet the rivet using a second drift punch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar en el tornillo de banco un botador con el diámetro de una cabeza de remache. Colocar el nuevo forro de freno y remacharlo comenzando desde el centro hacia fuera. Dejar que la cabeza del remache repose sobre el botador sujeto y remachar el remache con un segundo botador.",
+          "runs": [
+            {
+              "text": "Sujetar en el tornillo de banco un botador con el diámetro de una cabeza de remache. Colocar el nuevo forro de freno y remacharlo comenzando desde el centro hacia fuera. Dejar que la cabeza del remache repose sobre el botador sujeto y remachar el remache con un segundo botador.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-037", "number": 37, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 37", "en-GB": "Fig. 37", "es-ES": "Fig. 37"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-038", "number": 38, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 38", "en-GB": "Fig. 38", "es-ES": "Fig. 38"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild037",
+      "number": 37,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 37",
+          "runs": [
+            {
+              "text": "Bild 37",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 37",
+          "runs": [
+            {
+              "text": "Fig. 37",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 37",
+          "runs": [
+            {
+              "text": "Fig. 37",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild038",
+      "number": 38,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 38",
+          "runs": [
+            {
+              "text": "Bild 38",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 38",
+          "runs": [
+            {
+              "text": "Fig. 38",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 38",
+          "runs": [
+            {
+              "text": "Fig. 38",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

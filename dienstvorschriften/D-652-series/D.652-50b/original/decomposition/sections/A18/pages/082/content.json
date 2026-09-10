@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Kupplungsdeckel mit Kupplungsdruckplatte an den Kupplungsring halten und diese mit zwei gegenüberliegenden Schrauben so einschrauben, daß sich die Kupplungstreibscheiben mit Hilfe der Kupplungswelle drehen lassen.",
-      "en-GB": "Hold the clutch cover with the clutch pressure plate against the clutch ring and screw them together with two opposite screws so that the clutch driving discs can be turned with the aid of the clutch shaft.",
-      "es-ES": "Sujetar la tapa de embrague con el plato de presión del embrague contra el anillo de embrague y atornillarlos con dos tornillos opuestos, de manera que los discos motrices del embrague puedan girarse con ayuda del eje de embrague."
+      "id": "d65250b-p082-para01",
+      "text": {
+        "de": {
+          "plain": "Kupplungsdeckel mit Kupplungsdruckplatte an den Kupplungsring halten und diese mit zwei gegenüberliegenden Schrauben so einschrauben, daß sich die Kupplungstreibscheiben mit Hilfe der Kupplungswelle drehen lassen.",
+          "runs": [
+            {
+              "text": "Kupplungsdeckel mit Kupplungsdruckplatte an den Kupplungsring halten und diese mit zwei gegenüberliegenden Schrauben so einschrauben, daß sich die Kupplungstreibscheiben mit Hilfe der Kupplungswelle drehen lassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hold the clutch cover with the clutch pressure plate against the clutch ring and screw them together with two opposite screws so that the clutch driving discs can be turned with the aid of the clutch shaft.",
+          "runs": [
+            {
+              "text": "Hold the clutch cover with the clutch pressure plate against the clutch ring and screw them together with two opposite screws so that the clutch driving discs can be turned with the aid of the clutch shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar la tapa de embrague con el plato de presión del embrague contra el anillo de embrague y atornillarlos con dos tornillos opuestos, de manera que los discos motrices del embrague puedan girarse con ayuda del eje de embrague.",
+          "runs": [
+            {
+              "text": "Sujetar la tapa de embrague con el plato de presión del embrague contra el anillo de embrague y atornillarlos con dos tornillos opuestos, de manera que los discos motrices del embrague puedan girarse con ayuda del eje de embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die Kupplungswelle mit den Kupplungstreibscheiben so weit herumdrehen, bis die Nuten der drei Kupplungstreibscheiben übereinanderstehen und sich die Kupplungswelle ganz einführen läßt.",
-      "en-GB": "Turn the clutch shaft together with the clutch driving discs until the grooves of the three clutch driving discs are aligned and the clutch shaft can be pushed in fully.",
-      "es-ES": "Girar el eje de embrague junto con los discos motrices del embrague hasta que las ranuras de los tres discos motrices queden alineadas y el eje de embrague pueda introducirse por completo."
+      "id": "d65250b-p082-para02",
+      "text": {
+        "de": {
+          "plain": "Die Kupplungswelle mit den Kupplungstreibscheiben so weit herumdrehen, bis die Nuten der drei Kupplungstreibscheiben übereinanderstehen und sich die Kupplungswelle ganz einführen läßt.",
+          "runs": [
+            {
+              "text": "Die Kupplungswelle mit den Kupplungstreibscheiben so weit herumdrehen, bis die Nuten der drei Kupplungstreibscheiben übereinanderstehen und sich die Kupplungswelle ganz einführen läßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the clutch shaft together with the clutch driving discs until the grooves of the three clutch driving discs are aligned and the clutch shaft can be pushed in fully.",
+          "runs": [
+            {
+              "text": "Turn the clutch shaft together with the clutch driving discs until the grooves of the three clutch driving discs are aligned and the clutch shaft can be pushed in fully.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el eje de embrague junto con los discos motrices del embrague hasta que las ranuras de los tres discos motrices queden alineadas y el eje de embrague pueda introducirse por completo.",
+          "runs": [
+            {
+              "text": "Girar el eje de embrague junto con los discos motrices del embrague hasta que las ranuras de los tres discos motrices queden alineadas y el eje de embrague pueda introducirse por completo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-132",
+      "id": "d65250b-bild132",
       "number": 132,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 132",
-        "en-GB": "Fig. 132",
-        "es-ES": "Fig. 132"
+        "de": {
+          "plain": "Bild 132",
+          "runs": [
+            {
+              "text": "Bild 132",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 132",
+          "runs": [
+            {
+              "text": "Fig. 132",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 132",
+          "runs": [
+            {
+              "text": "Fig. 132",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-133",
+      "id": "d65250b-bild133",
       "number": 133,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 133",
-        "en-GB": "Fig. 133",
-        "es-ES": "Fig. 133"
+        "de": {
+          "plain": "Bild 133",
+          "runs": [
+            {
+              "text": "Bild 133",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 133",
+          "runs": [
+            {
+              "text": "Fig. 133",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 133",
+          "runs": [
+            {
+              "text": "Fig. 133",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

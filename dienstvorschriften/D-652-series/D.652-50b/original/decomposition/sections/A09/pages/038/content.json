@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
-      "en-GB": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
-      "es-ES": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección."
+      "id": "d65250b-p038-para01",
+      "text": {
+        "de": {
+          "plain": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
+          "runs": [
+            {
+              "text": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
+          "runs": [
+            {
+              "text": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
+          "runs": [
+            {
+              "text": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
-      "en-GB": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
-      "es-ES": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹)."
+      "id": "d65250b-p038-para02",
+      "text": {
+        "de": {
+          "plain": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
+          "runs": [
+            {
+              "text": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
+          "runs": [
+            {
+              "text": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
+          "runs": [
+            {
+              "text": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "¹) Siehe im Anhang.",
-      "en-GB": "¹) See appendix.",
-      "es-ES": "¹) Véase el anexo."
+      "id": "d65250b-p038-para03",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-056",
+      "id": "d65250b-bild056",
       "number": 56,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 56",
-        "en-GB": "Fig. 56",
-        "es-ES": "Fig. 56"
+        "de": {
+          "plain": "Bild 56",
+          "runs": [
+            {
+              "text": "Bild 56",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 56",
+          "runs": [
+            {
+              "text": "Fig. 56",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 56",
+          "runs": [
+            {
+              "text": "Fig. 56",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-057",
+      "id": "d65250b-bild057",
       "number": 57,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 57",
-        "en-GB": "Fig. 57",
-        "es-ES": "Fig. 57"
+        "de": {
+          "plain": "Bild 57",
+          "runs": [
+            {
+              "text": "Bild 57",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 57",
+          "runs": [
+            {
+              "text": "Fig. 57",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 57",
+          "runs": [
+            {
+              "text": "Fig. 57",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

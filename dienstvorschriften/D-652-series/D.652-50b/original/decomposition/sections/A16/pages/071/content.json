@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Abschmierfett in das Kugellager drücken und Staubring und Kugellager auf die Nabe führen.",
-      "en-GB": "Press grease into the ball bearing and slide the dust ring and ball bearing onto the hub.",
-      "es-ES": "Introducir grasa a presión en el rodamiento de bolas y montar el anillo guardapolvo y el rodamiento de bolas sobre el buje."
+      "id": "d65250b-p071-para01",
+      "text": {
+        "de": {
+          "plain": "Abschmierfett in das Kugellager drücken und Staubring und Kugellager auf die Nabe führen.",
+          "runs": [
+            {
+              "text": "Abschmierfett in das Kugellager drücken und Staubring und Kugellager auf die Nabe führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press grease into the ball bearing and slide the dust ring and ball bearing onto the hub.",
+          "runs": [
+            {
+              "text": "Press grease into the ball bearing and slide the dust ring and ball bearing onto the hub.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir grasa a presión en el rodamiento de bolas y montar el anillo guardapolvo y el rodamiento de bolas sobre el buje.",
+          "runs": [
+            {
+              "text": "Introducir grasa a presión en el rodamiento de bolas y montar el anillo guardapolvo y el rodamiento de bolas sobre el buje.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit Weichmetallhammer das Kugellager auf die Nabe schlagen.",
-      "en-GB": "Using a soft-metal hammer, drive the ball bearing onto the hub.",
-      "es-ES": "Con un martillo de metal blando, introducir a golpes el rodamiento de bolas en el buje."
+      "id": "d65250b-p071-para02",
+      "text": {
+        "de": {
+          "plain": "Mit Weichmetallhammer das Kugellager auf die Nabe schlagen.",
+          "runs": [
+            {
+              "text": "Mit Weichmetallhammer das Kugellager auf die Nabe schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a soft-metal hammer, drive the ball bearing onto the hub.",
+          "runs": [
+            {
+              "text": "Using a soft-metal hammer, drive the ball bearing onto the hub.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con un martillo de metal blando, introducir a golpes el rodamiento de bolas en el buje.",
+          "runs": [
+            {
+              "text": "Con un martillo de metal blando, introducir a golpes el rodamiento de bolas en el buje.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-112",
+      "id": "d65250b-bild112",
       "number": 112,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 112",
-        "en-GB": "Fig. 112",
-        "es-ES": "Fig. 112"
+        "de": {
+          "plain": "Bild 112",
+          "runs": [
+            {
+              "text": "Bild 112",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 112",
+          "runs": [
+            {
+              "text": "Fig. 112",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 112",
+          "runs": [
+            {
+              "text": "Fig. 112",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-113",
+      "id": "d65250b-bild113",
       "number": 113,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 113",
-        "en-GB": "Fig. 113",
-        "es-ES": "Fig. 113"
+        "de": {
+          "plain": "Bild 113",
+          "runs": [
+            {
+              "text": "Bild 113",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 113",
+          "runs": [
+            {
+              "text": "Fig. 113",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 113",
+          "runs": [
+            {
+              "text": "Fig. 113",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

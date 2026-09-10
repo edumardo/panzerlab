@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Ein Bremsbackenpaar durch die Klappe einführen. Erregerbacke mit 9 Bremsklötzen nach der Bugseite einsetzen.",
-      "en-GB": "Insert a pair of brake shoes through the hatch. Fit the leading (energising) shoe with 9 brake blocks facing the bow side.",
-      "es-ES": "Introducir un par de zapatas de freno a través de la trampilla. Montar la zapata primaria con 9 tacos de freno orientada hacia el lado de proa."
+      "id": "d65250b-p018-para01",
+      "text": {
+        "de": {
+          "plain": "Ein Bremsbackenpaar durch die Klappe einführen. Erregerbacke mit 9 Bremsklötzen nach der Bugseite einsetzen.",
+          "runs": [
+            {
+              "text": "Ein Bremsbackenpaar durch die Klappe einführen. Erregerbacke mit 9 Bremsklötzen nach der Bugseite einsetzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert a pair of brake shoes through the hatch. Fit the leading (energising) shoe with 9 brake blocks facing the bow side.",
+          "runs": [
+            {
+              "text": "Insert a pair of brake shoes through the hatch. Fit the leading (energising) shoe with 9 brake blocks facing the bow side.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir un par de zapatas de freno a través de la trampilla. Montar la zapata primaria con 9 tacos de freno orientada hacia el lado de proa.",
+          "runs": [
+            {
+              "text": "Introducir un par de zapatas de freno a través de la trampilla. Montar la zapata primaria con 9 tacos de freno orientada hacia el lado de proa.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die Gewindespindeln der Nachstellvorrichtung gleich weit einschrauben.",
-      "en-GB": "Screw in the threaded spindles of the adjusting device to equal depth.",
-      "es-ES": "Enroscar los husillos roscados del dispositivo de reajuste a la misma profundidad."
+      "id": "d65250b-p018-para02",
+      "text": {
+        "de": {
+          "plain": "Die Gewindespindeln der Nachstellvorrichtung gleich weit einschrauben.",
+          "runs": [
+            {
+              "text": "Die Gewindespindeln der Nachstellvorrichtung gleich weit einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw in the threaded spindles of the adjusting device to equal depth.",
+          "runs": [
+            {
+              "text": "Screw in the threaded spindles of the adjusting device to equal depth.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar los husillos roscados del dispositivo de reajuste a la misma profundidad.",
+          "runs": [
+            {
+              "text": "Enroscar los husillos roscados del dispositivo de reajuste a la misma profundidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Die Bremsbacken mit der Nachstellvorrichtung durch Einführen eines Bolzens verbinden.",
-      "en-GB": "Connect the brake shoes to the adjusting device by inserting a pin.",
-      "es-ES": "Unir las zapatas de freno al dispositivo de reajuste introduciendo un perno."
+      "id": "d65250b-p018-para03",
+      "text": {
+        "de": {
+          "plain": "Die Bremsbacken mit der Nachstellvorrichtung durch Einführen eines Bolzens verbinden.",
+          "runs": [
+            {
+              "text": "Die Bremsbacken mit der Nachstellvorrichtung durch Einführen eines Bolzens verbinden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Connect the brake shoes to the adjusting device by inserting a pin.",
+          "runs": [
+            {
+              "text": "Connect the brake shoes to the adjusting device by inserting a pin.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Unir las zapatas de freno al dispositivo de reajuste introduciendo un perno.",
+          "runs": [
+            {
+              "text": "Unir las zapatas de freno al dispositivo de reajuste introduciendo un perno.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-022",
+      "id": "d65250b-bild022",
       "number": 22,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 22",
-        "en-GB": "Fig. 22",
-        "es-ES": "Fig. 22"
+        "de": {
+          "plain": "Bild 22",
+          "runs": [
+            {
+              "text": "Bild 22",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 22",
+          "runs": [
+            {
+              "text": "Fig. 22",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 22",
+          "runs": [
+            {
+              "text": "Fig. 22",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-023",
+      "id": "d65250b-bild023",
       "number": 23,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 23",
-        "en-GB": "Fig. 23",
-        "es-ES": "Fig. 23"
+        "de": {
+          "plain": "Bild 23",
+          "runs": [
+            {
+              "text": "Bild 23",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 23",
+          "runs": [
+            {
+              "text": "Fig. 23",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 23",
+          "runs": [
+            {
+              "text": "Fig. 23",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

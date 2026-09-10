@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
-      "en-GB": "Secure the three securing screws of the release bearing with wire.",
-      "es-ES": "Asegurar con alambre los tres tornillos de fijación del rodamiento de desembrague."
+      "id": "d65250b-p075-para01",
+      "text": {
+        "de": {
+          "plain": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
+          "runs": [
+            {
+              "text": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the three securing screws of the release bearing with wire.",
+          "runs": [
+            {
+              "text": "Secure the three securing screws of the release bearing with wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar con alambre los tres tornillos de fijación del rodamiento de desembrague.",
+          "runs": [
+            {
+              "text": "Asegurar con alambre los tres tornillos de fijación del rodamiento de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
-      "en-GB": "Hold the clutch pressure plate up against the clutch cover.",
-      "es-ES": "Sujetar la placa de presión del embrague contra la tapa del embrague."
+      "id": "d65250b-p075-para02",
+      "text": {
+        "de": {
+          "plain": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
+          "runs": [
+            {
+              "text": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hold the clutch pressure plate up against the clutch cover.",
+          "runs": [
+            {
+              "text": "Hold the clutch pressure plate up against the clutch cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar la placa de presión del embrague contra la tapa del embrague.",
+          "runs": [
+            {
+              "text": "Sujetar la placa de presión del embrague contra la tapa del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
-      "en-GB": "Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
-      "es-ES": "Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2)."
+      "id": "d65250b-p075-para03",
+      "text": {
+        "de": {
+          "plain": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
+          "runs": [
+            {
+              "text": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
+          "runs": [
+            {
+              "text": "Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
+          "runs": [
+            {
+              "text": "Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-120",
+      "id": "d65250b-bild120",
       "number": 120,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 120",
-        "en-GB": "Fig. 120",
-        "es-ES": "Fig. 120"
+        "de": {
+          "plain": "Bild 120",
+          "runs": [
+            {
+              "text": "Bild 120",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 120",
+          "runs": [
+            {
+              "text": "Fig. 120",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 120",
+          "runs": [
+            {
+              "text": "Fig. 120",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-121",
+      "id": "d65250b-bild121",
       "number": 121,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 121",
-        "en-GB": "Fig. 121",
-        "es-ES": "Fig. 121"
+        "de": {
+          "plain": "Bild 121",
+          "runs": [
+            {
+              "text": "Bild 121",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 121",
+          "runs": [
+            {
+              "text": "Fig. 121",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 121",
+          "runs": [
+            {
+              "text": "Fig. 121",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

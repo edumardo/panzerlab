@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
-      "en-GB": "Loosen the fitted bolts by striking the castle nut with a hammer, then remove the nut and bolt by hand.",
-      "es-ES": "Aflojar los tornillos ajustados golpeando con un martillo la tuerca almenada, después retirar la tuerca y el tornillo a mano."
+      "id": "d65250b-p006-para01",
+      "text": {
+        "de": {
+          "plain": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
+          "runs": [
+            {
+              "text": "Die Paßschrauben durch Hammerschlag auf Kronenmutter lösen dann Mutter und Schraube von Hand entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Loosen the fitted bolts by striking the castle nut with a hammer, then remove the nut and bolt by hand.",
+          "runs": [
+            {
+              "text": "Loosen the fitted bolts by striking the castle nut with a hammer, then remove the nut and bolt by hand.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar los tornillos ajustados golpeando con un martillo la tuerca almenada, después retirar la tuerca y el tornillo a mano.",
+          "runs": [
+            {
+              "text": "Aflojar los tornillos ajustados golpeando con un martillo la tuerca almenada, después retirar la tuerca y el tornillo a mano.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet.",
-      "en-GB": "When removing the fitted bolts on the brake-drum side, turn the brake drum round until the fitted bolt to be removed is at the milled-out point (♦) of the hub.",
-      "es-ES": "Al retirar los tornillos ajustados en el lado del tambor de freno, girar el tambor de freno hasta que el tornillo ajustado que se vaya a retirar quede situado en el rebaje fresado (♦) del cubo."
+      "id": "d65250b-p006-para02",
+      "text": {
+        "de": {
+          "plain": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet.",
+          "runs": [
+            {
+              "text": "Beim Entfernen der Paßschrauben an der Bremstrommelseite Bremstrommel so weit herumdrehen, bis sich die jeweilig zu entfernende Paßschraube an der Ausfräsungsstelle (♦) der Nabe befindet.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When removing the fitted bolts on the brake-drum side, turn the brake drum round until the fitted bolt to be removed is at the milled-out point (♦) of the hub.",
+          "runs": [
+            {
+              "text": "When removing the fitted bolts on the brake-drum side, turn the brake drum round until the fitted bolt to be removed is at the milled-out point (♦) of the hub.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al retirar los tornillos ajustados en el lado del tambor de freno, girar el tambor de freno hasta que el tornillo ajustado que se vaya a retirar quede situado en el rebaje fresado (♦) del cubo.",
+          "runs": [
+            {
+              "text": "Al retirar los tornillos ajustados en el lado del tambor de freno, girar el tambor de freno hasta que el tornillo ajustado que se vaya a retirar quede situado en el rebaje fresado (♦) del cubo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
-      "en-GB": "Note: The fitted bolts may only be slackened and removed at the milled-out point.",
-      "es-ES": "Atención: Los tornillos ajustados solo pueden aflojarse y retirarse en el rebaje fresado."
+      "id": "d65250b-p006-para03",
+      "text": {
+        "de": {
+          "plain": "Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
+          "runs": [
+            {
+              "text": "Beachten: Die Paßschrauben dürfen nur an der Ausfräsungsstelle gelöst und entfernt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: The fitted bolts may only be slackened and removed at the milled-out point.",
+          "runs": [
+            {
+              "text": "Note: The fitted bolts may only be slackened and removed at the milled-out point.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: Los tornillos ajustados solo pueden aflojarse y retirarse en el rebaje fresado.",
+          "runs": [
+            {
+              "text": "Atención: Los tornillos ajustados solo pueden aflojarse y retirarse en el rebaje fresado.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-002",
+      "id": "d65250b-bild002",
       "number": 2,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 2",
-        "en-GB": "Fig. 2",
-        "es-ES": "Fig. 2"
+        "de": {
+          "plain": "Bild 2",
+          "runs": [
+            {
+              "text": "Bild 2",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 2",
+          "runs": [
+            {
+              "text": "Fig. 2",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 2",
+          "runs": [
+            {
+              "text": "Fig. 2",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-003",
+      "id": "d65250b-bild003",
       "number": 3,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 3",
-        "en-GB": "Fig. 3",
-        "es-ES": "Fig. 3"
+        "de": {
+          "plain": "Bild 3",
+          "runs": [
+            {
+              "text": "Bild 3",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 3",
+          "runs": [
+            {
+              "text": "Fig. 3",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 3",
+          "runs": [
+            {
+              "text": "Fig. 3",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

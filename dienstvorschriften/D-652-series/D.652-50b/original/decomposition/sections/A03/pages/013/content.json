@@ -21,13 +21,184 @@
     "next": "d65250b-page-014"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Die Befestigungsschrauben der Bremstrommel entsichern.", "en-GB": "Release the lock on the retaining screws of the brake drum.", "es-ES": "Liberar el seguro de los tornillos de fijación del tambor de freno."},
-    {"id": "p2", "de": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.", "en-GB": "Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.", "es-ES": "Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras."},
-    {"id": "p3", "de": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.", "en-GB": "Press the brake drum off by evenly tightening the two pressure screws III DB 37.", "es-ES": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37."}
+    {
+      "id": "d65250b-p013-para01",
+      "text": {
+        "de": {
+          "plain": "Die Befestigungsschrauben der Bremstrommel entsichern.",
+          "runs": [
+            {
+              "text": "Die Befestigungsschrauben der Bremstrommel entsichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the lock on the retaining screws of the brake drum.",
+          "runs": [
+            {
+              "text": "Release the lock on the retaining screws of the brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Liberar el seguro de los tornillos de fijación del tambor de freno.",
+          "runs": [
+            {
+              "text": "Liberar el seguro de los tornillos de fijación del tambor de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p013-para02",
+      "text": {
+        "de": {
+          "plain": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
+          "runs": [
+            {
+              "text": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
+          "runs": [
+            {
+              "text": "Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p013-para03",
+      "text": {
+        "de": {
+          "plain": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.",
+          "runs": [
+            {
+              "text": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the brake drum off by evenly tightening the two pressure screws III DB 37.",
+          "runs": [
+            {
+              "text": "Press the brake drum off by evenly tightening the two pressure screws III DB 37.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37.",
+          "runs": [
+            {
+              "text": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-012", "number": 12, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 12", "en-GB": "Fig. 12", "es-ES": "Fig. 12"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-013", "number": 13, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 13", "en-GB": "Fig. 13", "es-ES": "Fig. 13"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild012",
+      "number": 12,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 12",
+          "runs": [
+            {
+              "text": "Bild 12",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 12",
+          "runs": [
+            {
+              "text": "Fig. 12",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 12",
+          "runs": [
+            {
+              "text": "Fig. 12",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild013",
+      "number": 13,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 13",
+          "runs": [
+            {
+              "text": "Bild 13",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 13",
+          "runs": [
+            {
+              "text": "Fig. 13",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 13",
+          "runs": [
+            {
+              "text": "Fig. 13",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

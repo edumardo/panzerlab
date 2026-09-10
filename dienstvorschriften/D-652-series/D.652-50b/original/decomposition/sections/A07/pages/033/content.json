@@ -21,12 +21,152 @@
     "next": "d65250b-page-034"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Mit Federzange oder spitzem Dorn die beiden Zugfedern aushängen.", "en-GB": "Using spring pliers or a pointed drift, unhook both tension springs.", "es-ES": "Con pinzas para resortes o un punzón puntiagudo, desenganchar ambos resortes de tracción."},
-    {"id": "p2", "de": "Mit 14-SW-Maulschlüssel das Nachstellschloß abschrauben und Bremsbacken mit Schloß ausheben.", "en-GB": "Using a 14 mm open-ended spanner, unscrew the adjusting lock and lift out the brake shoes together with the lock.", "es-ES": "Con una llave fija de 14 mm, desenroscar el cerrojo de reajuste y extraer las zapatas de freno junto con el cerrojo."}
+    {
+      "id": "d65250b-p033-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Federzange oder spitzem Dorn die beiden Zugfedern aushängen.",
+          "runs": [
+            {
+              "text": "Mit Federzange oder spitzem Dorn die beiden Zugfedern aushängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using spring pliers or a pointed drift, unhook both tension springs.",
+          "runs": [
+            {
+              "text": "Using spring pliers or a pointed drift, unhook both tension springs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con pinzas para resortes o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
+          "runs": [
+            {
+              "text": "Con pinzas para resortes o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p033-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 14-SW-Maulschlüssel das Nachstellschloß abschrauben und Bremsbacken mit Schloß ausheben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Maulschlüssel das Nachstellschloß abschrauben und Bremsbacken mit Schloß ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm open-ended spanner, unscrew the adjusting lock and lift out the brake shoes together with the lock.",
+          "runs": [
+            {
+              "text": "Using a 14 mm open-ended spanner, unscrew the adjusting lock and lift out the brake shoes together with the lock.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm, desenroscar el cerrojo de reajuste y extraer las zapatas de freno junto con el cerrojo.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm, desenroscar el cerrojo de reajuste y extraer las zapatas de freno junto con el cerrojo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-049", "number": 49, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 49", "en-GB": "Fig. 49", "es-ES": "Fig. 49"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-050", "number": 50, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 50", "en-GB": "Fig. 50", "es-ES": "Fig. 50"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild049",
+      "number": 49,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 49",
+          "runs": [
+            {
+              "text": "Bild 49",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 49",
+          "runs": [
+            {
+              "text": "Fig. 49",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 49",
+          "runs": [
+            {
+              "text": "Fig. 49",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild050",
+      "number": 50,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 50",
+          "runs": [
+            {
+              "text": "Bild 50",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 50",
+          "runs": [
+            {
+              "text": "Fig. 50",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 50",
+          "runs": [
+            {
+              "text": "Fig. 50",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

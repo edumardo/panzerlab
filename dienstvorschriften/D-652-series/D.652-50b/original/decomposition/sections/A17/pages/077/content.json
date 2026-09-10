@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Einen Dorn in Stärke der Nietköpfe in den Schraubstock spannen.",
-      "en-GB": "Clamp a drift the thickness of the rivet heads into the vice.",
-      "es-ES": "Sujetar en el tornillo de banco un botador del grosor de las cabezas de los remaches."
+      "id": "d65250b-p077-para01",
+      "text": {
+        "de": {
+          "plain": "Einen Dorn in Stärke der Nietköpfe in den Schraubstock spannen.",
+          "runs": [
+            {
+              "text": "Einen Dorn in Stärke der Nietköpfe in den Schraubstock spannen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clamp a drift the thickness of the rivet heads into the vice.",
+          "runs": [
+            {
+              "text": "Clamp a drift the thickness of the rivet heads into the vice.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar en el tornillo de banco un botador del grosor de las cabezas de los remaches.",
+          "runs": [
+            {
+              "text": "Sujetar en el tornillo de banco un botador del grosor de las cabezas de los remaches.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Zu beiden Seiten der Kupplungsscheibe einen neuen Kupplungsbelag mit den Versenkseiten nach außen legen.",
-      "en-GB": "Place a new clutch lining on each side of the clutch disc with the countersunk sides facing outward.",
-      "es-ES": "Colocar un forro de embrague nuevo a cada lado del disco de embrague, con los lados avellanados hacia afuera."
+      "id": "d65250b-p077-para02",
+      "text": {
+        "de": {
+          "plain": "Zu beiden Seiten der Kupplungsscheibe einen neuen Kupplungsbelag mit den Versenkseiten nach außen legen.",
+          "runs": [
+            {
+              "text": "Zu beiden Seiten der Kupplungsscheibe einen neuen Kupplungsbelag mit den Versenkseiten nach außen legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place a new clutch lining on each side of the clutch disc with the countersunk sides facing outward.",
+          "runs": [
+            {
+              "text": "Place a new clutch lining on each side of the clutch disc with the countersunk sides facing outward.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar un forro de embrague nuevo a cada lado del disco de embrague, con los lados avellanados hacia afuera.",
+          "runs": [
+            {
+              "text": "Colocar un forro de embrague nuevo a cada lado del disco de embrague, con los lados avellanados hacia afuera.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Von unten durch den Belag der Kupplungsscheibe und den oberen Belag eine Niete einführen.",
-      "en-GB": "Insert a rivet from below through the lining of the clutch disc and the upper lining.",
-      "es-ES": "Introducir un remache desde abajo a través del forro del disco de embrague y del forro superior."
+      "id": "d65250b-p077-para03",
+      "text": {
+        "de": {
+          "plain": "Von unten durch den Belag der Kupplungsscheibe und den oberen Belag eine Niete einführen.",
+          "runs": [
+            {
+              "text": "Von unten durch den Belag der Kupplungsscheibe und den oberen Belag eine Niete einführen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert a rivet from below through the lining of the clutch disc and the upper lining.",
+          "runs": [
+            {
+              "text": "Insert a rivet from below through the lining of the clutch disc and the upper lining.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir un remache desde abajo a través del forro del disco de embrague y del forro superior.",
+          "runs": [
+            {
+              "text": "Introducir un remache desde abajo a través del forro del disco de embrague y del forro superior.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Den unteren Nietkopf auf den Dorn im Schraubstock aufliegen lassen und diesen mit Hammer und Dorn vernieten.",
-      "en-GB": "Rest the lower rivet head on the drift held in the vice and rivet it over using a hammer and drift.",
-      "es-ES": "Apoyar la cabeza inferior del remache sobre el botador sujeto en el tornillo de banco y remacharlo con martillo y botador."
+      "id": "d65250b-p077-para04",
+      "text": {
+        "de": {
+          "plain": "Den unteren Nietkopf auf den Dorn im Schraubstock aufliegen lassen und diesen mit Hammer und Dorn vernieten.",
+          "runs": [
+            {
+              "text": "Den unteren Nietkopf auf den Dorn im Schraubstock aufliegen lassen und diesen mit Hammer und Dorn vernieten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Rest the lower rivet head on the drift held in the vice and rivet it over using a hammer and drift.",
+          "runs": [
+            {
+              "text": "Rest the lower rivet head on the drift held in the vice and rivet it over using a hammer and drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Apoyar la cabeza inferior del remache sobre el botador sujeto en el tornillo de banco y remacharlo con martillo y botador.",
+          "runs": [
+            {
+              "text": "Apoyar la cabeza inferior del remache sobre el botador sujeto en el tornillo de banco y remacharlo con martillo y botador.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-124",
+      "id": "d65250b-bild124",
       "number": 124,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 124",
-        "en-GB": "Fig. 124",
-        "es-ES": "Fig. 124"
+        "de": {
+          "plain": "Bild 124",
+          "runs": [
+            {
+              "text": "Bild 124",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 124",
+          "runs": [
+            {
+              "text": "Fig. 124",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 124",
+          "runs": [
+            {
+              "text": "Fig. 124",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

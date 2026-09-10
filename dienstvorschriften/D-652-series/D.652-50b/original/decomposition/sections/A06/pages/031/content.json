@@ -21,14 +21,216 @@
     "next": "d65250b-page-032"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen.", "en-GB": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide.", "es-ES": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan."},
-    {"id": "p2", "de": "Stützbremstrommel mit den Lochschrauben verschrauben.", "en-GB": "Bolt the support brake drum in place using the hollow screws (banjo bolts).", "es-ES": "Atornillar el tambor del freno de apoyo con los tornillos huecos."},
-    {"id": "p3", "de": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern.", "en-GB": "Secure the fixing screws and the collared plug with wire.", "es-ES": "Asegurar los tornillos de fijación y el tapón con collarín con alambre."},
-    {"id": "p4", "de": "Stützbremse nach Einstellanweisung einstellen.", "en-GB": "Adjust the support brake in accordance with the setting instructions.", "es-ES": "Ajustar el freno de apoyo según las instrucciones de ajuste."}
+    {
+      "id": "d65250b-p031-para01",
+      "text": {
+        "de": {
+          "plain": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen.",
+          "runs": [
+            {
+              "text": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide.",
+          "runs": [
+            {
+              "text": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan.",
+          "runs": [
+            {
+              "text": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p031-para02",
+      "text": {
+        "de": {
+          "plain": "Stützbremstrommel mit den Lochschrauben verschrauben.",
+          "runs": [
+            {
+              "text": "Stützbremstrommel mit den Lochschrauben verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the support brake drum in place using the hollow screws (banjo bolts).",
+          "runs": [
+            {
+              "text": "Bolt the support brake drum in place using the hollow screws (banjo bolts).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el tambor del freno de apoyo con los tornillos huecos.",
+          "runs": [
+            {
+              "text": "Atornillar el tambor del freno de apoyo con los tornillos huecos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p031-para03",
+      "text": {
+        "de": {
+          "plain": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern.",
+          "runs": [
+            {
+              "text": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the fixing screws and the collared plug with wire.",
+          "runs": [
+            {
+              "text": "Secure the fixing screws and the collared plug with wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar los tornillos de fijación y el tapón con collarín con alambre.",
+          "runs": [
+            {
+              "text": "Asegurar los tornillos de fijación y el tapón con collarín con alambre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p031-para04",
+      "text": {
+        "de": {
+          "plain": "Stützbremse nach Einstellanweisung einstellen.",
+          "runs": [
+            {
+              "text": "Stützbremse nach Einstellanweisung einstellen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Adjust the support brake in accordance with the setting instructions.",
+          "runs": [
+            {
+              "text": "Adjust the support brake in accordance with the setting instructions.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Ajustar el freno de apoyo según las instrucciones de ajuste.",
+          "runs": [
+            {
+              "text": "Ajustar el freno de apoyo según las instrucciones de ajuste.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-045", "number": 45, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 45", "en-GB": "Fig. 45", "es-ES": "Fig. 45"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-046", "number": 46, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 46", "en-GB": "Fig. 46", "es-ES": "Fig. 46"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild045",
+      "number": 45,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 45",
+          "runs": [
+            {
+              "text": "Bild 45",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 45",
+          "runs": [
+            {
+              "text": "Fig. 45",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 45",
+          "runs": [
+            {
+              "text": "Fig. 45",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild046",
+      "number": 46,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 46",
+          "runs": [
+            {
+              "text": "Bild 46",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 46",
+          "runs": [
+            {
+              "text": "Fig. 46",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 46",
+          "runs": [
+            {
+              "text": "Fig. 46",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

@@ -11,21 +11,24 @@ canonical content source; DOCX, PDF, HTML and Markdown are derived outputs.
 - `manifest.json`: complete physical and logical page inventory. The book has
   112 numbered printed pages (plus unnumbered covers/flyleaves); the
   PDF-spread-to-book-page map and `sections` ranges are recorded here.
-  `source_scan_status` is `extracted_clean` for all 112 pages (physical
-  splitting is done); `transcription_status`/`translation_en_status`/
-  `translation_es_status` are all `pending` — transcription and translation
-  (methodology §5, steps 6–7) have not started yet.
+  `source_scan_status`, `transcription_status`, `translation_en_status` and
+  `translation_es_status` are all `draft` for all 112 pages: physical
+  splitting, German transcription, and EN/ES translation are done, but
+  nothing has been visually cross-checked against the source scan yet, and
+  no figure has been cropped (methodology §5 steps 4/6/7 done; step 5 —
+  figure cropping — and the visual-review pass are still pending).
 - `index/contents.json`: trilingual table of contents, one group (`A`,
   "power train repair") with 22 sections (`A01`–`A22`).
-- `glossary/terminology.json`: controlled German → en-GB → es-ES terminology,
-  extending the series-shared glossary.
+- `glossary/terminology.json`: German → en-GB → es-ES terminology specific to
+  this document (30 terms), extending the series-shared glossary.
 - `layout.json`: output-independent layout profile.
 - `frontmatter/` (pages 1–4) and `sections/A01`–`A22/` (pages 5–112): each
   has a section-level `manifest.json` (title, page range, export layout) and
   a `pages/<NNN>/` directory per page with `manifest.json`, `content.json`
-  and `source.jpg`. Paragraph text, figures and translations are still empty
-  (`content.json` stubs, `type` classified visually as `text`/`figures`/
-  `index`/`blank` but not yet transcribed).
+  and `source.jpg`. `content.json` paragraphs and figure captions/label_keys
+  use the series-canonical rich-text shape (`{"plain": "...", "runs": [...]}`
+  per language), matching D.652-50c, so a `bold` run can be represented later
+  without another schema migration. Figure `image` is `null` until cropping.
 - `assets/spreads/` and `assets/thumbs/`: the 59 clean base spreads extracted
   from the PDF via `scripts/extract_spreads.py`, plus their extraction
   manifest (`assets/extraction_001_059.json`).

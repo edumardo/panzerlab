@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 10. Federzange für Federn an Lenkbremsbacken. Maßstab 1:1.",
-      "en-GB": "Drawing 10. Spring clamp for the springs on the steering-brake shoes. Scale 1:1.",
-      "es-ES": "Plano 10. Pinza para los muelles de las zapatas del freno de dirección. Escala 1:1."
+      "id": "d65250b-p112-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 10. Federzange für Federn an Lenkbremsbacken. Maßstab 1:1.",
+          "runs": [
+            {
+              "text": "Zeichnung 10. Federzange für Federn an Lenkbremsbacken. Maßstab 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 10. Spring clamp for the springs on the steering-brake shoes. Scale 1:1.",
+          "runs": [
+            {
+              "text": "Drawing 10. Spring clamp for the springs on the steering-brake shoes. Scale 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 10. Pinza para los muelles de las zapatas del freno de dirección. Escala 1:1.",
+          "runs": [
+            {
+              "text": "Plano 10. Pinza para los muelles de las zapatas del freno de dirección. Escala 1:1.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

@@ -22,40 +22,196 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "D 652/50b",
-      "en-GB": "D 652/50b",
-      "es-ES": "D 652/50b"
+      "id": "d65250b-p001-para01",
+      "text": {
+        "de": {
+          "plain": "D 652/50b",
+          "runs": [
+            {
+              "text": "D 652/50b",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "D 652/50b",
+          "runs": [
+            {
+              "text": "D 652/50b",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "D 652/50b",
+          "runs": [
+            {
+              "text": "D 652/50b",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Panzerkampfwagen III Ausführung H bis L",
-      "en-GB": "Panzerkampfwagen III, models H to L",
-      "es-ES": "Panzerkampfwagen III, modelos H a L"
+      "id": "d65250b-p001-para02",
+      "text": {
+        "de": {
+          "plain": "Panzerkampfwagen III Ausführung H bis L",
+          "runs": [
+            {
+              "text": "Panzerkampfwagen III Ausführung H bis L",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Panzerkampfwagen III, models H to L",
+          "runs": [
+            {
+              "text": "Panzerkampfwagen III, models H to L",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Panzerkampfwagen III, modelos H a L",
+          "runs": [
+            {
+              "text": "Panzerkampfwagen III, modelos H a L",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Panzerbefehlswagen Ausführung H bis K",
-      "en-GB": "Panzerbefehlswagen, models H to K",
-      "es-ES": "Panzerbefehlswagen, modelos H a K"
+      "id": "d65250b-p001-para03",
+      "text": {
+        "de": {
+          "plain": "Panzerbefehlswagen Ausführung H bis K",
+          "runs": [
+            {
+              "text": "Panzerbefehlswagen Ausführung H bis K",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Panzerbefehlswagen, models H to K",
+          "runs": [
+            {
+              "text": "Panzerbefehlswagen, models H to K",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Panzerbefehlswagen, modelos H a K",
+          "runs": [
+            {
+              "text": "Panzerbefehlswagen, modelos H a K",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Gepanzerte Selbstfahrlafette Ausführung A, B, D und E für Sturmgeschütz 7,5 cm Kanone",
-      "en-GB": "Armoured self-propelled mounting, models A, B, D and E, for the 7.5 cm assault gun",
-      "es-ES": "Afuste autopropulsado blindado, modelos A, B, D y E, para el cañón de asalto de 7,5 cm"
+      "id": "d65250b-p001-para04",
+      "text": {
+        "de": {
+          "plain": "Gepanzerte Selbstfahrlafette Ausführung A, B, D und E für Sturmgeschütz 7,5 cm Kanone",
+          "runs": [
+            {
+              "text": "Gepanzerte Selbstfahrlafette Ausführung A, B, D und E für Sturmgeschütz 7,5 cm Kanone",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Armoured self-propelled mounting, models A, B, D and E, for the 7.5 cm assault gun",
+          "runs": [
+            {
+              "text": "Armoured self-propelled mounting, models A, B, D and E, for the 7.5 cm assault gun",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Afuste autopropulsado blindado, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
+          "runs": [
+            {
+              "text": "Afuste autopropulsado blindado, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p5",
-      "de": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
-      "en-GB": "Provisional repair manual for the power train",
-      "es-ES": "Manual provisional de reparación del tren de potencia"
+      "id": "d65250b-p001-para05",
+      "text": {
+        "de": {
+          "plain": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
+          "runs": [
+            {
+              "text": "Vorläufige Instandsetzungsanleitung für das Triebwerk",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Provisional repair manual for the power train",
+          "runs": [
+            {
+              "text": "Provisional repair manual for the power train",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Manual provisional de reparación del tren de potencia",
+          "runs": [
+            {
+              "text": "Manual provisional de reparación del tren de potencia",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p6",
-      "de": "Vom 1. 2. 43",
-      "en-GB": "Dated 1. 2. 43",
-      "es-ES": "De fecha 1. 2. 43"
+      "id": "d65250b-p001-para06",
+      "text": {
+        "de": {
+          "plain": "Vom 1. 2. 43",
+          "runs": [
+            {
+              "text": "Vom 1. 2. 43",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Dated 1. 2. 43",
+          "runs": [
+            {
+              "text": "Dated 1. 2. 43",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "De fecha 1. 2. 43",
+          "runs": [
+            {
+              "text": "De fecha 1. 2. 43",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Nabe mit Kugellager in das Gehäuse führen.",
-      "en-GB": "Guide the hub with the ball bearing into the housing.",
-      "es-ES": "Introducir el cubo con el rodamiento de bolas en la carcasa."
+      "id": "d65250b-p072-para01",
+      "text": {
+        "de": {
+          "plain": "Nabe mit Kugellager in das Gehäuse führen.",
+          "runs": [
+            {
+              "text": "Nabe mit Kugellager in das Gehäuse führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the hub with the ball bearing into the housing.",
+          "runs": [
+            {
+              "text": "Guide the hub with the ball bearing into the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el cubo con el rodamiento de bolas en la carcasa.",
+          "runs": [
+            {
+              "text": "Introducir el cubo con el rodamiento de bolas en la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
-      "en-GB": "Drive the ball bearing into its seat using a soft-faced hammer.",
-      "es-ES": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando."
+      "id": "d65250b-p072-para02",
+      "text": {
+        "de": {
+          "plain": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
+          "runs": [
+            {
+              "text": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drive the ball bearing into its seat using a soft-faced hammer.",
+          "runs": [
+            {
+              "text": "Drive the ball bearing into its seat using a soft-faced hammer.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando.",
+          "runs": [
+            {
+              "text": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-114",
+      "id": "d65250b-bild114",
       "number": 114,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 114",
-        "en-GB": "Fig. 114",
-        "es-ES": "Fig. 114"
+        "de": {
+          "plain": "Bild 114",
+          "runs": [
+            {
+              "text": "Bild 114",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 114",
+          "runs": [
+            {
+              "text": "Fig. 114",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 114",
+          "runs": [
+            {
+              "text": "Fig. 114",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-115",
+      "id": "d65250b-bild115",
       "number": 115,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 115",
-        "en-GB": "Fig. 115",
-        "es-ES": "Fig. 115"
+        "de": {
+          "plain": "Bild 115",
+          "runs": [
+            {
+              "text": "Bild 115",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 115",
+          "runs": [
+            {
+              "text": "Fig. 115",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 115",
+          "runs": [
+            {
+              "text": "Fig. 115",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

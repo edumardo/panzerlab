@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
-      "en-GB": "Remove the protective caps and items of equipment above the gun mount base.",
-      "es-ES": "Retirar las caperuzas protectoras y los objetos de equipo situados encima de la base del cañón."
+      "id": "d65250b-p100-para01",
+      "text": {
+        "de": {
+          "plain": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
+          "runs": [
+            {
+              "text": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the protective caps and items of equipment above the gun mount base.",
+          "runs": [
+            {
+              "text": "Remove the protective caps and items of equipment above the gun mount base.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las caperuzas protectoras y los objetos de equipo situados encima de la base del cañón.",
+          "runs": [
+            {
+              "text": "Retirar las caperuzas protectoras y los objetos de equipo situados encima de la base del cañón.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
-      "en-GB": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts.",
-      "es-ES": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas."
+      "id": "d65250b-p100-para02",
+      "text": {
+        "de": {
+          "plain": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
+          "runs": [
+            {
+              "text": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts.",
+          "runs": [
+            {
+              "text": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Bolzen durch leichten Hammerschlag ausschlagen.",
-      "en-GB": "Knock out the pin with a light hammer blow.",
-      "es-ES": "Extraer el perno con un golpe suave de martillo."
+      "id": "d65250b-p100-para03",
+      "text": {
+        "de": {
+          "plain": "Bolzen durch leichten Hammerschlag ausschlagen.",
+          "runs": [
+            {
+              "text": "Bolzen durch leichten Hammerschlag ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Knock out the pin with a light hammer blow.",
+          "runs": [
+            {
+              "text": "Knock out the pin with a light hammer blow.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el perno con un golpe suave de martillo.",
+          "runs": [
+            {
+              "text": "Extraer el perno con un golpe suave de martillo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-159",
+      "id": "d65250b-bild159",
       "number": 159,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 159",
-        "en-GB": "Fig. 159",
-        "es-ES": "Fig. 159"
+        "de": {
+          "plain": "Bild 159",
+          "runs": [
+            {
+              "text": "Bild 159",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 159",
+          "runs": [
+            {
+              "text": "Fig. 159",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 159",
+          "runs": [
+            {
+              "text": "Fig. 159",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-160",
+      "id": "d65250b-bild160",
       "number": 160,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 160",
-        "en-GB": "Fig. 160",
-        "es-ES": "Fig. 160"
+        "de": {
+          "plain": "Bild 160",
+          "runs": [
+            {
+              "text": "Bild 160",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 160",
+          "runs": [
+            {
+              "text": "Fig. 160",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 160",
+          "runs": [
+            {
+              "text": "Fig. 160",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

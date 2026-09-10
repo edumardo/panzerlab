@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen.",
-      "en-GB": "Check that the clutch driving discs slide easily onto the driving pins.",
-      "es-ES": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre."
+      "id": "d65250b-p081-para01",
+      "text": {
+        "de": {
+          "plain": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen.",
+          "runs": [
+            {
+              "text": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check that the clutch driving discs slide easily onto the driving pins.",
+          "runs": [
+            {
+              "text": "Check that the clutch driving discs slide easily onto the driving pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre.",
+          "runs": [
+            {
+              "text": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Die Gleitflächen leicht einfetten.",
-      "en-GB": "Lightly grease the sliding surfaces.",
-      "es-ES": "Engrasar ligeramente las superficies de deslizamiento."
+      "id": "d65250b-p081-para02",
+      "text": {
+        "de": {
+          "plain": "Die Gleitflächen leicht einfetten.",
+          "runs": [
+            {
+              "text": "Die Gleitflächen leicht einfetten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lightly grease the sliding surfaces.",
+          "runs": [
+            {
+              "text": "Lightly grease the sliding surfaces.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Engrasar ligeramente las superficies de deslizamiento.",
+          "runs": [
+            {
+              "text": "Engrasar ligeramente las superficies de deslizamiento.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
-      "en-GB": "Insert a clutch disc, with the long hub side facing outwards, and a clutch driving disc alternately into the clutch ring (two clutch driving discs and three clutch discs).",
-      "es-ES": "Introducir alternativamente en el anillo de embrague un disco de embrague, con el lado largo del cubo hacia afuera, y un disco motriz del embrague (dos discos motrices y tres discos de embrague)."
+      "id": "d65250b-p081-para03",
+      "text": {
+        "de": {
+          "plain": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
+          "runs": [
+            {
+              "text": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert a clutch disc, with the long hub side facing outwards, and a clutch driving disc alternately into the clutch ring (two clutch driving discs and three clutch discs).",
+          "runs": [
+            {
+              "text": "Insert a clutch disc, with the long hub side facing outwards, and a clutch driving disc alternately into the clutch ring (two clutch driving discs and three clutch discs).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir alternativamente en el anillo de embrague un disco de embrague, con el lado largo del cubo hacia afuera, y un disco motriz del embrague (dos discos motrices y tres discos de embrague).",
+          "runs": [
+            {
+              "text": "Introducir alternativamente en el anillo de embrague un disco de embrague, con el lado largo del cubo hacia afuera, y un disco motriz del embrague (dos discos motrices y tres discos de embrague).",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-130",
+      "id": "d65250b-bild130",
       "number": 130,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 130",
-        "en-GB": "Fig. 130",
-        "es-ES": "Fig. 130"
+        "de": {
+          "plain": "Bild 130",
+          "runs": [
+            {
+              "text": "Bild 130",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 130",
+          "runs": [
+            {
+              "text": "Fig. 130",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 130",
+          "runs": [
+            {
+              "text": "Fig. 130",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-131",
+      "id": "d65250b-bild131",
       "number": 131,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 131",
-        "en-GB": "Fig. 131",
-        "es-ES": "Fig. 131"
+        "de": {
+          "plain": "Bild 131",
+          "runs": [
+            {
+              "text": "Bild 131",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 131",
+          "runs": [
+            {
+              "text": "Fig. 131",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 131",
+          "runs": [
+            {
+              "text": "Fig. 131",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

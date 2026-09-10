@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern.",
-      "en-GB": "Release the locking of the three nuts on the countersunk screws of the housing cover.",
-      "es-ES": "Liberar el seguro de las tres tuercas de los tornillos avellanados de la tapa de la carcasa."
+      "id": "d65250b-p042-para01",
+      "text": {
+        "de": {
+          "plain": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern.",
+          "runs": [
+            {
+              "text": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the locking of the three nuts on the countersunk screws of the housing cover.",
+          "runs": [
+            {
+              "text": "Release the locking of the three nuts on the countersunk screws of the housing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Liberar el seguro de las tres tuercas de los tornillos avellanados de la tapa de la carcasa.",
+          "runs": [
+            {
+              "text": "Liberar el seguro de las tres tuercas de los tornillos avellanados de la tapa de la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
-      "en-GB": "Unscrew the nuts with a 22 mm across-flats open-ended spanner. Unscrew the unlocked screws with a screwdriver.",
-      "es-ES": "Desenroscar las tuercas con una llave fija de 22 mm de entrecaras. Desenroscar con un destornillador los tornillos ya liberados de seguro."
+      "id": "d65250b-p042-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the nuts with a 22 mm across-flats open-ended spanner. Unscrew the unlocked screws with a screwdriver.",
+          "runs": [
+            {
+              "text": "Unscrew the nuts with a 22 mm across-flats open-ended spanner. Unscrew the unlocked screws with a screwdriver.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar las tuercas con una llave fija de 22 mm de entrecaras. Desenroscar con un destornillador los tornillos ya liberados de seguro.",
+          "runs": [
+            {
+              "text": "Desenroscar las tuercas con una llave fija de 22 mm de entrecaras. Desenroscar con un destornillador los tornillos ya liberados de seguro.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
-      "en-GB": "Press off the housing cover of the final drive unit with the extractor screws III DB 37.",
-      "es-ES": "Separar la tapa de la carcasa del engranaje lateral final con los tornillos extractores III DB 37."
+      "id": "d65250b-p042-para03",
+      "text": {
+        "de": {
+          "plain": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
+          "runs": [
+            {
+              "text": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press off the housing cover of the final drive unit with the extractor screws III DB 37.",
+          "runs": [
+            {
+              "text": "Press off the housing cover of the final drive unit with the extractor screws III DB 37.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar la tapa de la carcasa del engranaje lateral final con los tornillos extractores III DB 37.",
+          "runs": [
+            {
+              "text": "Separar la tapa de la carcasa del engranaje lateral final con los tornillos extractores III DB 37.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-061",
+      "id": "d65250b-bild061",
       "number": 61,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 61",
-        "en-GB": "Fig. 61",
-        "es-ES": "Fig. 61"
+        "de": {
+          "plain": "Bild 61",
+          "runs": [
+            {
+              "text": "Bild 61",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 61",
+          "runs": [
+            {
+              "text": "Fig. 61",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 61",
+          "runs": [
+            {
+              "text": "Fig. 61",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-062",
+      "id": "d65250b-bild062",
       "number": 62,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 62",
-        "en-GB": "Fig. 62",
-        "es-ES": "Fig. 62"
+        "de": {
+          "plain": "Bild 62",
+          "runs": [
+            {
+              "text": "Bild 62",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 62",
+          "runs": [
+            {
+              "text": "Fig. 62",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 62",
+          "runs": [
+            {
+              "text": "Fig. 62",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

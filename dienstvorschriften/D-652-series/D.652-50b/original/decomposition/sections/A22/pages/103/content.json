@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges. Maßst. 1:1.",
-      "en-GB": "Drawing 1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft. Scale 1:1.",
-      "es-ES": "Plano 1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final. Escala 1:1."
+      "id": "d65250b-p103-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges. Maßst. 1:1.",
+          "runs": [
+            {
+              "text": "Zeichnung 1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges. Maßst. 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft. Scale 1:1.",
+          "runs": [
+            {
+              "text": "Drawing 1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft. Scale 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final. Escala 1:1.",
+          "runs": [
+            {
+              "text": "Plano 1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final. Escala 1:1.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

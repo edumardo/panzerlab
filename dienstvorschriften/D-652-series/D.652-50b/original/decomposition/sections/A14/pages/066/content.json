@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
-      "en-GB": "Press off the ball-bearing flange using four threaded screws (M4).",
-      "es-ES": "Desprender la brida del cojinete de bolas con cuatro tornillos roscados (M4)."
+      "id": "d65250b-p066-para01",
+      "text": {
+        "de": {
+          "plain": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
+          "runs": [
+            {
+              "text": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press off the ball-bearing flange using four threaded screws (M4).",
+          "runs": [
+            {
+              "text": "Press off the ball-bearing flange using four threaded screws (M4).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desprender la brida del cojinete de bolas con cuatro tornillos roscados (M4).",
+          "runs": [
+            {
+              "text": "Desprender la brida del cojinete de bolas con cuatro tornillos roscados (M4).",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
-      "en-GB": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws.",
-      "es-ES": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante."
+      "id": "d65250b-p066-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws.",
+          "runs": [
+            {
+              "text": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante.",
+          "runs": [
+            {
+              "text": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
-      "en-GB": "Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
-      "es-ES": "Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia)."
+      "id": "d65250b-p066-para03",
+      "text": {
+        "de": {
+          "plain": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
+          "runs": [
+            {
+              "text": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
+          "runs": [
+            {
+              "text": "Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
+          "runs": [
+            {
+              "text": "Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-103",
+      "id": "d65250b-bild103",
       "number": 103,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 103",
-        "en-GB": "Fig. 103",
-        "es-ES": "Fig. 103"
+        "de": {
+          "plain": "Bild 103",
+          "runs": [
+            {
+              "text": "Bild 103",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 103",
+          "runs": [
+            {
+              "text": "Fig. 103",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 103",
+          "runs": [
+            {
+              "text": "Fig. 103",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-104",
+      "id": "d65250b-bild104",
       "number": 104,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 104",
-        "en-GB": "Fig. 104",
-        "es-ES": "Fig. 104"
+        "de": {
+          "plain": "Bild 104",
+          "runs": [
+            {
+              "text": "Bild 104",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 104",
+          "runs": [
+            {
+              "text": "Fig. 104",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 104",
+          "runs": [
+            {
+              "text": "Fig. 104",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

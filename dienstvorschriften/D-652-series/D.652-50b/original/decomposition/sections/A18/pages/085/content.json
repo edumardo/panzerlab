@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
-      "en-GB": "Bolt the clutch housing to the engine with a 17 mm A/F socket spanner.",
-      "es-ES": "Atornillar la carcasa del embrague al motor con una llave de vaso de 17 mm de entrecaras."
+      "id": "d65250b-p085-para01",
+      "text": {
+        "de": {
+          "plain": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
+          "runs": [
+            {
+              "text": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the clutch housing to the engine with a 17 mm A/F socket spanner.",
+          "runs": [
+            {
+              "text": "Bolt the clutch housing to the engine with a 17 mm A/F socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar la carcasa del embrague al motor con una llave de vaso de 17 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Atornillar la carcasa del embrague al motor con una llave de vaso de 17 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
-      "en-GB": "Slide the ball-bearing spacer ring onto the clutch shaft with the collar facing the grooves.",
-      "es-ES": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras."
+      "id": "d65250b-p085-para02",
+      "text": {
+        "de": {
+          "plain": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
+          "runs": [
+            {
+              "text": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the ball-bearing spacer ring onto the clutch shaft with the collar facing the grooves.",
+          "runs": [
+            {
+              "text": "Slide the ball-bearing spacer ring onto the clutch shaft with the collar facing the grooves.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras.",
+          "runs": [
+            {
+              "text": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-137",
+      "id": "d65250b-bild137",
       "number": 137,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 137",
-        "en-GB": "Fig. 137",
-        "es-ES": "Fig. 137"
+        "de": {
+          "plain": "Bild 137",
+          "runs": [
+            {
+              "text": "Bild 137",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 137",
+          "runs": [
+            {
+              "text": "Fig. 137",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 137",
+          "runs": [
+            {
+              "text": "Fig. 137",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-138",
+      "id": "d65250b-bild138",
       "number": 138,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 138",
-        "en-GB": "Fig. 138",
-        "es-ES": "Fig. 138"
+        "de": {
+          "plain": "Bild 138",
+          "runs": [
+            {
+              "text": "Bild 138",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 138",
+          "runs": [
+            {
+              "text": "Fig. 138",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 138",
+          "runs": [
+            {
+              "text": "Fig. 138",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

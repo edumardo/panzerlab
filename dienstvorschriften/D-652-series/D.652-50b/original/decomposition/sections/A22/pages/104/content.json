@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 2. Zughaken für Haltefeder zur Lenkbremse. Maßstab 1:2,5.",
-      "en-GB": "Drawing 2. Pull hook for the retaining spring of the steering brake. Scale 1:2.5.",
-      "es-ES": "Plano 2. Gancho de tiro para el resorte de retención del freno de dirección. Escala 1:2,5."
+      "id": "d65250b-p104-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 2. Zughaken für Haltefeder zur Lenkbremse. Maßstab 1:2,5.",
+          "runs": [
+            {
+              "text": "Zeichnung 2. Zughaken für Haltefeder zur Lenkbremse. Maßstab 1:2,5.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 2. Pull hook for the retaining spring of the steering brake. Scale 1:2.5.",
+          "runs": [
+            {
+              "text": "Drawing 2. Pull hook for the retaining spring of the steering brake. Scale 1:2.5.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 2. Gancho de tiro para el resorte de retención del freno de dirección. Escala 1:2,5.",
+          "runs": [
+            {
+              "text": "Plano 2. Gancho de tiro para el resorte de retención del freno de dirección. Escala 1:2,5.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

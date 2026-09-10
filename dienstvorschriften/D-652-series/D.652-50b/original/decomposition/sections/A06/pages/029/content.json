@@ -21,13 +21,184 @@
     "next": "d65250b-page-030"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen.", "en-GB": "Fit the brake shoes together with the adjusting lock to the bearing cover.", "es-ES": "Montar las zapatas de freno junto con el cerrojo de reajuste en la tapa de cojinete."},
-    {"id": "p2", "de": "Hintere Zugfeder der unteren Bremsbacke einhängen.", "en-GB": "Hook in the rear tension spring of the lower brake shoe.", "es-ES": "Enganchar el resorte de tracción trasero de la zapata de freno inferior."},
-    {"id": "p3", "de": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.", "en-GB": "Using spring pliers or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.", "es-ES": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior."}
+    {
+      "id": "d65250b-p029-para01",
+      "text": {
+        "de": {
+          "plain": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen.",
+          "runs": [
+            {
+              "text": "Bremsbacken mit Nachstellschloß an den Lagerdeckel anbringen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the brake shoes together with the adjusting lock to the bearing cover.",
+          "runs": [
+            {
+              "text": "Fit the brake shoes together with the adjusting lock to the bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar las zapatas de freno junto con el cerrojo de reajuste en la tapa de cojinete.",
+          "runs": [
+            {
+              "text": "Montar las zapatas de freno junto con el cerrojo de reajuste en la tapa de cojinete.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p029-para02",
+      "text": {
+        "de": {
+          "plain": "Hintere Zugfeder der unteren Bremsbacke einhängen.",
+          "runs": [
+            {
+              "text": "Hintere Zugfeder der unteren Bremsbacke einhängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hook in the rear tension spring of the lower brake shoe.",
+          "runs": [
+            {
+              "text": "Hook in the rear tension spring of the lower brake shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enganchar el resorte de tracción trasero de la zapata de freno inferior.",
+          "runs": [
+            {
+              "text": "Enganchar el resorte de tracción trasero de la zapata de freno inferior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p029-para03",
+      "text": {
+        "de": {
+          "plain": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.",
+          "runs": [
+            {
+              "text": "Die schwächere Zugfeder in die untere Bremsbacke und die stärkere Zugfeder in die obere Bremsbacke mit Federzange oder spitzem Dorn einhängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using spring pliers or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
+          "runs": [
+            {
+              "text": "Using spring pliers or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
+          "runs": [
+            {
+              "text": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-041", "number": 41, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 41", "en-GB": "Fig. 41", "es-ES": "Fig. 41"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-042", "number": 42, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 42", "en-GB": "Fig. 42", "es-ES": "Fig. 42"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild041",
+      "number": 41,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 41",
+          "runs": [
+            {
+              "text": "Bild 41",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 41",
+          "runs": [
+            {
+              "text": "Fig. 41",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 41",
+          "runs": [
+            {
+              "text": "Fig. 41",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild042",
+      "number": 42,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 42",
+          "runs": [
+            {
+              "text": "Bild 42",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 42",
+          "runs": [
+            {
+              "text": "Fig. 42",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 42",
+          "runs": [
+            {
+              "text": "Fig. 42",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

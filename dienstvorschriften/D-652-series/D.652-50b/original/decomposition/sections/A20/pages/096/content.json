@@ -22,76 +22,388 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit Drahtseil oder Vorrichtung, Bild 151 und 152, das Getriebe in die vordere Getriebeaufhängung innerhalb der Panzerwanne heben, Bild 145.",
-      "en-GB": "Using a wire rope or the fixture, Fig. 151 and 152, hoist the gearbox into the front gearbox suspension inside the hull, Fig. 145.",
-      "es-ES": "Con cable de acero o con el dispositivo, Fig. 151 y 152, izar la caja de cambios hacia la suspensión delantera de la caja de cambios dentro del casco, Fig. 145."
+      "id": "d65250b-p096-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Drahtseil oder Vorrichtung, Bild 151 und 152, das Getriebe in die vordere Getriebeaufhängung innerhalb der Panzerwanne heben, Bild 145.",
+          "runs": [
+            {
+              "text": "Mit Drahtseil oder Vorrichtung, Bild 151 und 152, das Getriebe in die vordere Getriebeaufhängung innerhalb der Panzerwanne heben, Bild 145.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a wire rope or the fixture, Fig. 151 and 152, hoist the gearbox into the front gearbox suspension inside the hull, Fig. 145.",
+          "runs": [
+            {
+              "text": "Using a wire rope or the fixture, Fig. 151 and 152, hoist the gearbox into the front gearbox suspension inside the hull, Fig. 145.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con cable de acero o con el dispositivo, Fig. 151 y 152, izar la caja de cambios hacia la suspensión delantera de la caja de cambios dentro del casco, Fig. 145.",
+          "runs": [
+            {
+              "text": "Con cable de acero o con el dispositivo, Fig. 151 y 152, izar la caja de cambios hacia la suspensión delantera de la caja de cambios dentro del casco, Fig. 145.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Beachten: Die Abdichtungen der Lüfterrohrleitungen an der unteren hinteren Getriebeseite.",
-      "en-GB": "Note: The seals of the fan pipelines on the lower rear side of the gearbox.",
-      "es-ES": "Atención: Las juntas de las tuberías del ventilador en la parte inferior trasera de la caja de cambios."
+      "id": "d65250b-p096-para02",
+      "text": {
+        "de": {
+          "plain": "Beachten: Die Abdichtungen der Lüfterrohrleitungen an der unteren hinteren Getriebeseite.",
+          "runs": [
+            {
+              "text": "Beachten: Die Abdichtungen der Lüfterrohrleitungen an der unteren hinteren Getriebeseite.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: The seals of the fan pipelines on the lower rear side of the gearbox.",
+          "runs": [
+            {
+              "text": "Note: The seals of the fan pipelines on the lower rear side of the gearbox.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: Las juntas de las tuberías del ventilador en la parte inferior trasera de la caja de cambios.",
+          "runs": [
+            {
+              "text": "Atención: Las juntas de las tuberías del ventilador en la parte inferior trasera de la caja de cambios.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Das Getriebe an der hinteren und vorderen Getriebeaufhängung festschrauben, Bild 145 und 149.",
-      "en-GB": "Bolt the gearbox tight at the rear and front gearbox suspension, Fig. 145 and 149.",
-      "es-ES": "Atornillar la caja de cambios en la suspensión trasera y delantera de la caja de cambios, Fig. 145 y 149."
+      "id": "d65250b-p096-para03",
+      "text": {
+        "de": {
+          "plain": "Das Getriebe an der hinteren und vorderen Getriebeaufhängung festschrauben, Bild 145 und 149.",
+          "runs": [
+            {
+              "text": "Das Getriebe an der hinteren und vorderen Getriebeaufhängung festschrauben, Bild 145 und 149.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the gearbox tight at the rear and front gearbox suspension, Fig. 145 and 149.",
+          "runs": [
+            {
+              "text": "Bolt the gearbox tight at the rear and front gearbox suspension, Fig. 145 and 149.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar la caja de cambios en la suspensión trasera y delantera de la caja de cambios, Fig. 145 y 149.",
+          "runs": [
+            {
+              "text": "Atornillar la caja de cambios en la suspensión trasera y delantera de la caja de cambios, Fig. 145 y 149.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Den Lenkstock mit den Rohrleitungen einbauen, Bild 146 bis 148.",
-      "en-GB": "Install the steering column together with the pipelines, Fig. 146 to 148.",
-      "es-ES": "Montar la columna de dirección con las tuberías, Fig. 146 a 148."
+      "id": "d65250b-p096-para04",
+      "text": {
+        "de": {
+          "plain": "Den Lenkstock mit den Rohrleitungen einbauen, Bild 146 bis 148.",
+          "runs": [
+            {
+              "text": "Den Lenkstock mit den Rohrleitungen einbauen, Bild 146 bis 148.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Install the steering column together with the pipelines, Fig. 146 to 148.",
+          "runs": [
+            {
+              "text": "Install the steering column together with the pipelines, Fig. 146 to 148.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar la columna de dirección con las tuberías, Fig. 146 a 148.",
+          "runs": [
+            {
+              "text": "Montar la columna de dirección con las tuberías, Fig. 146 a 148.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p5",
-      "de": "Bei der mechanischen Lenkbetätigung die Gestänge zur Stützbremse einbauen.",
-      "en-GB": "On the mechanical steering actuation, install the linkage to the support brake.",
-      "es-ES": "En el accionamiento de dirección mecánico, montar el varillaje hacia el freno de apoyo."
+      "id": "d65250b-p096-para05",
+      "text": {
+        "de": {
+          "plain": "Bei der mechanischen Lenkbetätigung die Gestänge zur Stützbremse einbauen.",
+          "runs": [
+            {
+              "text": "Bei der mechanischen Lenkbetätigung die Gestänge zur Stützbremse einbauen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "On the mechanical steering actuation, install the linkage to the support brake.",
+          "runs": [
+            {
+              "text": "On the mechanical steering actuation, install the linkage to the support brake.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "En el accionamiento de dirección mecánico, montar el varillaje hacia el freno de apoyo.",
+          "runs": [
+            {
+              "text": "En el accionamiento de dirección mecánico, montar el varillaje hacia el freno de apoyo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p6",
-      "de": "Die Nutwelle der Gelenkwelle mit dem Lüfter in das Getriebe schieben, Bild 144.",
-      "en-GB": "Push the splined shaft of the cardan shaft, together with the fan, into the gearbox, Fig. 144.",
-      "es-ES": "Introducir el árbol estriado del árbol de transmisión, junto con el ventilador, en la caja de cambios, Fig. 144."
+      "id": "d65250b-p096-para06",
+      "text": {
+        "de": {
+          "plain": "Die Nutwelle der Gelenkwelle mit dem Lüfter in das Getriebe schieben, Bild 144.",
+          "runs": [
+            {
+              "text": "Die Nutwelle der Gelenkwelle mit dem Lüfter in das Getriebe schieben, Bild 144.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the splined shaft of the cardan shaft, together with the fan, into the gearbox, Fig. 144.",
+          "runs": [
+            {
+              "text": "Push the splined shaft of the cardan shaft, together with the fan, into the gearbox, Fig. 144.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el árbol estriado del árbol de transmisión, junto con el ventilador, en la caja de cambios, Fig. 144.",
+          "runs": [
+            {
+              "text": "Introducir el árbol estriado del árbol de transmisión, junto con el ventilador, en la caja de cambios, Fig. 144.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p7",
-      "de": "Das Lüftergehäuse mit den eingedrückten Vergasergestängen über die Gelenkwelle an das Getriebe heranführen und dieses mit den drei Schrauben, Bild 143, festschrauben.",
-      "en-GB": "Bring the fan housing, with the carburettor linkage pressed in, up to the gearbox over the cardan shaft and bolt it tight with the three bolts, Fig. 143.",
-      "es-ES": "Acercar la carcasa del ventilador, con el varillaje del carburador encajado, hacia la caja de cambios por encima del árbol de transmisión y atornillarla con los tres tornillos, Fig. 143."
+      "id": "d65250b-p096-para07",
+      "text": {
+        "de": {
+          "plain": "Das Lüftergehäuse mit den eingedrückten Vergasergestängen über die Gelenkwelle an das Getriebe heranführen und dieses mit den drei Schrauben, Bild 143, festschrauben.",
+          "runs": [
+            {
+              "text": "Das Lüftergehäuse mit den eingedrückten Vergasergestängen über die Gelenkwelle an das Getriebe heranführen und dieses mit den drei Schrauben, Bild 143, festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bring the fan housing, with the carburettor linkage pressed in, up to the gearbox over the cardan shaft and bolt it tight with the three bolts, Fig. 143.",
+          "runs": [
+            {
+              "text": "Bring the fan housing, with the carburettor linkage pressed in, up to the gearbox over the cardan shaft and bolt it tight with the three bolts, Fig. 143.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Acercar la carcasa del ventilador, con el varillaje del carburador encajado, hacia la caja de cambios por encima del árbol de transmisión y atornillarla con los tres tornillos, Fig. 143.",
+          "runs": [
+            {
+              "text": "Acercar la carcasa del ventilador, con el varillaje del carburador encajado, hacia la caja de cambios por encima del árbol de transmisión y atornillarla con los tres tornillos, Fig. 143.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p8",
-      "de": "Das Vergasergestänge seitlich an dem Lüftergehäuse eindrücken, Bild 143.",
-      "en-GB": "Press the carburettor linkage into the side of the fan housing, Fig. 143.",
-      "es-ES": "Encajar el varillaje del carburador lateralmente en la carcasa del ventilador, Fig. 143."
+      "id": "d65250b-p096-para08",
+      "text": {
+        "de": {
+          "plain": "Das Vergasergestänge seitlich an dem Lüftergehäuse eindrücken, Bild 143.",
+          "runs": [
+            {
+              "text": "Das Vergasergestänge seitlich an dem Lüftergehäuse eindrücken, Bild 143.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the carburettor linkage into the side of the fan housing, Fig. 143.",
+          "runs": [
+            {
+              "text": "Press the carburettor linkage into the side of the fan housing, Fig. 143.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Encajar el varillaje del carburador lateralmente en la carcasa del ventilador, Fig. 143.",
+          "runs": [
+            {
+              "text": "Encajar el varillaje del carburador lateralmente en la carcasa del ventilador, Fig. 143.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p9",
-      "de": "Die seitlichen Gelenkwellen einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 und 10.",
-      "en-GB": "Install the side cardan shafts, marginal no. 2, Installing the cardan shaft between the steering gear and the steering brake, Fig. 9 and 10.",
-      "es-ES": "Montar los árboles de transmisión laterales, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 9 y 10."
+      "id": "d65250b-p096-para09",
+      "text": {
+        "de": {
+          "plain": "Die seitlichen Gelenkwellen einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 und 10.",
+          "runs": [
+            {
+              "text": "Die seitlichen Gelenkwellen einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 und 10.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Install the side cardan shafts, marginal no. 2, Installing the cardan shaft between the steering gear and the steering brake, Fig. 9 and 10.",
+          "runs": [
+            {
+              "text": "Install the side cardan shafts, marginal no. 2, Installing the cardan shaft between the steering gear and the steering brake, Fig. 9 and 10.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar los árboles de transmisión laterales, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 9 y 10.",
+          "runs": [
+            {
+              "text": "Montar los árboles de transmisión laterales, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Fig. 9 y 10.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p10",
-      "de": "Die Gelenkwelle an die Kupplungswelle schrauben, Bild 142.",
-      "en-GB": "Bolt the cardan shaft to the clutch shaft, Fig. 142.",
-      "es-ES": "Atornillar el árbol de transmisión al árbol del embrague, Fig. 142."
+      "id": "d65250b-p096-para10",
+      "text": {
+        "de": {
+          "plain": "Die Gelenkwelle an die Kupplungswelle schrauben, Bild 142.",
+          "runs": [
+            {
+              "text": "Die Gelenkwelle an die Kupplungswelle schrauben, Bild 142.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the cardan shaft to the clutch shaft, Fig. 142.",
+          "runs": [
+            {
+              "text": "Bolt the cardan shaft to the clutch shaft, Fig. 142.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el árbol de transmisión al árbol del embrague, Fig. 142.",
+          "runs": [
+            {
+              "text": "Atornillar el árbol de transmisión al árbol del embrague, Fig. 142.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p11",
-      "de": "Den Gelenkwellentunnel und den Kupplungsvorbau einbauen, Bild 141.",
-      "en-GB": "Install the cardan shaft tunnel and the clutch front housing, Fig. 141.",
-      "es-ES": "Montar el túnel del árbol de transmisión y la carcasa delantera del embrague, Fig. 141."
+      "id": "d65250b-p096-para11",
+      "text": {
+        "de": {
+          "plain": "Den Gelenkwellentunnel und den Kupplungsvorbau einbauen, Bild 141.",
+          "runs": [
+            {
+              "text": "Den Gelenkwellentunnel und den Kupplungsvorbau einbauen, Bild 141.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Install the cardan shaft tunnel and the clutch front housing, Fig. 141.",
+          "runs": [
+            {
+              "text": "Install the cardan shaft tunnel and the clutch front housing, Fig. 141.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el túnel del árbol de transmisión y la carcasa delantera del embrague, Fig. 141.",
+          "runs": [
+            {
+              "text": "Montar el túnel del árbol de transmisión y la carcasa delantera del embrague, Fig. 141.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p12",
-      "de": "Die hydraulische Anlage entlüften.",
-      "en-GB": "Bleed the hydraulic system.",
-      "es-ES": "Purgar el aire del sistema hidráulico."
+      "id": "d65250b-p096-para12",
+      "text": {
+        "de": {
+          "plain": "Die hydraulische Anlage entlüften.",
+          "runs": [
+            {
+              "text": "Die hydraulische Anlage entlüften.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bleed the hydraulic system.",
+          "runs": [
+            {
+              "text": "Bleed the hydraulic system.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Purgar el aire del sistema hidráulico.",
+          "runs": [
+            {
+              "text": "Purgar el aire del sistema hidráulico.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

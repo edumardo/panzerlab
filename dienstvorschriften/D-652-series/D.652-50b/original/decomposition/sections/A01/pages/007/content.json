@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3.",
-      "en-GB": "Turn the brake drum until a fitted bolt is positioned in front of the milled-out point in the hub, Fig. 3.",
-      "es-ES": "Girar el tambor de freno hasta que un tornillo ajustado quede situado delante del rebaje fresado en el cubo, Fig. 3."
+      "id": "d65250b-p007-para01",
+      "text": {
+        "de": {
+          "plain": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3.",
+          "runs": [
+            {
+              "text": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the brake drum until a fitted bolt is positioned in front of the milled-out point in the hub, Fig. 3.",
+          "runs": [
+            {
+              "text": "Turn the brake drum until a fitted bolt is positioned in front of the milled-out point in the hub, Fig. 3.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el tambor de freno hasta que un tornillo ajustado quede situado delante del rebaje fresado en el cubo, Fig. 3.",
+          "runs": [
+            {
+              "text": "Girar el tambor de freno hasta que un tornillo ajustado quede situado delante del rebaje fresado en el cubo, Fig. 3.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
-      "en-GB": "Using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, unscrew the castle nuts 4–5 turns off the fitted bolts.",
-      "es-ES": "Con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, desenroscar las tuercas almenadas 4–5 vueltas de los tornillos ajustados."
+      "id": "d65250b-p007-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
+          "runs": [
+            {
+              "text": "Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, unscrew the castle nuts 4–5 turns off the fitted bolts.",
+          "runs": [
+            {
+              "text": "Using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, unscrew the castle nuts 4–5 turns off the fitted bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, desenroscar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+          "runs": [
+            {
+              "text": "Con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, desenroscar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Paßschraube durch Hammerschlag auf Kronenmutter lösen.",
-      "en-GB": "Loosen the fitted bolt by striking the castle nut with a hammer.",
-      "es-ES": "Aflojar el tornillo ajustado golpeando con un martillo la tuerca almenada."
+      "id": "d65250b-p007-para03",
+      "text": {
+        "de": {
+          "plain": "Paßschraube durch Hammerschlag auf Kronenmutter lösen.",
+          "runs": [
+            {
+              "text": "Paßschraube durch Hammerschlag auf Kronenmutter lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Loosen the fitted bolt by striking the castle nut with a hammer.",
+          "runs": [
+            {
+              "text": "Loosen the fitted bolt by striking the castle nut with a hammer.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar el tornillo ajustado golpeando con un martillo la tuerca almenada.",
+          "runs": [
+            {
+              "text": "Aflojar el tornillo ajustado golpeando con un martillo la tuerca almenada.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
-      "en-GB": "Remove the castle nut and fitted bolt by hand. Hold the fitted bolt firmly so that it does not fall into the brake drum.",
-      "es-ES": "Retirar la tuerca almenada y el tornillo ajustado a mano. Sujetar bien el tornillo ajustado para que no caiga dentro del tambor de freno."
+      "id": "d65250b-p007-para04",
+      "text": {
+        "de": {
+          "plain": "Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+          "runs": [
+            {
+              "text": "Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the castle nut and fitted bolt by hand. Hold the fitted bolt firmly so that it does not fall into the brake drum.",
+          "runs": [
+            {
+              "text": "Remove the castle nut and fitted bolt by hand. Hold the fitted bolt firmly so that it does not fall into the brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar la tuerca almenada y el tornillo ajustado a mano. Sujetar bien el tornillo ajustado para que no caiga dentro del tambor de freno.",
+          "runs": [
+            {
+              "text": "Retirar la tuerca almenada y el tornillo ajustado a mano. Sujetar bien el tornillo ajustado para que no caiga dentro del tambor de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-004",
+      "id": "d65250b-bild004",
       "number": 4,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 4",
-        "en-GB": "Fig. 4",
-        "es-ES": "Fig. 4"
+        "de": {
+          "plain": "Bild 4",
+          "runs": [
+            {
+              "text": "Bild 4",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 4",
+          "runs": [
+            {
+              "text": "Fig. 4",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 4",
+          "runs": [
+            {
+              "text": "Fig. 4",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -64,14 +192,38 @@
       }
     },
     {
-      "id": "fig-005",
+      "id": "d65250b-bild005",
       "number": 5,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 5",
-        "en-GB": "Fig. 5",
-        "es-ES": "Fig. 5"
+        "de": {
+          "plain": "Bild 5",
+          "runs": [
+            {
+              "text": "Bild 5",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 5",
+          "runs": [
+            {
+              "text": "Fig. 5",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 5",
+          "runs": [
+            {
+              "text": "Fig. 5",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die Gleiskette am Triebrad abnehmen.",
-      "en-GB": "Remove the track from the drive sprocket.",
-      "es-ES": "Retirar la cadena de oruga de la rueda motriz."
+      "id": "d65250b-p036-para01",
+      "text": {
+        "de": {
+          "plain": "Die Gleiskette am Triebrad abnehmen.",
+          "runs": [
+            {
+              "text": "Die Gleiskette am Triebrad abnehmen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the track from the drive sprocket.",
+          "runs": [
+            {
+              "text": "Remove the track from the drive sprocket.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar la cadena de oruga de la rueda motriz.",
+          "runs": [
+            {
+              "text": "Retirar la cadena de oruga de la rueda motriz.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Kettenabdeckung über dem Triebrad abschrauben.",
-      "en-GB": "Unscrew the track guard above the drive sprocket.",
-      "es-ES": "Desatornillar el guardacadenas situado sobre la rueda motriz."
+      "id": "d65250b-p036-para02",
+      "text": {
+        "de": {
+          "plain": "Kettenabdeckung über dem Triebrad abschrauben.",
+          "runs": [
+            {
+              "text": "Kettenabdeckung über dem Triebrad abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the track guard above the drive sprocket.",
+          "runs": [
+            {
+              "text": "Unscrew the track guard above the drive sprocket.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desatornillar el guardacadenas situado sobre la rueda motriz.",
+          "runs": [
+            {
+              "text": "Desatornillar el guardacadenas situado sobre la rueda motriz.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Triebrad ausbauen, Ausbau des Triebrades D 652/50 a, Seite 77 bis 81.",
-      "en-GB": "Remove the drive sprocket, see Removing the drive sprocket, D 652/50 a, pages 77 to 81.",
-      "es-ES": "Desmontar la rueda motriz, véase Desmontaje de la rueda motriz, D 652/50 a, páginas 77 a 81."
+      "id": "d65250b-p036-para03",
+      "text": {
+        "de": {
+          "plain": "Triebrad ausbauen, Ausbau des Triebrades D 652/50 a, Seite 77 bis 81.",
+          "runs": [
+            {
+              "text": "Triebrad ausbauen, Ausbau des Triebrades D 652/50 a, Seite 77 bis 81.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the drive sprocket, see Removing the drive sprocket, D 652/50 a, pages 77 to 81.",
+          "runs": [
+            {
+              "text": "Remove the drive sprocket, see Removing the drive sprocket, D 652/50 a, pages 77 to 81.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontar la rueda motriz, véase Desmontaje de la rueda motriz, D 652/50 a, páginas 77 a 81.",
+          "runs": [
+            {
+              "text": "Desmontar la rueda motriz, véase Desmontaje de la rueda motriz, D 652/50 a, páginas 77 a 81.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Ölablaßschrauben mit 28-SW-Maulschlüssel ausschrauben und Öl ablassen.",
-      "en-GB": "Unscrew the oil drain plugs with a 28 mm across-flats open-ended spanner and drain the oil.",
-      "es-ES": "Desenroscar los tapones de vaciado de aceite con una llave fija de 28 mm de entrecaras y vaciar el aceite."
+      "id": "d65250b-p036-para04",
+      "text": {
+        "de": {
+          "plain": "Ölablaßschrauben mit 28-SW-Maulschlüssel ausschrauben und Öl ablassen.",
+          "runs": [
+            {
+              "text": "Ölablaßschrauben mit 28-SW-Maulschlüssel ausschrauben und Öl ablassen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the oil drain plugs with a 28 mm across-flats open-ended spanner and drain the oil.",
+          "runs": [
+            {
+              "text": "Unscrew the oil drain plugs with a 28 mm across-flats open-ended spanner and drain the oil.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar los tapones de vaciado de aceite con una llave fija de 28 mm de entrecaras y vaciar el aceite.",
+          "runs": [
+            {
+              "text": "Desenroscar los tapones de vaciado de aceite con una llave fija de 28 mm de entrecaras y vaciar el aceite.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-054",
+      "id": "d65250b-bild054",
       "number": 54,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 54",
-        "en-GB": "Fig. 54",
-        "es-ES": "Fig. 54"
+        "de": {
+          "plain": "Bild 54",
+          "runs": [
+            {
+              "text": "Bild 54",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 54",
+          "runs": [
+            {
+              "text": "Fig. 54",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 54",
+          "runs": [
+            {
+              "text": "Fig. 54",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

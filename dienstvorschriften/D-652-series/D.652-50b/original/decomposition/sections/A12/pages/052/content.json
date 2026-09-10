@@ -21,14 +21,216 @@
     "next": "d65250b-page-053"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Abstandsring auf das obere Rollenlager legen.", "en-GB": "Place the spacer ring on the upper roller bearing.", "es-ES": "Colocar el anillo distanciador sobre el cojinete de rodillos superior."},
-    {"id": "p2", "de": "Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben.", "en-GB": "Bolt the bearing flange and hub together using the 8 hollow screws.", "es-ES": "Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos."},
-    {"id": "p3", "de": "Lochschrauben durch Draht sichern.", "en-GB": "Secure the hollow screws with wire.", "es-ES": "Asegurar los tornillos huecos con alambre."},
-    {"id": "p4", "de": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.", "en-GB": "Place the roller support ring, with its recessed face, onto the rollers of the roller bearing.", "es-ES": "Colocar el anillo de apoyo de los rodillos, con el lado rebajado, sobre los rodillos del cojinete de rodillos."}
+    {
+      "id": "d65250b-p052-para01",
+      "text": {
+        "de": {
+          "plain": "Abstandsring auf das obere Rollenlager legen.",
+          "runs": [
+            {
+              "text": "Abstandsring auf das obere Rollenlager legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the spacer ring on the upper roller bearing.",
+          "runs": [
+            {
+              "text": "Place the spacer ring on the upper roller bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo distanciador sobre el cojinete de rodillos superior.",
+          "runs": [
+            {
+              "text": "Colocar el anillo distanciador sobre el cojinete de rodillos superior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p052-para02",
+      "text": {
+        "de": {
+          "plain": "Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben.",
+          "runs": [
+            {
+              "text": "Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the bearing flange and hub together using the 8 hollow screws.",
+          "runs": [
+            {
+              "text": "Bolt the bearing flange and hub together using the 8 hollow screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos.",
+          "runs": [
+            {
+              "text": "Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p052-para03",
+      "text": {
+        "de": {
+          "plain": "Lochschrauben durch Draht sichern.",
+          "runs": [
+            {
+              "text": "Lochschrauben durch Draht sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the hollow screws with wire.",
+          "runs": [
+            {
+              "text": "Secure the hollow screws with wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar los tornillos huecos con alambre.",
+          "runs": [
+            {
+              "text": "Asegurar los tornillos huecos con alambre.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p052-para04",
+      "text": {
+        "de": {
+          "plain": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.",
+          "runs": [
+            {
+              "text": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the roller support ring, with its recessed face, onto the rollers of the roller bearing.",
+          "runs": [
+            {
+              "text": "Place the roller support ring, with its recessed face, onto the rollers of the roller bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo de apoyo de los rodillos, con el lado rebajado, sobre los rodillos del cojinete de rodillos.",
+          "runs": [
+            {
+              "text": "Colocar el anillo de apoyo de los rodillos, con el lado rebajado, sobre los rodillos del cojinete de rodillos.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-080", "number": 80, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 80", "en-GB": "Fig. 80", "es-ES": "Fig. 80"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-081", "number": 81, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 81", "en-GB": "Fig. 81", "es-ES": "Fig. 81"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild080",
+      "number": 80,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 80",
+          "runs": [
+            {
+              "text": "Bild 80",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 80",
+          "runs": [
+            {
+              "text": "Fig. 80",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 80",
+          "runs": [
+            {
+              "text": "Fig. 80",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild081",
+      "number": 81,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 81",
+          "runs": [
+            {
+              "text": "Bild 81",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 81",
+          "runs": [
+            {
+              "text": "Fig. 81",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 81",
+          "runs": [
+            {
+              "text": "Fig. 81",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

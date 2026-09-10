@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Die lange Zugfeder in die Augen der beiden Bremsbacken einhängen.",
-      "en-GB": "Hook the long tension spring into the eyes of the two brake shoes.",
-      "es-ES": "Enganchar el muelle de tracción largo en los ojales de las dos zapatas de freno."
+      "id": "d65250b-p019-para01",
+      "text": {
+        "de": {
+          "plain": "Die lange Zugfeder in die Augen der beiden Bremsbacken einhängen.",
+          "runs": [
+            {
+              "text": "Die lange Zugfeder in die Augen der beiden Bremsbacken einhängen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Hook the long tension spring into the eyes of the two brake shoes.",
+          "runs": [
+            {
+              "text": "Hook the long tension spring into the eyes of the two brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enganchar el muelle de tracción largo en los ojales de las dos zapatas de freno.",
+          "runs": [
+            {
+              "text": "Enganchar el muelle de tracción largo en los ojales de las dos zapatas de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.",
-      "en-GB": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws.",
-      "es-ES": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención."
+      "id": "d65250b-p019-para02",
+      "text": {
+        "de": {
+          "plain": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.",
+          "runs": [
+            {
+              "text": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws.",
+          "runs": [
+            {
+              "text": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención.",
+          "runs": [
+            {
+              "text": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.",
-      "en-GB": "Fit the asbestos hoses onto the stubs of the brake shoes.",
-      "es-ES": "Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno."
+      "id": "d65250b-p019-para03",
+      "text": {
+        "de": {
+          "plain": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.",
+          "runs": [
+            {
+              "text": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the asbestos hoses onto the stubs of the brake shoes.",
+          "runs": [
+            {
+              "text": "Fit the asbestos hoses onto the stubs of the brake shoes.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno.",
+          "runs": [
+            {
+              "text": "Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Die Asbestschläuche mit Bindedraht festbinden.",
-      "en-GB": "Tie the asbestos hoses fast with binding wire.",
-      "es-ES": "Atar las mangueras de amianto con alambre de atado."
+      "id": "d65250b-p019-para04",
+      "text": {
+        "de": {
+          "plain": "Die Asbestschläuche mit Bindedraht festbinden.",
+          "runs": [
+            {
+              "text": "Die Asbestschläuche mit Bindedraht festbinden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Tie the asbestos hoses fast with binding wire.",
+          "runs": [
+            {
+              "text": "Tie the asbestos hoses fast with binding wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atar las mangueras de amianto con alambre de atado.",
+          "runs": [
+            {
+              "text": "Atar las mangueras de amianto con alambre de atado.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-024",
+      "id": "d65250b-bild024",
       "number": 24,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 24",
-        "en-GB": "Fig. 24",
-        "es-ES": "Fig. 24"
+        "de": {
+          "plain": "Bild 24",
+          "runs": [
+            {
+              "text": "Bild 24",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 24",
+          "runs": [
+            {
+              "text": "Fig. 24",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 24",
+          "runs": [
+            {
+              "text": "Fig. 24",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

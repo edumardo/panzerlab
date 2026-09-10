@@ -22,46 +22,200 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
-      "en-GB": "Bolt the thrust plate to the hub with the four screws and spacer tubes (drawing 4)¹).",
-      "es-ES": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (dibujo 4)¹)."
+      "id": "d65250b-p047-para01",
+      "text": {
+        "de": {
+          "plain": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
+          "runs": [
+            {
+              "text": "Druckplatte mit den vier Schrauben und Abstandsrohren mit der Nabe verschrauben (Zeichnung 4)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the thrust plate to the hub with the four screws and spacer tubes (drawing 4)¹).",
+          "runs": [
+            {
+              "text": "Bolt the thrust plate to the hub with the four screws and spacer tubes (drawing 4)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (dibujo 4)¹).",
+          "runs": [
+            {
+              "text": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (dibujo 4)¹).",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Zugspindel (1) in die Ritzelwelle schrauben.",
-      "en-GB": "Screw the draw spindle (1) into the pinion shaft.",
-      "es-ES": "Enroscar el husillo de tracción (1) en el eje del piñón."
+      "id": "d65250b-p047-para02",
+      "text": {
+        "de": {
+          "plain": "Zugspindel (1) in die Ritzelwelle schrauben.",
+          "runs": [
+            {
+              "text": "Zugspindel (1) in die Ritzelwelle schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the draw spindle (1) into the pinion shaft.",
+          "runs": [
+            {
+              "text": "Screw the draw spindle (1) into the pinion shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar el husillo de tracción (1) en el eje del piñón.",
+          "runs": [
+            {
+              "text": "Enroscar el husillo de tracción (1) en el eje del piñón.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Zwischenring (3) unter den Bund der Mutter (2) legen.",
-      "en-GB": "Place the intermediate ring (3) under the collar of the nut (2).",
-      "es-ES": "Colocar el anillo intermedio (3) bajo el collar de la tuerca (2)."
+      "id": "d65250b-p047-para03",
+      "text": {
+        "de": {
+          "plain": "Zwischenring (3) unter den Bund der Mutter (2) legen.",
+          "runs": [
+            {
+              "text": "Zwischenring (3) unter den Bund der Mutter (2) legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the intermediate ring (3) under the collar of the nut (2).",
+          "runs": [
+            {
+              "text": "Place the intermediate ring (3) under the collar of the nut (2).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo intermedio (3) bajo el collar de la tuerca (2).",
+          "runs": [
+            {
+              "text": "Colocar el anillo intermedio (3) bajo el collar de la tuerca (2).",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
-      "en-GB": "Note: If the pinion shaft has been turned off, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
-      "es-ES": "Atención: si el eje del piñón se ha torneado, se suelda eléctricamente al piñón un perno roscado de longitud apropiada y con él se extrae el piñón."
+      "id": "d65250b-p047-para04",
+      "text": {
+        "de": {
+          "plain": "Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
+          "runs": [
+            {
+              "text": "Beachten: Bei abgedrehter Ritzelwelle wird ein entsprechend langer Gewindebolzen an das Ritzel elektrisch angeschweißt und mit diesem das Ritzel ausgezogen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: If the pinion shaft has been turned off, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+          "runs": [
+            {
+              "text": "Note: If the pinion shaft has been turned off, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: si el eje del piñón se ha torneado, se suelda eléctricamente al piñón un perno roscado de longitud apropiada y con él se extrae el piñón.",
+          "runs": [
+            {
+              "text": "Atención: si el eje del piñón se ha torneado, se suelda eléctricamente al piñón un perno roscado de longitud apropiada y con él se extrae el piñón.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p5",
-      "de": "¹) Siehe im Anhang.",
-      "en-GB": "¹) See appendix.",
-      "es-ES": "¹) Véase el anexo."
+      "id": "d65250b-p047-para05",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-071",
+      "id": "d65250b-bild071",
       "number": 71,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 71",
-        "en-GB": "Fig. 71",
-        "es-ES": "Fig. 71"
+        "de": {
+          "plain": "Bild 71",
+          "runs": [
+            {
+              "text": "Bild 71",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 71",
+          "runs": [
+            {
+              "text": "Fig. 71",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 71",
+          "runs": [
+            {
+              "text": "Fig. 71",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -70,14 +224,38 @@
       }
     },
     {
-      "id": "fig-072",
+      "id": "d65250b-bild072",
       "number": 72,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 72",
-        "en-GB": "Fig. 72",
-        "es-ES": "Fig. 72"
+        "de": {
+          "plain": "Bild 72",
+          "runs": [
+            {
+              "text": "Bild 72",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 72",
+          "runs": [
+            {
+              "text": "Fig. 72",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 72",
+          "runs": [
+            {
+              "text": "Fig. 72",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

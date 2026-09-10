@@ -22,40 +22,168 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Drahtsicherung aus den Schrauben des Lagerdeckels entfernen.",
-      "en-GB": "Remove the wire lock from the screws of the bearing cover.",
-      "es-ES": "Retirar el alambre de seguridad de los tornillos de la tapa de cojinete."
+      "id": "d65250b-p043-para01",
+      "text": {
+        "de": {
+          "plain": "Drahtsicherung aus den Schrauben des Lagerdeckels entfernen.",
+          "runs": [
+            {
+              "text": "Drahtsicherung aus den Schrauben des Lagerdeckels entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the wire lock from the screws of the bearing cover.",
+          "runs": [
+            {
+              "text": "Remove the wire lock from the screws of the bearing cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar el alambre de seguridad de los tornillos de la tapa de cojinete.",
+          "runs": [
+            {
+              "text": "Retirar el alambre de seguridad de los tornillos de la tapa de cojinete.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Mit 14-SW-Steckschlüssel die entsicherten Schrauben ausschrauben.",
-      "en-GB": "Unscrew the unlocked screws with a 14 mm across-flats socket spanner.",
-      "es-ES": "Desenroscar los tornillos ya liberados de seguro con una llave de vaso de 14 mm de entrecaras."
+      "id": "d65250b-p043-para02",
+      "text": {
+        "de": {
+          "plain": "Mit 14-SW-Steckschlüssel die entsicherten Schrauben ausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Steckschlüssel die entsicherten Schrauben ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the unlocked screws with a 14 mm across-flats socket spanner.",
+          "runs": [
+            {
+              "text": "Unscrew the unlocked screws with a 14 mm across-flats socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar los tornillos ya liberados de seguro con una llave de vaso de 14 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Desenroscar los tornillos ya liberados de seguro con una llave de vaso de 14 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Vier Befestigungsschrauben des Lagerdeckels in die Gewindelöcher des Deckels einschrauben.",
-      "en-GB": "Screw four fixing screws of the bearing cover into the threaded holes of the cover.",
-      "es-ES": "Enroscar cuatro tornillos de fijación de la tapa de cojinete en los orificios roscados de la tapa."
+      "id": "d65250b-p043-para03",
+      "text": {
+        "de": {
+          "plain": "Vier Befestigungsschrauben des Lagerdeckels in die Gewindelöcher des Deckels einschrauben.",
+          "runs": [
+            {
+              "text": "Vier Befestigungsschrauben des Lagerdeckels in die Gewindelöcher des Deckels einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw four fixing screws of the bearing cover into the threaded holes of the cover.",
+          "runs": [
+            {
+              "text": "Screw four fixing screws of the bearing cover into the threaded holes of the cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar cuatro tornillos de fijación de la tapa de cojinete en los orificios roscados de la tapa.",
+          "runs": [
+            {
+              "text": "Enroscar cuatro tornillos de fijación de la tapa de cojinete en los orificios roscados de la tapa.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p4",
-      "de": "Den Lagerdeckel durch gleichmäßiges Anziehen der Schrauben abdrücken.",
-      "en-GB": "Press off the bearing cover by tightening the screws evenly.",
-      "es-ES": "Separar la tapa de cojinete apretando los tornillos de manera uniforme."
+      "id": "d65250b-p043-para04",
+      "text": {
+        "de": {
+          "plain": "Den Lagerdeckel durch gleichmäßiges Anziehen der Schrauben abdrücken.",
+          "runs": [
+            {
+              "text": "Den Lagerdeckel durch gleichmäßiges Anziehen der Schrauben abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press off the bearing cover by tightening the screws evenly.",
+          "runs": [
+            {
+              "text": "Press off the bearing cover by tightening the screws evenly.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar la tapa de cojinete apretando los tornillos de manera uniforme.",
+          "runs": [
+            {
+              "text": "Separar la tapa de cojinete apretando los tornillos de manera uniforme.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-063",
+      "id": "d65250b-bild063",
       "number": 63,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 63",
-        "en-GB": "Fig. 63",
-        "es-ES": "Fig. 63"
+        "de": {
+          "plain": "Bild 63",
+          "runs": [
+            {
+              "text": "Bild 63",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 63",
+          "runs": [
+            {
+              "text": "Fig. 63",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 63",
+          "runs": [
+            {
+              "text": "Fig. 63",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -64,14 +192,38 @@
       }
     },
     {
-      "id": "fig-064",
+      "id": "d65250b-bild064",
       "number": 64,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 64",
-        "en-GB": "Fig. 64",
-        "es-ES": "Fig. 64"
+        "de": {
+          "plain": "Bild 64",
+          "runs": [
+            {
+              "text": "Bild 64",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 64",
+          "runs": [
+            {
+              "text": "Fig. 64",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 64",
+          "runs": [
+            {
+              "text": "Fig. 64",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

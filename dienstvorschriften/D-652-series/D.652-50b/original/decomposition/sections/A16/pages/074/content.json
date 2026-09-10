@@ -22,34 +22,136 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Kupplungsdruckfeder, Ausrücklager und Druckplatte (1) über die Zugschraube (3) führen.",
-      "en-GB": "Slide the clutch pressure spring, release bearing, and pressure plate (1) over the draw bolt (3).",
-      "es-ES": "Deslizar el muelle de presión del embrague, el rodamiento de desembrague y la placa de presión (1) sobre el tornillo tensor (3)."
+      "id": "d65250b-p074-para01",
+      "text": {
+        "de": {
+          "plain": "Kupplungsdruckfeder, Ausrücklager und Druckplatte (1) über die Zugschraube (3) führen.",
+          "runs": [
+            {
+              "text": "Kupplungsdruckfeder, Ausrücklager und Druckplatte (1) über die Zugschraube (3) führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the clutch pressure spring, release bearing, and pressure plate (1) over the draw bolt (3).",
+          "runs": [
+            {
+              "text": "Slide the clutch pressure spring, release bearing, and pressure plate (1) over the draw bolt (3).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar el muelle de presión del embrague, el rodamiento de desembrague y la placa de presión (1) sobre el tornillo tensor (3).",
+          "runs": [
+            {
+              "text": "Deslizar el muelle de presión del embrague, el rodamiento de desembrague y la placa de presión (1) sobre el tornillo tensor (3).",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Kupplungsdruckfeder mit der Vorrichtung so weit zusammenziehen, bis sich das Kugellagergehäuse mit den Ausrückbolzen verschrauben läßt.",
-      "en-GB": "Compress the clutch pressure spring with the device until the ball-bearing housing can be bolted to the release bolts.",
-      "es-ES": "Comprimir el muelle de presión del embrague con el dispositivo hasta que la carcasa del rodamiento de bolas pueda atornillarse a los pernos de desembrague."
+      "id": "d65250b-p074-para02",
+      "text": {
+        "de": {
+          "plain": "Kupplungsdruckfeder mit der Vorrichtung so weit zusammenziehen, bis sich das Kugellagergehäuse mit den Ausrückbolzen verschrauben läßt.",
+          "runs": [
+            {
+              "text": "Kupplungsdruckfeder mit der Vorrichtung so weit zusammenziehen, bis sich das Kugellagergehäuse mit den Ausrückbolzen verschrauben läßt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Compress the clutch pressure spring with the device until the ball-bearing housing can be bolted to the release bolts.",
+          "runs": [
+            {
+              "text": "Compress the clutch pressure spring with the device until the ball-bearing housing can be bolted to the release bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprimir el muelle de presión del embrague con el dispositivo hasta que la carcasa del rodamiento de bolas pueda atornillarse a los pernos de desembrague.",
+          "runs": [
+            {
+              "text": "Comprimir el muelle de presión del embrague con el dispositivo hasta que la carcasa del rodamiento de bolas pueda atornillarse a los pernos de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p3",
-      "de": "Mit 14-SW-Maulschlüssel die drei Befestigungsschrauben des Ausrücklagergehäuses einschrauben.",
-      "en-GB": "Using a 14 mm (A/F) open-ended spanner, screw in the three securing screws of the release-bearing housing.",
-      "es-ES": "Con una llave fija de 14 mm (entrecaras), enroscar los tres tornillos de fijación de la carcasa del rodamiento de desembrague."
+      "id": "d65250b-p074-para03",
+      "text": {
+        "de": {
+          "plain": "Mit 14-SW-Maulschlüssel die drei Befestigungsschrauben des Ausrücklagergehäuses einschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Maulschlüssel die drei Befestigungsschrauben des Ausrücklagergehäuses einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm (A/F) open-ended spanner, screw in the three securing screws of the release-bearing housing.",
+          "runs": [
+            {
+              "text": "Using a 14 mm (A/F) open-ended spanner, screw in the three securing screws of the release-bearing housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm (entrecaras), enroscar los tres tornillos de fijación de la carcasa del rodamiento de desembrague.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm (entrecaras), enroscar los tres tornillos de fijación de la carcasa del rodamiento de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-118",
+      "id": "d65250b-bild118",
       "number": 118,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 118",
-        "en-GB": "Fig. 118",
-        "es-ES": "Fig. 118"
+        "de": {
+          "plain": "Bild 118",
+          "runs": [
+            {
+              "text": "Bild 118",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 118",
+          "runs": [
+            {
+              "text": "Fig. 118",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 118",
+          "runs": [
+            {
+              "text": "Fig. 118",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -58,14 +160,38 @@
       }
     },
     {
-      "id": "fig-119",
+      "id": "d65250b-bild119",
       "number": 119,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 119",
-        "en-GB": "Fig. 119",
-        "es-ES": "Fig. 119"
+        "de": {
+          "plain": "Bild 119",
+          "runs": [
+            {
+              "text": "Bild 119",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 119",
+          "runs": [
+            {
+              "text": "Fig. 119",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 119",
+          "runs": [
+            {
+              "text": "Fig. 119",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

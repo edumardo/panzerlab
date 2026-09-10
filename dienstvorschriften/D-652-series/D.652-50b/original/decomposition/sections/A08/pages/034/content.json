@@ -21,13 +21,184 @@
     "next": "d65250b-page-035"
   },
   "paragraphs": [
-    {"id": "p1", "de": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.", "en-GB": "Screw the pair of brake shoes together with the adjusting device.", "es-ES": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste."},
-    {"id": "p2", "de": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.", "en-GB": "Note: The threaded spindles must be screwed into the brake shoes to an equal depth.", "es-ES": "Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad."},
-    {"id": "p3", "de": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.", "en-GB": "Tack the mounting of the adjusting device to the bearing cover using the two hexagon-socket screws.", "es-ES": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior."}
+    {
+      "id": "d65250b-p034-para01",
+      "text": {
+        "de": {
+          "plain": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.",
+          "runs": [
+            {
+              "text": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the pair of brake shoes together with the adjusting device.",
+          "runs": [
+            {
+              "text": "Screw the pair of brake shoes together with the adjusting device.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste.",
+          "runs": [
+            {
+              "text": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p034-para02",
+      "text": {
+        "de": {
+          "plain": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
+          "runs": [
+            {
+              "text": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
+          "runs": [
+            {
+              "text": "Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
+          "runs": [
+            {
+              "text": "Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p034-para03",
+      "text": {
+        "de": {
+          "plain": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.",
+          "runs": [
+            {
+              "text": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Tack the mounting of the adjusting device to the bearing cover using the two hexagon-socket screws.",
+          "runs": [
+            {
+              "text": "Tack the mounting of the adjusting device to the bearing cover using the two hexagon-socket screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior.",
+          "runs": [
+            {
+              "text": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
   ],
   "figures": [
-    {"id": "fig-051", "number": 51, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 51", "en-GB": "Fig. 51", "es-ES": "Fig. 51"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}},
-    {"id": "fig-052", "number": 52, "image": null, "status": "candidate_crop", "captions": {"de": "Bild 52", "en-GB": "Fig. 52", "es-ES": "Fig. 52"}, "label_keys": {"de": null, "en-GB": null, "es-ES": null}}
+    {
+      "id": "d65250b-bild051",
+      "number": 51,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 51",
+          "runs": [
+            {
+              "text": "Bild 51",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 51",
+          "runs": [
+            {
+              "text": "Fig. 51",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 51",
+          "runs": [
+            {
+              "text": "Fig. 51",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild052",
+      "number": 52,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bild 52",
+          "runs": [
+            {
+              "text": "Bild 52",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 52",
+          "runs": [
+            {
+              "text": "Fig. 52",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 52",
+          "runs": [
+            {
+              "text": "Fig. 52",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
   ],
   "status": {
     "transcription": "draft",

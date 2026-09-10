@@ -29,8 +29,32 @@
         "next": {"type": ["string", "null"]}
       }
     },
-    "paragraphs": {"type": "array"},
-    "figures": {"type": "array"},
+    "paragraphs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "text"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^d65250b-p[0-9]{3}-para[0-9]{2}$"},
+          "text": {"$ref": "#/$defs/localisedRichText"}
+        }
+      }
+    },
+    "figures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "number", "image", "status", "captions", "label_keys"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^d65250b-bild[0-9]{3}$"},
+          "number": {"type": "integer", "minimum": 1},
+          "image": {"type": ["string", "null"]},
+          "status": {"$ref": "#/$defs/workflowState"},
+          "captions": {"$ref": "#/$defs/localisedRichText"},
+          "label_keys": {"$ref": "#/$defs/localisedRichText"}
+        }
+      }
+    },
     "status": {
       "type": "object",
       "required": ["transcription", "en-GB", "es-ES", "figures"],
@@ -50,6 +74,33 @@
         "de": {"type": ["string", "null"]},
         "en-GB": {"type": ["string", "null"]},
         "es-ES": {"type": ["string", "null"]}
+      }
+    },
+    "richText": {
+      "type": ["object", "null"],
+      "required": ["plain", "runs"],
+      "properties": {
+        "plain": {"type": "string"},
+        "runs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["text", "bold"],
+            "properties": {
+              "text": {"type": "string"},
+              "bold": {"type": "boolean"}
+            }
+          }
+        }
+      }
+    },
+    "localisedRichText": {
+      "type": "object",
+      "required": ["de", "en-GB", "es-ES"],
+      "properties": {
+        "de": {"$ref": "#/$defs/richText"},
+        "en-GB": {"$ref": "#/$defs/richText"},
+        "es-ES": {"$ref": "#/$defs/richText"}
       }
     },
     "workflowState": {

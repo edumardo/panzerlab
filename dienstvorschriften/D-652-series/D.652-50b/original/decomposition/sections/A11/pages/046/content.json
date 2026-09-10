@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
-      "en-GB": "Place the thrust bar DB 92/2 over the draw spindle. Screw the two nuts onto the studs with a 32 mm across-flats open-ended spanner.",
-      "es-ES": "Colocar el puente de presión DB 92/2 sobre el husillo de tracción. Enroscar las dos tuercas en los pernos prisioneros con una llave fija de 32 mm de entrecaras."
+      "id": "d65250b-p046-para01",
+      "text": {
+        "de": {
+          "plain": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
+          "runs": [
+            {
+              "text": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the thrust bar DB 92/2 over the draw spindle. Screw the two nuts onto the studs with a 32 mm across-flats open-ended spanner.",
+          "runs": [
+            {
+              "text": "Place the thrust bar DB 92/2 over the draw spindle. Screw the two nuts onto the studs with a 32 mm across-flats open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el puente de presión DB 92/2 sobre el husillo de tracción. Enroscar las dos tuercas en los pernos prisioneros con una llave fija de 32 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Colocar el puente de presión DB 92/2 sobre el husillo de tracción. Enroscar las dos tuercas en los pernos prisioneros con una llave fija de 32 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
-      "en-GB": "Press the spur gear and the drive-sprocket shaft apart by turning the nut anticlockwise.",
-      "es-ES": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda."
+      "id": "d65250b-p046-para02",
+      "text": {
+        "de": {
+          "plain": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
+          "runs": [
+            {
+              "text": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the spur gear and the drive-sprocket shaft apart by turning the nut anticlockwise.",
+          "runs": [
+            {
+              "text": "Press the spur gear and the drive-sprocket shaft apart by turning the nut anticlockwise.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda.",
+          "runs": [
+            {
+              "text": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-069",
+      "id": "d65250b-bild069",
       "number": 69,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 69",
-        "en-GB": "Fig. 69",
-        "es-ES": "Fig. 69"
+        "de": {
+          "plain": "Bild 69",
+          "runs": [
+            {
+              "text": "Bild 69",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 69",
+          "runs": [
+            {
+              "text": "Fig. 69",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 69",
+          "runs": [
+            {
+              "text": "Fig. 69",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-070",
+      "id": "d65250b-bild070",
       "number": 70,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 70",
-        "en-GB": "Fig. 70",
-        "es-ES": "Fig. 70"
+        "de": {
+          "plain": "Bild 70",
+          "runs": [
+            {
+              "text": "Bild 70",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 70",
+          "runs": [
+            {
+              "text": "Fig. 70",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 70",
+          "runs": [
+            {
+              "text": "Fig. 70",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,

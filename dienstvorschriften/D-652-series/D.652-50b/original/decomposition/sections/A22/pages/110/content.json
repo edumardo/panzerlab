@@ -22,10 +22,36 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Zeichnung 8. Federzange.",
-      "en-GB": "Drawing 8. Spring clamp.",
-      "es-ES": "Plano 8. Pinza para muelles."
+      "id": "d65250b-p110-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 8. Federzange.",
+          "runs": [
+            {
+              "text": "Zeichnung 8. Federzange.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 8. Spring clamp.",
+          "runs": [
+            {
+              "text": "Drawing 8. Spring clamp.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 8. Pinza para muelles.",
+          "runs": [
+            {
+              "text": "Plano 8. Pinza para muelles.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [],

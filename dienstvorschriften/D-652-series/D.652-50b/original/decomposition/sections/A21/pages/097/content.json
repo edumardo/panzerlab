@@ -22,28 +22,104 @@
   },
   "paragraphs": [
     {
-      "id": "p1",
-      "de": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
-      "en-GB": "Using a screwdriver, unscrew the bolts of the upper front superstructure armour deck marked in the illustration.",
-      "es-ES": "Con destornillador, desenroscar los tornillos de la cubierta superior de la superestructura frontal blindada señalados en la figura."
+      "id": "d65250b-p097-para01",
+      "text": {
+        "de": {
+          "plain": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
+          "runs": [
+            {
+              "text": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a screwdriver, unscrew the bolts of the upper front superstructure armour deck marked in the illustration.",
+          "runs": [
+            {
+              "text": "Using a screwdriver, unscrew the bolts of the upper front superstructure armour deck marked in the illustration.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con destornillador, desenroscar los tornillos de la cubierta superior de la superestructura frontal blindada señalados en la figura.",
+          "runs": [
+            {
+              "text": "Con destornillador, desenroscar los tornillos de la cubierta superior de la superestructura frontal blindada señalados en la figura.",
+              "bold": false
+            }
+          ]
+        }
+      }
     },
     {
-      "id": "p2",
-      "de": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
-      "en-GB": "Pull out the cable connector for the ceiling lighting and, using a 14 mm open-end spanner, unscrew the bolts of the cable clamps.",
-      "es-ES": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable."
+      "id": "d65250b-p097-para02",
+      "text": {
+        "de": {
+          "plain": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
+          "runs": [
+            {
+              "text": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the cable connector for the ceiling lighting and, using a 14 mm open-end spanner, unscrew the bolts of the cable clamps.",
+          "runs": [
+            {
+              "text": "Pull out the cable connector for the ceiling lighting and, using a 14 mm open-end spanner, unscrew the bolts of the cable clamps.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable.",
+          "runs": [
+            {
+              "text": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable.",
+              "bold": false
+            }
+          ]
+        }
+      }
     }
   ],
   "figures": [
     {
-      "id": "fig-153",
+      "id": "d65250b-bild153",
       "number": 153,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 153",
-        "en-GB": "Fig. 153",
-        "es-ES": "Fig. 153"
+        "de": {
+          "plain": "Bild 153",
+          "runs": [
+            {
+              "text": "Bild 153",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 153",
+          "runs": [
+            {
+              "text": "Fig. 153",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 153",
+          "runs": [
+            {
+              "text": "Fig. 153",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
@@ -52,14 +128,38 @@
       }
     },
     {
-      "id": "fig-154",
+      "id": "d65250b-bild154",
       "number": 154,
       "image": null,
       "status": "candidate_crop",
       "captions": {
-        "de": "Bild 154",
-        "en-GB": "Fig. 154",
-        "es-ES": "Fig. 154"
+        "de": {
+          "plain": "Bild 154",
+          "runs": [
+            {
+              "text": "Bild 154",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fig. 154",
+          "runs": [
+            {
+              "text": "Fig. 154",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fig. 154",
+          "runs": [
+            {
+              "text": "Fig. 154",
+              "bold": false
+            }
+          ]
+        }
       },
       "label_keys": {
         "de": null,
