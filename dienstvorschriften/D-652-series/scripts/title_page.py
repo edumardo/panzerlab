@@ -72,7 +72,7 @@ def render_title_page(pdf, spec, regular, bold, italic, page_w, page_h):
     y -= 10 * mm
 
     for i, line in enumerate(spec["model_lines"]):
-        _draw_centered(pdf, line, bold, 16, MODEL_LINE_COLOR, page_w, y, max_width)
+        y = _draw_centered(pdf, line, bold, 16, MODEL_LINE_COLOR, page_w, y, max_width)
         y -= 6 * mm if i < len(spec["model_lines"]) - 1 else 10 * mm
 
     y = _draw_centered(pdf, spec["subtitle_en"], italic, 13, SUBTITLE_EN_COLOR, page_w, y, max_width)

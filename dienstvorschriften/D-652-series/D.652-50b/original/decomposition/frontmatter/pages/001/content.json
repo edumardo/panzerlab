@@ -6,9 +6,9 @@
   "section": "FrontMatter",
   "type": "text",
   "titles": {
-    "de": null,
-    "en-GB": null,
-    "es-ES": null
+    "de": "Titelseite",
+    "en-GB": "Original title page",
+    "es-ES": "Página de título original"
   },
   "source": {
     "image": "source.jpg",
@@ -130,19 +130,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Armoured self-propelled mounting, models A, B, D and E, for the 7.5 cm assault gun",
+          "plain": "Armoured self-propelled carriage, models A, B, D and E, for the 7.5 cm assault gun",
           "runs": [
             {
-              "text": "Armoured self-propelled mounting, models A, B, D and E, for the 7.5 cm assault gun",
+              "text": "Armoured self-propelled carriage, models A, B, D and E, for the 7.5 cm assault gun",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Afuste autopropulsado blindado, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
+          "plain": "Lafeta autopropulsada blindada, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
           "runs": [
             {
-              "text": "Afuste autopropulsado blindado, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
+              "text": "Lafeta autopropulsada blindada, modelos A, B, D y E, para el cañón de asalto de 7,5 cm",
               "bold": false
             }
           ]

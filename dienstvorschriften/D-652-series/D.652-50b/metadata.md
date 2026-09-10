@@ -6,7 +6,9 @@
 - **Title (EN)**: Provisional repair instructions for the power train
 - **Title (ES)**: Instrucciones provisionales de reparación del tren de potencia
 - **Variant**: Panzerkampfwagen III Ausf. H–L; Panzerbefehlswagen Ausf. H–K; Gepanzerte Selbstfahrlafette / StuG Ausf. A, B, D, E (7,5 cm Kanone)
-- **Date**: 1943-03-01
+- **Date**: 1943-02-01 (title page reads "Vom 1. 2. 43"; the colophon on the
+  drawings index confirms "Berlin, den 1. 2. 43" — the source filename's
+  "1943-03-01" does not match the printed date)
 
 ## Provenance — original document
 
