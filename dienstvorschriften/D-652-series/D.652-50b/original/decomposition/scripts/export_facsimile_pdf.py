@@ -171,13 +171,23 @@ def render_translation_page(pdf, content, regular, bold, italic):
 
     for figure in content["figures"]:
         label = f"Fig. {figure['number']}"
+        # In this document the figure's own text lives in the page's
+        # paragraphs (referenced inline as "Bild N"/"Fig. N"); the caption
+        # itself is only ever the bare label ("Bild N"/"Fig. N"), unlike
+        # D.652-50c where captions carry the full instruction. Printing
+        # "[EN] Fig. N" / "[ES] Fig. N" under the already-shown bold label
+        # is pure noise with no translated content, so skip it here.
         per_lang_lines = {}
         block_lines = 1
         for lang in LANGUAGES:
             caption = figure["captions"][lang]["plain"] if figure["captions"].get(lang) else ""
+            if caption.strip() == label:
+                caption = ""
             lines = wrap_text(f"[{LANG_LABEL[lang]}] {caption}", regular, 9.5, width) if caption else []
             per_lang_lines[lang] = lines
             block_lines += len(lines)
+        if not any(per_lang_lines.values()):
+            continue
         needed = block_lines * 12 + 8
         if y - needed < BOTTOM_MARGIN:
             pdf.showPage()
