@@ -21,10 +21,14 @@
     "previous": "d65250b-page-098",
     "next": "d65250b-page-100"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p099-para01",
-      "text": {
+      "id": "d65250b-bild157",
+      "number": 157,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Schrauben der Geschützbefestigung entsichern und mit 41-SW-Maul- oder -Steckschlüssel herausschrauben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p099-para02",
-      "text": {
+      "id": "d65250b-bild158",
+      "number": 158,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Geschütz mit Seil und Hebevorrichtung herausheben.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Extraer el cañón con cuerda y dispositivo de elevación.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild157",
-      "number": 157,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 157",
-          "runs": [
-            {
-              "text": "Bild 157",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 157",
-          "runs": [
-            {
-              "text": "Fig. 157",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 157",
-          "runs": [
-            {
-              "text": "Fig. 157",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild158",
-      "number": 158,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 158",
-          "runs": [
-            {
-              "text": "Bild 158",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 158",
-          "runs": [
-            {
-              "text": "Fig. 158",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 158",
-          "runs": [
-            {
-              "text": "Fig. 158",
               "bold": false
             }
           ]

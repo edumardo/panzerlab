@@ -21,136 +21,7 @@
     "previous": "d65250b-page-086",
     "next": "d65250b-page-088"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p087-para01",
-      "text": {
-        "de": {
-          "plain": "Kupplungsfußhebel durchtreten.",
-          "runs": [
-            {
-              "text": "Kupplungsfußhebel durchtreten.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Depress the clutch pedal fully.",
-          "runs": [
-            {
-              "text": "Depress the clutch pedal fully.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Pisar a fondo el pedal de embrague.",
-          "runs": [
-            {
-              "text": "Pisar a fondo el pedal de embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p087-para02",
-      "text": {
-        "de": {
-          "plain": "Mit Einstellschlüssel das Spiel der Kupplung einstellen.",
-          "runs": [
-            {
-              "text": "Mit Einstellschlüssel das Spiel der Kupplung einstellen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Adjust the clutch play using the adjusting spanner.",
-          "runs": [
-            {
-              "text": "Adjust the clutch play using the adjusting spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Ajustar el juego del embrague con la llave de ajuste.",
-          "runs": [
-            {
-              "text": "Ajustar el juego del embrague con la llave de ajuste.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p087-para03",
-      "text": {
-        "de": {
-          "plain": "Den Abstand von hinterer Kante des Ausrücklagers (1) bis inneren Gewindering (2) messen. Dieser muß 20 mm betragen.",
-          "runs": [
-            {
-              "text": "Den Abstand von hinterer Kante des Ausrücklagers (1) bis inneren Gewindering (2) messen. Dieser muß 20 mm betragen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Measure the distance from the rear edge of the release bearing (1) to the inner threaded ring (2). This must be 20 mm.",
-          "runs": [
-            {
-              "text": "Measure the distance from the rear edge of the release bearing (1) to the inner threaded ring (2). This must be 20 mm.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm.",
-          "runs": [
-            {
-              "text": "Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p087-para04",
-      "text": {
-        "de": {
-          "plain": "Nach eingestellter Kupplung müssen die Sicherungsfedern in die Bohrungen des Einstellringes eingesprungen sein.",
-          "runs": [
-            {
-              "text": "Nach eingestellter Kupplung müssen die Sicherungsfedern in die Bohrungen des Einstellringes eingesprungen sein.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Once the clutch has been adjusted, the locking springs must have snapped into the holes of the adjusting ring.",
-          "runs": [
-            {
-              "text": "Once the clutch has been adjusted, the locking springs must have snapped into the holes of the adjusting ring.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
-          "runs": [
-            {
-              "text": "Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild140",
@@ -159,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 140",
+          "plain": "Kupplungsfußhebel durchtreten. Mit Einstellschlüssel das Spiel der Kupplung einstellen. Den Abstand von hinterer Kante des Ausrücklagers (1) bis inneren Gewindering (2) messen. Dieser muß 20 mm betragen. Nach eingestellter Kupplung müssen die Sicherungsfedern in die Bohrungen des Einstellringes eingesprungen sein.",
           "runs": [
             {
-              "text": "Bild 140",
+              "text": "Kupplungsfußhebel durchtreten. Mit Einstellschlüssel das Spiel der Kupplung einstellen. Den Abstand von hinterer Kante des Ausrücklagers (1) bis inneren Gewindering (2) messen. Dieser muß 20 mm betragen. Nach eingestellter Kupplung müssen die Sicherungsfedern in die Bohrungen des Einstellringes eingesprungen sein.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 140",
+          "plain": "Depress the clutch pedal fully. Adjust the clutch play using the adjusting spanner. Measure the distance from the rear edge of the release bearing (1) to the inner threaded ring (2). This must be 20 mm. Once the clutch has been adjusted, the locking springs must have snapped into the holes of the adjusting ring.",
           "runs": [
             {
-              "text": "Fig. 140",
+              "text": "Depress the clutch pedal fully. Adjust the clutch play using the adjusting spanner. Measure the distance from the rear edge of the release bearing (1) to the inner threaded ring (2). This must be 20 mm. Once the clutch has been adjusted, the locking springs must have snapped into the holes of the adjusting ring.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 140",
+          "plain": "Pisar a fondo el pedal de embrague. Ajustar el juego del embrague con la llave de ajuste. Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm. Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
           "runs": [
             {
-              "text": "Fig. 140",
+              "text": "Pisar a fondo el pedal de embrague. Ajustar el juego del embrague con la llave de ajuste. Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm. Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
               "bold": false
             }
           ]

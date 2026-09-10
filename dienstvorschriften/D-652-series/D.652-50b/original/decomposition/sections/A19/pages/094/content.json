@@ -21,168 +21,7 @@
     "previous": "d65250b-page-093",
     "next": "d65250b-page-095"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p094-para01",
-      "text": {
-        "de": {
-          "plain": "In die Flansche für die Gelenkwellen zu beiden Seiten des Lenkgetriebes je eine Schraube stecken, Bild 152.",
-          "runs": [
-            {
-              "text": "In die Flansche für die Gelenkwellen zu beiden Seiten des Lenkgetriebes je eine Schraube stecken, Bild 152.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Insert a bolt into the flanges for the cardan shafts on each side of the steering gear, Fig. 152.",
-          "runs": [
-            {
-              "text": "Insert a bolt into the flanges for the cardan shafts on each side of the steering gear, Fig. 152.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir un tornillo en cada una de las bridas para los árboles de transmisión a ambos lados del mecanismo de dirección, Fig. 152.",
-          "runs": [
-            {
-              "text": "Introducir un tornillo en cada una de las bridas para los árboles de transmisión a ambos lados del mecanismo de dirección, Fig. 152.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p094-para02",
-      "text": {
-        "de": {
-          "plain": "Durch die beiden vorderen Klappen je ein Drahtseil einführen und das Wechselgetriebe an den Schrauben aufhängen.",
-          "runs": [
-            {
-              "text": "Durch die beiden vorderen Klappen je ein Drahtseil einführen und das Wechselgetriebe an den Schrauben aufhängen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Feed a wire rope through each of the two front hatches and suspend the gearbox from the bolts.",
-          "runs": [
-            {
-              "text": "Feed a wire rope through each of the two front hatches and suspend the gearbox from the bolts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir un cable de acero por cada una de las dos escotillas delanteras y suspender la caja de cambios de los tornillos.",
-          "runs": [
-            {
-              "text": "Introducir un cable de acero por cada una de las dos escotillas delanteras y suspender la caja de cambios de los tornillos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p094-para03",
-      "text": {
-        "de": {
-          "plain": "Ein Drahtseil so um den Bund des Lüfters an der Hinterseite des Wechselgetriebes hängen, daß das Getriebe hinten etwas höher hängt.",
-          "runs": [
-            {
-              "text": "Ein Drahtseil so um den Bund des Lüfters an der Hinterseite des Wechselgetriebes hängen, daß das Getriebe hinten etwas höher hängt.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Hang a wire rope around the collar of the fan on the rear of the gearbox so that the gearbox hangs slightly higher at the rear.",
-          "runs": [
-            {
-              "text": "Hang a wire rope around the collar of the fan on the rear of the gearbox so that the gearbox hangs slightly higher at the rear.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colgar un cable de acero alrededor del collar del ventilador en la parte trasera de la caja de cambios, de modo que ésta quede algo más alta por detrás.",
-          "runs": [
-            {
-              "text": "Colgar un cable de acero alrededor del collar del ventilador en la parte trasera de la caja de cambios, de modo que ésta quede algo más alta por detrás.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p094-para04",
-      "text": {
-        "de": {
-          "plain": "Das Wechselgetriebe mit Hebevorrichtung möglichst weit in die Mitte des Kampfraumes heben.",
-          "runs": [
-            {
-              "text": "Das Wechselgetriebe mit Hebevorrichtung möglichst weit in die Mitte des Kampfraumes heben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using the lifting gear, hoist the gearbox as far as possible into the centre of the fighting compartment.",
-          "runs": [
-            {
-              "text": "Using the lifting gear, hoist the gearbox as far as possible into the centre of the fighting compartment.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con el dispositivo de elevación, izar la caja de cambios lo más posible hacia el centro de la cámara de combate.",
-          "runs": [
-            {
-              "text": "Con el dispositivo de elevación, izar la caja de cambios lo más posible hacia el centro de la cámara de combate.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p094-para05",
-      "text": {
-        "de": {
-          "plain": "Die Drahtseile aus den Klappen herausführen und das Wechselgetriebe an den Drahtseilen unterhalb der Panzerplatte aufhängen.",
-          "runs": [
-            {
-              "text": "Die Drahtseile aus den Klappen herausführen und das Wechselgetriebe an den Drahtseilen unterhalb der Panzerplatte aufhängen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lead the wire ropes out through the hatches and suspend the gearbox from the wire ropes below the armour plate.",
-          "runs": [
-            {
-              "text": "Lead the wire ropes out through the hatches and suspend the gearbox from the wire ropes below the armour plate.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Sacar los cables de acero por las escotillas y suspender la caja de cambios de los cables de acero por debajo de la placa blindada.",
-          "runs": [
-            {
-              "text": "Sacar los cables de acero por las escotillas y suspender la caja de cambios de los cables de acero por debajo de la placa blindada.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild151",
@@ -191,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 151",
+          "plain": "In die Flansche für die Gelenkwellen zu beiden Seiten des Lenkgetriebes je eine Schraube stecken, Bild 152. Durch die beiden vorderen Klappen je ein Drahtseil einführen und das Wechselgetriebe an den Schrauben aufhängen. Ein Drahtseil so um den Bund des Lüfters an der Hinterseite des Wechselgetriebes hängen, daß das Getriebe hinten etwas höher hängt. Das Wechselgetriebe mit Hebevorrichtung möglichst weit in die Mitte des Kampfraumes heben. Die Drahtseile aus den Klappen herausführen und das Wechselgetriebe an den Drahtseilen unterhalb der Panzerplatte aufhängen.",
           "runs": [
             {
-              "text": "Bild 151",
+              "text": "In die Flansche für die Gelenkwellen zu beiden Seiten des Lenkgetriebes je eine Schraube stecken, Bild 152. Durch die beiden vorderen Klappen je ein Drahtseil einführen und das Wechselgetriebe an den Schrauben aufhängen. Ein Drahtseil so um den Bund des Lüfters an der Hinterseite des Wechselgetriebes hängen, daß das Getriebe hinten etwas höher hängt. Das Wechselgetriebe mit Hebevorrichtung möglichst weit in die Mitte des Kampfraumes heben. Die Drahtseile aus den Klappen herausführen und das Wechselgetriebe an den Drahtseilen unterhalb der Panzerplatte aufhängen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 151",
+          "plain": "Insert a bolt into the flanges for the cardan shafts on each side of the steering gear, Fig. 152. Feed a wire rope through each of the two front hatches and suspend the gearbox from the bolts. Hang a wire rope around the collar of the fan on the rear of the gearbox so that the gearbox hangs slightly higher at the rear. Using the lifting gear, hoist the gearbox as far as possible into the centre of the fighting compartment. Lead the wire ropes out through the hatches and suspend the gearbox from the wire ropes below the armour plate.",
           "runs": [
             {
-              "text": "Fig. 151",
+              "text": "Insert a bolt into the flanges for the cardan shafts on each side of the steering gear, Fig. 152. Feed a wire rope through each of the two front hatches and suspend the gearbox from the bolts. Hang a wire rope around the collar of the fan on the rear of the gearbox so that the gearbox hangs slightly higher at the rear. Using the lifting gear, hoist the gearbox as far as possible into the centre of the fighting compartment. Lead the wire ropes out through the hatches and suspend the gearbox from the wire ropes below the armour plate.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 151",
+          "plain": "Introducir un tornillo en cada una de las bridas para los árboles de transmisión a ambos lados del mecanismo de dirección, Fig. 152. Introducir un cable de acero por cada una de las dos escotillas delanteras y suspender la caja de cambios de los tornillos. Colgar un cable de acero alrededor del collar del ventilador en la parte trasera de la caja de cambios, de modo que ésta quede algo más alta por detrás. Con el dispositivo de elevación, izar la caja de cambios lo más posible hacia el centro de la cámara de combate. Sacar los cables de acero por las escotillas y suspender la caja de cambios de los cables de acero por debajo de la placa blindada.",
           "runs": [
             {
-              "text": "Fig. 151",
+              "text": "Introducir un tornillo en cada una de las bridas para los árboles de transmisión a ambos lados del mecanismo de dirección, Fig. 152. Introducir un cable de acero por cada una de las dos escotillas delanteras y suspender la caja de cambios de los tornillos. Colgar un cable de acero alrededor del collar del ventilador en la parte trasera de la caja de cambios, de modo que ésta quede algo más alta por detrás. Con el dispositivo de elevación, izar la caja de cambios lo más posible hacia el centro de la cámara de combate. Sacar los cables de acero por las escotillas y suspender la caja de cambios de los cables de acero por debajo de la placa blindada.",
               "bold": false
             }
           ]

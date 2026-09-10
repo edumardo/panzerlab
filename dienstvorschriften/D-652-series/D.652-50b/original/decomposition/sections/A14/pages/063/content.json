@@ -21,74 +21,54 @@
     "previous": "d65250b-page-062",
     "next": "d65250b-page-064"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p063-para01",
-      "text": {
+      "id": "d65250b-bild097",
+      "number": 97,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Mit 17-SW-Steckschlüssel die Halteschrauben des Kupplungsdeckels entsichern und ausschrauben.",
+          "plain": "Mit 17-SW-Steckschlüssel die Halteschrauben des Kupplungsdeckels entsichern und ausschrauben. Beachten: Die Schrauben bis zur Federentspannung gleichmäßig lösen.",
           "runs": [
             {
-              "text": "Mit 17-SW-Steckschlüssel die Halteschrauben des Kupplungsdeckels entsichern und ausschrauben.",
+              "text": "Mit 17-SW-Steckschlüssel die Halteschrauben des Kupplungsdeckels entsichern und ausschrauben. Beachten: Die Schrauben bis zur Federentspannung gleichmäßig lösen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the retaining screws of the clutch cover.",
+          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the retaining screws of the clutch cover. Note: Loosen the screws evenly until the springs are released.",
           "runs": [
             {
-              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the retaining screws of the clutch cover.",
+              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the retaining screws of the clutch cover. Note: Loosen the screws evenly until the springs are released.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de sujeción de la tapa del embrague.",
+          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de sujeción de la tapa del embrague. Atención: Aflojar los tornillos de manera uniforme hasta que los resortes queden sin tensión.",
           "runs": [
             {
-              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de sujeción de la tapa del embrague.",
+              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de sujeción de la tapa del embrague. Atención: Aflojar los tornillos de manera uniforme hasta que los resortes queden sin tensión.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p063-para02",
-      "text": {
-        "de": {
-          "plain": "Beachten: Die Schrauben bis zur Federentspannung gleichmäßig lösen.",
-          "runs": [
-            {
-              "text": "Beachten: Die Schrauben bis zur Federentspannung gleichmäßig lösen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: Loosen the screws evenly until the springs are released.",
-          "runs": [
-            {
-              "text": "Note: Loosen the screws evenly until the springs are released.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: Aflojar los tornillos de manera uniforme hasta que los resortes queden sin tensión.",
-          "runs": [
-            {
-              "text": "Atención: Aflojar los tornillos de manera uniforme hasta que los resortes queden sin tensión.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p063-para03",
-      "text": {
+      "id": "d65250b-bild098",
+      "number": 98,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Den Kupplungsdeckel mit der Kupplungsdruckplatte abheben.",
           "runs": [
@@ -112,83 +92,6 @@
           "runs": [
             {
               "text": "Levantar la tapa del embrague junto con el plato de presión del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild097",
-      "number": 97,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 97",
-          "runs": [
-            {
-              "text": "Bild 97",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 97",
-          "runs": [
-            {
-              "text": "Fig. 97",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 97",
-          "runs": [
-            {
-              "text": "Fig. 97",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild098",
-      "number": 98,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 98",
-          "runs": [
-            {
-              "text": "Bild 98",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 98",
-          "runs": [
-            {
-              "text": "Fig. 98",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 98",
-          "runs": [
-            {
-              "text": "Fig. 98",
               "bold": false
             }
           ]

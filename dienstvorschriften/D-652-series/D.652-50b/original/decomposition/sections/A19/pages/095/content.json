@@ -26,134 +26,6 @@
       "id": "d65250b-p095-para01",
       "text": {
         "de": {
-          "plain": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen.",
-          "runs": [
-            {
-              "text": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Guide the front grippers of the removal fixture (drawing 6 and 7)¹) under the connecting tube of the steering gear.",
-          "runs": [
-            {
-              "text": "Guide the front grippers of the removal fixture (drawing 6 and 7)¹) under the connecting tube of the steering gear.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Guiar las garras delanteras del dispositivo de desmontaje (dibujo 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección.",
-          "runs": [
-            {
-              "text": "Guiar las garras delanteras del dispositivo de desmontaje (dibujo 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p095-para02",
-      "text": {
-        "de": {
-          "plain": "An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken.",
-          "runs": [
-            {
-              "text": "An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Insert the fixture hook into the hollow shaft on the rear side of the gearbox.",
-          "runs": [
-            {
-              "text": "Insert the fixture hook into the hollow shaft on the rear side of the gearbox.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios.",
-          "runs": [
-            {
-              "text": "Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p095-para03",
-      "text": {
-        "de": {
-          "plain": "Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt.",
-          "runs": [
-            {
-              "text": "Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a chain, suspend the gearbox from the hook and the fixture so that the rear end hangs slightly higher.",
-          "runs": [
-            {
-              "text": "Using a chain, suspend the gearbox from the hook and the fixture so that the rear end hangs slightly higher.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto.",
-          "runs": [
-            {
-              "text": "Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p095-para04",
-      "text": {
-        "de": {
-          "plain": "Das Getriebe ausheben.",
-          "runs": [
-            {
-              "text": "Das Getriebe ausheben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lift the gearbox out.",
-          "runs": [
-            {
-              "text": "Lift the gearbox out.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Izar la caja de cambios para extraerla.",
-          "runs": [
-            {
-              "text": "Izar la caja de cambios para extraerla.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p095-para05",
-      "text": {
-        "de": {
           "plain": "¹) Siehe im Anhang.",
           "runs": [
             {
@@ -191,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 152",
+          "plain": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen. An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken. Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt. Das Getriebe ausheben.",
           "runs": [
             {
-              "text": "Bild 152",
+              "text": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen. An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken. Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt. Das Getriebe ausheben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 152",
+          "plain": "Guide the front grippers of the removal fixture (drawing 6 and 7)¹) under the connecting tube of the steering gear. Insert the fixture hook into the hollow shaft on the rear side of the gearbox. Using a chain, suspend the gearbox from the hook and the fixture so that the rear end hangs slightly higher. Lift the gearbox out.",
           "runs": [
             {
-              "text": "Fig. 152",
+              "text": "Guide the front grippers of the removal fixture (drawing 6 and 7)¹) under the connecting tube of the steering gear. Insert the fixture hook into the hollow shaft on the rear side of the gearbox. Using a chain, suspend the gearbox from the hook and the fixture so that the rear end hangs slightly higher. Lift the gearbox out.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 152",
+          "plain": "Guiar las garras delanteras del dispositivo de desmontaje (dibujo 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
           "runs": [
             {
-              "text": "Fig. 152",
+              "text": "Guiar las garras delanteras del dispositivo de desmontaje (dibujo 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
               "bold": false
             }
           ]

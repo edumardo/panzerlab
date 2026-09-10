@@ -21,10 +21,14 @@
     "previous": "d65250b-page-091",
     "next": "d65250b-page-093"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p092-para01",
-      "text": {
+      "id": "d65250b-bild147",
+      "number": 147,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit 22-SW-Maulschlüssel die Anschlußschrauben der hydraulischen Rohrleitungen an dem linken Lenkstock abschrauben.",
           "runs": [
@@ -52,139 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p092-para02",
-      "text": {
-        "de": {
-          "plain": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
-          "runs": [
-            {
-              "text": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the split pins out of the castellated nuts of the steering column mounting bolts.",
-          "runs": [
-            {
-              "text": "Pull the split pins out of the castellated nuts of the steering column mounting bolts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección.",
-          "runs": [
-            {
-              "text": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p092-para03",
-      "text": {
-        "de": {
-          "plain": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
-          "runs": [
-            {
-              "text": "Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column.",
-          "runs": [
-            {
-              "text": "Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección.",
-          "runs": [
-            {
-              "text": "Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p092-para04",
-      "text": {
-        "de": {
-          "plain": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
-          "runs": [
-            {
-              "text": "Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "On the mechanical steering actuation, remove only the linkage to the support brake.",
-          "runs": [
-            {
-              "text": "On the mechanical steering actuation, remove only the linkage to the support brake.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo.",
-          "runs": [
-            {
-              "text": "En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild147",
-      "number": 147,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 147",
-          "runs": [
-            {
-              "text": "Bild 147",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 147",
-          "runs": [
-            {
-              "text": "Fig. 147",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 147",
-          "runs": [
-            {
-              "text": "Fig. 147",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -199,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 148",
+          "plain": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen. Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben. Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
           "runs": [
             {
-              "text": "Bild 148",
+              "text": "Splinte aus den Kronenmuttern der Lenkstockbefestigungsschrauben ziehen. Die Muttern mit 19-SW-Maulschlüssel abschrauben und den Lenkstock abheben. Bei der mechanischen Lenkbetätigung nur die Gestänge zur Stützbremse abnehmen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 148",
+          "plain": "Pull the split pins out of the castellated nuts of the steering column mounting bolts. Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column. On the mechanical steering actuation, remove only the linkage to the support brake.",
           "runs": [
             {
-              "text": "Fig. 148",
+              "text": "Pull the split pins out of the castellated nuts of the steering column mounting bolts. Unscrew the nuts with a 19 mm open-end spanner and lift off the steering column. On the mechanical steering actuation, remove only the linkage to the support brake.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 148",
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección. Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección. En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo.",
           "runs": [
             {
-              "text": "Fig. 148",
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas de los tornillos de fijación de la columna de dirección. Desenroscar las tuercas con una llave de boca de 19 mm y levantar la columna de dirección. En el accionamiento de dirección mecánico, retirar únicamente el varillaje hacia el freno de apoyo.",
               "bold": false
             }
           ]

@@ -21,106 +21,54 @@
     "previous": "d65250b-page-079",
     "next": "d65250b-page-081"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p080-para01",
-      "text": {
+      "id": "d65250b-bild128",
+      "number": 128,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern.",
+          "plain": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern. Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben. Die Schrauben durch Umbiegen der Blechsicherung sichern.",
           "runs": [
             {
-              "text": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern.",
+              "text": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern. Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben. Die Schrauben durch Umbiegen der Blechsicherung sichern.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Secure the square-head screws of the flywheel fixing with wire.",
+          "plain": "Secure the square-head screws of the flywheel fixing with wire. Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel. Secure the screws by bending over the sheet-metal lock.",
           "runs": [
             {
-              "text": "Secure the square-head screws of the flywheel fixing with wire.",
+              "text": "Secure the square-head screws of the flywheel fixing with wire. Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel. Secure the screws by bending over the sheet-metal lock.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante.",
+          "plain": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante. Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante. Asegurar los tornillos doblando la chapa de seguridad.",
           "runs": [
             {
-              "text": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante.",
+              "text": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante. Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante. Asegurar los tornillos doblando la chapa de seguridad.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p080-para02",
-      "text": {
-        "de": {
-          "plain": "Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben.",
-          "runs": [
-            {
-              "text": "Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel.",
-          "runs": [
-            {
-              "text": "Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante.",
-          "runs": [
-            {
-              "text": "Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p080-para03",
-      "text": {
-        "de": {
-          "plain": "Die Schrauben durch Umbiegen der Blechsicherung sichern.",
-          "runs": [
-            {
-              "text": "Die Schrauben durch Umbiegen der Blechsicherung sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the screws by bending over the sheet-metal lock.",
-          "runs": [
-            {
-              "text": "Secure the screws by bending over the sheet-metal lock.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar los tornillos doblando la chapa de seguridad.",
-          "runs": [
-            {
-              "text": "Asegurar los tornillos doblando la chapa de seguridad.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p080-para04",
-      "text": {
+      "id": "d65250b-bild129",
+      "number": 129,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Federspannung der Führungshebel an den Kupplungstreibscheiben prüfen.",
           "runs": [
@@ -144,83 +92,6 @@
           "runs": [
             {
               "text": "Comprobar la tensión de los resortes de las palancas guía en los discos motrices del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild128",
-      "number": 128,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 128",
-          "runs": [
-            {
-              "text": "Bild 128",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 128",
-          "runs": [
-            {
-              "text": "Fig. 128",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 128",
-          "runs": [
-            {
-              "text": "Fig. 128",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild129",
-      "number": 129,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 129",
-          "runs": [
-            {
-              "text": "Bild 129",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 129",
-          "runs": [
-            {
-              "text": "Fig. 129",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 129",
-          "runs": [
-            {
-              "text": "Fig. 129",
               "bold": false
             }
           ]

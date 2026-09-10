@@ -26,166 +26,6 @@
       "id": "d65250b-p010-para01",
       "text": {
         "de": {
-          "plain": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
-          "runs": [
-            {
-              "text": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum.",
-          "runs": [
-            {
-              "text": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno.",
-          "runs": [
-            {
-              "text": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p010-para02",
-      "text": {
-        "de": {
-          "plain": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
-          "runs": [
-            {
-              "text": "Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3.",
-          "runs": [
-            {
-              "text": "Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3.",
-          "runs": [
-            {
-              "text": "Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p010-para03",
-      "text": {
-        "de": {
-          "plain": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
-          "runs": [
-            {
-              "text": "Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum.",
-          "runs": [
-            {
-              "text": "Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este.",
-          "runs": [
-            {
-              "text": "Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p010-para04",
-      "text": {
-        "de": {
-          "plain": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
-          "runs": [
-            {
-              "text": "Gelenkwelle an der Lenkgetriebeseite verschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Bolt the cardan shaft on the steering-gear side.",
-          "runs": [
-            {
-              "text": "Bolt the cardan shaft on the steering-gear side.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atornillar el árbol de transmisión en el lado del mecanismo de dirección.",
-          "runs": [
-            {
-              "text": "Atornillar el árbol de transmisión en el lado del mecanismo de dirección.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p010-para05",
-      "text": {
-        "de": {
-          "plain": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
-          "runs": [
-            {
-              "text": "Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the castle nuts of the fitted bolts with split pins.",
-          "runs": [
-            {
-              "text": "Secure the castle nuts of the fitted bolts with split pins.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
-          "runs": [
-            {
-              "text": "Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p010-para06",
-      "text": {
-        "de": {
           "plain": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
           "runs": [
             {
@@ -223,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 9",
+          "plain": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel. Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3. Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt. Gelenkwelle an der Lenkgetriebeseite verschrauben. Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
           "runs": [
             {
-              "text": "Bild 9",
+              "text": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel. Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3. Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt. Gelenkwelle an der Lenkgetriebeseite verschrauben. Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 9",
+          "plain": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum. Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3. Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum. Bolt the cardan shaft on the steering-gear side. Secure the castle nuts of the fitted bolts with split pins.",
           "runs": [
             {
-              "text": "Fig. 9",
+              "text": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum. Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3. Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum. Bolt the cardan shaft on the steering-gear side. Secure the castle nuts of the fitted bolts with split pins.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 9",
+          "plain": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno. Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3. Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este. Atornillar el árbol de transmisión en el lado del mecanismo de dirección. Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
           "runs": [
             {
-              "text": "Fig. 9",
+              "text": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno. Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3. Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este. Atornillar el árbol de transmisión en el lado del mecanismo de dirección. Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
               "bold": false
             }
           ]

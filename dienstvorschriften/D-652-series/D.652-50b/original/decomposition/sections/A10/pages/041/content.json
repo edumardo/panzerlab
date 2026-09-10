@@ -21,10 +21,14 @@
     "previous": "d65250b-page-040",
     "next": "d65250b-page-042"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p041-para01",
-      "text": {
+      "id": "d65250b-bild060",
+      "number": 60,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Das Seitenvorgelege mit Triebrad durch gleichmäßiges Abdrücken mit zwei Brechstangen von der Panzerwanne entfernen.",
           "runs": [
@@ -48,43 +52,6 @@
           "runs": [
             {
               "text": "Separar del casco blindado el engranaje lateral final junto con la rueda motriz haciendo palanca de manera uniforme con dos palancas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild060",
-      "number": 60,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 60",
-          "runs": [
-            {
-              "text": "Bild 60",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 60",
-          "runs": [
-            {
-              "text": "Fig. 60",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 60",
-          "runs": [
-            {
-              "text": "Fig. 60",
               "bold": false
             }
           ]

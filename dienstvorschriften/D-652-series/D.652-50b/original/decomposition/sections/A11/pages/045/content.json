@@ -21,10 +21,14 @@
     "previous": "d65250b-page-044",
     "next": "d65250b-page-046"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p045-para01",
-      "text": {
+      "id": "d65250b-bild067",
+      "number": 67,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit 30-SW-Maulschlüssel die beiden Stehbolzen DB 92/1 auf die Gewinde des Stirnrades aufschrauben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p045-para02",
-      "text": {
+      "id": "d65250b-bild068",
+      "number": 68,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Spindel DB 92/6 mit der aufgeschraubten Mutter DB 92/4 in das Gewinde der Triebradwelle einschrauben.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Enroscar el husillo DB 92/6, con la tuerca DB 92/4 ya montada, en la rosca del eje de la rueda motriz.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild067",
-      "number": 67,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 67",
-          "runs": [
-            {
-              "text": "Bild 67",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 67",
-          "runs": [
-            {
-              "text": "Fig. 67",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 67",
-          "runs": [
-            {
-              "text": "Fig. 67",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild068",
-      "number": 68,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 68",
-          "runs": [
-            {
-              "text": "Bild 68",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 68",
-          "runs": [
-            {
-              "text": "Fig. 68",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 68",
-          "runs": [
-            {
-              "text": "Fig. 68",
               "bold": false
             }
           ]

@@ -21,10 +21,14 @@
     "previous": "d65250b-page-092",
     "next": "d65250b-page-094"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p093-para01",
-      "text": {
+      "id": "d65250b-bild149",
+      "number": 149,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Splinte herausziehen und mit zwei 17-SW-Maulschlüsseln die beiden hinteren Getriebebefestigungsschrauben abschrauben.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p093-para02",
-      "text": {
-        "de": {
-          "plain": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben.",
-          "runs": [
-            {
-              "text": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts.",
-          "runs": [
-            {
-              "text": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones.",
-          "runs": [
-            {
-              "text": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p093-para03",
-      "text": {
-        "de": {
-          "plain": "Schaltbrett vorne auf den Panzer legen.",
-          "runs": [
-            {
-              "text": "Schaltbrett vorne auf den Panzer legen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lay the instrument panel down at the front on the tank.",
-          "runs": [
-            {
-              "text": "Lay the instrument panel down at the front on the tank.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate.",
-          "runs": [
-            {
-              "text": "Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild149",
-      "number": 149,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 149",
-          "runs": [
-            {
-              "text": "Bild 149",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 149",
-          "runs": [
-            {
-              "text": "Fig. 149",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 149",
-          "runs": [
-            {
-              "text": "Fig. 149",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 150",
+          "plain": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben. Schaltbrett vorne auf den Panzer legen.",
           "runs": [
             {
-              "text": "Bild 150",
+              "text": "Am Getriebe die Befestigungsschellen der elektrischen Zuleitung zum Schaltbrett lösen. Überwurfmuttern der Geschwindigkeitsmesser- und Drehzahlmesserantriebswellen abschrauben. Schaltbrett vorne auf den Panzer legen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 150",
+          "plain": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts. Lay the instrument panel down at the front on the tank.",
           "runs": [
             {
-              "text": "Fig. 150",
+              "text": "Loosen the mounting clamps of the electrical lead to the instrument panel on the gearbox. Unscrew the union nuts of the speedometer and rev counter drive shafts. Lay the instrument panel down at the front on the tank.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 150",
+          "plain": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones. Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate.",
           "runs": [
             {
-              "text": "Fig. 150",
+              "text": "Aflojar en la caja de cambios las abrazaderas de fijación del cable eléctrico hacia el tablero de instrumentos. Desenroscar las tuercas de racor de los árboles de mando del velocímetro y del cuentarrevoluciones. Depositar el tablero de instrumentos en la parte delantera sobre el carro de combate.",
               "bold": false
             }
           ]

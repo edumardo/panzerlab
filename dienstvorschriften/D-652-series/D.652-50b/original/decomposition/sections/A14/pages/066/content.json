@@ -21,10 +21,14 @@
     "previous": "d65250b-page-065",
     "next": "d65250b-page-067"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p066-para01",
-      "text": {
+      "id": "d65250b-bild103",
+      "number": 103,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p066-para02",
-      "text": {
-        "de": {
-          "plain": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
-          "runs": [
-            {
-              "text": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws.",
-          "runs": [
-            {
-              "text": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante.",
-          "runs": [
-            {
-              "text": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p066-para03",
-      "text": {
-        "de": {
-          "plain": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
-          "runs": [
-            {
-              "text": "Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
-          "runs": [
-            {
-              "text": "Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
-          "runs": [
-            {
-              "text": "Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild103",
-      "number": 103,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 103",
-          "runs": [
-            {
-              "text": "Bild 103",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 103",
-          "runs": [
-            {
-              "text": "Fig. 103",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 103",
-          "runs": [
-            {
-              "text": "Fig. 103",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 104",
+          "plain": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben. Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
           "runs": [
             {
-              "text": "Bild 104",
+              "text": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben. Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 104",
+          "plain": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws. Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
           "runs": [
             {
-              "text": "Fig. 104",
+              "text": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws. Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 104",
+          "plain": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante. Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
           "runs": [
             {
-              "text": "Fig. 104",
+              "text": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante. Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
               "bold": false
             }
           ]

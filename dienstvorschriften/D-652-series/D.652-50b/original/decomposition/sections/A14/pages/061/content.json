@@ -21,10 +21,14 @@
     "previous": "d65250b-page-060",
     "next": "d65250b-page-062"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p061-para01",
-      "text": {
+      "id": "d65250b-bild093",
+      "number": 93,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau ausschrauben.",
           "runs": [
@@ -52,171 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p061-para02",
-      "text": {
-        "de": {
-          "plain": "Splinte aus den Kronenmuttern ziehen.",
-          "runs": [
-            {
-              "text": "Splinte aus den Kronenmuttern ziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the split pins out of the castle nuts.",
-          "runs": [
-            {
-              "text": "Pull the split pins out of the castle nuts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer los pasadores de aletas de las tuercas almenadas.",
-          "runs": [
-            {
-              "text": "Extraer los pasadores de aletas de las tuercas almenadas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p061-para03",
-      "text": {
-        "de": {
-          "plain": "Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben.",
-          "runs": [
-            {
-              "text": "Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1).",
-          "runs": [
-            {
-              "text": "Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1).",
-          "runs": [
-            {
-              "text": "Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p061-para04",
-      "text": {
-        "de": {
-          "plain": "Vergasergestänge (2) aus den Kugelgelenken drücken.",
-          "runs": [
-            {
-              "text": "Vergasergestänge (2) aus den Kugelgelenken drücken.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Press the carburettor linkage (2) out of the ball joints.",
-          "runs": [
-            {
-              "text": "Press the carburettor linkage (2) out of the ball joints.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Sacar el varillaje del carburador (2) de las rótulas.",
-          "runs": [
-            {
-              "text": "Sacar el varillaje del carburador (2) de las rótulas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p061-para05",
-      "text": {
-        "de": {
-          "plain": "Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
-          "runs": [
-            {
-              "text": "Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the connecting pin (3) out of the clutch linkage.",
-          "runs": [
-            {
-              "text": "Pull the connecting pin (3) out of the clutch linkage.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el pasador de unión (3) del varillaje del embrague.",
-          "runs": [
-            {
-              "text": "Extraer el pasador de unión (3) del varillaje del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild093",
-      "number": 93,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 93",
-          "runs": [
-            {
-              "text": "Bild 93",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 93",
-          "runs": [
-            {
-              "text": "Fig. 93",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 93",
-          "runs": [
-            {
-              "text": "Fig. 93",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -231,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 94",
+          "plain": "Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben. Vergasergestänge (2) aus den Kugelgelenken drücken. Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
           "runs": [
             {
-              "text": "Bild 94",
+              "text": "Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben. Vergasergestänge (2) aus den Kugelgelenken drücken. Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 94",
+          "plain": "Pull the split pins out of the castle nuts. Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1). Press the carburettor linkage (2) out of the ball joints. Pull the connecting pin (3) out of the clutch linkage.",
           "runs": [
             {
-              "text": "Fig. 94",
+              "text": "Pull the split pins out of the castle nuts. Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1). Press the carburettor linkage (2) out of the ball joints. Pull the connecting pin (3) out of the clutch linkage.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 94",
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1). Sacar el varillaje del carburador (2) de las rótulas. Extraer el pasador de unión (3) del varillaje del embrague.",
           "runs": [
             {
-              "text": "Fig. 94",
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1). Sacar el varillaje del carburador (2) de las rótulas. Extraer el pasador de unión (3) del varillaje del embrague.",
               "bold": false
             }
           ]

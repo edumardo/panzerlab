@@ -53,70 +53,6 @@
           ]
         }
       }
-    },
-    {
-      "id": "d65250b-p053-para02",
-      "text": {
-        "de": {
-          "plain": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht.",
-          "runs": [
-            {
-              "text": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Set the drive-wheel shaft on wooden supports so that it stands firm during fitting.",
-          "runs": [
-            {
-              "text": "Set the drive-wheel shaft on wooden supports so that it stands firm during fitting.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar el eje de la rueda motriz sobre calzos de madera de modo que quede firme durante el montaje.",
-          "runs": [
-            {
-              "text": "Colocar el eje de la rueda motriz sobre calzos de madera de modo que quede firme durante el montaje.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p053-para03",
-      "text": {
-        "de": {
-          "plain": "Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.",
-          "runs": [
-            {
-              "text": "Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lift the final drive unit and turn it until the splines of the spur gear and the drive-wheel shaft slide into one another.",
-          "runs": [
-            {
-              "text": "Lift the final drive unit and turn it until the splines of the spur gear and the drive-wheel shaft slide into one another.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Levantar el engranaje lateral final y girarlo hasta que las estrías de la rueda dentada cilíndrica y del eje de la rueda motriz encajen entre sí.",
-          "runs": [
-            {
-              "text": "Levantar el engranaje lateral final y girarlo hasta que las estrías de la rueda dentada cilíndrica y del eje de la rueda motriz encajen entre sí.",
-              "bold": false
-            }
-          ]
-        }
-      }
     }
   ],
   "figures": [
@@ -127,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 82",
+          "plain": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht. Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.",
           "runs": [
             {
-              "text": "Bild 82",
+              "text": "Die Triebradwelle so auf Holzunterlagen setzen, daß sie beim Einbau fest steht. Das Seitenvorgelege hochheben und so weit herumdrehen, bis die Nuten des Stirnrades und der Triebradwelle ineinander gleiten.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 82",
+          "plain": "Set the drive-wheel shaft on wooden supports so that it stands firm during fitting. Lift the final drive unit and turn it until the splines of the spur gear and the drive-wheel shaft slide into one another.",
           "runs": [
             {
-              "text": "Fig. 82",
+              "text": "Set the drive-wheel shaft on wooden supports so that it stands firm during fitting. Lift the final drive unit and turn it until the splines of the spur gear and the drive-wheel shaft slide into one another.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 82",
+          "plain": "Colocar el eje de la rueda motriz sobre calzos de madera de modo que quede firme durante el montaje. Levantar el engranaje lateral final y girarlo hasta que las estrías de la rueda dentada cilíndrica y del eje de la rueda motriz encajen entre sí.",
           "runs": [
             {
-              "text": "Fig. 82",
+              "text": "Colocar el eje de la rueda motriz sobre calzos de madera de modo que quede firme durante el montaje. Levantar el engranaje lateral final y girarlo hasta que las estrías de la rueda dentada cilíndrica y del eje de la rueda motriz encajen entre sí.",
               "bold": false
             }
           ]

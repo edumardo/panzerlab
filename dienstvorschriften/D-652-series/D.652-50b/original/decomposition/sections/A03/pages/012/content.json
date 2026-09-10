@@ -85,10 +85,15 @@
           ]
         }
       }
-    },
+    }
+  ],
+  "figures": [
     {
-      "id": "d65250b-p012-para03",
-      "text": {
+      "id": "d65250b-bild011",
+      "number": 11,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Muttern an der Wasserablaufrinne entsichern und mit 17-SW-Maulschlüssel herausschrauben.",
           "runs": [
@@ -112,43 +117,6 @@
           "runs": [
             {
               "text": "Liberar el seguro de las tuercas del canal de desagüe de agua y desenroscarlas con una llave fija de 17 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild011",
-      "number": 11,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 11",
-          "runs": [
-            {
-              "text": "Bild 11",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 11",
-          "runs": [
-            {
-              "text": "Fig. 11",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 11",
-          "runs": [
-            {
-              "text": "Fig. 11",
               "bold": false
             }
           ]

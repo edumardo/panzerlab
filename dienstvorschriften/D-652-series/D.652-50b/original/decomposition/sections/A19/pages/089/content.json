@@ -21,10 +21,14 @@
     "previous": "d65250b-page-088",
     "next": "d65250b-page-090"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p089-para01",
-      "text": {
+      "id": "d65250b-bild141",
+      "number": 141,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau schrauben.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p089-para02",
-      "text": {
-        "de": {
-          "plain": "Die Splinte aus den Kronenmuttern ziehen.",
-          "runs": [
-            {
-              "text": "Die Splinte aus den Kronenmuttern ziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the split pins out of the castellated nuts.",
-          "runs": [
-            {
-              "text": "Pull the split pins out of the castellated nuts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer los pasadores de aletas de las tuercas almenadas.",
-          "runs": [
-            {
-              "text": "Extraer los pasadores de aletas de las tuercas almenadas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p089-para03",
-      "text": {
-        "de": {
-          "plain": "Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
-          "runs": [
-            {
-              "text": "Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
-          "runs": [
-            {
-              "text": "Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague.",
-          "runs": [
-            {
-              "text": "Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild141",
-      "number": 141,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 141",
-          "runs": [
-            {
-              "text": "Bild 141",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 141",
-          "runs": [
-            {
-              "text": "Fig. 141",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 141",
-          "runs": [
-            {
-              "text": "Fig. 141",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 142",
+          "plain": "Die Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
           "runs": [
             {
-              "text": "Bild 142",
+              "text": "Die Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 142",
+          "plain": "Pull the split pins out of the castellated nuts. Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
           "runs": [
             {
-              "text": "Fig. 142",
+              "text": "Pull the split pins out of the castellated nuts. Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 142",
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague.",
           "runs": [
             {
-              "text": "Fig. 142",
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague.",
               "bold": false
             }
           ]

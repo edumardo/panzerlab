@@ -21,10 +21,14 @@
     "previous": "d65250b-page-016",
     "next": "d65250b-page-018"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p017-para01",
-      "text": {
+      "id": "d65250b-bild020",
+      "number": 20,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p017-para02",
-      "text": {
+      "id": "d65250b-bild021",
+      "number": 21,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Bremsbacken durch die Klappe ausheben.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Levantar las zapatas de freno a través de la trampilla.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild020",
-      "number": 20,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 20",
-          "runs": [
-            {
-              "text": "Bild 20",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 20",
-          "runs": [
-            {
-              "text": "Fig. 20",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 20",
-          "runs": [
-            {
-              "text": "Fig. 20",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild021",
-      "number": 21,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 21",
-          "runs": [
-            {
-              "text": "Bild 21",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 21",
-          "runs": [
-            {
-              "text": "Fig. 21",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 21",
-          "runs": [
-            {
-              "text": "Fig. 21",
               "bold": false
             }
           ]

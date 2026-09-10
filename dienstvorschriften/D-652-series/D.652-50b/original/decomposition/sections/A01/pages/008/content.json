@@ -21,136 +21,7 @@
     "previous": "d65250b-page-007",
     "next": "d65250b-page-009"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p008-para01",
-      "text": {
-        "de": {
-          "plain": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen.",
-          "runs": [
-            {
-              "text": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Straighten the sheet-metal lock of the three screws shown in the illustration.",
-          "runs": [
-            {
-              "text": "Straighten the sheet-metal lock of the three screws shown in the illustration.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura.",
-          "runs": [
-            {
-              "text": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p008-para02",
-      "text": {
-        "de": {
-          "plain": "Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
-          "runs": [
-            {
-              "text": "Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
-          "runs": [
-            {
-              "text": "Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
-          "runs": [
-            {
-              "text": "Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p008-para03",
-      "text": {
-        "de": {
-          "plain": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken.",
-          "runs": [
-            {
-              "text": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Push the flange shaft towards the steering gear using a crowbar.",
-          "runs": [
-            {
-              "text": "Push the flange shaft towards the steering gear using a crowbar.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca.",
-          "runs": [
-            {
-              "text": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p008-para04",
-      "text": {
-        "de": {
-          "plain": "Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
-          "runs": [
-            {
-              "text": "Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: Push the shaft fully across until it seats.",
-          "runs": [
-            {
-              "text": "Note: Push the shaft fully across until it seats.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
-          "runs": [
-            {
-              "text": "Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild006",
@@ -159,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 6",
+          "plain": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen. Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
           "runs": [
             {
-              "text": "Bild 6",
+              "text": "Blechsicherung der drei in Abbildung gezeigten Schrauben geradebiegen. Die drei entsicherten Schrauben mit 22-SW-Steck- oder Maulschlüssel herausschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 6",
+          "plain": "Straighten the sheet-metal lock of the three screws shown in the illustration. Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
           "runs": [
             {
-              "text": "Fig. 6",
+              "text": "Straighten the sheet-metal lock of the three screws shown in the illustration. Unscrew the three released screws using a 22 A/F socket or open-ended spanner.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 6",
+          "plain": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura. Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
           "runs": [
             {
-              "text": "Fig. 6",
+              "text": "Enderezar la chapa de seguridad de los tres tornillos mostrados en la figura. Desenroscar los tres tornillos ya liberados con una llave de vaso o llave fija de 22 mm de entrecaras.",
               "bold": false
             }
           ]
@@ -199,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 7",
+          "plain": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken. Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
           "runs": [
             {
-              "text": "Bild 7",
+              "text": "Die Flanschwelle mit Brechstange zum Lenkgetriebe drücken. Beachten: Welle vollständig bis zum Anliegen herüberdrücken.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 7",
+          "plain": "Push the flange shaft towards the steering gear using a crowbar. Note: Push the shaft fully across until it seats.",
           "runs": [
             {
-              "text": "Fig. 7",
+              "text": "Push the flange shaft towards the steering gear using a crowbar. Note: Push the shaft fully across until it seats.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 7",
+          "plain": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca. Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
           "runs": [
             {
-              "text": "Fig. 7",
+              "text": "Empujar el eje de brida hacia el mecanismo de dirección con una palanca. Atención: Empujar el eje completamente hacia el otro lado hasta que quede asentado.",
               "bold": false
             }
           ]

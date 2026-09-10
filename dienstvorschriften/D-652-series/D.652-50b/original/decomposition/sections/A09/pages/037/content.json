@@ -26,166 +26,6 @@
       "id": "d65250b-p037-para01",
       "text": {
         "de": {
-          "plain": "Das Seitenvorgelege mit Holz unterbauen.",
-          "runs": [
-            {
-              "text": "Das Seitenvorgelege mit Holz unterbauen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Support the final drive unit with wood blocks.",
-          "runs": [
-            {
-              "text": "Support the final drive unit with wood blocks.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Calzar el engranaje lateral final con tacos de madera.",
-          "runs": [
-            {
-              "text": "Calzar el engranaje lateral final con tacos de madera.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p037-para02",
-      "text": {
-        "de": {
-          "plain": "Das Seitenvorgelege mit Drahtseil am Kran aufhängen.",
-          "runs": [
-            {
-              "text": "Das Seitenvorgelege mit Drahtseil am Kran aufhängen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Sling the final drive unit from the crane with a wire rope.",
-          "runs": [
-            {
-              "text": "Sling the final drive unit from the crane with a wire rope.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Suspender el engranaje lateral final de la grúa con un cable de acero.",
-          "runs": [
-            {
-              "text": "Suspender el engranaje lateral final de la grúa con un cable de acero.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p037-para03",
-      "text": {
-        "de": {
-          "plain": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen.",
-          "runs": [
-            {
-              "text": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Straighten out the sheet-metal locks on the fixing bolts of the final drive unit.",
-          "runs": [
-            {
-              "text": "Straighten out the sheet-metal locks on the fixing bolts of the final drive unit.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final.",
-          "runs": [
-            {
-              "text": "Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p037-para04",
-      "text": {
-        "de": {
-          "plain": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
-          "runs": [
-            {
-              "text": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unscrew the unlocked nuts with a 22 mm across-flats ring spanner.",
-          "runs": [
-            {
-              "text": "Unscrew the unlocked nuts with a 22 mm across-flats ring spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras.",
-          "runs": [
-            {
-              "text": "Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p037-para05",
-      "text": {
-        "de": {
-          "plain": "Beachten: Die auf der Abbildung bezeichneten 3 Muttern nicht entfernen.",
-          "runs": [
-            {
-              "text": "Beachten: Die auf der Abbildung bezeichneten 3 Muttern nicht entfernen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: Do not remove the 3 nuts marked in the illustration.",
-          "runs": [
-            {
-              "text": "Note: Do not remove the 3 nuts marked in the illustration.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: no retirar las 3 tuercas señaladas en la ilustración.",
-          "runs": [
-            {
-              "text": "Atención: no retirar las 3 tuercas señaladas en la ilustración.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p037-para06",
-      "text": {
-        "de": {
           "plain": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
           "runs": [
             {
@@ -223,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 55",
+          "plain": "Das Seitenvorgelege mit Holz unterbauen. Das Seitenvorgelege mit Drahtseil am Kran aufhängen. Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen. Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben. Beachten: Die auf der Abbildung bezeichneten 3 Muttern nicht entfernen.",
           "runs": [
             {
-              "text": "Bild 55",
+              "text": "Das Seitenvorgelege mit Holz unterbauen. Das Seitenvorgelege mit Drahtseil am Kran aufhängen. Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen. Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben. Beachten: Die auf der Abbildung bezeichneten 3 Muttern nicht entfernen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 55",
+          "plain": "Support the final drive unit with wood blocks. Sling the final drive unit from the crane with a wire rope. Straighten out the sheet-metal locks on the fixing bolts of the final drive unit. Unscrew the unlocked nuts with a 22 mm across-flats ring spanner. Note: Do not remove the 3 nuts marked in the illustration.",
           "runs": [
             {
-              "text": "Fig. 55",
+              "text": "Support the final drive unit with wood blocks. Sling the final drive unit from the crane with a wire rope. Straighten out the sheet-metal locks on the fixing bolts of the final drive unit. Unscrew the unlocked nuts with a 22 mm across-flats ring spanner. Note: Do not remove the 3 nuts marked in the illustration.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 55",
+          "plain": "Calzar el engranaje lateral final con tacos de madera. Suspender el engranaje lateral final de la grúa con un cable de acero. Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final. Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras. Atención: no retirar las 3 tuercas señaladas en la ilustración.",
           "runs": [
             {
-              "text": "Fig. 55",
+              "text": "Calzar el engranaje lateral final con tacos de madera. Suspender el engranaje lateral final de la grúa con un cable de acero. Enderezar las chapas de seguridad de los tornillos de fijación del engranaje lateral final. Desenroscar las tuercas ya liberadas de seguro con una llave de estrella de 22 mm de entrecaras. Atención: no retirar las 3 tuercas señaladas en la ilustración.",
               "bold": false
             }
           ]

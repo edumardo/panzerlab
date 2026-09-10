@@ -21,10 +21,14 @@
     "previous": "d65250b-page-078",
     "next": "d65250b-page-080"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p079-para01",
-      "text": {
+      "id": "d65250b-bild126",
+      "number": 126,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit den acht Innensechskantschrauben die Kupplungsplatte an das Schwungrad schrauben. Die Innensechskantschrauben durch Verbohren und Verstiften in den Sechskanten sichern.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p079-para02",
-      "text": {
-        "de": {
-          "plain": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten.",
-          "runs": [
-            {
-              "text": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting.",
-          "runs": [
-            {
-              "text": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje.",
-          "runs": [
-            {
-              "text": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p079-para03",
-      "text": {
-        "de": {
-          "plain": "Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
-          "runs": [
-            {
-              "text": "Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
-          "runs": [
-            {
-              "text": "Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras.",
-          "runs": [
-            {
-              "text": "Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild126",
-      "number": 126,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 126",
-          "runs": [
-            {
-              "text": "Bild 126",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 126",
-          "runs": [
-            {
-              "text": "Fig. 126",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 126",
-          "runs": [
-            {
-              "text": "Fig. 126",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 127",
+          "plain": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten. Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
           "runs": [
             {
-              "text": "Bild 127",
+              "text": "Das Pendelkugellager vor dem Einbau mit Heißlager- oder Abschmierfett einfetten. Den Lagerdeckel mit dem hinteren Pendelkugellager an das Schwungrad bringen und mit 10-SW-Steckschlüssel die sechs Schrauben einschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 127",
+          "plain": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting. Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
           "runs": [
             {
-              "text": "Fig. 127",
+              "text": "Grease the self-aligning ball bearing with hot-bearing grease or lubricating grease before fitting. Fit the bearing cover with the rear self-aligning ball bearing to the flywheel and screw in the six screws with a 10 mm A/F socket spanner.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 127",
+          "plain": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje. Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras.",
           "runs": [
             {
-              "text": "Fig. 127",
+              "text": "Engrasar el rodamiento oscilante de bolas con grasa para cojinetes calientes o grasa lubricante antes del montaje. Colocar la tapa de cojinete con el rodamiento oscilante de bolas trasero en el volante y atornillar los seis tornillos con una llave de vaso de 10 mm de entrecaras.",
               "bold": false
             }
           ]

@@ -117,10 +117,15 @@
           ]
         }
       }
-    },
+    }
+  ],
+  "figures": [
     {
-      "id": "d65250b-p036-para04",
-      "text": {
+      "id": "d65250b-bild054",
+      "number": 54,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Ölablaßschrauben mit 28-SW-Maulschlüssel ausschrauben und Öl ablassen.",
           "runs": [
@@ -144,43 +149,6 @@
           "runs": [
             {
               "text": "Desenroscar los tapones de vaciado de aceite con una llave fija de 28 mm de entrecaras y vaciar el aceite.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild054",
-      "number": 54,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 54",
-          "runs": [
-            {
-              "text": "Bild 54",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 54",
-          "runs": [
-            {
-              "text": "Fig. 54",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 54",
-          "runs": [
-            {
-              "text": "Fig. 54",
               "bold": false
             }
           ]

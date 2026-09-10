@@ -21,10 +21,14 @@
     "previous": "d65250b-page-026",
     "next": "d65250b-page-028"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p027-para01",
-      "text": {
+      "id": "d65250b-bild037",
+      "number": 37,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Bremsbacke in den Schraubstock spannen. Mit Hammer und Meißel die Nietköpfe innerhalb der Bremsbacke abschlagen. Mit Hammer und Durchschlag die Nieten herausschlagen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p027-para02",
-      "text": {
+      "id": "d65250b-bild038",
+      "number": 38,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Einen Durchschlag mit dem Durchmesser eines Nietkopfes in den Schraubstock spannen. Neuen Bremsbelag auflegen und ihn von der Mitte aus anfangend nach außen festnieten. Nietkopf auf dem eingespannten Durchschlag aufliegen lassen und den Niet mit einem zweiten Durchschlag vernieten.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Sujetar en el tornillo de banco un botador con el diámetro de una cabeza de remache. Colocar el nuevo forro de freno y remacharlo comenzando desde el centro hacia fuera. Dejar que la cabeza del remache repose sobre el botador sujeto y remachar el remache con un segundo botador.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild037",
-      "number": 37,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 37",
-          "runs": [
-            {
-              "text": "Bild 37",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 37",
-          "runs": [
-            {
-              "text": "Fig. 37",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 37",
-          "runs": [
-            {
-              "text": "Fig. 37",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild038",
-      "number": 38,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 38",
-          "runs": [
-            {
-              "text": "Bild 38",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 38",
-          "runs": [
-            {
-              "text": "Fig. 38",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 38",
-          "runs": [
-            {
-              "text": "Fig. 38",
               "bold": false
             }
           ]

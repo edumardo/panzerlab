@@ -26,38 +26,6 @@
       "id": "d65250b-p035-para01",
       "text": {
         "de": {
-          "plain": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.",
-          "runs": [
-            {
-              "text": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the adjusting device together with the brake shoes into the mounting. Put the washer onto the threaded stud and, using a 14 mm open-ended spanner, tighten the adjusting device.",
-          "runs": [
-            {
-              "text": "Place the adjusting device together with the brake shoes into the mounting. Put the washer onto the threaded stud and, using a 14 mm open-ended spanner, tighten the adjusting device.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar el dispositivo de reajuste junto con las zapatas de freno en el soporte. Poner la arandela sobre el espárrago roscado y, con una llave fija de 14 mm, apretar el dispositivo de reajuste.",
-          "runs": [
-            {
-              "text": "Colocar el dispositivo de reajuste junto con las zapatas de freno en el soporte. Poner la arandela sobre el espárrago roscado y, con una llave fija de 14 mm, apretar el dispositivo de reajuste.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p035-para02",
-      "text": {
-        "de": {
           "plain": "Mit Federzange oder spitzem Dorn die stärkere Feder in die obere und die schwächere Feder in die untere Bremsbacke einhängen, Bild 49.",
           "runs": [
             {
@@ -87,7 +55,7 @@
       }
     },
     {
-      "id": "d65250b-p035-para03",
+      "id": "d65250b-p035-para02",
       "text": {
         "de": {
           "plain": "Die seitlichen Haltefedern der Bremsbacken einsetzen, Bild 48.",
@@ -119,7 +87,7 @@
       }
     },
     {
-      "id": "d65250b-p035-para04",
+      "id": "d65250b-p035-para03",
       "text": {
         "de": {
           "plain": "Stützbremstrommel über die Bremsbacken schieben. Sicherungsring über die Zylinderstifte schieben und den Sicherungsring so weit herumdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen, Bild 30.",
@@ -151,7 +119,7 @@
       }
     },
     {
-      "id": "d65250b-p035-para05",
+      "id": "d65250b-p035-para04",
       "text": {
         "de": {
           "plain": "Stützbremstrommel mit den Lochschrauben verschrauben, Bild 30.",
@@ -183,7 +151,7 @@
       }
     },
     {
-      "id": "d65250b-p035-para06",
+      "id": "d65250b-p035-para05",
       "text": {
         "de": {
           "plain": "Lochschrauben und den Bundstopfen durch Draht sichern, Bild 46.",
@@ -215,7 +183,7 @@
       }
     },
     {
-      "id": "d65250b-p035-para07",
+      "id": "d65250b-p035-para06",
       "text": {
         "de": {
           "plain": "Stützbremse nach Einstellanweisung einstellen.",
@@ -255,28 +223,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 53",
+          "plain": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.",
           "runs": [
             {
-              "text": "Bild 53",
+              "text": "Nachstellvorrichtung mit Bremsbacken in die Halterung setzen. Scheibe auf den Gewindezapfen legen und mit 14-SW-Maulschlüssel die Nachstellvorrichtung festschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 53",
+          "plain": "Place the adjusting device together with the brake shoes into the mounting. Put the washer onto the threaded stud and, using a 14 mm open-ended spanner, tighten the adjusting device.",
           "runs": [
             {
-              "text": "Fig. 53",
+              "text": "Place the adjusting device together with the brake shoes into the mounting. Put the washer onto the threaded stud and, using a 14 mm open-ended spanner, tighten the adjusting device.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 53",
+          "plain": "Colocar el dispositivo de reajuste junto con las zapatas de freno en el soporte. Poner la arandela sobre el espárrago roscado y, con una llave fija de 14 mm, apretar el dispositivo de reajuste.",
           "runs": [
             {
-              "text": "Fig. 53",
+              "text": "Colocar el dispositivo de reajuste junto con las zapatas de freno en el soporte. Poner la arandela sobre el espárrago roscado y, con una llave fija de 14 mm, apretar el dispositivo de reajuste.",
               "bold": false
             }
           ]

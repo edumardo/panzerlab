@@ -21,106 +21,54 @@
     "previous": "d65250b-page-051",
     "next": "d65250b-page-053"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p052-para01",
-      "text": {
+      "id": "d65250b-bild080",
+      "number": 80,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Abstandsring auf das obere Rollenlager legen.",
+          "plain": "Abstandsring auf das obere Rollenlager legen. Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben. Lochschrauben durch Draht sichern.",
           "runs": [
             {
-              "text": "Abstandsring auf das obere Rollenlager legen.",
+              "text": "Abstandsring auf das obere Rollenlager legen. Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben. Lochschrauben durch Draht sichern.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Place the spacer ring on the upper roller bearing.",
+          "plain": "Place the spacer ring on the upper roller bearing. Bolt the bearing flange and hub together using the 8 hollow screws. Secure the hollow screws with wire.",
           "runs": [
             {
-              "text": "Place the spacer ring on the upper roller bearing.",
+              "text": "Place the spacer ring on the upper roller bearing. Bolt the bearing flange and hub together using the 8 hollow screws. Secure the hollow screws with wire.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Colocar el anillo distanciador sobre el cojinete de rodillos superior.",
+          "plain": "Colocar el anillo distanciador sobre el cojinete de rodillos superior. Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos. Asegurar los tornillos huecos con alambre.",
           "runs": [
             {
-              "text": "Colocar el anillo distanciador sobre el cojinete de rodillos superior.",
+              "text": "Colocar el anillo distanciador sobre el cojinete de rodillos superior. Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos. Asegurar los tornillos huecos con alambre.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p052-para02",
-      "text": {
-        "de": {
-          "plain": "Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben.",
-          "runs": [
-            {
-              "text": "Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Bolt the bearing flange and hub together using the 8 hollow screws.",
-          "runs": [
-            {
-              "text": "Bolt the bearing flange and hub together using the 8 hollow screws.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos.",
-          "runs": [
-            {
-              "text": "Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p052-para03",
-      "text": {
-        "de": {
-          "plain": "Lochschrauben durch Draht sichern.",
-          "runs": [
-            {
-              "text": "Lochschrauben durch Draht sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the hollow screws with wire.",
-          "runs": [
-            {
-              "text": "Secure the hollow screws with wire.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar los tornillos huecos con alambre.",
-          "runs": [
-            {
-              "text": "Asegurar los tornillos huecos con alambre.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p052-para04",
-      "text": {
+      "id": "d65250b-bild081",
+      "number": 81,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.",
           "runs": [
@@ -144,83 +92,6 @@
           "runs": [
             {
               "text": "Colocar el anillo de apoyo de los rodillos, con el lado rebajado, sobre los rodillos del cojinete de rodillos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild080",
-      "number": 80,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 80",
-          "runs": [
-            {
-              "text": "Bild 80",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 80",
-          "runs": [
-            {
-              "text": "Fig. 80",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 80",
-          "runs": [
-            {
-              "text": "Fig. 80",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild081",
-      "number": 81,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 81",
-          "runs": [
-            {
-              "text": "Bild 81",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 81",
-          "runs": [
-            {
-              "text": "Fig. 81",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 81",
-          "runs": [
-            {
-              "text": "Fig. 81",
               "bold": false
             }
           ]

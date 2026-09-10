@@ -26,166 +26,6 @@
       "id": "d65250b-p060-para01",
       "text": {
         "de": {
-          "plain": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben.",
-          "runs": [
-            {
-              "text": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft.",
-          "runs": [
-            {
-              "text": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón.",
-          "runs": [
-            {
-              "text": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p060-para02",
-      "text": {
-        "de": {
-          "plain": "Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben.",
-          "runs": [
-            {
-              "text": "Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece.",
-          "runs": [
-            {
-              "text": "Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia.",
-          "runs": [
-            {
-              "text": "Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p060-para03",
-      "text": {
-        "de": {
-          "plain": "Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen.",
-          "runs": [
-            {
-              "text": "Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the washer (Drawing 5)¹) into the recess of the brake-drum hub.",
-          "runs": [
-            {
-              "text": "Place the washer (Drawing 5)¹) into the recess of the brake-drum hub.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno.",
-          "runs": [
-            {
-              "text": "Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p060-para04",
-      "text": {
-        "de": {
-          "plain": "Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
-          "runs": [
-            {
-              "text": "Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Guide the bell III DB 101 over the spindle and fit the nut.",
-          "runs": [
-            {
-              "text": "Guide the bell III DB 101 over the spindle and fit the nut.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
-          "runs": [
-            {
-              "text": "Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p060-para05",
-      "text": {
-        "de": {
-          "plain": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
-          "runs": [
-            {
-              "text": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
-          "runs": [
-            {
-              "text": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10.",
-          "runs": [
-            {
-              "text": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p060-para06",
-      "text": {
-        "de": {
           "plain": "¹) Siehe im Anhang.",
           "runs": [
             {
@@ -223,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 91",
+          "plain": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben. Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben. Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen. Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
           "runs": [
             {
-              "text": "Bild 91",
+              "text": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben. Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben. Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen. Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 91",
+          "plain": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft. Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece. Place the washer (Drawing 5)¹) into the recess of the brake-drum hub. Guide the bell III DB 101 over the spindle and fit the nut.",
           "runs": [
             {
-              "text": "Fig. 91",
+              "text": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft. Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece. Place the washer (Drawing 5)¹) into the recess of the brake-drum hub. Guide the bell III DB 101 over the spindle and fit the nut.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 91",
+          "plain": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
           "runs": [
             {
-              "text": "Fig. 91",
+              "text": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
               "bold": false
             }
           ]
@@ -263,28 +103,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 92",
+          "plain": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
           "runs": [
             {
-              "text": "Bild 92",
+              "text": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 92",
+          "plain": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
           "runs": [
             {
-              "text": "Fig. 92",
+              "text": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 92",
+          "plain": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10.",
           "runs": [
             {
-              "text": "Fig. 92",
+              "text": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10.",
               "bold": false
             }
           ]

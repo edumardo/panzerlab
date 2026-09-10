@@ -117,70 +117,6 @@
           ]
         }
       }
-    },
-    {
-      "id": "d65250b-p078-para04",
-      "text": {
-        "de": {
-          "plain": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben.",
-          "runs": [
-            {
-              "text": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Bolt the flywheel to the crankshaft with the twelve square-head screws.",
-          "runs": [
-            {
-              "text": "Bolt the flywheel to the crankshaft with the twelve square-head screws.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada.",
-          "runs": [
-            {
-              "text": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p078-para05",
-      "text": {
-        "de": {
-          "plain": "Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
-          "runs": [
-            {
-              "text": "Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Observe the centre-punch marks made during removal.",
-          "runs": [
-            {
-              "text": "Observe the centre-punch marks made during removal.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Tener en cuenta las marcas de granete realizadas durante el desmontaje.",
-          "runs": [
-            {
-              "text": "Tener en cuenta las marcas de granete realizadas durante el desmontaje.",
-              "bold": false
-            }
-          ]
-        }
-      }
     }
   ],
   "figures": [
@@ -191,28 +127,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 125",
+          "plain": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben. Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
           "runs": [
             {
-              "text": "Bild 125",
+              "text": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben. Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 125",
+          "plain": "Bolt the flywheel to the crankshaft with the twelve square-head screws. Observe the centre-punch marks made during removal.",
           "runs": [
             {
-              "text": "Fig. 125",
+              "text": "Bolt the flywheel to the crankshaft with the twelve square-head screws. Observe the centre-punch marks made during removal.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 125",
+          "plain": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada. Tener en cuenta las marcas de granete realizadas durante el desmontaje.",
           "runs": [
             {
-              "text": "Fig. 125",
+              "text": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada. Tener en cuenta las marcas de granete realizadas durante el desmontaje.",
               "bold": false
             }
           ]

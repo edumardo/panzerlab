@@ -21,10 +21,14 @@
     "previous": "d65250b-page-049",
     "next": "d65250b-page-051"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p050-para01",
-      "text": {
+      "id": "d65250b-bild076",
+      "number": 76,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Führungsgabel des Rollenlagers zwischen Ritzel und Rollenlager schieben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p050-para02",
-      "text": {
+      "id": "d65250b-bild077",
+      "number": 77,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Ritzellagerung durch Linksdrehen der Mutter mit 41-SW-Maulschlüssel einziehen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Introducir el cojinete del piñón girando la tuerca hacia la izquierda con una llave fija de 41 mm (entrecaras).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild076",
-      "number": 76,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 76",
-          "runs": [
-            {
-              "text": "Bild 76",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 76",
-          "runs": [
-            {
-              "text": "Fig. 76",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 76",
-          "runs": [
-            {
-              "text": "Fig. 76",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild077",
-      "number": 77,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 77",
-          "runs": [
-            {
-              "text": "Bild 77",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 77",
-          "runs": [
-            {
-              "text": "Fig. 77",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 77",
-          "runs": [
-            {
-              "text": "Fig. 77",
               "bold": false
             }
           ]

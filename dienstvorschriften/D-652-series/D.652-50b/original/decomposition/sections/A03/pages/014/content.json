@@ -26,70 +26,6 @@
       "id": "d65250b-p014-para01",
       "text": {
         "de": {
-          "plain": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).",
-          "runs": [
-            {
-              "text": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).",
-          "runs": [
-            {
-              "text": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹).",
-          "runs": [
-            {
-              "text": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p014-para02",
-      "text": {
-        "de": {
-          "plain": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.",
-          "runs": [
-            {
-              "text": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
-          "runs": [
-            {
-              "text": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
-          "runs": [
-            {
-              "text": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p014-para03",
-      "text": {
-        "de": {
           "plain": "¹) Siehe im Anhang.",
           "runs": [
             {
@@ -127,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 14",
+          "plain": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).",
           "runs": [
             {
-              "text": "Bild 14",
+              "text": "Die beiden unteren Bremsbackenfedern mit Federzange aushängen (Zchng. 8, 9, 10)¹).",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 14",
+          "plain": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).",
           "runs": [
             {
-              "text": "Fig. 14",
+              "text": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 14",
+          "plain": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹).",
           "runs": [
             {
-              "text": "Fig. 14",
+              "text": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹).",
               "bold": false
             }
           ]
@@ -167,28 +103,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 15",
+          "plain": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.",
           "runs": [
             {
-              "text": "Bild 15",
+              "text": "Ist keine Federzange vorhanden, können die beiden unteren Bremsbackenfedern mit Drahtzug und Kettenbolzen ausgehängt werden.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 15",
+          "plain": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
           "runs": [
             {
-              "text": "Fig. 15",
+              "text": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 15",
+          "plain": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
           "runs": [
             {
-              "text": "Fig. 15",
+              "text": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
               "bold": false
             }
           ]

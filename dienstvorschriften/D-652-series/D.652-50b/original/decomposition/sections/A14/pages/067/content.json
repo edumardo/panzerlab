@@ -21,10 +21,14 @@
     "previous": "d65250b-page-066",
     "next": "d65250b-page-068"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p067-para01",
-      "text": {
+      "id": "d65250b-bild105",
+      "number": 105,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die 2 Kupplungstreibscheiben und 3 Kupplungsscheiben aus Kupplungszwischenring herausnehmen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p067-para02",
-      "text": {
+      "id": "d65250b-bild106",
+      "number": 106,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Den Abstandsring vor dem hinteren Kugellager ausziehen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Extraer el anillo distanciador situado delante del cojinete de bolas trasero.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild105",
-      "number": 105,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 105",
-          "runs": [
-            {
-              "text": "Bild 105",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 105",
-          "runs": [
-            {
-              "text": "Fig. 105",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 105",
-          "runs": [
-            {
-              "text": "Fig. 105",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild106",
-      "number": 106,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 106",
-          "runs": [
-            {
-              "text": "Bild 106",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 106",
-          "runs": [
-            {
-              "text": "Fig. 106",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 106",
-          "runs": [
-            {
-              "text": "Fig. 106",
               "bold": false
             }
           ]

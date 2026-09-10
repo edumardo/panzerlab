@@ -21,136 +21,7 @@
     "previous": "d65250b-page-083",
     "next": "d65250b-page-085"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p084-para01",
-      "text": {
-        "de": {
-          "plain": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
-          "runs": [
-            {
-              "text": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner.",
-          "runs": [
-            {
-              "text": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras.",
-          "runs": [
-            {
-              "text": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p084-para02",
-      "text": {
-        "de": {
-          "plain": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
-          "runs": [
-            {
-              "text": "Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the screws by bending over the locking plates.",
-          "runs": [
-            {
-              "text": "Secure the screws by bending over the locking plates.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar los tornillos doblando las chapas de seguridad.",
-          "runs": [
-            {
-              "text": "Asegurar los tornillos doblando las chapas de seguridad.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p084-para03",
-      "text": {
-        "de": {
-          "plain": "Das Kupplungsgehäuse über die Kupplung schieben.",
-          "runs": [
-            {
-              "text": "Das Kupplungsgehäuse über die Kupplung schieben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Slide the clutch housing over the clutch.",
-          "runs": [
-            {
-              "text": "Slide the clutch housing over the clutch.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Deslizar la carcasa del embrague sobre el embrague.",
-          "runs": [
-            {
-              "text": "Deslizar la carcasa del embrague sobre el embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p084-para04",
-      "text": {
-        "de": {
-          "plain": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
-          "runs": [
-            {
-              "text": "Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: The sliding faces of the release yoke must face towards the release bearing.",
-          "runs": [
-            {
-              "text": "Note: The sliding faces of the release yoke must face towards the release bearing.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
-          "runs": [
-            {
-              "text": "Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild135",
@@ -159,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 135",
+          "plain": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben. Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
           "runs": [
             {
-              "text": "Bild 135",
+              "text": "Sicherungsbleche auf die Befestigungsschrauben legen und den Kupplungsdeckel mit 17-SW-Steckschlüssel festschrauben. Die Schrauben durch Umbiegen der Sicherungsbleche sichern.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 135",
+          "plain": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner. Secure the screws by bending over the locking plates.",
           "runs": [
             {
-              "text": "Fig. 135",
+              "text": "Place the locking plates on the fixing screws and tighten the clutch cover with a 17 mm A/F socket spanner. Secure the screws by bending over the locking plates.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 135",
+          "plain": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras. Asegurar los tornillos doblando las chapas de seguridad.",
           "runs": [
             {
-              "text": "Fig. 135",
+              "text": "Colocar las chapas de seguridad sobre los tornillos de fijación y apretar la tapa de embrague con una llave de vaso de 17 mm de entrecaras. Asegurar los tornillos doblando las chapas de seguridad.",
               "bold": false
             }
           ]
@@ -199,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 136",
+          "plain": "Das Kupplungsgehäuse über die Kupplung schieben. Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
           "runs": [
             {
-              "text": "Bild 136",
+              "text": "Das Kupplungsgehäuse über die Kupplung schieben. Beachten: Die Gleitflächen des Ausrückbügels müssen gegen das Ausrücklager gerichtet sein.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 136",
+          "plain": "Slide the clutch housing over the clutch. Note: The sliding faces of the release yoke must face towards the release bearing.",
           "runs": [
             {
-              "text": "Fig. 136",
+              "text": "Slide the clutch housing over the clutch. Note: The sliding faces of the release yoke must face towards the release bearing.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 136",
+          "plain": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
           "runs": [
             {
-              "text": "Fig. 136",
+              "text": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
               "bold": false
             }
           ]

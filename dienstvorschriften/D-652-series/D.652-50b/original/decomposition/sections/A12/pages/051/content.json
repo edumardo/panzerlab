@@ -53,10 +53,15 @@
           ]
         }
       }
-    },
+    }
+  ],
+  "figures": [
     {
-      "id": "d65250b-p051-para02",
-      "text": {
+      "id": "d65250b-bild078",
+      "number": 78,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Kappe über die Ritzelwelle führen und diese mit der dafür vorgesehenen Schraube an die Ritzelwelle festschrauben.",
           "runs": [
@@ -84,107 +89,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p051-para03",
-      "text": {
-        "de": {
-          "plain": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73.",
-          "runs": [
-            {
-              "text": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73.",
-          "runs": [
-            {
-              "text": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73.",
-          "runs": [
-            {
-              "text": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p051-para04",
-      "text": {
-        "de": {
-          "plain": "Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.",
-          "runs": [
-            {
-              "text": "Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a hammer and a wooden block, drive the pinion shaft into the bearing.",
-          "runs": [
-            {
-              "text": "Using a hammer and a wooden block, drive the pinion shaft into the bearing.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete.",
-          "runs": [
-            {
-              "text": "Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild078",
-      "number": 78,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 78",
-          "runs": [
-            {
-              "text": "Bild 78",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 78",
-          "runs": [
-            {
-              "text": "Fig. 78",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 78",
-          "runs": [
-            {
-              "text": "Fig. 78",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -199,28 +103,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 79",
+          "plain": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73. Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.",
           "runs": [
             {
-              "text": "Bild 79",
+              "text": "Ritzelwelle in das Gehäuse führen und die Führungsgabel zwischen Ritzel und Rollenlager schieben, Bild 73. Mit Hammer und Holzklotz die Ritzelwelle in die Lagerung schlagen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 79",
+          "plain": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73. Using a hammer and a wooden block, drive the pinion shaft into the bearing.",
           "runs": [
             {
-              "text": "Fig. 79",
+              "text": "Insert the pinion shaft into the housing and slide the guide fork between the pinion and the roller bearing, Fig. 73. Using a hammer and a wooden block, drive the pinion shaft into the bearing.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 79",
+          "plain": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73. Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete.",
           "runs": [
             {
-              "text": "Fig. 79",
+              "text": "Introducir el eje del piñón en la carcasa y deslizar la horquilla guía entre el piñón y el cojinete de rodillos, fig. 73. Con un martillo y un taco de madera, introducir a golpes el eje del piñón en el cojinete.",
               "bold": false
             }
           ]

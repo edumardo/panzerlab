@@ -21,74 +21,54 @@
     "previous": "d65250b-page-012",
     "next": "d65250b-page-014"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p013-para01",
-      "text": {
+      "id": "d65250b-bild012",
+      "number": 12,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Die Befestigungsschrauben der Bremstrommel entsichern.",
+          "plain": "Die Befestigungsschrauben der Bremstrommel entsichern. Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
           "runs": [
             {
-              "text": "Die Befestigungsschrauben der Bremstrommel entsichern.",
+              "text": "Die Befestigungsschrauben der Bremstrommel entsichern. Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Release the lock on the retaining screws of the brake drum.",
+          "plain": "Release the lock on the retaining screws of the brake drum. Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
           "runs": [
             {
-              "text": "Release the lock on the retaining screws of the brake drum.",
+              "text": "Release the lock on the retaining screws of the brake drum. Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Liberar el seguro de los tornillos de fijación del tambor de freno.",
+          "plain": "Liberar el seguro de los tornillos de fijación del tambor de freno. Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
           "runs": [
             {
-              "text": "Liberar el seguro de los tornillos de fijación del tambor de freno.",
+              "text": "Liberar el seguro de los tornillos de fijación del tambor de freno. Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p013-para02",
-      "text": {
-        "de": {
-          "plain": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
-          "runs": [
-            {
-              "text": "Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
-          "runs": [
-            {
-              "text": "Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
-          "runs": [
-            {
-              "text": "Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p013-para03",
-      "text": {
+      "id": "d65250b-bild013",
+      "number": 13,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.",
           "runs": [
@@ -112,83 +92,6 @@
           "runs": [
             {
               "text": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild012",
-      "number": 12,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 12",
-          "runs": [
-            {
-              "text": "Bild 12",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 12",
-          "runs": [
-            {
-              "text": "Fig. 12",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 12",
-          "runs": [
-            {
-              "text": "Fig. 12",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild013",
-      "number": 13,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 13",
-          "runs": [
-            {
-              "text": "Bild 13",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 13",
-          "runs": [
-            {
-              "text": "Fig. 13",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 13",
-          "runs": [
-            {
-              "text": "Fig. 13",
               "bold": false
             }
           ]

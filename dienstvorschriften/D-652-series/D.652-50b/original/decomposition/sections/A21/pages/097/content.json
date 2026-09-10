@@ -21,10 +21,14 @@
     "previous": "d65250b-page-096",
     "next": "d65250b-page-098"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p097-para01",
-      "text": {
+      "id": "d65250b-bild153",
+      "number": 153,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Schraubenzieher die auf Abbildung bezeichneten Schrauben der oberen Bugpanzerdecke ausschrauben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p097-para02",
-      "text": {
+      "id": "d65250b-bild154",
+      "number": 154,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Leitungsstecker für Deckenbeleuchtung ausziehen und mit 14-SW-Maulschlüssel die Schrauben der Leitungsbefestigungen ausschrauben.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Desconectar el conector del cable de la iluminación del techo y, con una llave de boca de 14 mm, desenroscar los tornillos de las abrazaderas del cable.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild153",
-      "number": 153,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 153",
-          "runs": [
-            {
-              "text": "Bild 153",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 153",
-          "runs": [
-            {
-              "text": "Fig. 153",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 153",
-          "runs": [
-            {
-              "text": "Fig. 153",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild154",
-      "number": 154,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 154",
-          "runs": [
-            {
-              "text": "Bild 154",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 154",
-          "runs": [
-            {
-              "text": "Fig. 154",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 154",
-          "runs": [
-            {
-              "text": "Fig. 154",
               "bold": false
             }
           ]

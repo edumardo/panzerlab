@@ -21,10 +21,14 @@
     "previous": "d65250b-page-015",
     "next": "d65250b-page-017"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p016-para01",
-      "text": {
+      "id": "d65250b-bild018",
+      "number": 18,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Steckschlüssel III DB 109 die beiden Halteschrauben der Nachstellvorrichtung abschrauben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p016-para02",
-      "text": {
+      "id": "d65250b-bild019",
+      "number": 19,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Bremsbacken gemeinsam mit der Nachstellvorrichtung von der Lenkbremsnabe abheben. Aus einer Backe Splint und Scheibe entfernen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Levantar las zapatas de freno junto con el dispositivo de reajuste del cubo del freno de dirección. Retirar el pasador de aletas y la arandela de una zapata.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild018",
-      "number": 18,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 18",
-          "runs": [
-            {
-              "text": "Bild 18",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 18",
-          "runs": [
-            {
-              "text": "Fig. 18",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 18",
-          "runs": [
-            {
-              "text": "Fig. 18",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild019",
-      "number": 19,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 19",
-          "runs": [
-            {
-              "text": "Bild 19",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 19",
-          "runs": [
-            {
-              "text": "Fig. 19",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 19",
-          "runs": [
-            {
-              "text": "Fig. 19",
               "bold": false
             }
           ]

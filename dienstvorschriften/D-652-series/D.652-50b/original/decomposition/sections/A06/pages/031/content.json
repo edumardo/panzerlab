@@ -21,136 +21,7 @@
     "previous": "d65250b-page-030",
     "next": "d65250b-page-032"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p031-para01",
-      "text": {
-        "de": {
-          "plain": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen.",
-          "runs": [
-            {
-              "text": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide.",
-          "runs": [
-            {
-              "text": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan.",
-          "runs": [
-            {
-              "text": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p031-para02",
-      "text": {
-        "de": {
-          "plain": "Stützbremstrommel mit den Lochschrauben verschrauben.",
-          "runs": [
-            {
-              "text": "Stützbremstrommel mit den Lochschrauben verschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Bolt the support brake drum in place using the hollow screws (banjo bolts).",
-          "runs": [
-            {
-              "text": "Bolt the support brake drum in place using the hollow screws (banjo bolts).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atornillar el tambor del freno de apoyo con los tornillos huecos.",
-          "runs": [
-            {
-              "text": "Atornillar el tambor del freno de apoyo con los tornillos huecos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p031-para03",
-      "text": {
-        "de": {
-          "plain": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern.",
-          "runs": [
-            {
-              "text": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the fixing screws and the collared plug with wire.",
-          "runs": [
-            {
-              "text": "Secure the fixing screws and the collared plug with wire.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar los tornillos de fijación y el tapón con collarín con alambre.",
-          "runs": [
-            {
-              "text": "Asegurar los tornillos de fijación y el tapón con collarín con alambre.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p031-para04",
-      "text": {
-        "de": {
-          "plain": "Stützbremse nach Einstellanweisung einstellen.",
-          "runs": [
-            {
-              "text": "Stützbremse nach Einstellanweisung einstellen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Adjust the support brake in accordance with the setting instructions.",
-          "runs": [
-            {
-              "text": "Adjust the support brake in accordance with the setting instructions.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Ajustar el freno de apoyo según las instrucciones de ajuste.",
-          "runs": [
-            {
-              "text": "Ajustar el freno de apoyo según las instrucciones de ajuste.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild045",
@@ -159,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 45",
+          "plain": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen. Stützbremstrommel mit den Lochschrauben verschrauben.",
           "runs": [
             {
-              "text": "Bild 45",
+              "text": "Bremstrommel über die Backen schieben. Sicherungsring über die Zylinderstifte führen. Den Sicherungsring so weit herausdrehen, bis die Löcher des Sicherungsringes und der Stützbremstrommel übereinstimmen. Stützbremstrommel mit den Lochschrauben verschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 45",
+          "plain": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide. Bolt the support brake drum in place using the hollow screws (banjo bolts).",
           "runs": [
             {
-              "text": "Fig. 45",
+              "text": "Slide the brake drum over the shoes. Guide the locking ring over the dowel pins. Turn the locking ring out until the holes of the locking ring and the support brake drum coincide. Bolt the support brake drum in place using the hollow screws (banjo bolts).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 45",
+          "plain": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan. Atornillar el tambor del freno de apoyo con los tornillos huecos.",
           "runs": [
             {
-              "text": "Fig. 45",
+              "text": "Deslizar el tambor de freno sobre las zapatas. Guiar el anillo de seguridad sobre las clavijas cilíndricas. Girar el anillo de seguridad hacia afuera hasta que los orificios del anillo de seguridad y del tambor del freno de apoyo coincidan. Atornillar el tambor del freno de apoyo con los tornillos huecos.",
               "bold": false
             }
           ]
@@ -199,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 46",
+          "plain": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern. Stützbremse nach Einstellanweisung einstellen.",
           "runs": [
             {
-              "text": "Bild 46",
+              "text": "Die Befestigungsschrauben und den Bundstopfen durch Draht sichern. Stützbremse nach Einstellanweisung einstellen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 46",
+          "plain": "Secure the fixing screws and the collared plug with wire. Adjust the support brake in accordance with the setting instructions.",
           "runs": [
             {
-              "text": "Fig. 46",
+              "text": "Secure the fixing screws and the collared plug with wire. Adjust the support brake in accordance with the setting instructions.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 46",
+          "plain": "Asegurar los tornillos de fijación y el tapón con collarín con alambre. Ajustar el freno de apoyo según las instrucciones de ajuste.",
           "runs": [
             {
-              "text": "Fig. 46",
+              "text": "Asegurar los tornillos de fijación y el tapón con collarín con alambre. Ajustar el freno de apoyo según las instrucciones de ajuste.",
               "bold": false
             }
           ]

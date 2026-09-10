@@ -21,10 +21,14 @@
     "previous": "d65250b-page-070",
     "next": "d65250b-page-072"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p071-para01",
-      "text": {
+      "id": "d65250b-bild112",
+      "number": 112,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Abschmierfett in das Kugellager drücken und Staubring und Kugellager auf die Nabe führen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p071-para02",
-      "text": {
+      "id": "d65250b-bild113",
+      "number": 113,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Weichmetallhammer das Kugellager auf die Nabe schlagen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Con un martillo de metal blando, introducir a golpes el rodamiento de bolas en el buje.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild112",
-      "number": 112,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 112",
-          "runs": [
-            {
-              "text": "Bild 112",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 112",
-          "runs": [
-            {
-              "text": "Fig. 112",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 112",
-          "runs": [
-            {
-              "text": "Fig. 112",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild113",
-      "number": 113,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 113",
-          "runs": [
-            {
-              "text": "Bild 113",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 113",
-          "runs": [
-            {
-              "text": "Fig. 113",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 113",
-          "runs": [
-            {
-              "text": "Fig. 113",
               "bold": false
             }
           ]

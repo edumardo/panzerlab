@@ -26,198 +26,6 @@
       "id": "d65250b-p049-para01",
       "text": {
         "de": {
-          "plain": "Kappe (4) über die Ritzelwelle führen.",
-          "runs": [
-            {
-              "text": "Kappe (4) über die Ritzelwelle führen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Slide the cap (4) over the pinion shaft.",
-          "runs": [
-            {
-              "text": "Slide the cap (4) over the pinion shaft.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Deslizar la tapa (4) sobre el eje del piñón.",
-          "runs": [
-            {
-              "text": "Deslizar la tapa (4) sobre el eje del piñón.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p049-para02",
-      "text": {
-        "de": {
-          "plain": "Die Mutter (2) auf die Spindel (1) schrauben.",
-          "runs": [
-            {
-              "text": "Die Mutter (2) auf die Spindel (1) schrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Screw the nut (2) onto the spindle (1).",
-          "runs": [
-            {
-              "text": "Screw the nut (2) onto the spindle (1).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enroscar la tuerca (2) en el husillo (1).",
-          "runs": [
-            {
-              "text": "Enroscar la tuerca (2) en el husillo (1).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p049-para03",
-      "text": {
-        "de": {
-          "plain": "Zwischenring (3) auf den Bund der Mutter legen.",
-          "runs": [
-            {
-              "text": "Zwischenring (3) auf den Bund der Mutter legen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the spacer ring (3) on the collar of the nut.",
-          "runs": [
-            {
-              "text": "Place the spacer ring (3) on the collar of the nut.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar el anillo intermedio (3) sobre el collarín de la tuerca.",
-          "runs": [
-            {
-              "text": "Colocar el anillo intermedio (3) sobre el collarín de la tuerca.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p049-para04",
-      "text": {
-        "de": {
-          "plain": "Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).",
-          "runs": [
-            {
-              "text": "Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).",
-          "runs": [
-            {
-              "text": "Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
-          "runs": [
-            {
-              "text": "Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p049-para05",
-      "text": {
-        "de": {
-          "plain": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen.",
-          "runs": [
-            {
-              "text": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Insert the pinion shaft into the housing of the final drive unit.",
-          "runs": [
-            {
-              "text": "Insert the pinion shaft into the housing of the final drive unit.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir el eje del piñón en la carcasa del engranaje lateral final.",
-          "runs": [
-            {
-              "text": "Introducir el eje del piñón en la carcasa del engranaje lateral final.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p049-para06",
-      "text": {
-        "de": {
-          "plain": "Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.",
-          "runs": [
-            {
-              "text": "Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fit the pressure plate and bolt it together with the spacer tubes and bolts.",
-          "runs": [
-            {
-              "text": "Fit the pressure plate and bolt it together with the spacer tubes and bolts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos.",
-          "runs": [
-            {
-              "text": "Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p049-para07",
-      "text": {
-        "de": {
           "plain": "¹) Siehe im Anhang.",
           "runs": [
             {
@@ -255,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 74",
+          "plain": "Kappe (4) über die Ritzelwelle führen. Die Mutter (2) auf die Spindel (1) schrauben. Zwischenring (3) auf den Bund der Mutter legen. Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).",
           "runs": [
             {
-              "text": "Bild 74",
+              "text": "Kappe (4) über die Ritzelwelle führen. Die Mutter (2) auf die Spindel (1) schrauben. Zwischenring (3) auf den Bund der Mutter legen. Zugspindel an den oberen Vierkant in die Ritzelwelle schrauben (Zeichnung 4)¹).",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 74",
+          "plain": "Slide the cap (4) over the pinion shaft. Screw the nut (2) onto the spindle (1). Place the spacer ring (3) on the collar of the nut. Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).",
           "runs": [
             {
-              "text": "Fig. 74",
+              "text": "Slide the cap (4) over the pinion shaft. Screw the nut (2) onto the spindle (1). Place the spacer ring (3) on the collar of the nut. Screw the draw spindle onto the upper square section into the pinion shaft (drawing 4)¹).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 74",
+          "plain": "Deslizar la tapa (4) sobre el eje del piñón. Enroscar la tuerca (2) en el husillo (1). Colocar el anillo intermedio (3) sobre el collarín de la tuerca. Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
           "runs": [
             {
-              "text": "Fig. 74",
+              "text": "Deslizar la tapa (4) sobre el eje del piñón. Enroscar la tuerca (2) en el husillo (1). Colocar el anillo intermedio (3) sobre el collarín de la tuerca. Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
               "bold": false
             }
           ]
@@ -295,28 +103,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 75",
+          "plain": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen. Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.",
           "runs": [
             {
-              "text": "Bild 75",
+              "text": "Die Ritzelwelle in das Gehäuse des Seitenvorgeleges führen. Druckplatte auflegen und diese mit den Abstandsrohren und Bolzen verschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 75",
+          "plain": "Insert the pinion shaft into the housing of the final drive unit. Fit the pressure plate and bolt it together with the spacer tubes and bolts.",
           "runs": [
             {
-              "text": "Fig. 75",
+              "text": "Insert the pinion shaft into the housing of the final drive unit. Fit the pressure plate and bolt it together with the spacer tubes and bolts.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 75",
+          "plain": "Introducir el eje del piñón en la carcasa del engranaje lateral final. Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos.",
           "runs": [
             {
-              "text": "Fig. 75",
+              "text": "Introducir el eje del piñón en la carcasa del engranaje lateral final. Colocar la placa de presión y atornillarla junto con los tubos distanciadores y los pernos.",
               "bold": false
             }
           ]

@@ -26,70 +26,6 @@
       "id": "d65250b-p040-para01",
       "text": {
         "de": {
-          "plain": "Das Triebrad mit Holz unterbauen.",
-          "runs": [
-            {
-              "text": "Das Triebrad mit Holz unterbauen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Support the drive sprocket with wood blocks.",
-          "runs": [
-            {
-              "text": "Support the drive sprocket with wood blocks.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Calzar la rueda motriz con tacos de madera.",
-          "runs": [
-            {
-              "text": "Calzar la rueda motriz con tacos de madera.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p040-para02",
-      "text": {
-        "de": {
-          "plain": "Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
-          "runs": [
-            {
-              "text": "Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Raise the armoured hull with a jack until the drive sprocket rests lightly on the wood support.",
-          "runs": [
-            {
-              "text": "Raise the armoured hull with a jack until the drive sprocket rests lightly on the wood support.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Levantar el casco blindado con un gato de modo que la rueda motriz repose ligeramente sobre el calzo de madera.",
-          "runs": [
-            {
-              "text": "Levantar el casco blindado con un gato de modo que la rueda motriz repose ligeramente sobre el calzo de madera.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p040-para03",
-      "text": {
-        "de": {
           "plain": "Die Blechsicherungen der Befestigungsschrauben des Seitenvorgeleges geradebiegen, Bild 55.",
           "runs": [
             {
@@ -119,7 +55,7 @@
       }
     },
     {
-      "id": "d65250b-p040-para04",
+      "id": "d65250b-p040-para02",
       "text": {
         "de": {
           "plain": "Mit 22-SW-Ringschlüssel die entsicherten Muttern abschrauben.",
@@ -151,7 +87,7 @@
       }
     },
     {
-      "id": "d65250b-p040-para05",
+      "id": "d65250b-p040-para03",
       "text": {
         "de": {
           "plain": "Beachten: Die auf Bild 55 bezeichneten drei Muttern nicht entfernen.",
@@ -183,7 +119,7 @@
       }
     },
     {
-      "id": "d65250b-p040-para06",
+      "id": "d65250b-p040-para04",
       "text": {
         "de": {
           "plain": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
@@ -223,28 +159,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 59",
+          "plain": "Das Triebrad mit Holz unterbauen. Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
           "runs": [
             {
-              "text": "Bild 59",
+              "text": "Das Triebrad mit Holz unterbauen. Mit Winde die Panzerwanne so anheben, daß das Triebrad leicht auf dem Holzunterbau ruht.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 59",
+          "plain": "Support the drive sprocket with wood blocks. Raise the armoured hull with a jack until the drive sprocket rests lightly on the wood support.",
           "runs": [
             {
-              "text": "Fig. 59",
+              "text": "Support the drive sprocket with wood blocks. Raise the armoured hull with a jack until the drive sprocket rests lightly on the wood support.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 59",
+          "plain": "Calzar la rueda motriz con tacos de madera. Levantar el casco blindado con un gato de modo que la rueda motriz repose ligeramente sobre el calzo de madera.",
           "runs": [
             {
-              "text": "Fig. 59",
+              "text": "Calzar la rueda motriz con tacos de madera. Levantar el casco blindado con un gato de modo que la rueda motriz repose ligeramente sobre el calzo de madera.",
               "bold": false
             }
           ]

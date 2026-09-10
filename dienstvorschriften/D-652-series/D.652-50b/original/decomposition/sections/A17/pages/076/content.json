@@ -21,10 +21,14 @@
     "previous": "d65250b-page-075",
     "next": "d65250b-page-077"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p076-para01",
-      "text": {
+      "id": "d65250b-bild122",
+      "number": 122,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p076-para02",
-      "text": {
-        "de": {
-          "plain": "Kupplungsscheibe mit dem Niet auf eine Mutter legen.",
-          "runs": [
-            {
-              "text": "Kupplungsscheibe mit dem Niet auf eine Mutter legen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the clutch disc, rivet down, onto a nut.",
-          "runs": [
-            {
-              "text": "Place the clutch disc, rivet down, onto a nut.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca.",
-          "runs": [
-            {
-              "text": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p076-para03",
-      "text": {
-        "de": {
-          "plain": "Mit Hammer und Dorn die Nieten ausschlagen.",
-          "runs": [
-            {
-              "text": "Mit Hammer und Dorn die Nieten ausschlagen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Drive out the rivets using a hammer and drift.",
-          "runs": [
-            {
-              "text": "Drive out the rivets using a hammer and drift.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer los remaches golpeando con martillo y botador.",
-          "runs": [
-            {
-              "text": "Extraer los remaches golpeando con martillo y botador.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild122",
-      "number": 122,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 122",
-          "runs": [
-            {
-              "text": "Bild 122",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 122",
-          "runs": [
-            {
-              "text": "Fig. 122",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 122",
-          "runs": [
-            {
-              "text": "Fig. 122",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 123",
+          "plain": "Kupplungsscheibe mit dem Niet auf eine Mutter legen. Mit Hammer und Dorn die Nieten ausschlagen.",
           "runs": [
             {
-              "text": "Bild 123",
+              "text": "Kupplungsscheibe mit dem Niet auf eine Mutter legen. Mit Hammer und Dorn die Nieten ausschlagen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 123",
+          "plain": "Place the clutch disc, rivet down, onto a nut. Drive out the rivets using a hammer and drift.",
           "runs": [
             {
-              "text": "Fig. 123",
+              "text": "Place the clutch disc, rivet down, onto a nut. Drive out the rivets using a hammer and drift.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 123",
+          "plain": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca. Extraer los remaches golpeando con martillo y botador.",
           "runs": [
             {
-              "text": "Fig. 123",
+              "text": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca. Extraer los remaches golpeando con martillo y botador.",
               "bold": false
             }
           ]

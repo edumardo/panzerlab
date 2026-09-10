@@ -21,10 +21,14 @@
     "previous": "d65250b-page-053",
     "next": "d65250b-page-055"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p054-para01",
-      "text": {
+      "id": "d65250b-bild083",
+      "number": 83,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Zugspindel DB 92/6 in das Gewinde der Triebradwelle einschrauben.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p054-para02",
-      "text": {
-        "de": {
-          "plain": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen.",
-          "runs": [
-            {
-              "text": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the pressure bridge DB 92/2 onto the studs.",
-          "runs": [
-            {
-              "text": "Place the pressure bridge DB 92/2 onto the studs.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros.",
-          "runs": [
-            {
-              "text": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p054-para03",
-      "text": {
-        "de": {
-          "plain": "Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.",
-          "runs": [
-            {
-              "text": "Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.",
-          "runs": [
-            {
-              "text": "Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha.",
-          "runs": [
-            {
-              "text": "Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild083",
-      "number": 83,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 83",
-          "runs": [
-            {
-              "text": "Bild 83",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 83",
-          "runs": [
-            {
-              "text": "Fig. 83",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 83",
-          "runs": [
-            {
-              "text": "Fig. 83",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 84",
+          "plain": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen. Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.",
           "runs": [
             {
-              "text": "Bild 84",
+              "text": "Den Drucksteg DB 92/2 auf die Stehbolzen setzen. Stirnrad und Triebradwelle durch Rechtsdrehen der Mutter zusammenziehen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 84",
+          "plain": "Place the pressure bridge DB 92/2 onto the studs. Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.",
           "runs": [
             {
-              "text": "Fig. 84",
+              "text": "Place the pressure bridge DB 92/2 onto the studs. Draw the spur gear and the drive-wheel shaft together by turning the nut clockwise.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 84",
+          "plain": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros. Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha.",
           "runs": [
             {
-              "text": "Fig. 84",
+              "text": "Colocar el puente de presión DB 92/2 sobre los pernos prisioneros. Unir la rueda dentada cilíndrica y el eje de la rueda motriz girando la tuerca hacia la derecha.",
               "bold": false
             }
           ]

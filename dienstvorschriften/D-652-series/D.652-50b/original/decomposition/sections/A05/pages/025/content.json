@@ -21,10 +21,14 @@
     "previous": "d65250b-page-024",
     "next": "d65250b-page-026"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p025-para01",
-      "text": {
+      "id": "d65250b-bild033",
+      "number": 33,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Zange die Splinte aus den Bolzen der Bremsbackenhaltefedern ziehen und Federteller mit Feder ausbauen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p025-para02",
-      "text": {
+      "id": "d65250b-bild034",
+      "number": 34,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Beide Zugfedern mit Federzange oder Schraubenzieher aushängen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Desenganchar ambos resortes de tracción con unas pinzas para resortes o un destornillador.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild033",
-      "number": 33,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 33",
-          "runs": [
-            {
-              "text": "Bild 33",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 33",
-          "runs": [
-            {
-              "text": "Fig. 33",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 33",
-          "runs": [
-            {
-              "text": "Fig. 33",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild034",
-      "number": 34,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 34",
-          "runs": [
-            {
-              "text": "Bild 34",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 34",
-          "runs": [
-            {
-              "text": "Fig. 34",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 34",
-          "runs": [
-            {
-              "text": "Fig. 34",
               "bold": false
             }
           ]

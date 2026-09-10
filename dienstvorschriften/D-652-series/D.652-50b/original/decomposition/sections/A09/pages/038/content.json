@@ -26,70 +26,6 @@
       "id": "d65250b-p038-para01",
       "text": {
         "de": {
-          "plain": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
-          "runs": [
-            {
-              "text": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
-          "runs": [
-            {
-              "text": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
-          "runs": [
-            {
-              "text": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p038-para02",
-      "text": {
-        "de": {
-          "plain": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
-          "runs": [
-            {
-              "text": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
-          "runs": [
-            {
-              "text": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
-          "runs": [
-            {
-              "text": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p038-para03",
-      "text": {
-        "de": {
           "plain": "¹) Siehe im Anhang.",
           "runs": [
             {
@@ -127,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 56",
+          "plain": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
           "runs": [
             {
-              "text": "Bild 56",
+              "text": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 56",
+          "plain": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
           "runs": [
             {
-              "text": "Fig. 56",
+              "text": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 56",
+          "plain": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
           "runs": [
             {
-              "text": "Fig. 56",
+              "text": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
               "bold": false
             }
           ]
@@ -167,28 +103,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 57",
+          "plain": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
           "runs": [
             {
-              "text": "Bild 57",
+              "text": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 57",
+          "plain": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
           "runs": [
             {
-              "text": "Fig. 57",
+              "text": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 57",
+          "plain": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
           "runs": [
             {
-              "text": "Fig. 57",
+              "text": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
               "bold": false
             }
           ]

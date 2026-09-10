@@ -21,10 +21,14 @@
     "previous": "d65250b-page-084",
     "next": "d65250b-page-086"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p085-para01",
-      "text": {
+      "id": "d65250b-bild137",
+      "number": 137,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p085-para02",
-      "text": {
+      "id": "d65250b-bild138",
+      "number": 138,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild137",
-      "number": 137,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 137",
-          "runs": [
-            {
-              "text": "Bild 137",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 137",
-          "runs": [
-            {
-              "text": "Fig. 137",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 137",
-          "runs": [
-            {
-              "text": "Fig. 137",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild138",
-      "number": 138,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 138",
-          "runs": [
-            {
-              "text": "Bild 138",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 138",
-          "runs": [
-            {
-              "text": "Fig. 138",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 138",
-          "runs": [
-            {
-              "text": "Fig. 138",
               "bold": false
             }
           ]

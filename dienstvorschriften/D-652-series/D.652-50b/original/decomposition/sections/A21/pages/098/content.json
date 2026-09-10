@@ -21,10 +21,14 @@
     "previous": "d65250b-page-097",
     "next": "d65250b-page-099"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p098-para01",
-      "text": {
+      "id": "d65250b-bild155",
+      "number": 155,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Seil und Hebevorrichtung die Bugpanzerdecke abheben.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p098-para02",
-      "text": {
-        "de": {
-          "plain": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben.",
-          "runs": [
-            {
-              "text": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun.",
-          "runs": [
-            {
-              "text": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón.",
-          "runs": [
-            {
-              "text": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p098-para03",
-      "text": {
-        "de": {
-          "plain": "Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
-          "runs": [
-            {
-              "text": "Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Knock out the pin with a hammer and lift out the intermediate piece.",
-          "runs": [
-            {
-              "text": "Knock out the pin with a hammer and lift out the intermediate piece.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el perno a golpes de martillo y sacar la pieza intermedia.",
-          "runs": [
-            {
-              "text": "Extraer el perno a golpes de martillo y sacar la pieza intermedia.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild155",
-      "number": 155,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 155",
-          "runs": [
-            {
-              "text": "Bild 155",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 155",
-          "runs": [
-            {
-              "text": "Fig. 155",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 155",
-          "runs": [
-            {
-              "text": "Fig. 155",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 156",
+          "plain": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben. Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
           "runs": [
             {
-              "text": "Bild 156",
+              "text": "Splinte ausziehen und mit 24-SW-Ringschlüssel die Kronenmuttern an dem Zwischenstück über dem Geschütz abschrauben. Bolzen mit Hammer herausschlagen und das Zwischenstück ausheben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 156",
+          "plain": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the pin with a hammer and lift out the intermediate piece.",
           "runs": [
             {
-              "text": "Fig. 156",
+              "text": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the pin with a hammer and lift out the intermediate piece.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 156",
+          "plain": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer el perno a golpes de martillo y sacar la pieza intermedia.",
           "runs": [
             {
-              "text": "Fig. 156",
+              "text": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer el perno a golpes de martillo y sacar la pieza intermedia.",
               "bold": false
             }
           ]

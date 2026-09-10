@@ -21,72 +21,7 @@
     "previous": "d65250b-page-047",
     "next": "d65250b-page-049"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p048-para01",
-      "text": {
-        "de": {
-          "plain": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht.",
-          "runs": [
-            {
-              "text": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it.",
-          "runs": [
-            {
-              "text": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él.",
-          "runs": [
-            {
-              "text": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p048-para02",
-      "text": {
-        "de": {
-          "plain": "Ritzelwelle durch Anziehen der Mutter ausziehen.",
-          "runs": [
-            {
-              "text": "Ritzelwelle durch Anziehen der Mutter ausziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull out the pinion shaft by tightening the nut.",
-          "runs": [
-            {
-              "text": "Pull out the pinion shaft by tightening the nut.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el eje del piñón apretando la tuerca.",
-          "runs": [
-            {
-              "text": "Extraer el eje del piñón apretando la tuerca.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild073",
@@ -95,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 73",
+          "plain": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht. Ritzelwelle durch Anziehen der Mutter ausziehen.",
           "runs": [
             {
-              "text": "Bild 73",
+              "text": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht. Ritzelwelle durch Anziehen der Mutter ausziehen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 73",
+          "plain": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it. Pull out the pinion shaft by tightening the nut.",
           "runs": [
             {
-              "text": "Fig. 73",
+              "text": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it. Pull out the pinion shaft by tightening the nut.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 73",
+          "plain": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él. Extraer el eje del piñón apretando la tuerca.",
           "runs": [
             {
-              "text": "Fig. 73",
+              "text": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él. Extraer el eje del piñón apretando la tuerca.",
               "bold": false
             }
           ]

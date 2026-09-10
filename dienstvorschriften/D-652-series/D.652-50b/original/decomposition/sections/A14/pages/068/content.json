@@ -21,136 +21,7 @@
     "previous": "d65250b-page-067",
     "next": "d65250b-page-069"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p068-para01",
-      "text": {
-        "de": {
-          "plain": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
-          "runs": [
-            {
-              "text": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring.",
-          "runs": [
-            {
-              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague.",
-          "runs": [
-            {
-              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p068-para02",
-      "text": {
-        "de": {
-          "plain": "Den Kupplungszwischenring abheben.",
-          "runs": [
-            {
-              "text": "Den Kupplungszwischenring abheben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lift off the clutch intermediate ring.",
-          "runs": [
-            {
-              "text": "Lift off the clutch intermediate ring.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Levantar el anillo intermedio del embrague.",
-          "runs": [
-            {
-              "text": "Levantar el anillo intermedio del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p068-para03",
-      "text": {
-        "de": {
-          "plain": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
-          "runs": [
-            {
-              "text": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Remove the wire locks from the square-head screws of the flywheel fixing.",
-          "runs": [
-            {
-              "text": "Remove the wire locks from the square-head screws of the flywheel fixing.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante.",
-          "runs": [
-            {
-              "text": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p068-para04",
-      "text": {
-        "de": {
-          "plain": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
-          "runs": [
-            {
-              "text": "Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
-          "runs": [
-            {
-              "text": "Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
-          "runs": [
-            {
-              "text": "Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild107",
@@ -159,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 107",
+          "plain": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben. Den Kupplungszwischenring abheben.",
           "runs": [
             {
-              "text": "Bild 107",
+              "text": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben. Den Kupplungszwischenring abheben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 107",
+          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring. Lift off the clutch intermediate ring.",
           "runs": [
             {
-              "text": "Fig. 107",
+              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring. Lift off the clutch intermediate ring.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 107",
+          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague. Levantar el anillo intermedio del embrague.",
           "runs": [
             {
-              "text": "Fig. 107",
+              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague. Levantar el anillo intermedio del embrague.",
               "bold": false
             }
           ]
@@ -199,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 108",
+          "plain": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen. Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
           "runs": [
             {
-              "text": "Bild 108",
+              "text": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen. Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 108",
+          "plain": "Remove the wire locks from the square-head screws of the flywheel fixing. Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
           "runs": [
             {
-              "text": "Fig. 108",
+              "text": "Remove the wire locks from the square-head screws of the flywheel fixing. Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 108",
+          "plain": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante. Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
           "runs": [
             {
-              "text": "Fig. 108",
+              "text": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante. Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
               "bold": false
             }
           ]

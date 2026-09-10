@@ -21,74 +21,54 @@
     "previous": "d65250b-page-080",
     "next": "d65250b-page-082"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p081-para01",
-      "text": {
+      "id": "d65250b-bild130",
+      "number": 130,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen.",
+          "plain": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen. Die Gleitflächen leicht einfetten.",
           "runs": [
             {
-              "text": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen.",
+              "text": "Die Kupplungstreibscheiben prüfen, ob sie sich leicht auf den Mitnehmerzapfen schieben lassen. Die Gleitflächen leicht einfetten.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Check that the clutch driving discs slide easily onto the driving pins.",
+          "plain": "Check that the clutch driving discs slide easily onto the driving pins. Lightly grease the sliding surfaces.",
           "runs": [
             {
-              "text": "Check that the clutch driving discs slide easily onto the driving pins.",
+              "text": "Check that the clutch driving discs slide easily onto the driving pins. Lightly grease the sliding surfaces.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre.",
+          "plain": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre. Engrasar ligeramente las superficies de deslizamiento.",
           "runs": [
             {
-              "text": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre.",
+              "text": "Comprobar que los discos motrices del embrague se deslicen fácilmente sobre los pasadores de arrastre. Engrasar ligeramente las superficies de deslizamiento.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p081-para02",
-      "text": {
-        "de": {
-          "plain": "Die Gleitflächen leicht einfetten.",
-          "runs": [
-            {
-              "text": "Die Gleitflächen leicht einfetten.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lightly grease the sliding surfaces.",
-          "runs": [
-            {
-              "text": "Lightly grease the sliding surfaces.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Engrasar ligeramente las superficies de deslizamiento.",
-          "runs": [
-            {
-              "text": "Engrasar ligeramente las superficies de deslizamiento.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p081-para03",
-      "text": {
+      "id": "d65250b-bild131",
+      "number": 131,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Abwechselnd eine Kupplungsscheibe mit der langen Nabenseite nach außen und eine Kupplungstreibscheibe in den Kupplungsring einschieben (zwei Kupplungstreibscheiben und drei Kupplungsscheiben).",
           "runs": [
@@ -112,83 +92,6 @@
           "runs": [
             {
               "text": "Introducir alternativamente en el anillo de embrague un disco de embrague, con el lado largo del cubo hacia afuera, y un disco motriz del embrague (dos discos motrices y tres discos de embrague).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild130",
-      "number": 130,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 130",
-          "runs": [
-            {
-              "text": "Bild 130",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 130",
-          "runs": [
-            {
-              "text": "Fig. 130",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 130",
-          "runs": [
-            {
-              "text": "Fig. 130",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild131",
-      "number": 131,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 131",
-          "runs": [
-            {
-              "text": "Bild 131",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 131",
-          "runs": [
-            {
-              "text": "Fig. 131",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 131",
-          "runs": [
-            {
-              "text": "Fig. 131",
               "bold": false
             }
           ]

@@ -21,72 +21,7 @@
     "previous": "d65250b-page-008",
     "next": "d65250b-page-010"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p009-para01",
-      "text": {
-        "de": {
-          "plain": "Gelenkwelle mit Seil oder von Hand herausziehen.",
-          "runs": [
-            {
-              "text": "Gelenkwelle mit Seil oder von Hand herausziehen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull out the cardan shaft using a rope or by hand.",
-          "runs": [
-            {
-              "text": "Pull out the cardan shaft using a rope or by hand.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el árbol de transmisión con una cuerda o a mano.",
-          "runs": [
-            {
-              "text": "Extraer el árbol de transmisión con una cuerda o a mano.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p009-para02",
-      "text": {
-        "de": {
-          "plain": "Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
-          "runs": [
-            {
-              "text": "Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
-          "runs": [
-            {
-              "text": "Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura.",
-          "runs": [
-            {
-              "text": "Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild008",
@@ -95,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 8",
+          "plain": "Gelenkwelle mit Seil oder von Hand herausziehen. Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
           "runs": [
             {
-              "text": "Bild 8",
+              "text": "Gelenkwelle mit Seil oder von Hand herausziehen. Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 8",
+          "plain": "Pull out the cardan shaft using a rope or by hand. Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
           "runs": [
             {
-              "text": "Fig. 8",
+              "text": "Pull out the cardan shaft using a rope or by hand. Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 8",
+          "plain": "Extraer el árbol de transmisión con una cuerda o a mano. Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura.",
           "runs": [
             {
-              "text": "Fig. 8",
+              "text": "Extraer el árbol de transmisión con una cuerda o a mano. Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura.",
               "bold": false
             }
           ]

@@ -21,10 +21,14 @@
     "previous": "d65250b-page-025",
     "next": "d65250b-page-027"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p026-para01",
-      "text": {
+      "id": "d65250b-bild035",
+      "number": 35,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die hintere Zugfeder der unteren Bremsbacke aushängen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p026-para02",
-      "text": {
+      "id": "d65250b-bild036",
+      "number": 36,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Bremsbackenpaar mit Nachstellschloß ausheben.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Extraer el par de zapatas de freno junto con el cerrojo de reajuste.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild035",
-      "number": 35,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 35",
-          "runs": [
-            {
-              "text": "Bild 35",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 35",
-          "runs": [
-            {
-              "text": "Fig. 35",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 35",
-          "runs": [
-            {
-              "text": "Fig. 35",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild036",
-      "number": 36,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 36",
-          "runs": [
-            {
-              "text": "Bild 36",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 36",
-          "runs": [
-            {
-              "text": "Fig. 36",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 36",
-          "runs": [
-            {
-              "text": "Fig. 36",
               "bold": false
             }
           ]

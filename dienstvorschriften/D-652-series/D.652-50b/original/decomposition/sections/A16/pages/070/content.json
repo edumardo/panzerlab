@@ -21,10 +21,14 @@
     "previous": "d65250b-page-069",
     "next": "d65250b-page-071"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p070-para01",
-      "text": {
+      "id": "d65250b-bild110",
+      "number": 110,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Hammer und Dorn durch die drei Bohrungen in dem Gehäuse das Kugellager mit der Nabe ausschlagen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p070-para02",
-      "text": {
+      "id": "d65250b-bild111",
+      "number": 111,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Mit Hammer und Dorn durch die drei Bohrungen in dem Flansch das Kugellager von der Nabe schlagen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Con martillo y botador, separar el rodamiento de bolas del buje a través de los tres orificios de la brida.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild110",
-      "number": 110,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 110",
-          "runs": [
-            {
-              "text": "Bild 110",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 110",
-          "runs": [
-            {
-              "text": "Fig. 110",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 110",
-          "runs": [
-            {
-              "text": "Fig. 110",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild111",
-      "number": 111,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 111",
-          "runs": [
-            {
-              "text": "Bild 111",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 111",
-          "runs": [
-            {
-              "text": "Fig. 111",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 111",
-          "runs": [
-            {
-              "text": "Fig. 111",
               "bold": false
             }
           ]

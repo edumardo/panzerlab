@@ -21,168 +21,7 @@
     "previous": "d65250b-page-058",
     "next": "d65250b-page-060"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p059-para01",
-      "text": {
-        "de": {
-          "plain": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.)",
-          "runs": [
-            {
-              "text": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.)",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.)",
-          "runs": [
-            {
-              "text": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.)",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.)",
-          "runs": [
-            {
-              "text": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.)",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p059-para02",
-      "text": {
-        "de": {
-          "plain": "Sicherungsbleche auf den Befestigungsbolzen legen.",
-          "runs": [
-            {
-              "text": "Sicherungsbleche auf den Befestigungsbolzen legen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the sheet-metal locks onto the fixing bolts.",
-          "runs": [
-            {
-              "text": "Place the sheet-metal locks onto the fixing bolts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar las chapas de seguridad sobre los pernos de fijación.",
-          "runs": [
-            {
-              "text": "Colocar las chapas de seguridad sobre los pernos de fijación.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p059-para03",
-      "text": {
-        "de": {
-          "plain": "Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55.",
-          "runs": [
-            {
-              "text": "Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55.",
-          "runs": [
-            {
-              "text": "Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55.",
-          "runs": [
-            {
-              "text": "Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p059-para04",
-      "text": {
-        "de": {
-          "plain": "Die Muttern durch Umbiegen der Sicherungsbleche sichern.",
-          "runs": [
-            {
-              "text": "Die Muttern durch Umbiegen der Sicherungsbleche sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the nuts by bending over the sheet-metal locks.",
-          "runs": [
-            {
-              "text": "Secure the nuts by bending over the sheet-metal locks.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar las tuercas doblando las chapas de seguridad.",
-          "runs": [
-            {
-              "text": "Asegurar las tuercas doblando las chapas de seguridad.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p059-para05",
-      "text": {
-        "de": {
-          "plain": "Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
-          "runs": [
-            {
-              "text": "Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
-          "runs": [
-            {
-              "text": "Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54.",
-          "runs": [
-            {
-              "text": "Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild090",
@@ -191,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 90",
+          "plain": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.) Sicherungsbleche auf den Befestigungsbolzen legen. Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55. Die Muttern durch Umbiegen der Sicherungsbleche sichern. Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
           "runs": [
             {
-              "text": "Bild 90",
+              "text": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.) Sicherungsbleche auf den Befestigungsbolzen legen. Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55. Die Muttern durch Umbiegen der Sicherungsbleche sichern. Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 90",
+          "plain": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.) Place the sheet-metal locks onto the fixing bolts. Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55. Secure the nuts by bending over the sheet-metal locks. Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
           "runs": [
             {
-              "text": "Fig. 90",
+              "text": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.) Place the sheet-metal locks onto the fixing bolts. Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55. Secure the nuts by bending over the sheet-metal locks. Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 90",
+          "plain": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.) Colocar las chapas de seguridad sobre los pernos de fijación. Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55. Asegurar las tuercas doblando las chapas de seguridad. Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54.",
           "runs": [
             {
-              "text": "Fig. 90",
+              "text": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.) Colocar las chapas de seguridad sobre los pernos de fijación. Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55. Asegurar las tuercas doblando las chapas de seguridad. Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54.",
               "bold": false
             }
           ]

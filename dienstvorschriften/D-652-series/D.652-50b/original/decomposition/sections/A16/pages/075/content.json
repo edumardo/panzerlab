@@ -21,10 +21,14 @@
     "previous": "d65250b-page-074",
     "next": "d65250b-page-076"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p075-para01",
-      "text": {
+      "id": "d65250b-bild120",
+      "number": 120,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die drei Befestigungsschrauben des Ausrücklagers mit Draht sichern.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p075-para02",
-      "text": {
-        "de": {
-          "plain": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
-          "runs": [
-            {
-              "text": "Kupplungsdruckplatte vor den Kupplungsdeckel halten.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Hold the clutch pressure plate up against the clutch cover.",
-          "runs": [
-            {
-              "text": "Hold the clutch pressure plate up against the clutch cover.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Sujetar la placa de presión del embrague contra la tapa del embrague.",
-          "runs": [
-            {
-              "text": "Sujetar la placa de presión del embrague contra la tapa del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p075-para03",
-      "text": {
-        "de": {
-          "plain": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
-          "runs": [
-            {
-              "text": "Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
-          "runs": [
-            {
-              "text": "Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
-          "runs": [
-            {
-              "text": "Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild120",
-      "number": 120,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 120",
-          "runs": [
-            {
-              "text": "Bild 120",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 120",
-          "runs": [
-            {
-              "text": "Fig. 120",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 120",
-          "runs": [
-            {
-              "text": "Fig. 120",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 121",
+          "plain": "Kupplungsdruckplatte vor den Kupplungsdeckel halten. Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
           "runs": [
             {
-              "text": "Bild 121",
+              "text": "Kupplungsdruckplatte vor den Kupplungsdeckel halten. Die seitlichen Haltefedern der Kupplungsdruckplatte (1) mit Zange so weit herausziehen, bis sich die Haltescheiben (2) einführen lassen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 121",
+          "plain": "Hold the clutch pressure plate up against the clutch cover. Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
           "runs": [
             {
-              "text": "Fig. 121",
+              "text": "Hold the clutch pressure plate up against the clutch cover. Using pliers, pull out the lateral retaining springs of the clutch pressure plate (1) far enough for the retaining discs (2) to be inserted.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 121",
+          "plain": "Sujetar la placa de presión del embrague contra la tapa del embrague. Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
           "runs": [
             {
-              "text": "Fig. 121",
+              "text": "Sujetar la placa de presión del embrague contra la tapa del embrague. Con unos alicates, tirar de los muelles de retención laterales de la placa de presión del embrague (1) hasta que puedan introducirse las arandelas de retención (2).",
               "bold": false
             }
           ]

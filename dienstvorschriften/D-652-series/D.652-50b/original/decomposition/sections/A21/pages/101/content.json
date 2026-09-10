@@ -21,106 +21,54 @@
     "previous": "d65250b-page-100",
     "next": "d65250b-page-102"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p101-para01",
-      "text": {
+      "id": "d65250b-bild161",
+      "number": 161,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Den vorderen Verbindungsbolzen aus dem Kupplungsgestänge ziehen.",
+          "plain": "Den vorderen Verbindungsbolzen aus dem Kupplungsgestänge ziehen. Bei Ausführung A Kupplungsgestänge aus dem Gabelgelenk am Schaltkasten ausschrauben. Gestänge aus dem Geschützsockel ziehen und den Sockel mit Hebevorrichtung ausheben.",
           "runs": [
             {
-              "text": "Den vorderen Verbindungsbolzen aus dem Kupplungsgestänge ziehen.",
+              "text": "Den vorderen Verbindungsbolzen aus dem Kupplungsgestänge ziehen. Bei Ausführung A Kupplungsgestänge aus dem Gabelgelenk am Schaltkasten ausschrauben. Gestänge aus dem Geschützsockel ziehen und den Sockel mit Hebevorrichtung ausheben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Pull the front connecting pin out of the clutch linkage.",
+          "plain": "Pull the front connecting pin out of the clutch linkage. On version A, unscrew the clutch linkage from the fork joint at the gearshift housing. Pull the linkage out of the gun mount base and lift the base out using the lifting gear.",
           "runs": [
             {
-              "text": "Pull the front connecting pin out of the clutch linkage.",
+              "text": "Pull the front connecting pin out of the clutch linkage. On version A, unscrew the clutch linkage from the fork joint at the gearshift housing. Pull the linkage out of the gun mount base and lift the base out using the lifting gear.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Extraer el pasador de unión delantero del varillaje del embrague.",
+          "plain": "Extraer el pasador de unión delantero del varillaje del embrague. En la versión A, desenroscar el varillaje del embrague de la rótula de horquilla en la caja de mandos. Extraer el varillaje de la base del cañón y sacar la base con el dispositivo de elevación.",
           "runs": [
             {
-              "text": "Extraer el pasador de unión delantero del varillaje del embrague.",
+              "text": "Extraer el pasador de unión delantero del varillaje del embrague. En la versión A, desenroscar el varillaje del embrague de la rótula de horquilla en la caja de mandos. Extraer el varillaje de la base del cañón y sacar la base con el dispositivo de elevación.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p101-para02",
-      "text": {
-        "de": {
-          "plain": "Bei Ausführung A Kupplungsgestänge aus dem Gabelgelenk am Schaltkasten ausschrauben.",
-          "runs": [
-            {
-              "text": "Bei Ausführung A Kupplungsgestänge aus dem Gabelgelenk am Schaltkasten ausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "On version A, unscrew the clutch linkage from the fork joint at the gearshift housing.",
-          "runs": [
-            {
-              "text": "On version A, unscrew the clutch linkage from the fork joint at the gearshift housing.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "En la versión A, desenroscar el varillaje del embrague de la rótula de horquilla en la caja de mandos.",
-          "runs": [
-            {
-              "text": "En la versión A, desenroscar el varillaje del embrague de la rótula de horquilla en la caja de mandos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p101-para03",
-      "text": {
-        "de": {
-          "plain": "Gestänge aus dem Geschützsockel ziehen und den Sockel mit Hebevorrichtung ausheben.",
-          "runs": [
-            {
-              "text": "Gestänge aus dem Geschützsockel ziehen und den Sockel mit Hebevorrichtung ausheben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the linkage out of the gun mount base and lift the base out using the lifting gear.",
-          "runs": [
-            {
-              "text": "Pull the linkage out of the gun mount base and lift the base out using the lifting gear.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el varillaje de la base del cañón y sacar la base con el dispositivo de elevación.",
-          "runs": [
-            {
-              "text": "Extraer el varillaje de la base del cañón y sacar la base con el dispositivo de elevación.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p101-para04",
-      "text": {
+      "id": "d65250b-bild162",
+      "number": 162,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Beachten: Die auf Abbildung bezeichneten Scheiben der Geschützsockelausrichtung dürfen nicht verwechselt werden.",
           "runs": [
@@ -144,83 +92,6 @@
           "runs": [
             {
               "text": "Atención: Las arandelas de alineación de la base del cañón señaladas en la figura no deben confundirse entre sí.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild161",
-      "number": 161,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 161",
-          "runs": [
-            {
-              "text": "Bild 161",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 161",
-          "runs": [
-            {
-              "text": "Fig. 161",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 161",
-          "runs": [
-            {
-              "text": "Fig. 161",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild162",
-      "number": 162,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 162",
-          "runs": [
-            {
-              "text": "Bild 162",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 162",
-          "runs": [
-            {
-              "text": "Fig. 162",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 162",
-          "runs": [
-            {
-              "text": "Fig. 162",
               "bold": false
             }
           ]

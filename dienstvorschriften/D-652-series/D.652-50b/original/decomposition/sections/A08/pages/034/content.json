@@ -21,74 +21,54 @@
     "previous": "d65250b-page-033",
     "next": "d65250b-page-035"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p034-para01",
-      "text": {
+      "id": "d65250b-bild051",
+      "number": 51,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.",
+          "plain": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben. Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
           "runs": [
             {
-              "text": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben.",
+              "text": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben. Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Screw the pair of brake shoes together with the adjusting device.",
+          "plain": "Screw the pair of brake shoes together with the adjusting device. Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
           "runs": [
             {
-              "text": "Screw the pair of brake shoes together with the adjusting device.",
+              "text": "Screw the pair of brake shoes together with the adjusting device. Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste.",
+          "plain": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste. Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
           "runs": [
             {
-              "text": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste.",
+              "text": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste. Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p034-para02",
-      "text": {
-        "de": {
-          "plain": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
-          "runs": [
-            {
-              "text": "Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
-          "runs": [
-            {
-              "text": "Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
-          "runs": [
-            {
-              "text": "Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p034-para03",
-      "text": {
+      "id": "d65250b-bild052",
+      "number": 52,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.",
           "runs": [
@@ -112,83 +92,6 @@
           "runs": [
             {
               "text": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild051",
-      "number": 51,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 51",
-          "runs": [
-            {
-              "text": "Bild 51",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 51",
-          "runs": [
-            {
-              "text": "Fig. 51",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 51",
-          "runs": [
-            {
-              "text": "Fig. 51",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild052",
-      "number": 52,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 52",
-          "runs": [
-            {
-              "text": "Bild 52",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 52",
-          "runs": [
-            {
-              "text": "Fig. 52",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 52",
-          "runs": [
-            {
-              "text": "Fig. 52",
               "bold": false
             }
           ]

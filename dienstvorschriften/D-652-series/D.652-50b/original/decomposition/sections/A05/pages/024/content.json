@@ -21,74 +21,54 @@
     "previous": "d65250b-page-023",
     "next": "d65250b-page-025"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p024-para01",
-      "text": {
+      "id": "d65250b-bild031",
+      "number": 31,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Vor dem Abbauen der Stützbremstrommel Stützbremse lösen.",
+          "plain": "Vor dem Abbauen der Stützbremstrommel Stützbremse lösen. Lenkhebel anziehen und den Stufenkeil mit der 3. Stufe zwischen Stellschraube und Bremshebel schieben.",
           "runs": [
             {
-              "text": "Vor dem Abbauen der Stützbremstrommel Stützbremse lösen.",
+              "text": "Vor dem Abbauen der Stützbremstrommel Stützbremse lösen. Lenkhebel anziehen und den Stufenkeil mit der 3. Stufe zwischen Stellschraube und Bremshebel schieben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Before removing the support brake drum, release the support brake.",
+          "plain": "Before removing the support brake drum, release the support brake. Pull the steering lever and push the stepped wedge, using the 3rd step, between the adjusting screw and the brake lever.",
           "runs": [
             {
-              "text": "Before removing the support brake drum, release the support brake.",
+              "text": "Before removing the support brake drum, release the support brake. Pull the steering lever and push the stepped wedge, using the 3rd step, between the adjusting screw and the brake lever.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Antes de desmontar el tambor del freno de apoyo, soltar el freno de apoyo.",
+          "plain": "Antes de desmontar el tambor del freno de apoyo, soltar el freno de apoyo. Tirar de la palanca de dirección e introducir la cuña escalonada, con el 3er escalón, entre el tornillo de ajuste y la palanca de freno.",
           "runs": [
             {
-              "text": "Antes de desmontar el tambor del freno de apoyo, soltar el freno de apoyo.",
+              "text": "Antes de desmontar el tambor del freno de apoyo, soltar el freno de apoyo. Tirar de la palanca de dirección e introducir la cuña escalonada, con el 3er escalón, entre el tornillo de ajuste y la palanca de freno.",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p024-para02",
-      "text": {
-        "de": {
-          "plain": "Lenkhebel anziehen und den Stufenkeil mit der 3. Stufe zwischen Stellschraube und Bremshebel schieben.",
-          "runs": [
-            {
-              "text": "Lenkhebel anziehen und den Stufenkeil mit der 3. Stufe zwischen Stellschraube und Bremshebel schieben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the steering lever and push the stepped wedge, using the 3rd step, between the adjusting screw and the brake lever.",
-          "runs": [
-            {
-              "text": "Pull the steering lever and push the stepped wedge, using the 3rd step, between the adjusting screw and the brake lever.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Tirar de la palanca de dirección e introducir la cuña escalonada, con el 3er escalón, entre el tornillo de ajuste y la palanca de freno.",
-          "runs": [
-            {
-              "text": "Tirar de la palanca de dirección e introducir la cuña escalonada, con el 3er escalón, entre el tornillo de ajuste y la palanca de freno.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p024-para03",
-      "text": {
+      "id": "d65250b-bild032",
+      "number": 32,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Zwei 10-mm-Schrauben in die Gewindelöcher einschrauben und die Stützbremstrommel durch gleichmäßiges Anziehen beider Schrauben abdrücken.",
           "runs": [
@@ -112,83 +92,6 @@
           "runs": [
             {
               "text": "Enroscar dos tornillos de 10 mm en los orificios roscados y desprender el tambor del freno de apoyo apretando ambos tornillos por igual.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild031",
-      "number": 31,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 31",
-          "runs": [
-            {
-              "text": "Bild 31",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 31",
-          "runs": [
-            {
-              "text": "Fig. 31",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 31",
-          "runs": [
-            {
-              "text": "Fig. 31",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild032",
-      "number": 32,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 32",
-          "runs": [
-            {
-              "text": "Bild 32",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 32",
-          "runs": [
-            {
-              "text": "Fig. 32",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 32",
-          "runs": [
-            {
-              "text": "Fig. 32",
               "bold": false
             }
           ]

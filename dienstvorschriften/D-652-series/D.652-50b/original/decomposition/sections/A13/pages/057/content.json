@@ -117,70 +117,6 @@
           ]
         }
       }
-    },
-    {
-      "id": "d65250b-p057-para04",
-      "text": {
-        "de": {
-          "plain": "Seitenvorgelege auf den Holzunterbau heben, Bild 59.",
-          "runs": [
-            {
-              "text": "Seitenvorgelege auf den Holzunterbau heben, Bild 59.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lift the final drive unit onto the wooden support, Fig. 59.",
-          "runs": [
-            {
-              "text": "Lift the final drive unit onto the wooden support, Fig. 59.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59.",
-          "runs": [
-            {
-              "text": "Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p057-para05",
-      "text": {
-        "de": {
-          "plain": "Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
-          "runs": [
-            {
-              "text": "Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Press the final drive unit against the hull using crowbars.",
-          "runs": [
-            {
-              "text": "Press the final drive unit against the hull using crowbars.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Empujar el engranaje lateral final contra el casco blindado con palancas.",
-          "runs": [
-            {
-              "text": "Empujar el engranaje lateral final contra el casco blindado con palancas.",
-              "bold": false
-            }
-          ]
-        }
-      }
     }
   ],
   "figures": [
@@ -191,28 +127,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 88",
+          "plain": "Seitenvorgelege auf den Holzunterbau heben, Bild 59. Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
           "runs": [
             {
-              "text": "Bild 88",
+              "text": "Seitenvorgelege auf den Holzunterbau heben, Bild 59. Seitenvorgelege mit Brechstangen an die Panzerwanne herandrücken.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 88",
+          "plain": "Lift the final drive unit onto the wooden support, Fig. 59. Press the final drive unit against the hull using crowbars.",
           "runs": [
             {
-              "text": "Fig. 88",
+              "text": "Lift the final drive unit onto the wooden support, Fig. 59. Press the final drive unit against the hull using crowbars.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 88",
+          "plain": "Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59. Empujar el engranaje lateral final contra el casco blindado con palancas.",
           "runs": [
             {
-              "text": "Fig. 88",
+              "text": "Levantar el engranaje lateral final sobre el soporte de madera, Fig. 59. Empujar el engranaje lateral final contra el casco blindado con palancas.",
               "bold": false
             }
           ]

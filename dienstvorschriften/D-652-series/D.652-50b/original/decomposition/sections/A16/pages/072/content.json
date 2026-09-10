@@ -21,10 +21,14 @@
     "previous": "d65250b-page-071",
     "next": "d65250b-page-073"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p072-para01",
-      "text": {
+      "id": "d65250b-bild114",
+      "number": 114,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Nabe mit Kugellager in das Gehäuse führen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p072-para02",
-      "text": {
+      "id": "d65250b-bild115",
+      "number": 115,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild114",
-      "number": 114,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 114",
-          "runs": [
-            {
-              "text": "Bild 114",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 114",
-          "runs": [
-            {
-              "text": "Fig. 114",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 114",
-          "runs": [
-            {
-              "text": "Fig. 114",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild115",
-      "number": 115,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 115",
-          "runs": [
-            {
-              "text": "Bild 115",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 115",
-          "runs": [
-            {
-              "text": "Fig. 115",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 115",
-          "runs": [
-            {
-              "text": "Fig. 115",
               "bold": false
             }
           ]

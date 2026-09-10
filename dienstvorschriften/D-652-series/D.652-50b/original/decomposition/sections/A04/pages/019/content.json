@@ -53,102 +53,6 @@
           ]
         }
       }
-    },
-    {
-      "id": "d65250b-p019-para02",
-      "text": {
-        "de": {
-          "plain": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.",
-          "runs": [
-            {
-              "text": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws.",
-          "runs": [
-            {
-              "text": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención.",
-          "runs": [
-            {
-              "text": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p019-para03",
-      "text": {
-        "de": {
-          "plain": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.",
-          "runs": [
-            {
-              "text": "Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fit the asbestos hoses onto the stubs of the brake shoes.",
-          "runs": [
-            {
-              "text": "Fit the asbestos hoses onto the stubs of the brake shoes.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno.",
-          "runs": [
-            {
-              "text": "Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p019-para04",
-      "text": {
-        "de": {
-          "plain": "Die Asbestschläuche mit Bindedraht festbinden.",
-          "runs": [
-            {
-              "text": "Die Asbestschläuche mit Bindedraht festbinden.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Tie the asbestos hoses fast with binding wire.",
-          "runs": [
-            {
-              "text": "Tie the asbestos hoses fast with binding wire.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atar las mangueras de amianto con alambre de atado.",
-          "runs": [
-            {
-              "text": "Atar las mangueras de amianto con alambre de atado.",
-              "bold": false
-            }
-          ]
-        }
-      }
     }
   ],
   "figures": [
@@ -159,28 +63,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 24",
+          "plain": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben. Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen. Die Asbestschläuche mit Bindedraht festbinden.",
           "runs": [
             {
-              "text": "Bild 24",
+              "text": "Beide Bremsbacken mit der langen Zugfeder und Nachstellvorrichtung mit den zwei Halteschrauben festschrauben. Die Asbestschläuche auf die Stutzen der Bremsbacken aufbringen. Die Asbestschläuche mit Bindedraht festbinden.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 24",
+          "plain": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws. Fit the asbestos hoses onto the stubs of the brake shoes. Tie the asbestos hoses fast with binding wire.",
           "runs": [
             {
-              "text": "Fig. 24",
+              "text": "Screw both brake shoes, complete with the long tension spring and adjusting device, tight using the two retaining screws. Fit the asbestos hoses onto the stubs of the brake shoes. Tie the asbestos hoses fast with binding wire.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 24",
+          "plain": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención. Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno. Atar las mangueras de amianto con alambre de atado.",
           "runs": [
             {
-              "text": "Fig. 24",
+              "text": "Atornillar ambas zapatas de freno, junto con el muelle de tracción largo y el dispositivo de reajuste, mediante los dos tornillos de retención. Colocar las mangueras de amianto sobre las boquillas de las zapatas de freno. Atar las mangueras de amianto con alambre de atado.",
               "bold": false
             }
           ]

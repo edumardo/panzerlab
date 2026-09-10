@@ -21,168 +21,7 @@
     "previous": "d65250b-page-085",
     "next": "d65250b-page-087"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p086-para01",
-      "text": {
-        "de": {
-          "plain": "Die Kupplungswelle ganz in die Kupplung einschieben.",
-          "runs": [
-            {
-              "text": "Die Kupplungswelle ganz in die Kupplung einschieben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Push the clutch shaft fully into the clutch.",
-          "runs": [
-            {
-              "text": "Push the clutch shaft fully into the clutch.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Introducir el eje de embrague por completo en el embrague.",
-          "runs": [
-            {
-              "text": "Introducir el eje de embrague por completo en el embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p086-para02",
-      "text": {
-        "de": {
-          "plain": "Mit Verstellschlüssel die Kupplung leicht auslösen.",
-          "runs": [
-            {
-              "text": "Mit Verstellschlüssel die Kupplung leicht auslösen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Release the clutch slightly using the adjusting spanner.",
-          "runs": [
-            {
-              "text": "Release the clutch slightly using the adjusting spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desembragar ligeramente con la llave de ajuste.",
-          "runs": [
-            {
-              "text": "Desembragar ligeramente con la llave de ajuste.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p086-para03",
-      "text": {
-        "de": {
-          "plain": "Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen.",
-          "runs": [
-            {
-              "text": "Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre.",
-          "runs": [
-            {
-              "text": "Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado.",
-          "runs": [
-            {
-              "text": "Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p086-para04",
-      "text": {
-        "de": {
-          "plain": "Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben.",
-          "runs": [
-            {
-              "text": "Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner.",
-          "runs": [
-            {
-              "text": "Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras.",
-          "runs": [
-            {
-              "text": "Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p086-para05",
-      "text": {
-        "de": {
-          "plain": "Die Muttern durch Umbiegen der Blechsicherungen sichern.",
-          "runs": [
-            {
-              "text": "Die Muttern durch Umbiegen der Blechsicherungen sichern.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Secure the nuts by bending over the sheet-metal locks.",
-          "runs": [
-            {
-              "text": "Secure the nuts by bending over the sheet-metal locks.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Asegurar las tuercas doblando las chapas de seguridad.",
-          "runs": [
-            {
-              "text": "Asegurar las tuercas doblando las chapas de seguridad.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild139",
@@ -191,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 139",
+          "plain": "Die Kupplungswelle ganz in die Kupplung einschieben. Mit Verstellschlüssel die Kupplung leicht auslösen. Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen. Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben. Die Muttern durch Umbiegen der Blechsicherungen sichern.",
           "runs": [
             {
-              "text": "Bild 139",
+              "text": "Die Kupplungswelle ganz in die Kupplung einschieben. Mit Verstellschlüssel die Kupplung leicht auslösen. Beachten: Die Kupplung nur bei eingeschobener Kupplungswelle auslösen, da sonst die Kupplungstreibscheiben aus der Mitte rutschen. Sicherungsbleche auf die Stiftschrauben der vorderen Lagerbefestigung legen und mit 17-SW-Steckschlüssel die Muttern festschrauben. Die Muttern durch Umbiegen der Blechsicherungen sichern.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 139",
+          "plain": "Push the clutch shaft fully into the clutch. Release the clutch slightly using the adjusting spanner. Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre. Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner. Secure the nuts by bending over the sheet-metal locks.",
           "runs": [
             {
-              "text": "Fig. 139",
+              "text": "Push the clutch shaft fully into the clutch. Release the clutch slightly using the adjusting spanner. Note: Only release the clutch with the clutch shaft inserted, as otherwise the clutch driving discs will slip out of centre. Place the locking plates on the studs of the front bearing fixing and tighten the nuts with a 17 mm A/F socket spanner. Secure the nuts by bending over the sheet-metal locks.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 139",
+          "plain": "Introducir el eje de embrague por completo en el embrague. Desembragar ligeramente con la llave de ajuste. Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado. Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras. Asegurar las tuercas doblando las chapas de seguridad.",
           "runs": [
             {
-              "text": "Fig. 139",
+              "text": "Introducir el eje de embrague por completo en el embrague. Desembragar ligeramente con la llave de ajuste. Atención: Desembragar únicamente con el eje de embrague introducido, ya que de lo contrario los discos motrices del embrague se saldrían de su centrado. Colocar las chapas de seguridad sobre los pernos prisioneros de la fijación del cojinete delantero y apretar las tuercas con una llave de vaso de 17 mm de entrecaras. Asegurar las tuercas doblando las chapas de seguridad.",
               "bold": false
             }
           ]

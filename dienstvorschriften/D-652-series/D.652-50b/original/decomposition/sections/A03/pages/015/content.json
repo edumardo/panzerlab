@@ -26,70 +26,6 @@
       "id": "d65250b-p015-para01",
       "text": {
         "de": {
-          "plain": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).",
-          "runs": [
-            {
-              "text": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).",
-          "runs": [
-            {
-              "text": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹).",
-          "runs": [
-            {
-              "text": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p015-para02",
-      "text": {
-        "de": {
-          "plain": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.",
-          "runs": [
-            {
-              "text": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.",
-          "runs": [
-            {
-              "text": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador.",
-          "runs": [
-            {
-              "text": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p015-para03",
-      "text": {
-        "de": {
           "plain": "¹) Siehe im Anhang.",
           "runs": [
             {
@@ -119,7 +55,7 @@
       }
     },
     {
-      "id": "d65250b-p015-para04",
+      "id": "d65250b-p015-para02",
       "text": {
         "de": {
           "plain": "Asbestschläuche vorsichtig von den Stutzen der Bremsbacken lösen, Bild 19.",
@@ -159,28 +95,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 16",
+          "plain": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).",
           "runs": [
             {
-              "text": "Bild 16",
+              "text": "Haltefedern der Bremsbacken mit Zughaken aushängen (Zeichnung 2)¹).",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 16",
+          "plain": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).",
           "runs": [
             {
-              "text": "Fig. 16",
+              "text": "Unhook the retaining springs of the brake shoes using a pull hook (Drawing 2)¹).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 16",
+          "plain": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹).",
           "runs": [
             {
-              "text": "Fig. 16",
+              "text": "Desenganchar los resortes de retención de las zapatas de freno con un gancho tirador (dibujo 2)¹).",
               "bold": false
             }
           ]
@@ -199,28 +135,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 17",
+          "plain": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.",
           "runs": [
             {
-              "text": "Bild 17",
+              "text": "Ist kein Zughaken vorhanden, können die Haltefedern der Bremsbacken mit Drahtzug und Dorn ausgehängt werden.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 17",
+          "plain": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.",
           "runs": [
             {
-              "text": "Fig. 17",
+              "text": "If no pull hook is available, the retaining springs of the brake shoes can be unhooked using a wire pull and a drift.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 17",
+          "plain": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador.",
           "runs": [
             {
-              "text": "Fig. 17",
+              "text": "Si no se dispone de gancho tirador, los resortes de retención de las zapatas de freno pueden desengancharse con un tirador de alambre y un botador.",
               "bold": false
             }
           ]

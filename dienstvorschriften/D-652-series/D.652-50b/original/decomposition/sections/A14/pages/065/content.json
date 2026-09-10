@@ -21,10 +21,14 @@
     "previous": "d65250b-page-064",
     "next": "d65250b-page-066"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p065-para01",
-      "text": {
+      "id": "d65250b-bild101",
+      "number": 101,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Auszuwechselnde Ausrückhebel mit Ausrückbolzen aus dem Kupplungsdeckel ziehen.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p065-para02",
-      "text": {
-        "de": {
-          "plain": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen.",
-          "runs": [
-            {
-              "text": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement.",
-          "runs": [
-            {
-              "text": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad.",
-          "runs": [
-            {
-              "text": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p065-para03",
-      "text": {
-        "de": {
-          "plain": "Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
-          "runs": [
-            {
-              "text": "Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
-          "runs": [
-            {
-              "text": "Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados.",
-          "runs": [
-            {
-              "text": "Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild101",
-      "number": 101,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 101",
-          "runs": [
-            {
-              "text": "Bild 101",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 101",
-          "runs": [
-            {
-              "text": "Fig. 101",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 101",
-          "runs": [
-            {
-              "text": "Fig. 101",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 102",
+          "plain": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen. Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
           "runs": [
             {
-              "text": "Bild 102",
+              "text": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen. Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 102",
+          "plain": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement. Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
           "runs": [
             {
-              "text": "Fig. 102",
+              "text": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement. Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 102",
+          "plain": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad. Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados.",
           "runs": [
             {
-              "text": "Fig. 102",
+              "text": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad. Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados.",
               "bold": false
             }
           ]

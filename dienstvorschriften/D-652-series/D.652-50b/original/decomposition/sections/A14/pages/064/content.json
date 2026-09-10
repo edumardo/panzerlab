@@ -21,200 +21,7 @@
     "previous": "d65250b-page-063",
     "next": "d65250b-page-065"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p064-para01",
-      "text": {
-        "de": {
-          "plain": "Mit Zange die Haltefedern so weit herausziehen, bis sich die Scheiben der Haltefedern seitlich entfernen lassen.",
-          "runs": [
-            {
-              "text": "Mit Zange die Haltefedern so weit herausziehen, bis sich die Scheiben der Haltefedern seitlich entfernen lassen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using pliers, pull out the retaining springs until the washers of the retaining springs can be removed sideways.",
-          "runs": [
-            {
-              "text": "Using pliers, pull out the retaining springs until the washers of the retaining springs can be removed sideways.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con unos alicates, extraer los resortes de retención hasta que las arandelas de los resortes de retención puedan retirarse lateralmente.",
-          "runs": [
-            {
-              "text": "Con unos alicates, extraer los resortes de retención hasta que las arandelas de los resortes de retención puedan retirarse lateralmente.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p064-para02",
-      "text": {
-        "de": {
-          "plain": "Kupplungsdruckplatte abheben.",
-          "runs": [
-            {
-              "text": "Kupplungsdruckplatte abheben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Lift off the clutch pressure plate.",
-          "runs": [
-            {
-              "text": "Lift off the clutch pressure plate.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Levantar el plato de presión del embrague.",
-          "runs": [
-            {
-              "text": "Levantar el plato de presión del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p064-para03",
-      "text": {
-        "de": {
-          "plain": "Mit der Vorrichtung, Zeichnung 3 D 652/50 a, die Kupplungsdruckfeder entspannen.",
-          "runs": [
-            {
-              "text": "Mit der Vorrichtung, Zeichnung 3 D 652/50 a, die Kupplungsdruckfeder entspannen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using the fixture, Drawing 3, D 652/50 a, release the tension of the clutch pressure spring.",
-          "runs": [
-            {
-              "text": "Using the fixture, Drawing 3, D 652/50 a, release the tension of the clutch pressure spring.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague.",
-          "runs": [
-            {
-              "text": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p064-para04",
-      "text": {
-        "de": {
-          "plain": "Sicherungsdraht aus den drei Befestigungsschrauben des Ausrücklagers ziehen und diese mit 14-SW-Maulschlüssel ausschrauben.",
-          "runs": [
-            {
-              "text": "Sicherungsdraht aus den drei Befestigungsschrauben des Ausrücklagers ziehen und diese mit 14-SW-Maulschlüssel ausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the locking wire out of the three fixing screws of the release bearing and unscrew them using a 14 mm (A/F) open-ended spanner.",
-          "runs": [
-            {
-              "text": "Pull the locking wire out of the three fixing screws of the release bearing and unscrew them using a 14 mm (A/F) open-ended spanner.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras).",
-          "runs": [
-            {
-              "text": "Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p064-para05",
-      "text": {
-        "de": {
-          "plain": "Vorrichtung auseinanderschrauben.",
-          "runs": [
-            {
-              "text": "Vorrichtung auseinanderschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Unscrew the fixture apart.",
-          "runs": [
-            {
-              "text": "Unscrew the fixture apart.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Desmontar el dispositivo desenroscándolo.",
-          "runs": [
-            {
-              "text": "Desmontar el dispositivo desenroscándolo.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p064-para06",
-      "text": {
-        "de": {
-          "plain": "Beachten: Bei festsitzendem Ausrücklager dieses mit Hebel von den drei Zapfen der Schiebebolzen abdrücken.",
-          "runs": [
-            {
-              "text": "Beachten: Bei festsitzendem Ausrücklager dieses mit Hebel von den drei Zapfen der Schiebebolzen abdrücken.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: If the release bearing is stuck, press it off the three pins of the sliding bolts using a lever.",
-          "runs": [
-            {
-              "text": "Note: If the release bearing is stuck, press it off the three pins of the sliding bolts using a lever.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
-          "runs": [
-            {
-              "text": "Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild099",
@@ -223,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 99",
+          "plain": "Mit Zange die Haltefedern so weit herausziehen, bis sich die Scheiben der Haltefedern seitlich entfernen lassen. Kupplungsdruckplatte abheben.",
           "runs": [
             {
-              "text": "Bild 99",
+              "text": "Mit Zange die Haltefedern so weit herausziehen, bis sich die Scheiben der Haltefedern seitlich entfernen lassen. Kupplungsdruckplatte abheben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 99",
+          "plain": "Using pliers, pull out the retaining springs until the washers of the retaining springs can be removed sideways. Lift off the clutch pressure plate.",
           "runs": [
             {
-              "text": "Fig. 99",
+              "text": "Using pliers, pull out the retaining springs until the washers of the retaining springs can be removed sideways. Lift off the clutch pressure plate.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 99",
+          "plain": "Con unos alicates, extraer los resortes de retención hasta que las arandelas de los resortes de retención puedan retirarse lateralmente. Levantar el plato de presión del embrague.",
           "runs": [
             {
-              "text": "Fig. 99",
+              "text": "Con unos alicates, extraer los resortes de retención hasta que las arandelas de los resortes de retención puedan retirarse lateralmente. Levantar el plato de presión del embrague.",
               "bold": false
             }
           ]
@@ -263,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 100",
+          "plain": "Mit der Vorrichtung, Zeichnung 3 D 652/50 a, die Kupplungsdruckfeder entspannen. Sicherungsdraht aus den drei Befestigungsschrauben des Ausrücklagers ziehen und diese mit 14-SW-Maulschlüssel ausschrauben. Vorrichtung auseinanderschrauben. Beachten: Bei festsitzendem Ausrücklager dieses mit Hebel von den drei Zapfen der Schiebebolzen abdrücken.",
           "runs": [
             {
-              "text": "Bild 100",
+              "text": "Mit der Vorrichtung, Zeichnung 3 D 652/50 a, die Kupplungsdruckfeder entspannen. Sicherungsdraht aus den drei Befestigungsschrauben des Ausrücklagers ziehen und diese mit 14-SW-Maulschlüssel ausschrauben. Vorrichtung auseinanderschrauben. Beachten: Bei festsitzendem Ausrücklager dieses mit Hebel von den drei Zapfen der Schiebebolzen abdrücken.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 100",
+          "plain": "Using the fixture, Drawing 3, D 652/50 a, release the tension of the clutch pressure spring. Pull the locking wire out of the three fixing screws of the release bearing and unscrew them using a 14 mm (A/F) open-ended spanner. Unscrew the fixture apart. Note: If the release bearing is stuck, press it off the three pins of the sliding bolts using a lever.",
           "runs": [
             {
-              "text": "Fig. 100",
+              "text": "Using the fixture, Drawing 3, D 652/50 a, release the tension of the clutch pressure spring. Pull the locking wire out of the three fixing screws of the release bearing and unscrew them using a 14 mm (A/F) open-ended spanner. Unscrew the fixture apart. Note: If the release bearing is stuck, press it off the three pins of the sliding bolts using a lever.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 100",
+          "plain": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague. Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras). Desmontar el dispositivo desenroscándolo. Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
           "runs": [
             {
-              "text": "Fig. 100",
+              "text": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague. Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras). Desmontar el dispositivo desenroscándolo. Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
               "bold": false
             }
           ]

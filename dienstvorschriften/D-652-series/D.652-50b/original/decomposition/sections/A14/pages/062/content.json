@@ -21,74 +21,54 @@
     "previous": "d65250b-page-061",
     "next": "d65250b-page-063"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p062-para01",
-      "text": {
+      "id": "d65250b-bild095",
+      "number": 95,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
-          "plain": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben.",
+          "plain": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben. Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
           "runs": [
             {
-              "text": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben.",
+              "text": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben. Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1).",
+          "plain": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1). Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
           "runs": [
             {
-              "text": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1).",
+              "text": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1). Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1).",
+          "plain": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1). Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3).",
           "runs": [
             {
-              "text": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1).",
+              "text": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1). Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3).",
               "bold": false
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p062-para02",
-      "text": {
-        "de": {
-          "plain": "Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
-          "runs": [
-            {
-              "text": "Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
-          "runs": [
-            {
-              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3).",
-          "runs": [
-            {
-              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3).",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p062-para03",
-      "text": {
+      "id": "d65250b-bild096",
+      "number": 96,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Kupplungswelle mit Lagerflansch aus der Kupplung ziehen und das Kupplungsgehäuse ausheben.",
           "runs": [
@@ -112,83 +92,6 @@
           "runs": [
             {
               "text": "Extraer el eje del embrague junto con la brida de cojinete del embrague y levantar la carcasa del embrague.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild095",
-      "number": 95,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 95",
-          "runs": [
-            {
-              "text": "Bild 95",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 95",
-          "runs": [
-            {
-              "text": "Fig. 95",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 95",
-          "runs": [
-            {
-              "text": "Fig. 95",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild096",
-      "number": 96,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 96",
-          "runs": [
-            {
-              "text": "Bild 96",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 96",
-          "runs": [
-            {
-              "text": "Fig. 96",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 96",
-          "runs": [
-            {
-              "text": "Fig. 96",
               "bold": false
             }
           ]

@@ -21,136 +21,7 @@
     "previous": "d65250b-page-068",
     "next": "d65250b-page-070"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p069-para01",
-      "text": {
-        "de": {
-          "plain": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben.",
-          "runs": [
-            {
-              "text": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a 2 mm drill, drill out the locking pins from the hexagon sockets of the Allen screws, then unscrew the hexagon socket screws of the rear clutch plate using an 8 mm hexagon socket wrench.",
-          "runs": [
-            {
-              "text": "Using a 2 mm drill, drill out the locking pins from the hexagon sockets of the Allen screws, then unscrew the hexagon socket screws of the rear clutch plate using an 8 mm hexagon socket wrench.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con una broca de 2 mm, taladrar los pasadores de seguridad de los hexágonos interiores de los tornillos Allen, y con una llave de vaso hexagonal interior de 8 mm desenroscar los tornillos de hexágono interior del disco de embrague trasero.",
-          "runs": [
-            {
-              "text": "Con una broca de 2 mm, taladrar los pasadores de seguridad de los hexágonos interiores de los tornillos Allen, y con una llave de vaso hexagonal interior de 8 mm desenroscar los tornillos de hexágono interior del disco de embrague trasero.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p069-para02",
-      "text": {
-        "de": {
-          "plain": "Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben.",
-          "runs": [
-            {
-              "text": "Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: On a used clutch, apply a screw-loosening fluid (Caramba) to the screws before slackening them.",
-          "runs": [
-            {
-              "text": "Note: On a used clutch, apply a screw-loosening fluid (Caramba) to the screws before slackening them.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: En un embrague usado, aplicar un producto aflojatornillos (Caramba) a los tornillos antes de aflojarlos.",
-          "runs": [
-            {
-              "text": "Atención: En un embrague usado, aplicar un producto aflojatornillos (Caramba) a los tornillos antes de aflojarlos.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p069-para03",
-      "text": {
-        "de": {
-          "plain": "Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt.",
-          "runs": [
-            {
-              "text": "Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Using a gas welding torch, gently heat the starter ring gear around its circumference until it can be removed easily from the flywheel. When fitting a new starter ring gear, it is likewise gently heated around its circumference so that it can be slid on easily as far as the shoulder.",
-          "runs": [
-            {
-              "text": "Using a gas welding torch, gently heat the starter ring gear around its circumference until it can be removed easily from the flywheel. When fitting a new starter ring gear, it is likewise gently heated around its circumference so that it can be slid on easily as far as the shoulder.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Con el soplete de soldadura, calentar ligeramente la corona dentada de arranque en todo su contorno hasta que pueda separarse fácilmente del volante. Al montar una corona dentada de arranque nueva, ésta se calienta igualmente de forma ligera en todo su contorno para que pueda deslizarse fácilmente hasta el resalte.",
-          "runs": [
-            {
-              "text": "Con el soplete de soldadura, calentar ligeramente la corona dentada de arranque en todo su contorno hasta que pueda separarse fácilmente del volante. Al montar una corona dentada de arranque nueva, ésta se calienta igualmente de forma ligera en todo su contorno para que pueda deslizarse fácilmente hasta el resalte.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p069-para04",
-      "text": {
-        "de": {
-          "plain": "Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
-          "runs": [
-            {
-              "text": "Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Note: With the flywheel bolted on, the chamfered side of the starter ring gear teeth must face the engine.",
-          "runs": [
-            {
-              "text": "Note: With the flywheel bolted on, the chamfered side of the starter ring gear teeth must face the engine.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atención: Con el volante atornillado, el lado achaflanado de los dientes de la corona dentada de arranque debe mirar hacia el motor.",
-          "runs": [
-            {
-              "text": "Atención: Con el volante atornillado, el lado achaflanado de los dientes de la corona dentada de arranque debe mirar hacia el motor.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild109",
@@ -159,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 109",
+          "plain": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben. Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben. Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt. Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
           "runs": [
             {
-              "text": "Bild 109",
+              "text": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben. Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben. Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt. Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 109",
+          "plain": "Using a 2 mm drill, drill out the locking pins from the hexagon sockets of the Allen screws, then unscrew the hexagon socket screws of the rear clutch plate using an 8 mm hexagon socket wrench. Note: On a used clutch, apply a screw-loosening fluid (Caramba) to the screws before slackening them. Using a gas welding torch, gently heat the starter ring gear around its circumference until it can be removed easily from the flywheel. When fitting a new starter ring gear, it is likewise gently heated around its circumference so that it can be slid on easily as far as the shoulder. Note: With the flywheel bolted on, the chamfered side of the starter ring gear teeth must face the engine.",
           "runs": [
             {
-              "text": "Fig. 109",
+              "text": "Using a 2 mm drill, drill out the locking pins from the hexagon sockets of the Allen screws, then unscrew the hexagon socket screws of the rear clutch plate using an 8 mm hexagon socket wrench. Note: On a used clutch, apply a screw-loosening fluid (Caramba) to the screws before slackening them. Using a gas welding torch, gently heat the starter ring gear around its circumference until it can be removed easily from the flywheel. When fitting a new starter ring gear, it is likewise gently heated around its circumference so that it can be slid on easily as far as the shoulder. Note: With the flywheel bolted on, the chamfered side of the starter ring gear teeth must face the engine.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 109",
+          "plain": "Con una broca de 2 mm, taladrar los pasadores de seguridad de los hexágonos interiores de los tornillos Allen, y con una llave de vaso hexagonal interior de 8 mm desenroscar los tornillos de hexágono interior del disco de embrague trasero. Atención: En un embrague usado, aplicar un producto aflojatornillos (Caramba) a los tornillos antes de aflojarlos. Con el soplete de soldadura, calentar ligeramente la corona dentada de arranque en todo su contorno hasta que pueda separarse fácilmente del volante. Al montar una corona dentada de arranque nueva, ésta se calienta igualmente de forma ligera en todo su contorno para que pueda deslizarse fácilmente hasta el resalte. Atención: Con el volante atornillado, el lado achaflanado de los dientes de la corona dentada de arranque debe mirar hacia el motor.",
           "runs": [
             {
-              "text": "Fig. 109",
+              "text": "Con una broca de 2 mm, taladrar los pasadores de seguridad de los hexágonos interiores de los tornillos Allen, y con una llave de vaso hexagonal interior de 8 mm desenroscar los tornillos de hexágono interior del disco de embrague trasero. Atención: En un embrague usado, aplicar un producto aflojatornillos (Caramba) a los tornillos antes de aflojarlos. Con el soplete de soldadura, calentar ligeramente la corona dentada de arranque en todo su contorno hasta que pueda separarse fácilmente del volante. Al montar una corona dentada de arranque nueva, ésta se calienta igualmente de forma ligera en todo su contorno para que pueda deslizarse fácilmente hasta el resalte. Atención: Con el volante atornillado, el lado achaflanado de los dientes de la corona dentada de arranque debe mirar hacia el motor.",
               "bold": false
             }
           ]

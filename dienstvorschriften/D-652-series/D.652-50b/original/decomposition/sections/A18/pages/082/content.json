@@ -21,10 +21,14 @@
     "previous": "d65250b-page-081",
     "next": "d65250b-page-083"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p082-para01",
-      "text": {
+      "id": "d65250b-bild132",
+      "number": 132,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Kupplungsdeckel mit Kupplungsdruckplatte an den Kupplungsring halten und diese mit zwei gegenüberliegenden Schrauben so einschrauben, daß sich die Kupplungstreibscheiben mit Hilfe der Kupplungswelle drehen lassen.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p082-para02",
-      "text": {
+      "id": "d65250b-bild133",
+      "number": 133,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Die Kupplungswelle mit den Kupplungstreibscheiben so weit herumdrehen, bis die Nuten der drei Kupplungstreibscheiben übereinanderstehen und sich die Kupplungswelle ganz einführen läßt.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Girar el eje de embrague junto con los discos motrices del embrague hasta que las ranuras de los tres discos motrices queden alineadas y el eje de embrague pueda introducirse por completo.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild132",
-      "number": 132,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 132",
-          "runs": [
-            {
-              "text": "Bild 132",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 132",
-          "runs": [
-            {
-              "text": "Fig. 132",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 132",
-          "runs": [
-            {
-              "text": "Fig. 132",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild133",
-      "number": 133,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 133",
-          "runs": [
-            {
-              "text": "Bild 133",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 133",
-          "runs": [
-            {
-              "text": "Fig. 133",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 133",
-          "runs": [
-            {
-              "text": "Fig. 133",
               "bold": false
             }
           ]

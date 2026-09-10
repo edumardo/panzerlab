@@ -21,72 +21,7 @@
     "previous": "d65250b-page-055",
     "next": "d65250b-page-057"
   },
-  "paragraphs": [
-    {
-      "id": "d65250b-p056-para01",
-      "text": {
-        "de": {
-          "plain": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.",
-          "runs": [
-            {
-              "text": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Coat the sealing faces of the housing and cover with jointing compound.",
-          "runs": [
-            {
-              "text": "Coat the sealing faces of the housing and cover with jointing compound.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas.",
-          "runs": [
-            {
-              "text": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p056-para02",
-      "text": {
-        "de": {
-          "plain": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
-          "runs": [
-            {
-              "text": "Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Bolt the cover and housing together with the three countersunk screws.",
-          "runs": [
-            {
-              "text": "Bolt the cover and housing together with the three countersunk screws.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
-          "runs": [
-            {
-              "text": "Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "paragraphs": [],
   "figures": [
     {
       "id": "d65250b-bild087",
@@ -95,28 +30,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 87",
+          "plain": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen. Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
           "runs": [
             {
-              "text": "Bild 87",
+              "text": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen. Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 87",
+          "plain": "Coat the sealing faces of the housing and cover with jointing compound. Bolt the cover and housing together with the three countersunk screws.",
           "runs": [
             {
-              "text": "Fig. 87",
+              "text": "Coat the sealing faces of the housing and cover with jointing compound. Bolt the cover and housing together with the three countersunk screws.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 87",
+          "plain": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas. Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
           "runs": [
             {
-              "text": "Fig. 87",
+              "text": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas. Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
               "bold": false
             }
           ]

@@ -21,10 +21,14 @@
     "previous": "d65250b-page-045",
     "next": "d65250b-page-047"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p046-para01",
-      "text": {
+      "id": "d65250b-bild069",
+      "number": 69,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
           "runs": [
@@ -52,11 +56,19 @@
             }
           ]
         }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
       }
     },
     {
-      "id": "d65250b-p046-para02",
-      "text": {
+      "id": "d65250b-bild070",
+      "number": 70,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
           "runs": [
@@ -80,83 +92,6 @@
           "runs": [
             {
               "text": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild069",
-      "number": 69,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 69",
-          "runs": [
-            {
-              "text": "Bild 69",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 69",
-          "runs": [
-            {
-              "text": "Fig. 69",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 69",
-          "runs": [
-            {
-              "text": "Fig. 69",
-              "bold": false
-            }
-          ]
-        }
-      },
-      "label_keys": {
-        "de": null,
-        "en-GB": null,
-        "es-ES": null
-      }
-    },
-    {
-      "id": "d65250b-bild070",
-      "number": 70,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 70",
-          "runs": [
-            {
-              "text": "Bild 70",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 70",
-          "runs": [
-            {
-              "text": "Fig. 70",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 70",
-          "runs": [
-            {
-              "text": "Fig. 70",
               "bold": false
             }
           ]

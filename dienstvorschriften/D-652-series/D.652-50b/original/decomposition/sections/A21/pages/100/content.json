@@ -21,10 +21,14 @@
     "previous": "d65250b-page-099",
     "next": "d65250b-page-101"
   },
-  "paragraphs": [
+  "paragraphs": [],
+  "figures": [
     {
-      "id": "d65250b-p100-para01",
-      "text": {
+      "id": "d65250b-bild159",
+      "number": 159,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
         "de": {
           "plain": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
           "runs": [
@@ -52,107 +56,6 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "d65250b-p100-para02",
-      "text": {
-        "de": {
-          "plain": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
-          "runs": [
-            {
-              "text": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts.",
-          "runs": [
-            {
-              "text": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas.",
-          "runs": [
-            {
-              "text": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d65250b-p100-para03",
-      "text": {
-        "de": {
-          "plain": "Bolzen durch leichten Hammerschlag ausschlagen.",
-          "runs": [
-            {
-              "text": "Bolzen durch leichten Hammerschlag ausschlagen.",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Knock out the pin with a light hammer blow.",
-          "runs": [
-            {
-              "text": "Knock out the pin with a light hammer blow.",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Extraer el perno con un golpe suave de martillo.",
-          "runs": [
-            {
-              "text": "Extraer el perno con un golpe suave de martillo.",
-              "bold": false
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "figures": [
-    {
-      "id": "d65250b-bild159",
-      "number": 159,
-      "image": null,
-      "status": "candidate_crop",
-      "captions": {
-        "de": {
-          "plain": "Bild 159",
-          "runs": [
-            {
-              "text": "Bild 159",
-              "bold": false
-            }
-          ]
-        },
-        "en-GB": {
-          "plain": "Fig. 159",
-          "runs": [
-            {
-              "text": "Fig. 159",
-              "bold": false
-            }
-          ]
-        },
-        "es-ES": {
-          "plain": "Fig. 159",
-          "runs": [
-            {
-              "text": "Fig. 159",
-              "bold": false
-            }
-          ]
-        }
       },
       "label_keys": {
         "de": null,
@@ -167,28 +70,28 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Bild 160",
+          "plain": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben. Bolzen durch leichten Hammerschlag ausschlagen.",
           "runs": [
             {
-              "text": "Bild 160",
+              "text": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben. Bolzen durch leichten Hammerschlag ausschlagen.",
               "bold": false
             }
           ]
         },
         "en-GB": {
-          "plain": "Fig. 160",
+          "plain": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the pin with a light hammer blow.",
           "runs": [
             {
-              "text": "Fig. 160",
+              "text": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the pin with a light hammer blow.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Fig. 160",
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer el perno con un golpe suave de martillo.",
           "runs": [
             {
-              "text": "Fig. 160",
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer el perno con un golpe suave de martillo.",
               "bold": false
             }
           ]
