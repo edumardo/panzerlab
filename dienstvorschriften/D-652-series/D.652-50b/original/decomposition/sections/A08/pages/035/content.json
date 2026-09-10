@@ -35,19 +35,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Using spring pliers or a pointed drift, hook the stronger spring into the upper brake shoe and the weaker spring into the lower brake shoe, Fig. 49.",
+          "plain": "Using spring clamps or a pointed drift, hook the stronger spring into the upper brake shoe and the weaker spring into the lower brake shoe, Fig. 49.",
           "runs": [
             {
-              "text": "Using spring pliers or a pointed drift, hook the stronger spring into the upper brake shoe and the weaker spring into the lower brake shoe, Fig. 49.",
+              "text": "Using spring clamps or a pointed drift, hook the stronger spring into the upper brake shoe and the weaker spring into the lower brake shoe, Fig. 49.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte más fuerte en la zapata de freno superior y el resorte más débil en la zapata de freno inferior, fig. 49.",
+          "plain": "Con pinzas para muelles o un punzón puntiagudo, enganchar el resorte más fuerte en la zapata de freno superior y el resorte más débil en la zapata de freno inferior, fig. 49.",
           "runs": [
             {
-              "text": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte más fuerte en la zapata de freno superior y el resorte más débil en la zapata de freno inferior, fig. 49.",
+              "text": "Con pinzas para muelles o un punzón puntiagudo, enganchar el resorte más fuerte en la zapata de freno superior y el resorte más débil en la zapata de freno inferior, fig. 49.",
               "bold": false
             }
           ]
@@ -258,9 +258,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

@@ -81,10 +81,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
+          "plain": "Enroscar la rosca más débil de la pieza intermedia (plano 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (plano 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
           "runs": [
             {
-              "text": "Enroscar la rosca más débil de la pieza intermedia (dibujo 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (dibujo 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
+              "text": "Enroscar la rosca más débil de la pieza intermedia (plano 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (plano 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
               "bold": false
             }
           ]
@@ -138,9 +138,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

@@ -48,10 +48,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Pisar a fondo el pedal de embrague. Ajustar el juego del embrague con la llave de ajuste. Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm. Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
+          "plain": "Pisar a fondo el pedal de embrague. Ajustar el juego del embrague con la llave de ajuste. Medir la distancia desde el borde trasero del rodamiento de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm. Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
           "runs": [
             {
-              "text": "Pisar a fondo el pedal de embrague. Ajustar el juego del embrague con la llave de ajuste. Medir la distancia desde el borde trasero del cojinete de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm. Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
+              "text": "Pisar a fondo el pedal de embrague. Ajustar el juego del embrague con la llave de ajuste. Medir la distancia desde el borde trasero del rodamiento de desembrague (1) hasta el anillo roscado interior (2). Esta debe ser de 20 mm. Una vez ajustado el embrague, los resortes de seguridad deben haber encajado en los orificios del anillo de ajuste.",
               "bold": false
             }
           ]
@@ -65,9 +65,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

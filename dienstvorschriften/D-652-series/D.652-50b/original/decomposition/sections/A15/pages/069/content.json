@@ -30,10 +30,10 @@
       "status": "candidate_crop",
       "captions": {
         "de": {
-          "plain": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben. Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben. Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt. Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
+          "plain": "Mit 2-mm-Bohrer die Sicherungssstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben. Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben. Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt. Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
           "runs": [
             {
-              "text": "Mit 2-mm-Bohrer die Sicherungsstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben. Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben. Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt. Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
+              "text": "Mit 2-mm-Bohrer die Sicherungssstifte aus den Innensechskanten der Imbusschrauben bohren und mit 8-mm-Innensechskant-Steckschlüssel die Innensechskant-Schrauben der hinteren Kupplungsplatte ausschrauben. Beachten: Bei gebrauchter Kupplung bringe vor dem Lösen der Schrauben ein Schrauben-Lösemittel (Caramba) an die Schrauben. Mit Gasschweißapparat den Anlaßzahnkranz im Umfang leicht anwärmen, bis sich dieser von dem Schwungrad leicht entfernen läßt. Beim Aufsetzen eines neuen Anlaßzahnkranzes wird dieser ebenfalls im Umfange leicht warm gemacht, damit er sich bis zum Bund leicht aufschieben läßt. Beachten: Die angeschrägte Seite der Zähne des Anlaßzahnkranzes muß bei angeschraubtem Schwungrad zum Motor zeigen.",
               "bold": false
             }
           ]
@@ -65,9 +65,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

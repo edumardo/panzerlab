@@ -48,10 +48,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Introducir el cubo con el rodamiento de bolas en la carcasa.",
+          "plain": "Introducir el buje con el rodamiento de bolas en la carcasa.",
           "runs": [
             {
-              "text": "Introducir el cubo con el rodamiento de bolas en la carcasa.",
+              "text": "Introducir el buje con el rodamiento de bolas en la carcasa.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

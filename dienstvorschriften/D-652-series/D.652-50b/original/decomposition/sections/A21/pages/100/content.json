@@ -79,19 +79,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the pin with a light hammer blow.",
+          "plain": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the bolts with a light hammer blow.",
           "runs": [
             {
-              "text": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the pin with a light hammer blow.",
+              "text": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the bolts with a light hammer blow.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer el perno con un golpe suave de martillo.",
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer los pernos con un golpe suave de martillo.",
           "runs": [
             {
-              "text": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer el perno con un golpe suave de martillo.",
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer los pernos con un golpe suave de martillo.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

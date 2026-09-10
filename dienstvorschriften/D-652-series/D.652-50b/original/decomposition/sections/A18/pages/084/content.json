@@ -88,10 +88,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
+          "plain": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el rodamiento de desembrague.",
           "runs": [
             {
-              "text": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el cojinete de desembrague.",
+              "text": "Deslizar la carcasa del embrague sobre el embrague. Atención: Las superficies de deslizamiento del estribo de desembrague deben estar orientadas hacia el rodamiento de desembrague.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

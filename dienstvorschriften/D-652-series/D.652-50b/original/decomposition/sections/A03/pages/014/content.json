@@ -72,19 +72,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).",
+          "plain": "Unhook the two lower brake-shoe springs using spring clamps (Drawing 8, 9, 10)¹).",
           "runs": [
             {
-              "text": "Unhook the two lower brake-shoe springs using spring pliers (Drawing 8, 9, 10)¹).",
+              "text": "Unhook the two lower brake-shoe springs using spring clamps (Drawing 8, 9, 10)¹).",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹).",
+          "plain": "Desenganchar los dos resortes inferiores de las zapatas de freno con pinzas para muelles (plano 8, 9, 10)¹).",
           "runs": [
             {
-              "text": "Desenganchar los dos resortes inferiores de las zapatas de freno con alicates para resortes (dibujo 8, 9, 10)¹).",
+              "text": "Desenganchar los dos resortes inferiores de las zapatas de freno con pinzas para muelles (plano 8, 9, 10)¹).",
               "bold": false
             }
           ]
@@ -112,19 +112,19 @@
           ]
         },
         "en-GB": {
-          "plain": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
+          "plain": "If no spring clamp is available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
           "runs": [
             {
-              "text": "If no spring pliers are available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
+              "text": "If no spring clamp is available, the two lower brake-shoe springs can be unhooked using a wire pull and chain pin.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
+          "plain": "Si no se dispone de una pinza para muelles, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
           "runs": [
             {
-              "text": "Si no se dispone de alicates para resortes, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
+              "text": "Si no se dispone de una pinza para muelles, los dos resortes inferiores de las zapatas de freno pueden desengancharse con un tirador de alambre y un pasador de cadena.",
               "bold": false
             }
           ]
@@ -138,9 +138,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

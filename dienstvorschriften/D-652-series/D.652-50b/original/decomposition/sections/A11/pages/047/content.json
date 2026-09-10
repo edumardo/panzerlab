@@ -81,10 +81,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (dibujo 4)¹).",
+          "plain": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (plano 4)¹).",
           "runs": [
             {
-              "text": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (dibujo 4)¹).",
+              "text": "Atornillar la placa de presión al cubo con los cuatro tornillos y los tubos distanciadores (plano 4)¹).",
               "bold": false
             }
           ]
@@ -112,10 +112,10 @@
           ]
         },
         "en-GB": {
-          "plain": "Screw the draw spindle (1) into the pinion shaft. Place the intermediate ring (3) under the collar of the nut (2). Note: If the pinion shaft has been turned off, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+          "plain": "Screw the draw spindle (1) into the pinion shaft. Place the intermediate ring (3) under the collar of the nut (2). Note: If the pinion shaft has been turned down, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
           "runs": [
             {
-              "text": "Screw the draw spindle (1) into the pinion shaft. Place the intermediate ring (3) under the collar of the nut (2). Note: If the pinion shaft has been turned off, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
+              "text": "Screw the draw spindle (1) into the pinion shaft. Place the intermediate ring (3) under the collar of the nut (2). Note: If the pinion shaft has been turned down, a threaded bolt of suitable length is electrically welded to the pinion, and the pinion is then pulled off using this bolt.",
               "bold": false
             }
           ]
@@ -138,9 +138,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

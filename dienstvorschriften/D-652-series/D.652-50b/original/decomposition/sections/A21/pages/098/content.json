@@ -79,19 +79,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the pin with a hammer and lift out the intermediate piece.",
+          "plain": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the bolts with a hammer and lift out the intermediate piece.",
           "runs": [
             {
-              "text": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the pin with a hammer and lift out the intermediate piece.",
+              "text": "Pull out the split pins and, using a 24 mm ring spanner, unscrew the castellated nuts on the intermediate piece above the gun. Knock out the bolts with a hammer and lift out the intermediate piece.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer el perno a golpes de martillo y sacar la pieza intermedia.",
+          "plain": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer los pernos a golpes de martillo y sacar la pieza intermedia.",
           "runs": [
             {
-              "text": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer el perno a golpes de martillo y sacar la pieza intermedia.",
+              "text": "Extraer los pasadores de aletas y, con una llave de estrella de 24 mm, desenroscar las tuercas almenadas de la pieza intermedia situada encima del cañón. Extraer los pernos a golpes de martillo y sacar la pieza intermedia.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

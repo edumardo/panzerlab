@@ -121,10 +121,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
+          "plain": "Desenroscar la tuerca anular con la llave de tetones tubular (plano 1)¹).",
           "runs": [
             {
-              "text": "Desenroscar la tuerca anular con la llave de tetones tubular (dibujo 1)¹).",
+              "text": "Desenroscar la tuerca anular con la llave de tetones tubular (plano 1)¹).",
               "bold": false
             }
           ]
@@ -138,9 +138,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

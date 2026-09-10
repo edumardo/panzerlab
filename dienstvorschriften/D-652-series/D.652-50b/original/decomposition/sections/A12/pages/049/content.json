@@ -81,10 +81,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Deslizar la tapa (4) sobre el eje del piñón. Enroscar la tuerca (2) en el husillo (1). Colocar el anillo intermedio (3) sobre el collarín de la tuerca. Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
+          "plain": "Deslizar la tapa (4) sobre el eje del piñón. Enroscar la tuerca (2) en el husillo (1). Colocar el anillo intermedio (3) sobre el collarín de la tuerca. Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (plano 4)¹).",
           "runs": [
             {
-              "text": "Deslizar la tapa (4) sobre el eje del piñón. Enroscar la tuerca (2) en el husillo (1). Colocar el anillo intermedio (3) sobre el collarín de la tuerca. Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (dibujo 4)¹).",
+              "text": "Deslizar la tapa (4) sobre el eje del piñón. Enroscar la tuerca (2) en el husillo (1). Colocar el anillo intermedio (3) sobre el collarín de la tuerca. Enroscar el husillo tensor en el cuadradillo superior del eje del piñón (plano 4)¹).",
               "bold": false
             }
           ]
@@ -138,9 +138,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

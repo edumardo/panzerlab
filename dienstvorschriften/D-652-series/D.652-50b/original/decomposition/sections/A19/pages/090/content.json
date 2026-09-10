@@ -48,10 +48,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Con una llave de boca de 17 mm, desenroscar los tres tornillos de la carcasa del ventilador. Desacoplar el varillaje del carburador de las rótulas y levantar la carcasa del ventilador.",
+          "plain": "Con una llave de boca de 17 mm, desenroscar los tres tornillos de la carcasa del ventilador. Presionar el varillaje del carburador para separarlo de las rótulas y levantar la carcasa del ventilador.",
           "runs": [
             {
-              "text": "Con una llave de boca de 17 mm, desenroscar los tres tornillos de la carcasa del ventilador. Desacoplar el varillaje del carburador de las rótulas y levantar la carcasa del ventilador.",
+              "text": "Con una llave de boca de 17 mm, desenroscar los tres tornillos de la carcasa del ventilador. Presionar el varillaje del carburador para separarlo de las rótulas y levantar la carcasa del ventilador.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

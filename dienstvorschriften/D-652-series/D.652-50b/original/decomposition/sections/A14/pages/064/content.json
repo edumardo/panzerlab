@@ -88,10 +88,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague. Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras). Desmontar el dispositivo desenroscándolo. Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
+          "plain": "Con el dispositivo, plano 3, D 652/50 a, destensar el resorte de presión del embrague. Extraer el alambre de seguridad de los tres tornillos de fijación del rodamiento de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras). Desmontar el dispositivo desenroscándolo. Atención: Si el rodamiento de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
           "runs": [
             {
-              "text": "Con el dispositivo, dibujo 3, D 652/50 a, destensar el resorte de presión del embrague. Extraer el alambre de seguridad de los tres tornillos de fijación del cojinete de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras). Desmontar el dispositivo desenroscándolo. Atención: Si el cojinete de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
+              "text": "Con el dispositivo, plano 3, D 652/50 a, destensar el resorte de presión del embrague. Extraer el alambre de seguridad de los tres tornillos de fijación del rodamiento de desembrague y desatornillarlos con una llave fija de 14 mm (entrecaras). Desmontar el dispositivo desenroscándolo. Atención: Si el rodamiento de desembrague está agarrotado, separarlo con una palanca de los tres tetones de los pernos deslizantes.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

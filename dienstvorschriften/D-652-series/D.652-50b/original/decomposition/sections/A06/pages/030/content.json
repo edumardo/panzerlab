@@ -81,10 +81,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Introducir el resorte con 2 platillos de resorte en la horquilla del dispositivo (dibujo 3)¹). Atención: al insertarlos, las ranuras de los platillos de resorte deben quedar alineadas una sobre otra.",
+          "plain": "Introducir el resorte con 2 platillos de resorte en la horquilla del dispositivo (plano 3)¹). Atención: al insertarlos, las ranuras de los platillos de resorte deben quedar alineadas una sobre otra.",
           "runs": [
             {
-              "text": "Introducir el resorte con 2 platillos de resorte en la horquilla del dispositivo (dibujo 3)¹). Atención: al insertarlos, las ranuras de los platillos de resorte deben quedar alineadas una sobre otra.",
+              "text": "Introducir el resorte con 2 platillos de resorte en la horquilla del dispositivo (plano 3)¹). Atención: al insertarlos, las ranuras de los platillos de resorte deben quedar alineadas una sobre otra.",
               "bold": false
             }
           ]
@@ -138,9 +138,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

@@ -81,10 +81,10 @@
           ]
         },
         "es-ES": {
-          "plain": "Guiar las garras delanteras del dispositivo de desmontaje (dibujo 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
+          "plain": "Guiar las garras delanteras del dispositivo de desmontaje (plano 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
           "runs": [
             {
-              "text": "Guiar las garras delanteras del dispositivo de desmontaje (dibujo 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
+              "text": "Guiar las garras delanteras del dispositivo de desmontaje (plano 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
               "bold": false
             }
           ]
@@ -98,9 +98,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

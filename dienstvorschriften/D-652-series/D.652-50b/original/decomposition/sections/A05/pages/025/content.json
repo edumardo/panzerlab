@@ -79,19 +79,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Unhook both tension springs using spring pliers or a screwdriver.",
+          "plain": "Unhook both tension springs using spring clamps or a screwdriver.",
           "runs": [
             {
-              "text": "Unhook both tension springs using spring pliers or a screwdriver.",
+              "text": "Unhook both tension springs using spring clamps or a screwdriver.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Desenganchar ambos resortes de tracción con unas pinzas para resortes o un destornillador.",
+          "plain": "Desenganchar ambos resortes de tracción con unas pinzas para muelles o un destornillador.",
           "runs": [
             {
-              "text": "Desenganchar ambos resortes de tracción con unas pinzas para resortes o un destornillador.",
+              "text": "Desenganchar ambos resortes de tracción con unas pinzas para muelles o un destornillador.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

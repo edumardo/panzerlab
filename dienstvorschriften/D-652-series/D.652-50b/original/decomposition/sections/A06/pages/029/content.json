@@ -79,19 +79,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Using spring pliers or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
+          "plain": "Using spring clamps or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
           "runs": [
             {
-              "text": "Using spring pliers or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
+              "text": "Using spring clamps or a pointed drift, hook the weaker tension spring into the lower brake shoe and the stronger tension spring into the upper brake shoe.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
+          "plain": "Con pinzas para muelles o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
           "runs": [
             {
-              "text": "Con pinzas para resortes o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
+              "text": "Con pinzas para muelles o un punzón puntiagudo, enganchar el resorte de tracción más débil en la zapata de freno inferior y el resorte de tracción más fuerte en la zapata de freno superior.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

@@ -39,19 +39,19 @@
           ]
         },
         "en-GB": {
-          "plain": "Using spring pliers or a pointed drift, unhook both tension springs.",
+          "plain": "Using spring clamps or a pointed drift, unhook both tension springs.",
           "runs": [
             {
-              "text": "Using spring pliers or a pointed drift, unhook both tension springs.",
+              "text": "Using spring clamps or a pointed drift, unhook both tension springs.",
               "bold": false
             }
           ]
         },
         "es-ES": {
-          "plain": "Con pinzas para resortes o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
+          "plain": "Con pinzas para muelles o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
           "runs": [
             {
-              "text": "Con pinzas para resortes o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
+              "text": "Con pinzas para muelles o un punzón puntiagudo, desenganchar ambos resortes de tracción.",
               "bold": false
             }
           ]
@@ -105,9 +105,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }

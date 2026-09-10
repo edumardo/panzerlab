@@ -67,10 +67,10 @@
           ]
         },
         "en-GB": {
-          "plain": "Remove the cardan shaft, marginal number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+          "plain": "Remove the cardan shaft, margin number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
           "runs": [
             {
-              "text": "Remove the cardan shaft, marginal number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+              "text": "Remove the cardan shaft, margin number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
               "bold": false
             }
           ]
@@ -130,9 +130,9 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
     "figures": "pending"
   }
 }
