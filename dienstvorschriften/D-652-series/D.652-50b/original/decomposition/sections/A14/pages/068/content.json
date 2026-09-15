@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-068",
+  "document_id": "d652-50b",
+  "page": 68,
+  "section": "A14",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 36,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-067",
+    "next": "d65250b-page-069"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild107",
+      "number": 107,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben. Den Kupplungszwischenring abheben.",
+          "runs": [
+            {
+              "text": "Mit 17-SW-Steckschlüssel die Befestigungsschrauben des Kupplungszwischenringes entsichern und herausschrauben. Den Kupplungszwischenring abheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring. Lift off the clutch intermediate ring.",
+          "runs": [
+            {
+              "text": "Using a 17 mm (A/F) socket spanner, unlock and unscrew the fixing screws of the clutch intermediate ring. Lift off the clutch intermediate ring.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague. Levantar el anillo intermedio del embrague.",
+          "runs": [
+            {
+              "text": "Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación del anillo intermedio del embrague. Levantar el anillo intermedio del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild108",
+      "number": 108,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen. Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
+          "runs": [
+            {
+              "text": "Die Drahtsicherungen aus den Vierkantschrauben der Schwungradbefestigung entfernen. Mit 10-SW-Schlüssel die sechs Schrauben aus dem Kugellagerflansch herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the wire locks from the square-head screws of the flywheel fixing. Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
+          "runs": [
+            {
+              "text": "Remove the wire locks from the square-head screws of the flywheel fixing. Using a 10 mm (A/F) spanner, unscrew the six screws from the ball-bearing flange.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante. Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
+          "runs": [
+            {
+              "text": "Retirar los alambres de seguridad de los tornillos cuadrados de fijación del volante. Con una llave de 10 mm (entrecaras), desatornillar los seis tornillos de la brida del cojinete de bolas.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

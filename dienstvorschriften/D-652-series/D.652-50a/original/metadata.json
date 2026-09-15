@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50a",
+  "designation": "D 652/50a",
+  "file": "D.652-50a_de.pdf",
+  "original_file_name": "97.-D-652_50a-Panzerkampfwagen-III-u-Panzerbefehlswagen-Ausf-E-L-Gepanzerte-Selbstfahrlafette-Ausf-A-G-f-Sturmgeschuetz-75cm-Kanone-Laufwerk-1943-03-01_compressed_bushmakow.pdf",
+  "language": "de-DE",
+  "media_type": "application/pdf",
+  "size_bytes": 25240194,
+  "sha256": "A251F0CF1A9A45E8F5B977F7C0FD8D315CFDA5680006EF5C2BBC2D7AA29F9281",
+  "pdf_pages": 52,
+  "page_layout": "photographed spreads",
+  "decomposition": "decomposition/document.json",
+  "source": {
+    "description": "User-provided copy attributed to the Bushmakow restoration archive",
+    "url": "https://bushmakow.com/library/"
+  }
+}

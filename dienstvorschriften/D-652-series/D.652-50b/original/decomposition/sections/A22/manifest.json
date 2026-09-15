@@ -1,0 +1,27 @@
+{
+  "id": "A22",
+  "pages": [
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
+  ],
+  "titles": {
+    "de": "Verzeichnis der Zeichnungen",
+    "en": "List of drawings",
+    "es": "Índice de planos"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

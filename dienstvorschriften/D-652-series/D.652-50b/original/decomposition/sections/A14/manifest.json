@@ -1,0 +1,24 @@
+{
+  "id": "A14",
+  "pages": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68
+  ],
+  "titles": {
+    "de": "Ausbau der Hauptkupplung",
+    "en": "Removing the main clutch",
+    "es": "Desmontaje del embrague principal"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

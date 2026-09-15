@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-078",
+  "document_id": "d652-50b",
+  "page": 78,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "18. Zusammenbau der Hauptkupplung\n(mit Hilfe der Kupplungswelle)",
+    "en-GB": "18. Reassembling the main clutch\n(using the clutch shaft)",
+    "es-ES": "18. Montaje del embrague principal\n(con ayuda del eje de embrague)"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 41,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-077",
+    "next": "d65250b-page-079"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p078-para01",
+      "text": {
+        "de": {
+          "plain": "Beim Anschrauben eines neuen Schwungrades muß das Schwungrad an dem Motor eingestellt werden.",
+          "runs": [
+            {
+              "text": "Beim Anschrauben eines neuen Schwungrades muß das Schwungrad an dem Motor eingestellt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "When bolting on a new flywheel, the flywheel must be set up on the engine.",
+          "runs": [
+            {
+              "text": "When bolting on a new flywheel, the flywheel must be set up on the engine.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Al atornillar un volante nuevo, el volante debe ajustarse en el motor.",
+          "runs": [
+            {
+              "text": "Al atornillar un volante nuevo, el volante debe ajustarse en el motor.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p078-para02",
+      "text": {
+        "de": {
+          "plain": "Kurbelwelle so weit herumdrehen, bis sich die Ventile des ersten Zylinders auf der Wasserpumpenseite überschneiden.",
+          "runs": [
+            {
+              "text": "Kurbelwelle so weit herumdrehen, bis sich die Ventile des ersten Zylinders auf der Wasserpumpenseite überschneiden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the crankshaft round until the valves of the first cylinder, on the water-pump side, overlap.",
+          "runs": [
+            {
+              "text": "Turn the crankshaft round until the valves of the first cylinder, on the water-pump side, overlap.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el cigüeñal hasta que las válvulas del primer cilindro, en el lado de la bomba de agua, se solapen.",
+          "runs": [
+            {
+              "text": "Girar el cigüeñal hasta que las válvulas del primer cilindro, en el lado de la bomba de agua, se solapen.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p078-para03",
+      "text": {
+        "de": {
+          "plain": "Schwungrad mit der Einstellmarke „1 und 6 oben“ an die Kurbelwelle schrauben.",
+          "runs": [
+            {
+              "text": "Schwungrad mit der Einstellmarke „1 und 6 oben“ an die Kurbelwelle schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the flywheel to the crankshaft with the setting mark “1 and 6 top”.",
+          "runs": [
+            {
+              "text": "Bolt the flywheel to the crankshaft with the setting mark “1 and 6 top”.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el volante al cigüeñal con la marca de ajuste «1 y 6 arriba».",
+          "runs": [
+            {
+              "text": "Atornillar el volante al cigüeñal con la marca de ajuste «1 y 6 arriba».",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild125",
+      "number": 125,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben. Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
+          "runs": [
+            {
+              "text": "Mit den zwölf Vierkantschrauben das Schwungrad an die Kurbelwelle schrauben. Die beim Ausbau eingeschlagenen Körnerzeichen beachten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the flywheel to the crankshaft with the twelve square-head screws. Observe the centre-punch marks made during removal.",
+          "runs": [
+            {
+              "text": "Bolt the flywheel to the crankshaft with the twelve square-head screws. Observe the centre-punch marks made during removal.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada. Tener en cuenta las marcas de granete realizadas durante el desmontaje.",
+          "runs": [
+            {
+              "text": "Atornillar el volante al cigüeñal con los doce tornillos de cabeza cuadrada. Tener en cuenta las marcas de granete realizadas durante el desmontaje.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

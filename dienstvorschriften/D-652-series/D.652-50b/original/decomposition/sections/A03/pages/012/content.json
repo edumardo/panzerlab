@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-012",
+  "document_id": "d652-50b",
+  "page": 12,
+  "section": "A03",
+  "type": "text",
+  "titles": {
+    "de": "3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse",
+    "en-GB": "3. Removing the brake drum and brake shoes of the steering brake",
+    "es-ES": "3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 8,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-011",
+    "next": "d65250b-page-013"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p012-para01",
+      "text": {
+        "de": {
+          "plain": "Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
+          "runs": [
+            {
+              "text": "Schutzbleche an Gelenkwelle und Bremstrommel entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the guard plates on the cardan shaft and brake drum.",
+          "runs": [
+            {
+              "text": "Remove the guard plates on the cardan shaft and brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las chapas de protección del árbol de transmisión y del tambor de freno.",
+          "runs": [
+            {
+              "text": "Retirar las chapas de protección del árbol de transmisión y del tambor de freno.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d65250b-p012-para02",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+          "runs": [
+            {
+              "text": "Gelenkwelle ausbauen, Randnummer 1, Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 1 bis 8.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the cardan shaft, margin number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+          "runs": [
+            {
+              "text": "Remove the cardan shaft, margin number 1, Removing the cardan shaft between the steering gear and the steering brake, Figs. 1 to 8.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desmontar el árbol de transmisión, número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, figs. 1 a 8.",
+          "runs": [
+            {
+              "text": "Desmontar el árbol de transmisión, número marginal 1, Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, figs. 1 a 8.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild011",
+      "number": 11,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Muttern an der Wasserablaufrinne entsichern und mit 17-SW-Maulschlüssel herausschrauben.",
+          "runs": [
+            {
+              "text": "Die Muttern an der Wasserablaufrinne entsichern und mit 17-SW-Maulschlüssel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the lock on the nuts at the water drain channel and unscrew them using a 17 mm A/F open-ended spanner.",
+          "runs": [
+            {
+              "text": "Release the lock on the nuts at the water drain channel and unscrew them using a 17 mm A/F open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Liberar el seguro de las tuercas del canal de desagüe de agua y desenroscarlas con una llave fija de 17 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Liberar el seguro de las tuercas del canal de desagüe de agua y desenroscarlas con una llave fija de 17 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

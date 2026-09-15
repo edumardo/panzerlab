@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-005",
+  "document_id": "d652-50b",
+  "page": 5,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": "1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
+    "en-GB": "1. Removing the cardan shaft between the steering gear and the steering brake",
+    "es-ES": "1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 4,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-004",
+    "next": "d65250b-page-006"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p005-para01",
+      "text": {
+        "de": {
+          "plain": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
+          "runs": [
+            {
+              "text": "1) Der Ausbau der rechten und linken Gelenkwelle ist gleich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Removal of the right- and left-hand cardan shaft is identical.",
+          "runs": [
+            {
+              "text": "1) Removal of the right- and left-hand cardan shaft is identical.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) El desmontaje del árbol de transmisión derecho e izquierdo es igual.",
+          "runs": [
+            {
+              "text": "1) El desmontaje del árbol de transmisión derecho e izquierdo es igual.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild001",
+      "number": 1,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen. Gleiskette vom Triebrad abnehmen. Splinte aus den Paßschrauben der Gelenkwelle ziehen. An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
+          "runs": [
+            {
+              "text": "Die Schutzbleche an Gelenkwelle und Bremstrommel entfernen. Gleiskette vom Triebrad abnehmen. Splinte aus den Paßschrauben der Gelenkwelle ziehen. An der Lenkgetriebeseite mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben lösen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the guard plates on the cardan shaft and brake drum. Remove the track from the drive sprocket. Pull the split pins out of the fitted bolts of the cardan shaft. On the steering-gear side, using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, slacken the castle nuts 4–5 turns off the fitted bolts.",
+          "runs": [
+            {
+              "text": "Remove the guard plates on the cardan shaft and brake drum. Remove the track from the drive sprocket. Pull the split pins out of the fitted bolts of the cardan shaft. On the steering-gear side, using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, slacken the castle nuts 4–5 turns off the fitted bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las chapas protectoras del árbol de transmisión y del tambor de freno. Retirar la cadena de la rueda motriz. Extraer los pasadores de los tornillos ajustados del árbol de transmisión. En el lado del mecanismo de dirección, con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, aflojar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+          "runs": [
+            {
+              "text": "Retirar las chapas protectoras del árbol de transmisión y del tambor de freno. Retirar la cadena de la rueda motriz. Extraer los pasadores de los tornillos ajustados del árbol de transmisión. En el lado del mecanismo de dirección, con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, aflojar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

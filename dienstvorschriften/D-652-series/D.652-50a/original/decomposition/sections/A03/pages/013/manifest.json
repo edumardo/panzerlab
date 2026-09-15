@@ -1,0 +1,24 @@
+{
+  "page": 13,
+  "section": "A03",
+  "pdf_page": 8,
+  "side": "left",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "validated",
+  "translation_en_status": "validated",
+  "translation_es_status": "validated",
+  "figures": [
+    {
+      "number": 17,
+      "status": "validated",
+      "kind": "bild"
+    },
+    {
+      "number": 18,
+      "status": "validated",
+      "kind": "bild"
+    }
+  ]
+}

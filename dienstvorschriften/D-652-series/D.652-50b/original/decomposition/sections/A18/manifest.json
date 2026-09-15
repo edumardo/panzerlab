@@ -1,0 +1,27 @@
+{
+  "id": "A18",
+  "pages": [
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
+  ],
+  "titles": {
+    "de": "Zusammenbau der Hauptkupplung",
+    "en": "Reassembling the main clutch",
+    "es": "Montaje del embrague principal"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

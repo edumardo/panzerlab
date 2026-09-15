@@ -1,0 +1,19 @@
+{
+  "id": "A22",
+  "pages": [
+    62,
+    63,
+    64
+  ],
+  "titles": {
+    "de": "22. Ausbau der Leitradkurbel",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

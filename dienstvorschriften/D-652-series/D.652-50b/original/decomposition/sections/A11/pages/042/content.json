@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-042",
+  "document_id": "d652-50b",
+  "page": 42,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "11. Zerlegen des Seitenvorgeleges",
+    "en-GB": "11. Disassembling the final drive unit",
+    "es-ES": "11. Despiece del engranaje lateral final"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 23,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-041",
+    "next": "d65250b-page-043"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild061",
+      "number": 61,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern. Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
+          "runs": [
+            {
+              "text": "Die drei Muttern der Senkschrauben des Gehäusedeckels entsichern. Mit 22-SW-Maulschlüssel die Muttern abschrauben. Mit Schraubenzieher die entsicherten Schrauben herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the locking of the three nuts on the countersunk screws of the housing cover. Unscrew the nuts with a 22 mm across-flats open-ended spanner. Unscrew the unlocked screws with a screwdriver.",
+          "runs": [
+            {
+              "text": "Release the locking of the three nuts on the countersunk screws of the housing cover. Unscrew the nuts with a 22 mm across-flats open-ended spanner. Unscrew the unlocked screws with a screwdriver.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Liberar el seguro de las tres tuercas de los tornillos avellanados de la tapa de la carcasa. Desenroscar las tuercas con una llave fija de 22 mm de entrecaras. Desenroscar con un destornillador los tornillos ya liberados de seguro.",
+          "runs": [
+            {
+              "text": "Liberar el seguro de las tres tuercas de los tornillos avellanados de la tapa de la carcasa. Desenroscar las tuercas con una llave fija de 22 mm de entrecaras. Desenroscar con un destornillador los tornillos ya liberados de seguro.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild062",
+      "number": 62,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
+          "runs": [
+            {
+              "text": "Mit den Abdrückschrauben III DB 37 den Gehäusedeckel des Seitenvorgeleges abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press off the housing cover of the final drive unit with the extractor screws III DB 37.",
+          "runs": [
+            {
+              "text": "Press off the housing cover of the final drive unit with the extractor screws III DB 37.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar la tapa de la carcasa del engranaje lateral final con los tornillos extractores III DB 37.",
+          "runs": [
+            {
+              "text": "Separar la tapa de la carcasa del engranaje lateral final con los tornillos extractores III DB 37.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-046",
+  "document_id": "d652-50b",
+  "page": 46,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 25,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-045",
+    "next": "d65250b-page-047"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild069",
+      "number": 69,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
+          "runs": [
+            {
+              "text": "Den Drucksteg DB 92/2 über die Zugspindel legen. Mit 32-SW-Maulschlüssel die beiden Muttern auf Stehbolzen schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the thrust bar DB 92/2 over the draw spindle. Screw the two nuts onto the studs with a 32 mm across-flats open-ended spanner.",
+          "runs": [
+            {
+              "text": "Place the thrust bar DB 92/2 over the draw spindle. Screw the two nuts onto the studs with a 32 mm across-flats open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el puente de presión DB 92/2 sobre el husillo de tracción. Enroscar las dos tuercas en los pernos prisioneros con una llave fija de 32 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Colocar el puente de presión DB 92/2 sobre el husillo de tracción. Enroscar las dos tuercas en los pernos prisioneros con una llave fija de 32 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild070",
+      "number": 70,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
+          "runs": [
+            {
+              "text": "Stirnrad und Triebradwelle durch Linksdrehen der Mutter auseinanderdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the spur gear and the drive-sprocket shaft apart by turning the nut anticlockwise.",
+          "runs": [
+            {
+              "text": "Press the spur gear and the drive-sprocket shaft apart by turning the nut anticlockwise.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda.",
+          "runs": [
+            {
+              "text": "Separar la rueda dentada frontal y el eje de la rueda motriz girando la tuerca hacia la izquierda.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

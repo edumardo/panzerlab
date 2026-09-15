@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-010",
+  "document_id": "d652-50b",
+  "page": 10,
+  "section": "A02",
+  "type": "text",
+  "titles": {
+    "de": "2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse",
+    "en-GB": "2. Installing the cardan shaft between the steering gear and the steering brake",
+    "es-ES": "2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 7,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-009",
+    "next": "d65250b-page-011"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p010-para01",
+      "text": {
+        "de": {
+          "plain": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
+          "runs": [
+            {
+              "text": "1) Der Einbau der rechten und linken Gelenkwelle ist gleich.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "1) Installation of the right- and left-hand cardan shaft is identical.",
+          "runs": [
+            {
+              "text": "1) Installation of the right- and left-hand cardan shaft is identical.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "1) El montaje del árbol de transmisión derecho e izquierdo es igual.",
+          "runs": [
+            {
+              "text": "1) El montaje del árbol de transmisión derecho e izquierdo es igual.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild009",
+      "number": 9,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel. Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3. Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt. Gelenkwelle an der Lenkgetriebeseite verschrauben. Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
+          "runs": [
+            {
+              "text": "Gelenkwelle in gekröpfter Stellung wie beim Ausbau bringen, Bild 8, zwischen Lenkgetriebe und Bremstrommel. Bremstrommel drehen, bis sich ein Schraubenloch vor der Ausfräsung in der Nabe befindet, Bild 3. Paßschraube einführen und mit 19-SW-Steck- oder -Maulschlüssel verschrauben. Die Schraube innerhalb der Bremstrommel gut festhalten, damit sie nicht in die Bremstrommel fällt. Gelenkwelle an der Lenkgetriebeseite verschrauben. Die Kronenmuttern der Paßschrauben durch Versplinten sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum. Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3. Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum. Bolt the cardan shaft on the steering-gear side. Secure the castle nuts of the fitted bolts with split pins.",
+          "runs": [
+            {
+              "text": "Bring the cardan shaft into the cranked position as for removal, Fig. 8, between the steering gear and the brake drum. Turn the brake drum until a screw hole is positioned in front of the milled-out point in the hub, Fig. 3. Insert the fitted bolt and screw it in using a 19 A/F socket or open-ended spanner. Hold the bolt firmly inside the brake drum so that it does not fall into the brake drum. Bolt the cardan shaft on the steering-gear side. Secure the castle nuts of the fitted bolts with split pins.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno. Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3. Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este. Atornillar el árbol de transmisión en el lado del mecanismo de dirección. Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
+          "runs": [
+            {
+              "text": "Colocar el árbol de transmisión en la posición acodada como en el desmontaje, Fig. 8, entre el mecanismo de dirección y el tambor de freno. Girar el tambor de freno hasta que un orificio de tornillo quede situado delante del rebaje fresado en el cubo, Fig. 3. Introducir el tornillo ajustado y enroscarlo con una llave de vaso o llave fija de 19 mm de entrecaras. Sujetar bien el tornillo dentro del tambor de freno para que no caiga dentro de este. Atornillar el árbol de transmisión en el lado del mecanismo de dirección. Asegurar las tuercas almenadas de los tornillos ajustados con pasadores.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-007",
+  "document_id": "d652-50b",
+  "page": 7,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 5,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-006",
+    "next": "d65250b-page-008"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild004",
+      "number": 4,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3. Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
+          "runs": [
+            {
+              "text": "Bremstrommel so weit drehen, bis sich ein Paßbolzen vor der Ausfräsung in der Nabe befindet, Bild 3. Mit 19-SW-Steckschlüssel (Knarre) und 19-SW-Maulschlüssel die Kronenmuttern 4–5 Umdrehungen von den Paßschrauben schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Turn the brake drum until a fitted bolt is positioned in front of the milled-out point in the hub, Fig. 3. Using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, unscrew the castle nuts 4–5 turns off the fitted bolts.",
+          "runs": [
+            {
+              "text": "Turn the brake drum until a fitted bolt is positioned in front of the milled-out point in the hub, Fig. 3. Using a 19 A/F socket spanner (ratchet) and a 19 A/F open-ended spanner, unscrew the castle nuts 4–5 turns off the fitted bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Girar el tambor de freno hasta que un tornillo ajustado quede situado delante del rebaje fresado en el cubo, Fig. 3. Con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, desenroscar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+          "runs": [
+            {
+              "text": "Girar el tambor de freno hasta que un tornillo ajustado quede situado delante del rebaje fresado en el cubo, Fig. 3. Con una llave de vaso de 19 mm de entrecaras (carraca) y una llave fija de 19 mm de entrecaras, desenroscar las tuercas almenadas 4–5 vueltas de los tornillos ajustados.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild005",
+      "number": 5,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Paßschraube durch Hammerschlag auf Kronenmutter lösen. Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+          "runs": [
+            {
+              "text": "Paßschraube durch Hammerschlag auf Kronenmutter lösen. Kronenmutter und Paßschraube von Hand entfernen. Paßschraube gut festhalten, damit sie nicht in die Bremstrommel fällt.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Loosen the fitted bolt by striking the castle nut with a hammer. Remove the castle nut and fitted bolt by hand. Hold the fitted bolt firmly so that it does not fall into the brake drum.",
+          "runs": [
+            {
+              "text": "Loosen the fitted bolt by striking the castle nut with a hammer. Remove the castle nut and fitted bolt by hand. Hold the fitted bolt firmly so that it does not fall into the brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Aflojar el tornillo ajustado golpeando con un martillo la tuerca almenada. Retirar la tuerca almenada y el tornillo ajustado a mano. Sujetar bien el tornillo ajustado para que no caiga dentro del tambor de freno.",
+          "runs": [
+            {
+              "text": "Aflojar el tornillo ajustado golpeando con un martillo la tuerca almenada. Retirar la tuerca almenada y el tornillo ajustado a mano. Sujetar bien el tornillo ajustado para que no caiga dentro del tambor de freno.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

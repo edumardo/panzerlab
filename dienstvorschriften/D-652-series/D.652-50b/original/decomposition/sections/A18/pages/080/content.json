@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-080",
+  "document_id": "d652-50b",
+  "page": 80,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 42,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-079",
+    "next": "d65250b-page-081"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild128",
+      "number": 128,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern. Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben. Die Schrauben durch Umbiegen der Blechsicherung sichern.",
+          "runs": [
+            {
+              "text": "Die Vierkantschrauben der Schwungradbefestigung mit Draht sichern. Blechsicherung auf die Befestigungsschrauben legen und den Kupplungszwischenring an das Schwungrad schrauben. Die Schrauben durch Umbiegen der Blechsicherung sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Secure the square-head screws of the flywheel fixing with wire. Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel. Secure the screws by bending over the sheet-metal lock.",
+          "runs": [
+            {
+              "text": "Secure the square-head screws of the flywheel fixing with wire. Place the sheet-metal lock on the fixing screws and bolt the clutch intermediate ring to the flywheel. Secure the screws by bending over the sheet-metal lock.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante. Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante. Asegurar los tornillos doblando la chapa de seguridad.",
+          "runs": [
+            {
+              "text": "Asegurar con alambre los tornillos de cabeza cuadrada de la fijación del volante. Colocar la chapa de seguridad sobre los tornillos de fijación y atornillar el anillo intermedio del embrague al volante. Asegurar los tornillos doblando la chapa de seguridad.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild129",
+      "number": 129,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Federspannung der Führungshebel an den Kupplungstreibscheiben prüfen.",
+          "runs": [
+            {
+              "text": "Die Federspannung der Führungshebel an den Kupplungstreibscheiben prüfen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Check the spring tension of the guide levers on the clutch driving discs.",
+          "runs": [
+            {
+              "text": "Check the spring tension of the guide levers on the clutch driving discs.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Comprobar la tensión de los resortes de las palancas guía en los discos motrices del embrague.",
+          "runs": [
+            {
+              "text": "Comprobar la tensión de los resortes de las palancas guía en los discos motrices del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

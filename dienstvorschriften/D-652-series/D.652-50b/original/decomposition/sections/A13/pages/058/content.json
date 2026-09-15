@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-058",
+  "document_id": "d652-50b",
+  "page": 58,
+  "section": "A13",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
+    "en-GB": "Continued: 13. Installing the final drive unit with a lifting device.",
+    "es-ES": "Continuación: 13. Montaje del engranaje lateral final con dispositivo elevador."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 31,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-057",
+    "next": "d65250b-page-059"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild089",
+      "number": 89,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Einen Gummi-Dichtring (1), auf die Abstandsbuchse (2) und einen weiteren Gummi-Dichtring (3) auf die Nabe der Ritzelwelle schieben. Das Seitenvorgelege mit Brechstange aufrichten und die Ritzelwelle auf gleiche Höhe mit der Bremstrommelwelle heben. Die Bremstrommel so weit herumdrehen, bis die Nuten der Ritzel- und Bremstrommelwelle ineinander passen.",
+          "runs": [
+            {
+              "text": "Einen Gummi-Dichtring (1), auf die Abstandsbuchse (2) und einen weiteren Gummi-Dichtring (3) auf die Nabe der Ritzelwelle schieben. Das Seitenvorgelege mit Brechstange aufrichten und die Ritzelwelle auf gleiche Höhe mit der Bremstrommelwelle heben. Die Bremstrommel so weit herumdrehen, bis die Nuten der Ritzel- und Bremstrommelwelle ineinander passen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide a rubber sealing ring (1) onto the spacer bush (2) and a further rubber sealing ring (3) onto the hub of the pinion shaft. Raise the final drive unit upright using a crowbar and lift the pinion shaft to the same height as the brake-drum shaft. Turn the brake drum until the splines of the pinion shaft and the brake-drum shaft engage with one another.",
+          "runs": [
+            {
+              "text": "Slide a rubber sealing ring (1) onto the spacer bush (2) and a further rubber sealing ring (3) onto the hub of the pinion shaft. Raise the final drive unit upright using a crowbar and lift the pinion shaft to the same height as the brake-drum shaft. Turn the brake drum until the splines of the pinion shaft and the brake-drum shaft engage with one another.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar un anillo de goma (1) sobre el casquillo distanciador (2) y otro anillo de goma (3) sobre el cubo del eje del piñón. Enderezar el engranaje lateral final con una palanca y elevar el eje del piñón hasta la misma altura que el eje del tambor de freno. Girar el tambor de freno hasta que las ranuras del eje del piñón y del eje del tambor de freno encajen entre sí.",
+          "runs": [
+            {
+              "text": "Deslizar un anillo de goma (1) sobre el casquillo distanciador (2) y otro anillo de goma (3) sobre el cubo del eje del piñón. Enderezar el engranaje lateral final con una palanca y elevar el eje del piñón hasta la misma altura que el eje del tambor de freno. Girar el tambor de freno hasta que las ranuras del eje del piñón y del eje del tambor de freno encajen entre sí.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

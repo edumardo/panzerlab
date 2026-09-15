@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "document_id": "d652-50b",
+  "designation": "D 652/50b",
+  "file": "D.652-50b_de.pdf",
+  "original_file_name": "61.-D-652_50b-Panzerkampfwagen-III-H-L-Panzerbefehlswagen-H-K-Gepanzerte-Selbstfahrlafette-Ausf-A-E-f-Sturmgeschuetz-75cm-Kanone-1943-03-01_compressed_bushmakow.pdf",
+  "language": "de-DE",
+  "media_type": "application/pdf",
+  "size_bytes": 29846399,
+  "sha256": "7AF0F3406B77934AF8E0899BCC629C66841F966420413136F97A5A129F854F3B",
+  "pdf_pages": 59,
+  "page_layout": "photographed spreads",
+  "decomposition": "decomposition/document.json",
+  "source": {
+    "description": "User-provided copy attributed to the Bushmakow restoration archive",
+    "url": "https://bushmakow.com/library/"
+  }
+}

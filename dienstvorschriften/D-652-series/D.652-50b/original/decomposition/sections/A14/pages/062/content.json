@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-062",
+  "document_id": "d652-50b",
+  "page": 62,
+  "section": "A14",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 33,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-061",
+    "next": "d65250b-page-063"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild095",
+      "number": 95,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben. Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Maulschlüssel die Schrauben der Reglerkastenbefestigung (1) entsichern und ausschrauben. Mit 17-SW-Steckschlüssel die Schrauben von dem Kupplungsgehäuse (2) und dem Lagerflansch (3) entsichern und ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1). Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
+          "runs": [
+            {
+              "text": "Using a 14 mm (A/F) open-ended spanner, unlock and unscrew the bolts securing the governor housing (1). Using a 17 mm (A/F) socket spanner, unlock and unscrew the bolts of the clutch housing (2) and the bearing flange (3).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1). Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3).",
+          "runs": [
+            {
+              "text": "Con una llave fija de 14 mm (entrecaras), quitar el seguro y desatornillar los tornillos de fijación de la caja del regulador (1). Con una llave de vaso de 17 mm (entrecaras), quitar el seguro y desatornillar los tornillos de la carcasa del embrague (2) y de la brida de cojinete (3).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild096",
+      "number": 96,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Kupplungswelle mit Lagerflansch aus der Kupplung ziehen und das Kupplungsgehäuse ausheben.",
+          "runs": [
+            {
+              "text": "Kupplungswelle mit Lagerflansch aus der Kupplung ziehen und das Kupplungsgehäuse ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the clutch shaft with the bearing flange out of the clutch and lift out the clutch housing.",
+          "runs": [
+            {
+              "text": "Pull the clutch shaft with the bearing flange out of the clutch and lift out the clutch housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el eje del embrague junto con la brida de cojinete del embrague y levantar la carcasa del embrague.",
+          "runs": [
+            {
+              "text": "Extraer el eje del embrague junto con la brida de cojinete del embrague y levantar la carcasa del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

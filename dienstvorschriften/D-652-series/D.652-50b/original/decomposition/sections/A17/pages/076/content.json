@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-076",
+  "document_id": "d652-50b",
+  "page": 76,
+  "section": "A17",
+  "type": "text",
+  "titles": {
+    "de": "17. Auswechseln der Kupplungsbeläge",
+    "en-GB": "17. Replacing the clutch linings",
+    "es-ES": "17. Sustitución de los forros de embrague"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 40,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-075",
+    "next": "d65250b-page-077"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild122",
+      "number": 122,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
+          "runs": [
+            {
+              "text": "Mit 6-mm-Bohrer den Senkkopf der Nieten anbohren.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 6 mm drill bit, drill out the countersunk head of the rivets.",
+          "runs": [
+            {
+              "text": "Using a 6 mm drill bit, drill out the countersunk head of the rivets.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una broca de 6 mm, taladrar la cabeza avellanada de los remaches.",
+          "runs": [
+            {
+              "text": "Con una broca de 6 mm, taladrar la cabeza avellanada de los remaches.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild123",
+      "number": 123,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Kupplungsscheibe mit dem Niet auf eine Mutter legen. Mit Hammer und Dorn die Nieten ausschlagen.",
+          "runs": [
+            {
+              "text": "Kupplungsscheibe mit dem Niet auf eine Mutter legen. Mit Hammer und Dorn die Nieten ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the clutch disc, rivet down, onto a nut. Drive out the rivets using a hammer and drift.",
+          "runs": [
+            {
+              "text": "Place the clutch disc, rivet down, onto a nut. Drive out the rivets using a hammer and drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca. Extraer los remaches golpeando con martillo y botador.",
+          "runs": [
+            {
+              "text": "Colocar el disco de embrague, con el remache hacia abajo, sobre una tuerca. Extraer los remaches golpeando con martillo y botador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

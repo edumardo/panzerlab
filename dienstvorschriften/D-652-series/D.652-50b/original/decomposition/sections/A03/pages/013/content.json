@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-013",
+  "document_id": "d652-50b",
+  "page": 13,
+  "section": "A03",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 8,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-012",
+    "next": "d65250b-page-014"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild012",
+      "number": 12,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Befestigungsschrauben der Bremstrommel entsichern. Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
+          "runs": [
+            {
+              "text": "Die Befestigungsschrauben der Bremstrommel entsichern. Befestigungsschrauben mit 22-SW-Steck- oder -Maulschlüssel herausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Release the lock on the retaining screws of the brake drum. Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
+          "runs": [
+            {
+              "text": "Release the lock on the retaining screws of the brake drum. Unscrew the retaining screws using a 22 mm A/F socket or open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Liberar el seguro de los tornillos de fijación del tambor de freno. Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Liberar el seguro de los tornillos de fijación del tambor de freno. Desenroscar los tornillos de fijación con una llave de vaso o llave fija de 22 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild013",
+      "number": 13,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.",
+          "runs": [
+            {
+              "text": "Durch gleichmäßiges Anziehen der zwei Druckschrauben III DB 37 die Bremstrommel abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press the brake drum off by evenly tightening the two pressure screws III DB 37.",
+          "runs": [
+            {
+              "text": "Press the brake drum off by evenly tightening the two pressure screws III DB 37.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37.",
+          "runs": [
+            {
+              "text": "Separar el tambor de freno apretando uniformemente los dos tornillos de presión III DB 37.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

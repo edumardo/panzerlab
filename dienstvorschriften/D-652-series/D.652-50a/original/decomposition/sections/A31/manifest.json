@@ -1,0 +1,19 @@
+{
+  "id": "A31",
+  "pages": [
+    79,
+    80,
+    81
+  ],
+  "titles": {
+    "de": "31. Einbau des Triebrades",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

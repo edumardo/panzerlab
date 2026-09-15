@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-089",
+  "document_id": "d652-50b",
+  "page": 89,
+  "section": "A19",
+  "type": "text",
+  "titles": {
+    "de": "19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
+    "en-GB": "19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 46,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-088",
+    "next": "d65250b-page-090"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild141",
+      "number": 141,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau schrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau schrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using 14 mm and 17 mm open-end spanners, unscrew the bolts from the cardan shaft tunnel and the clutch front housing.",
+          "runs": [
+            {
+              "text": "Using 14 mm and 17 mm open-end spanners, unscrew the bolts from the cardan shaft tunnel and the clutch front housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con llaves de boca de 14 y 17 mm, desenroscar los tornillos del túnel del árbol de transmisión y de la carcasa delantera del embrague.",
+          "runs": [
+            {
+              "text": "Con llaves de boca de 14 y 17 mm, desenroscar los tornillos del túnel del árbol de transmisión y de la carcasa delantera del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild142",
+      "number": 142,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
+          "runs": [
+            {
+              "text": "Die Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die acht Bolzen herausschrauben. Gelenkwelle von der Kupplungswelle trennen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the split pins out of the castellated nuts. Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
+          "runs": [
+            {
+              "text": "Pull the split pins out of the castellated nuts. Using two 17 mm open-end spanners, unscrew the eight bolts. Separate the cardan shaft from the clutch shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves de boca de 17 mm, desenroscar los ocho pernos. Separar el árbol de transmisión del árbol del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

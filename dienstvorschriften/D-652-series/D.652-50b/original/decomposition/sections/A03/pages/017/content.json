@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-017",
+  "document_id": "d652-50b",
+  "page": 17,
+  "section": "A03",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 3. Ausbau der Bremstrommel und Bremsbacken der Lenkbremse.",
+    "en-GB": "Continued: 3. Removing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 3. Desmontaje del tambor de freno y las zapatas de freno del freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 10,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-016",
+    "next": "d65250b-page-018"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild020",
+      "number": 20,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
+          "runs": [
+            {
+              "text": "Mit Hammer und Dorn den Verbindungsbolzen ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drive out the connecting bolt using a hammer and drift.",
+          "runs": [
+            {
+              "text": "Drive out the connecting bolt using a hammer and drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el perno de unión golpeando con martillo y botador.",
+          "runs": [
+            {
+              "text": "Extraer el perno de unión golpeando con martillo y botador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild021",
+      "number": 21,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Bremsbacken durch die Klappe ausheben.",
+          "runs": [
+            {
+              "text": "Die Bremsbacken durch die Klappe ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Lift the brake shoes out through the hatch.",
+          "runs": [
+            {
+              "text": "Lift the brake shoes out through the hatch.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Levantar las zapatas de freno a través de la trampilla.",
+          "runs": [
+            {
+              "text": "Levantar las zapatas de freno a través de la trampilla.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

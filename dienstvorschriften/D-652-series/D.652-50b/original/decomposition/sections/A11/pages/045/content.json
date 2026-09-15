@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-045",
+  "document_id": "d652-50b",
+  "page": 45,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 24,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-044",
+    "next": "d65250b-page-046"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild067",
+      "number": 67,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 30-SW-Maulschlüssel die beiden Stehbolzen DB 92/1 auf die Gewinde des Stirnrades aufschrauben.",
+          "runs": [
+            {
+              "text": "Mit 30-SW-Maulschlüssel die beiden Stehbolzen DB 92/1 auf die Gewinde des Stirnrades aufschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the two studs DB 92/1 onto the threads of the spur gear with a 30 mm across-flats open-ended spanner.",
+          "runs": [
+            {
+              "text": "Screw the two studs DB 92/1 onto the threads of the spur gear with a 30 mm across-flats open-ended spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar los dos pernos prisioneros DB 92/1 en las roscas de la rueda dentada frontal con una llave fija de 30 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Enroscar los dos pernos prisioneros DB 92/1 en las roscas de la rueda dentada frontal con una llave fija de 30 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild068",
+      "number": 68,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Spindel DB 92/6 mit der aufgeschraubten Mutter DB 92/4 in das Gewinde der Triebradwelle einschrauben.",
+          "runs": [
+            {
+              "text": "Die Spindel DB 92/6 mit der aufgeschraubten Mutter DB 92/4 in das Gewinde der Triebradwelle einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the spindle DB 92/6, with the nut DB 92/4 screwed onto it, into the thread of the drive-sprocket shaft.",
+          "runs": [
+            {
+              "text": "Screw the spindle DB 92/6, with the nut DB 92/4 screwed onto it, into the thread of the drive-sprocket shaft.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar el husillo DB 92/6, con la tuerca DB 92/4 ya montada, en la rosca del eje de la rueda motriz.",
+          "runs": [
+            {
+              "text": "Enroscar el husillo DB 92/6, con la tuerca DB 92/4 ya montada, en la rosca del eje de la rueda motriz.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

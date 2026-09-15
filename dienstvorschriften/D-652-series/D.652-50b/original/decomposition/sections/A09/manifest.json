@@ -1,0 +1,20 @@
+{
+  "id": "A09",
+  "pages": [
+    36,
+    37,
+    38,
+    39
+  ],
+  "titles": {
+    "de": "Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung",
+    "en": "Removing a final drive unit using a lifting device",
+    "es": "Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-059",
+  "document_id": "d652-50b",
+  "page": 59,
+  "section": "A13",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
+    "en-GB": "Continued: 13. Installing the final drive unit with a lifting device.",
+    "es-ES": "Continuación: 13. Montaje del engranaje lateral final con dispositivo elevador."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 31,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-058",
+    "next": "d65250b-page-060"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild090",
+      "number": 90,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.) Sicherungsbleche auf den Befestigungsbolzen legen. Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55. Die Muttern durch Umbiegen der Sicherungsbleche sichern. Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
+          "runs": [
+            {
+              "text": "Das Seitenvorgelege mit Hammer und Holzklotz an die Panzerwanne schlagen. (Darauf achten, daß die Bremstrommelwelle nicht aus dem Lager gleitet.) Sicherungsbleche auf den Befestigungsbolzen legen. Mit 22-SW-Steck- oder -Ringschlüssel das Seitenvorgelege mit der Panzerwanne verschrauben, Bild 55. Die Muttern durch Umbiegen der Sicherungsbleche sichern. Bis zur oberen Einfüllschraube Öl in das Seitenvorgelege füllen, Bild 54.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.) Place the sheet-metal locks onto the fixing bolts. Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55. Secure the nuts by bending over the sheet-metal locks. Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
+          "runs": [
+            {
+              "text": "Drive the final drive unit against the hull using a hammer and a wooden block. (Take care that the brake-drum shaft does not slide out of its bearing.) Place the sheet-metal locks onto the fixing bolts. Using a 22 mm (A/F) socket or ring spanner, bolt the final drive unit to the hull, Fig. 55. Secure the nuts by bending over the sheet-metal locks. Fill the final drive unit with oil up to the upper filler screw, Fig. 54.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.) Colocar las chapas de seguridad sobre los pernos de fijación. Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55. Asegurar las tuercas doblando las chapas de seguridad. Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54.",
+          "runs": [
+            {
+              "text": "Golpear el engranaje lateral final contra el casco blindado con un martillo y un taco de madera. (Prestar atención a que el eje del tambor de freno no se salga del cojinete.) Colocar las chapas de seguridad sobre los pernos de fijación. Con una llave de vaso o de estrella de 22 mm (entrecaras), atornillar el engranaje lateral final al casco blindado, Fig. 55. Asegurar las tuercas doblando las chapas de seguridad. Llenar de aceite el engranaje lateral final hasta el tornillo de llenado superior, Fig. 54.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

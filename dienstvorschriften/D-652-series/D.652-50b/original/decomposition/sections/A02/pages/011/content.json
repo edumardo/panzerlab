@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-011",
+  "document_id": "d652-50b",
+  "page": 11,
+  "section": "A02",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 2. Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
+    "en-GB": "Continued: 2. Installing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 2. Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 7,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-010",
+    "next": "d65250b-page-012"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild010",
+      "number": 10,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Sicherungsblech vor Bremstrommel legen. Die drei Befestigungsschrauben der Bremstrommel mit 22-SW-Steck- oder -Maulschlüssel einschrauben. Die Befestigungsschrauben durch Umbiegen der Blechsicherungen sichern. Schutzbleche an der Gelenkwelle und Bremstrommel befestigen. Gleiskette auflegen.",
+          "runs": [
+            {
+              "text": "Sicherungsblech vor Bremstrommel legen. Die drei Befestigungsschrauben der Bremstrommel mit 22-SW-Steck- oder -Maulschlüssel einschrauben. Die Befestigungsschrauben durch Umbiegen der Blechsicherungen sichern. Schutzbleche an der Gelenkwelle und Bremstrommel befestigen. Gleiskette auflegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the locking plate in front of the brake drum. Screw in the three fixing screws of the brake drum using a 22 A/F socket or open-ended spanner. Secure the fixing screws by bending over the sheet-metal locks. Fit the guard plates to the cardan shaft and brake drum. Fit the track.",
+          "runs": [
+            {
+              "text": "Place the locking plate in front of the brake drum. Screw in the three fixing screws of the brake drum using a 22 A/F socket or open-ended spanner. Secure the fixing screws by bending over the sheet-metal locks. Fit the guard plates to the cardan shaft and brake drum. Fit the track.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar la chapa de seguridad delante del tambor de freno. Enroscar los tres tornillos de fijación del tambor de freno con una llave de vaso o llave fija de 22 mm de entrecaras. Asegurar los tornillos de fijación doblando las chapas de seguridad. Fijar las chapas protectoras en el árbol de transmisión y el tambor de freno. Colocar la cadena.",
+          "runs": [
+            {
+              "text": "Colocar la chapa de seguridad delante del tambor de freno. Enroscar los tres tornillos de fijación del tambor de freno con una llave de vaso o llave fija de 22 mm de entrecaras. Asegurar los tornillos de fijación doblando las chapas de seguridad. Fijar las chapas protectoras en el árbol de transmisión y el tambor de freno. Colocar la cadena.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

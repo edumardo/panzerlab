@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-107",
+  "document_id": "d652-50b",
+  "page": 107,
+  "section": "A22",
+  "type": "figures",
+  "titles": {
+    "de": "Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe",
+    "en-GB": "Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub",
+    "es-ES": "Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 55,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-106",
+    "next": "d65250b-page-108"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p107-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe. Maßstab 1:1.",
+          "runs": [
+            {
+              "text": "Zeichnung 5. Zusatzteile zu III DB 101 zum Zusammenziehen der Ritzelwelle mit der Lenkbremstrommelnabe. Maßstab 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub. Scale 1:1.",
+          "runs": [
+            {
+              "text": "Drawing 5. Additional parts to III DB 101 for drawing the pinion shaft together with the steering-brake drum hub. Scale 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección. Escala 1:1.",
+          "runs": [
+            {
+              "text": "Plano 5. Piezas adicionales para III DB 101 para unir por tracción el eje piñón con el cubo del tambor del freno de dirección. Escala 1:1.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

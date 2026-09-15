@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-060",
+  "document_id": "d652-50b",
+  "page": 60,
+  "section": "A13",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 13. Einbau des Seitenvorgeleges mit Hebevorrichtung.",
+    "en-GB": "Continued: 13. Installing the final drive unit with a lifting device.",
+    "es-ES": "Continuación: 13. Montaje del engranaje lateral final con dispositivo elevador."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 32,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-059",
+    "next": "d65250b-page-061"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p060-para01",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild091",
+      "number": 91,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben. Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben. Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen. Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
+          "runs": [
+            {
+              "text": "Das schwächere Gewinde des Zwischenstückes (Zeichnung 5)¹). in das Gewinde der Ritzelwelle schrauben. Die Spindel der Drehstabfederausziehvorrichtung III DB 101 auf das Gewinde des Zwischenstückes schrauben. Scheibe (Zeichnung 5)¹) in die Ausdrehung der Bremstrommelnabe legen. Glocke III DB 101 über die Spindel führen und Mutter aufsetzen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft. Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece. Place the washer (Drawing 5)¹) into the recess of the brake-drum hub. Guide the bell III DB 101 over the spindle and fit the nut.",
+          "runs": [
+            {
+              "text": "Screw the weaker thread of the adapter piece (Drawing 5)¹) into the thread of the pinion shaft. Screw the spindle of the torsion-bar spring puller III DB 101 onto the thread of the adapter piece. Place the washer (Drawing 5)¹) into the recess of the brake-drum hub. Guide the bell III DB 101 over the spindle and fit the nut.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enroscar la rosca más débil de la pieza intermedia (plano 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (plano 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
+          "runs": [
+            {
+              "text": "Enroscar la rosca más débil de la pieza intermedia (plano 5)¹) en la rosca del eje del piñón. Enroscar el husillo del extractor de barras de torsión III DB 101 en la rosca de la pieza intermedia. Colocar la arandela (plano 5)¹) en el rebaje del cubo del tambor de freno. Pasar la campana III DB 101 sobre el husillo y colocar la tuerca.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild092",
+      "number": 92,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
+          "runs": [
+            {
+              "text": "Mit 32-SW-Maulschlüssel die Ritzelwelle mit der Bremstrommelnabe zusammenziehen und die Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
+          "runs": [
+            {
+              "text": "Using a 32 mm (A/F) open-ended spanner, draw the pinion shaft together with the brake-drum hub and fit the cardan shaft, marginal number 2, Fitting the cardan shaft between the steering gear and the steering brake, Figs. 9 to 10.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10.",
+          "runs": [
+            {
+              "text": "Con una llave fija de 32 mm (entrecaras), acoplar el eje del piñón con el cubo del tambor de freno y montar el árbol de transmisión, número marginal 2, Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección, Figs. 9 a 10.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

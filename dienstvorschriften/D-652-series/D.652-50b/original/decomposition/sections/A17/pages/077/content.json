@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-077",
+  "document_id": "d652-50b",
+  "page": 77,
+  "section": "A17",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 17. Auswechseln der Kupplungsbeläge.",
+    "en-GB": "Continued: 17. Replacing the clutch linings.",
+    "es-ES": "Continuación: 17. Sustitución de los forros de embrague."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 40,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-076",
+    "next": "d65250b-page-078"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild124",
+      "number": 124,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Einen Dorn in Stärke der Nietköpfe in den Schraubstock spannen. Zu beiden Seiten der Kupplungsscheibe einen neuen Kupplungsbelag mit den Versenkseiten nach außen legen. Von unten durch den Belag der Kupplungsscheibe und den oberen Belag eine Niete einführen. Den unteren Nietkopf auf den Dorn im Schraubstock aufliegen lassen und diesen mit Hammer und Dorn vernieten.",
+          "runs": [
+            {
+              "text": "Einen Dorn in Stärke der Nietköpfe in den Schraubstock spannen. Zu beiden Seiten der Kupplungsscheibe einen neuen Kupplungsbelag mit den Versenkseiten nach außen legen. Von unten durch den Belag der Kupplungsscheibe und den oberen Belag eine Niete einführen. Den unteren Nietkopf auf den Dorn im Schraubstock aufliegen lassen und diesen mit Hammer und Dorn vernieten.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Clamp a drift the thickness of the rivet heads into the vice. Place a new clutch lining on each side of the clutch disc with the countersunk sides facing outward. Insert a rivet from below through the lining of the clutch disc and the upper lining. Rest the lower rivet head on the drift held in the vice and rivet it over using a hammer and drift.",
+          "runs": [
+            {
+              "text": "Clamp a drift the thickness of the rivet heads into the vice. Place a new clutch lining on each side of the clutch disc with the countersunk sides facing outward. Insert a rivet from below through the lining of the clutch disc and the upper lining. Rest the lower rivet head on the drift held in the vice and rivet it over using a hammer and drift.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sujetar en el tornillo de banco un botador del grosor de las cabezas de los remaches. Colocar un forro de embrague nuevo a cada lado del disco de embrague, con los lados avellanados hacia afuera. Introducir un remache desde abajo a través del forro del disco de embrague y del forro superior. Apoyar la cabeza inferior del remache sobre el botador sujeto en el tornillo de banco y remacharlo con martillo y botador.",
+          "runs": [
+            {
+              "text": "Sujetar en el tornillo de banco un botador del grosor de las cabezas de los remaches. Colocar un forro de embrague nuevo a cada lado del disco de embrague, con los lados avellanados hacia afuera. Introducir un remache desde abajo a través del forro del disco de embrague y del forro superior. Apoyar la cabeza inferior del remache sobre el botador sujeto en el tornillo de banco y remacharlo con martillo y botador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-028",
+  "document_id": "d652-50b",
+  "page": 28,
+  "section": "A06",
+  "type": "text",
+  "titles": {
+    "de": "6. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit hydraulischer Lenkbetätigung",
+    "en-GB": "6. Installing the brake drum and brake shoes of the support brake with hydraulic steering actuation",
+    "es-ES": "6. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección hidráulico"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 16,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-027",
+    "next": "d65250b-page-029"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild039",
+      "number": 39,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen. Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.",
+          "runs": [
+            {
+              "text": "Den einen Bolzen mit dem Splintloch und den anderen mit der Nute nach außen in die Bremsbacken setzen. Gewindespindeln mit Vierkantschlüssel gleich weit einschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Insert one pin with the split-pin hole and the other with the groove facing outwards into the brake shoes. Using a square key, screw in the threaded spindles to an equal depth.",
+          "runs": [
+            {
+              "text": "Insert one pin with the split-pin hole and the other with the groove facing outwards into the brake shoes. Using a square key, screw in the threaded spindles to an equal depth.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Insertar un perno con el orificio para el pasador y el otro con la ranura hacia fuera en las zapatas de freno. Con una llave cuadrada, enroscar los husillos roscados a la misma profundidad.",
+          "runs": [
+            {
+              "text": "Insertar un perno con el orificio para el pasador y el otro con la ranura hacia fuera en las zapatas de freno. Con una llave cuadrada, enroscar los husillos roscados a la misma profundidad.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild040",
+      "number": 40,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.",
+          "runs": [
+            {
+              "text": "Sicherungsfeder des Nachstellschlosses in die Nute des einen Bolzens schieben. Feder an den Bund des anderen Bolzens drücken und Splint vor die Feder einführen. Splint auseinanderbiegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Push the locking spring of the adjusting lock into the groove of one pin. Press the spring against the collar of the other pin and insert the split pin in front of the spring. Bend the split pin open.",
+          "runs": [
+            {
+              "text": "Push the locking spring of the adjusting lock into the groove of one pin. Press the spring against the collar of the other pin and insert the split pin in front of the spring. Bend the split pin open.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el resorte de seguridad del cerrojo de reajuste en la ranura de un perno. Presionar el resorte contra el collarín del otro perno e introducir el pasador delante del resorte. Abrir las aletas del pasador.",
+          "runs": [
+            {
+              "text": "Introducir el resorte de seguridad del cerrojo de reajuste en la ranura de un perno. Presionar el resorte contra el collarín del otro perno e introducir el pasador delante del resorte. Abrir las aletas del pasador.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

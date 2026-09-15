@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-052",
+  "document_id": "d652-50b",
+  "page": 52,
+  "section": "A12",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 28,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-051",
+    "next": "d65250b-page-053"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild080",
+      "number": 80,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Abstandsring auf das obere Rollenlager legen. Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben. Lochschrauben durch Draht sichern.",
+          "runs": [
+            {
+              "text": "Abstandsring auf das obere Rollenlager legen. Mit den 8 Lochschrauben Lagerflansch und Nabe verschrauben. Lochschrauben durch Draht sichern.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the spacer ring on the upper roller bearing. Bolt the bearing flange and hub together using the 8 hollow screws. Secure the hollow screws with wire.",
+          "runs": [
+            {
+              "text": "Place the spacer ring on the upper roller bearing. Bolt the bearing flange and hub together using the 8 hollow screws. Secure the hollow screws with wire.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo distanciador sobre el cojinete de rodillos superior. Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos. Asegurar los tornillos huecos con alambre.",
+          "runs": [
+            {
+              "text": "Colocar el anillo distanciador sobre el cojinete de rodillos superior. Atornillar entre sí la brida de cojinete y el cubo mediante los 8 tornillos huecos. Asegurar los tornillos huecos con alambre.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild081",
+      "number": 81,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.",
+          "runs": [
+            {
+              "text": "Den Rollenstützring mit der ausgedrehten Seite auf die Rollen des Rollenlagers legen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place the roller support ring, with its recessed face, onto the rollers of the roller bearing.",
+          "runs": [
+            {
+              "text": "Place the roller support ring, with its recessed face, onto the rollers of the roller bearing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el anillo de apoyo de los rodillos, con el lado rebajado, sobre los rodillos del cojinete de rodillos.",
+          "runs": [
+            {
+              "text": "Colocar el anillo de apoyo de los rodillos, con el lado rebajado, sobre los rodillos del cojinete de rodillos.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-100",
+  "document_id": "d652-50b",
+  "page": 100,
+  "section": "A21",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la cureña autopropulsada blindada"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 52,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-099",
+    "next": "d65250b-page-101"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild159",
+      "number": 159,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
+          "runs": [
+            {
+              "text": "Schutzkappen und Ausrüstungsgegenstände oberhalb des Geschützsockels entfernen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Remove the protective caps and items of equipment above the gun mount base.",
+          "runs": [
+            {
+              "text": "Remove the protective caps and items of equipment above the gun mount base.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Retirar las caperuzas protectoras y los objetos de equipo situados encima de la base del cañón.",
+          "runs": [
+            {
+              "text": "Retirar las caperuzas protectoras y los objetos de equipo situados encima de la base del cañón.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild160",
+      "number": 160,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben. Bolzen durch leichten Hammerschlag ausschlagen.",
+          "runs": [
+            {
+              "text": "Aus den Kronenmuttern des Geschützsockels die Splinte ziehen und mit 30-SW-Ringschlüssel die Kronenmuttern abschrauben. Bolzen durch leichten Hammerschlag ausschlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the bolts with a light hammer blow.",
+          "runs": [
+            {
+              "text": "Pull the split pins out of the castellated nuts of the gun mount base and, using a 30 mm ring spanner, unscrew the castellated nuts. Knock out the bolts with a light hammer blow.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer los pernos con un golpe suave de martillo.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas de la base del cañón y, con una llave de estrella de 30 mm, desenroscar las tuercas almenadas. Extraer los pernos con un golpe suave de martillo.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-103",
+  "document_id": "d652-50b",
+  "page": 103,
+  "section": "A22",
+  "type": "figures",
+  "titles": {
+    "de": "Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges",
+    "en-GB": "Pipe-spigot spanner for the ring nut of the final-drive pinion shaft",
+    "es-ES": "Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 53,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-102",
+    "next": "d65250b-page-104"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p103-para01",
+      "text": {
+        "de": {
+          "plain": "Zeichnung 1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges. Maßst. 1:1.",
+          "runs": [
+            {
+              "text": "Zeichnung 1. Rohrzapfenschlüssel für die Ringmutter der Ritzelwelle des Seitenvorgeleges. Maßst. 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drawing 1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft. Scale 1:1.",
+          "runs": [
+            {
+              "text": "Drawing 1. Pipe-spigot spanner for the ring nut of the final-drive pinion shaft. Scale 1:1.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Plano 1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final. Escala 1:1.",
+          "runs": [
+            {
+              "text": "Plano 1. Llave de espigo tubular para la tuerca anular del eje piñón del engranaje lateral final. Escala 1:1.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

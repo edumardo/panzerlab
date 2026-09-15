@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-048",
+  "document_id": "d652-50b",
+  "page": 48,
+  "section": "A11",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 11. Zerlegen des Seitenvorgeleges.",
+    "en-GB": "Continued: 11. Disassembling the final drive unit.",
+    "es-ES": "Continuación: 11. Despiece del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 26,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-047",
+    "next": "d65250b-page-049"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild073",
+      "number": 73,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht. Ritzelwelle durch Anziehen der Mutter ausziehen.",
+          "runs": [
+            {
+              "text": "Zwischen einen Zahn der Ritzelwelle und das Gehäuse ein Stück Holz legen, damit sich die Ritzelwelle nicht mitdreht. Ritzelwelle durch Anziehen der Mutter ausziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it. Pull out the pinion shaft by tightening the nut.",
+          "runs": [
+            {
+              "text": "Place a piece of wood between a tooth of the pinion shaft and the housing so that the pinion shaft cannot turn with it. Pull out the pinion shaft by tightening the nut.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él. Extraer el eje del piñón apretando la tuerca.",
+          "runs": [
+            {
+              "text": "Colocar un taco de madera entre un diente del eje del piñón y la carcasa para que el eje del piñón no gire con él. Extraer el eje del piñón apretando la tuerca.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

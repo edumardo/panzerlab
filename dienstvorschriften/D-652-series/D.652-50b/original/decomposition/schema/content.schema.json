@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "D 652/50b canonical page content",
+  "type": "object",
+  "required": ["schema_version", "id", "document_id", "page", "section", "type", "titles", "source", "navigation", "paragraphs", "figures", "status"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "id": {"type": "string", "pattern": "^d65250b-page-[0-9]{3}$"},
+    "document_id": {"const": "d652-50b"},
+    "page": {"type": "integer", "minimum": 1, "maximum": 112},
+    "section": {"type": "string"},
+    "type": {"enum": ["blank", "index", "text", "figures", "unclassified"]},
+    "titles": {"$ref": "#/$defs/localisedNullableStrings"},
+    "source": {
+      "type": "object",
+      "required": ["image", "pdf_spread", "side", "status"],
+      "properties": {
+        "image": {"const": "source.jpg"},
+        "pdf_spread": {"type": "integer", "minimum": 1, "maximum": 59},
+        "side": {"enum": ["left", "right"]},
+        "status": {"enum": ["extracted_clean", "validated"]}
+      }
+    },
+    "navigation": {
+      "type": "object",
+      "required": ["previous", "next"],
+      "properties": {
+        "previous": {"type": ["string", "null"]},
+        "next": {"type": ["string", "null"]}
+      }
+    },
+    "paragraphs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "text"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^d65250b-p[0-9]{3}-para[0-9]{2}$"},
+          "text": {"$ref": "#/$defs/localisedRichText"}
+        }
+      }
+    },
+    "figures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "number", "image", "status", "captions", "label_keys"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^d65250b-bild[0-9]{3}$"},
+          "number": {"type": "integer", "minimum": 1},
+          "image": {"type": ["string", "null"]},
+          "status": {"$ref": "#/$defs/workflowState"},
+          "captions": {"$ref": "#/$defs/localisedRichText"},
+          "label_keys": {"$ref": "#/$defs/localisedRichText"}
+        }
+      }
+    },
+    "status": {
+      "type": "object",
+      "required": ["transcription", "en-GB", "es-ES", "figures"],
+      "properties": {
+        "transcription": {"$ref": "#/$defs/workflowState"},
+        "en-GB": {"$ref": "#/$defs/workflowState"},
+        "es-ES": {"$ref": "#/$defs/workflowState"},
+        "figures": {"$ref": "#/$defs/workflowState"}
+      }
+    }
+  },
+  "$defs": {
+    "localisedNullableStrings": {
+      "type": "object",
+      "required": ["de", "en-GB", "es-ES"],
+      "properties": {
+        "de": {"type": ["string", "null"]},
+        "en-GB": {"type": ["string", "null"]},
+        "es-ES": {"type": ["string", "null"]}
+      }
+    },
+    "richText": {
+      "type": ["object", "null"],
+      "required": ["plain", "runs"],
+      "properties": {
+        "plain": {"type": "string"},
+        "runs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["text", "bold"],
+            "properties": {
+              "text": {"type": "string"},
+              "bold": {"type": "boolean"}
+            }
+          }
+        }
+      }
+    },
+    "localisedRichText": {
+      "type": "object",
+      "required": ["de", "en-GB", "es-ES"],
+      "properties": {
+        "de": {"$ref": "#/$defs/richText"},
+        "en-GB": {"$ref": "#/$defs/richText"},
+        "es-ES": {"$ref": "#/$defs/richText"}
+      }
+    },
+    "workflowState": {
+      "enum": ["pending", "draft", "reviewed", "validated", "candidate_crop", "not_applicable"]
+    }
+  }
+}

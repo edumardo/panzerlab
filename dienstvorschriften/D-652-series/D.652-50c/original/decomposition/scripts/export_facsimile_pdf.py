@@ -73,7 +73,7 @@ def draw_wrapped(pdf, text, x, y, width, font, size, leading, colour=HexColor("#
     return y
 
 
-def draw_header(pdf, title, page_number, regular, bold, label):
+def draw_header(pdf, title, page_number, regular, bold, label, subtitle=None):
     page_label_text = f"{label} {page_number}"
     label_width = pdfmetrics.stringWidth(page_label_text, regular, 9)
     title_size = 13.0
@@ -86,9 +86,21 @@ def draw_header(pdf, title, page_number, regular, bold, label):
     pdf.setFont(regular, 9)
     pdf.setFillColor(HexColor("#52606D"))
     pdf.drawRightString(PAGE_W - RIGHT, TOP_MARGIN, page_label_text)
+
+    rule_y = TOP_MARGIN - 5 * mm
+    if subtitle:
+        subtitle_size = 10.5
+        while subtitle_size > 8 and pdfmetrics.stringWidth(subtitle, regular, subtitle_size) > PAGE_W - LEFT - RIGHT:
+            subtitle_size -= 0.5
+        pdf.setFont(regular, subtitle_size)
+        pdf.setFillColor(HexColor("#334E68"))
+        pdf.drawString(LEFT, TOP_MARGIN - 6 * mm, subtitle)
+        rule_y = TOP_MARGIN - 10 * mm
+
     pdf.setStrokeColor(HexColor("#BCCCDC"))
     pdf.setLineWidth(0.5)
-    pdf.line(LEFT, TOP_MARGIN - 5 * mm, PAGE_W - RIGHT, TOP_MARGIN - 5 * mm)
+    pdf.line(LEFT, rule_y, PAGE_W - RIGHT, rule_y)
+    return rule_y
 
 
 def render_facsimile_page(pdf, page_dir, content, regular, bold):
@@ -118,9 +130,13 @@ def render_facsimile_page(pdf, page_dir, content, regular, bold):
 
 def render_translation_page(pdf, content, regular, bold, italic):
     width = PAGE_W - LEFT - RIGHT
-    draw_header(pdf, content["titles"][LANGUAGES[0]], content["page"], regular, bold, "Translation of page")
+    es_title = content["titles"].get(LANGUAGES[1])
+    rule_y = draw_header(
+        pdf, content["titles"][LANGUAGES[0]], content["page"], regular, bold,
+        "Translation of page", subtitle=es_title,
+    )
 
-    y = TOP_MARGIN - 14 * mm
+    y = rule_y - 9 * mm
 
     for lang in LANGUAGES:
         for para in content["paragraphs"]:
@@ -170,7 +186,11 @@ def main():
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument("--section", required=True)
     parser.add_argument("--output", type=Path, required=True)
-    parser.add_argument("--require-validated", action="store_true", default=True)
+    parser.add_argument(
+        "--allow-draft",
+        action="store_true",
+        help="Export pages even if transcription/en-GB/es-ES are not yet validated.",
+    )
     args = parser.parse_args()
 
     root = args.root.resolve()
@@ -178,12 +198,14 @@ def main():
     section_manifest = json.loads((section_dir / "manifest.json").read_text(encoding="utf-8"))
 
     entries = []
+    has_draft = False
     for page_number in section_manifest["pages"]:
         page_dir = section_dir / "pages" / f"{page_number:03d}"
         content = json.loads((page_dir / "content.json").read_text(encoding="utf-8"))
-        if args.require_validated:
-            for key in ("transcription", "en-GB", "es-ES"):
-                if content["status"][key] != "validated":
+        for key in ("transcription", "en-GB", "es-ES"):
+            if content["status"][key] != "validated":
+                has_draft = True
+                if not args.allow_draft:
                     raise SystemExit(f"Page {page_number}: {key} is not validated")
         entries.append((page_dir, content))
     entries.sort(key=lambda e: e[1]["page"])
@@ -200,7 +222,8 @@ def main():
         render_translation_page(pdf, content, regular, bold, italic)
 
     pdf.save()
-    print(f"Created {args.output} ({len(entries)} source pages x2).")
+    draft_note = " (contains draft/unvalidated pages)" if has_draft else ""
+    print(f"Created {args.output} ({len(entries)} source pages x2){draft_note}.")
 
 
 if __name__ == "__main__":

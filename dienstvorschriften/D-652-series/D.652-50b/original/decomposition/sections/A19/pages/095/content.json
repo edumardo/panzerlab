@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-095",
+  "document_id": "d652-50b",
+  "page": 95,
+  "section": "A19",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 19. Ausbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe.",
+    "en-GB": "Continued: 19. Removing the cardan shaft and the gearbox with the steering gear.",
+    "es-ES": "Continuación: 19. Desmontaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 49,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-094",
+    "next": "d65250b-page-096"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p095-para01",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild152",
+      "number": 152,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen. An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken. Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt. Das Getriebe ausheben.",
+          "runs": [
+            {
+              "text": "Die vorderen Greifer der Ausbauvorrichtung (Zeichnung 6 und 7)¹) unter das Verbindungsrohr des Lenkgetriebes führen. An der hinteren Getriebeseite den Vorrichtungshaken in die Hohlwelle stecken. Das Getriebe mit Kette an den Haken und der Vorrichtung so aufhängen, daß das hintere Ende etwas höher hängt. Das Getriebe ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the front grippers of the removal fixture (drawing 6 and 7)¹) under the connecting tube of the steering gear. Insert the fixture hook into the hollow shaft on the rear side of the gearbox. Using a chain, suspend the gearbox from the hook and the fixture so that the rear end hangs slightly higher. Lift the gearbox out.",
+          "runs": [
+            {
+              "text": "Guide the front grippers of the removal fixture (drawing 6 and 7)¹) under the connecting tube of the steering gear. Insert the fixture hook into the hollow shaft on the rear side of the gearbox. Using a chain, suspend the gearbox from the hook and the fixture so that the rear end hangs slightly higher. Lift the gearbox out.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Guiar las garras delanteras del dispositivo de desmontaje (plano 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
+          "runs": [
+            {
+              "text": "Guiar las garras delanteras del dispositivo de desmontaje (plano 6 y 7)¹) bajo el tubo de unión del mecanismo de dirección. Introducir el gancho del dispositivo en el árbol hueco, en el lado trasero de la caja de cambios. Con una cadena, suspender la caja de cambios del gancho y del dispositivo de modo que el extremo trasero quede algo más alto. Izar la caja de cambios para extraerla.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-022",
+  "document_id": "d652-50b",
+  "page": 22,
+  "section": "A04",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 4. Einbau der Bremstrommel und Bremsbacken der Lenkbremse.",
+    "en-GB": "Continued: 4. Installing the brake drum and brake shoes of the steering brake.",
+    "es-ES": "Continuación: 4. Montaje del tambor de freno y las zapatas de freno del freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 13,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-021",
+    "next": "d65250b-page-023"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p022-para01",
+      "text": {
+        "de": {
+          "plain": "Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
+          "runs": [
+            {
+              "text": "Gelenkwelle einbauen, Randnummer 2, Einbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse, Bild 9 bis 10.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Install the cardan shaft, margin no. 2, “Installing the cardan shaft between the steering gear and the steering brake”, Fig. 9 to 10.",
+          "runs": [
+            {
+              "text": "Install the cardan shaft, margin no. 2, “Installing the cardan shaft between the steering gear and the steering brake”, Fig. 9 to 10.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Montar el árbol de transmisión, número marginal 2, «Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección», fig. 9 a 10.",
+          "runs": [
+            {
+              "text": "Montar el árbol de transmisión, número marginal 2, «Montaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección», fig. 9 a 10.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild029",
+      "number": 29,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Bremstrommel aufsetzen und die beiden Paßstifte bis zur Nute der Sicherungsbleche einführen. Die Bremstrommel mit 22-SW-Ringschlüssel mit der Nabe verschrauben. Die Schrauben durch Umbiegen der Blechsicherungen sichern. Die Lenkbremse nach Einstellanweisung einstellen.",
+          "runs": [
+            {
+              "text": "Bremstrommel aufsetzen und die beiden Paßstifte bis zur Nute der Sicherungsbleche einführen. Die Bremstrommel mit 22-SW-Ringschlüssel mit der Nabe verschrauben. Die Schrauben durch Umbiegen der Blechsicherungen sichern. Die Lenkbremse nach Einstellanweisung einstellen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Fit the brake drum in place and insert the two fitted dowel pins as far as the groove of the locking plates. Bolt the brake drum to the hub using a 22 mm (A/F) ring spanner. Secure the screws by bending over the sheet-metal locks. Adjust the steering brake according to the adjustment instructions.",
+          "runs": [
+            {
+              "text": "Fit the brake drum in place and insert the two fitted dowel pins as far as the groove of the locking plates. Bolt the brake drum to the hub using a 22 mm (A/F) ring spanner. Secure the screws by bending over the sheet-metal locks. Adjust the steering brake according to the adjustment instructions.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Colocar el tambor de freno e introducir los dos pasadores de ajuste hasta la ranura de las chapas de seguridad. Atornillar el tambor de freno al cubo con una llave de estrella de 22 mm (entrecaras). Asegurar los tornillos doblando las chapas de seguridad. Ajustar el freno de dirección según las instrucciones de ajuste.",
+          "runs": [
+            {
+              "text": "Colocar el tambor de freno e introducir los dos pasadores de ajuste hasta la ranura de las chapas de seguridad. Atornillar el tambor de freno al cubo con una llave de estrella de 22 mm (entrecaras). Asegurar los tornillos doblando las chapas de seguridad. Ajustar el freno de dirección según las instrucciones de ajuste.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

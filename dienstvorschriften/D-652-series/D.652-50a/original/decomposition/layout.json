@@ -1,0 +1,28 @@
+{
+  "format_version": 1,
+  "page": {
+    "size": "A4",
+    "orientation": "portrait",
+    "width_dxa": 11906,
+    "height_dxa": 16838,
+    "margins_dxa": {"top": 1080, "right": 1080, "bottom": 1080, "left": 1080}
+  },
+  "numbered_sections": {"cover": false, "header": false, "footer": false},
+  "facsimile_page": {
+    "layout": "A4_portrait_facsimile_then_translation",
+    "source_image_policy": "display_image_when_present_else_image",
+    "fit": "scale_to_page_preserve_aspect_ratio",
+    "per_figure_crop_required": false
+  },
+  "translation_page": {
+    "follows_each_facsimile_page": true,
+    "content": ["titles", "figure_captions"],
+    "language_blocks": ["en-GB", "es-ES"],
+    "bilingual_single_export": true
+  },
+  "languages": {
+    "source": "de-DE",
+    "targets": ["en-GB", "es-ES"],
+    "technical_term_policy": "translated term followed by the German original in parentheses"
+  }
+}

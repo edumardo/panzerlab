@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-085",
+  "document_id": "d652-50b",
+  "page": 85,
+  "section": "A18",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 18. Zusammenbau der Hauptkupplung.",
+    "en-GB": "Continued: 18. Reassembling the main clutch.",
+    "es-ES": "Continuación: 18. Montaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 44,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-084",
+    "next": "d65250b-page-086"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild137",
+      "number": 137,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
+          "runs": [
+            {
+              "text": "Das Kupplungsgehäuse mit 17-SW-Steckschlüssel mit dem Motor verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Bolt the clutch housing to the engine with a 17 mm A/F socket spanner.",
+          "runs": [
+            {
+              "text": "Bolt the clutch housing to the engine with a 17 mm A/F socket spanner.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar la carcasa del embrague al motor con una llave de vaso de 17 mm de entrecaras.",
+          "runs": [
+            {
+              "text": "Atornillar la carcasa del embrague al motor con una llave de vaso de 17 mm de entrecaras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild138",
+      "number": 138,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
+          "runs": [
+            {
+              "text": "Den Kugellagerabstandsring mit dem Bund gegen die Nuten auf die Kupplungswelle schieben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Slide the ball-bearing spacer ring onto the clutch shaft with the collar facing the grooves.",
+          "runs": [
+            {
+              "text": "Slide the ball-bearing spacer ring onto the clutch shaft with the collar facing the grooves.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras.",
+          "runs": [
+            {
+              "text": "Deslizar el anillo distanciador del rodamiento de bolas sobre el eje de embrague con el collar orientado hacia las ranuras.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

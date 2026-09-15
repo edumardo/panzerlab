@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-034",
+  "document_id": "d652-50b",
+  "page": 34,
+  "section": "A08",
+  "type": "text",
+  "titles": {
+    "de": "8. Einbau der Bremstrommel und Bremsbacken der Stützbremse mit mechanischer Lenkbetätigung",
+    "en-GB": "8. Installing the brake drum and brake shoes of the support brake with mechanical steering actuation",
+    "es-ES": "8. Montaje del tambor de freno y las zapatas de freno del freno de apoyo con accionamiento de dirección mecánico"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 19,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-033",
+    "next": "d65250b-page-035"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild051",
+      "number": 51,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben. Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
+          "runs": [
+            {
+              "text": "Das Bremsbackenpaar mit der Nachstellvorrichtung zusammenschrauben. Beachten: Die Gewindespindeln müssen in den Bremsbacken gleich weit eingeschraubt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Screw the pair of brake shoes together with the adjusting device. Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
+          "runs": [
+            {
+              "text": "Screw the pair of brake shoes together with the adjusting device. Note: The threaded spindles must be screwed into the brake shoes to an equal depth.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste. Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
+          "runs": [
+            {
+              "text": "Atornillar el par de zapatas de freno junto con el dispositivo de reajuste. Atención: los husillos roscados deben enroscarse en las zapatas de freno a la misma profundidad.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild052",
+      "number": 52,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.",
+          "runs": [
+            {
+              "text": "Die Halterung der Nachstellvorrichtung mit den zwei Innensechskantschrauben an den Lagerdeckel heften.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Tack the mounting of the adjusting device to the bearing cover using the two hexagon-socket screws.",
+          "runs": [
+            {
+              "text": "Tack the mounting of the adjusting device to the bearing cover using the two hexagon-socket screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior.",
+          "runs": [
+            {
+              "text": "Fijar provisionalmente el soporte del dispositivo de reajuste a la tapa de cojinete con los dos tornillos de hexágono interior.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

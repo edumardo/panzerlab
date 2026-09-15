@@ -527,24 +527,10 @@
       "status": "draft"
     },
     {
-      "id": "term-081",
-      "de": "Drehstabfeder",
-      "en-GB": "torsion bar",
-      "es-ES": "barra de torsión",
-      "status": "draft"
-    },
-    {
       "id": "term-083",
       "de": "Kettenbolzen",
       "en-GB": "track pin",
       "es-ES": "bulón de cadena",
-      "status": "draft"
-    },
-    {
-      "id": "term-084",
-      "de": "Kettenspanner",
-      "en-GB": "track tensioner",
-      "es-ES": "tensor de cadena",
       "status": "draft"
     },
     {
@@ -912,13 +898,6 @@
       "status": "draft"
     },
     {
-      "id": "term-144",
-      "de": "Scherscheibe",
-      "en-GB": "shear disc",
-      "es-ES": "disco de rotura",
-      "status": "draft"
-    },
-    {
       "id": "term-145",
       "de": "Spannschraube",
       "en-GB": "tensioning screw",
@@ -944,13 +923,6 @@
       "de": "Anhängegabel",
       "en-GB": "towing-fork bracket",
       "es-ES": "horquilla de enganche",
-      "status": "draft"
-    },
-    {
-      "id": "term-149",
-      "de": "Schwingarmlager",
-      "en-GB": "swing-arm bearing",
-      "es-ES": "cojinete del brazo oscilante",
       "status": "draft"
     },
     {

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-072",
+  "document_id": "d652-50b",
+  "page": 72,
+  "section": "A16",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 16. Auswechseln des Ausrücklagers der Hauptkupplung.",
+    "en-GB": "Continued: 16. Replacing the release bearing of the main clutch.",
+    "es-ES": "Continuación: 16. Sustitución del rodamiento de desembrague del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 38,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-071",
+    "next": "d65250b-page-073"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild114",
+      "number": 114,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Nabe mit Kugellager in das Gehäuse führen.",
+          "runs": [
+            {
+              "text": "Nabe mit Kugellager in das Gehäuse führen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Guide the hub with the ball bearing into the housing.",
+          "runs": [
+            {
+              "text": "Guide the hub with the ball bearing into the housing.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Introducir el buje con el rodamiento de bolas en la carcasa.",
+          "runs": [
+            {
+              "text": "Introducir el buje con el rodamiento de bolas en la carcasa.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild115",
+      "number": 115,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
+          "runs": [
+            {
+              "text": "Das Kugellager mit Weichmetallhammer in seinen Sitz schlagen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Drive the ball bearing into its seat using a soft-faced hammer.",
+          "runs": [
+            {
+              "text": "Drive the ball bearing into its seat using a soft-faced hammer.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando.",
+          "runs": [
+            {
+              "text": "Golpear el rodamiento de bolas hasta su asiento con un martillo de metal blando.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

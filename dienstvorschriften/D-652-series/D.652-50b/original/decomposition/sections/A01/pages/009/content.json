@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-009",
+  "document_id": "d652-50b",
+  "page": 9,
+  "section": "A01",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 1. Ausbau der Gelenkwelle zwischen Lenkgetriebe und Lenkbremse.",
+    "en-GB": "Continued: 1. Removing the cardan shaft between the steering gear and the steering brake.",
+    "es-ES": "Continuación: 1. Desmontaje del árbol de transmisión entre el mecanismo de dirección y el freno de dirección."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 6,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-008",
+    "next": "d65250b-page-010"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild008",
+      "number": 8,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Gelenkwelle mit Seil oder von Hand herausziehen. Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
+          "runs": [
+            {
+              "text": "Gelenkwelle mit Seil oder von Hand herausziehen. Beachten: Ausbau nur möglich in gekröpfter Stellung der Gelenkwelle wie in Abbildung.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull out the cardan shaft using a rope or by hand. Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
+          "runs": [
+            {
+              "text": "Pull out the cardan shaft using a rope or by hand. Note: Removal is only possible with the cardan shaft in the cranked position as shown in the illustration.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el árbol de transmisión con una cuerda o a mano. Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura.",
+          "runs": [
+            {
+              "text": "Extraer el árbol de transmisión con una cuerda o a mano. Atención: El desmontaje solo es posible con el árbol de transmisión en la posición acodada, como se muestra en la figura.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

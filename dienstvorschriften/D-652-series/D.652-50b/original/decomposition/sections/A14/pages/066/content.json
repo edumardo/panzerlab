@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-066",
+  "document_id": "d652-50b",
+  "page": 66,
+  "section": "A14",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 35,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-065",
+    "next": "d65250b-page-067"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild103",
+      "number": 103,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
+          "runs": [
+            {
+              "text": "Mit vier Gewindeschrauben (M 4) den Kugellagerflansch abdrücken.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Press off the ball-bearing flange using four threaded screws (M4).",
+          "runs": [
+            {
+              "text": "Press off the ball-bearing flange using four threaded screws (M4).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desprender la brida del cojinete de bolas con cuatro tornillos roscados (M4).",
+          "runs": [
+            {
+              "text": "Desprender la brida del cojinete de bolas con cuatro tornillos roscados (M4).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild104",
+      "number": 104,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben. Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
+          "runs": [
+            {
+              "text": "Mit 14-SW-Vierkantschlüssel die Schrauben der Schwungradbefestigung herausschrauben. Mit Körner an dem Schwungrad und Kurbelwelle je ein Zeichen einschlagen, damit das Schwungrad wieder richtig angebaut wird (Einstellmarken).",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws. Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
+          "runs": [
+            {
+              "text": "Using a 14 mm (A/F) square-drive spanner, unscrew the flywheel fixing screws. Using a centre punch, strike a mark on both the flywheel and the crankshaft so that the flywheel is refitted correctly (timing marks).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante. Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
+          "runs": [
+            {
+              "text": "Con una llave cuadrada de 14 mm (entrecaras), desatornillar los tornillos de fijación del volante. Marcar con un granete el volante y el cigüeñal, uno en cada pieza, para que el volante pueda volver a montarse correctamente (marcas de referencia).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

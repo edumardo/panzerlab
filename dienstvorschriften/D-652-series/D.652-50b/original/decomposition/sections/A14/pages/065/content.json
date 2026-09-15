@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-065",
+  "document_id": "d652-50b",
+  "page": 65,
+  "section": "A14",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 14. Ausbau der Hauptkupplung.",
+    "en-GB": "Continued: 14. Removing the main clutch.",
+    "es-ES": "Continuación: 14. Desmontaje del embrague principal."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 34,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-064",
+    "next": "d65250b-page-066"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild101",
+      "number": 101,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Auszuwechselnde Ausrückhebel mit Ausrückbolzen aus dem Kupplungsdeckel ziehen.",
+          "runs": [
+            {
+              "text": "Auszuwechselnde Ausrückhebel mit Ausrückbolzen aus dem Kupplungsdeckel ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the release levers to be replaced, together with the release bolts, out of the clutch cover.",
+          "runs": [
+            {
+              "text": "Pull the release levers to be replaced, together with the release bolts, out of the clutch cover.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer de la tapa del embrague las palancas de desembrague que deban sustituirse, junto con los pernos de desembrague.",
+          "runs": [
+            {
+              "text": "Extraer de la tapa del embrague las palancas de desembrague que deban sustituirse, junto con los pernos de desembrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild102",
+      "number": 102,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen. Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
+          "runs": [
+            {
+              "text": "Beschädigte Teile durch neue ersetzen. Vor dem Zusammenbau die drei Schiebebolzen (1), drei Einstellbolzen (2) und die drei Gelenkbolzen (3) auf Gängigkeit prüfen. Etwas Öl mit Graphit an die neun Gleitstellen an den Schiebebolzen, Einstellbolzen und Gelenkbolzen bringen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement. Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
+          "runs": [
+            {
+              "text": "Replace damaged parts with new ones. Before reassembly, check the three sliding bolts (1), the three adjusting bolts (2) and the three joint bolts (3) for free movement. Apply a little graphite oil to the nine sliding points on the sliding bolts, adjusting bolts and joint bolts.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad. Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados.",
+          "runs": [
+            {
+              "text": "Sustituir las piezas dañadas por otras nuevas. Antes del montaje, comprobar que los tres pernos deslizantes (1), los tres pernos de ajuste (2) y los tres pernos articulados (3) se mueven con libertad. Aplicar un poco de aceite con grafito en los nueve puntos de deslizamiento de los pernos deslizantes, pernos de ajuste y pernos articulados.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

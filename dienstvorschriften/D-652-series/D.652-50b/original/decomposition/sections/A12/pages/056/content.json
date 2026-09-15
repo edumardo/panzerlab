@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-056",
+  "document_id": "d652-50b",
+  "page": 56,
+  "section": "A12",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 12. Zusammenbau des Seitenvorgeleges.",
+    "en-GB": "Continued: 12. Reassembling the final drive unit.",
+    "es-ES": "Continuación: 12. Montaje del engranaje lateral final."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 30,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-055",
+    "next": "d65250b-page-057"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild087",
+      "number": 87,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen. Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
+          "runs": [
+            {
+              "text": "Dichtflächen des Gehäuses und Deckels mit Dichtungsmasse bestreichen. Deckel und Gehäuse mit den drei Senkschrauben verschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Coat the sealing faces of the housing and cover with jointing compound. Bolt the cover and housing together with the three countersunk screws.",
+          "runs": [
+            {
+              "text": "Coat the sealing faces of the housing and cover with jointing compound. Bolt the cover and housing together with the three countersunk screws.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas. Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
+          "runs": [
+            {
+              "text": "Untar las superficies de estanqueidad de la carcasa y de la tapa con pasta de juntas. Atornillar la tapa y la carcasa entre sí con los tres tornillos avellanados.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

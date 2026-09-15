@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-038",
+  "document_id": "d652-50b",
+  "page": 38,
+  "section": "A09",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 9. Ausbau eines Seitenvorgeleges mit Hilfe einer Hebevorrichtung.",
+    "en-GB": "Continued: 9. Removing a final drive unit using a lifting device.",
+    "es-ES": "Continuación: 9. Desmontaje de un engranaje lateral final con ayuda de un dispositivo elevador."
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 21,
+    "side": "left",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-037",
+    "next": "d65250b-page-039"
+  },
+  "paragraphs": [
+    {
+      "id": "d65250b-p038-para01",
+      "text": {
+        "de": {
+          "plain": "¹) Siehe im Anhang.",
+          "runs": [
+            {
+              "text": "¹) Siehe im Anhang.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "¹) See appendix.",
+          "runs": [
+            {
+              "text": "¹) See appendix.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "¹) Véase el anexo.",
+          "runs": [
+            {
+              "text": "¹) Véase el anexo.",
+              "bold": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "figures": [
+    {
+      "id": "d65250b-bild056",
+      "number": 56,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
+          "runs": [
+            {
+              "text": "Die Blechsicherung der Ringmutter an der Lenkbremstrommel geradebiegen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
+          "runs": [
+            {
+              "text": "Straighten out the sheet-metal lock of the ring nut on the steering-brake drum.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
+          "runs": [
+            {
+              "text": "Enderezar la chapa de seguridad de la tuerca anular del tambor del freno de dirección.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild057",
+      "number": 57,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
+          "runs": [
+            {
+              "text": "Mit Rohrzapfenschlüssel (Zeichnung 1)¹) die Ringmutter abschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
+          "runs": [
+            {
+              "text": "Unscrew the ring nut with the tubular pin spanner (drawing 1)¹).",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Desenroscar la tuerca anular con la llave de tetones tubular (plano 1)¹).",
+          "runs": [
+            {
+              "text": "Desenroscar la tuerca anular con la llave de tetones tubular (plano 1)¹).",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

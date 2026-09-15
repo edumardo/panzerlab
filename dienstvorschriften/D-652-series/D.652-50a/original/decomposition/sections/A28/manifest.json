@@ -1,0 +1,17 @@
+{
+  "id": "A28",
+  "pages": [
+    73
+  ],
+  "titles": {
+    "de": "28. Ausbau des Zahnkranzes am Triebrad",
+    "en-GB": null,
+    "es-ES": null
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

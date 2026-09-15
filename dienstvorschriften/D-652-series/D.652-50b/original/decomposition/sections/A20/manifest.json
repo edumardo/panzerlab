@@ -1,0 +1,17 @@
+{
+  "id": "A20",
+  "pages": [
+    96
+  ],
+  "titles": {
+    "de": "Einbau der Gelenkwelle und des Wechselgetriebes mit Lenkgetriebe",
+    "en": "Installing the cardan shaft and the gearbox with the steering gear",
+    "es": "Montaje del árbol de transmisión y de la caja de cambios con el mecanismo de dirección"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

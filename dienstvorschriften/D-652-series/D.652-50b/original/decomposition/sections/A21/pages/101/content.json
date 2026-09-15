@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-101",
+  "document_id": "d652-50b",
+  "page": 101,
+  "section": "A21",
+  "type": "text",
+  "titles": {
+    "de": "Noch: 21. Ausbau des Geschützes der gp Sfl",
+    "en-GB": "Continued: 21. Removing the gun of the armoured self-propelled carriage",
+    "es-ES": "Continuación: 21. Desmontaje del cañón de la cureña autopropulsada blindada"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 52,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-100",
+    "next": "d65250b-page-102"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild161",
+      "number": 161,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Den vorderen Verbindungsbolzen aus dem Kupplungsgestänge ziehen. Bei Ausführung A Kupplungsgestänge aus dem Gabelgelenk am Schaltkasten ausschrauben. Gestänge aus dem Geschützsockel ziehen und den Sockel mit Hebevorrichtung ausheben.",
+          "runs": [
+            {
+              "text": "Den vorderen Verbindungsbolzen aus dem Kupplungsgestänge ziehen. Bei Ausführung A Kupplungsgestänge aus dem Gabelgelenk am Schaltkasten ausschrauben. Gestänge aus dem Geschützsockel ziehen und den Sockel mit Hebevorrichtung ausheben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the front connecting pin out of the clutch linkage. On version A, unscrew the clutch linkage from the fork joint at the gearshift housing. Pull the linkage out of the gun mount base and lift the base out using the lifting gear.",
+          "runs": [
+            {
+              "text": "Pull the front connecting pin out of the clutch linkage. On version A, unscrew the clutch linkage from the fork joint at the gearshift housing. Pull the linkage out of the gun mount base and lift the base out using the lifting gear.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer el pasador de unión delantero del varillaje del embrague. En la versión A, desenroscar el varillaje del embrague de la rótula de horquilla en la caja de mandos. Extraer el varillaje de la base del cañón y sacar la base con el dispositivo de elevación.",
+          "runs": [
+            {
+              "text": "Extraer el pasador de unión delantero del varillaje del embrague. En la versión A, desenroscar el varillaje del embrague de la rótula de horquilla en la caja de mandos. Extraer el varillaje de la base del cañón y sacar la base con el dispositivo de elevación.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild162",
+      "number": 162,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Beachten: Die auf Abbildung bezeichneten Scheiben der Geschützsockelausrichtung dürfen nicht verwechselt werden.",
+          "runs": [
+            {
+              "text": "Beachten: Die auf Abbildung bezeichneten Scheiben der Geschützsockelausrichtung dürfen nicht verwechselt werden.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Note: The washers for aligning the gun mount base marked in the illustration must not be mixed up.",
+          "runs": [
+            {
+              "text": "Note: The washers for aligning the gun mount base marked in the illustration must not be mixed up.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Atención: Las arandelas de alineación de la base del cañón señaladas en la figura no deben confundirse entre sí.",
+          "runs": [
+            {
+              "text": "Atención: Las arandelas de alineación de la base del cañón señaladas en la figura no deben confundirse entre sí.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}

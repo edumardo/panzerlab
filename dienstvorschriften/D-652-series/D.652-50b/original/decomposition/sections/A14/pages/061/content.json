@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "d65250b-page-061",
+  "document_id": "d652-50b",
+  "page": 61,
+  "section": "A14",
+  "type": "text",
+  "titles": {
+    "de": "14. Ausbau der Hauptkupplung",
+    "en-GB": "14. Removing the main clutch",
+    "es-ES": "14. Desmontaje del embrague principal"
+  },
+  "source": {
+    "image": "source.jpg",
+    "pdf_spread": 32,
+    "side": "right",
+    "status": "extracted_clean",
+    "display_image": "source_display.jpg"
+  },
+  "navigation": {
+    "previous": "d65250b-page-060",
+    "next": "d65250b-page-062"
+  },
+  "paragraphs": [],
+  "figures": [
+    {
+      "id": "d65250b-bild093",
+      "number": 93,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau ausschrauben.",
+          "runs": [
+            {
+              "text": "Mit 14-SW- und 17-SW-Maulschlüssel die Schrauben aus dem Gelenkwellentunnel und dem Kupplungsvorbau ausschrauben.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Using 14 mm and 17 mm (A/F) open-ended spanners, unscrew the bolts from the cardan-shaft tunnel and the clutch housing extension.",
+          "runs": [
+            {
+              "text": "Using 14 mm and 17 mm (A/F) open-ended spanners, unscrew the bolts from the cardan-shaft tunnel and the clutch housing extension.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Con llaves fijas de 14 mm y 17 mm (entrecaras), desatornillar los tornillos del túnel del árbol de transmisión y de la prolongación de la carcasa del embrague.",
+          "runs": [
+            {
+              "text": "Con llaves fijas de 14 mm y 17 mm (entrecaras), desatornillar los tornillos del túnel del árbol de transmisión y de la prolongación de la carcasa del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    },
+    {
+      "id": "d65250b-bild094",
+      "number": 94,
+      "image": null,
+      "status": "candidate_crop",
+      "captions": {
+        "de": {
+          "plain": "Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben. Vergasergestänge (2) aus den Kugelgelenken drücken. Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
+          "runs": [
+            {
+              "text": "Splinte aus den Kronenmuttern ziehen. Mit zwei 17-SW-Maulschlüsseln die Gelenkwelle von der Kupplungswelle (1) abschrauben. Vergasergestänge (2) aus den Kugelgelenken drücken. Den Verbindungsbolzen (3) aus dem Kupplungsgestänge ziehen.",
+              "bold": false
+            }
+          ]
+        },
+        "en-GB": {
+          "plain": "Pull the split pins out of the castle nuts. Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1). Press the carburettor linkage (2) out of the ball joints. Pull the connecting pin (3) out of the clutch linkage.",
+          "runs": [
+            {
+              "text": "Pull the split pins out of the castle nuts. Using two 17 mm (A/F) open-ended spanners, unscrew the cardan shaft from the clutch shaft (1). Press the carburettor linkage (2) out of the ball joints. Pull the connecting pin (3) out of the clutch linkage.",
+              "bold": false
+            }
+          ]
+        },
+        "es-ES": {
+          "plain": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1). Sacar el varillaje del carburador (2) de las rótulas. Extraer el pasador de unión (3) del varillaje del embrague.",
+          "runs": [
+            {
+              "text": "Extraer los pasadores de aletas de las tuercas almenadas. Con dos llaves fijas de 17 mm (entrecaras), desatornillar el árbol de transmisión del eje del embrague (1). Sacar el varillaje del carburador (2) de las rótulas. Extraer el pasador de unión (3) del varillaje del embrague.",
+              "bold": false
+            }
+          ]
+        }
+      },
+      "label_keys": {
+        "de": null,
+        "en-GB": null,
+        "es-ES": null
+      }
+    }
+  ],
+  "status": {
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "pending"
+  }
+}
