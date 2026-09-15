@@ -25,19 +25,28 @@
         "de": {
           "plain": "Bild 14  Seitenvorgelege",
           "runs": [
-            { "text": "Bild 14  Seitenvorgelege", "bold": false }
+            {
+              "text": "Bild 14  Seitenvorgelege",
+              "bold": false
+            }
           ]
         },
         "en-GB": {
           "plain": "Fig. 14  Final drive",
           "runs": [
-            { "text": "Fig. 14  Final drive", "bold": false }
+            {
+              "text": "Fig. 14  Final drive",
+              "bold": false
+            }
           ]
         },
         "es-ES": {
           "plain": "Fig. 14  Reductora final",
           "runs": [
-            { "text": "Fig. 14  Reductora final", "bold": false }
+            {
+              "text": "Fig. 14  Reductora final",
+              "bold": false
+            }
           ]
         }
       },
@@ -58,10 +67,10 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   },
   "navigation": {
     "previous": "d65241a-page-084",

@@ -43,12 +43,26 @@ must be reviewed first.
 
 ## Current state
 
-Structural decomposition only: all 101 pages have been split, imaged and
-given manifests/content stubs. German transcription and en-GB/es-ES
-translation are `pending` throughout -- the existing bilingual `en/` and `es/`
-deliverables in this document's directory were produced by an earlier,
-separate build pipeline (see `../D.652-41a_processing-notes_v1.0.md`) and have
-not yet been aligned page-by-page into this canonical archive.
+All 101 pages are split, imaged, transcribed, translated into en-GB and
+es-ES, and marked `validated`, as are the document's 169 glossary terms and
+its 31 figures (numbered 1-31, no gaps). The canonical compiled output is
+`../../bilingual/D.652-41a_bilingual_full_v1.0.pdf`. The earlier `en/` and
+`es/` deliverables described in `../D.652-41a_processing-notes_v1.0.md` came
+from a separate build pipeline and were removed when this document moved to a
+bilingual-only export; they remain in git history.
+
+### Known defects accepted at validation
+
+The source scans lose a few millimetres at the outer edge on some pages, so a
+small amount of ink is cut in the original images themselves, not in the
+export. It is most visible on the fold-out plates: on book page 74 (Bild 1)
+the labels "Bild 1" and "Leitrad" are clipped at the right, and page 75
+(Bild 2) loses part of "Seitenwelle", "Vorgelege" and "Kegeltrieb" at the
+left. Pages 54, 56, 70, 92 and 93 show ink reaching the right edge too. The
+affected words are all recoverable from the transcription, which is complete,
+so the pages were validated as they stand. Re-extracting them from a wider
+scan would be the fix if a better source ever turns up; do not crop or
+in-paint the existing archival images.
 
 ## Regenerating
 
@@ -63,3 +77,14 @@ python3 scripts/build_manifests.py                          # -> manifest.json +
 python3 scripts/build_index.py                              # -> index/contents.json
 python3 scripts/validate_original_archive.py
 ```
+
+Compiled bilingual output (needs `reportlab` and `pillow`):
+
+```bash
+# run from original/decomposition/scripts/
+python3 export_full_document.py --output ../../../bilingual/D.652-41a_bilingual_full_v1.0.pdf
+```
+
+It refuses to run unless every page is `validated`; `--allow-draft` overrides
+that for previews only and must not produce a committed export.
+

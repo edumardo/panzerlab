@@ -17,8 +17,9 @@ Adapted from D.652-50c's exporter, with two differences this document needs:
   size is applied with setPageSize. Translation pages stay A4 portrait
   throughout: they are running text, and portrait is the series standard.
 * Null-safe titles. Most D.652-41a pages carry titles of null (the running
-  text has no per-page heading); the header falls back to a generic label
-  rather than passing None into stringWidth.
+  text has no per-page heading). Such a page draws only the right-hand page
+  label, rather than passing None into stringWidth or inventing a placeholder
+  heading that would read as the page's own.
 
 Requires validated status for transcription, en-GB and es-ES on every page
 unless --allow-draft is passed.
@@ -46,7 +47,6 @@ LANG_LABEL = {"en-GB": "EN", "es-ES": "ES"}
 LANGUAGES = ["en-GB", "es-ES"]
 PORTRAIT = A4
 LANDSCAPE = landscape(A4)
-UNTITLED = "Original page (no heading)"
 
 
 class Geometry:
@@ -115,16 +115,19 @@ def draw_wrapped(pdf, text, x, y, width, font, size, leading, colour=HexColor("#
 
 
 def draw_header(pdf, geom, title, page_number, regular, bold, label, subtitle=None):
-    title = title or UNTITLED
+    # Most D.652-41a pages have no heading of their own. Such a page draws the
+    # right-hand "Translation of page N" label alone: an invented placeholder
+    # title would read as if it were the page's own heading.
     page_label_text = f"{label} {page_number}"
     label_width = pdfmetrics.stringWidth(page_label_text, regular, 9)
-    title_size = 13.0
-    title_width_limit = geom.width - LEFT - RIGHT - label_width - 6 * mm
-    while title_size > 9.5 and pdfmetrics.stringWidth(title, bold, title_size) > title_width_limit:
-        title_size -= 0.5
-    pdf.setFillColor(HexColor("#102A43"))
-    pdf.setFont(bold, title_size)
-    pdf.drawString(LEFT, geom.top, title)
+    if title:
+        title_size = 13.0
+        title_width_limit = geom.width - LEFT - RIGHT - label_width - 6 * mm
+        while title_size > 9.5 and pdfmetrics.stringWidth(title, bold, title_size) > title_width_limit:
+            title_size -= 0.5
+        pdf.setFillColor(HexColor("#102A43"))
+        pdf.setFont(bold, title_size)
+        pdf.drawString(LEFT, geom.top, title)
     pdf.setFont(regular, 9)
     pdf.setFillColor(HexColor("#52606D"))
     pdf.drawRightString(geom.width - RIGHT, geom.top, page_label_text)

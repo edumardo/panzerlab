@@ -25,19 +25,28 @@
         "de": {
           "plain": "Bild 19  Stoßdämpfer",
           "runs": [
-            { "text": "Bild 19  Stoßdämpfer", "bold": false }
+            {
+              "text": "Bild 19  Stoßdämpfer",
+              "bold": false
+            }
           ]
         },
         "en-GB": {
           "plain": "Fig. 19  Shock absorber",
           "runs": [
-            { "text": "Fig. 19  Shock absorber", "bold": false }
+            {
+              "text": "Fig. 19  Shock absorber",
+              "bold": false
+            }
           ]
         },
         "es-ES": {
           "plain": "Fig. 19  Amortiguador",
           "runs": [
-            { "text": "Fig. 19  Amortiguador", "bold": false }
+            {
+              "text": "Fig. 19  Amortiguador",
+              "bold": false
+            }
           ]
         }
       },
@@ -58,10 +67,10 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   },
   "navigation": {
     "previous": "d65241a-page-089",

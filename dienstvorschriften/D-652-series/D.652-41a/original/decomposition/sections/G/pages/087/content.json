@@ -25,19 +25,28 @@
         "de": {
           "plain": "Bild 16  Leitrad mit Kettenspanner",
           "runs": [
-            { "text": "Bild 16  Leitrad mit Kettenspanner", "bold": false }
+            {
+              "text": "Bild 16  Leitrad mit Kettenspanner",
+              "bold": false
+            }
           ]
         },
         "en-GB": {
           "plain": "Fig. 16  Idler wheel with track tensioner",
           "runs": [
-            { "text": "Fig. 16  Idler wheel with track tensioner", "bold": false }
+            {
+              "text": "Fig. 16  Idler wheel with track tensioner",
+              "bold": false
+            }
           ]
         },
         "es-ES": {
           "plain": "Fig. 16  Rueda tensora con tensor de cadena",
           "runs": [
-            { "text": "Fig. 16  Rueda tensora con tensor de cadena", "bold": false }
+            {
+              "text": "Fig. 16  Rueda tensora con tensor de cadena",
+              "bold": false
+            }
           ]
         }
       },
@@ -58,10 +67,10 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   },
   "navigation": {
     "previous": "d65241a-page-086",

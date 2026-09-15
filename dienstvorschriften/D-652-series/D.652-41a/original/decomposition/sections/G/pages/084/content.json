@@ -25,19 +25,28 @@
         "de": {
           "plain": "Bild 13  Lenkbremse",
           "runs": [
-            { "text": "Bild 13  Lenkbremse", "bold": false }
+            {
+              "text": "Bild 13  Lenkbremse",
+              "bold": false
+            }
           ]
         },
         "en-GB": {
           "plain": "Fig. 13  Steering brake",
           "runs": [
-            { "text": "Fig. 13  Steering brake", "bold": false }
+            {
+              "text": "Fig. 13  Steering brake",
+              "bold": false
+            }
           ]
         },
         "es-ES": {
           "plain": "Fig. 13  Freno de dirección",
           "runs": [
-            { "text": "Fig. 13  Freno de dirección", "bold": false }
+            {
+              "text": "Fig. 13  Freno de dirección",
+              "bold": false
+            }
           ]
         }
       },
@@ -58,10 +67,10 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   },
   "navigation": {
     "previous": "d65241a-page-083",

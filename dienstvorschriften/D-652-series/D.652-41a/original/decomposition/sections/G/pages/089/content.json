@@ -25,19 +25,28 @@
         "de": {
           "plain": "Bild 18  Laufwerk",
           "runs": [
-            { "text": "Bild 18  Laufwerk", "bold": false }
+            {
+              "text": "Bild 18  Laufwerk",
+              "bold": false
+            }
           ]
         },
         "en-GB": {
           "plain": "Fig. 18  Running gear",
           "runs": [
-            { "text": "Fig. 18  Running gear", "bold": false }
+            {
+              "text": "Fig. 18  Running gear",
+              "bold": false
+            }
           ]
         },
         "es-ES": {
           "plain": "Fig. 18  Tren de rodaje",
           "runs": [
-            { "text": "Fig. 18  Tren de rodaje", "bold": false }
+            {
+              "text": "Fig. 18  Tren de rodaje",
+              "bold": false
+            }
           ]
         }
       },
@@ -58,10 +67,10 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   },
   "navigation": {
     "previous": "d65241a-page-088",

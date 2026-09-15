@@ -25,19 +25,28 @@
         "de": {
           "plain": "Bild 20  Schaltplan",
           "runs": [
-            { "text": "Bild 20  Schaltplan", "bold": false }
+            {
+              "text": "Bild 20  Schaltplan",
+              "bold": false
+            }
           ]
         },
         "en-GB": {
           "plain": "Fig. 20  Wiring diagram",
           "runs": [
-            { "text": "Fig. 20  Wiring diagram", "bold": false }
+            {
+              "text": "Fig. 20  Wiring diagram",
+              "bold": false
+            }
           ]
         },
         "es-ES": {
           "plain": "Fig. 20  Esquema eléctrico",
           "runs": [
-            { "text": "Fig. 20  Esquema eléctrico", "bold": false }
+            {
+              "text": "Fig. 20  Esquema eléctrico",
+              "bold": false
+            }
           ]
         }
       },
@@ -58,10 +67,10 @@
     }
   ],
   "status": {
-    "transcription": "draft",
-    "en-GB": "draft",
-    "es-ES": "draft",
-    "figures": "draft"
+    "transcription": "validated",
+    "en-GB": "validated",
+    "es-ES": "validated",
+    "figures": "validated"
   },
   "navigation": {
     "previous": "d65241a-page-090",
