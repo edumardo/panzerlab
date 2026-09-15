@@ -5,6 +5,13 @@ transcription + translation into the canonical decomposition.
 This is a READ-ONLY reference extraction: it does not touch en/ or es/, and
 its output (docx_reference_<lang>.json) is scratch data for the transcription
 pass, not part of the canonical archive itself.
+
+NOTE: it cannot be run as-is any more. D.652-41a moved to a bilingual-only
+export and its en/ and es/ v1.0 deliverables were removed from the tree, so
+the input docx files no longer exist here; restore them from git history
+first if the reference JSON ever needs regenerating. The already-extracted
+docx_reference_en.json / docx_reference_es.json are kept because the
+transcription pass still reads them.
 """
 
 from __future__ import annotations
