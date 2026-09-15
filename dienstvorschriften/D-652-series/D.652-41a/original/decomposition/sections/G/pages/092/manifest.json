@@ -1,0 +1,18 @@
+{
+  "page": 92,
+  "section": "G",
+  "pdf_page": 56,
+  "side": "whole",
+  "source_scan": "source.jpg",
+  "content": "content.json",
+  "source_scan_status": "extracted_clean",
+  "transcription_status": "validated",
+  "translation_en_status": "validated",
+  "translation_es_status": "validated",
+  "figures": [
+    {
+      "number": 21,
+      "status": "validated"
+    }
+  ]
+}

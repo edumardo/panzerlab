@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "groups": [
+    {
+      "id": "TEXT",
+      "titles": {
+        "de": "Text (Titelseite bis Fahrvorschrift)",
+        "en-GB": null,
+        "es-ES": null
+      },
+      "sections": [
+        {
+          "id": "FrontMatter",
+          "page": 1,
+          "titles": {
+            "de": "Titelseite, Inhalt, Vorbemerkungen, A. Technische Angaben, B. Beschreibung §1-2",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../frontmatter/manifest.json"
+        },
+        {
+          "id": "S01",
+          "page": 11,
+          "titles": {
+            "de": "B. Beschreibung §3-4: Panzerwanne, Motor",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../sections/S01/manifest.json"
+        },
+        {
+          "id": "S02",
+          "page": 17,
+          "titles": {
+            "de": "B. Beschreibung §5-9: Hauptkupplung, Wechselgetriebe, Kegel-/Lenkgetriebe, Stütz-/Lenkbremse, Kraftübertragung",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../sections/S02/manifest.json"
+        },
+        {
+          "id": "S03",
+          "page": 26,
+          "titles": {
+            "de": "B. Beschreibung §10-17: Seitenvorgelege, Laufwerk, Gestänge, Elektrik, Schalttafel, Werkzeug, Hilfsgerät, Schanzzeug",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../sections/S03/manifest.json"
+        },
+        {
+          "id": "S04",
+          "page": 34,
+          "titles": {
+            "de": "C. Schmieren §18-19 + D. Aus-/Einbau §20-24 (Anfang)",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../sections/S04/manifest.json"
+        },
+        {
+          "id": "S05",
+          "page": 48,
+          "titles": {
+            "de": "D. Aus-/Einbau §24 (Forts.)-28",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../sections/S05/manifest.json"
+        },
+        {
+          "id": "S06",
+          "page": 65,
+          "titles": {
+            "de": "E. Sondervorschriften §29-30 + F. Fahrvorschrift §31-32",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "manifest": "../sections/S06/manifest.json"
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "titles": {
+        "de": "G. Bilder",
+        "en-GB": "G. Plates",
+        "es-ES": "G. Láminas"
+      },
+      "plates": [
+        {
+          "bild": 1,
+          "page": 74,
+          "titles": {
+            "de": "Bild 1  Ansicht des Fahrgestells",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/074/manifest.json"
+        },
+        {
+          "bild": 2,
+          "page": 75,
+          "titles": {
+            "de": "Bild 2  Antriebsplan",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/075/manifest.json"
+        },
+        {
+          "bild": 3,
+          "page": 76,
+          "titles": {
+            "de": "Bild 3  Kühlanlage",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/076/manifest.json"
+        },
+        {
+          "bild": 4,
+          "page": 77,
+          "titles": {
+            "de": "Bild 4  Luftfilter / Kraftstofflagerung u. -förderung",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/077/manifest.json"
+        },
+        {
+          "bild": 5,
+          "page": 77,
+          "titles": {
+            "de": "Bild 5  Luftfilter / Kraftstofflagerung u. -förderung",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/077/manifest.json"
+        },
+        {
+          "bild": 6,
+          "page": 78,
+          "titles": {
+            "de": "Bild 6  Hauptkupplung",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/078/manifest.json"
+        },
+        {
+          "bild": 7,
+          "page": 79,
+          "titles": {
+            "de": "Bild 7  Wechselgetriebe",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/079/manifest.json"
+        },
+        {
+          "bild": 8,
+          "page": 80,
+          "titles": {
+            "de": "Bild 8  Lenkgetriebe",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/080/manifest.json"
+        },
+        {
+          "bild": 9,
+          "page": 81,
+          "titles": {
+            "de": "Bild 9  Schnitt durch Kegeltrieb",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/081/manifest.json"
+        },
+        {
+          "bild": 10,
+          "page": 82,
+          "titles": {
+            "de": "Bild 10  Lenkgetriebe Geradeausfahrt / Lenken",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/082/manifest.json"
+        },
+        {
+          "bild": 11,
+          "page": 82,
+          "titles": {
+            "de": "Bild 11  Lenkgetriebe Geradeausfahrt / Lenken",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/082/manifest.json"
+        },
+        {
+          "bild": 12,
+          "page": 83,
+          "titles": {
+            "de": "Bild 12  Stützbremse",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/083/manifest.json"
+        },
+        {
+          "bild": 13,
+          "page": 84,
+          "titles": {
+            "de": "Bild 13  Lenkbremse",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/084/manifest.json"
+        },
+        {
+          "bild": 14,
+          "page": 85,
+          "titles": {
+            "de": "Bild 14  Seitenvorgelege",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/085/manifest.json"
+        },
+        {
+          "bild": 15,
+          "page": 86,
+          "titles": {
+            "de": "Bild 15  Triebrad",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/086/manifest.json"
+        },
+        {
+          "bild": 16,
+          "page": 87,
+          "titles": {
+            "de": "Bild 16  Leitrad mit Kettenspanner",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/087/manifest.json"
+        },
+        {
+          "bild": 17,
+          "page": 88,
+          "titles": {
+            "de": "Bild 17  Laufwerk",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/088/manifest.json"
+        },
+        {
+          "bild": 18,
+          "page": 89,
+          "titles": {
+            "de": "Bild 18  Laufwerk",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/089/manifest.json"
+        },
+        {
+          "bild": 19,
+          "page": 90,
+          "titles": {
+            "de": "Bild 19  Stoßdämpfer",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/090/manifest.json"
+        },
+        {
+          "bild": 20,
+          "page": 91,
+          "titles": {
+            "de": "Bild 20  Schaltplan",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/091/manifest.json"
+        },
+        {
+          "bild": 21,
+          "page": 92,
+          "titles": {
+            "de": "Bild 21  Schmier- und Pflegeplan",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/092/manifest.json"
+        },
+        {
+          "bild": 22,
+          "page": 93,
+          "titles": {
+            "de": "Bild 22  Schmier- und Pflegeanweisung",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/093/manifest.json"
+        },
+        {
+          "bild": 23,
+          "page": 94,
+          "titles": {
+            "de": "Bild 23  Einstellbild Stützbremse / Lenkbremse",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/094/manifest.json"
+        },
+        {
+          "bild": 24,
+          "page": 94,
+          "titles": {
+            "de": "Bild 24  Einstellbild Stützbremse / Lenkbremse",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/094/manifest.json"
+        },
+        {
+          "bild": 25,
+          "page": 95,
+          "titles": {
+            "de": "Bild 25  Gestänge zur Stütz- und Lenkbremse",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/095/manifest.json"
+        },
+        {
+          "bild": 26,
+          "page": 96,
+          "titles": {
+            "de": "Bild 26  Lenkgetriebe m. Stützbremse, Ausbau",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/096/manifest.json"
+        },
+        {
+          "bild": 27,
+          "page": 97,
+          "titles": {
+            "de": "Bild 27  Lenkgetriebe m. Stützbremse, Einbau",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/097/manifest.json"
+        },
+        {
+          "bild": 28,
+          "page": 98,
+          "titles": {
+            "de": "Bild 28  Lenkgetriebe Einbau; Lenkbremse Aus-/Einbau",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/098/manifest.json"
+        },
+        {
+          "bild": 29,
+          "page": 99,
+          "titles": {
+            "de": "Bild 29  Seitenvorgelege, Aus- und Einbau",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": true,
+          "manifest": "../sections/G/pages/099/manifest.json"
+        },
+        {
+          "bild": 30,
+          "page": 100,
+          "titles": {
+            "de": "Bild 30  Laufwerk, Ausbau",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/100/manifest.json"
+        },
+        {
+          "bild": 31,
+          "page": 101,
+          "titles": {
+            "de": "Bild 31  Laufwerk, Einbau",
+            "en-GB": null,
+            "es-ES": null
+          },
+          "rotated": false,
+          "manifest": "../sections/G/pages/101/manifest.json"
+        }
+      ]
+    }
+  ]
+}

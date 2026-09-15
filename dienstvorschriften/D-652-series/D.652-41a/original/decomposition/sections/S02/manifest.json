@@ -1,0 +1,25 @@
+{
+  "id": "S02",
+  "pages": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "titles": {
+    "de": "B. Beschreibung §5-9: Hauptkupplung, Wechselgetriebe, Kegel-/Lenkgetriebe, Stütz-/Lenkbremse, Kraftübertragung",
+    "en-GB": "B. Description §5-9: Main clutch, change-speed gearbox, bevel drive/steering gears, support/steering brake, power transmission",
+    "es-ES": "B. Descripción §5-9: Embrague principal, caja de cambios, par cónico/mecanismos de dirección, freno de apoyo/freno de dirección, transmisión de fuerza"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

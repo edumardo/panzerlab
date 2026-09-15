@@ -1120,6 +1120,62 @@
       "en-GB": "oil seal (Simmerring)",
       "es-ES": "retén (simmerring)",
       "status": "validated"
+    },
+    {
+      "id": "series-term-160",
+      "de": "Panzerwanne",
+      "en-GB": "armoured hull",
+      "es-ES": "casco blindado",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-161",
+      "de": "Hauptkupplung",
+      "en-GB": "main clutch",
+      "es-ES": "embrague principal",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-162",
+      "de": "Wechselgetriebe",
+      "en-GB": "gearbox",
+      "es-ES": "caja de cambios",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-163",
+      "de": "Kegeltrieb",
+      "en-GB": "bevel drive",
+      "es-ES": "par cónico",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-164",
+      "de": "Lenkgetriebe",
+      "en-GB": "steering gear",
+      "es-ES": "mecanismo de dirección",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-165",
+      "de": "Stützbremse",
+      "en-GB": "support brake",
+      "es-ES": "freno de apoyo",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-166",
+      "de": "Lenkbremse",
+      "en-GB": "steering brake",
+      "es-ES": "freno de dirección",
+      "status": "validated"
+    },
+    {
+      "id": "series-term-167",
+      "de": "Seitenvorgelege",
+      "en-GB": "final drive",
+      "es-ES": "reductora final",
+      "status": "validated"
     }
   ]
 }

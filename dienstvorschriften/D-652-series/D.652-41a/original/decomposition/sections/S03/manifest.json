@@ -1,0 +1,24 @@
+{
+  "id": "S03",
+  "pages": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "titles": {
+    "de": "B. Beschreibung §10-17: Seitenvorgelege, Laufwerk, Gestänge, Elektrik, Schalttafel, Werkzeug, Hilfsgerät, Schanzzeug",
+    "en-GB": "B. Description §10-17: Final drives, running gear, linkages, electrical equipment, instrument panel, tools, auxiliary equipment, entrenching tools",
+    "es-ES": "B. Descripción §10-17: Reductoras finales, tren de rodaje, varillajes, equipo eléctrico, cuadro de mandos, herramienta, equipo auxiliar, útiles de zapa"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}

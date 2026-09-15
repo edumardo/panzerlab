@@ -54,10 +54,11 @@ translations, and document-processing utilities.
             └── bilingual/
 ```
 
-D.652-50c has no `en/` / `es/` directories: it uses the facsimile+translation
-`bilingual/` export exclusively (see the layout and bilingual-exports notes
-below), unlike documents translated as separate single-language exports
-(such as D.652-41a), which do keep per-language `en/` / `es/` directories.
+No document in the series keeps `en/` / `es/` directories: every one uses the
+facsimile+translation `bilingual/` export exclusively (see the layout and
+bilingual-exports notes below). D.652-41a was the last exception and was
+converted, its single-language v1.0 exports removed; they remain in git
+history and on its existing GitHub Release.
 
 `viewer/` is a generic, document-agnostic static viewer for validating any
 decomposition built per `docs/PDF_TO_CANONICAL_JSON.md`; `viewer/documents.json`
@@ -146,6 +147,13 @@ creating or changing a decomposition.
   crop images are then optional archival data, not a rendering requirement.
   Other sections keep the per-figure-crop layout until they adopt the
   facsimile approach.
+- `A4_landscape_facsimile_then_translation` is the same facsimile-then-
+  translation export mode, for sections whose printed page is itself a
+  landscape sheet that crosses the gutter and must never be split into
+  left/right halves (a plate spanning two book pages, for example). Used by
+  D.652-41a's `G` (plates) section: each source page carries one or two
+  `Bild` numbers, and the following translation page lists captions and
+  label keys for all of them.
 - `source_display.jpg` (when present next to a page's `source.jpg`) is a
   derived, regenerable crop that trims scan background/edges for display. It
   never replaces `source.jpg`, which stays as the untouched archival scan.
@@ -157,9 +165,11 @@ shared style rendered by `<series>/scripts/title_page.py`
 (`render_title_page`), confirmed 2026-09-08 against D.652-50c. The page
 shows, in order: designation, model/variant lines, an EN-then-ES-then-DE
 subtitle block, an EN-then-ES edition line, an org/date line, a credit block,
-and a version line. Colours, sizes, and spacing come from D.652-41a's
-compiled docx (`D.652-41a/en/D.652-41a_en_v1.0.docx`), extracted via
-python-docx introspection rather than eyeballed.
+and a version line. Colours, sizes, and spacing were taken from D.652-41a's
+compiled English docx via python-docx introspection rather than eyeballed.
+That docx is no longer in the tree (D.652-41a is bilingual-only now); the
+values it yielded live in `title_page.py` itself, and the file is still
+reachable in git history if they ever need re-deriving.
 
 A document's own export script imports `render_title_page` from the series
 script and supplies a local `title_page_spec.py` (see
@@ -167,9 +177,12 @@ script and supplies a local `title_page_spec.py` (see
 document's own designation, titles, and variants. Keep `credit_line`
 identical, word for word, across every document in the series; `source_line`
 must cite that specific document's own source URL (`metadata.md` /
-`metadata.json`), not another document's. Page orientation follows whatever
-the rest of that document's export already uses (A4 portrait for D.652-50c's
-facsimile pages) rather than forcing D.652-41a's landscape.
+`metadata.json`), not another document's. The title page itself is always A4
+portrait, the series standard. A document whose scans are not all the same
+shape sets orientation per page from the scan rather than per section: see
+`D.652-41a/original/decomposition/scripts/export_facsimile_pdf.py`, where 29
+of 101 pages are landscape plates and the section `layout` field would put
+them in the wrong box.
 
 ## Series-shared glossary
 
@@ -209,7 +222,7 @@ summary. Every catalogue table must include a **Status** column:
 - use `—` when a document directory does not exist;
 - link to the document when content exists;
 - list only what is actually present, for example
-  `[✓ original, ES, EN](D.652-41a/)`.
+  `[✓ original, bilingual EN/ES, validated](D.652-50a/)`.
 
 Update the series index whenever a document directory is created or gains a new
 source or translation.

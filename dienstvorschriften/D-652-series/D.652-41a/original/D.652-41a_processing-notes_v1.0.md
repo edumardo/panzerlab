@@ -7,6 +7,16 @@ produced, so the job can be reprocessed or extended later. Two editions exist, b
 
 Compiled for Eduardo Delgado Díaz — Asociación de Amigos del Museo Histórico Militar de Cartagena (AAMMILCAR).
 
+> **Superseded.** This file is the historical record of how the two v1.0
+> single-language editions were produced. D.652-41a has since moved to a
+> single bilingual facsimile+translation export, matching D.652-50a/b/c: the
+> `en/` and `es/` directories described in section 5 were removed and the
+> canonical output is now
+> `bilingual/D.652-41a_bilingual_full_v<version>.pdf`, generated from the
+> canonical JSON by
+> `original/decomposition/scripts/export_full_document.py`. The removed files
+> remain in git history. Everything below is kept as written.
+
 ---
 
 ## 1. Source document

@@ -1,0 +1,1019 @@
+{
+  "document_id": "d652-41a",
+  "source_pdf_pages": 65,
+  "sections": {
+    "FrontMatter": {
+      "printed_pages": [
+        0,
+        8
+      ],
+      "title_de": "Titelseite, Inhalt, Vorbemerkungen, A. Technische Angaben, B. Beschreibung §1-2"
+    },
+    "S01": {
+      "printed_pages": [
+        9,
+        14
+      ],
+      "title_de": "B. Beschreibung §3-4: Panzerwanne, Motor"
+    },
+    "S02": {
+      "printed_pages": [
+        15,
+        23
+      ],
+      "title_de": "B. Beschreibung §5-9: Hauptkupplung, Wechselgetriebe, Kegel-/Lenkgetriebe, Stütz-/Lenkbremse, Kraftübertragung"
+    },
+    "S03": {
+      "printed_pages": [
+        24,
+        31
+      ],
+      "title_de": "B. Beschreibung §10-17: Seitenvorgelege, Laufwerk, Gestänge, Elektrik, Schalttafel, Werkzeug, Hilfsgerät, Schanzzeug"
+    },
+    "S04": {
+      "printed_pages": [
+        32,
+        45
+      ],
+      "title_de": "C. Schmieren §18-19 + D. Aus-/Einbau §20-24 (Anfang)"
+    },
+    "S05": {
+      "printed_pages": [
+        46,
+        62
+      ],
+      "title_de": "D. Aus-/Einbau §24 (Forts.)-28"
+    },
+    "S06": {
+      "printed_pages": [
+        63,
+        70
+      ],
+      "title_de": "E. Sondervorschriften §29-30 + F. Fahrvorschrift §31-32 (Seite 70 = leere Rückseite)"
+    },
+    "G": {
+      "sheets": [
+        38,
+        65
+      ],
+      "bild_range": [
+        1,
+        31
+      ],
+      "title_de": "G. Bilder"
+    }
+  },
+  "pages": [
+    {
+      "printed_page": "cover",
+      "section": "FrontMatter",
+      "pdf_page": 1,
+      "side": "whole",
+      "kind": "cover",
+      "page": 1
+    },
+    {
+      "printed_page": 0,
+      "section": "FrontMatter",
+      "pdf_page": 2,
+      "side": "left",
+      "kind": "text",
+      "page": 2
+    },
+    {
+      "printed_page": 1,
+      "section": "FrontMatter",
+      "pdf_page": 2,
+      "side": "right",
+      "kind": "text",
+      "page": 3
+    },
+    {
+      "printed_page": 2,
+      "section": "FrontMatter",
+      "pdf_page": 3,
+      "side": "left",
+      "kind": "text",
+      "page": 4
+    },
+    {
+      "printed_page": 3,
+      "section": "FrontMatter",
+      "pdf_page": 3,
+      "side": "right",
+      "kind": "text",
+      "page": 5
+    },
+    {
+      "printed_page": 4,
+      "section": "FrontMatter",
+      "pdf_page": 4,
+      "side": "left",
+      "kind": "text",
+      "page": 6
+    },
+    {
+      "printed_page": 5,
+      "section": "FrontMatter",
+      "pdf_page": 4,
+      "side": "right",
+      "kind": "text",
+      "page": 7
+    },
+    {
+      "printed_page": 6,
+      "section": "FrontMatter",
+      "pdf_page": 5,
+      "side": "left",
+      "kind": "text",
+      "page": 8
+    },
+    {
+      "printed_page": 7,
+      "section": "FrontMatter",
+      "pdf_page": 5,
+      "side": "right",
+      "kind": "text",
+      "page": 9
+    },
+    {
+      "printed_page": 8,
+      "section": "FrontMatter",
+      "pdf_page": 6,
+      "side": "left",
+      "kind": "text",
+      "page": 10
+    },
+    {
+      "printed_page": 9,
+      "section": "S01",
+      "pdf_page": 6,
+      "side": "right",
+      "kind": "text",
+      "page": 11
+    },
+    {
+      "printed_page": 10,
+      "section": "S01",
+      "pdf_page": 7,
+      "side": "left",
+      "kind": "text",
+      "page": 12
+    },
+    {
+      "printed_page": 11,
+      "section": "S01",
+      "pdf_page": 7,
+      "side": "right",
+      "kind": "text",
+      "page": 13
+    },
+    {
+      "printed_page": 12,
+      "section": "S01",
+      "pdf_page": 8,
+      "side": "left",
+      "kind": "text",
+      "page": 14
+    },
+    {
+      "printed_page": 13,
+      "section": "S01",
+      "pdf_page": 8,
+      "side": "right",
+      "kind": "text",
+      "page": 15
+    },
+    {
+      "printed_page": 14,
+      "section": "S01",
+      "pdf_page": 9,
+      "side": "left",
+      "kind": "text",
+      "page": 16
+    },
+    {
+      "printed_page": 15,
+      "section": "S02",
+      "pdf_page": 9,
+      "side": "right",
+      "kind": "text",
+      "page": 17
+    },
+    {
+      "printed_page": 16,
+      "section": "S02",
+      "pdf_page": 10,
+      "side": "left",
+      "kind": "text",
+      "page": 18
+    },
+    {
+      "printed_page": 17,
+      "section": "S02",
+      "pdf_page": 10,
+      "side": "right",
+      "kind": "text",
+      "page": 19
+    },
+    {
+      "printed_page": 18,
+      "section": "S02",
+      "pdf_page": 11,
+      "side": "left",
+      "kind": "text",
+      "page": 20
+    },
+    {
+      "printed_page": 19,
+      "section": "S02",
+      "pdf_page": 11,
+      "side": "right",
+      "kind": "text",
+      "page": 21
+    },
+    {
+      "printed_page": 20,
+      "section": "S02",
+      "pdf_page": 12,
+      "side": "left",
+      "kind": "text",
+      "page": 22
+    },
+    {
+      "printed_page": 21,
+      "section": "S02",
+      "pdf_page": 12,
+      "side": "right",
+      "kind": "text",
+      "page": 23
+    },
+    {
+      "printed_page": 22,
+      "section": "S02",
+      "pdf_page": 13,
+      "side": "left",
+      "kind": "text",
+      "page": 24
+    },
+    {
+      "printed_page": 23,
+      "section": "S02",
+      "pdf_page": 13,
+      "side": "right",
+      "kind": "text",
+      "page": 25
+    },
+    {
+      "printed_page": 24,
+      "section": "S03",
+      "pdf_page": 14,
+      "side": "left",
+      "kind": "text",
+      "page": 26
+    },
+    {
+      "printed_page": 25,
+      "section": "S03",
+      "pdf_page": 14,
+      "side": "right",
+      "kind": "text",
+      "page": 27
+    },
+    {
+      "printed_page": 26,
+      "section": "S03",
+      "pdf_page": 15,
+      "side": "left",
+      "kind": "text",
+      "page": 28
+    },
+    {
+      "printed_page": 27,
+      "section": "S03",
+      "pdf_page": 15,
+      "side": "right",
+      "kind": "text",
+      "page": 29
+    },
+    {
+      "printed_page": 28,
+      "section": "S03",
+      "pdf_page": 16,
+      "side": "left",
+      "kind": "text",
+      "page": 30
+    },
+    {
+      "printed_page": 29,
+      "section": "S03",
+      "pdf_page": 16,
+      "side": "right",
+      "kind": "text",
+      "page": 31
+    },
+    {
+      "printed_page": 30,
+      "section": "S03",
+      "pdf_page": 17,
+      "side": "left",
+      "kind": "text",
+      "page": 32
+    },
+    {
+      "printed_page": 31,
+      "section": "S03",
+      "pdf_page": 17,
+      "side": "right",
+      "kind": "text",
+      "page": 33
+    },
+    {
+      "printed_page": 32,
+      "section": "S04",
+      "pdf_page": 18,
+      "side": "left",
+      "kind": "text",
+      "page": 34
+    },
+    {
+      "printed_page": 33,
+      "section": "S04",
+      "pdf_page": 18,
+      "side": "right",
+      "kind": "text",
+      "page": 35
+    },
+    {
+      "printed_page": 34,
+      "section": "S04",
+      "pdf_page": 19,
+      "side": "left",
+      "kind": "text",
+      "page": 36
+    },
+    {
+      "printed_page": 35,
+      "section": "S04",
+      "pdf_page": 19,
+      "side": "right",
+      "kind": "text",
+      "page": 37
+    },
+    {
+      "printed_page": 36,
+      "section": "S04",
+      "pdf_page": 20,
+      "side": "left",
+      "kind": "text",
+      "page": 38
+    },
+    {
+      "printed_page": 37,
+      "section": "S04",
+      "pdf_page": 20,
+      "side": "right",
+      "kind": "text",
+      "page": 39
+    },
+    {
+      "printed_page": 38,
+      "section": "S04",
+      "pdf_page": 21,
+      "side": "left",
+      "kind": "text",
+      "page": 40
+    },
+    {
+      "printed_page": 39,
+      "section": "S04",
+      "pdf_page": 21,
+      "side": "right",
+      "kind": "text",
+      "page": 41
+    },
+    {
+      "printed_page": 40,
+      "section": "S04",
+      "pdf_page": 22,
+      "side": "left",
+      "kind": "text",
+      "page": 42
+    },
+    {
+      "printed_page": 41,
+      "section": "S04",
+      "pdf_page": 22,
+      "side": "right",
+      "kind": "text",
+      "page": 43
+    },
+    {
+      "printed_page": 42,
+      "section": "S04",
+      "pdf_page": 23,
+      "side": "left",
+      "kind": "text",
+      "page": 44
+    },
+    {
+      "printed_page": 43,
+      "section": "S04",
+      "pdf_page": 23,
+      "side": "right",
+      "kind": "text",
+      "page": 45
+    },
+    {
+      "printed_page": 44,
+      "section": "S04",
+      "pdf_page": 24,
+      "side": "left",
+      "kind": "text",
+      "page": 46
+    },
+    {
+      "printed_page": 45,
+      "section": "S04",
+      "pdf_page": 24,
+      "side": "right",
+      "kind": "text",
+      "page": 47
+    },
+    {
+      "printed_page": 46,
+      "section": "S05",
+      "pdf_page": 25,
+      "side": "left",
+      "kind": "text",
+      "page": 48
+    },
+    {
+      "printed_page": 47,
+      "section": "S05",
+      "pdf_page": 25,
+      "side": "right",
+      "kind": "text",
+      "page": 49
+    },
+    {
+      "printed_page": 48,
+      "section": "S05",
+      "pdf_page": 26,
+      "side": "left",
+      "kind": "text",
+      "page": 50
+    },
+    {
+      "printed_page": 49,
+      "section": "S05",
+      "pdf_page": 26,
+      "side": "right",
+      "kind": "text",
+      "page": 51
+    },
+    {
+      "printed_page": 50,
+      "section": "S05",
+      "pdf_page": 27,
+      "side": "left",
+      "kind": "text",
+      "page": 52
+    },
+    {
+      "printed_page": 51,
+      "section": "S05",
+      "pdf_page": 27,
+      "side": "right",
+      "kind": "text",
+      "page": 53
+    },
+    {
+      "printed_page": 52,
+      "section": "S05",
+      "pdf_page": 28,
+      "side": "left",
+      "kind": "text",
+      "page": 54
+    },
+    {
+      "printed_page": 53,
+      "section": "S05",
+      "pdf_page": 28,
+      "side": "right",
+      "kind": "text",
+      "page": 55
+    },
+    {
+      "printed_page": 54,
+      "section": "S05",
+      "pdf_page": 29,
+      "side": "left",
+      "kind": "text",
+      "page": 56
+    },
+    {
+      "printed_page": 55,
+      "section": "S05",
+      "pdf_page": 29,
+      "side": "right",
+      "kind": "text",
+      "page": 57
+    },
+    {
+      "printed_page": 56,
+      "section": "S05",
+      "pdf_page": 30,
+      "side": "left",
+      "kind": "text",
+      "page": 58
+    },
+    {
+      "printed_page": 57,
+      "section": "S05",
+      "pdf_page": 30,
+      "side": "right",
+      "kind": "text",
+      "page": 59
+    },
+    {
+      "printed_page": 58,
+      "section": "S05",
+      "pdf_page": 31,
+      "side": "left",
+      "kind": "text",
+      "page": 60
+    },
+    {
+      "printed_page": 59,
+      "section": "S05",
+      "pdf_page": 31,
+      "side": "right",
+      "kind": "text",
+      "page": 61
+    },
+    {
+      "printed_page": 60,
+      "section": "S05",
+      "pdf_page": 32,
+      "side": "left",
+      "kind": "text",
+      "page": 62
+    },
+    {
+      "printed_page": 61,
+      "section": "S05",
+      "pdf_page": 32,
+      "side": "right",
+      "kind": "text",
+      "page": 63
+    },
+    {
+      "printed_page": 62,
+      "section": "S05",
+      "pdf_page": 33,
+      "side": "left",
+      "kind": "text",
+      "page": 64
+    },
+    {
+      "printed_page": 63,
+      "section": "S06",
+      "pdf_page": 33,
+      "side": "right",
+      "kind": "text",
+      "page": 65
+    },
+    {
+      "printed_page": 64,
+      "section": "S06",
+      "pdf_page": 34,
+      "side": "left",
+      "kind": "text",
+      "page": 66
+    },
+    {
+      "printed_page": 65,
+      "section": "S06",
+      "pdf_page": 34,
+      "side": "right",
+      "kind": "text",
+      "page": 67
+    },
+    {
+      "printed_page": 66,
+      "section": "S06",
+      "pdf_page": 35,
+      "side": "left",
+      "kind": "text",
+      "page": 68
+    },
+    {
+      "printed_page": 67,
+      "section": "S06",
+      "pdf_page": 35,
+      "side": "right",
+      "kind": "text",
+      "page": 69
+    },
+    {
+      "printed_page": 68,
+      "section": "S06",
+      "pdf_page": 36,
+      "side": "left",
+      "kind": "text",
+      "page": 70
+    },
+    {
+      "printed_page": 69,
+      "section": "S06",
+      "pdf_page": 36,
+      "side": "right",
+      "kind": "text",
+      "page": 71
+    },
+    {
+      "printed_page": 70,
+      "section": "S06",
+      "pdf_page": 37,
+      "side": "left",
+      "kind": "blank",
+      "page": 72
+    },
+    {
+      "printed_page": 71,
+      "section": "G",
+      "pdf_page": 37,
+      "side": "right",
+      "kind": "divider",
+      "page": 73
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 38,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        1
+      ],
+      "rotated": false,
+      "title_de": "Ansicht des Fahrgestells",
+      "page": 74
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 39,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        2
+      ],
+      "rotated": false,
+      "title_de": "Antriebsplan",
+      "page": 75
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 40,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        3
+      ],
+      "rotated": false,
+      "title_de": "Kühlanlage",
+      "page": 76
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 41,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        4,
+        5
+      ],
+      "rotated": true,
+      "title_de": "Luftfilter / Kraftstofflagerung u. -förderung",
+      "page": 77
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 42,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        6
+      ],
+      "rotated": false,
+      "title_de": "Hauptkupplung",
+      "page": 78
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 43,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        7
+      ],
+      "rotated": false,
+      "title_de": "Wechselgetriebe",
+      "page": 79
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 44,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        8
+      ],
+      "rotated": false,
+      "title_de": "Lenkgetriebe",
+      "page": 80
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 45,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        9
+      ],
+      "rotated": false,
+      "title_de": "Schnitt durch Kegeltrieb",
+      "page": 81
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 46,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        10,
+        11
+      ],
+      "rotated": true,
+      "title_de": "Lenkgetriebe Geradeausfahrt / Lenken",
+      "page": 82
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 47,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        12
+      ],
+      "rotated": false,
+      "title_de": "Stützbremse",
+      "page": 83
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 48,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        13
+      ],
+      "rotated": false,
+      "title_de": "Lenkbremse",
+      "page": 84
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 49,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        14
+      ],
+      "rotated": false,
+      "title_de": "Seitenvorgelege",
+      "page": 85
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 50,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        15
+      ],
+      "rotated": false,
+      "title_de": "Triebrad",
+      "page": 86
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 51,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        16
+      ],
+      "rotated": true,
+      "title_de": "Leitrad mit Kettenspanner",
+      "page": 87
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 52,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        17
+      ],
+      "rotated": false,
+      "title_de": "Laufwerk",
+      "page": 88
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 53,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        18
+      ],
+      "rotated": true,
+      "title_de": "Laufwerk",
+      "page": 89
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 54,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        19
+      ],
+      "rotated": true,
+      "title_de": "Stoßdämpfer",
+      "page": 90
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 55,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        20
+      ],
+      "rotated": true,
+      "title_de": "Schaltplan",
+      "page": 91
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 56,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        21
+      ],
+      "rotated": false,
+      "title_de": "Schmier- und Pflegeplan",
+      "page": 92
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 57,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        22
+      ],
+      "rotated": true,
+      "title_de": "Schmier- und Pflegeanweisung",
+      "page": 93
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 58,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        23,
+        24
+      ],
+      "rotated": true,
+      "title_de": "Einstellbild Stützbremse / Lenkbremse",
+      "page": 94
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 59,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        25
+      ],
+      "rotated": false,
+      "title_de": "Gestänge zur Stütz- und Lenkbremse",
+      "page": 95
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 60,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        26
+      ],
+      "rotated": false,
+      "title_de": "Lenkgetriebe m. Stützbremse, Ausbau",
+      "page": 96
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 61,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        27
+      ],
+      "rotated": false,
+      "title_de": "Lenkgetriebe m. Stützbremse, Einbau",
+      "page": 97
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 62,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        28
+      ],
+      "rotated": false,
+      "title_de": "Lenkgetriebe Einbau; Lenkbremse Aus-/Einbau",
+      "page": 98
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 63,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        29
+      ],
+      "rotated": true,
+      "title_de": "Seitenvorgelege, Aus- und Einbau",
+      "page": 99
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 64,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        30
+      ],
+      "rotated": false,
+      "title_de": "Laufwerk, Ausbau",
+      "page": 100
+    },
+    {
+      "printed_page": null,
+      "section": "G",
+      "pdf_page": 65,
+      "side": "whole",
+      "kind": "plate",
+      "bild_numbers": [
+        31
+      ],
+      "rotated": false,
+      "title_de": "Laufwerk, Einbau",
+      "page": 101
+    }
+  ]
+}

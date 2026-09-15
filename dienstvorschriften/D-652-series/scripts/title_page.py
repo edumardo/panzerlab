@@ -4,9 +4,10 @@ Confirmed as the series-wide format (2026-09-08) after reviewing D.652-50c's
 title page: A4 portrait, dark-olive-green title, bold black model lines, an
 EN-then-ES-then-DE subtitle block, an EN-then-ES edition line, then a grey
 org/date line, a credit block, and a version line. Colours and sizes were
-extracted from D.652-41a's compiled docx (D-652-series/D.652-41a/en/
-D.652-41a_en_v1.0.docx) via python-docx introspection of its actual runs and
-paragraph spacing, not eyeballed from the rendered PDF.
+extracted from D.652-41a's compiled English docx via python-docx
+introspection of its actual runs and paragraph spacing, not eyeballed from
+the rendered PDF. That docx was removed when D.652-41a became bilingual-only;
+it is still in git history if these values ever need re-deriving.
 
 A document's own export script imports render_title_page from here and
 supplies its own spec dict (see any D.652-*/original/decomposition/scripts/

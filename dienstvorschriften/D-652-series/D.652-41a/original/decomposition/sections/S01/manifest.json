@@ -1,0 +1,22 @@
+{
+  "id": "S01",
+  "pages": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "titles": {
+    "de": "B. Beschreibung §3-4: Panzerwanne, Motor",
+    "en-GB": "B. Description §3-4: Armoured hull (Panzerwanne), Engine (Motor)",
+    "es-ES": "B. Descripción §3-4: Casco blindado (Panzerwanne), Motor"
+  },
+  "output": {
+    "cover": false,
+    "header": false,
+    "footer": false
+  },
+  "layout": "A4_portrait_facsimile_then_translation"
+}
