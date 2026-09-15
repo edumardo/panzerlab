@@ -46,7 +46,7 @@ must be reviewed first.
 All 101 pages are split, imaged, transcribed, translated into en-GB and
 es-ES, and marked `validated`, as are the document's 169 glossary terms and
 its 31 figures (numbered 1-31, no gaps). The canonical compiled output is
-`../../bilingual/D.652-41a_bilingual_full_v1.0.pdf`. The earlier `en/` and
+`../../bilingual/D.652-41a_bilingual_full_v1.1.pdf`. The earlier `en/` and
 `es/` deliverables described in `../D.652-41a_processing-notes_v1.0.md` came
 from a separate build pipeline and were removed when this document moved to a
 bilingual-only export; they remain in git history.
@@ -82,7 +82,7 @@ Compiled bilingual output (needs `reportlab` and `pillow`):
 
 ```bash
 # run from original/decomposition/scripts/
-python3 export_full_document.py --output ../../../bilingual/D.652-41a_bilingual_full_v1.0.pdf
+python3 export_full_document.py --output ../../../bilingual/D.652-41a_bilingual_full_v1.1.pdf
 ```
 
 It refuses to run unless every page is `validated`; `--allow-draft` overrides
